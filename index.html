@@ -64,13 +64,15 @@
   }
 
   /* KPI row */
-  .kpi-row { display:grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 16px; }
-  @media (max-width: 1100px) { .kpi-row { grid-template-columns: repeat(3,1fr); } }
-  @media (max-width: 640px) { .kpi-row { grid-template-columns: repeat(2,1fr); } }
+  .kpi-row { display:grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 12px; margin-bottom: 16px; }
+  @media (max-width: 1100px) { .kpi-row { grid-template-columns: repeat(3,minmax(0,1fr)); } }
+  @media (max-width: 640px) { .kpi-row { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+  @media (max-width: 460px) { .kpi-row { grid-template-columns: minmax(0,1fr); } }
   .kpi-tile {
     background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
     border: 2px solid #ffffff; border-radius: 14px;
     padding: 16px 16px; box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+    min-width: 0;
   }
   .kpi-tile.featured, .kpi-tile.featured-red {
     border-color: #ffffff;
@@ -100,11 +102,11 @@
   .reset-btn:hover { color: var(--text-primary); }
 
   /* Cards / grid */
-  .row-2 { display:grid; grid-template-columns: 1.3fr 1fr; gap: 16px; margin-bottom: 16px; align-items: stretch; }
-  @media (max-width: 980px) { .row-2 { grid-template-columns: 1fr; } }
+  .row-2 { display:grid; grid-template-columns: minmax(0,1.3fr) minmax(0,1fr); gap: 16px; margin-bottom: 16px; align-items: stretch; }
+  @media (max-width: 980px) { .row-2 { grid-template-columns: minmax(0,1fr); } }
   .card {
     background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px;
-    position: relative; box-shadow: 0 3px 14px rgba(0,0,0,0.20);
+    position: relative; box-shadow: 0 3px 14px rgba(0,0,0,0.20); min-width: 0;
   }
   .card h2 { font-size: 15px; margin: 0 0 2px; font-weight: 700; }
   .card .card-sub { font-size: 11.5px; color: var(--text-muted); margin-bottom: 14px; }
@@ -115,6 +117,12 @@
     background: var(--surface-3); color: var(--text-secondary); cursor: pointer;
   }
   .metric-btn.active { background: var(--series-1); border-color: var(--series-1); color: #fff; }
+  /* Em telas estreitas o título/subtítulo do card não cabe mais ao lado do
+     toggle (que é absolute) — em vez de ficar por cima do texto quebrado, o
+     toggle passa a fluir normalmente logo abaixo do título. */
+  @media (max-width: 640px) {
+    .metric-toggle { position: static; margin: 10px 0 2px; flex-wrap: wrap; }
+  }
 
   svg text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
   .axis-label { fill: var(--text-muted); font-size: 10px; }
@@ -131,6 +139,19 @@
   }
   @media (max-width: 720px) {
     .sankey-side-label { font-size: 15px; }
+  }
+  /* Gráficos SVG (Sankey, ranking de veículos, rotas mais movimentadas): em
+     telas estreitas, encolher tudo pra caber na largura (width:100%) deixa o
+     texto ilegível de tão pequeno. Em vez disso, a partir daqui eles mantêm
+     um tamanho legível de verdade e ficam com rolagem horizontal própria —
+     dá pra arrastar o gráfico pros lados sem quebrar o layout da página. */
+  @media (max-width: 640px) {
+    .sankey-row { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
+    .sankey-row svg { flex: 0 0 auto; min-width: 680px; }
+    .chart-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .chart-scroll svg { max-width: none; }
+    #chart-vehicles { width: 620px; }
+    #chart-routes { width: 440px; }
   }
 
   .tooltip {
@@ -321,7 +342,9 @@
         <div class="metric-btn" data-metric="peso">Peso</div>
         <div class="metric-btn active" data-metric="frete">Frete</div>
       </div>
-      <svg id="chart-vehicles" width="100%" height="460" viewBox="0 0 720 460" preserveAspectRatio="xMidYMid meet"></svg>
+      <div class="chart-scroll">
+        <svg id="chart-vehicles" width="100%" height="460" viewBox="0 0 720 460" preserveAspectRatio="xMidYMid meet"></svg>
+      </div>
     </div>
 
     <div class="row-2">
@@ -350,7 +373,9 @@
       <div class="card">
         <h2>Rotas mais movimentadas</h2>
         <div class="card-sub">Top 12 de <span id="rotas-total">—</span> rotas entre unidades</div>
-        <svg id="chart-routes" width="100%" height="420" viewBox="0 0 480 420" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="chart-scroll">
+          <svg id="chart-routes" width="100%" height="420" viewBox="0 0 480 420" preserveAspectRatio="xMidYMid meet"></svg>
+        </div>
       </div>
     </div>
 
