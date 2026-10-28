@@ -107,12 +107,32 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "ITJ023927-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 2763.04,
+        "frete_rs": 4079.36,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 10520.58,
         "frete_rs": 13562.33,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 2763.04,
+        "frete_rs": 4079.36,
         "qtde": 1
       }
     }
