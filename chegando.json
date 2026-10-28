@@ -12,8 +12,13 @@
         "peso_real_kg": 3110.55,
         "frete_rs": 3989.53,
         "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "28/10/2026 16:55:21",
+          "lat": -27.8238368,
+          "lon": -50.3628
+        },
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -27,8 +32,13 @@
         "peso_real_kg": 4077.77,
         "frete_rs": 8278.45,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.4 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "28/10/2026 16:55:45",
+          "lat": -23.568865,
+          "lon": -46.8145466666667
+        },
+        "distancia_km": 494.6,
         "proximo": false
       },
       {
@@ -42,8 +52,13 @@
         "peso_real_kg": 2235.96,
         "frete_rs": 4105.77,
         "grupo_origem": "Porto Alegre",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "28/10/2026 16:55:21",
+          "lat": -27.8238368,
+          "lon": -50.3628
+        },
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -124,7 +139,12 @@
         "peso_real_kg": 4792.98,
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
-        "posicao_raster": null,
+        "posicao_raster": {
+          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "28/10/2026 16:56:10",
+          "lat": -26.3469296,
+          "lon": -48.8571392
+        },
         "distancia_km": null,
         "proximo": false
       },
@@ -139,7 +159,12 @@
         "peso_real_kg": 2302.16,
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
+        "posicao_raster": {
+          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "28/10/2026 16:56:10",
+          "lat": -26.3469296,
+          "lon": -48.8571392
+        },
         "distancia_km": null,
         "proximo": false
       },
@@ -154,7 +179,12 @@
         "peso_real_kg": 7224.6,
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
+        "posicao_raster": {
+          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "28/10/2026 16:56:10",
+          "lat": -26.3469296,
+          "lon": -48.8571392
+        },
         "distancia_km": null,
         "proximo": false
       },
@@ -169,7 +199,12 @@
         "peso_real_kg": 339.94,
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
-        "posicao_raster": null,
+        "posicao_raster": {
+          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "28/10/2026 16:56:10",
+          "lat": -26.3469296,
+          "lon": -48.8571392
+        },
         "distancia_km": null,
         "proximo": false
       }
@@ -205,7 +240,12 @@
         "peso_real_kg": 2281.4,
         "frete_rs": 3661.32,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
+        "posicao_raster": {
+          "referencia": "1.15 km de POSTO GRISS - SAO DOMINGOS/SC",
+          "data_hora_posicao": "28/10/2026 16:54:49",
+          "lat": -26.5597958,
+          "lon": -52.5428021
+        },
         "distancia_km": null,
         "proximo": false
       }
@@ -231,9 +271,14 @@
         "peso_real_kg": 5155.67,
         "frete_rs": 4136.3,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
+        "posicao_raster": {
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "28/10/2026 16:54:34",
+          "lat": -29.9833983333333,
+          "lon": -51.1866783333333
+        },
+        "distancia_km": 0.0,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -257,8 +302,13 @@
         "peso_real_kg": 4286.5,
         "frete_rs": 2278.07,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.04 km de CONCESSIONARIA VOLVO - RIO DO SUL/SC",
+          "data_hora_posicao": "28/10/2026 16:54:34",
+          "lat": -27.1780352,
+          "lon": -49.5942944
+        },
+        "distancia_km": 518.6,
         "proximo": false
       },
       {
@@ -272,8 +322,13 @@
         "peso_real_kg": 10026.43,
         "frete_rs": 8240.07,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.04 km de CONCESSIONARIA VOLVO - RIO DO SUL/SC",
+          "data_hora_posicao": "28/10/2026 16:54:34",
+          "lat": -27.1780352,
+          "lon": -49.5942944
+        },
+        "distancia_km": 518.6,
         "proximo": false
       }
     ],
