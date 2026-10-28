@@ -1,50 +1,4 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002227-6",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 470.0,
-        "frete_rs": 564.72,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016166-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 1554.28,
-        "frete_rs": 1533.77,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 470.0,
-        "frete_rs": 564.72,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 1554.28,
-        "frete_rs": 1533.77,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -58,6 +12,21 @@
         "peso_real_kg": 3110.55,
         "frete_rs": 3989.53,
         "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU073976-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 4077.77,
+        "frete_rs": 8278.45,
+        "grupo_origem": "Guarulhos",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -82,6 +51,11 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 3110.55,
         "frete_rs": 3989.53,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 4077.77,
+        "frete_rs": 8278.45,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -137,34 +111,23 @@
       }
     }
   },
-  "JCB": {
+  "CMP": {
     "veiculos": [
       {
-        "manif": "RSL044009-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 2281.4,
-        "frete_rs": 3661.32,
-        "grupo_origem": "Rio do Sul",
+        "manif": "ITJ023929-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 4792.98,
+        "frete_rs": 6224.45,
+        "grupo_origem": "Itajaí",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2281.4,
-        "frete_rs": 3661.32,
-        "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
+      },
       {
         "manif": "RSL044037-0",
         "origin_unit": "RSL",
@@ -212,6 +175,11 @@
       }
     ],
     "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4792.98,
+        "frete_rs": 6224.45,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 9526.76,
         "frete_rs": 9072.92,
@@ -220,6 +188,32 @@
       "Timbó": {
         "peso_kg": 339.94,
         "frete_rs": 1162.33,
+        "qtde": 1
+      }
+    }
+  },
+  "JCB": {
+    "veiculos": [
+      {
+        "manif": "RSL044009-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "JCB",
+        "dest_city": "JOACABA/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 2281.4,
+        "frete_rs": 3661.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2281.4,
+        "frete_rs": 3661.32,
         "qtde": 1
       }
     }
