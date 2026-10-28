@@ -1,0 +1,253 @@
+{
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002227-6",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 470.0,
+        "frete_rs": 564.72,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016166-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 1554.28,
+        "frete_rs": 1533.77,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 470.0,
+        "frete_rs": 564.72,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 1554.28,
+        "frete_rs": 1533.77,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CXS002228-4",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3110.55,
+        "frete_rs": 3989.53,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU073924-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 6894.42,
+        "frete_rs": 14430.06,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016167-5",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 2235.96,
+        "frete_rs": 4105.77,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 3110.55,
+        "frete_rs": 3989.53,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 6894.42,
+        "frete_rs": 14430.06,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 2235.96,
+        "frete_rs": 4105.77,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU073926-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 10520.58,
+        "frete_rs": 13562.33,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 10520.58,
+        "frete_rs": 13562.33,
+        "qtde": 1
+      }
+    }
+  },
+  "JCB": {
+    "veiculos": [
+      {
+        "manif": "RSL044009-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "JCB",
+        "dest_city": "JOACABA/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 2281.4,
+        "frete_rs": 3661.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2281.4,
+        "frete_rs": 3661.32,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "RSL044037-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2302.16,
+        "frete_rs": 2161.96,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044039-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 7224.6,
+        "frete_rs": 6910.96,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016266-3",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 339.94,
+        "frete_rs": 1162.33,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 9526.76,
+        "frete_rs": 9072.92,
+        "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 339.94,
+        "frete_rs": 1162.33,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "RSL044046-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 5155.67,
+        "frete_rs": 4136.3,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 5155.67,
+        "frete_rs": 4136.3,
+        "qtde": 1
+      }
+    }
+  }
+}
