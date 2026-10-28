@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "28/10/2026 16:55:21",
+          "data_hora_posicao": "28/10/2026 17:29:21",
           "lat": -27.8238368,
           "lon": -50.3628
         },
@@ -33,12 +33,12 @@
         "frete_rs": 8278.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.4 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "28/10/2026 16:55:45",
-          "lat": -23.568865,
-          "lon": -46.8145466666667
+          "referencia": "0.16 km de PRESIDENTE 6 AUTO POSTO LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "28/10/2026 17:29:44",
+          "lat": -23.684625,
+          "lon": -46.8594533333333
         },
-        "distancia_km": 494.6,
+        "distancia_km": 481.4,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "28/10/2026 16:55:21",
+          "data_hora_posicao": "28/10/2026 17:29:21",
           "lat": -27.8238368,
           "lon": -50.3628
         },
@@ -140,10 +140,10 @@
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "28/10/2026 16:56:10",
-          "lat": -26.3469296,
-          "lon": -48.8571392
+          "referencia": "0.16 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "28/10/2026 17:29:00",
+          "lat": -26.1014688,
+          "lon": -48.8692352
         },
         "distancia_km": null,
         "proximo": false
@@ -160,10 +160,10 @@
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "28/10/2026 16:56:10",
-          "lat": -26.3469296,
-          "lon": -48.8571392
+          "referencia": "0.16 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "28/10/2026 17:29:00",
+          "lat": -26.1014688,
+          "lon": -48.8692352
         },
         "distancia_km": null,
         "proximo": false
@@ -180,10 +180,10 @@
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "28/10/2026 16:56:10",
-          "lat": -26.3469296,
-          "lon": -48.8571392
+          "referencia": "0.16 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "28/10/2026 17:29:00",
+          "lat": -26.1014688,
+          "lon": -48.8692352
         },
         "distancia_km": null,
         "proximo": false
@@ -200,10 +200,10 @@
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.1 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "28/10/2026 16:56:10",
-          "lat": -26.3469296,
-          "lon": -48.8571392
+          "referencia": "0.16 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "28/10/2026 17:29:00",
+          "lat": -26.1014688,
+          "lon": -48.8692352
         },
         "distancia_km": null,
         "proximo": false
@@ -227,6 +227,37 @@
       }
     }
   },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ023931-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2771.02,
+        "frete_rs": 3139.55,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.26 km de POSTO MIME (FILIAL 32) - ITAJAI/SC",
+          "data_hora_posicao": "28/10/2026 17:29:31",
+          "lat": -26.9385811,
+          "lon": -48.7021041
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 2771.02,
+        "frete_rs": 3139.55,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -241,10 +272,10 @@
         "frete_rs": 3661.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTO GRISS - SAO DOMINGOS/SC",
-          "data_hora_posicao": "28/10/2026 16:54:49",
-          "lat": -26.5597958,
-          "lon": -52.5428021
+          "referencia": "4.06 km de POSTO COLPANI - BOM JESUS/SC",
+          "data_hora_posicao": "28/10/2026 17:29:07",
+          "lat": -26.7104276,
+          "lon": -52.4205115
         },
         "distancia_km": null,
         "proximo": false
@@ -254,37 +285,6 @@
       "Rio do Sul": {
         "peso_kg": 2281.4,
         "frete_rs": 3661.32,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "RSL044046-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 5155.67,
-        "frete_rs": 4136.3,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "28/10/2026 16:54:34",
-          "lat": -29.9833983333333,
-          "lon": -51.1866783333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 5155.67,
-        "frete_rs": 4136.3,
         "qtde": 1
       }
     }
@@ -303,12 +303,12 @@
         "frete_rs": 2278.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de CONCESSIONARIA VOLVO - RIO DO SUL/SC",
-          "data_hora_posicao": "28/10/2026 16:54:34",
-          "lat": -27.1780352,
-          "lon": -49.5942944
+          "referencia": "0.14 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
+          "data_hora_posicao": "28/10/2026 17:30:34",
+          "lat": -27.038032,
+          "lon": -49.3934048
         },
-        "distancia_km": 518.6,
+        "distancia_km": 494.2,
         "proximo": false
       },
       {
@@ -323,12 +323,12 @@
         "frete_rs": 8240.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de CONCESSIONARIA VOLVO - RIO DO SUL/SC",
-          "data_hora_posicao": "28/10/2026 16:54:34",
-          "lat": -27.1780352,
-          "lon": -49.5942944
+          "referencia": "0.14 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
+          "data_hora_posicao": "28/10/2026 17:30:34",
+          "lat": -27.038032,
+          "lon": -49.3934048
         },
-        "distancia_km": 518.6,
+        "distancia_km": 494.2,
         "proximo": false
       }
     ],
