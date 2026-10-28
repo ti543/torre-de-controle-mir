@@ -63,21 +63,6 @@
         "proximo": false
       },
       {
-        "manif": "GRU073924-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 6894.42,
-        "frete_rs": 14430.06,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "POA016167-5",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -97,11 +82,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 3110.55,
         "frete_rs": 3989.53,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 6894.42,
-        "frete_rs": 14430.06,
         "qtde": 1
       },
       "Porto Alegre": {
