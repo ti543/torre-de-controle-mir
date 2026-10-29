@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rotas: análise mensal — MIR Torre de Controle</title>
+<style>
+
+  /* Tema único, fixo na identidade visual da MIR — sem alternância claro/escuro.
+     Azul-royal e vermelho extraídos direto da logo (hue de #293082 e #dd1e26). */
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --surface-2:      #f5f4f1;
+    --surface-3:      #ece9e3;
+    --page:           #454e87;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --grid:           #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --panel-border:   #ffffff;
+    --series-1:       #5c6dd7;
+    --series-1-wash:  rgba(92,109,215,0.10);
+    --seq-100: #d7defc; --seq-150:#c4cef7; --seq-200:#b1bff5; --seq-250:#9eaef0;
+    --seq-300: #8c9eee; --seq-350:#7b8ee9; --seq-400:#697ce6; --seq-450:#5c6dd7;
+    --seq-500: #5160c0; --seq-550:#4653ac; --seq-600:#3c4796; --seq-650:#313b82; --seq-700:#28306b;
+    --good: #006300;
+    --brand-blue:     #293082;
+    --brand-red:      #dd5c64;
+    --brand-red-wash: rgba(221,92,100,0.08);
+    --card-red-top:   #e3646c;
+    --card-red-bot:   #c74e56;
+    --accent-2:       #dd5c64;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin:0; padding:0; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  /* .viz-root paints the real page background: custom properties only cascade to
+     descendants, so a rule on body (an ancestor of .viz-root) can never read
+     var(--page) — painting it here instead avoids a transparent/white body. */
+  .viz-root { display: block; min-height: 100vh; background: var(--page); color: var(--text-primary); }
+  .wrap { max-width: 1320px; margin: 0 auto; padding: 26px 20px 60px; }
+
+  .topbar { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom: 22px; flex-wrap: wrap; }
+  .titleblock h1 { font-size: 24px; margin: 0; font-weight: 800; letter-spacing: -0.2px; color: #ffffff; text-transform: uppercase; }
+  .date-nav { display:flex; align-items:center; gap: 10px; margin-left: auto; }
+  .date-nav-btn {
+    display:flex; align-items:center; justify-content:center;
+    width: 32px; height: 32px; border-radius: 999px; border: 2px solid #ffffff;
+    background: rgba(255,255,255,0.10); color: #ffffff; font-size: 15px; font-weight: 800;
+    cursor: pointer; box-shadow: 0 3px 10px rgba(0,0,0,0.20); user-select: none;
+  }
+  .date-nav-btn:hover:not(.disabled) { background: rgba(255,255,255,0.22); }
+  .date-nav-btn.disabled { opacity: 0.35; cursor: default; }
+  .period-badge {
+    display: inline-block; font-size: 15px; font-weight: 800; color: #ffffff;
+    background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
+    border: 2px solid #ffffff; border-radius: 999px;
+    padding: 7px 18px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+  }
+
+  /* KPI row */
+  .kpi-row { display:grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 12px; margin-bottom: 16px; }
+  @media (max-width: 1100px) { .kpi-row { grid-template-columns: repeat(3,minmax(0,1fr)); } }
+  @media (max-width: 640px) { .kpi-row { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+  @media (max-width: 460px) { .kpi-row { grid-template-columns: minmax(0,1fr); } }
+  .kpi-tile {
+    background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
+    border: 2px solid #ffffff; border-radius: 14px;
+    padding: 16px 16px; box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+    min-width: 0;
+  }
+  .kpi-tile.featured, .kpi-tile.featured-red {
+    border-color: #ffffff;
+    background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
+  }
+  .kpi-label { font-size: 11.5px; color: #ffffff; margin-bottom: 8px; font-weight: 700; text-shadow: 0 1px 2px rgba(0,0,0,0.25); }
+  .kpi-value { font-size: 28px; font-weight: 800; color: #ffffff; letter-spacing: -0.4px; text-shadow: 0 1px 2px rgba(0,0,0,0.25); }
+  .kpi-tile.featured .kpi-value, .kpi-tile.featured-red .kpi-value { font-size: 34px; }
+  .kpi-sub { font-size: 11px; color: #ffffff; margin-top: 5px; opacity: 0.94; text-shadow: 0 1px 2px rgba(0,0,0,0.2); }
+
+  /* Filters */
+  .filters {
+    display:flex; align-items:center; gap: 10px; flex-wrap: wrap;
+    padding: 12px 14px; background: var(--surface-1); border: 2px solid var(--panel-border);
+    border-radius: 12px; margin-bottom: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.20);
+  }
+  .filters label { font-size: 12px; color: var(--text-secondary); margin-right: 4px; }
+  .filters select, .filters input[type="text"] {
+    font-family: inherit; font-size: 13px; padding: 6px 10px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--surface-3); color: var(--text-primary);
+  }
+  .spacer { flex: 1 1 auto; }
+  .reset-btn {
+    font-size: 12px; padding: 6px 12px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--surface-3); color: var(--text-secondary); cursor: pointer;
+  }
+  .reset-btn:hover { color: var(--text-primary); }
+
+  /* Cards / grid */
+  .row-2 { display:grid; grid-template-columns: minmax(0,1.3fr) minmax(0,1fr); gap: 16px; margin-bottom: 16px; align-items: stretch; }
+  @media (max-width: 980px) { .row-2 { grid-template-columns: minmax(0,1fr); } }
+  .card {
+    background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px;
+    position: relative; box-shadow: 0 3px 14px rgba(0,0,0,0.20); min-width: 0;
+  }
+  .card h2 { font-size: 15px; margin: 0 0 2px; font-weight: 700; }
+  .card .card-sub { font-size: 11.5px; color: var(--text-muted); margin-bottom: 14px; }
+
+  .metric-toggle { display:flex; gap:6px; position:absolute; top:16px; right:18px; }
+  .metric-btn {
+    font-size: 11px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--surface-3); color: var(--text-secondary); cursor: pointer;
+  }
+  .metric-btn.active { background: var(--series-1); border-color: var(--series-1); color: #fff; }
+  /* Em telas estreitas o título/subtítulo do card não cabe mais ao lado do
+     toggle (que é absolute) — em vez de ficar por cima do texto quebrado, o
+     toggle passa a fluir normalmente logo abaixo do título. */
+  @media (max-width: 640px) {
+    .metric-toggle { position: static; margin: 10px 0 2px; flex-wrap: wrap; }
+  }
+
+  svg text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .axis-label { fill: var(--text-muted); font-size: 10px; }
+  .grid-line { stroke: var(--grid); stroke-width: 1; }
+  .baseline { stroke: var(--baseline); stroke-width: 1; }
+  .bar { fill: var(--series-1); }
+  .bar-label { fill: var(--text-secondary); font-size: 11px; }
+  .cat-label { fill: var(--text-secondary); font-size: 11px; }
+  .sankey-row { display: flex; align-items: center; gap: 14px; }
+  .sankey-row svg { flex: 1 1 auto; min-width: 0; }
+  .sankey-side-label {
+    flex: 0 0 auto; color: var(--brand-red); font-size: 26px; font-weight: 800;
+    letter-spacing: 1px; white-space: nowrap;
+  }
+  @media (max-width: 720px) {
+    .sankey-side-label { font-size: 15px; }
+  }
+  /* Gráficos SVG (Sankey, ranking de veículos, rotas mais movimentadas): em
+     telas estreitas, encolher tudo pra caber na largura (width:100%) deixa o
+     texto ilegível de tão pequeno. Em vez disso, a partir daqui eles mantêm
+     um tamanho legível de verdade e ficam com rolagem horizontal própria —
+     dá pra arrastar o gráfico pros lados sem quebrar o layout da página. */
+  @media (max-width: 640px) {
+    .sankey-row { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
+    .sankey-row svg { flex: 0 0 auto; min-width: 680px; }
+    .chart-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .chart-scroll svg { max-width: none; }
+    #chart-vehicles { width: 620px; }
+    #chart-routes { width: 440px; }
+  }
+
+  .tooltip {
+    position: fixed; pointer-events: none; z-index: 60;
+    background: var(--text-primary); color: var(--surface-1);
+    font-size: 12px; padding: 9px 11px; border-radius: 9px; line-height: 1.55;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.25); opacity: 0; transition: opacity .08s ease;
+    max-width: 260px;
+  }
+  .tooltip .tt-title { font-weight: 700; margin-bottom: 2px; }
+  .tooltip .tt-label { color: var(--text-secondary); }
+
+  /* Heatmap */
+  .heatmap-scroll { overflow: auto; }
+  .heat-cell { cursor: pointer; }
+  .heat-cell:hover { stroke: var(--text-primary); stroke-width: 1.5; }
+  .heat-axis { fill: var(--text-secondary); font-size: 10px; }
+  .heat-axis.dim { fill: var(--text-muted); }
+
+  /* Vehicle rank */
+  .veh-row-label { fill: var(--text-secondary); font-size: 11px; font-weight: 600; }
+
+  /* Vehicle table */
+  .table-card { background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; overflow: hidden; box-shadow: 0 3px 14px rgba(0,0,0,0.20); }
+  .table-head { display:flex; align-items:center; justify-content:space-between; padding: 16px 18px 10px; }
+  .table-head h2 { font-size: 15px; margin:0; font-weight:700; }
+  .row-count { font-size: 12px; color: var(--text-muted); }
+  .table-scroll { max-height: 620px; overflow: auto; border-top: 1px solid var(--border); }
+  table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  thead th {
+    position: sticky; top: 0; background: var(--surface-1); text-align: left; z-index: 2;
+    padding: 10px 14px; font-weight: 650; color: var(--text-secondary); border-bottom: 1px solid var(--border);
+    cursor: pointer; white-space: nowrap; user-select: none;
+  }
+  thead th:hover { color: var(--text-primary); }
+  thead th .sort-arrow { font-size: 10px; margin-left: 4px; color: var(--text-muted); }
+  tbody td {
+    padding: 10px 14px; border-bottom: 1px solid var(--grid); color: var(--text-primary);
+    vertical-align: top;
+  }
+  tbody tr.veh-row { cursor: pointer; }
+  tbody tr.veh-row:hover td { background: var(--series-1-wash); }
+  tbody tr.veh-row.plate-highlight td { background: var(--brand-red-wash); box-shadow: inset 3px 0 0 var(--brand-red); }
+  tbody tr.veh-row.plate-dim td { opacity: 0.4; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .placa-cell { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .route-chip {
+    display:inline-block; font-size: 10.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
+    background: var(--series-1-wash); color: var(--series-1); margin: 1px 3px 1px 0; white-space: nowrap;
+  }
+  .route-chip .cnt { opacity: 0.7; font-weight: 500; }
+  .expand-arrow { display:inline-block; width: 14px; color: var(--text-muted); font-size: 10px; transition: transform .12s ease; }
+  tr.expanded .expand-arrow { transform: rotate(90deg); }
+  .detail-row td { background: var(--surface-2); padding: 0 14px 14px 34px; border-bottom: 1px solid var(--border); }
+  .detail-row { display: none; }
+  .detail-row.show { display: table-row; }
+  .trip-mini-table { width: 100%; border-collapse: collapse; font-size: 11.5px; margin-top: 6px; }
+  .trip-mini-table th { text-align:left; color: var(--text-muted); font-weight: 600; padding: 4px 8px; border-bottom: 1px solid var(--border); }
+  .trip-mini-table td { padding: 4px 8px; color: var(--text-secondary); border-bottom: 1px dashed var(--grid); }
+  .trip-mini-table td.num { text-align:right; font-variant-numeric: tabular-nums; }
+  .empty-state { padding: 40px; text-align:center; color: var(--text-muted); font-size: 13px; }
+
+  /* Colunas dos relatórios (tabelas que substituíram os mapas de calor) */
+  th.num.active-col { background: var(--series-1-wash); color: var(--series-1); }
+  td.report-muted { color: var(--text-muted); opacity: 0.55; }
+  .report-total-col { font-weight: 700; }
+  .grouped-unit-name { border-bottom: 1px dotted var(--text-muted); cursor: help; }
+
+  footer { margin-top: 20px; font-size: 11px; color: rgba(255,255,255,0.55); text-align:center; }
+
+  /* Cabeçalho com as marcas da empresa: logo à esquerda, selo ISO no centro,
+     assinatura "o seu sucesso..." à direita — um grupo compacto, não espalhado
+     nas pontas do card. Fundo branco fixo porque as artes têm texto/traço
+     azul-marinho e vermelho pensados para fundo claro. */
+  .brand-header {
+    background: #ffffff; border-radius: 12px;
+    padding: 14px 26px; margin-bottom: 18px;
+    display: flex; align-items: center; justify-content: center; gap: 32px; flex-wrap: wrap;
+    box-shadow: 0 3px 14px rgba(0,0,0,0.20);
+  }
+  .brand-header img { display: block; width: auto; max-width: 100%; }
+  .brand-header img.brand-logo { height: 54px; }
+  .brand-header img.brand-iso { height: 52px; }
+  .brand-header img.brand-tagline { height: 46px; }
+
+  .test-banner {
+    background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
+    color:#fff; font-weight:700; font-size:13px; text-align:center;
+    padding:10px 16px; border-radius:10px; margin-bottom:16px; border:2px solid #fff;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+  }
+  .section-lead { color:#fff; font-size:13.5px; line-height:1.6; margin: 4px 0 18px; max-width: 1000px; text-shadow: 0 1px 2px rgba(0,0,0,0.15); }
+  .section-lead b { color:#fff; }
+  .explain-card { background: var(--surface-2); border-radius: 10px; padding: 14px 16px; margin-bottom: 16px; font-size: 12.5px; line-height: 1.65; color: var(--text-secondary); }
+  .explain-card b { color: var(--text-primary); }
+  .explain-card .formula { display:block; margin: 8px 0; font-family: ui-monospace, monospace; font-size: 12px; background: var(--surface-3); padding: 8px 12px; border-radius: 8px; color: var(--text-primary); }
+  .chain-highlight { background: var(--surface-1); border: 2px solid var(--series-1); border-radius: 10px; padding: 14px 16px; margin-bottom: 16px; box-shadow: 0 3px 14px rgba(0,0,0,0.20); }
+  .chain-highlight h3 { margin: 0 0 6px; font-size: 13.5px; color: var(--series-1); }
+  .chain-highlight p { margin: 4px 0; font-size: 12.5px; color: var(--text-secondary); }
+  .chain-highlight b { color: var(--text-primary); }
+  .sem-dado-box { background: var(--surface-2); border-radius: 10px; padding: 12px 16px; margin-top: 10px; }
+  .sem-dado-box ul { margin: 6px 0 0; padding-left: 18px; font-size: 12px; color: var(--text-secondary); }
+  .sem-dado-box li { margin-bottom: 4px; }
+  details.exc-wrap { margin-top: 16px; }
+  details.exc-wrap summary { cursor:pointer; color:#fff; font-size:13px; font-weight:700; padding:8px 0; }
+
+
+  .nav-tabs { display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap; }
+  .nav-tab {
+    padding:8px 16px; border-radius:999px; font-size:12.5px; font-weight:700;
+    text-decoration:none; border:2px solid rgba(255,255,255,0.55); color:#fff;
+    background:rgba(255,255,255,0.08); transition: background .1s ease;
+  }
+  .nav-tab:hover { background:rgba(255,255,255,0.18); }
+  .nav-tab.active { background:#fff; color:var(--page); border-color:#fff; }
+  .mes-seletor { display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap; }
+  .mes-btn {
+    padding:7px 16px; border-radius:999px; font-size:12.5px; font-weight:700; border:2px solid rgba(255,255,255,0.4);
+    color:#fff; background:rgba(255,255,255,0.08); cursor:default;
+  }
+  .mes-btn.active { background:#fff; color:var(--page); border-color:#fff; }
+  .mes-btn.pendente { opacity:0.55; border-style:dashed; }
+  .pendente-banner {
+    background: var(--surface-2); border: 1px dashed var(--text-muted); border-radius: 10px;
+    padding: 12px 16px; margin-bottom:16px; font-size:12.5px; color: var(--text-secondary); line-height:1.6;
+  }
+  .pendente-banner b { color: var(--text-primary); }
+  .chart-card { background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px; margin-bottom: 16px; box-shadow: 0 3px 14px rgba(0,0,0,0.20); overflow-x:auto; }
+  .chart-card h2 { font-size: 15px; margin: 0 0 2px; }
+  .chart-card .card-sub { font-size: 11.5px; color: var(--text-muted); margin-bottom: 14px; }
+
+</style>
+</head>
+<body>
+<div class="viz-root"><div class="wrap">
+
+  <div class="nav-tabs">
+    <a class="nav-tab" href="dashboard_veiculos.html">Painel de veículos</a>
+    <a class="nav-tab" href="rotas_lucratividade.html">Lucratividade por rota</a>
+    <a class="nav-tab active" href="rotas_mensal.html">Análise mensal</a>
+  </div>
+
+  <div class="topbar">
+    <div class="titleblock">
+      <h1>Rotas: análise mensal</h1>
+    </div>
+    <div class="date-nav">
+      <div class="period-badge">outubro/2026 (parcial)</div>
+    </div>
+  </div>
+
+  <div class="mes-seletor">
+    <div class="mes-btn pendente">setembro/2026 — pendente</div>
+    <div class="mes-btn active">outubro/2026 — parcial (9 de 28 dias)</div>
+  </div>
+
+  <div class="pendente-banner">
+    ⚠ <b>Essa aba ainda está incompleta.</b> O histórico do painel do dia a dia só guarda uma janela recente — por isso outubro aqui é parcial (faltam 17/10, 18/10, 24/10, 25/10 e 29/10 em diante) e setembro inteiro ainda não está carregado. Pedi uma exportação completa direto do SSW (01/09 a hoje) pra fechar os dois meses com números reais e exatos — assim que ela rodar, atualizo esta página com os totais definitivos de setembro e outubro completo, e os meses seguintes entram automaticamente a cada fechamento de mês.
+  </div>
+
+  <p class="section-lead">
+    Faturamento total por rota (origem→destino, sem agrupar em cadeia — aqui é o total emitido por trecho, não por viagem) nos dias de outubro já disponíveis. 50 rotas distintas, R$ 2.583.952 de frete no total do período mostrado.
+  </p>
+
+  <div class="chart-card">
+    <h2>Top 18 rotas por faturamento</h2>
+    <div class="card-sub">Outubro/2026 (parcial, 9 dias) — ordenado por frete total.</div>
+    <svg viewBox="0 0 760 542" width="100%" style="max-width:760px;display:block;">
+      <text x="82" y="25.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→GRU</text>
+      <rect x="90" y="10" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="10" width="560.0" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="658.0" y="25.0" class="bar-label" style="font-weight:700;">R$ 437.400</text>
+    
+      <text x="82" y="54.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→RSL</text>
+      <rect x="90" y="39" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="39" width="347.3" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="445.2782501968164" y="54.0" class="bar-label" style="font-weight:700;">R$ 271.249</text>
+    
+      <text x="82" y="83.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→GRU</text>
+      <rect x="90" y="68" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="68" width="288.7" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="386.6701727628975" y="83.0" class="bar-label" style="font-weight:700;">R$ 225.472</text>
+    
+      <text x="82" y="112.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→ITJ</text>
+      <rect x="90" y="97" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="97" width="237.9" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="335.88781917148833" y="112.0" class="bar-label" style="font-weight:700;">R$ 185.807</text>
+    
+      <text x="82" y="141.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">TBO→GRU</text>
+      <rect x="90" y="126" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="126" width="191.1" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="289.13467408154156" y="141.0" class="bar-label" style="font-weight:700;">R$ 149.290</text>
+    
+      <text x="82" y="170.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→CTB</text>
+      <rect x="90" y="155" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="155" width="119.5" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="217.4783164748152" y="170.0" class="bar-label" style="font-weight:700;">R$ 93.321</text>
+    
+      <text x="82" y="199.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→TBO</text>
+      <rect x="90" y="184" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="184" width="112.4" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="210.39244805756192" y="199.0" class="bar-label" style="font-weight:700;">R$ 87.787</text>
+    
+      <text x="82" y="228.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→CMP</text>
+      <rect x="90" y="213" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="213" width="94.9" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="192.93211351942" y="228.0" class="bar-label" style="font-weight:700;">R$ 74.149</text>
+    
+      <text x="82" y="257.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→CTB</text>
+      <rect x="90" y="242" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="242" width="93.4" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="191.37851698919556" y="257.0" class="bar-label" style="font-weight:700;">R$ 72.935</text>
+    
+      <text x="82" y="286.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">CMP→GRU</text>
+      <rect x="90" y="271" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="271" width="88.1" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="186.103532681352" y="286.0" class="bar-label" style="font-weight:700;">R$ 68.815</text>
+    
+      <text x="82" y="315.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">BRQ→ITJ</text>
+      <rect x="90" y="300" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="300" width="79.4" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="177.3979406266643" y="315.0" class="bar-label" style="font-weight:700;">R$ 62.015</text>
+    
+      <text x="82" y="344.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→RSL</text>
+      <rect x="90" y="329" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="329" width="71.5" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="169.5332190748492" y="344.0" class="bar-label" style="font-weight:700;">R$ 55.873</text>
+    
+      <text x="82" y="373.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→LGS</text>
+      <rect x="90" y="358" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="358" width="70.0" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="167.9756024262" y="373.0" class="bar-label" style="font-weight:700;">R$ 54.656</text>
+    
+      <text x="82" y="402.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→POA</text>
+      <rect x="90" y="387" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="387" width="69.3" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="167.33109038282004" y="402.0" class="bar-label" style="font-weight:700;">R$ 54.153</text>
+    
+      <text x="82" y="431.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">CTB→GRU</text>
+      <rect x="90" y="416" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="416" width="67.3" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="165.26134393445997" y="431.0" class="bar-label" style="font-weight:700;">R$ 52.536</text>
+    
+      <text x="82" y="460.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→CMP</text>
+      <rect x="90" y="445" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="445" width="66.9" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="164.94808196752604" y="460.0" class="bar-label" style="font-weight:700;">R$ 52.291</text>
+    
+      <text x="82" y="489.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→POA</text>
+      <rect x="90" y="474" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="474" width="66.5" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="164.46500200445792" y="489.0" class="bar-label" style="font-weight:700;">R$ 51.914</text>
+    
+      <text x="82" y="518.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">POA→RSL</text>
+      <rect x="90" y="503" width="560" height="22" fill="var(--surface-3)" rx="4"></rect>
+      <rect x="90" y="503" width="56.0" height="22" fill="var(--series-1)" rx="4"></rect>
+      <text x="153.95217467396265" y="518.0" class="bar-label" style="font-weight:700;">R$ 43.703</text>
+    </svg>
+  </div>
+
+  <div class="table-card" style="margin-bottom:16px;">
+    <div class="table-head">
+      <h2>Faturamento total por rota — outubro/2026 (parcial)</h2>
+      <div class="row-count">50 rotas</div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead><tr>
+          <th>Rota</th><th class="num">Manifestos</th><th class="num">Peso</th><th class="num">Frete total</th>
+        </tr></thead>
+        <tbody>
+<tr>
+      <td><b>RSL→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">33x</td>
+      <td class="num">546,2 t</td>
+      <td class="num report-total-col">R$ 437.400</td>
+    </tr><tr>
+      <td><b>GRU→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">26x</td>
+      <td class="num">186,7 t</td>
+      <td class="num report-total-col">R$ 271.249</td>
+    </tr><tr>
+      <td><b>ITJ→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">23x</td>
+      <td class="num">198,3 t</td>
+      <td class="num report-total-col">R$ 225.472</td>
+    </tr><tr>
+      <td><b>GRU→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">22x</td>
+      <td class="num">129,6 t</td>
+      <td class="num report-total-col">R$ 185.807</td>
+    </tr><tr>
+      <td><b>TBO→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">10x</td>
+      <td class="num">94,9 t</td>
+      <td class="num report-total-col">R$ 149.290</td>
+    </tr><tr>
+      <td><b>RSL→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
+      <td class="num">16x</td>
+      <td class="num">162,7 t</td>
+      <td class="num report-total-col">R$ 93.321</td>
+    </tr><tr>
+      <td><b>GRU→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
+      <td class="num">11x</td>
+      <td class="num">52,9 t</td>
+      <td class="num report-total-col">R$ 87.787</td>
+    </tr><tr>
+      <td><b>GRU→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
+      <td class="num">20x</td>
+      <td class="num">62,6 t</td>
+      <td class="num report-total-col">R$ 74.149</td>
+    </tr><tr>
+      <td><b>GRU→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
+      <td class="num">12x</td>
+      <td class="num">64,2 t</td>
+      <td class="num report-total-col">R$ 72.935</td>
+    </tr><tr>
+      <td><b>CMP→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">11x</td>
+      <td class="num">43,6 t</td>
+      <td class="num report-total-col">R$ 68.815</td>
+    </tr><tr>
+      <td><b>BRQ→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">10x</td>
+      <td class="num">44,3 t</td>
+      <td class="num report-total-col">R$ 62.015</td>
+    </tr><tr>
+      <td><b>ITJ→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">12x</td>
+      <td class="num">47,3 t</td>
+      <td class="num report-total-col">R$ 55.873</td>
+    </tr><tr>
+      <td><b>RSL→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
+      <td class="num">11x</td>
+      <td class="num">41,3 t</td>
+      <td class="num report-total-col">R$ 54.656</td>
+    </tr><tr>
+      <td><b>ITJ→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
+      <td class="num">5x</td>
+      <td class="num">39,0 t</td>
+      <td class="num report-total-col">R$ 54.153</td>
+    </tr><tr>
+      <td><b>CTB→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">12x</td>
+      <td class="num">55,5 t</td>
+      <td class="num report-total-col">R$ 52.536</td>
+    </tr><tr>
+      <td><b>RSL→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
+      <td class="num">3x</td>
+      <td class="num">40,9 t</td>
+      <td class="num report-total-col">R$ 52.291</td>
+    </tr><tr>
+      <td><b>GRU→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
+      <td class="num">4x</td>
+      <td class="num">27,7 t</td>
+      <td class="num report-total-col">R$ 51.914</td>
+    </tr><tr>
+      <td><b>POA→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">11x</td>
+      <td class="num">37,1 t</td>
+      <td class="num report-total-col">R$ 43.703</td>
+    </tr><tr>
+      <td><b>RSL→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">14x</td>
+      <td class="num">56,4 t</td>
+      <td class="num report-total-col">R$ 42.068</td>
+    </tr><tr>
+      <td><b>TBO→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">11x</td>
+      <td class="num">33,3 t</td>
+      <td class="num report-total-col">R$ 41.509</td>
+    </tr><tr>
+      <td><b>RSL→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
+      <td class="num">8x</td>
+      <td class="num">43,1 t</td>
+      <td class="num report-total-col">R$ 37.183</td>
+    </tr><tr>
+      <td><b>CTB→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">9x</td>
+      <td class="num">36,7 t</td>
+      <td class="num report-total-col">R$ 35.761</td>
+    </tr><tr>
+      <td><b>CTB→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">9x</td>
+      <td class="num">32,1 t</td>
+      <td class="num report-total-col">R$ 30.048</td>
+    </tr><tr>
+      <td><b>RSL→CXS</b> <span style="color:var(--text-muted);font-size:11px;">→ Caxias do Sul</span></td>
+      <td class="num">10x</td>
+      <td class="num">29,8 t</td>
+      <td class="num report-total-col">R$ 27.961</td>
+    </tr><tr>
+      <td><b>ITJ→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
+      <td class="num">7x</td>
+      <td class="num">20,3 t</td>
+      <td class="num report-total-col">R$ 21.771</td>
+    </tr><tr>
+      <td><b>ITJ→CRC</b> <span style="color:var(--text-muted);font-size:11px;">→ Criciúma</span></td>
+      <td class="num">5x</td>
+      <td class="num">19,1 t</td>
+      <td class="num report-total-col">R$ 21.505</td>
+    </tr><tr>
+      <td><b>CXS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">7x</td>
+      <td class="num">13,0 t</td>
+      <td class="num report-total-col">R$ 21.257</td>
+    </tr><tr>
+      <td><b>LGS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">7x</td>
+      <td class="num">18,7 t</td>
+      <td class="num report-total-col">R$ 21.177</td>
+    </tr><tr>
+      <td><b>ITJ→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
+      <td class="num">8x</td>
+      <td class="num">16,4 t</td>
+      <td class="num report-total-col">R$ 19.687</td>
+    </tr><tr>
+      <td><b>RSL→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
+      <td class="num">8x</td>
+      <td class="num">24,2 t</td>
+      <td class="num report-total-col">R$ 19.433</td>
+    </tr><tr>
+      <td><b>ITJ→BRQ</b> <span style="color:var(--text-muted);font-size:11px;">→ Brusque</span></td>
+      <td class="num">7x</td>
+      <td class="num">17,5 t</td>
+      <td class="num report-total-col">R$ 17.767</td>
+    </tr><tr>
+      <td><b>ITJ→FLN</b> <span style="color:var(--text-muted);font-size:11px;">→ Florianópolis</span></td>
+      <td class="num">4x</td>
+      <td class="num">10,7 t</td>
+      <td class="num report-total-col">R$ 17.684</td>
+    </tr><tr>
+      <td><b>RSL→JCB</b> <span style="color:var(--text-muted);font-size:11px;">→ Joaçaba</span></td>
+      <td class="num">5x</td>
+      <td class="num">12,1 t</td>
+      <td class="num report-total-col">R$ 15.327</td>
+    </tr><tr>
+      <td><b>ITJ→TUB</b> <span style="color:var(--text-muted);font-size:11px;">→ Tubarão</span></td>
+      <td class="num">6x</td>
+      <td class="num">6,5 t</td>
+      <td class="num report-total-col">R$ 13.815</td>
+    </tr><tr>
+      <td><b>CRC→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">4x</td>
+      <td class="num">9,0 t</td>
+      <td class="num report-total-col">R$ 11.367</td>
+    </tr><tr>
+      <td><b>CMP→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">2x</td>
+      <td class="num">14,9 t</td>
+      <td class="num report-total-col">R$ 11.244</td>
+    </tr><tr>
+      <td><b>TUB→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">3x</td>
+      <td class="num">5,8 t</td>
+      <td class="num report-total-col">R$ 10.078</td>
+    </tr><tr>
+      <td><b>POA→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
+      <td class="num">5x</td>
+      <td class="num">12,1 t</td>
+      <td class="num report-total-col">R$ 9.741</td>
+    </tr><tr>
+      <td><b>ITJ→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
+      <td class="num">2x</td>
+      <td class="num">7,0 t</td>
+      <td class="num report-total-col">R$ 9.469</td>
+    </tr><tr>
+      <td><b>ITJ→ARR</b> <span style="color:var(--text-muted);font-size:11px;">→ Araranguá</span></td>
+      <td class="num">6x</td>
+      <td class="num">3,9 t</td>
+      <td class="num report-total-col">R$ 7.500</td>
+    </tr><tr>
+      <td><b>POA→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">1x</td>
+      <td class="num">3,7 t</td>
+      <td class="num report-total-col">R$ 4.992</td>
+    </tr><tr>
+      <td><b>TBO→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">5x</td>
+      <td class="num">4,4 t</td>
+      <td class="num report-total-col">R$ 4.748</td>
+    </tr><tr>
+      <td><b>JCB→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">3x</td>
+      <td class="num">6,1 t</td>
+      <td class="num report-total-col">R$ 4.278</td>
+    </tr><tr>
+      <td><b>POA→CXS</b> <span style="color:var(--text-muted);font-size:11px;">→ Caxias do Sul</span></td>
+      <td class="num">5x</td>
+      <td class="num">2,1 t</td>
+      <td class="num report-total-col">R$ 4.041</td>
+    </tr><tr>
+      <td><b>FLN→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">2x</td>
+      <td class="num">1,3 t</td>
+      <td class="num report-total-col">R$ 2.932</td>
+    </tr><tr>
+      <td><b>TBO→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
+      <td class="num">2x</td>
+      <td class="num">1,1 t</td>
+      <td class="num report-total-col">R$ 2.766</td>
+    </tr><tr>
+      <td><b>CXS→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
+      <td class="num">4x</td>
+      <td class="num">1,1 t</td>
+      <td class="num report-total-col">R$ 1.878</td>
+    </tr><tr>
+      <td><b>ARR→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
+      <td class="num">2x</td>
+      <td class="num">0,8 t</td>
+      <td class="num report-total-col">R$ 1.297</td>
+    </tr><tr>
+      <td><b>CXS→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
+      <td class="num">2x</td>
+      <td class="num">0,1 t</td>
+      <td class="num report-total-col">R$ 206</td>
+    </tr><tr>
+      <td><b>LGS→CXS</b> <span style="color:var(--text-muted);font-size:11px;">→ Caxias do Sul</span></td>
+      <td class="num">1x</td>
+      <td class="num">0,0 t</td>
+      <td class="num report-total-col">R$ 98</td>
+    </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <footer>Fonte: SSW, totais por rota (dia a dia, sem agrupar por viagem) — outubro/2026 parcial (16, 19, 20, 21, 22, 23, 26, 27, 28) · setembro/2026 pendente de exportação completa</footer>
+
+</div></div>
+</body>
+</html>
