@@ -40,23 +40,12 @@
   body {
     font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
   }
-  /* .viz-root paints the real page background: custom properties only cascade to
-     descendants, so a rule on body (an ancestor of .viz-root) can never read
-     var(--page) — painting it here instead avoids a transparent/white body. */
   .viz-root { display: block; min-height: 100vh; background: var(--page); color: var(--text-primary); }
   .wrap { max-width: 1320px; margin: 0 auto; padding: 26px 20px 60px; }
 
   .topbar { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom: 22px; flex-wrap: wrap; }
   .titleblock h1 { font-size: 24px; margin: 0; font-weight: 800; letter-spacing: -0.2px; color: #ffffff; text-transform: uppercase; }
   .date-nav { display:flex; align-items:center; gap: 10px; margin-left: auto; }
-  .date-nav-btn {
-    display:flex; align-items:center; justify-content:center;
-    width: 32px; height: 32px; border-radius: 999px; border: 2px solid #ffffff;
-    background: rgba(255,255,255,0.10); color: #ffffff; font-size: 15px; font-weight: 800;
-    cursor: pointer; box-shadow: 0 3px 10px rgba(0,0,0,0.20); user-select: none;
-  }
-  .date-nav-btn:hover:not(.disabled) { background: rgba(255,255,255,0.22); }
-  .date-nav-btn.disabled { opacity: 0.35; cursor: default; }
   .period-badge {
     display: inline-block; font-size: 15px; font-weight: 800; color: #ffffff;
     background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
@@ -64,7 +53,6 @@
     padding: 7px 18px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);
   }
 
-  /* KPI row */
   .kpi-row { display:grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 12px; margin-bottom: 16px; }
   @media (max-width: 1100px) { .kpi-row { grid-template-columns: repeat(3,minmax(0,1fr)); } }
   @media (max-width: 640px) { .kpi-row { grid-template-columns: repeat(2,minmax(0,1fr)); } }
@@ -84,27 +72,6 @@
   .kpi-tile.featured .kpi-value, .kpi-tile.featured-red .kpi-value { font-size: 34px; }
   .kpi-sub { font-size: 11px; color: #ffffff; margin-top: 5px; opacity: 0.94; text-shadow: 0 1px 2px rgba(0,0,0,0.2); }
 
-  /* Filters */
-  .filters {
-    display:flex; align-items:center; gap: 10px; flex-wrap: wrap;
-    padding: 12px 14px; background: var(--surface-1); border: 2px solid var(--panel-border);
-    border-radius: 12px; margin-bottom: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.20);
-  }
-  .filters label { font-size: 12px; color: var(--text-secondary); margin-right: 4px; }
-  .filters select, .filters input[type="text"] {
-    font-family: inherit; font-size: 13px; padding: 6px 10px; border-radius: 8px;
-    border: 1px solid var(--border); background: var(--surface-3); color: var(--text-primary);
-  }
-  .spacer { flex: 1 1 auto; }
-  .reset-btn {
-    font-size: 12px; padding: 6px 12px; border-radius: 8px; border: 1px solid var(--border);
-    background: var(--surface-3); color: var(--text-secondary); cursor: pointer;
-  }
-  .reset-btn:hover { color: var(--text-primary); }
-
-  /* Cards / grid */
-  .row-2 { display:grid; grid-template-columns: minmax(0,1.3fr) minmax(0,1fr); gap: 16px; margin-bottom: 16px; align-items: stretch; }
-  @media (max-width: 980px) { .row-2 { grid-template-columns: minmax(0,1fr); } }
   .card {
     background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px;
     position: relative; box-shadow: 0 3px 14px rgba(0,0,0,0.20); min-width: 0;
@@ -112,70 +79,10 @@
   .card h2 { font-size: 15px; margin: 0 0 2px; font-weight: 700; }
   .card .card-sub { font-size: 11.5px; color: var(--text-muted); margin-bottom: 14px; }
 
-  .metric-toggle { display:flex; gap:6px; position:absolute; top:16px; right:18px; }
-  .metric-btn {
-    font-size: 11px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--border);
-    background: var(--surface-3); color: var(--text-secondary); cursor: pointer;
-  }
-  .metric-btn.active { background: var(--series-1); border-color: var(--series-1); color: #fff; }
-  /* Em telas estreitas o título/subtítulo do card não cabe mais ao lado do
-     toggle (que é absolute) — em vez de ficar por cima do texto quebrado, o
-     toggle passa a fluir normalmente logo abaixo do título. */
-  @media (max-width: 640px) {
-    .metric-toggle { position: static; margin: 10px 0 2px; flex-wrap: wrap; }
-  }
-
   svg text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
-  .axis-label { fill: var(--text-muted); font-size: 10px; }
-  .grid-line { stroke: var(--grid); stroke-width: 1; }
-  .baseline { stroke: var(--baseline); stroke-width: 1; }
-  .bar { fill: var(--series-1); }
   .bar-label { fill: var(--text-secondary); font-size: 11px; }
   .cat-label { fill: var(--text-secondary); font-size: 11px; }
-  .sankey-row { display: flex; align-items: center; gap: 14px; }
-  .sankey-row svg { flex: 1 1 auto; min-width: 0; }
-  .sankey-side-label {
-    flex: 0 0 auto; color: var(--brand-red); font-size: 26px; font-weight: 800;
-    letter-spacing: 1px; white-space: nowrap;
-  }
-  @media (max-width: 720px) {
-    .sankey-side-label { font-size: 15px; }
-  }
-  /* Gráficos SVG (Sankey, ranking de veículos, rotas mais movimentadas): em
-     telas estreitas, encolher tudo pra caber na largura (width:100%) deixa o
-     texto ilegível de tão pequeno. Em vez disso, a partir daqui eles mantêm
-     um tamanho legível de verdade e ficam com rolagem horizontal própria —
-     dá pra arrastar o gráfico pros lados sem quebrar o layout da página. */
-  @media (max-width: 640px) {
-    .sankey-row { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
-    .sankey-row svg { flex: 0 0 auto; min-width: 680px; }
-    .chart-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-    .chart-scroll svg { max-width: none; }
-    #chart-vehicles { width: 620px; }
-    #chart-routes { width: 440px; }
-  }
 
-  .tooltip {
-    position: fixed; pointer-events: none; z-index: 60;
-    background: var(--text-primary); color: var(--surface-1);
-    font-size: 12px; padding: 9px 11px; border-radius: 9px; line-height: 1.55;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.25); opacity: 0; transition: opacity .08s ease;
-    max-width: 260px;
-  }
-  .tooltip .tt-title { font-weight: 700; margin-bottom: 2px; }
-  .tooltip .tt-label { color: var(--text-secondary); }
-
-  /* Heatmap */
-  .heatmap-scroll { overflow: auto; }
-  .heat-cell { cursor: pointer; }
-  .heat-cell:hover { stroke: var(--text-primary); stroke-width: 1.5; }
-  .heat-axis { fill: var(--text-secondary); font-size: 10px; }
-  .heat-axis.dim { fill: var(--text-muted); }
-
-  /* Vehicle rank */
-  .veh-row-label { fill: var(--text-secondary); font-size: 11px; font-weight: 600; }
-
-  /* Vehicle table */
   .table-card { background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; overflow: hidden; box-shadow: 0 3px 14px rgba(0,0,0,0.20); }
   .table-head { display:flex; align-items:center; justify-content:space-between; padding: 16px 18px 10px; }
   .table-head h2 { font-size: 15px; margin:0; font-weight:700; }
@@ -185,70 +92,39 @@
   thead th {
     position: sticky; top: 0; background: var(--surface-1); text-align: left; z-index: 2;
     padding: 10px 14px; font-weight: 650; color: var(--text-secondary); border-bottom: 1px solid var(--border);
-    cursor: pointer; white-space: nowrap; user-select: none;
+    white-space: nowrap;
   }
-  thead th:hover { color: var(--text-primary); }
-  thead th .sort-arrow { font-size: 10px; margin-left: 4px; color: var(--text-muted); }
   tbody td {
     padding: 10px 14px; border-bottom: 1px solid var(--grid); color: var(--text-primary);
     vertical-align: top;
   }
-  tbody tr.veh-row { cursor: pointer; }
-  tbody tr.veh-row:hover td { background: var(--series-1-wash); }
-  tbody tr.veh-row.plate-highlight td { background: var(--brand-red-wash); box-shadow: inset 3px 0 0 var(--brand-red); }
-  tbody tr.veh-row.plate-dim td { opacity: 0.4; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .placa-cell { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .route-chip {
-    display:inline-block; font-size: 10.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
-    background: var(--series-1-wash); color: var(--series-1); margin: 1px 3px 1px 0; white-space: nowrap;
-  }
-  .route-chip .cnt { opacity: 0.7; font-weight: 500; }
-  .expand-arrow { display:inline-block; width: 14px; color: var(--text-muted); font-size: 10px; transition: transform .12s ease; }
-  tr.expanded .expand-arrow { transform: rotate(90deg); }
-  .detail-row td { background: var(--surface-2); padding: 0 14px 14px 34px; border-bottom: 1px solid var(--border); }
-  .detail-row { display: none; }
-  .detail-row.show { display: table-row; }
-  .trip-mini-table { width: 100%; border-collapse: collapse; font-size: 11.5px; margin-top: 6px; }
-  .trip-mini-table th { text-align:left; color: var(--text-muted); font-weight: 600; padding: 4px 8px; border-bottom: 1px solid var(--border); }
-  .trip-mini-table td { padding: 4px 8px; color: var(--text-secondary); border-bottom: 1px dashed var(--grid); }
-  .trip-mini-table td.num { text-align:right; font-variant-numeric: tabular-nums; }
-  .empty-state { padding: 40px; text-align:center; color: var(--text-muted); font-size: 13px; }
-
-  /* Colunas dos relatórios (tabelas que substituíram os mapas de calor) */
-  th.num.active-col { background: var(--series-1-wash); color: var(--series-1); }
-  td.report-muted { color: var(--text-muted); opacity: 0.55; }
   .report-total-col { font-weight: 700; }
-  .grouped-unit-name { border-bottom: 1px dotted var(--text-muted); cursor: help; }
 
   footer { margin-top: 20px; font-size: 11px; color: rgba(255,255,255,0.55); text-align:center; }
-
-  /* Cabeçalho com as marcas da empresa: logo à esquerda, selo ISO no centro,
-     assinatura "o seu sucesso..." à direita — um grupo compacto, não espalhado
-     nas pontas do card. Fundo branco fixo porque as artes têm texto/traço
-     azul-marinho e vermelho pensados para fundo claro. */
-  .brand-header {
-    background: #ffffff; border-radius: 12px;
-    padding: 14px 26px; margin-bottom: 18px;
-    display: flex; align-items: center; justify-content: center; gap: 32px; flex-wrap: wrap;
-    box-shadow: 0 3px 14px rgba(0,0,0,0.20);
-  }
-  .brand-header img { display: block; width: auto; max-width: 100%; }
-  .brand-header img.brand-logo { height: 54px; }
-  .brand-header img.brand-iso { height: 52px; }
-  .brand-header img.brand-tagline { height: 46px; }
-
-  .test-banner {
-    background: linear-gradient(180deg, var(--card-red-top), var(--card-red-bot));
-    color:#fff; font-weight:700; font-size:13px; text-align:center;
-    padding:10px 16px; border-radius:10px; margin-bottom:16px; border:2px solid #fff;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.25);
-  }
   .section-lead { color:#fff; font-size:13.5px; line-height:1.6; margin: 4px 0 18px; max-width: 1000px; text-shadow: 0 1px 2px rgba(0,0,0,0.15); }
   .section-lead b { color:#fff; }
   .explain-card { background: var(--surface-2); border-radius: 10px; padding: 14px 16px; margin-bottom: 16px; font-size: 12.5px; line-height: 1.65; color: var(--text-secondary); }
   .explain-card b { color: var(--text-primary); }
   .explain-card .formula { display:block; margin: 8px 0; font-family: ui-monospace, monospace; font-size: 12px; background: var(--surface-3); padding: 8px 12px; border-radius: 8px; color: var(--text-primary); }
+  .collapsible { margin-bottom: 16px; }
+  .collapsible > summary {
+    cursor: pointer; list-style: none; user-select: none;
+    display: flex; align-items: center; gap: 7px;
+    font-size: 12.5px; font-weight: 700; color: #fff;
+    background: rgba(255,255,255,0.12); border-radius: 9px; padding: 9px 13px;
+  }
+  .collapsible > summary::-webkit-details-marker { display: none; }
+  .collapsible > summary::before { content: "▸"; display: inline-block; font-size: 10px; transition: transform .15s ease; }
+  .collapsible[open] > summary::before { transform: rotate(90deg); }
+  .collapsible[open] > summary { border-radius: 9px 9px 0 0; }
+  .collapsible > summary:hover { background: rgba(255,255,255,0.2); }
+  .collapsible > .collapsible-body { background: var(--surface-1); border-radius: 0 0 10px 10px; padding: 14px 16px; }
+  .collapsible > .collapsible-body .section-lead { color: var(--text-secondary); text-shadow: none; margin: 0 0 12px; }
+  .collapsible > .collapsible-body .section-lead:last-child { margin-bottom: 0; }
+  .collapsible > .collapsible-body .section-lead b { color: var(--text-primary); }
+  .collapsible > .collapsible-body .explain-card { margin-bottom: 0; }
+  .collapsible > .balanco-card { margin-bottom: 0; border-radius: 0 0 14px 14px; border-top: none; }
   .chain-highlight { background: var(--surface-1); border: 2px solid var(--series-1); border-radius: 10px; padding: 14px 16px; margin-bottom: 16px; box-shadow: 0 3px 14px rgba(0,0,0,0.20); }
   .chain-highlight h3 { margin: 0 0 6px; font-size: 13.5px; color: var(--series-1); }
   .chain-highlight p { margin: 4px 0; font-size: 12.5px; color: var(--text-secondary); }
@@ -258,7 +134,6 @@
   .sem-dado-box li { margin-bottom: 4px; }
   details.exc-wrap { margin-top: 16px; }
   details.exc-wrap summary { cursor:pointer; color:#fff; font-size:13px; font-weight:700; padding:8px 0; }
-
 
   .nav-tabs { display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap; }
   .nav-tab {
@@ -286,6 +161,9 @@
   .chart-card { background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px; margin-bottom: 16px; box-shadow: 0 3px 14px rgba(0,0,0,0.20); overflow-x:auto; }
   .chart-card h2 { font-size: 15px; margin: 0 0 2px; }
   .chart-card .card-sub { font-size: 11.5px; color: var(--text-muted); margin-bottom: 14px; }
+  .atualizado-badge {
+    font-size: 11.5px; color: rgba(255,255,255,0.78); margin-top: -10px; margin-bottom: 18px;
+  }
 
 </style>
 </head>
@@ -303,157 +181,159 @@
       <h1>Rotas: lucratividade por trecho</h1>
     </div>
     <div class="date-nav">
-      <div class="period-badge">16–28/10/2026 · custos set/2026</div>
+      <div class="period-badge">últimos 10 dia(s) · 26–28/10/2026</div>
     </div>
   </div>
+  <div class="atualizado-badge">Atualizado em 29/10/2026 16:59 · janela rolante dos últimos 10 dia(s) com dados (até 30)</div>
 
-  <p class="section-lead">
-    Cruzando <b>placa por placa</b>: pra cada veículo, reconstruí a sequência real de paradas que ele fez no mesmo dia (origem → destino → próximo destino), usando a hora de cada viagem no SSW. Quando essa sequência bate com uma das rotas que você mapeou, somo o frete e o custo de <b>todas as pernas daquela viagem</b> antes de calcular a margem — não trato cada perninha como se fosse uma rota separada.
-  </p>
-
-  <div class="explain-card">
-    <b>O que é esse percentual (margem)?</b> É quanto sobra do frete depois de descontar o custo estimado de rodar aquele trecho — uma <b>margem de contribuição</b>, não o lucro líquido da empresa.
-    <span class="formula">margem % = (frete recebido − custo pleno estimado) ÷ frete recebido × 100</span>
-    O <b>custo pleno</b> vem do painel de resultados (DRE): custo direto de transporte da unidade/agência de destino + rateio da Matriz (administração, comercial, jurídico) e da frota de transferência, tudo em R$/tonelada, referência setembro/2026. O <b>frete</b> é o valor real cobrado naquela viagem, do SSW. Numa cadeia de várias paradas, somo o custo de cada perna separadamente (cada destino tem um custo/t diferente) e divido pelo frete total da viagem inteira. <b>Não é a margem EBITDA da empresa</b> (essa foi 9,7% em setembro/2026) — essa aqui só olha o trecho de transporte, não todas as despesas da rede.
-  </div>
+  <details class="collapsible">
+    <summary>Como isso é calculado</summary>
+    <div class="collapsible-body">
+      <p class="section-lead">
+        Cruzando <b>placa por placa</b>: pra cada veículo, reconstruí a sequência real de paradas que ele fez no mesmo dia (origem → destino → próximo destino), usando a hora de cada viagem no SSW. Quando essa sequência bate com uma das rotas que você mapeou, somo o frete e o custo de <b>todas as pernas daquela viagem</b> antes de calcular a margem — não trato cada perninha como se fosse uma rota separada.
+      </p>
+      <div class="explain-card">
+        <b>O que é esse percentual (margem)?</b> É quanto sobra do frete depois de descontar o custo estimado de rodar aquele trecho — uma <b>margem de contribuição</b>, não o lucro líquido da empresa.
+        <span class="formula">margem % = (frete recebido − custo pleno estimado) ÷ frete recebido × 100</span>
+        O <b>custo pleno</b> vem do painel de resultados (DRE): custo direto de transporte da unidade/agência de destino + rateio da Matriz (administração, comercial, jurídico) e da frota de transferência, tudo em R$/tonelada. O <b>frete</b> é o valor real cobrado naquela viagem, do SSW. Numa cadeia de várias paradas, somo o custo de cada perna separadamente (cada destino tem um custo/t diferente) e divido pelo frete total da viagem inteira. <b>Não é a margem EBITDA da empresa</b> — essa aqui só olha o trecho de transporte, não todas as despesas da rede.
+      </div>
+    </div>
+  </details>
 
   <div class="kpi-row">
     <div class="kpi-tile featured">
       <div class="kpi-label">Margem das rotas citadas (ponderada por frete)</div>
-      <div class="kpi-value">61,6%</div>
-      <div class="kpi-sub">1.440,1 t · R$ 1.615.643 de frete</div>
+      <div class="kpi-value">61,5%</div>
+      <div class="kpi-sub">1.617,5 t · R$ 1.810.764 de frete</div>
     </div>
     <div class="kpi-tile featured-red">
       <div class="kpi-label">Resultado estimado (rotas citadas)</div>
-      <div class="kpi-value">R$ 995.711</div>
-      <div class="kpi-sub">sobre R$ 1.615.643 de frete</div>
+      <div class="kpi-value">R$ 1.113.746</div>
+      <div class="kpi-sub">sobre R$ 1.810.764 de frete</div>
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Melhor rota citada</div>
       <div class="kpi-value" style="font-size:20px;">GRU→RSL</div>
-      <div class="kpi-sub">R$ 214.308 · margem 79,0%</div>
+      <div class="kpi-sub">R$ 236.712 · margem 79,1%</div>
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Rotas citadas abaixo do ideal</div>
       <div class="kpi-value">4 de 13</div>
-      <div class="kpi-sub">margem abaixo da média da rede (63,7%)</div>
+      <div class="kpi-sub">margem abaixo da média da rede (63,6%)</div>
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Pior rota citada</div>
       <div class="kpi-value" style="font-size:20px;">RSL→GRU</div>
-      <div class="kpi-sub">margem 41,8%</div>
+      <div class="kpi-sub">margem 41,6%</div>
     </div>
   </div>
 
   <div class="chart-card">
     <h2>Margem por rota citada</h2>
-    <div class="card-sub">Rotas em vermelho estão abaixo da média ponderada da rede inteira (63,7%, linha pontilhada) — incluindo as rotas fora da sua lista.</div>
+    <div class="card-sub">Rotas em vermelho estão abaixo da média ponderada da rede inteira (63,6%, linha pontilhada) — incluindo as rotas fora da sua lista.</div>
     <svg viewBox="0 0 760 446" width="100%" style="max-width:760px;display:block;">
       <text x="142" y="36.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→RSL</text>
       <rect x="150" y="20" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="20" width="410.8" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="568.8409933819148" y="36.0" class="bar-label" style="font-weight:700;">79,0%</text>
+      <rect x="150" y="20" width="411.6" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="569.5637307719842" y="36.0" class="bar-label" style="font-weight:700;">79,1%</text>
     
       <text x="142" y="68.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">TBO→RSL</text>
       <rect x="150" y="52" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="52" width="392.7" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="550.6615471824567" y="68.0" class="bar-label" style="font-weight:700;">75,5%</text>
+      <rect x="150" y="52" width="395.4" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="553.4362509055964" y="68.0" class="bar-label" style="font-weight:700;">76,0%</text>
     
       <text x="142" y="100.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→TBO</text>
       <rect x="150" y="84" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
       <rect x="150" y="84" width="372.2" height="24" fill="var(--good)" rx="4"></rect>
       <text x="530.2280355841708" y="100.0" class="bar-label" style="font-weight:700;">71,6%</text>
     
-      <text x="142" y="132.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→ITJ</text>
+      <text x="142" y="132.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">TBO→GRU</text>
       <rect x="150" y="116" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="116" width="368.4" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="526.4245659666947" y="132.0" class="bar-label" style="font-weight:700;">70,9%</text>
+      <rect x="150" y="116" width="366.8" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="524.837307344409" y="132.0" class="bar-label" style="font-weight:700;">70,5%</text>
     
-      <text x="142" y="164.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">CMP→GRU</text>
+      <text x="142" y="164.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→ITJ</text>
       <rect x="150" y="148" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="148" width="366.5" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="524.5006814777441" y="164.0" class="bar-label" style="font-weight:700;">70,5%</text>
+      <rect x="150" y="148" width="366.8" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="524.7983148350089" y="164.0" class="bar-label" style="font-weight:700;">70,5%</text>
     
-      <text x="142" y="196.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">TBO→GRU</text>
+      <text x="142" y="196.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">POA→ITJ</text>
       <rect x="150" y="180" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="180" width="366.0" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="523.9741178760646" y="196.0" class="bar-label" style="font-weight:700;">70,4%</text>
+      <rect x="150" y="180" width="364.3" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="522.291108805037" y="196.0" class="bar-label" style="font-weight:700;">70,1%</text>
     
-      <text x="142" y="228.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">POA→ITJ</text>
+      <text x="142" y="228.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→CMP</text>
       <rect x="150" y="212" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="212" width="360.8" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="518.8017865428305" y="228.0" class="bar-label" style="font-weight:700;">69,4%</text>
+      <rect x="150" y="212" width="351.1" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="509.0832437708496" y="228.0" class="bar-label" style="font-weight:700;">67,5%</text>
     
-      <text x="142" y="260.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→CMP</text>
+      <text x="142" y="260.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">CMP→GRU</text>
       <rect x="150" y="244" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="244" width="351.1" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="509.0832437708496" y="260.0" class="bar-label" style="font-weight:700;">67,5%</text>
+      <rect x="150" y="244" width="347.6" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="505.5895030309184" y="260.0" class="bar-label" style="font-weight:700;">66,8%</text>
     
       <text x="142" y="292.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">GRU→CMP</text>
       <rect x="150" y="276" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="276" width="337.8" height="24" fill="var(--good)" rx="4"></rect>
-      <text x="495.7752535342124" y="292.0" class="bar-label" style="font-weight:700;">65,0%</text>
+      <rect x="150" y="276" width="333.2" height="24" fill="var(--good)" rx="4"></rect>
+      <text x="491.2124112859573" y="292.0" class="bar-label" style="font-weight:700;">64,1%</text>
     
-      <text x="142" y="324.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→GRU</text>
+      <text x="142" y="324.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→POA</text>
       <rect x="150" y="308" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="308" width="306.8" height="24" fill="var(--brand-red)" rx="4"></rect>
-      <text x="464.8357628610731" y="324.0" class="bar-label" style="font-weight:700;">59,0%</text>
+      <rect x="150" y="308" width="306.7" height="24" fill="var(--brand-red)" rx="4"></rect>
+      <text x="464.7293217271065" y="324.0" class="bar-label" style="font-weight:700;">59,0%</text>
     
-      <text x="142" y="356.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→POA</text>
+      <text x="142" y="356.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">ITJ→GRU</text>
       <rect x="150" y="340" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="340" width="306.7" height="24" fill="var(--brand-red)" rx="4"></rect>
-      <text x="464.7293217271065" y="356.0" class="bar-label" style="font-weight:700;">59,0%</text>
+      <rect x="150" y="340" width="306.3" height="24" fill="var(--brand-red)" rx="4"></rect>
+      <text x="464.2865953966843" y="356.0" class="bar-label" style="font-weight:700;">58,9%</text>
     
       <text x="142" y="388.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→ITJ→CTB</text>
       <rect x="150" y="372" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="372" width="269.7" height="24" fill="var(--brand-red)" rx="4"></rect>
-      <text x="427.70766198401134" y="388.0" class="bar-label" style="font-weight:700;">51,9%</text>
+      <rect x="150" y="372" width="269.1" height="24" fill="var(--brand-red)" rx="4"></rect>
+      <text x="427.09872776042073" y="388.0" class="bar-label" style="font-weight:700;">51,7%</text>
     
       <text x="142" y="420.0" text-anchor="end" class="bar-label" style="font-weight:700;font-size:11.5px;">RSL→GRU</text>
       <rect x="150" y="404" width="520" height="24" fill="var(--surface-3)" rx="4"></rect>
-      <rect x="150" y="404" width="217.4" height="24" fill="var(--brand-red)" rx="4"></rect>
-      <text x="375.42619708616866" y="420.0" class="bar-label" style="font-weight:700;">41,8%</text>
+      <rect x="150" y="404" width="216.5" height="24" fill="var(--brand-red)" rx="4"></rect>
+      <text x="374.5101408006428" y="420.0" class="bar-label" style="font-weight:700;">41,6%</text>
     
-  <line x1="481.0" y1="10" x2="481.0" y2="436" stroke="#fff" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"></line>
-  <text x="481.0" y="12" text-anchor="middle" fill="#fff" font-size="10.5" font-weight="700">média da rede 63,7%</text>
+  <line x1="480.8" y1="10" x2="480.8" y2="436" stroke="#fff" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"></line>
+  <text x="480.8" y="12" text-anchor="middle" fill="#fff" font-size="10.5" font-weight="700">média da rede 63,6%</text>
 </svg>
   </div>
 
-  <div class="balanco-card">
+  <details class="collapsible">
+    <summary>Balanço e critérios — o que esses números dizem</summary>
+    <div class="balanco-card">
     <h2>Balanço — o que esses números dizem</h2>
-    <p>No período analisado (16–28/10/2026, 9 dias com dados), a rede inteira movimentou R$ 2.583.952 em frete com uma margem de contribuição média de <b>63,7%</b>, um resultado estimado de contribuição de R$ 1.644.967. As <b>13 rotas que você mapeou</b> respondem por R$ 1.615.643 desse total (63%), mas com margem de <b>61,6%</b> — ligeiramente <b>abaixo</b> da média geral da rede. Ou seja: as rotas "oficiais" não são, no conjunto, as mais rentáveis — têm volume, mas a margem média delas é arrastada pra baixo principalmente por <b>RSL→GRU</b>, que é ao mesmo tempo a rota de maior volume citada (546,2 t) e a de margem mais fraca entre as mapeadas (41,8%).</p>
-    <p>As duas piores margens de <b>toda a rede</b> no período nem estão na sua lista: <b>RSL→POA</b> veio em 34,0% e outras rotas parecidas ficaram na mesma faixa — bem abaixo de qualquer rota mapeada. Vale olhar com atenção essas pernas "fora do radar" na tabela de exceções abaixo; juntas elas somam R$ 968.310 de frete com margem média de 67,1%.</p>
-    <p>Dos 17 corredores que você descreveu, <b>4</b> não tiveram nenhum caminhão fazendo a cadeia completa de uma vez só no período — não significa que não aconteça, só que não apareceu como viagem única nesses dias; o jeito mais confiável de confirmar é olhar um período mais longo (por isso a aba mensal, ao lado, é importante).</p>
+    <p>Na janela analisada (26–28/10/2026, 10 dia(s) com dados), a rede inteira movimentou R$ 2.866.952 em frete com uma margem de contribuição média de <b>63,6%</b>, um resultado estimado de contribuição de R$ 1.823.807. As <b>13 rotas que você mapeou</b> respondem por R$ 1.810.764 desse total (63%), com margem de <b>61,5%</b> — abaixo da média geral da rede.</p>
+    <p>As piores margens de <b>toda a rede</b> no período muitas vezes nem estão na sua lista: <b>RSL→POA</b> veio em 34,3% — vale olhar com atenção essas pernas "fora do radar" na tabela de exceções abaixo; juntas elas somam R$ 1.056.188 de frete com margem média de 67,2%.</p>
+    <p>Dos 17 corredores mapeados, <b>4</b> não tiveram nenhum caminhão fazendo a cadeia completa de uma vez só nessa janela — não significa que não aconteça, só que não apareceu como viagem única nesses dias; por isso essa página usa uma janela rolante dos últimos dias (não só hoje), e a aba mensal ao lado fecha o quadro com o período inteiro.</p>
     <h2 style="margin-top:18px;">O que eu considero uma rota "boa" e uma "pra melhorar"</h2>
     <div class="criterio-grid">
       <div class="criterio-box boa">
         <h4>✓ Rota boa</h4>
         <ul>
-          <li>Margem de contribuição <b>igual ou acima da média da rede</b> (63,7% neste período) — não um número fixo, porque a média muda junto com o custo e o frete praticado.</li>
+          <li>Margem de contribuição <b>igual ou acima da média da rede</b> (63,6% nessa janela) — não um número fixo, porque a média muda junto com o custo e o frete praticado.</li>
           <li>Volume consistente ao longo dos dias, não um pico isolado de uma única viagem.</li>
-          <li>Quando é uma cadeia de várias paradas, a margem da <b>viagem inteira</b> (não de cada perna isolada) é que precisa estar boa — uma perna ótima pode esconder outra ruim.</li>
+          <li>Quando é uma cadeia de várias paradas, a margem da <b>viagem inteira</b> (não de cada perna isolada) é que precisa estar boa.</li>
         </ul>
       </div>
       <div class="criterio-box ruim">
         <h4>⚠ Rota a melhorar</h4>
         <ul>
-          <li>Margem abaixo da média da rede — principalmente quando combina isso com <b>alto volume</b> (como RSL→GRU), porque aí o impacto em R$ no resultado final é bem maior do que uma rota pequena com margem igualmente baixa.</li>
-          <li>Margem baixa <b>e</b> em queda ao longo do tempo — vale olhar a evolução mês a mês (aba de análise mensal) antes de agir, pra não reagir a uma oscilação de poucos dias.</li>
-          <li>Importante: margem % baixa não quer dizer necessariamente "ruim pra empresa" se o volume for pequeno — e margem % boa numa rota de baixo volume também não resolve o resultado em R$ sozinha. As duas colunas (margem % e resultado R$) precisam ser lidas juntas.</li>
+          <li>Margem abaixo da média da rede — principalmente quando combina isso com <b>alto volume</b> (como RSL→GRU), porque aí o impacto em R$ no resultado final é bem maior.</li>
+          <li>Margem baixa <b>e</b> em queda ao longo do tempo — vale olhar a evolução mês a mês (aba de análise mensal) antes de agir.</li>
+          <li>Margem % baixa não quer dizer necessariamente "ruim" se o volume for pequeno — e margem % boa numa rota de baixo volume também não resolve o resultado em R$ sozinha.</li>
         </ul>
       </div>
     </div>
-  </div>
-
-  <div class="chain-highlight">
-    <h3>🚛 Exemplo real de rota em cadeia (mesmo caminhão, mesmo dia)</h3>
-    <p><b>RSL→ITJ→CTB</b> aconteceu <b>5 vezes</b> no período como viagem única de um só caminhão (sai de Rio do Sul, entrega em Itajaí, segue pra Curitiba, tudo no mesmo dia): 37,2t, R$ 31.082 de frete, margem de <b>51,9%</b> na viagem inteira.</p>
-    <p>Olhando só a perna RSL→ITJ isolada a margem é 50,1%, e só ITJ→CTB isolada é 55,3% — mas a viagem completa (as duas pernas juntas, que é o que o caminhão realmente fez) sai em 51,9%, abaixo da média da rede. É esse número da viagem inteira que importa pra decisão, não a perna isolada.</p>
-  </div>
+    </div>
+  </details>
 
   <div class="table-card" style="margin-bottom:16px;">
     <div class="table-head">
-      <h2>Rotas citadas por você — agrupadas por viagem real (placa + dia)</h2>
+      <h2>Rotas citadas — agrupadas por viagem real (placa + dia)</h2>
       <div class="row-count">13 rotas com movimento</div>
     </div>
     <div class="table-scroll">
@@ -465,60 +345,60 @@
         <tbody>
 <tr>
       <td><b>GRU→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">26x</td>
-      <td class="num">186,7 t</td>
-      <td class="num">R$ 271.249</td>
-      <td class="num">R$ 56.941</td>
-      <td class="num" style="color:var(--good);font-weight:700;">79,0%</td>
-      <td class="num report-total-col">R$ 214.308</td>
+      <td class="num">28x</td>
+      <td class="num">204,5 t</td>
+      <td class="num">R$ 299.080</td>
+      <td class="num">R$ 62.368</td>
+      <td class="num" style="color:var(--good);font-weight:700;">79,1%</td>
+      <td class="num report-total-col">R$ 236.712</td>
     </tr><tr>
       <td><b>RSL→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span><span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:6px;">ABAIXO DO IDEAL</span></td>
-      <td class="num">33x</td>
-      <td class="num">546,2 t</td>
-      <td class="num">R$ 437.400</td>
-      <td class="num">R$ 254.511</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">41,8%</td>
-      <td class="num report-total-col">R$ 182.889</td>
-    </tr><tr>
-      <td><b>ITJ→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span><span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:6px;">ABAIXO DO IDEAL</span></td>
-      <td class="num">23x</td>
-      <td class="num">198,3 t</td>
-      <td class="num">R$ 225.472</td>
-      <td class="num">R$ 92.428</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">59,0%</td>
-      <td class="num report-total-col">R$ 133.044</td>
+      <td class="num">36x</td>
+      <td class="num">606,1 t</td>
+      <td class="num">R$ 483.901</td>
+      <td class="num">R$ 282.421</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">41,6%</td>
+      <td class="num report-total-col">R$ 201.480</td>
     </tr><tr>
       <td><b>GRU→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
-      <td class="num">22x</td>
-      <td class="num">129,6 t</td>
-      <td class="num">R$ 185.807</td>
-      <td class="num">R$ 54.161</td>
-      <td class="num" style="color:var(--good);font-weight:700;">70,9%</td>
-      <td class="num report-total-col">R$ 131.646</td>
+      <td class="num">26x</td>
+      <td class="num">156,6 t</td>
+      <td class="num">R$ 222.123</td>
+      <td class="num">R$ 65.442</td>
+      <td class="num" style="color:var(--good);font-weight:700;">70,5%</td>
+      <td class="num report-total-col">R$ 156.681</td>
+    </tr><tr>
+      <td><b>ITJ→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span><span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:6px;">ABAIXO DO IDEAL</span></td>
+      <td class="num">24x</td>
+      <td class="num">220,5 t</td>
+      <td class="num">R$ 249.990</td>
+      <td class="num">R$ 102.743</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">58,9%</td>
+      <td class="num report-total-col">R$ 147.247</td>
     </tr><tr>
       <td><b>TBO→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
-      <td class="num">10x</td>
-      <td class="num">94,9 t</td>
-      <td class="num">R$ 149.290</td>
-      <td class="num">R$ 44.220</td>
-      <td class="num" style="color:var(--good);font-weight:700;">70,4%</td>
-      <td class="num report-total-col">R$ 105.070</td>
+      <td class="num">11x</td>
+      <td class="num">106,9 t</td>
+      <td class="num">R$ 169.170</td>
+      <td class="num">R$ 49.828</td>
+      <td class="num" style="color:var(--good);font-weight:700;">70,5%</td>
+      <td class="num report-total-col">R$ 119.342</td>
     </tr><tr>
       <td><b>CMP→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
-      <td class="num">11x</td>
-      <td class="num">43,6 t</td>
-      <td class="num">R$ 68.815</td>
-      <td class="num">R$ 20.314</td>
-      <td class="num" style="color:var(--good);font-weight:700;">70,5%</td>
-      <td class="num report-total-col">R$ 48.502</td>
+      <td class="num">13x</td>
+      <td class="num">60,0 t</td>
+      <td class="num">R$ 84.295</td>
+      <td class="num">R$ 27.949</td>
+      <td class="num" style="color:var(--good);font-weight:700;">66,8%</td>
+      <td class="num report-total-col">R$ 56.346</td>
     </tr><tr>
       <td><b>GRU→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
-      <td class="num">20x</td>
-      <td class="num">62,6 t</td>
-      <td class="num">R$ 74.149</td>
-      <td class="num">R$ 25.984</td>
-      <td class="num" style="color:var(--good);font-weight:700;">65,0%</td>
-      <td class="num report-total-col">R$ 48.165</td>
+      <td class="num">23x</td>
+      <td class="num">71,7 t</td>
+      <td class="num">R$ 82.891</td>
+      <td class="num">R$ 29.775</td>
+      <td class="num" style="color:var(--good);font-weight:700;">64,1%</td>
+      <td class="num report-total-col">R$ 53.116</td>
     </tr><tr>
       <td><b>RSL→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
       <td class="num">3x</td>
@@ -528,6 +408,14 @@
       <td class="num" style="color:var(--good);font-weight:700;">67,5%</td>
       <td class="num report-total-col">R$ 35.305</td>
     </tr><tr>
+      <td><b>TBO→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">12x</td>
+      <td class="num">34,2 t</td>
+      <td class="num">R$ 43.549</td>
+      <td class="num">R$ 10.432</td>
+      <td class="num" style="color:var(--good);font-weight:700;">76,0%</td>
+      <td class="num report-total-col">R$ 33.117</td>
+    </tr><tr>
       <td><b>ITJ→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span><span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:6px;">ABAIXO DO IDEAL</span></td>
       <td class="num">5x</td>
       <td class="num">39,0 t</td>
@@ -536,21 +424,13 @@
       <td class="num" style="color:var(--brand-red);font-weight:700;">59,0%</td>
       <td class="num report-total-col">R$ 31.943</td>
     </tr><tr>
-      <td><b>TBO→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">11x</td>
-      <td class="num">33,3 t</td>
-      <td class="num">R$ 41.509</td>
-      <td class="num">R$ 10.165</td>
-      <td class="num" style="color:var(--good);font-weight:700;">75,5%</td>
-      <td class="num report-total-col">R$ 31.345</td>
-    </tr><tr>
       <td><b>RSL→ITJ→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span><span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:6px;">ABAIXO DO IDEAL</span><span style="display:inline-block;font-size:10px;font-weight:700;color:var(--series-1);background:var(--series-1-wash);padding:2px 8px;border-radius:999px;margin-left:6px;">MESMO CAMINHÃO — 2 PARADAS</span></td>
-      <td class="num">5x</td>
-      <td class="num">37,2 t</td>
-      <td class="num">R$ 31.082</td>
-      <td class="num">R$ 14.961</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">51,9%</td>
-      <td class="num report-total-col">R$ 16.121</td>
+      <td class="num">6x</td>
+      <td class="num">42,3 t</td>
+      <td class="num">R$ 34.981</td>
+      <td class="num">R$ 16.878</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">51,7%</td>
+      <td class="num report-total-col">R$ 18.103</td>
     </tr><tr>
       <td><b>RSL→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
       <td class="num">8x</td>
@@ -561,18 +441,18 @@
       <td class="num report-total-col">R$ 13.911</td>
     </tr><tr>
       <td><b>POA→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
-      <td class="num">1x</td>
-      <td class="num">3,7 t</td>
-      <td class="num">R$ 4.992</td>
-      <td class="num">R$ 1.528</td>
-      <td class="num" style="color:var(--good);font-weight:700;">69,4%</td>
-      <td class="num report-total-col">R$ 3.463</td>
+      <td class="num">2x</td>
+      <td class="num">10,7 t</td>
+      <td class="num">R$ 14.907</td>
+      <td class="num">R$ 4.464</td>
+      <td class="num" style="color:var(--good);font-weight:700;">70,1%</td>
+      <td class="num report-total-col">R$ 10.444</td>
     </tr>
         </tbody>
       </table>
     </div>
     <div class="sem-dado-box">
-      <b style="font-size:12.5px;color:var(--text-primary);">4 rotas citadas sem movimento completo no período:</b>
+      <b style="font-size:12.5px;color:var(--text-primary);">4 rotas citadas sem movimento completo na janela:</b>
       <ul>
 <li><b>RSL→LGS→CXS→POA</b> — nenhum caminhão fez essa cadeia completa, de uma vez só, no período.</li><li><b>POA→CXS→LGS→RSL</b> — nenhum caminhão fez essa cadeia completa, de uma vez só, no período.</li><li><b>CTB→ITJ→RSL</b> — nenhum caminhão fez essa cadeia completa, de uma vez só, no período.</li><li><b>GRU→ITJ→TBO</b> — nenhum caminhão fez essa cadeia completa, de uma vez só, no período.</li>
       </ul>
@@ -593,61 +473,69 @@
           </tr></thead>
           <tbody>
 <tr>
-      <td><b>RSL→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
-      <td class="num">16x</td>
-      <td class="num">162,7 t</td>
-      <td class="num">R$ 93.321</td>
-      <td class="num">R$ 60.702</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">35,0%</td>
-      <td class="num report-total-col">R$ 32.619</td>
-    </tr><tr>
       <td><b>GRU→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
-      <td class="num">11x</td>
-      <td class="num">52,9 t</td>
-      <td class="num">R$ 87.787</td>
-      <td class="num">R$ 12.055</td>
-      <td class="num" style="color:var(--good);font-weight:700;">86,3%</td>
-      <td class="num report-total-col">R$ 75.731</td>
+      <td class="num">12x</td>
+      <td class="num">61,2 t</td>
+      <td class="num">R$ 99.409</td>
+      <td class="num">R$ 13.947</td>
+      <td class="num" style="color:var(--good);font-weight:700;">86,0%</td>
+      <td class="num report-total-col">R$ 85.462</td>
+    </tr><tr>
+      <td><b>RSL→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
+      <td class="num">17x</td>
+      <td class="num">172,1 t</td>
+      <td class="num">R$ 99.327</td>
+      <td class="num">R$ 64.177</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">35,4%</td>
+      <td class="num report-total-col">R$ 35.150</td>
     </tr><tr>
       <td><b>GRU→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
-      <td class="num">12x</td>
-      <td class="num">64,2 t</td>
-      <td class="num">R$ 72.935</td>
-      <td class="num">R$ 23.964</td>
-      <td class="num" style="color:var(--good);font-weight:700;">67,1%</td>
-      <td class="num report-total-col">R$ 48.971</td>
+      <td class="num">13x</td>
+      <td class="num">71,0 t</td>
+      <td class="num">R$ 84.841</td>
+      <td class="num">R$ 26.475</td>
+      <td class="num" style="color:var(--good);font-weight:700;">68,8%</td>
+      <td class="num report-total-col">R$ 58.366</td>
     </tr><tr>
       <td><b>BRQ→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
-      <td class="num">10x</td>
-      <td class="num">44,3 t</td>
-      <td class="num">R$ 62.015</td>
-      <td class="num">R$ 18.518</td>
-      <td class="num" style="color:var(--good);font-weight:700;">70,1%</td>
-      <td class="num report-total-col">R$ 43.498</td>
-    </tr><tr>
-      <td><b>ITJ→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">12x</td>
-      <td class="num">47,3 t</td>
-      <td class="num">R$ 55.873</td>
-      <td class="num">R$ 14.425</td>
-      <td class="num" style="color:var(--good);font-weight:700;">74,2%</td>
-      <td class="num report-total-col">R$ 41.448</td>
+      <td class="num">11x</td>
+      <td class="num">48,8 t</td>
+      <td class="num">R$ 67.344</td>
+      <td class="num">R$ 20.406</td>
+      <td class="num" style="color:var(--good);font-weight:700;">69,7%</td>
+      <td class="num report-total-col">R$ 46.937</td>
     </tr><tr>
       <td><b>RSL→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
-      <td class="num">11x</td>
-      <td class="num">41,3 t</td>
-      <td class="num">R$ 54.656</td>
-      <td class="num">R$ 9.129</td>
-      <td class="num" style="color:var(--good);font-weight:700;">83,3%</td>
-      <td class="num report-total-col">R$ 45.527</td>
+      <td class="num">12x</td>
+      <td class="num">42,3 t</td>
+      <td class="num">R$ 56.685</td>
+      <td class="num">R$ 9.344</td>
+      <td class="num" style="color:var(--good);font-weight:700;">83,5%</td>
+      <td class="num report-total-col">R$ 47.341</td>
+    </tr><tr>
+      <td><b>ITJ→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">13x</td>
+      <td class="num">47,7 t</td>
+      <td class="num">R$ 56.154</td>
+      <td class="num">R$ 14.557</td>
+      <td class="num" style="color:var(--good);font-weight:700;">74,1%</td>
+      <td class="num report-total-col">R$ 41.596</td>
     </tr><tr>
       <td><b>CTB→GRU</b> <span style="color:var(--text-muted);font-size:11px;">→ Guarulhos</span></td>
+      <td class="num">13x</td>
+      <td class="num">56,7 t</td>
+      <td class="num">R$ 55.442</td>
+      <td class="num">R$ 26.445</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">52,3%</td>
+      <td class="num report-total-col">R$ 28.997</td>
+    </tr><tr>
+      <td><b>POA→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
       <td class="num">12x</td>
-      <td class="num">55,5 t</td>
-      <td class="num">R$ 52.536</td>
-      <td class="num">R$ 25.847</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">50,8%</td>
-      <td class="num report-total-col">R$ 26.689</td>
+      <td class="num">41,3 t</td>
+      <td class="num">R$ 52.568</td>
+      <td class="num">R$ 12.607</td>
+      <td class="num" style="color:var(--good);font-weight:700;">76,0%</td>
+      <td class="num report-total-col">R$ 39.961</td>
     </tr><tr>
       <td><b>GRU→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
       <td class="num">4x</td>
@@ -657,61 +545,69 @@
       <td class="num" style="color:var(--good);font-weight:700;">69,6%</td>
       <td class="num report-total-col">R$ 36.145</td>
     </tr><tr>
-      <td><b>POA→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">11x</td>
-      <td class="num">37,1 t</td>
-      <td class="num">R$ 43.703</td>
-      <td class="num">R$ 11.305</td>
-      <td class="num" style="color:var(--good);font-weight:700;">74,1%</td>
-      <td class="num report-total-col">R$ 32.397</td>
+      <td><b>CTB→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">10x</td>
+      <td class="num">41,6 t</td>
+      <td class="num">R$ 40.161</td>
+      <td class="num">R$ 12.678</td>
+      <td class="num" style="color:var(--good);font-weight:700;">68,4%</td>
+      <td class="num report-total-col">R$ 27.483</td>
     </tr><tr>
       <td><b>RSL→POA</b> <span style="color:var(--text-muted);font-size:11px;">→ Porto Alegre</span></td>
-      <td class="num">8x</td>
-      <td class="num">43,1 t</td>
-      <td class="num">R$ 37.183</td>
-      <td class="num">R$ 24.552</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">34,0%</td>
-      <td class="num report-total-col">R$ 12.631</td>
-    </tr><tr>
-      <td><b>CTB→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
       <td class="num">9x</td>
-      <td class="num">36,7 t</td>
-      <td class="num">R$ 35.761</td>
-      <td class="num">R$ 11.181</td>
-      <td class="num" style="color:var(--good);font-weight:700;">68,7%</td>
-      <td class="num report-total-col">R$ 24.580</td>
+      <td class="num">44,5 t</td>
+      <td class="num">R$ 38.666</td>
+      <td class="num">R$ 25.386</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">34,3%</td>
+      <td class="num report-total-col">R$ 13.281</td>
     </tr><tr>
       <td><b>CTB→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
-      <td class="num">9x</td>
-      <td class="num">32,1 t</td>
-      <td class="num">R$ 30.048</td>
-      <td class="num">R$ 13.423</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">55,3%</td>
-      <td class="num report-total-col">R$ 16.625</td>
-    </tr><tr>
-      <td><b>RSL→CXS</b> <span style="color:var(--text-muted);font-size:11px;">→ Caxias do Sul</span></td>
       <td class="num">10x</td>
-      <td class="num">29,8 t</td>
-      <td class="num">R$ 27.961</td>
-      <td class="num">R$ 5.578</td>
-      <td class="num" style="color:var(--good);font-weight:700;">80,0%</td>
-      <td class="num report-total-col">R$ 22.382</td>
+      <td class="num">41,8 t</td>
+      <td class="num">R$ 37.142</td>
+      <td class="num">R$ 17.453</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">53,0%</td>
+      <td class="num report-total-col">R$ 19.688</td>
     </tr><tr>
       <td><b>RSL→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
-      <td class="num">9x</td>
-      <td class="num">32,1 t</td>
-      <td class="num">R$ 26.911</td>
-      <td class="num">R$ 13.429</td>
-      <td class="num" style="color:var(--brand-red);font-weight:700;">50,1%</td>
-      <td class="num report-total-col">R$ 13.483</td>
+      <td class="num">10x</td>
+      <td class="num">42,9 t</td>
+      <td class="num">R$ 33.981</td>
+      <td class="num">R$ 17.950</td>
+      <td class="num" style="color:var(--brand-red);font-weight:700;">47,2%</td>
+      <td class="num report-total-col">R$ 16.032</td>
+    </tr><tr>
+      <td><b>RSL→CXS</b> <span style="color:var(--text-muted);font-size:11px;">→ Caxias do Sul</span></td>
+      <td class="num">11x</td>
+      <td class="num">35,5 t</td>
+      <td class="num">R$ 31.648</td>
+      <td class="num">R$ 6.647</td>
+      <td class="num" style="color:var(--good);font-weight:700;">79,0%</td>
+      <td class="num report-total-col">R$ 25.001</td>
+    </tr><tr>
+      <td><b>LGS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">8x</td>
+      <td class="num">20,8 t</td>
+      <td class="num">R$ 24.305</td>
+      <td class="num">R$ 6.335</td>
+      <td class="num" style="color:var(--good);font-weight:700;">73,9%</td>
+      <td class="num report-total-col">R$ 17.971</td>
     </tr><tr>
       <td><b>ITJ→TBO</b> <span style="color:var(--text-muted);font-size:11px;">→ Timbó</span></td>
-      <td class="num">7x</td>
-      <td class="num">20,3 t</td>
-      <td class="num">R$ 21.771</td>
-      <td class="num">R$ 4.619</td>
-      <td class="num" style="color:var(--good);font-weight:700;">78,8%</td>
-      <td class="num report-total-col">R$ 17.152</td>
+      <td class="num">9x</td>
+      <td class="num">22,0 t</td>
+      <td class="num">R$ 23.567</td>
+      <td class="num">R$ 5.017</td>
+      <td class="num" style="color:var(--good);font-weight:700;">78,7%</td>
+      <td class="num report-total-col">R$ 18.550</td>
+    </tr><tr>
+      <td><b>CXS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
+      <td class="num">8x</td>
+      <td class="num">13,3 t</td>
+      <td class="num">R$ 21.913</td>
+      <td class="num">R$ 4.042</td>
+      <td class="num" style="color:var(--good);font-weight:700;">81,6%</td>
+      <td class="num report-total-col">R$ 17.871</td>
     </tr><tr>
       <td><b>ITJ→CRC</b> <span style="color:var(--text-muted);font-size:11px;">→ Criciúma</span></td>
       <td class="num">5x</td>
@@ -721,45 +617,29 @@
       <td class="num" style="color:var(--good);font-weight:700;">70,7%</td>
       <td class="num report-total-col">R$ 15.201</td>
     </tr><tr>
-      <td><b>CXS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">7x</td>
-      <td class="num">13,0 t</td>
-      <td class="num">R$ 21.257</td>
-      <td class="num">R$ 3.952</td>
-      <td class="num" style="color:var(--good);font-weight:700;">81,4%</td>
-      <td class="num report-total-col">R$ 17.305</td>
-    </tr><tr>
-      <td><b>LGS→RSL</b> <span style="color:var(--text-muted);font-size:11px;">→ Rio do Sul</span></td>
-      <td class="num">7x</td>
-      <td class="num">18,7 t</td>
-      <td class="num">R$ 21.177</td>
-      <td class="num">R$ 5.707</td>
-      <td class="num" style="color:var(--good);font-weight:700;">73,0%</td>
-      <td class="num report-total-col">R$ 15.469</td>
-    </tr><tr>
-      <td><b>ITJ→BRQ</b> <span style="color:var(--text-muted);font-size:11px;">→ Brusque</span></td>
-      <td class="num">7x</td>
-      <td class="num">17,5 t</td>
-      <td class="num">R$ 17.767</td>
-      <td class="num">R$ 5.496</td>
-      <td class="num" style="color:var(--good);font-weight:700;">69,1%</td>
-      <td class="num report-total-col">R$ 12.272</td>
-    </tr><tr>
       <td><b>ITJ→FLN</b> <span style="color:var(--text-muted);font-size:11px;">→ Florianópolis</span></td>
-      <td class="num">4x</td>
-      <td class="num">10,7 t</td>
-      <td class="num">R$ 17.684</td>
-      <td class="num">R$ 3.985</td>
-      <td class="num" style="color:var(--good);font-weight:700;">77,5%</td>
-      <td class="num report-total-col">R$ 13.699</td>
-    </tr><tr>
-      <td><b>RSL→JCB</b> <span style="color:var(--text-muted);font-size:11px;">→ Joaçaba</span></td>
       <td class="num">5x</td>
       <td class="num">12,1 t</td>
-      <td class="num">R$ 15.327</td>
-      <td class="num">R$ 1.891</td>
-      <td class="num" style="color:var(--good);font-weight:700;">87,7%</td>
-      <td class="num report-total-col">R$ 13.436</td>
+      <td class="num">R$ 20.726</td>
+      <td class="num">R$ 4.508</td>
+      <td class="num" style="color:var(--good);font-weight:700;">78,2%</td>
+      <td class="num report-total-col">R$ 16.218</td>
+    </tr><tr>
+      <td><b>ITJ→BRQ</b> <span style="color:var(--text-muted);font-size:11px;">→ Brusque</span></td>
+      <td class="num">8x</td>
+      <td class="num">19,3 t</td>
+      <td class="num">R$ 19.741</td>
+      <td class="num">R$ 6.073</td>
+      <td class="num" style="color:var(--good);font-weight:700;">69,2%</td>
+      <td class="num report-total-col">R$ 13.668</td>
+    </tr><tr>
+      <td><b>RSL→JCB</b> <span style="color:var(--text-muted);font-size:11px;">→ Joaçaba</span></td>
+      <td class="num">7x</td>
+      <td class="num">13,3 t</td>
+      <td class="num">R$ 16.595</td>
+      <td class="num">R$ 2.073</td>
+      <td class="num" style="color:var(--good);font-weight:700;">87,5%</td>
+      <td class="num report-total-col">R$ 14.523</td>
     </tr><tr>
       <td><b>ITJ→TUB</b> <span style="color:var(--text-muted);font-size:11px;">→ Tubarão</span></td>
       <td class="num">6x</td>
@@ -793,21 +673,21 @@
       <td class="num" style="color:var(--good);font-weight:700;">75,8%</td>
       <td class="num report-total-col">R$ 7.641</td>
     </tr><tr>
-      <td><b>POA→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
-      <td class="num">5x</td>
-      <td class="num">12,1 t</td>
-      <td class="num">R$ 9.741</td>
-      <td class="num">R$ 2.665</td>
-      <td class="num" style="color:var(--good);font-weight:700;">72,6%</td>
-      <td class="num report-total-col">R$ 7.076</td>
-    </tr><tr>
       <td><b>ITJ→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
-      <td class="num">2x</td>
-      <td class="num">7,0 t</td>
-      <td class="num">R$ 9.469</td>
-      <td class="num">R$ 2.914</td>
-      <td class="num" style="color:var(--good);font-weight:700;">69,2%</td>
-      <td class="num report-total-col">R$ 6.555</td>
+      <td class="num">3x</td>
+      <td class="num">7,6 t</td>
+      <td class="num">R$ 10.029</td>
+      <td class="num">R$ 3.141</td>
+      <td class="num" style="color:var(--good);font-weight:700;">68,7%</td>
+      <td class="num report-total-col">R$ 6.889</td>
+    </tr><tr>
+      <td><b>POA→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
+      <td class="num">6x</td>
+      <td class="num">12,3 t</td>
+      <td class="num">R$ 10.003</td>
+      <td class="num">R$ 2.726</td>
+      <td class="num" style="color:var(--good);font-weight:700;">72,7%</td>
+      <td class="num report-total-col">R$ 7.277</td>
     </tr><tr>
       <td><b>ITJ→ARR</b> <span style="color:var(--text-muted);font-size:11px;">→ Araranguá</span></td>
       <td class="num">6x</td>
@@ -816,6 +696,14 @@
       <td class="num">R$ 1.654</td>
       <td class="num" style="color:var(--good);font-weight:700;">77,9%</td>
       <td class="num report-total-col">R$ 5.846</td>
+    </tr><tr>
+      <td><b>TBO→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
+      <td class="num">3x</td>
+      <td class="num">1,9 t</td>
+      <td class="num">R$ 5.079</td>
+      <td class="num">R$ 805</td>
+      <td class="num" style="color:var(--good);font-weight:700;">84,1%</td>
+      <td class="num report-total-col">R$ 4.274</td>
     </tr><tr>
       <td><b>TBO→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
       <td class="num">5x</td>
@@ -842,12 +730,12 @@
       <td class="num report-total-col">R$ 3.656</td>
     </tr><tr>
       <td><b>ITJ→CTB</b> <span style="color:var(--text-muted);font-size:11px;">→ Curitiba</span></td>
-      <td class="num">3x</td>
-      <td class="num">3,5 t</td>
-      <td class="num">R$ 3.762</td>
-      <td class="num">R$ 1.307</td>
-      <td class="num" style="color:var(--good);font-weight:700;">65,3%</td>
-      <td class="num report-total-col">R$ 2.455</td>
+      <td class="num">4x</td>
+      <td class="num">3,6 t</td>
+      <td class="num">R$ 3.842</td>
+      <td class="num">R$ 1.359</td>
+      <td class="num" style="color:var(--good);font-weight:700;">64,6%</td>
+      <td class="num report-total-col">R$ 2.483</td>
     </tr><tr>
       <td><b>FLN→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
       <td class="num">2x</td>
@@ -857,21 +745,13 @@
       <td class="num" style="color:var(--good);font-weight:700;">81,7%</td>
       <td class="num report-total-col">R$ 2.396</td>
     </tr><tr>
-      <td><b>TBO→CMP</b> <span style="color:var(--text-muted);font-size:11px;">→ Campinas</span></td>
-      <td class="num">2x</td>
-      <td class="num">1,1 t</td>
-      <td class="num">R$ 2.766</td>
-      <td class="num">R$ 443</td>
-      <td class="num" style="color:var(--good);font-weight:700;">84,0%</td>
-      <td class="num report-total-col">R$ 2.323</td>
-    </tr><tr>
       <td><b>CXS→LGS</b> <span style="color:var(--text-muted);font-size:11px;">→ Lages</span></td>
-      <td class="num">4x</td>
-      <td class="num">1,1 t</td>
-      <td class="num">R$ 1.878</td>
-      <td class="num">R$ 245</td>
-      <td class="num" style="color:var(--good);font-weight:700;">86,9%</td>
-      <td class="num report-total-col">R$ 1.633</td>
+      <td class="num">5x</td>
+      <td class="num">1,2 t</td>
+      <td class="num">R$ 1.997</td>
+      <td class="num">R$ 256</td>
+      <td class="num" style="color:var(--good);font-weight:700;">87,2%</td>
+      <td class="num report-total-col">R$ 1.741</td>
     </tr><tr>
       <td><b>ARR→ITJ</b> <span style="color:var(--text-muted);font-size:11px;">→ Itajaí</span></td>
       <td class="num">2x</td>
@@ -903,7 +783,7 @@
     </div>
   </details>
 
-  <footer>Fonte: SSW — viagens reais por placa e horário, agrupadas em cadeias contínuas (2026-10-16 a 2026-10-28) · cruzado com o painel de resultados da empresa (custo por unidade/agência, set/2026)</footer>
+  <footer>Fonte: SSW — viagens reais por placa e horário, agrupadas em cadeias contínuas (janela rolante, últimos 10 dia(s) com dados) · cruzado com o painel de resultados da empresa (custo por unidade/agência)</footer>
 
 </div></div>
 </body>
