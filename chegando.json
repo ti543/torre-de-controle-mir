@@ -14,9 +14,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:45:49",
-          "lat": -27.824004,
-          "lon": -50.3628106
+          "data_hora_posicao": "29/10/2026 17:01:49",
+          "lat": -27.8239508,
+          "lon": -50.362859
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:45:49",
-          "lat": -27.824004,
-          "lon": -50.3628106
+          "data_hora_posicao": "29/10/2026 17:01:49",
+          "lat": -27.8239508,
+          "lon": -50.362859
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -110,12 +110,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO ZOOLOGICO LTDA - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 16:44:54",
-          "lat": -29.8031296,
-          "lon": -51.1661536
+          "referencia": "1.33 km de TRANSPORTES SILVEIRA GOMES LTDA - CANOAS/RS",
+          "data_hora_posicao": "29/10/2026 17:00:54",
+          "lat": -29.9461888,
+          "lon": -51.2043264
         },
-        "distancia_km": 20.1,
+        "distancia_km": 4.5,
         "proximo": true
       },
       {
@@ -130,12 +130,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO ZOOLOGICO LTDA - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 16:44:54",
-          "lat": -29.8031296,
-          "lon": -51.1661536
+          "referencia": "1.33 km de TRANSPORTES SILVEIRA GOMES LTDA - CANOAS/RS",
+          "data_hora_posicao": "29/10/2026 17:00:54",
+          "lat": -29.9461888,
+          "lon": -51.2043264
         },
-        "distancia_km": 20.1,
+        "distancia_km": 4.5,
         "proximo": true
       }
     ],
@@ -183,5 +183,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T16:47:39"
+  "_gerado_em": "2026-10-29T17:03:06"
 }
