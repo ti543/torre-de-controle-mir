@@ -216,6 +216,7 @@ function mostrarPainel(cod) {
   subtitulo.textContent = "painel do gerente — " + (u ? u.nome : cod);
   telaEscolha.classList.add("hidden");
   telaPainel.classList.remove("hidden");
+  atualizarStatusNotificacoes(cod);
   carregarChegadas(cod);
 }
 
@@ -229,6 +230,40 @@ const unidadeAtual = unidadeSalva();
 if (unidadeAtual) mostrarPainel(unidadeAtual);
 
 // --- Notificações ---
+// Guarda, por unidade, que esse navegador já pediu e recebeu permissão de
+// notificação (e já tem um token salvo no Firestore) — isso é o que
+// permite mostrar "ativadas" de novo depois de atualizar a página, sem
+// precisar clicar no botão outra vez. A permissão em si (Notification.
+// permission) já é guardada pelo próprio navegador entre uma visita e
+// outra; aqui só guardamos que FOI ESSE site que já concluiu a ativação
+// (gerou token e salvou no Firestore) pra essa unidade.
+function flagNotifAtivadasKey(cod) {
+  return "torre_notif_ativas_" + cod;
+}
+function notifJaAtivadas(cod) {
+  try { return localStorage.getItem(flagNotifAtivadasKey(cod)) === "1"; } catch (e) { return false; }
+}
+function marcarNotifAtivadas(cod) {
+  try { localStorage.setItem(flagNotifAtivadasKey(cod), "1"); } catch (e) {}
+}
+
+function atualizarStatusNotificacoes(cod) {
+  const permissaoOk = typeof Notification !== "undefined" && Notification.permission === "granted";
+  if (permissaoOk && notifJaAtivadas(cod)) {
+    dotStatus.classList.add("ok");
+    textoStatus.textContent = "Notificações ativadas para " + cod;
+  } else if (notifJaAtivadas(cod) && !permissaoOk) {
+    // já tinha ativado antes, mas a permissão foi revogada depois
+    // (ex.: nas configurações do navegador) — avisa em vez de mostrar
+    // "ativadas" errado.
+    dotStatus.classList.remove("ok");
+    textoStatus.textContent = "Permissão de notificação foi revogada — ative de novo";
+  } else {
+    dotStatus.classList.remove("ok");
+    textoStatus.textContent = "Notificações desativadas";
+  }
+}
+
 async function ativarNotificacoes() {
   const cod = unidadeSalva();
   if (!cod) return;
@@ -250,8 +285,8 @@ async function ativarNotificacoes() {
       unidade: cod,
       atualizadoEm: serverTimestamp(),
     });
-    dotStatus.classList.add("ok");
-    textoStatus.textContent = "Notificações ativadas para " + cod;
+    marcarNotifAtivadas(cod);
+    atualizarStatusNotificacoes(cod);
     onMessage(messaging, (payload) => {
       carregarChegadas(cod);
     });
