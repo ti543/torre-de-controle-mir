@@ -43,12 +43,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.16 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:16:04",
-          "lat": -29.9848566,
-          "lon": -51.1856555
+          "referencia": "1.22 km de MS GOMES TRANSPORTES - GRAVATAI/RS",
+          "data_hora_posicao": "29/10/2026 18:29:19",
+          "lat": -29.9551601,
+          "lon": -51.0730456
         },
-        "distancia_km": 420.3,
+        "distancia_km": 411.4,
         "proximo": false
       }
     ],
@@ -84,12 +84,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.97 km de CAI CARREFOUR VILA BRANDINA - CAMPINAS/SP - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 18:15:28",
-          "lat": -22.8746466666667,
-          "lon": -47.01714
+          "referencia": "1.35 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 18:29:29",
+          "lat": -22.8830716666667,
+          "lon": -47.013805
         },
-        "distancia_km": 87.2,
+        "distancia_km": 86.3,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.33 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 18:14:23",
-          "lat": -27.1063366666667,
-          "lon": -49.5217133333333
+          "referencia": "2.84 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 18:30:28",
+          "lat": -27.0981483333333,
+          "lon": -49.5299533333333
         },
-        "distancia_km": 507.9,
+        "distancia_km": 507.7,
         "proximo": false
       },
       {
@@ -124,12 +124,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.33 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 18:14:23",
-          "lat": -27.1063366666667,
-          "lon": -49.5217133333333
+          "referencia": "2.84 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 18:30:28",
+          "lat": -27.0981483333333,
+          "lon": -49.5299533333333
         },
-        "distancia_km": 507.9,
+        "distancia_km": 507.7,
         "proximo": false
       }
     ],
@@ -160,12 +160,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 18:15:50",
-          "lat": -27.8239508,
-          "lon": -50.362859
+          "referencia": "1.51 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 18:30:50",
+          "lat": -27.7794641,
+          "lon": -50.34142
         },
-        "distancia_km": 98.3,
+        "distancia_km": 93.4,
         "proximo": false
       },
       {
@@ -181,7 +181,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 18:15:00",
+          "data_hora_posicao": "29/10/2026 18:29:00",
           "lat": -23.4705664,
           "lon": -46.4621056
         },
@@ -200,12 +200,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 18:15:50",
-          "lat": -27.8239508,
-          "lon": -50.362859
+          "referencia": "1.51 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 18:30:50",
+          "lat": -27.7794641,
+          "lon": -50.34142
         },
-        "distancia_km": 98.3,
+        "distancia_km": 93.4,
         "proximo": false
       },
       {
@@ -220,12 +220,32 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 18:15:50",
-          "lat": -27.8239508,
-          "lon": -50.362859
+          "referencia": "1.51 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 18:30:50",
+          "lat": -27.7794641,
+          "lon": -50.34142
         },
-        "distancia_km": 98.3,
+        "distancia_km": 93.4,
+        "proximo": false
+      },
+      {
+        "manif": "POA016187-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 325.6,
+        "frete_rs": 593.95,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 18:29:40",
+          "lat": -29.9839683333333,
+          "lon": -51.1869433333333
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -241,9 +261,9 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 247.06,
-        "frete_rs": 802.35,
-        "qtde": 1
+        "peso_kg": 572.6600000000001,
+        "frete_rs": 1396.3000000000002,
+        "qtde": 2
       }
     }
   },
@@ -277,7 +297,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:14:54",
+          "data_hora_posicao": "29/10/2026 18:28:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -297,7 +317,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:14:54",
+          "data_hora_posicao": "29/10/2026 18:28:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -323,51 +343,36 @@
       }
     }
   },
-  "TBO": {
+  "LGS": {
     "veiculos": [
       {
-        "manif": "RSL044078-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 894.62,
-        "frete_rs": 1101.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044091-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RYD5B26",
-        "motorista": "SEVERINO MIRANDA",
-        "peso_real_kg": 713.77,
-        "frete_rs": 1219.37,
-        "grupo_origem": "Rio do Sul",
+        "manif": "POA016186-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2135.43,
+        "frete_rs": 1954.13,
+        "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 18:15:26",
-          "lat": -27.2061248,
-          "lon": -49.6493024
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 18:29:40",
+          "lat": -29.9839683333333,
+          "lon": -51.1869433333333
         },
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 1608.3899999999999,
-        "frete_rs": 2320.38,
-        "qtde": 2
+      "Porto Alegre": {
+        "peso_kg": 2135.43,
+        "frete_rs": 1954.13,
+        "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-10-29T18:17:30"
+  "_gerado_em": "2026-10-29T18:32:24"
 }
