@@ -14,32 +14,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:57:45",
+          "data_hora_posicao": "29/10/2026 16:13:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "JCB000016-7",
-        "origin_unit": "JCB",
-        "origin_city": "JOACABA/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 1106.42,
-        "frete_rs": 2655.26,
-        "grupo_origem": "JCB",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 16:00:20",
-          "lat": -27.2061073,
-          "lon": -49.6493946
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "POA016176-4",
@@ -54,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:57:45",
+          "data_hora_posicao": "29/10/2026 16:13:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -66,11 +46,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 2368.9,
         "frete_rs": 2976.26,
-        "qtde": 1
-      },
-      "JCB": {
-        "peso_kg": 1106.42,
-        "frete_rs": 2655.26,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -135,12 +110,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.13 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "29/10/2026 16:00:54",
-          "lat": -29.4319968,
-          "lon": -51.351232
+          "referencia": "0.85 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "29/10/2026 16:14:54",
+          "lat": -29.5916224,
+          "lon": -51.3542176
         },
-        "distancia_km": 63.3,
+        "distancia_km": 46.5,
         "proximo": false
       },
       {
@@ -155,12 +130,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.13 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "29/10/2026 16:00:54",
-          "lat": -29.4319968,
-          "lon": -51.351232
+          "referencia": "0.85 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "29/10/2026 16:14:54",
+          "lat": -29.5916224,
+          "lon": -51.3542176
         },
-        "distancia_km": 63.3,
+        "distancia_km": 46.5,
         "proximo": false
       }
     ],
@@ -248,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T16:02:43"
+  "_gerado_em": "2026-10-29T16:17:40"
 }
