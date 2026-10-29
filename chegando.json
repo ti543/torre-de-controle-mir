@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:31:15",
+          "data_hora_posicao": "29/10/2026 13:43:15",
           "lat": -27.823971,
           "lon": -50.3628908
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:31:15",
+          "data_hora_posicao": "29/10/2026 13:43:15",
           "lat": -27.823971,
           "lon": -50.3628908
         },
@@ -70,7 +70,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:31:15",
+          "data_hora_posicao": "29/10/2026 13:43:15",
           "lat": -27.823971,
           "lon": -50.3628908
         },
@@ -89,10 +89,10 @@
         "frete_rs": 4315.65,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 13:30:16",
-          "lat": -27.1357472,
-          "lon": -49.5433984
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 13:46:16",
+          "lat": -27.1358016,
+          "lon": -49.5435424
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -125,9 +125,9 @@
         "grupo_origem": "JCB",
         "posicao_raster": {
           "referencia": "0.55 km de POSTO SERRANO X - CURITIBANOS/SC",
-          "data_hora_posicao": "29/10/2026 13:28:07",
-          "lat": -27.3172418,
-          "lon": -50.5597395
+          "data_hora_posicao": "29/10/2026 13:44:03",
+          "lat": -27.3172828,
+          "lon": -50.559761
         },
         "distancia_km": 90.8,
         "proximo": false
@@ -145,7 +145,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:31:15",
+          "data_hora_posicao": "29/10/2026 13:43:15",
           "lat": -27.823971,
           "lon": -50.3628908
         },
@@ -189,14 +189,9 @@
         "peso_real_kg": 6993.24,
         "frete_rs": 4800.0,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 13:29:58",
-          "lat": -26.8876448,
-          "lon": -48.7207328
-        },
-        "distancia_km": 0.0,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -220,13 +215,8 @@
         "peso_real_kg": 6321.45,
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 13:29:58",
-          "lat": -26.8876448,
-          "lon": -48.7207328
-        },
-        "distancia_km": 420.2,
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -242,7 +232,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 13:30:54",
+          "data_hora_posicao": "29/10/2026 13:44:54",
           "lat": -29.1463712,
           "lon": -51.164864
         },
@@ -262,7 +252,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 13:30:54",
+          "data_hora_posicao": "29/10/2026 13:44:54",
           "lat": -29.1463712,
           "lon": -51.164864
         },
@@ -348,10 +338,10 @@
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:31:00",
-          "lat": -23.2461968,
-          "lon": -46.8797568
+          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
+          "data_hora_posicao": "29/10/2026 13:45:00",
+          "lat": -23.1298448,
+          "lon": -46.9805824
         },
         "distancia_km": null,
         "proximo": false
@@ -368,10 +358,10 @@
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:31:00",
-          "lat": -23.2461968,
-          "lon": -46.8797568
+          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
+          "data_hora_posicao": "29/10/2026 13:45:00",
+          "lat": -23.1298448,
+          "lon": -46.9805824
         },
         "distancia_km": null,
         "proximo": false
@@ -388,10 +378,10 @@
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:31:00",
-          "lat": -23.2461968,
-          "lon": -46.8797568
+          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
+          "data_hora_posicao": "29/10/2026 13:45:00",
+          "lat": -23.1298448,
+          "lon": -46.9805824
         },
         "distancia_km": null,
         "proximo": false
@@ -408,10 +398,10 @@
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:31:00",
-          "lat": -23.2461968,
-          "lon": -46.8797568
+          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
+          "data_hora_posicao": "29/10/2026 13:45:00",
+          "lat": -23.1298448,
+          "lon": -46.9805824
         },
         "distancia_km": null,
         "proximo": false
@@ -449,12 +439,12 @@
         "frete_rs": 13465.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:30:04",
-          "lat": -23.5086448,
-          "lon": -46.6947616
+          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 13:46:04",
+          "lat": -23.5172656,
+          "lon": -46.6549952
         },
-        "distancia_km": 24.1,
+        "distancia_km": 20.3,
         "proximo": true
       },
       {
@@ -469,12 +459,12 @@
         "frete_rs": 2246.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:30:04",
-          "lat": -23.5086448,
-          "lon": -46.6947616
+          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 13:46:04",
+          "lat": -23.5172656,
+          "lon": -46.6549952
         },
-        "distancia_km": 24.1,
+        "distancia_km": 20.3,
         "proximo": true
       },
       {
@@ -489,12 +479,12 @@
         "frete_rs": 2089.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:30:04",
-          "lat": -23.5086448,
-          "lon": -46.6947616
+          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 13:46:04",
+          "lat": -23.5172656,
+          "lon": -46.6549952
         },
-        "distancia_km": 24.1,
+        "distancia_km": 20.3,
         "proximo": true
       }
     ],
@@ -532,67 +522,5 @@
       }
     }
   },
-  "JCB": {
-    "veiculos": [
-      {
-        "manif": "RSL044064-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
-        "placa": "QJR4I97",
-        "motorista": "CARLOS SOARES DOS REIS",
-        "peso_real_kg": 629.41,
-        "frete_rs": 1301.26,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.37 km de ALCEU SPULDARO TRANSPORTES - JOACABA/SC",
-          "data_hora_posicao": "29/10/2026 13:30:07",
-          "lat": -27.1791466666667,
-          "lon": -51.5230933333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 629.41,
-        "frete_rs": 1301.26,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044073-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1081.2,
-        "frete_rs": 1493.03,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 13:30:54",
-          "lat": -29.1463712,
-          "lon": -51.164864
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 1081.2,
-        "frete_rs": 1493.03,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-10-29T13:32:43"
+  "_gerado_em": "2026-10-29T13:47:37"
 }
