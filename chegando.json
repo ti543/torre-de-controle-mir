@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:57:45",
+          "data_hora_posicao": "29/10/2026 15:13:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -33,13 +33,13 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.76 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "29/10/2026 14:59:54",
-          "lat": -27.2482128,
-          "lon": -49.981507
+          "referencia": "1.6 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "29/10/2026 15:14:00",
+          "lat": -27.2759971,
+          "lon": -49.8544545
         },
-        "distancia_km": 33.1,
-        "proximo": false
+        "distancia_km": 21.7,
+        "proximo": true
       },
       {
         "manif": "POA016176-4",
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:57:45",
+          "data_hora_posicao": "29/10/2026 15:13:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -135,12 +135,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.7 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 15:00:26",
-          "lat": -29.139008,
-          "lon": -51.216512
+          "referencia": "0.45 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 15:14:54",
+          "lat": -29.18768,
+          "lon": -51.247344
         },
-        "distancia_km": 93.9,
+        "distancia_km": 88.7,
         "proximo": false
       },
       {
@@ -155,12 +155,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.7 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 15:00:26",
-          "lat": -29.139008,
-          "lon": -51.216512
+          "referencia": "0.45 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 15:14:54",
+          "lat": -29.18768,
+          "lon": -51.247344
         },
-        "distancia_km": 93.9,
+        "distancia_km": 88.7,
         "proximo": false
       }
     ],
@@ -248,5 +248,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T15:02:53"
+  "_gerado_em": "2026-10-29T15:17:42"
 }
