@@ -1,75 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000750-1",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 2354.16,
-        "frete_rs": 4471.01,
-        "grupo_origem": "Brusque",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "FLN000133-3",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 70.0,
-        "frete_rs": 219.47,
-        "grupo_origem": "FLN",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016185-3",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3449.72,
-        "frete_rs": 8179.48,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "4.63 km de PEDAGIO - S. A. DA PATRULHA (BR 290 SENTIDO LITORAL) - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "29/10/2026 19:15:24",
-          "lat": -29.8816315,
-          "lon": -50.4967173
-        },
-        "distancia_km": 375.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 2354.16,
-        "frete_rs": 4471.01,
-        "qtde": 1
-      },
-      "FLN": {
-        "peso_kg": 70.0,
-        "frete_rs": 219.47,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 3449.72,
-        "frete_rs": 8179.48,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -84,12 +13,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.15 km de PEDAGIO - ATIBAIA - ATIBAIA/SP",
-          "data_hora_posicao": "29/10/2026 19:15:29",
-          "lat": -23.095455,
-          "lon": -46.6251566666667
+          "referencia": "0.33 km de LANCHONETE E RESTAURANTE CHIMBIKA - ATIBAIA/SP",
+          "data_hora_posicao": "29/10/2026 19:29:29",
+          "lat": -23.2,
+          "lon": -46.58844
         },
-        "distancia_km": 44.9,
+        "distancia_km": 32.7,
         "proximo": false
       },
       {
@@ -105,11 +34,31 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 19:15:00",
+          "data_hora_posicao": "29/10/2026 19:31:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
         "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013523-2",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 8831.44,
+        "frete_rs": 6568.71,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.61 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
+          "data_hora_posicao": "29/10/2026 19:31:11",
+          "lat": -25.4988416,
+          "lon": -49.277744
+        },
+        "distancia_km": 363.4,
         "proximo": false
       },
       {
@@ -124,12 +73,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.26 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:15:59",
-          "lat": -27.0887466666667,
-          "lon": -49.51962
+          "referencia": "2.43 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 19:30:54",
+          "lat": -27.08067,
+          "lon": -49.5134983333333
         },
-        "distancia_km": 506.3,
+        "distancia_km": 505.2,
         "proximo": false
       },
       {
@@ -144,12 +93,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.26 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:15:59",
-          "lat": -27.0887466666667,
-          "lon": -49.51962
+          "referencia": "2.43 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 19:30:54",
+          "lat": -27.08067,
+          "lon": -49.5134983333333
         },
-        "distancia_km": 506.3,
+        "distancia_km": 505.2,
         "proximo": false
       }
     ],
@@ -159,6 +108,11 @@
         "frete_rs": 21644.48,
         "qtde": 2
       },
+      "Curitiba": {
+        "peso_kg": 8831.44,
+        "frete_rs": 6568.71,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 29666.62,
         "frete_rs": 22848.660000000003,
@@ -166,8 +120,84 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013524-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 2486.68,
+        "frete_rs": 2599.54,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.1 km de SERVOPA CAMINHÕES - CURITIBA/PR",
+          "data_hora_posicao": "29/10/2026 19:31:04",
+          "lat": -25.535416,
+          "lon": -49.3012992
+        },
+        "distancia_km": 161.1,
+        "proximo": false
+      },
+      {
+        "manif": "POA016185-3",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3449.72,
+        "frete_rs": 8179.48,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "5.11 km de CD OSORIO - OSORIO/RS",
+          "data_hora_posicao": "29/10/2026 19:29:26",
+          "lat": -29.8975226,
+          "lon": -50.3426726
+        },
+        "distancia_km": 370.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 2486.68,
+        "frete_rs": 2599.54,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3449.72,
+        "frete_rs": 8179.48,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013525-9",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 1524.77,
+        "frete_rs": 2284.74,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.1 km de SERVOPA CAMINHÕES - CURITIBA/PR",
+          "data_hora_posicao": "29/10/2026 19:31:04",
+          "lat": -25.535416,
+          "lon": -49.3012992
+        },
+        "distancia_km": 189.0,
+        "proximo": false
+      },
       {
         "manif": "CXS002230-6",
         "origin_unit": "CXS",
@@ -180,12 +210,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
-          "data_hora_posicao": "29/10/2026 19:14:01",
-          "lat": -27.3917696,
-          "lon": -50.4274944
+          "referencia": "3.52 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:29:01",
+          "lat": -27.3119232,
+          "lon": -50.3880192
         },
-        "distancia_km": 79.6,
+        "distancia_km": 73.9,
         "proximo": false
       },
       {
@@ -200,12 +230,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "29/10/2026 19:15:00",
-          "lat": -23.4737168,
-          "lon": -46.3307776
+          "referencia": "2.16 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "29/10/2026 19:31:00",
+          "lat": -23.6394432,
+          "lon": -46.3889152
         },
-        "distancia_km": 532.4,
+        "distancia_km": 514.3,
         "proximo": false
       },
       {
@@ -220,12 +250,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
-          "data_hora_posicao": "29/10/2026 19:14:01",
-          "lat": -27.3917696,
-          "lon": -50.4274944
+          "referencia": "3.52 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:29:01",
+          "lat": -27.3119232,
+          "lon": -50.3880192
         },
-        "distancia_km": 79.6,
+        "distancia_km": 73.9,
         "proximo": false
       },
       {
@@ -240,12 +270,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
-          "data_hora_posicao": "29/10/2026 19:14:01",
-          "lat": -27.3917696,
-          "lon": -50.4274944
+          "referencia": "3.52 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:29:01",
+          "lat": -27.3119232,
+          "lon": -50.3880192
         },
-        "distancia_km": 79.6,
+        "distancia_km": 73.9,
         "proximo": false
       },
       {
@@ -261,7 +291,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:15:34",
+          "data_hora_posicao": "29/10/2026 19:29:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -285,6 +315,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 1524.77,
+        "frete_rs": 2284.74,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 4029.62,
         "frete_rs": 5424.68,
@@ -337,7 +372,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:14:54",
+          "data_hora_posicao": "29/10/2026 19:30:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -357,7 +392,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:14:54",
+          "data_hora_posicao": "29/10/2026 19:30:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -398,7 +433,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:15:34",
+          "data_hora_posicao": "29/10/2026 19:29:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -414,5 +449,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T19:17:38"
+  "_gerado_em": "2026-10-29T19:32:24"
 }
