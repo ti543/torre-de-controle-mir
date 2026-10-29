@@ -13,10 +13,10 @@
         "frete_rs": 109.85,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:43:15",
-          "lat": -27.823971,
-          "lon": -50.3628908
+          "referencia": "0.51 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:00:34",
+          "lat": -27.8237433,
+          "lon": -50.362259
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 3489.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:43:15",
-          "lat": -27.823971,
-          "lon": -50.3628908
+          "referencia": "0.51 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:00:34",
+          "lat": -27.8237433,
+          "lon": -50.362259
         },
         "distancia_km": null,
         "proximo": false
@@ -69,10 +69,10 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:43:15",
-          "lat": -27.823971,
-          "lon": -50.3628908
+          "referencia": "0.51 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:00:34",
+          "lat": -27.8237433,
+          "lon": -50.362259
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,28 +89,13 @@
         "frete_rs": 4315.65,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 13:46:16",
-          "lat": -27.1358016,
-          "lon": -49.5435424
+          "referencia": "1.53 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 14:00:16",
+          "lat": -27.1881568,
+          "lon": -49.6103136
         },
-        "distancia_km": 13.1,
+        "distancia_km": 4.4,
         "proximo": true
-      },
-      {
-        "manif": "GRU073983-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 9018.47,
-        "frete_rs": 11034.9,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       },
       {
         "manif": "JCB000016-7",
@@ -124,12 +109,12 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.55 km de POSTO SERRANO X - CURITIBANOS/SC",
-          "data_hora_posicao": "29/10/2026 13:44:03",
-          "lat": -27.3172828,
-          "lon": -50.559761
+          "referencia": "2.15 km de BERNECK - CURITIBANOS/SC",
+          "data_hora_posicao": "29/10/2026 13:58:43",
+          "lat": -27.3100961,
+          "lon": -50.4932845
         },
-        "distancia_km": 90.8,
+        "distancia_km": 84.2,
         "proximo": false
       },
       {
@@ -144,10 +129,10 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 13:43:15",
-          "lat": -27.823971,
-          "lon": -50.3628908
+          "referencia": "0.51 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:00:34",
+          "lat": -27.8237433,
+          "lon": -50.362259
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -160,9 +145,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 12653.789999999999,
-        "frete_rs": 15350.55,
-        "qtde": 2
+        "peso_kg": 3635.32,
+        "frete_rs": 4315.65,
+        "qtde": 1
       },
       "JCB": {
         "peso_kg": 1106.42,
@@ -231,12 +216,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 13:44:54",
-          "lat": -29.1463712,
-          "lon": -51.164864
+          "referencia": "0.25 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 14:00:11",
+          "lat": -29.148992,
+          "lon": -51.164784
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.8,
         "proximo": false
       },
       {
@@ -251,12 +236,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 13:44:54",
-          "lat": -29.1463712,
-          "lon": -51.164864
+          "referencia": "0.25 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 14:00:11",
+          "lat": -29.148992,
+          "lon": -51.164784
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.8,
         "proximo": false
       }
     ],
@@ -338,10 +323,10 @@
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:45:00",
-          "lat": -23.1298448,
-          "lon": -46.9805824
+          "referencia": "0.41 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 13:59:00",
+          "lat": -23.0128656,
+          "lon": -47.0866176
         },
         "distancia_km": null,
         "proximo": false
@@ -358,10 +343,10 @@
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:45:00",
-          "lat": -23.1298448,
-          "lon": -46.9805824
+          "referencia": "0.41 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 13:59:00",
+          "lat": -23.0128656,
+          "lon": -47.0866176
         },
         "distancia_km": null,
         "proximo": false
@@ -378,10 +363,10 @@
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:45:00",
-          "lat": -23.1298448,
-          "lon": -46.9805824
+          "referencia": "0.41 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 13:59:00",
+          "lat": -23.0128656,
+          "lon": -47.0866176
         },
         "distancia_km": null,
         "proximo": false
@@ -398,10 +383,10 @@
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.44 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
-          "data_hora_posicao": "29/10/2026 13:45:00",
-          "lat": -23.1298448,
-          "lon": -46.9805824
+          "referencia": "0.41 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 13:59:00",
+          "lat": -23.0128656,
+          "lon": -47.0866176
         },
         "distancia_km": null,
         "proximo": false
@@ -439,12 +424,12 @@
         "frete_rs": 13465.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:46:04",
-          "lat": -23.5172656,
-          "lon": -46.6549952
+          "referencia": "0.06 km de AUTO POSTO LIDER - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 14:00:04",
+          "lat": -23.5196432,
+          "lon": -46.6276096
         },
-        "distancia_km": 20.3,
+        "distancia_km": 17.7,
         "proximo": true
       },
       {
@@ -459,12 +444,12 @@
         "frete_rs": 2246.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:46:04",
-          "lat": -23.5172656,
-          "lon": -46.6549952
+          "referencia": "0.06 km de AUTO POSTO LIDER - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 14:00:04",
+          "lat": -23.5196432,
+          "lon": -46.6276096
         },
-        "distancia_km": 20.3,
+        "distancia_km": 17.7,
         "proximo": true
       },
       {
@@ -479,12 +464,12 @@
         "frete_rs": 2089.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 13:46:04",
-          "lat": -23.5172656,
-          "lon": -46.6549952
+          "referencia": "0.06 km de AUTO POSTO LIDER - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 14:00:04",
+          "lat": -23.5196432,
+          "lon": -46.6276096
         },
-        "distancia_km": 20.3,
+        "distancia_km": 17.7,
         "proximo": true
       }
     ],
@@ -522,5 +507,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T13:47:37"
+  "_gerado_em": "2026-10-29T14:02:47"
 }
