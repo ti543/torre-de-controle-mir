@@ -1,60 +1,4 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002229-2",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXR9A98",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 29.8,
-        "frete_rs": 109.85,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:30:08",
-          "lat": -27.809674,
-          "lon": -50.3672888
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016175-6",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXR9A98",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 5140.0,
-        "frete_rs": 3489.62,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:30:08",
-          "lat": -27.809674,
-          "lon": -50.3672888
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 29.8,
-        "frete_rs": 109.85,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 5140.0,
-        "frete_rs": 3489.62,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -69,12 +13,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:30:08",
-          "lat": -27.809674,
-          "lon": -50.3672888
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:45:45",
+          "lat": -27.8239261,
+          "lon": -50.362859
         },
-        "distancia_km": 97.5,
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -89,12 +33,12 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "3.25 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 14:30:22",
-          "lat": -27.2920846,
-          "lon": -50.2060271
+          "referencia": "10.1 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "29/10/2026 14:46:16",
+          "lat": -27.2930208,
+          "lon": -50.0786713
         },
-        "distancia_km": 55.8,
+        "distancia_km": 43.5,
         "proximo": false
       },
       {
@@ -109,12 +53,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:30:08",
-          "lat": -27.809674,
-          "lon": -50.3672888
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:45:45",
+          "lat": -27.8239261,
+          "lon": -50.362859
         },
-        "distancia_km": 97.5,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -192,7 +136,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.13 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 14:30:54",
+          "data_hora_posicao": "29/10/2026 14:44:54",
           "lat": -29.1283488,
           "lon": -51.1829408
         },
@@ -212,7 +156,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.13 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 14:30:54",
+          "data_hora_posicao": "29/10/2026 14:44:54",
           "lat": -29.1283488,
           "lon": -51.1829408
         },
@@ -284,76 +228,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ023932-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 7793.65,
-        "frete_rs": 13465.19,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 14:31:21",
-          "lat": -23.4705872,
-          "lon": -46.4614592
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023933-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1440.13,
-        "frete_rs": 2246.12,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 14:31:21",
-          "lat": -23.4705872,
-          "lon": -46.4614592
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023942-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1226.35,
-        "frete_rs": 2089.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 14:31:21",
-          "lat": -23.4705872,
-          "lon": -46.4614592
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 10460.13,
-        "frete_rs": 17800.31,
-        "qtde": 3
-      }
-    }
-  },
-  "_gerado_em": "2026-10-29T14:32:40"
+  "_gerado_em": "2026-10-29T14:47:44"
 }
