@@ -292,6 +292,8 @@
   .kpi-label { font-size: 11.5px; font-weight:700; color: var(--text-muted); text-transform:uppercase; letter-spacing:.3px; margin-bottom:4px; }
   .kpi-value { font-weight:800; color: var(--text-primary); line-height:1.2; }
   .kpi-sub { font-size: 11px; color: var(--text-muted); margin-top:4px; }
+  .sankey-metric-toggle { display:flex; gap:6px; margin-bottom:16px; }
+  .sankey-metric-toggle .metric-btn { position:static; }
 
 </style>
 </head>
@@ -318,6 +320,12 @@
     <b>Fonte:</b> faturamento oficial direto do relatório interno do SSW ("001 - Situação Geral", linha EMITIDOS) — número oficial do mês. Movimento por rota: exportação completa do SSW (relatório de manifestos, qualquer situação exceto cancelado/substituído), agrupada pelo mês de emissão de cada manifesto — mostra o <b>volume de frete por trecho de transferência entre unidades</b> (pode somar mais que o faturamento oficial quando uma carga passa por mais de uma unidade; ver explicação em cada mês). Outubro vem marcado como <b>parcial</b> até fechar o mês completo. Os meses seguintes entram aqui conforme forem fechando.
   </div>
 
+  <div class="sankey-metric-toggle">
+    <button class="metric-btn active" data-sankey-metric="frete" type="button">Frete (R$)</button>
+    <button class="metric-btn" data-sankey-metric="peso_t" type="button">Peso (t)</button>
+    <button class="metric-btn" data-sankey-metric="n" type="button">Manifestos</button>
+  </div>
+
 
   <div class="mes-painel" data-mes="2026-09" style="display:none">
     
@@ -334,12 +342,23 @@
       </div>
     </div>
     <div class="fonte-banner" style="margin-bottom:16px;">
-      <b>Por que dois números diferentes?</b> O <b>faturamento oficial</b> (R$ 5.340.608,39) é o total real de CTRCs emitidos pra todos os clientes, direto do relatório interno do SSW — é o número que bate com o DRE, e é o certo pra olhar o resultado do mês. Já a <b>soma dos manifestos de transferência</b> (R$ 6.394.298) é usada só pra quebrar o movimento rota por rota (tabela e gráfico abaixo) — ela soma o valor de frete de cada manifesto, e uma mesma carga que passa por mais de uma unidade até chegar no destino final (ex.: Guarulhos → Itajaí → Araranguá) aparece em mais de um manifesto, cada um levando o mesmo valor de frete. Por isso essa soma fica <b>maior</b> que o faturamento oficial (não é um erro) — ela mostra o volume de frete que circulou em cada trecho da malha, não o faturamento líquido da empresa.
+      <b>Por que dois números diferentes?</b> O <b>faturamento oficial</b> (R$ 5.340.608,39) é o total real de CTRCs emitidos pra todos os clientes, direto do relatório interno do SSW — é o número que bate com o DRE, e é o certo pra olhar o resultado do mês. Já a <b>soma dos manifestos de transferência</b> (R$ 6.394.298) é usada só pra quebrar o movimento rota por rota (Sankey, gráfico e tabela abaixo) — ela soma o valor de frete de cada manifesto, e uma mesma carga que passa por mais de uma unidade até chegar no destino final (ex.: Guarulhos → Itajaí → Araranguá) aparece em mais de um manifesto, cada um levando o mesmo valor de frete. Por isso essa soma fica <b>maior</b> que o faturamento oficial (não é um erro) — ela mostra o volume de frete que circulou em cada trecho da malha, não o faturamento líquido da empresa.
     </div>
 
     <p class="section-lead">
       Movimento <b>por rota</b> (soma dos manifestos de transferência entre unidades emitidos no mês — origem e destino diferentes, excluindo cancelados/substituídos) em <b>setembro/2026</b>. 53 rotas distintas, 1005 manifestos, 5.542,6 t, R$ 6.394.298 somados (valor de frete por trecho, com repetição em cargas de mais de uma etapa — ver nota acima).
     </p>
+    
+    <div class="chart-card">
+      <h2>Fluxo de frete entre unidades — setembro/2026</h2>
+      <div class="card-sub">De onde saiu pra onde chegou (manifestos de transferência). Passe o mouse em cima de uma faixa pra ver o detalhe.</div>
+      <div class="sankey-row">
+        <div class="sankey-side-label">SAÍDA</div>
+        <svg id="chart-sankey-2026-09" width="100%" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="sankey-side-label">CHEGADA</div>
+      </div>
+    </div>
+
     <div class="chart-card">
       <h2>Top 18 rotas por faturamento — setembro/2026</h2>
       <div class="card-sub">Ordenado por frete total do mês (frete de transferência entre unidades).</div>
@@ -733,12 +752,23 @@
       </div>
     </div>
     <div class="fonte-banner" style="margin-bottom:16px;">
-      <b>Por que dois números diferentes?</b> O <b>faturamento oficial</b> (R$ 4.500.837,69) é o total real de CTRCs emitidos pra todos os clientes, direto do relatório interno do SSW — é o número que bate com o DRE, e é o certo pra olhar o resultado do mês. Já a <b>soma dos manifestos de transferência</b> (R$ 5.513.106) é usada só pra quebrar o movimento rota por rota (tabela e gráfico abaixo) — ela soma o valor de frete de cada manifesto, e uma mesma carga que passa por mais de uma unidade até chegar no destino final (ex.: Guarulhos → Itajaí → Araranguá) aparece em mais de um manifesto, cada um levando o mesmo valor de frete. Por isso essa soma fica <b>maior</b> que o faturamento oficial (não é um erro) — ela mostra o volume de frete que circulou em cada trecho da malha, não o faturamento líquido da empresa.
+      <b>Por que dois números diferentes?</b> O <b>faturamento oficial</b> (R$ 4.500.837,69) é o total real de CTRCs emitidos pra todos os clientes, direto do relatório interno do SSW — é o número que bate com o DRE, e é o certo pra olhar o resultado do mês. Já a <b>soma dos manifestos de transferência</b> (R$ 5.513.106) é usada só pra quebrar o movimento rota por rota (Sankey, gráfico e tabela abaixo) — ela soma o valor de frete de cada manifesto, e uma mesma carga que passa por mais de uma unidade até chegar no destino final (ex.: Guarulhos → Itajaí → Araranguá) aparece em mais de um manifesto, cada um levando o mesmo valor de frete. Por isso essa soma fica <b>maior</b> que o faturamento oficial (não é um erro) — ela mostra o volume de frete que circulou em cada trecho da malha, não o faturamento líquido da empresa.
     </div>
 
     <p class="section-lead">
       Movimento <b>por rota</b> (soma dos manifestos de transferência entre unidades emitidos no mês — origem e destino diferentes, excluindo cancelados/substituídos) em <b>outubro/2026 (ate dia 29)</b> <span style="display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--brand-red);padding:2px 8px;border-radius:999px;margin-left:8px;vertical-align:middle;">PARCIAL — ATÉ DIA 29</span>. 53 rotas distintas, 973 manifestos, 4.963,9 t, R$ 5.513.106 somados (valor de frete por trecho, com repetição em cargas de mais de uma etapa — ver nota acima).
     </p>
+    
+    <div class="chart-card">
+      <h2>Fluxo de frete entre unidades — outubro/2026 (ate dia 29)</h2>
+      <div class="card-sub">De onde saiu pra onde chegou (manifestos de transferência). Passe o mouse em cima de uma faixa pra ver o detalhe.</div>
+      <div class="sankey-row">
+        <div class="sankey-side-label">SAÍDA</div>
+        <svg id="chart-sankey-2026-10" width="100%" viewBox="0 0 800 480" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="sankey-side-label">CHEGADA</div>
+      </div>
+    </div>
+
     <div class="chart-card">
       <h2>Top 18 rotas por faturamento — outubro/2026 (ate dia 29)</h2>
       <div class="card-sub">Ordenado por frete total do mês (frete de transferência entre unidades).</div>
@@ -1121,6 +1151,7 @@
   <footer>Fonte: SSW — relatório 001 Situação Geral (faturamento oficial) + manifestos de transferência entre unidades por mês de emissão (faturamento por rota) · gerado em 2026-10-29</footer>
 
 </div></div>
+<div class="tooltip" id="tooltip"></div>
 
 <script>
 document.querySelectorAll('[data-mes-btn]').forEach(function(btn){
@@ -1132,6 +1163,163 @@ document.querySelectorAll('[data-mes-btn]').forEach(function(btn){
     });
   });
 });
+
+// ---------- Sankey: fluxo de frete entre unidades, por mês ----------
+var SANKEY_DADOS = {"2026-09": [{"source": "Araranguá", "target": "Itajaí", "n": 6, "peso_t": 4.959110000000001, "frete": 7335.88}, {"source": "Brusque", "target": "Itajaí", "n": 25, "peso_t": 92.79586999999998, "frete": 141171.54}, {"source": "Brusque", "target": "Guarulhos", "n": 1, "peso_t": 6.17152, "frete": 9125.37}, {"source": "Campinas", "target": "Guarulhos", "n": 30, "peso_t": 151.92685999999998, "frete": 192537.52}, {"source": "Campinas", "target": "Rio do Sul", "n": 5, "peso_t": 55.35539, "frete": 32429.07}, {"source": "Campinas", "target": "Timbó", "n": 1, "peso_t": 2.86995, "frete": 3886.84}, {"source": "Criciúma", "target": "Itajaí", "n": 9, "peso_t": 13.627369999999999, "frete": 21762.77}, {"source": "Curitiba", "target": "Guarulhos", "n": 25, "peso_t": 116.35876, "frete": 111933.27}, {"source": "Curitiba", "target": "Itajaí", "n": 23, "peso_t": 58.904240000000016, "frete": 54255.3}, {"source": "Curitiba", "target": "Rio do Sul", "n": 21, "peso_t": 77.1812, "frete": 74751.28000000001}, {"source": "Caxias do Sul", "target": "Lages", "n": 8, "peso_t": 1.01987, "frete": 1789.03}, {"source": "Caxias do Sul", "target": "Rio do Sul", "n": 22, "peso_t": 40.42561, "frete": 66197.4}, {"source": "Caxias do Sul", "target": "Porto Alegre", "n": 2, "peso_t": 1.3539, "frete": 1080.44}, {"source": "Florianópolis", "target": "Itajaí", "n": 7, "peso_t": 2.8595, "frete": 4674.209999999999}, {"source": "Guarulhos", "target": "Campinas", "n": 56, "peso_t": 152.95868999999996, "frete": 203546.01}, {"source": "Guarulhos", "target": "Rio do Sul", "n": 65, "peso_t": 496.5219500000001, "frete": 726459.1500000001}, {"source": "Guarulhos", "target": "Itajaí", "n": 51, "peso_t": 337.00308000000007, "frete": 491671.85000000003}, {"source": "Guarulhos", "target": "Curitiba", "n": 28, "peso_t": 144.35144, "frete": 170618.68}, {"source": "Guarulhos", "target": "Timbó", "n": 26, "peso_t": 167.76646, "frete": 249768.35999999993}, {"source": "Guarulhos", "target": "Porto Alegre", "n": 3, "peso_t": 15.441130000000001, "frete": 31004.18}, {"source": "Itajaí", "target": "Curitiba", "n": 20, "peso_t": 51.868379999999995, "frete": 67339.47}, {"source": "Itajaí", "target": "Guarulhos", "n": 50, "peso_t": 489.13190000000003, "frete": 609982.7000000001}, {"source": "Itajaí", "target": "Florianópolis", "n": 11, "peso_t": 36.27884999999999, "frete": 48918.52999999999}, {"source": "Itajaí", "target": "Timbó", "n": 20, "peso_t": 40.435399999999994, "frete": 42547.73}, {"source": "Itajaí", "target": "Brusque", "n": 20, "peso_t": 34.21492, "frete": 41613.94}, {"source": "Itajaí", "target": "Rio do Sul", "n": 21, "peso_t": 57.467650000000006, "frete": 65718.36}, {"source": "Itajaí", "target": "Araranguá", "n": 10, "peso_t": 5.7203800000000005, "frete": 13053.139999999998}, {"source": "Itajaí", "target": "Criciúma", "n": 10, "peso_t": 39.91128, "frete": 51023.14000000001}, {"source": "Itajaí", "target": "Tubarão", "n": 13, "peso_t": 20.34003, "frete": 32859.11}, {"source": "Itajaí", "target": "Porto Alegre", "n": 13, "peso_t": 85.26553999999999, "frete": 143306.28999999998}, {"source": "Itajaí", "target": "Campinas", "n": 5, "peso_t": 3.1221799999999997, "frete": 4744.4}, {"source": "Joaçaba", "target": "Rio do Sul", "n": 4, "peso_t": 3.31662, "frete": 3774.72}, {"source": "Lages", "target": "Rio do Sul", "n": 17, "peso_t": 37.830659999999995, "frete": 40986.840000000004}, {"source": "Lages", "target": "Porto Alegre", "n": 1, "peso_t": 0.26, "frete": 189.99}, {"source": "Porto Alegre", "target": "Itajaí", "n": 5, "peso_t": 12.94391, "frete": 22618.28}, {"source": "Porto Alegre", "target": "Lages", "n": 9, "peso_t": 14.3056, "frete": 12799.279999999999}, {"source": "Porto Alegre", "target": "Rio do Sul", "n": 21, "peso_t": 74.60855999999998, "frete": 92506.15}, {"source": "Porto Alegre", "target": "Caxias do Sul", "n": 8, "peso_t": 6.3601, "frete": 10002.78}, {"source": "Rio do Sul", "target": "Timbó", "n": 24, "peso_t": 47.7215, "frete": 39959.060000000005}, {"source": "Rio do Sul", "target": "Guarulhos", "n": 78, "peso_t": 1186.88692, "frete": 983739.1700000005}, {"source": "Rio do Sul", "target": "Curitiba", "n": 30, "peso_t": 344.8227, "frete": 200671.60000000003}, {"source": "Rio do Sul", "target": "Itajaí", "n": 31, "peso_t": 157.03101, "frete": 104086.23999999999}, {"source": "Rio do Sul", "target": "Joaçaba", "n": 9, "peso_t": 17.03564, "frete": 37346.520000000004}, {"source": "Rio do Sul", "target": "Caxias do Sul", "n": 22, "peso_t": 94.15012999999999, "frete": 73522.01999999999}, {"source": "Rio do Sul", "target": "Lages", "n": 31, "peso_t": 82.09113, "frete": 99042.67000000001}, {"source": "Rio do Sul", "target": "Porto Alegre", "n": 21, "peso_t": 97.25496999999999, "frete": 89703.36000000002}, {"source": "Rio do Sul", "target": "Campinas", "n": 15, "peso_t": 161.40101, "frete": 161723.59}, {"source": "Timbó", "target": "Guarulhos", "n": 29, "peso_t": 303.88316999999995, "frete": 536592.2}, {"source": "Timbó", "target": "Rio do Sul", "n": 24, "peso_t": 67.67671, "frete": 108394.26000000001}, {"source": "Timbó", "target": "Itajaí", "n": 2, "peso_t": 1.7614100000000001, "frete": 1823.6599999999999}, {"source": "Timbó", "target": "Campinas", "n": 6, "peso_t": 12.46415, "frete": 27228.1}, {"source": "Tubarão", "target": "Itajaí", "n": 10, "peso_t": 14.743369999999999, "frete": 30118.240000000005}, {"source": "Tubarão", "target": "FEC", "n": 1, "peso_t": 0.49, "frete": 364.7}], "2026-10": [{"source": "Araranguá", "target": "Itajaí", "n": 6, "peso_t": 2.32643, "frete": 4967.04}, {"source": "Brusque", "target": "Itajaí", "n": 21, "peso_t": 92.05931, "frete": 129505.83000000002}, {"source": "Brusque", "target": "Guarulhos", "n": 1, "peso_t": 8.4796, "frete": 8339.99}, {"source": "Campinas", "target": "Guarulhos", "n": 23, "peso_t": 92.92662999999999, "frete": 139247.18}, {"source": "Campinas", "target": "Rio do Sul", "n": 4, "peso_t": 30.83662, "frete": 22984.96}, {"source": "Criciúma", "target": "Itajaí", "n": 12, "peso_t": 24.675639999999998, "frete": 32015.58}, {"source": "Curitiba", "target": "Guarulhos", "n": 25, "peso_t": 118.6343, "frete": 112944.55999999998}, {"source": "Curitiba", "target": "Itajaí", "n": 23, "peso_t": 57.107510000000005, "frete": 56452.229999999996}, {"source": "Curitiba", "target": "Rio do Sul", "n": 21, "peso_t": 62.917370000000005, "frete": 68425.96}, {"source": "Caxias do Sul", "target": "Lages", "n": 10, "peso_t": 4.4895700000000005, "frete": 5121.54}, {"source": "Caxias do Sul", "target": "Rio do Sul", "n": 19, "peso_t": 47.92412, "frete": 74192.04}, {"source": "Caxias do Sul", "target": "Porto Alegre", "n": 4, "peso_t": 1.7141499999999998, "frete": 1284.01}, {"source": "Florianópolis", "target": "Itajaí", "n": 5, "peso_t": 1.9433699999999998, "frete": 5031.06}, {"source": "Guarulhos", "target": "Rio do Sul", "n": 53, "peso_t": 419.6963999999999, "frete": 581229.2899999999}, {"source": "Guarulhos", "target": "Campinas", "n": 50, "peso_t": 140.96908, "frete": 193980.48999999996}, {"source": "Guarulhos", "target": "Curitiba", "n": 25, "peso_t": 146.30016000000003, "frete": 159367.22}, {"source": "Guarulhos", "target": "Itajaí", "n": 46, "peso_t": 254.3283999999999, "frete": 370834.67000000004}, {"source": "Guarulhos", "target": "Timbó", "n": 22, "peso_t": 120.60583999999999, "frete": 193784.65}, {"source": "Guarulhos", "target": "Porto Alegre", "n": 4, "peso_t": 27.664270000000002, "frete": 51913.92}, {"source": "Itajaí", "target": "Rio do Sul", "n": 27, "peso_t": 75.60041999999999, "frete": 92560.40000000001}, {"source": "Itajaí", "target": "Guarulhos", "n": 62, "peso_t": 482.32266, "frete": 554223.7200000001}, {"source": "Itajaí", "target": "Araranguá", "n": 12, "peso_t": 9.299190000000001, "frete": 17659.480000000003}, {"source": "Itajaí", "target": "Criciúma", "n": 13, "peso_t": 30.75012, "frete": 39968.22}, {"source": "Itajaí", "target": "Tubarão", "n": 14, "peso_t": 23.14461, "frete": 36546.92}, {"source": "Itajaí", "target": "Curitiba", "n": 18, "peso_t": 38.11775, "frete": 45884.049999999996}, {"source": "Itajaí", "target": "Timbó", "n": 20, "peso_t": 45.171620000000004, "frete": 52672.99}, {"source": "Itajaí", "target": "Brusque", "n": 17, "peso_t": 36.0015, "frete": 36793.3}, {"source": "Itajaí", "target": "Porto Alegre", "n": 13, "peso_t": 93.29982999999999, "frete": 142499.80999999997}, {"source": "Itajaí", "target": "Florianópolis", "n": 9, "peso_t": 21.4254, "frete": 34318.74}, {"source": "Itajaí", "target": "Campinas", "n": 4, "peso_t": 12.114270000000001, "frete": 16523.29}, {"source": "Joaçaba", "target": "Rio do Sul", "n": 7, "peso_t": 7.1103900000000015, "frete": 6505.110000000001}, {"source": "Lages", "target": "Rio do Sul", "n": 16, "peso_t": 33.52493, "frete": 42936.66999999999}, {"source": "Lages", "target": "Caxias do Sul", "n": 1, "peso_t": 0.024, "frete": 98.36}, {"source": "Lages", "target": "Porto Alegre", "n": 1, "peso_t": 0.8764500000000001, "frete": 655.46}, {"source": "Porto Alegre", "target": "Lages", "n": 11, "peso_t": 13.47033, "frete": 11520.439999999999}, {"source": "Porto Alegre", "target": "Rio do Sul", "n": 22, "peso_t": 80.34072, "frete": 93824.95000000001}, {"source": "Porto Alegre", "target": "Caxias do Sul", "n": 11, "peso_t": 8.63017, "frete": 13293.459999999997}, {"source": "Porto Alegre", "target": "Itajaí", "n": 6, "peso_t": 16.02212, "frete": 22940.11}, {"source": "Rio do Sul", "target": "Timbó", "n": 28, "peso_t": 83.30457999999999, "frete": 62893.92}, {"source": "Rio do Sul", "target": "Guarulhos", "n": 67, "peso_t": 1097.43873, "frete": 874429.44}, {"source": "Rio do Sul", "target": "Curitiba", "n": 34, "peso_t": 343.66382000000004, "frete": 196328.96999999997}, {"source": "Rio do Sul", "target": "Itajaí", "n": 34, "peso_t": 127.59387, "frete": 89886.00000000001}, {"source": "Rio do Sul", "target": "Lages", "n": 21, "peso_t": 70.73028, "frete": 89320.18000000001}, {"source": "Rio do Sul", "target": "Caxias do Sul", "n": 21, "peso_t": 72.13087000000002, "frete": 62091.21000000001}, {"source": "Rio do Sul", "target": "Joaçaba", "n": 12, "peso_t": 21.788280000000004, "frete": 30657.539999999997}, {"source": "Rio do Sul", "target": "Porto Alegre", "n": 17, "peso_t": 64.20062999999999, "frete": 61898.85000000001}, {"source": "Rio do Sul", "target": "Campinas", "n": 11, "peso_t": 113.44753, "frete": 134516.00000000003}, {"source": "Timbó", "target": "Rio do Sul", "n": 21, "peso_t": 54.29348, "frete": 74115.48999999999}, {"source": "Timbó", "target": "Guarulhos", "n": 22, "peso_t": 198.12863000000004, "frete": 308065.05999999994}, {"source": "Timbó", "target": "Itajaí", "n": 10, "peso_t": 10.107529999999999, "frete": 10597.45}, {"source": "Timbó", "target": "Campinas", "n": 3, "peso_t": 1.12656, "frete": 2926.75}, {"source": "Tubarão", "target": "Itajaí", "n": 13, "peso_t": 22.91523, "frete": 42168.619999999995}, {"source": "Tubarão", "target": "Araranguá", "n": 1, "peso_t": 0.175, "frete": 163.19}]};
+var GROUP_COLORS = {"Guarulhos": "#293082", "Rio do Sul": "#dd1e26", "Itajaí": "#1baf7a", "Timbó": "#eda100", "Curitiba": "#4a3aa7", "Campinas": "#eb6834", "Porto Alegre": "#008300", "Brusque": "#8f8c86", "Caxias do Sul": "#00a3c4", "Lages": "#c0399f", "Criciúma": "#8b5a2b", "Tubarão": "#6b8e23", "Florianópolis": "#293082", "Joaçaba": "#dd1e26", "Araranguá": "#1baf7a", "FEC": "#eda100"};
+var sankeyMetric = 'frete';
+
+function svgEl(tag, attrs) {
+  var el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  for (var k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+function escHtml(s) {
+  return String(s).replace(/[&<>"']/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+var nfRsSankey = new Intl.NumberFormat('pt-BR', {style:'currency', currency:'BRL', maximumFractionDigits:0});
+function fmtPesoSankey(t) { return t.toLocaleString('pt-BR', {minimumFractionDigits:1, maximumFractionDigits:1}) + ' t'; }
+function fmtCountSankey(n) { return n.toLocaleString('pt-BR') + 'x'; }
+function fmtMetricSankey(v, metric) {
+  if (metric === 'frete') return nfRsSankey.format(v);
+  if (metric === 'peso_t') return fmtPesoSankey(v);
+  return fmtCountSankey(v);
+}
+
+function showTooltipSankey(evt, html) {
+  var tt = document.getElementById('tooltip');
+  if (!tt) return;
+  tt.innerHTML = html;
+  tt.style.opacity = 1;
+  var pad = 14, x = evt.clientX + pad, y = evt.clientY + pad;
+  if (x + 240 > window.innerWidth) x = evt.clientX - 240 - pad;
+  if (y + 90 > window.innerHeight) y = evt.clientY - 90 - pad;
+  tt.style.left = x + 'px'; tt.style.top = y + 'px';
+}
+function hideTooltipSankey() {
+  var tt = document.getElementById('tooltip');
+  if (tt) tt.style.opacity = 0;
+}
+
+function renderSankeyMes(mesKey) {
+  var svg = document.getElementById('chart-sankey-' + mesKey);
+  if (!svg) return;
+  svg.innerHTML = '';
+  var flows = SANKEY_DADOS[mesKey] || [];
+  var metric = sankeyMetric;
+  var W = 800, padX = 150, nodeW = 14, padT = 16, padB = 16, gap = 16, minH = 24;
+
+  if (!flows.length) {
+    svg.setAttribute('viewBox', '0 0 800 120');
+    svg.setAttribute('height', 120);
+    var t = svgEl('text', {x: 400, y: 60, class: 'heat-axis', 'text-anchor': 'middle'});
+    t.textContent = 'Sem movimento entre unidades no período.';
+    svg.appendChild(t);
+    return;
+  }
+
+  var sourceTotals = {}, targetTotals = {};
+  flows.forEach(function(f){
+    sourceTotals[f.source] = (sourceTotals[f.source] || 0) + f[metric];
+    targetTotals[f.target] = (targetTotals[f.target] || 0) + f[metric];
+  });
+  var sources = Object.keys(sourceTotals).sort(function(a,b){ return sourceTotals[b]-sourceTotals[a]; })
+    .map(function(name){ return {name: name, total: sourceTotals[name]}; });
+  var targets = Object.keys(targetTotals).sort(function(a,b){ return targetTotals[b]-targetTotals[a]; })
+    .map(function(name){ return {name: name, total: targetTotals[name]}; });
+
+  var grandTotal = Math.max(1, sources.reduce(function(s,n){ return s+n.total; }, 0));
+  var basePlotHeight = 560;
+  var scale = basePlotHeight / grandTotal;
+  function withH(nodes) { return nodes.map(function(n){ return Object.assign({}, n, {h: Math.max(minH, n.total*scale)}); }); }
+  sources = withH(sources); targets = withH(targets);
+
+  var srcH = sources.reduce(function(s,n){ return s+n.h; }, 0) + gap*Math.max(0, sources.length-1);
+  var tgtH = targets.reduce(function(s,n){ return s+n.h; }, 0) + gap*Math.max(0, targets.length-1);
+  var plotH = Math.max(srcH, tgtH, 140);
+  var H = padT + plotH + padB;
+  svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
+  svg.setAttribute('height', H);
+
+  function positionColumn(nodes, colH) {
+    var y = padT + (plotH - colH) / 2;
+    nodes.forEach(function(n){ n.y0 = y; n.y1 = y + n.h; y += n.h + gap; });
+  }
+  positionColumn(sources, srcH);
+  positionColumn(targets, tgtH);
+
+  var srcByName = {}, tgtByName = {}, srcCursor = {}, tgtCursor = {};
+  sources.forEach(function(n){ srcByName[n.name] = n; srcCursor[n.name] = n.y0; });
+  targets.forEach(function(n){ tgtByName[n.name] = n; tgtCursor[n.name] = n.y0; });
+
+  var xLeft = padX + nodeW, xRight = W - padX - nodeW, midX = (xLeft + xRight) / 2;
+
+  flows.slice().sort(function(a,b){ return b[metric]-a[metric]; }).forEach(function(f){
+    var sNode = srcByName[f.source], tNode = tgtByName[f.target];
+    if (!sNode || !tNode) return;
+    var val = f[metric];
+    var sShare = sNode.total ? (val / sNode.total) * sNode.h : 0;
+    var tShare = tNode.total ? (val / tNode.total) * tNode.h : 0;
+    var y1a = srcCursor[f.source]; var y1b = y1a + sShare; srcCursor[f.source] = y1b;
+    var y2a = tgtCursor[f.target]; var y2b = y2a + tShare; tgtCursor[f.target] = y2b;
+    var d = 'M'+xLeft+','+y1a+' C'+midX+','+y1a+' '+midX+','+y2a+' '+xRight+','+y2a+
+            ' L'+xRight+','+y2b+' C'+midX+','+y2b+' '+midX+','+y1b+' '+xLeft+','+y1b+' Z';
+    var path = svgEl('path', {d: d, fill: GROUP_COLORS[f.source] || 'var(--series-1)', opacity: 0.82});
+    path.style.cursor = 'pointer';
+    path.addEventListener('pointermove', function(evt){
+      showTooltipSankey(evt,
+        '<div class="tt-title">' + escHtml(f.source) + ' \u2192 ' + escHtml(f.target) + '</div>' +
+        '<div class="tt-label">' + escHtml(fmtCountSankey(f.n)) + ' manifesto(s) \u00b7 ' + escHtml(fmtPesoSankey(f.peso_t)) + '</div>' +
+        '<div class="tt-label">' + escHtml(nfRsSankey.format(f.frete)) + '</div>');
+    });
+    path.addEventListener('pointerleave', hideTooltipSankey);
+    svg.appendChild(path);
+
+    if (tShare >= 20) {
+      var labelX = xRight - 55, labelY = (y2a + y2b) / 2;
+      var labelText = fmtMetricSankey(val, metric);
+      var chipH = 16, chipW = Math.max(30, labelText.length * 6 + 10);
+      var chip = svgEl('rect', {x: labelX - chipW/2, y: labelY - chipH/2, width: chipW, height: chipH, rx: 8, fill: 'rgba(255,255,255,0.94)'});
+      chip.style.pointerEvents = 'none';
+      svg.appendChild(chip);
+      var lab = svgEl('text', {x: labelX, y: labelY + 3.5, 'text-anchor': 'middle', style: 'font-size:10px;font-weight:700;fill:#1a1a1a;pointer-events:none;'});
+      lab.textContent = labelText;
+      svg.appendChild(lab);
+    }
+  });
+
+  function drawNodes(nodes, x, anchor) {
+    nodes.forEach(function(n){
+      var rect = svgEl('rect', {x: x, y: n.y0, width: nodeW, height: Math.max(1, n.h), rx: 3, fill: GROUP_COLORS[n.name] || 'var(--series-1)'});
+      svg.appendChild(rect);
+      var lx = anchor === 'end' ? x - 8 : x + nodeW + 8;
+      var label = svgEl('text', {x: lx, y: (n.y0 + n.y1) / 2 - 3, class: 'cat-label', 'text-anchor': anchor});
+      label.textContent = n.name;
+      svg.appendChild(label);
+      var sub = svgEl('text', {x: lx, y: (n.y0 + n.y1) / 2 + 11, class: 'bar-label', 'text-anchor': anchor});
+      sub.textContent = fmtMetricSankey(n.total, metric);
+      svg.appendChild(sub);
+    });
+  }
+  drawNodes(sources, padX, 'end');
+  drawNodes(targets, xRight, 'start');
+}
+
+function renderAllSankeys() {
+  Object.keys(SANKEY_DADOS).forEach(renderSankeyMes);
+}
+
+document.querySelectorAll('[data-sankey-metric]').forEach(function(btn){
+  btn.addEventListener('click', function(){
+    sankeyMetric = btn.getAttribute('data-sankey-metric');
+    document.querySelectorAll('[data-sankey-metric]').forEach(function(b){ b.classList.toggle('active', b === btn); });
+    renderAllSankeys();
+  });
+});
+
+renderAllSankeys();
 </script>
 
 </body>
