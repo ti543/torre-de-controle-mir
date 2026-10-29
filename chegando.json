@@ -30,6 +30,26 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "POA016185-3",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3449.72,
+        "frete_rs": 8179.48,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.16 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 18:16:04",
+          "lat": -29.9848566,
+          "lon": -51.1856555
+        },
+        "distancia_km": 420.3,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -41,6 +61,11 @@
       "FLN": {
         "peso_kg": 70.0,
         "frete_rs": 219.47,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3449.72,
+        "frete_rs": 8179.48,
         "qtde": 1
       }
     }
@@ -59,12 +84,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.75 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 17:59:52",
-          "lat": -22.8433616666667,
-          "lon": -47.04818
+          "referencia": "1.97 km de CAI CARREFOUR VILA BRANDINA - CAMPINAS/SP - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 18:15:28",
+          "lat": -22.8746466666667,
+          "lon": -47.01714
         },
-        "distancia_km": 91.9,
+        "distancia_km": 87.2,
         "proximo": false
       },
       {
@@ -79,12 +104,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.96 km de PRF - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 18:00:23",
-          "lat": -27.1696083333333,
-          "lon": -49.571885
+          "referencia": "2.33 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 18:14:23",
+          "lat": -27.1063366666667,
+          "lon": -49.5217133333333
         },
-        "distancia_km": 516.5,
+        "distancia_km": 507.9,
         "proximo": false
       },
       {
@@ -99,12 +124,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.96 km de PRF - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 18:00:23",
-          "lat": -27.1696083333333,
-          "lon": -49.571885
+          "referencia": "2.33 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 18:14:23",
+          "lat": -27.1063366666667,
+          "lon": -49.5217133333333
         },
-        "distancia_km": 516.5,
+        "distancia_km": 507.9,
         "proximo": false
       }
     ],
@@ -136,7 +161,47 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:57:49",
+          "data_hora_posicao": "29/10/2026 18:15:50",
+          "lat": -27.8239508,
+          "lon": -50.362859
+        },
+        "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074040-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3911.52,
+        "frete_rs": 8271.19,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 18:15:00",
+          "lat": -23.4705664,
+          "lon": -46.4621056
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001601-2",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXR9A98",
+        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
+        "peso_real_kg": 1660.72,
+        "frete_rs": 2448.42,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 18:15:50",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -156,7 +221,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:57:49",
+          "data_hora_posicao": "29/10/2026 18:15:50",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -166,8 +231,13 @@
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 2368.9,
-        "frete_rs": 2976.26,
+        "peso_kg": 4029.62,
+        "frete_rs": 5424.68,
+        "qtde": 2
+      },
+      "Guarulhos": {
+        "peso_kg": 3911.52,
+        "frete_rs": 8271.19,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -207,7 +277,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:00:54",
+          "data_hora_posicao": "29/10/2026 18:14:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -227,7 +297,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:00:54",
+          "data_hora_posicao": "29/10/2026 18:14:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -283,9 +353,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 18:01:26",
-          "lat": -27.2061152,
-          "lon": -49.6492928
+          "data_hora_posicao": "29/10/2026 18:15:26",
+          "lat": -27.2061248,
+          "lon": -49.6493024
         },
         "distancia_km": null,
         "proximo": false
@@ -299,5 +369,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T18:02:34"
+  "_gerado_em": "2026-10-29T18:17:30"
 }
