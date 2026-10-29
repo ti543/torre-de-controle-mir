@@ -101,6 +101,8 @@
   }
   .chegada .placa { font-size: 16px; font-weight: 800; letter-spacing: 0.03em; }
   .chegada .origem { font-size: 13px; opacity: 0.9; margin-top: 2px; }
+  .chegada .origem-item { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; opacity: 0.94; margin-top: 4px; }
+  .chegada .origem-total { display: flex; justify-content: flex-end; font-size: 12.5px; font-weight: 800; margin-top: 6px; padding-top: 6px; border-top: 1px solid rgba(255,255,255,0.35); }
   .chegada .linha2 { display: flex; justify-content: space-between; margin-top: 8px; font-size: 13px; }
   .chegada .dist { font-weight: 800; }
 
@@ -160,7 +162,7 @@
 
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js";
-import { getFirestore, doc, setDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
+import { getFirestore, doc, setDoc, deleteDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
 import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-messaging.js";
 
 const firebaseConfig = {
@@ -247,21 +249,40 @@ function notifJaAtivadas(cod) {
 function marcarNotifAtivadas(cod) {
   try { localStorage.setItem(flagNotifAtivadasKey(cod), "1"); } catch (e) {}
 }
+function desmarcarNotifAtivadas(cod) {
+  try { localStorage.removeItem(flagNotifAtivadasKey(cod)); } catch (e) {}
+}
+
+// Um mesmo celular/navegador pode ativar notificação pra mais de uma
+// unidade (ex.: alguém que acompanha mais de um lugar) -- por isso o
+// documento no Firestore não usa só o token como id (isso faria a
+// segunda unidade ativada sobrescrever a primeira, já que o token do
+// aparelho é sempre o mesmo). Usa token+unidade juntos, e guarda o token
+// também como campo (pra quem lê na hora de mandar a notificação).
+function idInscricao(token, cod) {
+  return `${token}__${cod}`;
+}
 
 function atualizarStatusNotificacoes(cod) {
   const permissaoOk = typeof Notification !== "undefined" && Notification.permission === "granted";
   if (permissaoOk && notifJaAtivadas(cod)) {
     dotStatus.classList.add("ok");
     textoStatus.textContent = "Notificações ativadas para " + cod;
+    btnAtivar.textContent = "Desativar notificações";
+    btnAtivar.onclick = desativarNotificacoes;
   } else if (notifJaAtivadas(cod) && !permissaoOk) {
     // já tinha ativado antes, mas a permissão foi revogada depois
     // (ex.: nas configurações do navegador) — avisa em vez de mostrar
     // "ativadas" errado.
     dotStatus.classList.remove("ok");
     textoStatus.textContent = "Permissão de notificação foi revogada — ative de novo";
+    btnAtivar.textContent = "Ativar notificações";
+    btnAtivar.onclick = ativarNotificacoes;
   } else {
     dotStatus.classList.remove("ok");
     textoStatus.textContent = "Notificações desativadas";
+    btnAtivar.textContent = "Ativar notificações";
+    btnAtivar.onclick = ativarNotificacoes;
   }
 }
 
@@ -282,8 +303,9 @@ async function ativarNotificacoes() {
       textoStatus.textContent = "Não consegui gerar o token de notificação";
       return;
     }
-    await setDoc(doc(db, "inscricoes_gerentes", token), {
+    await setDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)), {
       unidade: cod,
+      token: token,
       atualizadoEm: serverTimestamp(),
     });
     marcarNotifAtivadas(cod);
@@ -295,7 +317,24 @@ async function ativarNotificacoes() {
     textoStatus.textContent = "Erro ao ativar: " + e.message;
   }
 }
-btnAtivar.onclick = ativarNotificacoes;
+
+async function desativarNotificacoes() {
+  const cod = unidadeSalva();
+  if (!cod) return;
+  try {
+    textoStatus.textContent = "Desativando...";
+    const registration = await navigator.serviceWorker.register("firebase-messaging-sw.js");
+    const messaging = getMessaging(app);
+    const token = await getToken(messaging, { vapidKey: VAPID_KEY, serviceWorkerRegistration: registration });
+    if (token) {
+      await deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)));
+    }
+    desmarcarNotifAtivadas(cod);
+    atualizarStatusNotificacoes(cod);
+  } catch (e) {
+    textoStatus.textContent = "Erro ao desativar: " + e.message;
+  }
+}
 
 // --- Dados de "chegando pra minha unidade" ---
 function formatarAtualizadoEm(iso) {
@@ -306,6 +345,19 @@ function formatarAtualizadoEm(iso) {
   if (!m) return "";
   const [, y, mo, d, h, mi] = m;
   return `Atualizado em ${d}/${mo}/${y} ${h}:${mi}`;
+}
+
+// "CAXIAS DO SUL/RS" -> "Caxias do Sul/RS" (deixa o UF sempre maiúsculo).
+function formatarCidade(s) {
+  if (!s) return "";
+  const partes = s.split("/");
+  const cidade = partes[0] || "";
+  const uf = partes[1] || "";
+  const minusculas = new Set(["de", "da", "do", "das", "dos", "e"]);
+  const cidadeFmt = cidade.toLowerCase().split(" ").filter(Boolean).map((w) =>
+    minusculas.has(w) ? w : (w.charAt(0).toUpperCase() + w.slice(1))
+  ).join(" ");
+  return uf ? `${cidadeFmt}/${uf.toUpperCase()}` : cidadeFmt;
 }
 
 async function carregarChegadas(cod) {
@@ -331,14 +383,46 @@ async function carregarChegadas(cod) {
       div.innerHTML = `<span>${origem} (${agg.qtde})</span><span class="valores">${Math.round(agg.peso_kg).toLocaleString("pt-BR")} kg · R$ ${agg.frete_rs.toLocaleString("pt-BR", {minimumFractionDigits:2})}</span>`;
       resumoEl.appendChild(div);
     });
+    // O mesmo caminhão (placa) pode aparecer mais de uma vez na lista --
+    // um manifesto por carga -- mas é só UM veículo chegando no mesmo
+    // lugar, então vira um card só. Dentro dele, o peso e o frete de cada
+    // unidade de origem ficam destacados em linhas separadas (nunca junta
+    // unidades como CXS e LGS numa coisa só, mesmo que o resumo acima
+    // agrupe por região -- aqui cada unidade de origem fica na sua linha).
+    const porPlaca = new Map();
     minha.veiculos.forEach((v) => {
+      if (!porPlaca.has(v.placa)) porPlaca.set(v.placa, []);
+      porPlaca.get(v.placa).push(v);
+    });
+
+    porPlaca.forEach((manifestos, placa) => {
+      const porUnidade = new Map();
+      manifestos.forEach((v) => {
+        if (!porUnidade.has(v.origin_unit)) {
+          porUnidade.set(v.origin_unit, { origin_city: v.origin_city, peso_real_kg: 0, frete_rs: 0 });
+        }
+        const a = porUnidade.get(v.origin_unit);
+        a.peso_real_kg += v.peso_real_kg;
+        a.frete_rs += v.frete_rs;
+      });
+      const base = manifestos[0];
+      const linhasOrigem = Array.from(porUnidade.entries()).map(([un, a]) => `
+        <div class="origem-item"><span>de ${un} — ${formatarCidade(a.origin_city)}</span><span>${Math.round(a.peso_real_kg).toLocaleString("pt-BR")} kg · R$ ${a.frete_rs.toLocaleString("pt-BR",{minimumFractionDigits:2})}</span></div>
+      `).join("");
+      let totalHtml = "";
+      if (porUnidade.size > 1) {
+        const totalPeso = manifestos.reduce((s, v) => s + v.peso_real_kg, 0);
+        const totalFrete = manifestos.reduce((s, v) => s + v.frete_rs, 0);
+        totalHtml = `<div class="origem-total">Total: ${Math.round(totalPeso).toLocaleString("pt-BR")} kg · R$ ${totalFrete.toLocaleString("pt-BR",{minimumFractionDigits:2})}</div>`;
+      }
+      const dist = base.distancia_km != null ? base.distancia_km + " km" : "posição indisponível";
       const div = document.createElement("div");
       div.className = "chegada";
-      const dist = v.distancia_km != null ? v.distancia_km + " km" : "posição indisponível";
       div.innerHTML = `
-        <div class="placa">${v.placa} — ${v.motorista || ""}</div>
-        <div class="origem">de ${v.grupo_origem || v.origin_unit} · ${Math.round(v.peso_real_kg).toLocaleString("pt-BR")} kg · R$ ${v.frete_rs.toLocaleString("pt-BR",{minimumFractionDigits:2})}</div>
-        <div class="linha2"><span>${(v.posicao_raster && v.posicao_raster.referencia) || ""}</span><span class="dist">${dist}</span></div>
+        <div class="placa">${placa} — ${base.motorista || ""}</div>
+        ${linhasOrigem}
+        ${totalHtml}
+        <div class="linha2"><span>${(base.posicao_raster && base.posicao_raster.referencia) || ""}</span><span class="dist">${dist}</span></div>
       `;
       listaEl.appendChild(div);
     });
