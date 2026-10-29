@@ -13,10 +13,10 @@
         "frete_rs": 109.85,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.21 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "29/10/2026 09:16:24",
-          "lat": -28.9178993,
-          "lon": -51.1876796
+          "referencia": "2.37 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:15",
+          "lat": -28.3009836,
+          "lon": -50.804268
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 3489.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.21 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "29/10/2026 09:16:24",
-          "lat": -28.9178993,
-          "lon": -51.1876796
+          "referencia": "2.37 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:15",
+          "lat": -28.3009836,
+          "lon": -50.804268
         },
         "distancia_km": null,
         "proximo": false
@@ -69,12 +69,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.21 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "29/10/2026 09:16:24",
-          "lat": -28.9178993,
-          "lon": -51.1876796
+          "referencia": "2.37 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:15",
+          "lat": -28.3009836,
+          "lon": -50.804268
         },
-        "distancia_km": 242.9,
+        "distancia_km": 166.5,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 4315.65,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - JOINVILLE/SC",
-          "data_hora_posicao": "29/10/2026 09:16:16",
-          "lat": -26.232784,
-          "lon": -48.9167168
+          "referencia": "0.05 km de POSTO ZANDONA 4 - MASSARANDUBA/SC",
+          "data_hora_posicao": "29/10/2026 11:00:33",
+          "lat": -26.5852672,
+          "lon": -48.9858816
         },
-        "distancia_km": 130.4,
+        "distancia_km": 95.4,
         "proximo": false
       },
       {
@@ -124,12 +124,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.21 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "29/10/2026 09:16:24",
-          "lat": -28.9178993,
-          "lon": -51.1876796
+          "referencia": "2.37 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:15",
+          "lat": -28.3009836,
+          "lon": -50.804268
         },
-        "distancia_km": 242.9,
+        "distancia_km": 166.5,
         "proximo": false
       }
     ],
@@ -165,74 +165,19 @@
         "frete_rs": 4800.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
-          "data_hora_posicao": "29/10/2026 09:15:58",
-          "lat": -26.2042048,
-          "lon": -48.9140896
+          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 10:59:58",
+          "lat": -26.5537648,
+          "lon": -48.7200288
         },
-        "distancia_km": 78.4,
+        "distancia_km": 37.1,
         "proximo": false
-      },
-      {
-        "manif": "GRU073987-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13942.81,
-        "frete_rs": 18745.73,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU073990-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 8.02,
-        "frete_rs": 619.98,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016178-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3655.89,
-        "frete_rs": 4991.54,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 09:15:33",
-          "lat": -26.887536,
-          "lon": -48.7207328
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 20944.07,
-        "frete_rs": 24165.71,
-        "qtde": 3
-      },
-      "Porto Alegre": {
-        "peso_kg": 3655.89,
-        "frete_rs": 4991.54,
+        "peso_kg": 6993.24,
+        "frete_rs": 4800.0,
         "qtde": 1
       }
     }
@@ -251,32 +196,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
-          "data_hora_posicao": "29/10/2026 09:15:58",
-          "lat": -26.2042048,
-          "lon": -48.9140896
+          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 10:59:58",
+          "lat": -26.5537648,
+          "lon": -48.7200288
         },
-        "distancia_km": 475.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023937-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 8553.07,
-        "frete_rs": 8050.02,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "4.75 km de POSTO SANTO PARADOURO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "29/10/2026 09:16:32",
-          "lat": -29.880008,
-          "lon": -50.5107875
-        },
-        "distancia_km": 66.1,
+        "distancia_km": 451.4,
         "proximo": false
       },
       {
@@ -291,12 +216,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.06 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 09:06:54",
-          "lat": -27.880288,
-          "lon": -50.4085664
+          "referencia": "0.2 km de RESFRI AR CLIMATIZADORES - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:19",
+          "lat": -28.5198208,
+          "lon": -50.9452416
         },
-        "distancia_km": 245.8,
+        "distancia_km": 164.4,
         "proximo": false
       },
       {
@@ -311,12 +236,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.06 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 09:06:54",
-          "lat": -27.880288,
-          "lon": -50.4085664
+          "referencia": "0.2 km de RESFRI AR CLIMATIZADORES - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:19",
+          "lat": -28.5198208,
+          "lon": -50.9452416
         },
-        "distancia_km": 245.8,
+        "distancia_km": 164.4,
         "proximo": false
       }
     ],
@@ -324,11 +249,6 @@
       "Guarulhos": {
         "peso_kg": 6321.45,
         "frete_rs": 8273.64,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 8553.07,
-        "frete_rs": 8050.02,
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
@@ -403,10 +323,10 @@
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "29/10/2026 09:15:00",
-          "lat": -24.267568,
-          "lon": -47.3935968
+          "referencia": "0.58 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:01:00",
+          "lat": -23.7723344,
+          "lon": -46.9124768
         },
         "distancia_km": null,
         "proximo": false
@@ -423,10 +343,10 @@
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "29/10/2026 09:15:00",
-          "lat": -24.267568,
-          "lon": -47.3935968
+          "referencia": "0.58 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:01:00",
+          "lat": -23.7723344,
+          "lon": -46.9124768
         },
         "distancia_km": null,
         "proximo": false
@@ -443,10 +363,10 @@
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "29/10/2026 09:15:00",
-          "lat": -24.267568,
-          "lon": -47.3935968
+          "referencia": "0.58 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:01:00",
+          "lat": -23.7723344,
+          "lon": -46.9124768
         },
         "distancia_km": null,
         "proximo": false
@@ -463,10 +383,10 @@
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "29/10/2026 09:15:00",
-          "lat": -24.267568,
-          "lon": -47.3935968
+          "referencia": "0.58 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:01:00",
+          "lat": -23.7723344,
+          "lon": -46.9124768
         },
         "distancia_km": null,
         "proximo": false
@@ -504,12 +424,12 @@
         "frete_rs": 13465.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.47 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "29/10/2026 09:16:04",
-          "lat": -24.4228672,
-          "lon": -47.7777408
+          "referencia": "0.23 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:00:04",
+          "lat": -23.7847328,
+          "lon": -46.9137376
         },
-        "distancia_km": 170.5,
+        "distancia_km": 57.8,
         "proximo": false
       },
       {
@@ -524,12 +444,12 @@
         "frete_rs": 2246.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.47 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "29/10/2026 09:16:04",
-          "lat": -24.4228672,
-          "lon": -47.7777408
+          "referencia": "0.23 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:00:04",
+          "lat": -23.7847328,
+          "lon": -46.9137376
         },
-        "distancia_km": 170.5,
+        "distancia_km": 57.8,
         "proximo": false
       },
       {
@@ -544,12 +464,12 @@
         "frete_rs": 15384.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 09:14:34",
-          "lat": -23.7537712,
-          "lon": -46.9016768
+          "referencia": "0.37 km de POSTO ATENCIOSO - OSASCO/SP",
+          "data_hora_posicao": "29/10/2026 11:00:34",
+          "lat": -23.5186192,
+          "lon": -46.7867424
         },
-        "distancia_km": 54.7,
+        "distancia_km": 33.5,
         "proximo": false
       },
       {
@@ -564,12 +484,12 @@
         "frete_rs": 2089.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.47 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "29/10/2026 09:16:04",
-          "lat": -24.4228672,
-          "lon": -47.7777408
+          "referencia": "0.23 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:00:04",
+          "lat": -23.7847328,
+          "lon": -46.9137376
         },
-        "distancia_km": 170.5,
+        "distancia_km": 57.8,
         "proximo": false
       },
       {
@@ -584,12 +504,12 @@
         "frete_rs": 2278.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 09:14:34",
-          "lat": -23.7537712,
-          "lon": -46.9016768
+          "referencia": "0.37 km de POSTO ATENCIOSO - OSASCO/SP",
+          "data_hora_posicao": "29/10/2026 11:00:34",
+          "lat": -23.5186192,
+          "lon": -46.7867424
         },
-        "distancia_km": 54.7,
+        "distancia_km": 33.5,
         "proximo": false
       },
       {
@@ -604,12 +524,12 @@
         "frete_rs": 8240.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 09:14:34",
-          "lat": -23.7537712,
-          "lon": -46.9016768
+          "referencia": "0.37 km de POSTO ATENCIOSO - OSASCO/SP",
+          "data_hora_posicao": "29/10/2026 11:00:34",
+          "lat": -23.5186192,
+          "lon": -46.7867424
         },
-        "distancia_km": 54.7,
+        "distancia_km": 33.5,
         "proximo": false
       },
       {
@@ -624,13 +544,13 @@
         "frete_rs": 17756.81,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO 31 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 09:14:38",
-          "lat": -23.6861856,
-          "lon": -46.8600768
+          "referencia": "0.17 km de CONCESSIONARIA VOLVO - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 10:44:47",
+          "lat": -23.5089408,
+          "lon": -46.7018496
         },
-        "distancia_km": 47.1,
-        "proximo": false
+        "distancia_km": 24.8,
+        "proximo": true
       },
       {
         "manif": "RSL044070-1",
@@ -661,21 +581,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "TBO016273-6",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 15884.67,
-        "frete_rs": 20931.28,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -688,10 +593,31 @@
         "peso_kg": 75487.18,
         "frete_rs": 62410.200000000004,
         "qtde": 5
-      },
-      "Timbó": {
-        "peso_kg": 15884.67,
-        "frete_rs": 20931.28,
+      }
+    }
+  },
+  "FLN": {
+    "veiculos": [
+      {
+        "manif": "ITJ023944-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "FLN",
+        "dest_city": "PALHOCA/SC",
+        "placa": "OKD7820",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 2112.24,
+        "frete_rs": 3410.26,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 2112.24,
+        "frete_rs": 3410.26,
         "qtde": 1
       }
     }
@@ -710,10 +636,10 @@
         "frete_rs": 3661.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.23 km de POSTO SHELL - VARGEM BONITA - VARGEM BONITA/SC",
-          "data_hora_posicao": "29/10/2026 09:13:14",
-          "lat": -27.041298,
-          "lon": -51.7071361
+          "referencia": "0.07 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
+          "data_hora_posicao": "29/10/2026 11:00:04",
+          "lat": -27.1847626,
+          "lon": -51.5197795
         },
         "distancia_km": null,
         "proximo": false
@@ -730,10 +656,10 @@
         "frete_rs": 1301.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS - CURITIBANOS/SC",
-          "data_hora_posicao": "29/10/2026 09:13:39",
-          "lat": -27.2922666666667,
-          "lon": -50.5942933333333
+          "referencia": "0.32 km de POSTO FALCÃO - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "29/10/2026 10:54:13",
+          "lat": -27.39928,
+          "lon": -51.2257066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -761,10 +687,10 @@
         "frete_rs": 1493.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.06 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 09:06:54",
-          "lat": -27.880288,
-          "lon": -50.4085664
+          "referencia": "0.2 km de RESFRI AR CLIMATIZADORES - VACARIA/RS",
+          "data_hora_posicao": "29/10/2026 11:01:19",
+          "lat": -28.5198208,
+          "lon": -50.9452416
         },
         "distancia_km": null,
         "proximo": false
@@ -777,5 +703,6 @@
         "qtde": 1
       }
     }
-  }
+  },
+  "_gerado_em": "2026-10-29T11:02:56"
 }
