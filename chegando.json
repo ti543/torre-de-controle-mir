@@ -13,10 +13,10 @@
         "frete_rs": 109.85,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.32 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:13:03",
-          "lat": -27.8078271,
-          "lon": -50.3673818
+          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:30:08",
+          "lat": -27.809674,
+          "lon": -50.3672888
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 3489.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.32 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:13:03",
-          "lat": -27.8078271,
-          "lon": -50.3673818
+          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:30:08",
+          "lat": -27.809674,
+          "lon": -50.3672888
         },
         "distancia_km": null,
         "proximo": false
@@ -69,33 +69,13 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.32 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:13:03",
-          "lat": -27.8078271,
-          "lon": -50.3673818
+          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:30:08",
+          "lat": -27.809674,
+          "lon": -50.3672888
         },
-        "distancia_km": 97.4,
+        "distancia_km": 97.5,
         "proximo": false
-      },
-      {
-        "manif": "GRU073982-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 3635.32,
-        "frete_rs": 4315.65,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 14:16:16",
-          "lat": -27.2061376,
-          "lon": -49.6495296
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "JCB000016-7",
@@ -109,12 +89,12 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "4.47 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 14:14:06",
-          "lat": -27.3238,
-          "lon": -50.372096
+          "referencia": "3.25 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 14:30:22",
+          "lat": -27.2920846,
+          "lon": -50.2060271
         },
-        "distancia_km": 72.6,
+        "distancia_km": 55.8,
         "proximo": false
       },
       {
@@ -129,12 +109,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.32 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 14:13:03",
-          "lat": -27.8078271,
-          "lon": -50.3673818
+          "referencia": "0.27 km de ELIANA APARECIDA OLIVO RETTORE LTDA - LAGES/SC",
+          "data_hora_posicao": "29/10/2026 14:30:08",
+          "lat": -27.809674,
+          "lon": -50.3672888
         },
-        "distancia_km": 97.4,
+        "distancia_km": 97.5,
         "proximo": false
       }
     ],
@@ -142,11 +122,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 2368.9,
         "frete_rs": 2976.26,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 3635.32,
-        "frete_rs": 4315.65,
         "qtde": 1
       },
       "JCB": {
@@ -216,10 +191,10 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 14:14:54",
-          "lat": -29.1285344,
-          "lon": -51.183328
+          "referencia": "0.13 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 14:30:54",
+          "lat": -29.1283488,
+          "lon": -51.1829408
         },
         "distancia_km": 95.1,
         "proximo": false
@@ -236,10 +211,10 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 14:14:54",
-          "lat": -29.1285344,
-          "lon": -51.183328
+          "referencia": "0.13 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 14:30:54",
+          "lat": -29.1283488,
+          "lon": -51.1829408
         },
         "distancia_km": 95.1,
         "proximo": false
@@ -309,107 +284,6 @@
       }
     }
   },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "ITJ023929-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 4792.98,
-        "frete_rs": 6224.45,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA VOLVO - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 14:16:12",
-          "lat": -22.8588416,
-          "lon": -47.1434976
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044037-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2302.16,
-        "frete_rs": 2161.96,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA VOLVO - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 14:16:12",
-          "lat": -22.8588416,
-          "lon": -47.1434976
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044039-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 7224.6,
-        "frete_rs": 6910.96,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA VOLVO - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 14:16:12",
-          "lat": -22.8588416,
-          "lon": -47.1434976
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016266-3",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 339.94,
-        "frete_rs": 1162.33,
-        "grupo_origem": "Timbó",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA VOLVO - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 14:16:12",
-          "lat": -22.8588416,
-          "lon": -47.1434976
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 4792.98,
-        "frete_rs": 6224.45,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 9526.76,
-        "frete_rs": 9072.92,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 339.94,
-        "frete_rs": 1162.33,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -424,12 +298,12 @@
         "frete_rs": 13465.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.59 km de LIFE EXPRESS - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 14:16:04",
-          "lat": -23.4951232,
-          "lon": -46.519744
+          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 14:31:21",
+          "lat": -23.4705872,
+          "lon": -46.4614592
         },
-        "distancia_km": 6.5,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -444,12 +318,12 @@
         "frete_rs": 2246.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.59 km de LIFE EXPRESS - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 14:16:04",
-          "lat": -23.4951232,
-          "lon": -46.519744
+          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 14:31:21",
+          "lat": -23.4705872,
+          "lon": -46.4614592
         },
-        "distancia_km": 6.5,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -464,12 +338,12 @@
         "frete_rs": 2089.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.59 km de LIFE EXPRESS - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 14:16:04",
-          "lat": -23.4951232,
-          "lon": -46.519744
+          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 14:31:21",
+          "lat": -23.4705872,
+          "lon": -46.4614592
         },
-        "distancia_km": 6.5,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -481,31 +355,5 @@
       }
     }
   },
-  "FLN": {
-    "veiculos": [
-      {
-        "manif": "ITJ023944-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "FLN",
-        "dest_city": "PALHOCA/SC",
-        "placa": "OKD7820",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 2112.24,
-        "frete_rs": 3410.26,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2112.24,
-        "frete_rs": 3410.26,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-10-29T14:17:24"
+  "_gerado_em": "2026-10-29T14:32:40"
 }
