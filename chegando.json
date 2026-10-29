@@ -14,9 +14,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:29:45",
-          "lat": -27.823997,
-          "lon": -50.3628848
+          "data_hora_posicao": "29/10/2026 16:45:49",
+          "lat": -27.824004,
+          "lon": -50.3628106
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:29:45",
-          "lat": -27.823997,
-          "lon": -50.3628848
+          "data_hora_posicao": "29/10/2026 16:45:49",
+          "lat": -27.824004,
+          "lon": -50.3628106
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -110,13 +110,13 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO IBP - PORTAO/RS",
-          "data_hora_posicao": "29/10/2026 16:30:54",
-          "lat": -29.7003104,
-          "lon": -51.2139808
+          "referencia": "0.12 km de POSTO ZOOLOGICO LTDA - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 16:44:54",
+          "lat": -29.8031296,
+          "lon": -51.1661536
         },
-        "distancia_km": 31.6,
-        "proximo": false
+        "distancia_km": 20.1,
+        "proximo": true
       },
       {
         "manif": "RSL044075-2",
@@ -130,13 +130,13 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO IBP - PORTAO/RS",
-          "data_hora_posicao": "29/10/2026 16:30:54",
-          "lat": -29.7003104,
-          "lon": -51.2139808
+          "referencia": "0.12 km de POSTO ZOOLOGICO LTDA - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "29/10/2026 16:44:54",
+          "lat": -29.8031296,
+          "lon": -51.1661536
         },
-        "distancia_km": 31.6,
-        "proximo": false
+        "distancia_km": 20.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -160,36 +160,6 @@
   "TBO": {
     "veiculos": [
       {
-        "manif": "GRU073989-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6030.87,
-        "frete_rs": 6473.95,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023945-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 363.93,
-        "frete_rs": 552.42,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "RSL044078-7",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -206,16 +176,6 @@
       }
     ],
     "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6030.87,
-        "frete_rs": 6473.95,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 363.93,
-        "frete_rs": 552.42,
-        "qtde": 1
-      },
       "Rio do Sul": {
         "peso_kg": 894.62,
         "frete_rs": 1101.01,
@@ -223,5 +183,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T16:32:36"
+  "_gerado_em": "2026-10-29T16:47:39"
 }
