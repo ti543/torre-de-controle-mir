@@ -13,12 +13,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.24 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
-          "data_hora_posicao": "29/10/2026 19:44:40",
-          "lat": -23.2615166666667,
-          "lon": -46.587365
+          "referencia": "0.45 km de PEDAGIO - MAIRIPORA (SENTIDO SP) - MAIRIPORA/SP",
+          "data_hora_posicao": "29/10/2026 20:00:41",
+          "lat": -23.326445,
+          "lon": -46.5788066666667
         },
-        "distancia_km": 26.5,
+        "distancia_km": 19.9,
         "proximo": true
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 19:45:00",
+          "data_hora_posicao": "29/10/2026 20:01:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
@@ -53,12 +53,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.44 km de ZANOTELLI TRANSPORTES E LOGISTICA LTDA - CURITIBA/PR",
-          "data_hora_posicao": "29/10/2026 19:46:28",
-          "lat": -25.435056,
-          "lon": -49.233456
+          "referencia": "0.4 km de POSTO COLINA - COLOMBO/PR",
+          "data_hora_posicao": "29/10/2026 20:01:11",
+          "lat": -25.3718224,
+          "lon": -49.1329152
         },
-        "distancia_km": 355.5,
+        "distancia_km": 343.2,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.85 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:46:33",
-          "lat": -27.0817283333333,
-          "lon": -49.5022383333333
+          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 20:01:39",
+          "lat": -27.0802433333333,
+          "lon": -49.4995433333333
         },
-        "distancia_km": 504.6,
+        "distancia_km": 504.3,
         "proximo": false
       },
       {
@@ -93,12 +93,42 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.85 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:46:33",
-          "lat": -27.0817283333333,
-          "lon": -49.5022383333333
+          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 20:01:39",
+          "lat": -27.0802433333333,
+          "lon": -49.4995433333333
         },
-        "distancia_km": 504.6,
+        "distancia_km": 504.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016284-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2475.7,
+        "frete_rs": 3412.06,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016285-0",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 6699.39,
+        "frete_rs": 11592.02,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -117,6 +147,11 @@
         "peso_kg": 29666.62,
         "frete_rs": 22848.660000000003,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 9175.09,
+        "frete_rs": 15004.08,
+        "qtde": 2
       }
     }
   },
@@ -134,12 +169,12 @@
         "frete_rs": 2599.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.27 km de SC MECÂNICA SCANIA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "29/10/2026 19:45:04",
-          "lat": -25.57132,
-          "lon": -49.2096832
+          "referencia": "1.39 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "29/10/2026 20:01:04",
+          "lat": -25.7218,
+          "lon": -49.1365792
         },
-        "distancia_km": 154.3,
+        "distancia_km": 136.1,
         "proximo": false
       },
       {
@@ -154,12 +189,27 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.55 km de RESTAURANTE TENDA MORAES - OSORIO/RS",
-          "data_hora_posicao": "29/10/2026 19:45:40",
-          "lat": -29.7876258,
-          "lon": -50.2305421
+          "referencia": "4.76 km de POSTO ROTA 101 - TERRA DE AREIA/RS",
+          "data_hora_posicao": "29/10/2026 20:01:41",
+          "lat": -29.6494758,
+          "lon": -50.1159125
         },
-        "distancia_km": 354.7,
+        "distancia_km": 336.1,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016286-8",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2529.81,
+        "frete_rs": 3277.71,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -172,6 +222,11 @@
       "Porto Alegre": {
         "peso_kg": 3449.72,
         "frete_rs": 8179.48,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 2529.81,
+        "frete_rs": 3277.71,
         "qtde": 1
       }
     }
@@ -190,12 +245,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.27 km de SC MECÂNICA SCANIA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "29/10/2026 19:45:04",
-          "lat": -25.57132,
-          "lon": -49.2096832
+          "referencia": "1.39 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "29/10/2026 20:01:04",
+          "lat": -25.7218,
+          "lon": -49.1365792
         },
-        "distancia_km": 187.0,
+        "distancia_km": 172.8,
         "proximo": false
       },
       {
@@ -210,12 +265,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.14 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:38:57",
-          "lat": -27.3145856,
-          "lon": -50.316288
+          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:59:01",
+          "lat": -27.295488,
+          "lon": -50.1464064
         },
-        "distancia_km": 67.0,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -230,12 +285,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.58 km de AUTO POSTO R1 - SANTO ANDRE/SP",
-          "data_hora_posicao": "29/10/2026 19:45:00",
-          "lat": -23.7361664,
-          "lon": -46.4901664
+          "referencia": "5.12 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "29/10/2026 20:01:00",
+          "lat": -23.792272,
+          "lon": -46.6608992
         },
-        "distancia_km": 499.4,
+        "distancia_km": 483.8,
         "proximo": false
       },
       {
@@ -250,12 +305,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.14 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:38:57",
-          "lat": -27.3145856,
-          "lon": -50.316288
+          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:59:01",
+          "lat": -27.295488,
+          "lon": -50.1464064
         },
-        "distancia_km": 67.0,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -270,12 +325,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.14 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:38:57",
-          "lat": -27.3145856,
-          "lon": -50.316288
+          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 19:59:01",
+          "lat": -27.295488,
+          "lon": -50.1464064
         },
-        "distancia_km": 67.0,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -291,7 +346,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:45:34",
+          "data_hora_posicao": "29/10/2026 20:01:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -371,10 +426,10 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:44:54",
-          "lat": -29.9834496,
-          "lon": -51.1866496
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 20:00:54",
+          "lat": -29.983376,
+          "lon": -51.1867136
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -391,10 +446,10 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:44:54",
-          "lat": -29.9834496,
-          "lon": -51.1866496
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 20:00:54",
+          "lat": -29.983376,
+          "lon": -51.1867136
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -433,7 +488,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 19:45:34",
+          "data_hora_posicao": "29/10/2026 20:01:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -449,5 +504,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T19:47:44"
+  "_gerado_em": "2026-10-29T20:02:51"
 }
