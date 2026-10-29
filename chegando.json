@@ -14,9 +14,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:14:03",
-          "lat": -28.266368,
-          "lon": -50.787968
+          "data_hora_posicao": "29/10/2026 11:24:19",
+          "lat": -28.2662912,
+          "lon": -50.7881216
         },
         "distancia_km": null,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:14:03",
-          "lat": -28.266368,
-          "lon": -50.787968
+          "data_hora_posicao": "29/10/2026 11:24:19",
+          "lat": -28.2662912,
+          "lon": -50.7881216
         },
         "distancia_km": null,
         "proximo": false
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:14:03",
-          "lat": -28.266368,
-          "lon": -50.787968
+          "data_hora_posicao": "29/10/2026 11:24:19",
+          "lat": -28.2662912,
+          "lon": -50.7881216
         },
         "distancia_km": 162.6,
         "proximo": false
@@ -89,12 +89,12 @@
         "frete_rs": 4315.65,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.73 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "29/10/2026 11:08:16",
-          "lat": -26.6250768,
-          "lon": -49.0125344
+          "referencia": "0.58 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
+          "data_hora_posicao": "29/10/2026 11:30:16",
+          "lat": -26.789168,
+          "lon": -49.0862848
         },
-        "distancia_km": 90.4,
+        "distancia_km": 72.6,
         "proximo": false
       },
       {
@@ -125,9 +125,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:14:03",
-          "lat": -28.266368,
-          "lon": -50.787968
+          "data_hora_posicao": "29/10/2026 11:24:19",
+          "lat": -28.2662912,
+          "lon": -50.7881216
         },
         "distancia_km": 162.6,
         "proximo": false
@@ -165,13 +165,13 @@
         "frete_rs": 4800.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.4 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "29/10/2026 11:15:58",
-          "lat": -26.5874352,
-          "lon": -48.7217632
+          "referencia": "0.86 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "29/10/2026 11:29:58",
+          "lat": -26.6811616,
+          "lon": -48.693328
         },
-        "distancia_km": 33.4,
-        "proximo": false
+        "distancia_km": 23.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -196,12 +196,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.4 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "29/10/2026 11:15:58",
-          "lat": -26.5874352,
-          "lon": -48.7217632
+          "referencia": "0.86 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "29/10/2026 11:29:58",
+          "lat": -26.6811616,
+          "lon": -48.693328
         },
-        "distancia_km": 448.1,
+        "distancia_km": 440.8,
         "proximo": false
       },
       {
@@ -216,12 +216,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.78 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:16:33",
-          "lat": -28.5841664,
-          "lon": -51.0288192
+          "referencia": "0.58 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "29/10/2026 11:29:33",
+          "lat": -28.6597888,
+          "lon": -51.1018784
         },
-        "distancia_km": 156.3,
+        "distancia_km": 147.4,
         "proximo": false
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.78 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:16:33",
-          "lat": -28.5841664,
-          "lon": -51.0288192
+          "referencia": "0.58 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "29/10/2026 11:29:33",
+          "lat": -28.6597888,
+          "lon": -51.1018784
         },
-        "distancia_km": 156.3,
+        "distancia_km": 147.4,
         "proximo": false
       }
     ],
@@ -323,10 +323,10 @@
         "frete_rs": 6224.45,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.45 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:15:00",
-          "lat": -23.7546976,
-          "lon": -46.9018336
+          "referencia": "1.3 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:31:00",
+          "lat": -23.734632,
+          "lon": -46.8954848
         },
         "distancia_km": null,
         "proximo": false
@@ -343,10 +343,10 @@
         "frete_rs": 2161.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.45 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:15:00",
-          "lat": -23.7546976,
-          "lon": -46.9018336
+          "referencia": "1.3 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:31:00",
+          "lat": -23.734632,
+          "lon": -46.8954848
         },
         "distancia_km": null,
         "proximo": false
@@ -363,10 +363,10 @@
         "frete_rs": 6910.96,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.45 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:15:00",
-          "lat": -23.7546976,
-          "lon": -46.9018336
+          "referencia": "1.3 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:31:00",
+          "lat": -23.734632,
+          "lon": -46.8954848
         },
         "distancia_km": null,
         "proximo": false
@@ -383,10 +383,10 @@
         "frete_rs": 1162.33,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.45 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:15:00",
-          "lat": -23.7546976,
-          "lon": -46.9018336
+          "referencia": "1.3 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:31:00",
+          "lat": -23.734632,
+          "lon": -46.8954848
         },
         "distancia_km": null,
         "proximo": false
@@ -424,12 +424,12 @@
         "frete_rs": 13465.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:16:04",
-          "lat": -23.7653104,
-          "lon": -46.9073984
+          "referencia": "0.71 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:30:04",
+          "lat": -23.739704,
+          "lon": -46.8972928
         },
-        "distancia_km": 56.0,
+        "distancia_km": 53.5,
         "proximo": false
       },
       {
@@ -444,12 +444,12 @@
         "frete_rs": 2246.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:16:04",
-          "lat": -23.7653104,
-          "lon": -46.9073984
+          "referencia": "0.71 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:30:04",
+          "lat": -23.739704,
+          "lon": -46.8972928
         },
-        "distancia_km": 56.0,
+        "distancia_km": 53.5,
         "proximo": false
       },
       {
@@ -464,13 +464,13 @@
         "frete_rs": 15384.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de CDA HEINEKEN - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 11:14:34",
-          "lat": -23.524168,
-          "lon": -46.7598912
+          "referencia": "0.18 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 11:30:34",
+          "lat": -23.5171392,
+          "lon": -46.7297792
         },
-        "distancia_km": 30.9,
-        "proximo": false
+        "distancia_km": 27.8,
+        "proximo": true
       },
       {
         "manif": "ITJ023942-9",
@@ -484,12 +484,12 @@
         "frete_rs": 2089.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 11:16:04",
-          "lat": -23.7653104,
-          "lon": -46.9073984
+          "referencia": "0.71 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 11:30:04",
+          "lat": -23.739704,
+          "lon": -46.8972928
         },
-        "distancia_km": 56.0,
+        "distancia_km": 53.5,
         "proximo": false
       },
       {
@@ -504,13 +504,13 @@
         "frete_rs": 2278.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de CDA HEINEKEN - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 11:14:34",
-          "lat": -23.524168,
-          "lon": -46.7598912
+          "referencia": "0.18 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 11:30:34",
+          "lat": -23.5171392,
+          "lon": -46.7297792
         },
-        "distancia_km": 30.9,
-        "proximo": false
+        "distancia_km": 27.8,
+        "proximo": true
       },
       {
         "manif": "RSL044062-1",
@@ -524,13 +524,13 @@
         "frete_rs": 8240.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de CDA HEINEKEN - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 11:14:34",
-          "lat": -23.524168,
-          "lon": -46.7598912
+          "referencia": "0.18 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 11:30:34",
+          "lat": -23.5171392,
+          "lon": -46.7297792
         },
-        "distancia_km": 30.9,
-        "proximo": false
+        "distancia_km": 27.8,
+        "proximo": true
       },
       {
         "manif": "RSL044063-9",
@@ -544,12 +544,12 @@
         "frete_rs": 17756.81,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 11:15:39",
-          "lat": -23.5287984,
-          "lon": -46.596368
+          "referencia": "0.09 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 11:30:38",
+          "lat": -23.458256,
+          "lon": -46.4722816
         },
-        "distancia_km": 15.1,
+        "distancia_km": 1.7,
         "proximo": true
       },
       {
@@ -637,7 +637,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "29/10/2026 11:16:04",
+          "data_hora_posicao": "29/10/2026 11:30:31",
           "lat": -27.1847626,
           "lon": -51.5197795
         },
@@ -656,10 +656,10 @@
         "frete_rs": 1301.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "29/10/2026 11:13:54",
-          "lat": -27.38256,
-          "lon": -51.23968
+          "referencia": "3.01 km de BRF UNIDADE DE CAMPOS NOVOS - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "29/10/2026 11:22:09",
+          "lat": -27.35776,
+          "lon": -51.3309333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -687,10 +687,10 @@
         "frete_rs": 1493.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.78 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "29/10/2026 11:16:33",
-          "lat": -28.5841664,
-          "lon": -51.0288192
+          "referencia": "0.58 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "29/10/2026 11:29:33",
+          "lat": -28.6597888,
+          "lon": -51.1018784
         },
         "distancia_km": null,
         "proximo": false
@@ -704,5 +704,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T11:17:41"
+  "_gerado_em": "2026-10-29T11:32:42"
 }
