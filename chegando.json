@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:13:45",
+          "data_hora_posicao": "29/10/2026 15:29:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -33,12 +33,12 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "1.6 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
-          "data_hora_posicao": "29/10/2026 15:14:00",
-          "lat": -27.2759971,
-          "lon": -49.8544545
+          "referencia": "0.29 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 15:31:14",
+          "lat": -27.2439133,
+          "lon": -49.690749
         },
-        "distancia_km": 21.7,
+        "distancia_km": 5.8,
         "proximo": true
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:13:45",
+          "data_hora_posicao": "29/10/2026 15:29:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -83,25 +83,25 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "GRU073980-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
+        "manif": "FLN000133-3",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
         "dest_unit": "ITJ",
         "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 6993.24,
-        "frete_rs": 4800.0,
-        "grupo_origem": "Guarulhos",
+        "placa": "OKD7820",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 70.0,
+        "frete_rs": 219.47,
+        "grupo_origem": "FLN",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6993.24,
-        "frete_rs": 4800.0,
+      "FLN": {
+        "peso_kg": 70.0,
+        "frete_rs": 219.47,
         "qtde": 1
       }
     }
@@ -135,12 +135,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.45 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 15:14:54",
-          "lat": -29.18768,
-          "lon": -51.247344
+          "referencia": "1.15 km de CD ALIBEM - FARROUPILHA/RS",
+          "data_hora_posicao": "29/10/2026 15:30:54",
+          "lat": -29.2414784,
+          "lon": -51.3366208
         },
-        "distancia_km": 88.7,
+        "distancia_km": 83.8,
         "proximo": false
       },
       {
@@ -155,12 +155,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.45 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "29/10/2026 15:14:54",
-          "lat": -29.18768,
-          "lon": -51.247344
+          "referencia": "1.15 km de CD ALIBEM - FARROUPILHA/RS",
+          "data_hora_posicao": "29/10/2026 15:30:54",
+          "lat": -29.2414784,
+          "lon": -51.3366208
         },
-        "distancia_km": 88.7,
+        "distancia_km": 83.8,
         "proximo": false
       }
     ],
@@ -248,5 +248,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T15:17:42"
+  "_gerado_em": "2026-10-29T15:32:42"
 }
