@@ -1,4 +1,50 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000750-1",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 2354.16,
+        "frete_rs": 4471.01,
+        "grupo_origem": "Brusque",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "FLN000133-3",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 70.0,
+        "frete_rs": 219.47,
+        "grupo_origem": "FLN",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 2354.16,
+        "frete_rs": 4471.01,
+        "qtde": 1
+      },
+      "FLN": {
+        "peso_kg": 70.0,
+        "frete_rs": 219.47,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -13,12 +59,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 17:45:53",
-          "lat": -22.8469816666667,
-          "lon": -47.1247633333333
+          "referencia": "0.75 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 17:59:52",
+          "lat": -22.8433616666667,
+          "lon": -47.04818
         },
-        "distancia_km": 96.9,
+        "distancia_km": 91.9,
         "proximo": false
       },
       {
@@ -33,12 +79,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 17:44:26",
-          "lat": -27.2064933333333,
-          "lon": -49.6496766666667
+          "referencia": "0.96 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 18:00:23",
+          "lat": -27.1696083333333,
+          "lon": -49.571885
         },
-        "distancia_km": 524.5,
+        "distancia_km": 516.5,
         "proximo": false
       },
       {
@@ -53,12 +99,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 17:44:26",
-          "lat": -27.2064933333333,
-          "lon": -49.6496766666667
+          "referencia": "0.96 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 18:00:23",
+          "lat": -27.1696083333333,
+          "lon": -49.571885
         },
-        "distancia_km": 524.5,
+        "distancia_km": 516.5,
         "proximo": false
       }
     ],
@@ -90,7 +136,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:45:49",
+          "data_hora_posicao": "29/10/2026 17:57:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -110,7 +156,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:45:49",
+          "data_hora_posicao": "29/10/2026 17:57:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -127,32 +173,6 @@
       "Porto Alegre": {
         "peso_kg": 247.06,
         "frete_rs": 802.35,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "FLN000133-3",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 70.0,
-        "frete_rs": 219.47,
-        "grupo_origem": "FLN",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "FLN": {
-        "peso_kg": 70.0,
-        "frete_rs": 219.47,
         "qtde": 1
       }
     }
@@ -186,10 +206,10 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 17:44:54",
-          "lat": -29.983392,
-          "lon": -51.1865696
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 18:00:54",
+          "lat": -29.9834496,
+          "lon": -51.1866496
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -206,10 +226,10 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 17:44:54",
-          "lat": -29.983392,
-          "lon": -51.1865696
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 18:00:54",
+          "lat": -29.9834496,
+          "lon": -51.1866496
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -263,9 +283,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 17:45:27",
-          "lat": -27.2061184,
-          "lon": -49.6492992
+          "data_hora_posicao": "29/10/2026 18:01:26",
+          "lat": -27.2061152,
+          "lon": -49.6492928
         },
         "distancia_km": null,
         "proximo": false
@@ -279,5 +299,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T17:47:39"
+  "_gerado_em": "2026-10-29T18:02:34"
 }
