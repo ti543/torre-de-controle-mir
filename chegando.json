@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:13:45",
+          "data_hora_posicao": "29/10/2026 16:29:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 16:13:45",
+          "data_hora_posicao": "29/10/2026 16:29:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -110,12 +110,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "29/10/2026 16:14:54",
-          "lat": -29.5916224,
-          "lon": -51.3542176
+          "referencia": "0.61 km de POSTO IBP - PORTAO/RS",
+          "data_hora_posicao": "29/10/2026 16:30:54",
+          "lat": -29.7003104,
+          "lon": -51.2139808
         },
-        "distancia_km": 46.5,
+        "distancia_km": 31.6,
         "proximo": false
       },
       {
@@ -130,12 +130,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "29/10/2026 16:14:54",
-          "lat": -29.5916224,
-          "lon": -51.3542176
+          "referencia": "0.61 km de POSTO IBP - PORTAO/RS",
+          "data_hora_posicao": "29/10/2026 16:30:54",
+          "lat": -29.7003104,
+          "lon": -51.2139808
         },
-        "distancia_km": 46.5,
+        "distancia_km": 31.6,
         "proximo": false
       }
     ],
@@ -223,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T16:17:40"
+  "_gerado_em": "2026-10-29T16:32:36"
 }
