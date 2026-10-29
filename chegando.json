@@ -13,12 +13,12 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.45 km de PEDAGIO - MAIRIPORA (SENTIDO SP) - MAIRIPORA/SP",
-          "data_hora_posicao": "29/10/2026 20:00:41",
-          "lat": -23.326445,
-          "lon": -46.5788066666667
+          "referencia": "3.34 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 20:14:41",
+          "lat": -23.3859933333333,
+          "lon": -46.567395
         },
-        "distancia_km": 19.9,
+        "distancia_km": 14.3,
         "proximo": true
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 20:01:00",
+          "data_hora_posicao": "29/10/2026 20:15:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
@@ -53,12 +53,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.4 km de POSTO COLINA - COLOMBO/PR",
-          "data_hora_posicao": "29/10/2026 20:01:11",
-          "lat": -25.3718224,
-          "lon": -49.1329152
+          "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "29/10/2026 20:15:11",
+          "lat": -25.3506016,
+          "lon": -49.0602848
         },
-        "distancia_km": 343.2,
+        "distancia_km": 336.0,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 20:01:39",
-          "lat": -27.0802433333333,
-          "lon": -49.4995433333333
+          "referencia": "1.06 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 20:15:27",
+          "lat": -27.0777583333333,
+          "lon": -49.4934666666667
         },
-        "distancia_km": 504.3,
+        "distancia_km": 503.7,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 20:01:39",
-          "lat": -27.0802433333333,
-          "lon": -49.4995433333333
+          "referencia": "1.06 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 20:15:27",
+          "lat": -27.0777583333333,
+          "lon": -49.4934666666667
         },
-        "distancia_km": 504.3,
+        "distancia_km": 503.7,
         "proximo": false
       },
       {
@@ -169,12 +169,12 @@
         "frete_rs": 2599.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.39 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "29/10/2026 20:01:04",
-          "lat": -25.7218,
-          "lon": -49.1365792
+          "referencia": "1.39 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "29/10/2026 20:15:04",
+          "lat": -25.8452656,
+          "lon": -49.0796384
         },
-        "distancia_km": 136.1,
+        "distancia_km": 121.3,
         "proximo": false
       },
       {
@@ -189,12 +189,32 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.76 km de POSTO ROTA 101 - TERRA DE AREIA/RS",
-          "data_hora_posicao": "29/10/2026 20:01:41",
-          "lat": -29.6494758,
-          "lon": -50.1159125
+          "referencia": "3.67 km de POSTO SIM TERRA DE AREIA - TERRA DE AREIA/RS",
+          "data_hora_posicao": "29/10/2026 20:15:37",
+          "lat": -29.533097,
+          "lon": -50.0198773
         },
-        "distancia_km": 336.1,
+        "distancia_km": 320.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044093-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 7200.8,
+        "frete_rs": 4567.13,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:15:27",
+          "lat": -27.2060736,
+          "lon": -49.6493344
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -224,6 +244,11 @@
         "frete_rs": 8179.48,
         "qtde": 1
       },
+      "Rio do Sul": {
+        "peso_kg": 7200.8,
+        "frete_rs": 4567.13,
+        "qtde": 1
+      },
       "Timbó": {
         "peso_kg": 2529.81,
         "frete_rs": 3277.71,
@@ -245,12 +270,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.39 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "29/10/2026 20:01:04",
-          "lat": -25.7218,
-          "lon": -49.1365792
+          "referencia": "1.39 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "29/10/2026 20:15:04",
+          "lat": -25.8452656,
+          "lon": -49.0796384
         },
-        "distancia_km": 172.8,
+        "distancia_km": 161.6,
         "proximo": false
       },
       {
@@ -265,12 +290,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:59:01",
-          "lat": -27.295488,
-          "lon": -50.1464064
+          "referencia": "7.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "29/10/2026 20:13:59",
+          "lat": -27.2747008,
+          "lon": -50.063104
         },
-        "distancia_km": 50.1,
+        "distancia_km": 41.6,
         "proximo": false
       },
       {
@@ -285,12 +310,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.12 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "29/10/2026 20:01:00",
-          "lat": -23.792272,
-          "lon": -46.6608992
+          "referencia": "0.67 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "29/10/2026 20:15:00",
+          "lat": -23.752104,
+          "lon": -46.8003008
         },
-        "distancia_km": 483.8,
+        "distancia_km": 478.8,
         "proximo": false
       },
       {
@@ -305,12 +330,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:59:01",
-          "lat": -27.295488,
-          "lon": -50.1464064
+          "referencia": "7.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "29/10/2026 20:13:59",
+          "lat": -27.2747008,
+          "lon": -50.063104
         },
-        "distancia_km": 50.1,
+        "distancia_km": 41.6,
         "proximo": false
       },
       {
@@ -325,12 +350,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "8.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 19:59:01",
-          "lat": -27.295488,
-          "lon": -50.1464064
+          "referencia": "7.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "29/10/2026 20:13:59",
+          "lat": -27.2747008,
+          "lon": -50.063104
         },
-        "distancia_km": 50.1,
+        "distancia_km": 41.6,
         "proximo": false
       },
       {
@@ -346,7 +371,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:01:34",
+          "data_hora_posicao": "29/10/2026 20:15:33",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -427,7 +452,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:00:54",
+          "data_hora_posicao": "29/10/2026 20:14:54",
           "lat": -29.983376,
           "lon": -51.1867136
         },
@@ -447,7 +472,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:00:54",
+          "data_hora_posicao": "29/10/2026 20:14:54",
           "lat": -29.983376,
           "lon": -51.1867136
         },
@@ -488,7 +513,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:01:34",
+          "data_hora_posicao": "29/10/2026 20:15:33",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -504,5 +529,36 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T20:02:51"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044092-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 11470.59,
+        "frete_rs": 5408.48,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:15:27",
+          "lat": -27.2060736,
+          "lon": -49.6493344
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 11470.59,
+        "frete_rs": 5408.48,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-10-29T20:17:30"
 }
