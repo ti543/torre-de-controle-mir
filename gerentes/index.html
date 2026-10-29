@@ -380,7 +380,7 @@ async function carregarChegadas(cod) {
     Object.entries(minha.por_origem || {}).forEach(([origem, agg]) => {
       const div = document.createElement("div");
       div.className = "origem-resumo";
-      div.innerHTML = `<span>${origem} (${agg.qtde})</span><span class="valores">${Math.round(agg.peso_kg).toLocaleString("pt-BR")} kg · R$ ${agg.frete_rs.toLocaleString("pt-BR", {minimumFractionDigits:2})}</span>`;
+      div.innerHTML = `<span>${origem} (${agg.qtde})</span><span class="valores">${Math.round(agg.peso_kg).toLocaleString("pt-BR")} kg · R$&nbsp;${agg.frete_rs.toLocaleString("pt-BR", {minimumFractionDigits:2})}</span>`;
       resumoEl.appendChild(div);
     });
     // O mesmo caminhão (placa) pode aparecer mais de uma vez na lista --
@@ -407,13 +407,13 @@ async function carregarChegadas(cod) {
       });
       const base = manifestos[0];
       const linhasOrigem = Array.from(porUnidade.entries()).map(([un, a]) => `
-        <div class="origem-item"><span>de ${un} — ${formatarCidade(a.origin_city)}</span><span>${Math.round(a.peso_real_kg).toLocaleString("pt-BR")} kg · R$ ${a.frete_rs.toLocaleString("pt-BR",{minimumFractionDigits:2})}</span></div>
+        <div class="origem-item"><span>de ${un} — ${formatarCidade(a.origin_city)}</span><span>${Math.round(a.peso_real_kg).toLocaleString("pt-BR")} kg · R$&nbsp;${a.frete_rs.toLocaleString("pt-BR",{minimumFractionDigits:2})}</span></div>
       `).join("");
       let totalHtml = "";
       if (porUnidade.size > 1) {
         const totalPeso = manifestos.reduce((s, v) => s + v.peso_real_kg, 0);
         const totalFrete = manifestos.reduce((s, v) => s + v.frete_rs, 0);
-        totalHtml = `<div class="origem-total">Total: ${Math.round(totalPeso).toLocaleString("pt-BR")} kg · R$ ${totalFrete.toLocaleString("pt-BR",{minimumFractionDigits:2})}</div>`;
+        totalHtml = `<div class="origem-total">Total: ${Math.round(totalPeso).toLocaleString("pt-BR")} kg · R$&nbsp;${totalFrete.toLocaleString("pt-BR",{minimumFractionDigits:2})}</div>`;
       }
       const dist = base.distancia_km != null ? base.distancia_km + " km" : "posição indisponível";
       const div = document.createElement("div");
