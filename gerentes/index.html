@@ -143,7 +143,8 @@
     </div>
 
     <div class="card">
-      <p style="margin:0 0 6px;font-weight:700;">Chegando pra sua unidade</p>
+      <p style="margin:0 0 2px;font-weight:700;">Chegando pra sua unidade</p>
+      <p id="chegadas-atualizado-em" style="margin:0 0 8px;font-size:11.5px;color:var(--muted);"></p>
       <div id="resumo-origens"></div>
     </div>
 
@@ -297,6 +298,16 @@ async function ativarNotificacoes() {
 btnAtivar.onclick = ativarNotificacoes;
 
 // --- Dados de "chegando pra minha unidade" ---
+function formatarAtualizadoEm(iso) {
+  // iso vem como "AAAA-MM-DDTHH:MM:SS" (datetime.isoformat do Python,
+  // ciclo_proximidade.py roda a cada 15 min) -- sem depender de parsing de
+  // timezone, só quebra a string mesmo.
+  const m = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(iso || "");
+  if (!m) return "";
+  const [, y, mo, d, h, mi] = m;
+  return `Atualizado em ${d}/${mo}/${y} ${h}:${mi}`;
+}
+
 async function carregarChegadas(cod) {
   const resumoEl = document.getElementById("resumo-origens");
   const listaEl = document.getElementById("lista-chegadas");
@@ -306,6 +317,8 @@ async function carregarChegadas(cod) {
     const resp = await fetch("../chegando.json?_=" + Date.now(), { cache: "no-store" });
     if (!resp.ok) throw new Error("ainda sem dados publicados");
     const dados = await resp.json();
+    const atualizadoEl = document.getElementById("chegadas-atualizado-em");
+    if (atualizadoEl) atualizadoEl.textContent = formatarAtualizadoEm(dados._gerado_em);
     const minha = dados[cod];
     if (!minha || !minha.veiculos || minha.veiculos.length === 0) {
       resumoEl.innerHTML = '<div class="vazio">Nada a caminho no momento.</div>';
