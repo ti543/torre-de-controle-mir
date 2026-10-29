@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:01:49",
+          "data_hora_posicao": "29/10/2026 17:13:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:01:49",
+          "data_hora_posicao": "29/10/2026 17:13:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -110,12 +110,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.33 km de TRANSPORTES SILVEIRA GOMES LTDA - CANOAS/RS",
-          "data_hora_posicao": "29/10/2026 17:00:54",
-          "lat": -29.9461888,
-          "lon": -51.2043264
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 17:14:54",
+          "lat": -29.983552,
+          "lon": -51.1868288
         },
-        "distancia_km": 4.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -130,12 +130,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.33 km de TRANSPORTES SILVEIRA GOMES LTDA - CANOAS/RS",
-          "data_hora_posicao": "29/10/2026 17:00:54",
-          "lat": -29.9461888,
-          "lon": -51.2043264
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 17:14:54",
+          "lat": -29.983552,
+          "lon": -51.1868288
         },
-        "distancia_km": 4.5,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -183,5 +183,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T17:03:06"
+  "_gerado_em": "2026-10-29T17:17:38"
 }
