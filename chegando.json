@@ -1,4 +1,80 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010326-8",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "QIV0I77",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 8239.86,
+        "frete_rs": 13090.55,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 17:45:53",
+          "lat": -22.8469816666667,
+          "lon": -47.1247633333333
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044087-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 29363.62,
+        "frete_rs": 22600.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.09 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 17:44:26",
+          "lat": -27.2064933333333,
+          "lon": -49.6496766666667
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044090-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 303.0,
+        "frete_rs": 248.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.09 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 17:44:26",
+          "lat": -27.2064933333333,
+          "lon": -49.6496766666667
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 8239.86,
+        "frete_rs": 13090.55,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 29666.62,
+        "frete_rs": 22848.660000000003,
+        "qtde": 2
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -14,7 +90,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:29:49",
+          "data_hora_posicao": "29/10/2026 17:45:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -34,7 +110,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 17:29:49",
+          "data_hora_posicao": "29/10/2026 17:45:49",
           "lat": -27.8239508,
           "lon": -50.362859
         },
@@ -111,7 +187,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 17:30:54",
+          "data_hora_posicao": "29/10/2026 17:44:54",
           "lat": -29.983392,
           "lon": -51.1865696
         },
@@ -131,7 +207,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 17:30:54",
+          "data_hora_posicao": "29/10/2026 17:44:54",
           "lat": -29.983392,
           "lon": -51.1865696
         },
@@ -173,66 +249,35 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 894.62,
-        "frete_rs": 1101.01,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044087-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 29363.62,
-        "frete_rs": 22600.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 17:29:53",
-          "lat": -27.20608,
-          "lon": -49.6493116666667
-        },
-        "distancia_km": 524.5,
-        "proximo": false
       },
       {
-        "manif": "RSL044090-6",
+        "manif": "RSL044091-4",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 303.0,
-        "frete_rs": 248.33,
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RYD5B26",
+        "motorista": "SEVERINO MIRANDA",
+        "peso_real_kg": 713.77,
+        "frete_rs": 1219.37,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 17:29:53",
-          "lat": -27.20608,
-          "lon": -49.6493116666667
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 17:45:27",
+          "lat": -27.2061184,
+          "lon": -49.6492992
         },
-        "distancia_km": 524.5,
+        "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 29666.62,
-        "frete_rs": 22848.660000000003,
+        "peso_kg": 1608.3899999999999,
+        "frete_rs": 2320.38,
         "qtde": 2
       }
     }
   },
-  "_gerado_em": "2026-10-29T17:32:40"
+  "_gerado_em": "2026-10-29T17:47:39"
 }
