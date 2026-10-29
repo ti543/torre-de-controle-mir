@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:29:45",
+          "data_hora_posicao": "29/10/2026 15:45:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -33,12 +33,12 @@
         "frete_rs": 2655.26,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 15:31:14",
-          "lat": -27.2439133,
-          "lon": -49.690749
+          "referencia": "0.06 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 15:46:10",
+          "lat": -27.2423751,
+          "lon": -49.6878111
         },
-        "distancia_km": 5.8,
+        "distancia_km": 5.5,
         "proximo": true
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "29/10/2026 15:29:45",
+          "data_hora_posicao": "29/10/2026 15:45:45",
           "lat": -27.823997,
           "lon": -50.3628848
         },
@@ -135,12 +135,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.15 km de CD ALIBEM - FARROUPILHA/RS",
-          "data_hora_posicao": "29/10/2026 15:30:54",
-          "lat": -29.2414784,
-          "lon": -51.3366208
+          "referencia": "5.03 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "29/10/2026 15:46:09",
+          "lat": -29.3113856,
+          "lon": -51.3424864
         },
-        "distancia_km": 83.8,
+        "distancia_km": 76.2,
         "proximo": false
       },
       {
@@ -155,12 +155,12 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.15 km de CD ALIBEM - FARROUPILHA/RS",
-          "data_hora_posicao": "29/10/2026 15:30:54",
-          "lat": -29.2414784,
-          "lon": -51.3366208
+          "referencia": "5.03 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "29/10/2026 15:46:09",
+          "lat": -29.3113856,
+          "lon": -51.3424864
         },
-        "distancia_km": 83.8,
+        "distancia_km": 76.2,
         "proximo": false
       }
     ],
@@ -248,5 +248,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T15:32:42"
+  "_gerado_em": "2026-10-29T15:47:51"
 }
