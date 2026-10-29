@@ -43,12 +43,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.78 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
-          "data_hora_posicao": "29/10/2026 18:59:23",
-          "lat": -29.890412,
-          "lon": -50.7083148
+          "referencia": "4.63 km de PEDAGIO - S. A. DA PATRULHA (BR 290 SENTIDO LITORAL) - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "29/10/2026 19:15:24",
+          "lat": -29.8816315,
+          "lon": -50.4967173
         },
-        "distancia_km": 386.4,
+        "distancia_km": 375.5,
         "proximo": false
       }
     ],
@@ -84,12 +84,32 @@
         "frete_rs": 13090.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.33 km de VALEO SISTEMAS AUTOMOTIVOS LTDA - ITATIBA/SP",
-          "data_hora_posicao": "29/10/2026 18:59:29",
-          "lat": -22.9925,
-          "lon": -46.794845
+          "referencia": "0.15 km de PEDAGIO - ATIBAIA - ATIBAIA/SP",
+          "data_hora_posicao": "29/10/2026 19:15:29",
+          "lat": -23.095455,
+          "lon": -46.6251566666667
         },
-        "distancia_km": 63.1,
+        "distancia_km": 44.9,
+        "proximo": false
+      },
+      {
+        "manif": "CMP010327-6",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 8006.74,
+        "frete_rs": 8553.93,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 19:15:00",
+          "lat": -22.8469504,
+          "lon": -47.1247904
+        },
+        "distancia_km": 96.9,
         "proximo": false
       },
       {
@@ -104,12 +124,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.57 km de POSTO SCUSSEL - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:00:31",
-          "lat": -27.09244,
-          "lon": -49.5219066666667
+          "referencia": "3.26 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 19:15:59",
+          "lat": -27.0887466666667,
+          "lon": -49.51962
         },
-        "distancia_km": 506.7,
+        "distancia_km": 506.3,
         "proximo": false
       },
       {
@@ -124,20 +144,20 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.57 km de POSTO SCUSSEL - IBIRAMA/SC",
-          "data_hora_posicao": "29/10/2026 19:00:31",
-          "lat": -27.09244,
-          "lon": -49.5219066666667
+          "referencia": "3.26 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 19:15:59",
+          "lat": -27.0887466666667,
+          "lon": -49.51962
         },
-        "distancia_km": 506.7,
+        "distancia_km": 506.3,
         "proximo": false
       }
     ],
     "por_origem": {
       "Campinas": {
-        "peso_kg": 8239.86,
-        "frete_rs": 13090.55,
-        "qtde": 1
+        "peso_kg": 16246.6,
+        "frete_rs": 21644.48,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 29666.62,
@@ -160,12 +180,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "29/10/2026 18:52:36",
-          "lat": -27.5681853,
-          "lon": -50.3737623
+          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
+          "data_hora_posicao": "29/10/2026 19:14:01",
+          "lat": -27.3917696,
+          "lon": -50.4274944
         },
-        "distancia_km": 82.0,
+        "distancia_km": 79.6,
         "proximo": false
       },
       {
@@ -180,12 +200,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.45 km de ZARAPLAST SA - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 18:59:00",
-          "lat": -23.4404816,
-          "lon": -46.4388352
+          "referencia": "0.1 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
+          "data_hora_posicao": "29/10/2026 19:15:00",
+          "lat": -23.4737168,
+          "lon": -46.3307776
         },
-        "distancia_km": 528.6,
+        "distancia_km": 532.4,
         "proximo": false
       },
       {
@@ -200,12 +220,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "29/10/2026 18:52:36",
-          "lat": -27.5681853,
-          "lon": -50.3737623
+          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
+          "data_hora_posicao": "29/10/2026 19:14:01",
+          "lat": -27.3917696,
+          "lon": -50.4274944
         },
-        "distancia_km": 82.0,
+        "distancia_km": 79.6,
         "proximo": false
       },
       {
@@ -220,12 +240,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "29/10/2026 18:52:36",
-          "lat": -27.5681853,
-          "lon": -50.3737623
+          "referencia": "0.33 km de POSTO ALE - PONTE ALTA/SC",
+          "data_hora_posicao": "29/10/2026 19:14:01",
+          "lat": -27.3917696,
+          "lon": -50.4274944
         },
-        "distancia_km": 82.0,
+        "distancia_km": 79.6,
         "proximo": false
       },
       {
@@ -241,7 +261,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:59:32",
+          "data_hora_posicao": "29/10/2026 19:15:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -317,7 +337,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:58:54",
+          "data_hora_posicao": "29/10/2026 19:14:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -337,7 +357,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:58:54",
+          "data_hora_posicao": "29/10/2026 19:14:54",
           "lat": -29.9834496,
           "lon": -51.1866496
         },
@@ -378,7 +398,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 18:59:32",
+          "data_hora_posicao": "29/10/2026 19:15:34",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -394,5 +414,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T19:02:24"
+  "_gerado_em": "2026-10-29T19:17:38"
 }
