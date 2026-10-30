@@ -14,9 +14,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:00:41",
-          "lat": -27.823805,
-          "lon": -50.36275
+          "data_hora_posicao": "30/10/2026 15:15:42",
+          "lat": -27.823825,
+          "lon": -50.3627883333333
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:00:41",
-          "lat": -27.823805,
-          "lon": -50.36275
+          "data_hora_posicao": "30/10/2026 15:15:42",
+          "lat": -27.823825,
+          "lon": -50.3627883333333
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -51,72 +51,6 @@
       "Porto Alegre": {
         "peso_kg": 325.6,
         "frete_rs": 593.95,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074045-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 15692.11,
-        "frete_rs": 24184.7,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023958-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 256.45,
-        "frete_rs": 568.88,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044101-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 426.72,
-        "frete_rs": 216.03,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 15692.11,
-        "frete_rs": 24184.7,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 256.45,
-        "frete_rs": 568.88,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 426.72,
-        "frete_rs": 216.03,
         "qtde": 1
       }
     }
@@ -136,7 +70,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "30/10/2026 15:01:33",
+          "data_hora_posicao": "30/10/2026 15:15:33",
           "lat": -28.6900448,
           "lon": -49.3156512
         },
@@ -148,6 +82,37 @@
       "Itajaí": {
         "peso_kg": 763.66,
         "frete_rs": 2156.87,
+        "qtde": 1
+      }
+    }
+  },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ023961-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 5242.58,
+        "frete_rs": 3533.56,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 15:16:12",
+          "lat": -26.8877301,
+          "lon": -48.7205896
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 5242.58,
+        "frete_rs": 3533.56,
         "qtde": 1
       }
     }
@@ -167,9 +132,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:00:41",
-          "lat": -27.823805,
-          "lon": -50.36275
+          "data_hora_posicao": "30/10/2026 15:15:42",
+          "lat": -27.823825,
+          "lon": -50.3627883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -197,10 +162,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.68 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 15:01:27",
-          "lat": -28.9632593,
-          "lon": -51.1746861
+          "referencia": "0.84 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 15:15:30",
+          "lat": -29.0576333,
+          "lon": -51.190191
         },
         "distancia_km": null,
         "proximo": false
@@ -214,5 +179,31 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T15:03:17"
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "RSL044101-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 426.72,
+        "frete_rs": 216.03,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 426.72,
+        "frete_rs": 216.03,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-10-30T15:17:47"
 }
