@@ -14,7 +14,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 21:15:00",
+          "data_hora_posicao": "29/10/2026 21:31:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.04 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "29/10/2026 21:16:30",
-          "lat": -25.1487904,
-          "lon": -48.859184
+          "referencia": "1.08 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "29/10/2026 21:31:11",
+          "lat": -25.102488,
+          "lon": -48.735008
         },
-        "distancia_km": 306.3,
+        "distancia_km": 293.2,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.25 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "29/10/2026 21:16:24",
-          "lat": -26.9629383333333,
-          "lon": -49.33598
+          "referencia": "0.13 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "29/10/2026 21:30:24",
+          "lat": -26.8892883333333,
+          "lon": -49.2542283333333
         },
-        "distancia_km": 484.1,
+        "distancia_km": 472.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.25 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "29/10/2026 21:16:24",
-          "lat": -26.9629383333333,
-          "lon": -49.33598
+          "referencia": "0.13 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "29/10/2026 21:30:24",
+          "lat": -26.8892883333333,
+          "lon": -49.2542283333333
         },
-        "distancia_km": 484.1,
+        "distancia_km": 472.7,
         "proximo": false
       },
       {
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 21:16:16",
+          "data_hora_posicao": "29/10/2026 21:30:16",
           "lat": -27.205968,
           "lon": -49.648976
         },
@@ -169,12 +169,32 @@
         "frete_rs": 2599.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.43 km de SUPER JA TRANSPORTES E SERVIÇOS LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "29/10/2026 21:15:04",
-          "lat": -26.3138624,
-          "lon": -48.873616
+          "referencia": "1.41 km de FILIAL MIR TRANSPORTES - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 21:31:04",
+          "lat": -26.4560544,
+          "lon": -48.76344
         },
-        "distancia_km": 65.6,
+        "distancia_km": 48.2,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074042-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 7258.44,
+        "frete_rs": 12158.87,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 21:30:34",
+          "lat": -23.470592,
+          "lon": -46.462096
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -189,12 +209,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.64 km de ESTACIONAMENTO KAIZEN - SOMBRIO/SC",
-          "data_hora_posicao": "29/10/2026 21:16:32",
-          "lat": -29.0676473,
-          "lon": -49.6254441
+          "referencia": "1.31 km de ALLIANCE - ARARANGUA/SC",
+          "data_hora_posicao": "29/10/2026 21:30:49",
+          "lat": -28.9458373,
+          "lon": -49.5293026
         },
-        "distancia_km": 258.2,
+        "distancia_km": 242.3,
         "proximo": false
       },
       {
@@ -209,12 +229,12 @@
         "frete_rs": 4567.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 21:15:50",
-          "lat": -27.105328,
-          "lon": -49.5222016
+          "referencia": "3.08 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 21:31:15",
+          "lat": -27.0871328,
+          "lon": -49.5187936
         },
-        "distancia_km": 83.0,
+        "distancia_km": 82.1,
         "proximo": false
       },
       {
@@ -237,6 +257,11 @@
       "Curitiba": {
         "peso_kg": 2486.68,
         "frete_rs": 2599.54,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 7258.44,
+        "frete_rs": 12158.87,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -270,33 +295,13 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.43 km de SUPER JA TRANSPORTES E SERVIÇOS LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "29/10/2026 21:15:04",
-          "lat": -26.3138624,
-          "lon": -48.873616
+          "referencia": "1.41 km de FILIAL MIR TRANSPORTES - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 21:31:04",
+          "lat": -26.4560544,
+          "lon": -48.76344
         },
-        "distancia_km": 125.6,
+        "distancia_km": 121.2,
         "proximo": false
-      },
-      {
-        "manif": "CXS002230-6",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXR9A98",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 2368.9,
-        "frete_rs": 2976.26,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 21:14:50",
-          "lat": -27.2425055,
-          "lon": -49.6880063
-        },
-        "distancia_km": 5.5,
-        "proximo": true
       },
       {
         "manif": "GRU074040-3",
@@ -310,53 +315,13 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de 36° BATALHÃO DE POLÍCIA MILITAR - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "29/10/2026 21:15:00",
-          "lat": -23.6428144,
-          "lon": -46.8318336
+          "referencia": "0.09 km de POSTO RODOANEL SUL - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "29/10/2026 21:31:00",
+          "lat": -23.6456912,
+          "lon": -46.841232
         },
-        "distancia_km": 486.8,
+        "distancia_km": 486.0,
         "proximo": false
-      },
-      {
-        "manif": "LGS001601-2",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXR9A98",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 1660.72,
-        "frete_rs": 2448.42,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 21:14:50",
-          "lat": -27.2425055,
-          "lon": -49.6880063
-        },
-        "distancia_km": 5.5,
-        "proximo": true
-      },
-      {
-        "manif": "POA016176-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXR9A98",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 247.06,
-        "frete_rs": 802.35,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 21:14:50",
-          "lat": -27.2425055,
-          "lon": -49.6880063
-        },
-        "distancia_km": 5.5,
-        "proximo": true
       },
       {
         "manif": "POA016187-0",
@@ -371,7 +336,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 21:16:34",
+          "data_hora_posicao": "29/10/2026 21:30:34",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -385,20 +350,15 @@
         "frete_rs": 2284.74,
         "qtde": 1
       },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 4029.62,
-        "frete_rs": 5424.68,
-        "qtde": 2
-      },
       "Guarulhos": {
         "peso_kg": 3911.52,
         "frete_rs": 8271.19,
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 572.6600000000001,
-        "frete_rs": 1396.3000000000002,
-        "qtde": 2
+        "peso_kg": 325.6,
+        "frete_rs": 593.95,
+        "qtde": 1
       }
     }
   },
@@ -432,7 +392,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 21:14:54",
+          "data_hora_posicao": "29/10/2026 21:30:54",
           "lat": -29.9834144,
           "lon": -51.1866144
         },
@@ -452,7 +412,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 21:14:54",
+          "data_hora_posicao": "29/10/2026 21:30:54",
           "lat": -29.9834144,
           "lon": -51.1866144
         },
@@ -493,7 +453,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 21:15:33",
+          "data_hora_posicao": "29/10/2026 21:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -524,7 +484,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 21:15:33",
+          "data_hora_posicao": "29/10/2026 21:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -555,7 +515,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 21:15:33",
+          "data_hora_posicao": "29/10/2026 21:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -586,7 +546,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 21:16:34",
+          "data_hora_posicao": "29/10/2026 21:30:34",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -616,12 +576,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "29/10/2026 21:15:50",
-          "lat": -27.105328,
-          "lon": -49.5222016
+          "referencia": "3.08 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "29/10/2026 21:31:15",
+          "lat": -27.0871328,
+          "lon": -49.5187936
         },
-        "distancia_km": 176.9,
+        "distancia_km": 174.8,
         "proximo": false
       }
     ],
@@ -633,5 +593,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T21:17:38"
+  "_gerado_em": "2026-10-29T21:32:25"
 }
