@@ -2,6 +2,26 @@
   "ITJ": {
     "veiculos": [
       {
+        "manif": "BRQ000751-0",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 6868.27,
+        "frete_rs": 7410.92,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.79 km de FORT ATACADISTA - FILIAL 135 - BRUSQUE/SC",
+          "data_hora_posicao": "30/10/2026 18:46:12",
+          "lat": -27.09808,
+          "lon": -48.9096458
+        },
+        "distancia_km": 30.0,
+        "proximo": true
+      },
+      {
         "manif": "CRC000393-0",
         "origin_unit": "CRC",
         "origin_city": "ICARA/SC",
@@ -13,12 +33,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.67 km de PEDAGIO - PALHOCA - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 18:29:33",
-          "lat": -27.8701504,
-          "lon": -48.6462784
+          "referencia": "0.11 km de PRF - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 18:46:11",
+          "lat": -27.6943808,
+          "lon": -48.6626144
         },
-        "distancia_km": 109.5,
+        "distancia_km": 89.9,
         "proximo": false
       },
       {
@@ -33,16 +53,21 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.67 km de PEDAGIO - PALHOCA - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 18:29:33",
-          "lat": -27.8701504,
-          "lon": -48.6462784
+          "referencia": "0.11 km de PRF - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 18:46:11",
+          "lat": -27.6943808,
+          "lon": -48.6626144
         },
-        "distancia_km": 109.5,
+        "distancia_km": 89.9,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Brusque": {
+        "peso_kg": 6868.27,
+        "frete_rs": 7410.92,
+        "qtde": 1
+      },
       "CRC": {
         "peso_kg": 1914.35,
         "frete_rs": 1558.42,
@@ -69,12 +94,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 18:31:12",
-          "lat": -27.8238866666667,
-          "lon": -50.36244
+          "referencia": "1.1 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:45:29",
+          "lat": -27.7883583333333,
+          "lon": -50.3535283333333
         },
-        "distancia_km": 98.3,
+        "distancia_km": 94.9,
         "proximo": false
       },
       {
@@ -90,7 +115,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.06 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 18:28:01",
+          "data_hora_posicao": "30/10/2026 18:44:01",
           "lat": -29.1468078,
           "lon": -51.1646873
         },
@@ -109,12 +134,52 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 18:30:04",
-          "lat": -23.471768,
-          "lon": -46.4666624
+          "referencia": "0.48 km de TRANS LEME TRANSPORTES - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 18:46:04",
+          "lat": -23.4886032,
+          "lon": -46.4649152
         },
-        "distancia_km": 524.1,
+        "distancia_km": 522.7,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001602-1",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2135.43,
+        "frete_rs": 1954.13,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.1 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:45:29",
+          "lat": -27.7883583333333,
+          "lon": -50.3535283333333
+        },
+        "distancia_km": 94.9,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001603-9",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2571.3,
+        "frete_rs": 3483.42,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.1 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:45:29",
+          "lat": -27.7883583333333,
+          "lon": -50.3535283333333
+        },
+        "distancia_km": 94.9,
         "proximo": false
       },
       {
@@ -129,12 +194,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 18:31:12",
-          "lat": -27.8238866666667,
-          "lon": -50.36244
+          "referencia": "1.1 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:45:29",
+          "lat": -27.7883583333333,
+          "lon": -50.3535283333333
         },
-        "distancia_km": 98.3,
+        "distancia_km": 94.9,
         "proximo": false
       },
       {
@@ -149,12 +214,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.42 km de AGOSTINI E BOTTEGA LTDA - CANOAS/RS",
-          "data_hora_posicao": "30/10/2026 18:29:58",
-          "lat": -29.9402016,
-          "lon": -51.2057536
+          "referencia": "0.36 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 18:45:58",
+          "lat": -29.8183904,
+          "lon": -51.1701216
         },
-        "distancia_km": 339.9,
+        "distancia_km": 326.3,
         "proximo": false
       },
       {
@@ -169,20 +234,20 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.95 km de MONTE SEU SOM - CANOAS/RS",
-          "data_hora_posicao": "30/10/2026 18:31:05",
-          "lat": -29.9283424,
-          "lon": -51.2160416
+          "referencia": "0.3 km de AVANTI LOGISTICA E TRANSPORTE EIRELI - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 18:45:05",
+          "lat": -29.8259552,
+          "lon": -51.1721728
         },
-        "distancia_km": 339.1,
+        "distancia_km": 327.1,
         "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 8903.220000000001,
-        "frete_rs": 14532.99,
-        "qtde": 2
+        "peso_kg": 13609.95,
+        "frete_rs": 19970.54,
+        "qtde": 4
       },
       "Guarulhos": {
         "peso_kg": 5898.33,
@@ -222,5 +287,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T18:32:29"
+  "_gerado_em": "2026-10-30T18:47:34"
 }
