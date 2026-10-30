@@ -13,12 +13,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.83 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "30/10/2026 17:45:33",
-          "lat": -28.36856,
-          "lon": -48.7561696
+          "referencia": "0.76 km de FILIAL TRANSPORTES PAIS E FILHOS LTDA (DIOGO BRAMBILA) - IMBITUBA/SC",
+          "data_hora_posicao": "30/10/2026 18:01:33",
+          "lat": -28.1855136,
+          "lon": -48.6962112
         },
-        "distancia_km": 164.7,
+        "distancia_km": 144.4,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.83 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "30/10/2026 17:45:33",
-          "lat": -28.36856,
-          "lon": -48.7561696
+          "referencia": "0.76 km de FILIAL TRANSPORTES PAIS E FILHOS LTDA (DIOGO BRAMBILA) - IMBITUBA/SC",
+          "data_hora_posicao": "30/10/2026 18:01:33",
+          "lat": -28.1855136,
+          "lon": -48.6962112
         },
-        "distancia_km": 164.7,
+        "distancia_km": 144.4,
         "proximo": false
       }
     ],
@@ -69,10 +69,10 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:45:50",
-          "lat": -27.82388,
-          "lon": -50.3627616666667
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:01:16",
+          "lat": -27.82387,
+          "lon": -50.3624233333333
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,10 +89,10 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 17:46:04",
-          "lat": -23.470528,
-          "lon": -46.4620448
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 18:00:04",
+          "lat": -23.4708896,
+          "lon": -46.4621472
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -109,10 +109,10 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:45:50",
-          "lat": -27.82388,
-          "lon": -50.3627616666667
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 18:01:16",
+          "lat": -27.82387,
+          "lon": -50.3624233333333
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -129,12 +129,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 17:45:58",
-          "lat": -29.9834496,
-          "lon": -51.1866176
+          "referencia": "0.01 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "30/10/2026 17:59:58",
+          "lat": -29.9837152,
+          "lon": -51.1869248
         },
-        "distancia_km": 343.3,
+        "distancia_km": 343.4,
         "proximo": false
       },
       {
@@ -149,10 +149,10 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 17:45:05",
-          "lat": -29.9835904,
-          "lon": -51.1868704
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "30/10/2026 18:01:05",
+          "lat": -29.9835072,
+          "lon": -51.186896
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -173,37 +173,6 @@
         "peso_kg": 13550.43,
         "frete_rs": 13739.919999999998,
         "qtde": 3
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "POA016186-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2135.43,
-        "frete_rs": 1954.13,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:45:50",
-          "lat": -27.82388,
-          "lon": -50.3627616666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 2135.43,
-        "frete_rs": 1954.13,
-        "qtde": 1
       }
     }
   },
@@ -233,5 +202,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T17:47:38"
+  "_gerado_em": "2026-10-30T18:02:44"
 }
