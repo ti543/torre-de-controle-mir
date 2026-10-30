@@ -13,12 +13,12 @@
         "frete_rs": 4011.03,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.47 km de CONCESSIONARIA MERCEDES BENZ - ITATIBA/SP",
-          "data_hora_posicao": "30/10/2026 20:14:39",
-          "lat": -22.99581,
-          "lon": -46.789375
+          "referencia": "2.63 km de PEDAGIO - ATIBAIA - ATIBAIA/SP",
+          "data_hora_posicao": "30/10/2026 20:30:39",
+          "lat": -23.0742016666667,
+          "lon": -46.63939
         },
-        "distancia_km": 62.5,
+        "distancia_km": 47.6,
         "proximo": false
       },
       {
@@ -33,10 +33,10 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 20:15:45",
-          "lat": -25.351496,
-          "lon": -49.0599104
+          "referencia": "0.03 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 20:30:32",
+          "lat": -25.350552,
+          "lon": -49.06016
         },
         "distancia_km": 336.0,
         "proximo": false
@@ -58,26 +58,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "CRC000393-0",
-        "origin_unit": "CRC",
-        "origin_city": "ICARA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1914.35,
-        "frete_rs": 1558.42,
-        "grupo_origem": "CRC",
-        "posicao_raster": {
-          "referencia": "0.04 km de LOADIR FLORIANO ME (DETONI PESCADOS) - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 20:15:33",
-          "lat": -26.9425568,
-          "lon": -48.6926656
-        },
-        "distancia_km": 6.7,
-        "proximo": true
-      },
-      {
         "manif": "CTB013533-0",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -89,49 +69,19 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "30/10/2026 20:15:26",
-          "lat": -25.6250896,
-          "lon": -49.1659616
+          "referencia": "1.56 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 20:31:26",
+          "lat": -25.7908496,
+          "lon": -49.1260032
         },
-        "distancia_km": 147.2,
+        "distancia_km": 128.4,
         "proximo": false
-      },
-      {
-        "manif": "TUB000383-2",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 2378.61,
-        "frete_rs": 4781.69,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.04 km de LOADIR FLORIANO ME (DETONI PESCADOS) - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 20:15:33",
-          "lat": -26.9425568,
-          "lon": -48.6926656
-        },
-        "distancia_km": 6.7,
-        "proximo": true
       }
     ],
     "por_origem": {
-      "CRC": {
-        "peso_kg": 1914.35,
-        "frete_rs": 1558.42,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 5428.9,
         "frete_rs": 4391.98,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 2378.61,
-        "frete_rs": 4781.69,
         "qtde": 1
       }
     }
@@ -150,12 +100,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "30/10/2026 20:15:26",
-          "lat": -25.6250896,
-          "lon": -49.1659616
+          "referencia": "1.56 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 20:31:26",
+          "lat": -25.7908496,
+          "lon": -49.1260032
         },
-        "distancia_km": 182.3,
+        "distancia_km": 165.8,
         "proximo": false
       },
       {
@@ -170,13 +120,13 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "11.88 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "30/10/2026 20:08:02",
-          "lat": -27.30416,
-          "lon": -50.09216
+          "referencia": "0.76 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "30/10/2026 20:31:29",
+          "lat": -27.2597716666667,
+          "lon": -49.9215833333333
         },
-        "distancia_km": 45.1,
-        "proximo": false
+        "distancia_km": 27.5,
+        "proximo": true
       },
       {
         "manif": "CXS002232-2",
@@ -190,12 +140,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 20:07:17",
-          "lat": -28.8151551,
-          "lon": -51.2667861
+          "referencia": "0.07 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "30/10/2026 20:22:40",
+          "lat": -28.6795776,
+          "lon": -51.2005632
         },
-        "distancia_km": 239.2,
+        "distancia_km": 223.7,
         "proximo": false
       },
       {
@@ -210,10 +160,10 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 20:16:04",
-          "lat": -23.7517168,
-          "lon": -46.8011552
+          "referencia": "1.45 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 20:30:04",
+          "lat": -23.744984,
+          "lon": -46.8117824
         },
         "distancia_km": 478.8,
         "proximo": false
@@ -230,13 +180,13 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "11.88 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "30/10/2026 20:08:02",
-          "lat": -27.30416,
-          "lon": -50.09216
+          "referencia": "0.76 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "30/10/2026 20:31:29",
+          "lat": -27.2597716666667,
+          "lon": -49.9215833333333
         },
-        "distancia_km": 45.1,
-        "proximo": false
+        "distancia_km": 27.5,
+        "proximo": true
       },
       {
         "manif": "LGS001603-9",
@@ -250,13 +200,13 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "11.88 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "30/10/2026 20:08:02",
-          "lat": -27.30416,
-          "lon": -50.09216
+          "referencia": "0.76 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "30/10/2026 20:31:29",
+          "lat": -27.2597716666667,
+          "lon": -49.9215833333333
         },
-        "distancia_km": 45.1,
-        "proximo": false
+        "distancia_km": 27.5,
+        "proximo": true
       },
       {
         "manif": "POA016187-0",
@@ -270,13 +220,13 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "11.88 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "30/10/2026 20:08:02",
-          "lat": -27.30416,
-          "lon": -50.09216
+          "referencia": "0.76 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "30/10/2026 20:31:29",
+          "lat": -27.2597716666667,
+          "lon": -49.9215833333333
         },
-        "distancia_km": 45.1,
-        "proximo": false
+        "distancia_km": 27.5,
+        "proximo": true
       },
       {
         "manif": "POA016193-4",
@@ -290,12 +240,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 20:15:58",
-          "lat": -29.12968,
-          "lon": -51.1858368
+          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 20:24:37",
+          "lat": -29.0794784,
+          "lon": -51.1906816
         },
-        "distancia_km": 261.6,
+        "distancia_km": 257.3,
         "proximo": false
       },
       {
@@ -310,12 +260,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 20:15:58",
-          "lat": -29.1289888,
-          "lon": -51.184608
+          "referencia": "0.05 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 20:31:17",
+          "lat": -29.0510176,
+          "lon": -51.1936768
         },
-        "distancia_km": 261.4,
+        "distancia_km": 255.0,
         "proximo": false
       },
       {
@@ -362,5 +312,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T20:17:38"
+  "_gerado_em": "2026-10-30T20:32:34"
 }
