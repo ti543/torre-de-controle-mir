@@ -406,9 +406,12 @@ async function ativarNotificacoes() {
       return;
     }
     await authPronta;
+    // Só "unidade" e "atualizadoEm" -- as regras do Firestore só permitem
+    // exatamente esses dois campos (hasOnly) nesse documento. O token já
+    // fica embutido no próprio ID do documento (idInscricao), então não
+    // precisa (e não pode) ir de novo como campo solto aqui.
     await setDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)), {
       unidade: cod,
-      token: token,
       atualizadoEm: serverTimestamp(),
     });
     marcarNotifAtivadas(cod);
