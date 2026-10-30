@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 06:45:04",
+          "data_hora_posicao": "30/10/2026 07:01:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -33,13 +33,13 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de ESTACIONAMENTO MIME 10 - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 06:45:00",
-          "lat": -27.038416,
-          "lon": -49.3942016
+          "referencia": "0.88 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "30/10/2026 07:01:00",
+          "lat": -27.0779968,
+          "lon": -49.4915456
         },
-        "distancia_km": 31.4,
-        "proximo": false
+        "distancia_km": 21.2,
+        "proximo": true
       },
       {
         "manif": "GRU074044-6",
@@ -53,12 +53,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 06:40:38",
-          "lat": -25.7869168,
-          "lon": -49.1231008
+          "referencia": "0.09 km de MECANICA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 07:01:24",
+          "lat": -25.8545824,
+          "lon": -48.9584992
         },
-        "distancia_km": 166.3,
+        "distancia_km": 165.3,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 06:45:04",
+          "data_hora_posicao": "30/10/2026 07:01:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -109,9 +109,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 06:44:37",
-          "lat": -29.1463583333333,
-          "lon": -51.1648766666667
+          "data_hora_posicao": "30/10/2026 07:01:02",
+          "lat": -29.146365,
+          "lon": -51.1648466666667
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -154,12 +154,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO 86 - DOM PEDRO DE ALCANTARA/RS",
-          "data_hora_posicao": "30/10/2026 06:43:58",
-          "lat": -29.4009344,
-          "lon": -49.8564224
+          "referencia": "1.93 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "30/10/2026 06:59:58",
+          "lat": -29.5213504,
+          "lon": -49.9986176
         },
-        "distancia_km": 143.9,
+        "distancia_km": 125.7,
         "proximo": false
       },
       {
@@ -174,12 +174,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO 86 - DOM PEDRO DE ALCANTARA/RS",
-          "data_hora_posicao": "30/10/2026 06:43:58",
-          "lat": -29.4009344,
-          "lon": -49.8564224
+          "referencia": "1.93 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "30/10/2026 06:59:58",
+          "lat": -29.5213504,
+          "lon": -49.9986176
         },
-        "distancia_km": 143.9,
+        "distancia_km": 125.7,
         "proximo": false
       },
       {
@@ -195,7 +195,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 06:43:25",
+          "data_hora_posicao": "30/10/2026 06:59:25",
           "lat": -29.9833408,
           "lon": -51.186656
         },
@@ -215,7 +215,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 06:43:25",
+          "data_hora_posicao": "30/10/2026 06:59:25",
           "lat": -29.9833408,
           "lon": -51.186656
         },
@@ -260,12 +260,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.58 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "30/10/2026 06:44:34",
-          "lat": -26.0344384,
-          "lon": -48.8604928
+          "referencia": "0.56 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 07:00:34",
+          "lat": -26.2073536,
+          "lon": -48.9149408
         },
-        "distancia_km": 95.9,
+        "distancia_km": 78.0,
         "proximo": false
       },
       {
@@ -280,13 +280,13 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO SILVESTRE (MODESTO) - TIJUCAS/SC",
-          "data_hora_posicao": "30/10/2026 06:45:50",
-          "lat": -27.2265176,
-          "lon": -48.628024
+          "referencia": "0.44 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "30/10/2026 07:01:14",
+          "lat": -27.079566,
+          "lon": -48.6000605
         },
-        "distancia_km": 38.8,
-        "proximo": false
+        "distancia_km": 24.5,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -343,9 +343,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 06:45:12",
-          "lat": -22.846995,
-          "lon": -47.1247983333333
+          "data_hora_posicao": "30/10/2026 07:01:13",
+          "lat": -22.8469816666667,
+          "lon": -47.1247716666667
         },
         "distancia_km": null,
         "proximo": false
@@ -363,9 +363,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 06:45:12",
-          "lat": -22.846995,
-          "lon": -47.1247983333333
+          "data_hora_posicao": "30/10/2026 07:01:13",
+          "lat": -22.8469816666667,
+          "lon": -47.1247716666667
         },
         "distancia_km": null,
         "proximo": false
@@ -393,12 +393,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "30/10/2026 06:45:22",
-          "lat": -24.4771568,
-          "lon": -47.8281568
+          "referencia": "0.36 km de LAVADOR PIPOCA - JUQUIA/SP",
+          "data_hora_posicao": "30/10/2026 07:01:22",
+          "lat": -24.3558944,
+          "lon": -47.6803488
         },
-        "distancia_km": 178.3,
+        "distancia_km": 158.2,
         "proximo": false
       },
       {
@@ -413,12 +413,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "30/10/2026 06:45:22",
-          "lat": -24.4771568,
-          "lon": -47.8281568
+          "referencia": "0.36 km de LAVADOR PIPOCA - JUQUIA/SP",
+          "data_hora_posicao": "30/10/2026 07:01:22",
+          "lat": -24.3558944,
+          "lon": -47.6803488
         },
-        "distancia_km": 178.3,
+        "distancia_km": 158.2,
         "proximo": false
       },
       {
@@ -449,7 +449,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "30/10/2026 06:45:43",
+          "data_hora_posicao": "30/10/2026 06:59:43",
           "lat": -24.7857833333333,
           "lon": -48.17479
         },
@@ -469,7 +469,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "30/10/2026 06:45:43",
+          "data_hora_posicao": "30/10/2026 06:59:43",
           "lat": -24.7857833333333,
           "lon": -48.17479
         },
@@ -488,12 +488,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "30/10/2026 06:46:16",
-          "lat": -24.7814096,
-          "lon": -48.1923136
+          "referencia": "2.9 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
+          "data_hora_posicao": "30/10/2026 07:00:16",
+          "lat": -24.7226576,
+          "lon": -48.0538368
         },
-        "distancia_km": 228.2,
+        "distancia_km": 213.3,
         "proximo": false
       },
       {
@@ -589,10 +589,10 @@
         "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.52 km de BPM - SÃO JOSÉ / SC - SAO JOSE/SC",
-          "data_hora_posicao": "30/10/2026 06:45:33",
-          "lat": -27.5675936,
-          "lon": -48.6141024
+          "referencia": "0.34 km de DESENTUPIDORA PIRES - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 06:59:39",
+          "lat": -27.6725376,
+          "lon": -48.6721536
         },
         "distancia_km": null,
         "proximo": false
@@ -620,10 +620,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.52 km de BPM - SÃO JOSÉ / SC - SAO JOSE/SC",
-          "data_hora_posicao": "30/10/2026 06:45:33",
-          "lat": -27.5675936,
-          "lon": -48.6141024
+          "referencia": "0.34 km de DESENTUPIDORA PIRES - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 06:59:39",
+          "lat": -27.6725376,
+          "lon": -48.6721536
         },
         "distancia_km": null,
         "proximo": false
@@ -651,10 +651,10 @@
         "frete_rs": 8182.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.52 km de BPM - SÃO JOSÉ / SC - SAO JOSE/SC",
-          "data_hora_posicao": "30/10/2026 06:45:33",
-          "lat": -27.5675936,
-          "lon": -48.6141024
+          "referencia": "0.34 km de DESENTUPIDORA PIRES - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 06:59:39",
+          "lat": -27.6725376,
+          "lon": -48.6721536
         },
         "distancia_km": null,
         "proximo": false
@@ -683,9 +683,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 06:44:37",
-          "lat": -29.1463583333333,
-          "lon": -51.1648766666667
+          "data_hora_posicao": "30/10/2026 07:01:02",
+          "lat": -29.146365,
+          "lon": -51.1648466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -702,10 +702,10 @@
         "frete_rs": 2960.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 06:42:02",
-          "lat": -27.3161753,
-          "lon": -50.3282618
+          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 06:54:27",
+          "lat": -27.3194945,
+          "lon": -50.4236535
         },
         "distancia_km": null,
         "proximo": false
@@ -738,10 +738,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 06:42:02",
-          "lat": -27.3161753,
-          "lon": -50.3282618
+          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 06:54:27",
+          "lat": -27.3194945,
+          "lon": -50.4236535
         },
         "distancia_km": null,
         "proximo": false
@@ -755,5 +755,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T06:47:34"
+  "_gerado_em": "2026-10-30T07:02:36"
 }
