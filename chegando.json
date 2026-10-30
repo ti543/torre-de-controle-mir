@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:43:41",
+          "data_hora_posicao": "30/10/2026 11:53:23",
           "lat": -28.0065066666667,
           "lon": -50.54096
         },
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.59 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 11:44:38",
-          "lat": -27.0497728,
-          "lon": -49.391088
+          "referencia": "0.25 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "30/10/2026 12:00:38",
+          "lat": -27.0528128,
+          "lon": -49.3901408
         },
-        "distancia_km": 30.9,
+        "distancia_km": 30.8,
         "proximo": false
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:43:41",
+          "data_hora_posicao": "30/10/2026 11:53:23",
           "lat": -28.0065066666667,
           "lon": -50.54096
         },
@@ -176,7 +176,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 11:45:33",
+          "data_hora_posicao": "30/10/2026 11:59:33",
           "lat": -28.9752288,
           "lon": -49.5331392
         },
@@ -207,7 +207,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 11:45:33",
+          "data_hora_posicao": "30/10/2026 11:59:33",
           "lat": -28.9752288,
           "lon": -49.5331392
         },
@@ -252,12 +252,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de PARK BOARD ESTACIONAMENTO - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 11:46:04",
-          "lat": -23.459115,
-          "lon": -46.4830883333333
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 12:00:04",
+          "lat": -23.470575,
+          "lon": -46.46223
         },
-        "distancia_km": 2.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -272,12 +272,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de PARK BOARD ESTACIONAMENTO - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 11:46:04",
-          "lat": -23.459115,
-          "lon": -46.4830883333333
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 12:00:04",
+          "lat": -23.470575,
+          "lon": -46.46223
         },
-        "distancia_km": 2.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -293,7 +293,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 11:46:16",
+          "data_hora_posicao": "30/10/2026 12:00:16",
           "lat": -23.4704432,
           "lon": -46.4620288
         },
@@ -394,7 +394,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:43:41",
+          "data_hora_posicao": "30/10/2026 11:53:23",
           "lat": -28.0065066666667,
           "lon": -50.54096
         },
@@ -425,7 +425,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 11:43:33",
+          "data_hora_posicao": "30/10/2026 11:59:00",
           "lat": -28.9080411,
           "lon": -51.1932596
         },
@@ -441,5 +441,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T11:47:37"
+  "_gerado_em": "2026-10-30T12:02:24"
 }
