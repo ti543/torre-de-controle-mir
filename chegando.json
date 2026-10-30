@@ -13,10 +13,10 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:00:15",
-          "lat": -27.8238266666667,
-          "lon": -50.36294
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:15:44",
+          "lat": -27.8237983333333,
+          "lon": -50.3629566666667
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "30/10/2026 13:00:38",
-          "lat": -27.135712,
-          "lon": -49.543616
+          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "30/10/2026 13:14:38",
+          "lat": -27.1357088,
+          "lon": -49.5437216
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -68,10 +68,10 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:00:15",
-          "lat": -27.8238266666667,
-          "lon": -50.36294
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:15:44",
+          "lat": -27.8237983333333,
+          "lon": -50.3629566666667
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -175,10 +175,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 13:01:05",
-          "lat": -28.9754848,
-          "lon": -49.5331968
+          "referencia": "0.84 km de ALLIANCE - ARARANGUA/SC",
+          "data_hora_posicao": "30/10/2026 13:16:12",
+          "lat": -28.9616512,
+          "lon": -49.522096
         },
         "distancia_km": null,
         "proximo": false
@@ -189,162 +189,6 @@
         "peso_kg": 763.66,
         "frete_rs": 2156.87,
         "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ023952-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 10505.3,
-        "frete_rs": 12664.53,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044087-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 29363.62,
-        "frete_rs": 22600.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 13:00:54",
-          "lat": -23.4706433333333,
-          "lon": -46.4621983333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044090-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 303.0,
-        "frete_rs": 248.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 13:00:54",
-          "lat": -23.4706433333333,
-          "lon": -46.4621983333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044094-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 32957.5,
-        "frete_rs": 18132.36,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 13:00:16",
-          "lat": -23.4704432,
-          "lon": -46.4620288
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044098-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 10694.98,
-        "frete_rs": 16209.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044099-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 17825.7,
-        "frete_rs": 11639.59,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016284-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 2475.7,
-        "frete_rs": 3412.06,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016285-0",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6699.39,
-        "frete_rs": 11592.02,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 10505.3,
-        "frete_rs": 12664.53,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 91144.79999999999,
-        "frete_rs": 68829.63,
-        "qtde": 5
-      },
-      "Timbó": {
-        "peso_kg": 9175.09,
-        "frete_rs": 15004.08,
-        "qtde": 2
       }
     }
   },
@@ -362,10 +206,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:00:15",
-          "lat": -27.8238266666667,
-          "lon": -50.36294
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:15:44",
+          "lat": -27.8237983333333,
+          "lon": -50.3629566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -393,10 +237,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.61 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 13:00:32",
-          "lat": -28.9477621,
-          "lon": -51.1789126
+          "referencia": "4.62 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 13:16:00",
+          "lat": -28.9478706,
+          "lon": -51.178919
         },
         "distancia_km": null,
         "proximo": false
@@ -410,5 +254,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T13:02:31"
+  "_gerado_em": "2026-10-30T13:17:35"
 }
