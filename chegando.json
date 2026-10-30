@@ -13,12 +13,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.3 km de PRF - PAULO LOPES/SC",
-          "data_hora_posicao": "30/10/2026 18:09:33",
-          "lat": -28.0886208,
-          "lon": -48.710288
+          "referencia": "1.67 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 18:29:33",
+          "lat": -27.8701504,
+          "lon": -48.6462784
         },
-        "distancia_km": 133.6,
+        "distancia_km": 109.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.3 km de PRF - PAULO LOPES/SC",
-          "data_hora_posicao": "30/10/2026 18:09:33",
-          "lat": -28.0886208,
-          "lon": -48.710288
+          "referencia": "1.67 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 18:29:33",
+          "lat": -27.8701504,
+          "lon": -48.6462784
         },
-        "distancia_km": 133.6,
+        "distancia_km": 109.5,
         "proximo": false
       }
     ],
@@ -70,11 +70,51 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 18:15:13",
+          "data_hora_posicao": "30/10/2026 18:31:12",
           "lat": -27.8238866666667,
           "lon": -50.36244
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "CXS002232-2",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 2922.08,
+        "frete_rs": 4994.9,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.06 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 18:28:01",
+          "lat": -29.1468078,
+          "lon": -51.1646873
+        },
+        "distancia_km": 261.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074094-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5898.33,
+        "frete_rs": 10393.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.18 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 18:30:04",
+          "lat": -23.471768,
+          "lon": -46.4666624
+        },
+        "distancia_km": 524.1,
         "proximo": false
       },
       {
@@ -90,7 +130,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 18:15:13",
+          "data_hora_posicao": "30/10/2026 18:31:12",
           "lat": -27.8238866666667,
           "lon": -50.36244
         },
@@ -109,12 +149,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 18:15:58",
-          "lat": -29.9834752,
-          "lon": -51.1869664
+          "referencia": "1.42 km de AGOSTINI E BOTTEGA LTDA - CANOAS/RS",
+          "data_hora_posicao": "30/10/2026 18:29:58",
+          "lat": -29.9402016,
+          "lon": -51.2057536
         },
-        "distancia_km": 343.4,
+        "distancia_km": 339.9,
         "proximo": false
       },
       {
@@ -129,19 +169,24 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 18:15:05",
-          "lat": -29.9835072,
-          "lon": -51.186896
+          "referencia": "1.95 km de MONTE SEU SOM - CANOAS/RS",
+          "data_hora_posicao": "30/10/2026 18:31:05",
+          "lat": -29.9283424,
+          "lon": -51.2160416
         },
-        "distancia_km": 343.4,
+        "distancia_km": 339.1,
         "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 5981.14,
-        "frete_rs": 9538.09,
+        "peso_kg": 8903.220000000001,
+        "frete_rs": 14532.99,
+        "qtde": 2
+      },
+      "Guarulhos": {
+        "peso_kg": 5898.33,
+        "frete_rs": 10393.32,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -177,5 +222,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T18:17:42"
+  "_gerado_em": "2026-10-30T18:32:29"
 }
