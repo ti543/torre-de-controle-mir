@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 08:40:08",
-          "lat": -28.93328,
-          "lon": -51.1819733333333
+          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:00:58",
+          "lat": -28.8305,
+          "lon": -51.2724233333333
         },
-        "distancia_km": 243.9,
+        "distancia_km": 240.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 08:44:38",
-          "lat": -26.4366704,
-          "lon": -48.8140192
+          "referencia": "5.88 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 09:00:38",
+          "lat": -26.4514784,
+          "lon": -48.8864032
         },
-        "distancia_km": 119.1,
+        "distancia_km": 113.0,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 08:40:08",
-          "lat": -28.93328,
-          "lon": -51.1819733333333
+          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:00:58",
+          "lat": -28.8305,
+          "lon": -51.2724233333333
         },
-        "distancia_km": 243.9,
+        "distancia_km": 240.8,
         "proximo": false
       }
     ],
@@ -109,12 +109,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de PEDAGIO - GRAVATAI - GRAVATAI/RS",
-          "data_hora_posicao": "30/10/2026 08:45:58",
-          "lat": -29.9556032,
-          "lon": -51.0243008
+          "referencia": "0.19 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
+          "data_hora_posicao": "30/10/2026 09:00:39",
+          "lat": -29.9625216,
+          "lon": -51.1767456
         },
-        "distancia_km": 15.9,
+        "distancia_km": 2.5,
         "proximo": true
       },
       {
@@ -129,12 +129,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.68 km de PEDAGIO - GRAVATAI - GRAVATAI/RS",
-          "data_hora_posicao": "30/10/2026 08:45:58",
-          "lat": -29.9556032,
-          "lon": -51.0243008
+          "referencia": "0.19 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
+          "data_hora_posicao": "30/10/2026 09:00:39",
+          "lat": -29.9625216,
+          "lon": -51.1767456
         },
-        "distancia_km": 15.9,
+        "distancia_km": 2.5,
         "proximo": true
       },
       {
@@ -150,7 +150,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 08:44:44",
+          "data_hora_posicao": "30/10/2026 09:00:44",
           "lat": -29.9838816,
           "lon": -51.1874016
         },
@@ -190,12 +190,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de GRAAL GP SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "30/10/2026 08:44:34",
-          "lat": -26.7813664,
-          "lon": -48.6839488
+          "referencia": "0.55 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "30/10/2026 09:00:34",
+          "lat": -26.810936,
+          "lon": -48.683104
         },
-        "distancia_km": 12.4,
+        "distancia_km": 9.3,
         "proximo": true
       }
     ],
@@ -225,6 +225,21 @@
         "proximo": false
       },
       {
+        "manif": "ITJ023958-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 256.45,
+        "frete_rs": 568.88,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "RSL044101-5",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -244,6 +259,11 @@
       "Guarulhos": {
         "peso_kg": 15692.11,
         "frete_rs": 24184.7,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 256.45,
+        "frete_rs": 568.88,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -267,12 +287,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 08:45:22",
-          "lat": -23.7413584,
-          "lon": -46.8984448
+          "referencia": "0.43 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 09:01:22",
+          "lat": -23.6297088,
+          "lon": -46.829936
         },
-        "distancia_km": 53.7,
+        "distancia_km": 41.4,
         "proximo": false
       },
       {
@@ -287,12 +307,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 08:45:22",
-          "lat": -23.7413584,
-          "lon": -46.8984448
+          "referencia": "0.43 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 09:01:22",
+          "lat": -23.6297088,
+          "lon": -46.829936
         },
-        "distancia_km": 53.7,
+        "distancia_km": 41.4,
         "proximo": false
       },
       {
@@ -322,12 +342,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:46:01",
-          "lat": -24.1354133333333,
-          "lon": -47.2722883333333
+          "referencia": "7.3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:52:01",
+          "lat": -24.1068833333333,
+          "lon": -47.2637416666667
         },
-        "distancia_km": 110.7,
+        "distancia_km": 108.0,
         "proximo": false
       },
       {
@@ -342,12 +362,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:46:01",
-          "lat": -24.1354133333333,
-          "lon": -47.2722883333333
+          "referencia": "7.3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:52:01",
+          "lat": -24.1068833333333,
+          "lon": -47.2637416666667
         },
-        "distancia_km": 110.7,
+        "distancia_km": 108.0,
         "proximo": false
       },
       {
@@ -362,12 +382,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.71 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:46:16",
-          "lat": -24.062624,
-          "lon": -47.2314048
+          "referencia": "1.29 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 09:00:16",
+          "lat": -24.0106656,
+          "lon": -47.164464
         },
-        "distancia_km": 102.3,
+        "distancia_km": 93.4,
         "proximo": false
       },
       {
@@ -464,7 +484,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 08:45:33",
+          "data_hora_posicao": "30/10/2026 08:59:33",
           "lat": -28.4686816,
           "lon": -49.018864
         },
@@ -495,7 +515,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 08:45:33",
+          "data_hora_posicao": "30/10/2026 08:59:33",
           "lat": -28.4686816,
           "lon": -49.018864
         },
@@ -507,37 +527,6 @@
       "Itajaí": {
         "peso_kg": 763.66,
         "frete_rs": 2156.87,
-        "qtde": 1
-      }
-    }
-  },
-  "TUB": {
-    "veiculos": [
-      {
-        "manif": "ITJ023950-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TUB",
-        "dest_city": "TUBARAO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3535.44,
-        "frete_rs": 8182.76,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 08:45:33",
-          "lat": -28.4686816,
-          "lon": -49.018864
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 3535.44,
-        "frete_rs": 8182.76,
         "qtde": 1
       }
     }
@@ -556,10 +545,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 08:40:08",
-          "lat": -28.93328,
-          "lon": -51.1819733333333
+          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:00:58",
+          "lat": -28.8305,
+          "lon": -51.2724233333333
         },
         "distancia_km": null,
         "proximo": false
@@ -587,10 +576,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.79 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 08:44:29",
-          "lat": -27.9264,
-          "lon": -50.4540672
+          "referencia": "0.06 km de QUEIJO & CIA - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 08:53:42",
+          "lat": -28.0065024,
+          "lon": -50.5412352
         },
         "distancia_km": null,
         "proximo": false
@@ -604,5 +593,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T08:47:42"
+  "_gerado_em": "2026-10-30T09:02:48"
 }
