@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:31:23",
+          "data_hora_posicao": "30/10/2026 13:44:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.67 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 13:30:38",
-          "lat": -27.1821856,
-          "lon": -49.60072
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 13:44:38",
+          "lat": -27.2057376,
+          "lon": -49.6490112
         },
-        "distancia_km": 5.5,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:31:23",
+          "data_hora_posicao": "30/10/2026 13:44:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
@@ -175,10 +175,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.48 km de POSTO SIMON 01 - MARACAJA/SC",
-          "data_hora_posicao": "30/10/2026 13:29:33",
-          "lat": -28.8571968,
-          "lon": -49.4410272
+          "referencia": "3.84 km de MULTI EXPRESS - ICARA/SC",
+          "data_hora_posicao": "30/10/2026 13:45:38",
+          "lat": -28.7476544,
+          "lon": -49.3328544
         },
         "distancia_km": null,
         "proximo": false
@@ -207,7 +207,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:31:23",
+          "data_hora_posicao": "30/10/2026 13:44:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
@@ -238,9 +238,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "4.62 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 13:26:34",
-          "lat": -28.9478706,
-          "lon": -51.178919
+          "data_hora_posicao": "30/10/2026 13:46:29",
+          "lat": -28.9478113,
+          "lon": -51.1788825
         },
         "distancia_km": null,
         "proximo": false
@@ -254,5 +254,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T13:32:41"
+  "_gerado_em": "2026-10-30T13:47:37"
 }
