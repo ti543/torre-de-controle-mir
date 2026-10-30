@@ -2,26 +2,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010326-8",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "QIV0I77",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 8239.86,
-        "frete_rs": 13090.55,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 20:46:12",
-          "lat": -23.4707383333333,
-          "lon": -46.4621
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "CMP010327-6",
         "origin_unit": "CMP",
         "origin_city": "CAMPINAS/SP",
@@ -34,7 +14,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 20:45:00",
+          "data_hora_posicao": "29/10/2026 20:59:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
@@ -53,12 +33,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO ROTA 4 - QUATRO BARRAS/PR",
-          "data_hora_posicao": "29/10/2026 20:46:31",
-          "lat": -25.3620912,
-          "lon": -49.0820512
+          "referencia": "0.93 km de PRE - QUATRO BARRAS/PR",
+          "data_hora_posicao": "29/10/2026 21:00:11",
+          "lat": -25.299688,
+          "lon": -48.9400896
         },
-        "distancia_km": 338.5,
+        "distancia_km": 323.0,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.55 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "29/10/2026 20:46:25",
-          "lat": -27.06483,
-          "lon": -49.4015383333333
+          "referencia": "1.36 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "29/10/2026 21:00:24",
+          "lat": -27.0244416666667,
+          "lon": -49.3733716666667
         },
-        "distancia_km": 497.0,
+        "distancia_km": 491.8,
         "proximo": false
       },
       {
@@ -93,12 +73,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.55 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "29/10/2026 20:46:25",
-          "lat": -27.06483,
-          "lon": -49.4015383333333
+          "referencia": "1.36 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "29/10/2026 21:00:24",
+          "lat": -27.0244416666667,
+          "lon": -49.3733716666667
         },
-        "distancia_km": 497.0,
+        "distancia_km": 491.8,
         "proximo": false
       },
       {
@@ -134,9 +114,9 @@
     ],
     "por_origem": {
       "Campinas": {
-        "peso_kg": 16246.6,
-        "frete_rs": 21644.48,
-        "qtde": 2
+        "peso_kg": 8006.74,
+        "frete_rs": 8553.93,
+        "qtde": 1
       },
       "Curitiba": {
         "peso_kg": 8831.44,
@@ -169,12 +149,12 @@
         "frete_rs": 2599.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.51 km de NELORE COUROS - GARUVA/SC",
-          "data_hora_posicao": "29/10/2026 20:45:46",
-          "lat": -26.0235952,
-          "lon": -48.8618048
+          "referencia": "0.96 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "29/10/2026 20:59:04",
+          "lat": -26.1394288,
+          "lon": -48.9018144
         },
-        "distancia_km": 97.1,
+        "distancia_km": 85.1,
         "proximo": false
       },
       {
@@ -189,12 +169,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.7 km de POSTO SÃO JOÃO - TORRES/RS",
-          "data_hora_posicao": "29/10/2026 20:45:15",
-          "lat": -29.3194443,
-          "lon": -49.7750446
+          "referencia": "1.07 km de AUTO POSTO BELA AMÉRICA SHELL - SAO JOAO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:59:35",
+          "lat": -29.1990473,
+          "lon": -49.7522633
         },
-        "distancia_km": 289.5,
+        "distancia_km": 276.2,
         "proximo": false
       },
       {
@@ -209,12 +189,12 @@
         "frete_rs": 4567.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 20:45:26",
-          "lat": -27.1950752,
-          "lon": -49.625344
+          "referencia": "0.61 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 20:59:46",
+          "lat": -27.1282176,
+          "lon": -49.5382016
         },
-        "distancia_km": 95.9,
+        "distancia_km": 85.3,
         "proximo": false
       },
       {
@@ -270,12 +250,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.51 km de NELORE COUROS - GARUVA/SC",
-          "data_hora_posicao": "29/10/2026 20:45:46",
-          "lat": -26.0235952,
-          "lon": -48.8618048
+          "referencia": "0.96 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "29/10/2026 20:59:04",
+          "lat": -26.1394288,
+          "lon": -48.9018144
         },
-        "distancia_km": 153.0,
+        "distancia_km": 140.0,
         "proximo": false
       },
       {
@@ -290,12 +270,12 @@
         "frete_rs": 2976.26,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.17 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "29/10/2026 20:46:33",
-          "lat": -27.28581,
-          "lon": -49.8057648
+          "referencia": "0.02 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:59:10",
+          "lat": -27.242696,
+          "lon": -49.6881621
         },
-        "distancia_km": 17.8,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -310,12 +290,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.21 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 20:46:28",
-          "lat": -23.6857952,
-          "lon": -46.8186944
+          "referencia": "1.12 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "29/10/2026 21:00:18",
+          "lat": -23.6639216,
+          "lon": -46.8233568
         },
-        "distancia_km": 483.7,
+        "distancia_km": 485.4,
         "proximo": false
       },
       {
@@ -330,12 +310,12 @@
         "frete_rs": 2448.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.17 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "29/10/2026 20:46:33",
-          "lat": -27.28581,
-          "lon": -49.8057648
+          "referencia": "0.02 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:59:10",
+          "lat": -27.242696,
+          "lon": -49.6881621
         },
-        "distancia_km": 17.8,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -350,12 +330,12 @@
         "frete_rs": 802.35,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.17 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "29/10/2026 20:46:33",
-          "lat": -27.28581,
-          "lon": -49.8057648
+          "referencia": "0.02 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "29/10/2026 20:59:10",
+          "lat": -27.242696,
+          "lon": -49.6881621
         },
-        "distancia_km": 17.8,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -371,7 +351,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:45:33",
+          "data_hora_posicao": "29/10/2026 20:59:33",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -431,10 +411,10 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:44:54",
-          "lat": -29.9834048,
-          "lon": -51.1867232
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 20:58:54",
+          "lat": -29.9834144,
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -451,10 +431,10 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:44:54",
-          "lat": -29.9834048,
-          "lon": -51.1867232
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 20:58:54",
+          "lat": -29.9834144,
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -493,9 +473,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 20:45:33",
-          "lat": -26.8876352,
-          "lon": -48.7206624
+          "data_hora_posicao": "29/10/2026 20:59:33",
+          "lat": -26.8876448,
+          "lon": -48.7207648
         },
         "distancia_km": null,
         "proximo": false
@@ -524,9 +504,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 20:45:33",
-          "lat": -26.8876352,
-          "lon": -48.7206624
+          "data_hora_posicao": "29/10/2026 20:59:33",
+          "lat": -26.8876448,
+          "lon": -48.7207648
         },
         "distancia_km": null,
         "proximo": false
@@ -555,9 +535,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 20:45:33",
-          "lat": -26.8876352,
-          "lon": -48.7206624
+          "data_hora_posicao": "29/10/2026 20:59:33",
+          "lat": -26.8876448,
+          "lon": -48.7207648
         },
         "distancia_km": null,
         "proximo": false
@@ -586,7 +566,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 20:45:33",
+          "data_hora_posicao": "29/10/2026 20:59:33",
           "lat": -29.9837816666667,
           "lon": -51.186985
         },
@@ -616,12 +596,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 20:45:26",
-          "lat": -27.1950752,
-          "lon": -49.625344
+          "referencia": "0.61 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 20:59:46",
+          "lat": -27.1282176,
+          "lon": -49.5382016
         },
-        "distancia_km": 188.3,
+        "distancia_km": 179.6,
         "proximo": false
       }
     ],
@@ -633,5 +613,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T20:47:37"
+  "_gerado_em": "2026-10-29T21:02:35"
 }
