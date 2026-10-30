@@ -13,10 +13,10 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:31:07",
-          "lat": -28.2663183333333,
-          "lon": -50.7881316666667
+          "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:34:22",
+          "lat": -28.2663083333333,
+          "lon": -50.788115
         },
         "distancia_km": 162.6,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "30/10/2026 10:30:38",
-          "lat": -26.8840736,
-          "lon": -49.1492416
+          "referencia": "0.29 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "30/10/2026 10:46:38",
+          "lat": -26.8882176,
+          "lon": -49.2531168
         },
-        "distancia_km": 61.1,
+        "distancia_km": 52.8,
         "proximo": false
       },
       {
@@ -68,10 +68,10 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:31:07",
-          "lat": -28.2663183333333,
-          "lon": -50.7881316666667
+          "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:34:22",
+          "lat": -28.2663083333333,
+          "lon": -50.788115
         },
         "distancia_km": 162.6,
         "proximo": false
@@ -175,10 +175,10 @@
         "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de MECANICA BRUTUS - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 10:31:33",
-          "lat": -28.510112,
-          "lon": -49.0508192
+          "referencia": "1.42 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "30/10/2026 10:45:33",
+          "lat": -28.6407264,
+          "lon": -49.0994176
         },
         "distancia_km": null,
         "proximo": false
@@ -206,10 +206,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de MECANICA BRUTUS - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 10:31:33",
-          "lat": -28.510112,
-          "lon": -49.0508192
+          "referencia": "1.42 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "30/10/2026 10:45:33",
+          "lat": -28.6407264,
+          "lon": -49.0994176
         },
         "distancia_km": null,
         "proximo": false
@@ -252,13 +252,13 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
-          "data_hora_posicao": "30/10/2026 10:31:10",
-          "lat": -23.5158383333333,
-          "lon": -46.8119683333333
+          "referencia": "0.44 km de GT - PRE - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 10:45:10",
+          "lat": -23.5209466666667,
+          "lon": -46.7465783333333
         },
-        "distancia_km": 36.0,
-        "proximo": false
+        "distancia_km": 29.5,
+        "proximo": true
       },
       {
         "manif": "RSL044090-6",
@@ -272,13 +272,13 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
-          "data_hora_posicao": "30/10/2026 10:31:10",
-          "lat": -23.5158383333333,
-          "lon": -46.8119683333333
+          "referencia": "0.44 km de GT - PRE - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 10:45:10",
+          "lat": -23.5209466666667,
+          "lon": -46.7465783333333
         },
-        "distancia_km": 36.0,
-        "proximo": false
+        "distancia_km": 29.5,
+        "proximo": true
       },
       {
         "manif": "RSL044094-9",
@@ -292,13 +292,13 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
-          "data_hora_posicao": "30/10/2026 10:30:16",
-          "lat": -23.5262736,
-          "lon": -46.753024
+          "referencia": "0.15 km de PONTE FREGUESIA DO Ó - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 10:46:16",
+          "lat": -23.5098528,
+          "lon": -46.688464
         },
-        "distancia_km": 30.3,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "RSL044098-1",
@@ -393,10 +393,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:31:07",
-          "lat": -28.2663183333333,
-          "lon": -50.7881316666667
+          "referencia": "0.04 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:34:22",
+          "lat": -28.2663083333333,
+          "lon": -50.788115
         },
         "distancia_km": null,
         "proximo": false
@@ -424,10 +424,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "30/10/2026 10:29:28",
-          "lat": -28.6324098,
-          "lon": -51.0807686
+          "referencia": "0.79 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "30/10/2026 10:44:34",
+          "lat": -28.6848013,
+          "lon": -51.20506
         },
         "distancia_km": null,
         "proximo": false
@@ -441,5 +441,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T10:32:54"
+  "_gerado_em": "2026-10-30T10:47:46"
 }
