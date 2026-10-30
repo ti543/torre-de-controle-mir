@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 09:00:58",
-          "lat": -28.8305,
-          "lon": -51.2724233333333
+          "referencia": "0.94 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:02:58",
+          "lat": -28.8172516666667,
+          "lon": -51.2668716666667
         },
-        "distancia_km": 240.8,
+        "distancia_km": 239.4,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.88 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 09:00:38",
-          "lat": -26.4514784,
-          "lon": -48.8864032
+          "referencia": "2.24 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "30/10/2026 09:16:28",
+          "lat": -26.4977248,
+          "lon": -48.9969024
         },
-        "distancia_km": 113.0,
+        "distancia_km": 102.0,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 09:00:58",
-          "lat": -28.8305,
-          "lon": -51.2724233333333
+          "referencia": "0.94 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:02:58",
+          "lat": -28.8172516666667,
+          "lon": -51.2668716666667
         },
-        "distancia_km": 240.8,
+        "distancia_km": 239.4,
         "proximo": false
       }
     ],
@@ -95,87 +95,6 @@
       }
     }
   },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU073981-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "TQB5B04",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 6321.45,
-        "frete_rs": 8273.64,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.19 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
-          "data_hora_posicao": "30/10/2026 09:00:39",
-          "lat": -29.9625216,
-          "lon": -51.1767456
-        },
-        "distancia_km": 2.5,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023954-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "TQB5B04",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 9929.92,
-        "frete_rs": 11858.54,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.19 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
-          "data_hora_posicao": "30/10/2026 09:00:39",
-          "lat": -29.9625216,
-          "lon": -51.1767456
-        },
-        "distancia_km": 2.5,
-        "proximo": true
-      },
-      {
-        "manif": "LGS001600-4",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 876.45,
-        "frete_rs": 655.46,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 09:00:44",
-          "lat": -29.9838816,
-          "lon": -51.1874016
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6321.45,
-        "frete_rs": 8273.64,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 9929.92,
-        "frete_rs": 11858.54,
-        "qtde": 1
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 876.45,
-        "frete_rs": 655.46,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -190,12 +109,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.55 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
-          "data_hora_posicao": "30/10/2026 09:00:34",
-          "lat": -26.810936,
-          "lon": -48.683104
+          "referencia": "0.05 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "30/10/2026 09:16:34",
+          "lat": -26.8395056,
+          "lon": -48.714128
         },
-        "distancia_km": 9.3,
+        "distancia_km": 5.4,
         "proximo": true
       }
     ],
@@ -287,12 +206,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.43 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 09:01:22",
-          "lat": -23.6297088,
-          "lon": -46.829936
+          "referencia": "0.16 km de TOTALTEC - AUTORIZADA AUTOTRAC - OSASCO/SP",
+          "data_hora_posicao": "30/10/2026 09:15:23",
+          "lat": -23.5149104,
+          "lon": -46.7960096
         },
-        "distancia_km": 41.4,
+        "distancia_km": 34.4,
         "proximo": false
       },
       {
@@ -307,12 +226,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.43 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 09:01:22",
-          "lat": -23.6297088,
-          "lon": -46.829936
+          "referencia": "0.16 km de TOTALTEC - AUTORIZADA AUTOTRAC - OSASCO/SP",
+          "data_hora_posicao": "30/10/2026 09:15:23",
+          "lat": -23.5149104,
+          "lon": -46.7960096
         },
-        "distancia_km": 41.4,
+        "distancia_km": 34.4,
         "proximo": false
       },
       {
@@ -342,12 +261,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:52:01",
-          "lat": -24.1068833333333,
-          "lon": -47.2637416666667
+          "referencia": "2.33 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
+          "data_hora_posicao": "30/10/2026 09:14:56",
+          "lat": -24.00308,
+          "lon": -47.1563116666667
         },
-        "distancia_km": 108.0,
+        "distancia_km": 92.2,
         "proximo": false
       },
       {
@@ -362,12 +281,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:52:01",
-          "lat": -24.1068833333333,
-          "lon": -47.2637416666667
+          "referencia": "2.33 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
+          "data_hora_posicao": "30/10/2026 09:14:56",
+          "lat": -24.00308,
+          "lon": -47.1563116666667
         },
-        "distancia_km": 108.0,
+        "distancia_km": 92.2,
         "proximo": false
       },
       {
@@ -382,12 +301,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.29 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 09:00:16",
-          "lat": -24.0106656,
-          "lon": -47.164464
+          "referencia": "0.1 km de POSTO 70 - JUQUITIBA/SP",
+          "data_hora_posicao": "30/10/2026 09:16:16",
+          "lat": -23.9381824,
+          "lon": -47.038384
         },
-        "distancia_km": 93.4,
+        "distancia_km": 78.4,
         "proximo": false
       },
       {
@@ -484,7 +403,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 08:59:33",
+          "data_hora_posicao": "30/10/2026 09:15:33",
           "lat": -28.4686816,
           "lon": -49.018864
         },
@@ -515,7 +434,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 08:59:33",
+          "data_hora_posicao": "30/10/2026 09:15:33",
           "lat": -28.4686816,
           "lon": -49.018864
         },
@@ -545,10 +464,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.68 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 09:00:58",
-          "lat": -28.8305,
-          "lon": -51.2724233333333
+          "referencia": "0.94 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 09:02:58",
+          "lat": -28.8172516666667,
+          "lon": -51.2668716666667
         },
         "distancia_km": null,
         "proximo": false
@@ -576,10 +495,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 08:53:42",
-          "lat": -28.0065024,
-          "lon": -50.5412352
+          "referencia": "8.49 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 09:13:42",
+          "lat": -28.1714944,
+          "lon": -50.6812672
         },
         "distancia_km": null,
         "proximo": false
@@ -593,5 +512,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T09:02:48"
+  "_gerado_em": "2026-10-30T09:17:42"
 }
