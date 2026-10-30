@@ -2,26 +2,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010327-6",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 8006.74,
-        "frete_rs": 8553.93,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 02:45:00",
-          "lat": -23.4704784,
-          "lon": -46.462336
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "CTB013523-2",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -33,13 +13,13 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de PEDAGIO - PRACA 10 (PADROEIRA EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "30/10/2026 02:46:14",
-          "lat": -23.5492064,
-          "lon": -46.8203616
+          "referencia": "0.06 km de PONTE FREGUESIA DO Ó - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 03:01:11",
+          "lat": -23.5096016,
+          "lon": -46.6895648
         },
-        "distancia_km": 37.5,
-        "proximo": false
+        "distancia_km": 23.6,
+        "proximo": true
       },
       {
         "manif": "ITJ023946-1",
@@ -53,12 +33,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 02:45:22",
-          "lat": -25.12068,
-          "lon": -48.8551488
+          "referencia": "1.31 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 03:01:22",
+          "lat": -25.1122688,
+          "lon": -48.847168
         },
-        "distancia_km": 304.1,
+        "distancia_km": 302.9,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 02:45:22",
-          "lat": -25.12068,
-          "lon": -48.8551488
+          "referencia": "1.31 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 03:01:22",
+          "lat": -25.1122688,
+          "lon": -48.847168
         },
-        "distancia_km": 304.1,
+        "distancia_km": 302.9,
         "proximo": false
       },
       {
@@ -108,12 +88,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.33 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "30/10/2026 02:44:56",
-          "lat": -25.4010633333333,
-          "lon": -49.0582183333333
+          "referencia": "0.56 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "30/10/2026 03:00:55",
+          "lat": -25.3042616666667,
+          "lon": -48.9550016666667
         },
-        "distancia_km": 339.3,
+        "distancia_km": 324.5,
         "proximo": false
       },
       {
@@ -128,12 +108,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.33 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "30/10/2026 02:44:56",
-          "lat": -25.4010633333333,
-          "lon": -49.0582183333333
+          "referencia": "0.56 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "30/10/2026 03:00:55",
+          "lat": -25.3042616666667,
+          "lon": -48.9550016666667
         },
-        "distancia_km": 339.3,
+        "distancia_km": 324.5,
         "proximo": false
       },
       {
@@ -148,12 +128,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "30/10/2026 02:45:13",
-          "lat": -25.8641344,
-          "lon": -48.9391648
+          "referencia": "0.33 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 03:00:16",
+          "lat": -25.8415664,
+          "lon": -49.0350272
         },
-        "distancia_km": 365.3,
+        "distancia_km": 370.3,
         "proximo": false
       },
       {
@@ -218,11 +198,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 8006.74,
-        "frete_rs": 8553.93,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 8831.44,
         "frete_rs": 6568.71,
@@ -260,7 +235,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 02:45:04",
+          "data_hora_posicao": "30/10/2026 03:01:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -279,12 +254,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.49 km de 1ª CPR - QUATRO BARRAS - QUATRO BARRAS/PR",
-          "data_hora_posicao": "30/10/2026 02:45:00",
-          "lat": -25.3027856,
-          "lon": -48.943312
+          "referencia": "1.62 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "30/10/2026 03:01:00",
+          "lat": -25.4293744,
+          "lon": -49.0820576
         },
-        "distancia_km": 223.0,
+        "distancia_km": 205.5,
         "proximo": false
       },
       {
@@ -299,12 +274,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.27 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "30/10/2026 02:44:38",
-          "lat": -24.6212432,
-          "lon": -47.8944192
+          "referencia": "2.74 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "30/10/2026 03:00:38",
+          "lat": -24.7223872,
+          "lon": -48.0555168
         },
-        "distancia_km": 336.8,
+        "distancia_km": 318.8,
         "proximo": false
       },
       {
@@ -335,7 +310,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 02:45:04",
+          "data_hora_posicao": "30/10/2026 03:01:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -355,7 +330,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 02:44:29",
+          "data_hora_posicao": "30/10/2026 03:00:29",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -400,12 +375,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 02:46:04",
-          "lat": -27.7716544,
-          "lon": -48.633568
+          "referencia": "2.87 km de RESTAURANTE TRÊS BARRAS - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 02:59:58",
+          "lat": -27.9171552,
+          "lon": -48.6534432
         },
-        "distancia_km": 349.7,
+        "distancia_km": 336.9,
         "proximo": false
       },
       {
@@ -420,12 +395,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 02:46:04",
-          "lat": -27.7716544,
-          "lon": -48.633568
+          "referencia": "2.87 km de RESTAURANTE TRÊS BARRAS - PALHOCA/SC",
+          "data_hora_posicao": "30/10/2026 02:59:58",
+          "lat": -27.9171552,
+          "lon": -48.6534432
         },
-        "distancia_km": 349.7,
+        "distancia_km": 336.9,
         "proximo": false
       },
       {
@@ -441,7 +416,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 02:43:25",
+          "data_hora_posicao": "30/10/2026 02:59:25",
           "lat": -29.983344,
           "lon": -51.186656
         },
@@ -461,7 +436,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 02:43:25",
+          "data_hora_posicao": "30/10/2026 02:59:25",
           "lat": -29.983344,
           "lon": -51.186656
         },
@@ -507,7 +482,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "30/10/2026 02:44:34",
+          "data_hora_posicao": "30/10/2026 03:00:34",
           "lat": -24.7798848,
           "lon": -48.1866528
         },
@@ -527,7 +502,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO ROTA 101 JAGUARUNA - JAGUARUNA/SC",
-          "data_hora_posicao": "30/10/2026 02:44:31",
+          "data_hora_posicao": "30/10/2026 03:00:31",
           "lat": -28.6110296,
           "lon": -49.0594028
         },
@@ -562,12 +537,12 @@
         "frete_rs": 4726.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 02:45:45",
-          "lat": -25.0588224,
-          "lon": -48.5587936
+          "referencia": "0.07 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 02:59:45",
+          "lat": -25.1032144,
+          "lon": -48.7048768
         },
-        "distancia_km": 90.6,
+        "distancia_km": 75.8,
         "proximo": false
       },
       {
@@ -582,12 +557,12 @@
         "frete_rs": 4856.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "30/10/2026 02:45:26",
-          "lat": -26.1051136,
-          "lon": -48.8712832
+          "referencia": "1.96 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
+          "data_hora_posicao": "30/10/2026 03:01:26",
+          "lat": -25.9552304,
+          "lon": -48.9009088
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.8,
         "proximo": false
       },
       {
@@ -602,12 +577,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "30/10/2026 02:45:26",
-          "lat": -26.1051136,
-          "lon": -48.8712832
+          "referencia": "1.96 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
+          "data_hora_posicao": "30/10/2026 03:01:26",
+          "lat": -25.9552304,
+          "lon": -48.9009088
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.8,
         "proximo": false
       }
     ],
@@ -670,9 +645,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 02:45:08",
-          "lat": -22.846935,
-          "lon": -47.1247766666667
+          "data_hora_posicao": "30/10/2026 03:01:09",
+          "lat": -22.8469516666667,
+          "lon": -47.1247866666667
         },
         "distancia_km": null,
         "proximo": false
@@ -690,9 +665,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 02:45:08",
-          "lat": -22.846935,
-          "lon": -47.1247766666667
+          "data_hora_posicao": "30/10/2026 03:01:09",
+          "lat": -22.8469516666667,
+          "lon": -47.1247866666667
         },
         "distancia_km": null,
         "proximo": false
@@ -721,7 +696,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 02:45:33",
+          "data_hora_posicao": "30/10/2026 03:01:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -752,7 +727,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 02:45:33",
+          "data_hora_posicao": "30/10/2026 03:01:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -783,7 +758,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 02:45:33",
+          "data_hora_posicao": "30/10/2026 03:01:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -814,7 +789,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 02:44:29",
+          "data_hora_posicao": "30/10/2026 03:00:29",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -830,5 +805,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T02:47:40"
+  "_gerado_em": "2026-10-30T03:02:37"
 }
