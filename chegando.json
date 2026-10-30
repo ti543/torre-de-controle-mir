@@ -13,33 +13,13 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.65 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 08:27:48",
-          "lat": -29.009795,
-          "lon": -51.187455
+          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 08:40:08",
+          "lat": -28.93328,
+          "lon": -51.1819733333333
         },
-        "distancia_km": 250.9,
+        "distancia_km": 243.9,
         "proximo": false
-      },
-      {
-        "manif": "GRU074040-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3911.52,
-        "frete_rs": 8271.19,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 08:31:00",
-          "lat": -27.2060512,
-          "lon": -49.649312
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "GRU074044-6",
@@ -54,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 08:31:00",
+          "data_hora_posicao": "30/10/2026 08:44:38",
           "lat": -26.4366704,
           "lon": -48.8140192
         },
@@ -88,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.65 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 08:27:48",
-          "lat": -29.009795,
-          "lon": -51.187455
+          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 08:40:08",
+          "lat": -28.93328,
+          "lon": -51.1819733333333
         },
-        "distancia_km": 250.9,
+        "distancia_km": 243.9,
         "proximo": false
       }
     ],
@@ -104,9 +84,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 26756.31,
-        "frete_rs": 38730.83,
-        "qtde": 3
+        "peso_kg": 22844.79,
+        "frete_rs": 30459.64,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 325.6,
@@ -129,12 +109,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.6 km de GM - GENERAL MOTORS DO BRASIL LTDA - GRAVATAI/RS",
-          "data_hora_posicao": "30/10/2026 08:29:58",
-          "lat": -29.942496,
-          "lon": -50.9198848
+          "referencia": "0.68 km de PEDAGIO - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "30/10/2026 08:45:58",
+          "lat": -29.9556032,
+          "lon": -51.0243008
         },
-        "distancia_km": 26.1,
+        "distancia_km": 15.9,
         "proximo": true
       },
       {
@@ -149,12 +129,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de GM - GENERAL MOTORS DO BRASIL LTDA - GRAVATAI/RS",
-          "data_hora_posicao": "30/10/2026 08:29:58",
-          "lat": -29.942496,
-          "lon": -50.9198848
+          "referencia": "0.68 km de PEDAGIO - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "30/10/2026 08:45:58",
+          "lat": -29.9556032,
+          "lon": -51.0243008
         },
-        "distancia_km": 26.1,
+        "distancia_km": 15.9,
         "proximo": true
       },
       {
@@ -169,12 +149,12 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 08:31:04",
-          "lat": -29.9834304,
-          "lon": -51.1866848
+          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "30/10/2026 08:44:44",
+          "lat": -29.9838816,
+          "lon": -51.1874016
         },
-        "distancia_km": 0.0,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -210,32 +190,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "30/10/2026 08:30:34",
-          "lat": -26.7618096,
-          "lon": -48.6867168
+          "referencia": "0.14 km de GRAAL GP SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "30/10/2026 08:44:34",
+          "lat": -26.7813664,
+          "lon": -48.6839488
         },
-        "distancia_km": 14.4,
-        "proximo": true
-      },
-      {
-        "manif": "POA016185-3",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3449.72,
-        "frete_rs": 8179.48,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 08:27:41",
-          "lat": -26.8877111,
-          "lon": -48.7206393
-        },
-        "distancia_km": 0.1,
+        "distancia_km": 12.4,
         "proximo": true
       }
     ],
@@ -243,11 +203,6 @@
       "Guarulhos": {
         "peso_kg": 7258.44,
         "frete_rs": 12158.87,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 3449.72,
-        "frete_rs": 8179.48,
         "qtde": 1
       }
     }
@@ -312,12 +267,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 08:29:22",
-          "lat": -23.880752,
-          "lon": -46.9709536
+          "referencia": "0.5 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 08:45:22",
+          "lat": -23.7413584,
+          "lon": -46.8984448
         },
-        "distancia_km": 69.0,
+        "distancia_km": 53.7,
         "proximo": false
       },
       {
@@ -332,12 +287,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 08:29:22",
-          "lat": -23.880752,
-          "lon": -46.9709536
+          "referencia": "0.5 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 08:45:22",
+          "lat": -23.7413584,
+          "lon": -46.8984448
         },
-        "distancia_km": 69.0,
+        "distancia_km": 53.7,
         "proximo": false
       },
       {
@@ -367,12 +322,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:29:26",
-          "lat": -24.2528266666667,
-          "lon": -47.3741383333333
+          "referencia": "4.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:46:01",
+          "lat": -24.1354133333333,
+          "lon": -47.2722883333333
         },
-        "distancia_km": 127.1,
+        "distancia_km": 110.7,
         "proximo": false
       },
       {
@@ -387,12 +342,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:29:26",
-          "lat": -24.2528266666667,
-          "lon": -47.3741383333333
+          "referencia": "4.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:46:01",
+          "lat": -24.1354133333333,
+          "lon": -47.2722883333333
         },
-        "distancia_km": 127.1,
+        "distancia_km": 110.7,
         "proximo": false
       },
       {
@@ -407,12 +362,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.6 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:30:43",
-          "lat": -24.1384736,
-          "lon": -47.273312
+          "referencia": "2.71 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:46:16",
+          "lat": -24.062624,
+          "lon": -47.2314048
         },
-        "distancia_km": 111.0,
+        "distancia_km": 102.3,
         "proximo": false
       },
       {
@@ -508,10 +463,10 @@
         "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "30/10/2026 08:29:52",
-          "lat": -28.4247168,
-          "lon": -48.8941792
+          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 08:45:33",
+          "lat": -28.4686816,
+          "lon": -49.018864
         },
         "distancia_km": null,
         "proximo": false
@@ -539,10 +494,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "30/10/2026 08:29:52",
-          "lat": -28.4247168,
-          "lon": -48.8941792
+          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 08:45:33",
+          "lat": -28.4686816,
+          "lon": -49.018864
         },
         "distancia_km": null,
         "proximo": false
@@ -570,10 +525,10 @@
         "frete_rs": 8182.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "30/10/2026 08:29:52",
-          "lat": -28.4247168,
-          "lon": -48.8941792
+          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 08:45:33",
+          "lat": -28.4686816,
+          "lon": -49.018864
         },
         "distancia_km": null,
         "proximo": false
@@ -601,10 +556,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.65 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 08:27:48",
-          "lat": -29.009795,
-          "lon": -51.187455
+          "referencia": "3 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 08:40:08",
+          "lat": -28.93328,
+          "lon": -51.1819733333333
         },
         "distancia_km": null,
         "proximo": false
@@ -632,10 +587,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 08:30:13",
-          "lat": -27.8179798,
-          "lon": -50.3729505
+          "referencia": "5.79 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 08:44:29",
+          "lat": -27.9264,
+          "lon": -50.4540672
         },
         "distancia_km": null,
         "proximo": false
@@ -649,5 +604,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T08:32:31"
+  "_gerado_em": "2026-10-30T08:47:42"
 }
