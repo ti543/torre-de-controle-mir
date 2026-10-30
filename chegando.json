@@ -1,145 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CTB013525-9",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 1524.77,
-        "frete_rs": 2284.74,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 07:31:04",
-          "lat": -27.206144,
-          "lon": -49.6495232
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074040-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3911.52,
-        "frete_rs": 8271.19,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "30/10/2026 07:31:00",
-          "lat": -27.1357184,
-          "lon": -49.543472
-        },
-        "distancia_km": 13.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074044-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 17308.22,
-        "frete_rs": 17930.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.89 km de BR COLD - GARUVA/SC",
-          "data_hora_posicao": "30/10/2026 07:30:38",
-          "lat": -26.0771424,
-          "lon": -48.8614592
-        },
-        "distancia_km": 148.0,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074046-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 5536.57,
-        "frete_rs": 12529.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023951-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 565.35,
-        "frete_rs": 1460.34,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 07:31:04",
-          "lat": -27.206144,
-          "lon": -49.6495232
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "POA016187-0",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 325.6,
-        "frete_rs": 593.95,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 07:30:46",
-          "lat": -29.1462533333333,
-          "lon": -51.164845
-        },
-        "distancia_km": 261.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 1524.77,
-        "frete_rs": 2284.74,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 26756.31,
-        "frete_rs": 38730.83,
-        "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 565.35,
-        "frete_rs": 1460.34,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 325.6,
-        "frete_rs": 593.95,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -154,12 +13,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.26 km de RESTAURANTE TENDA MORAES - OSORIO/RS",
-          "data_hora_posicao": "30/10/2026 07:29:59",
-          "lat": -29.7851648,
-          "lon": -50.2292512
+          "referencia": "5.93 km de CD OSORIO - OSORIO/RS",
+          "data_hora_posicao": "30/10/2026 07:45:58",
+          "lat": -29.8946208,
+          "lon": -50.3513056
         },
-        "distancia_km": 94.9,
+        "distancia_km": 81.1,
         "proximo": false
       },
       {
@@ -174,12 +33,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.26 km de RESTAURANTE TENDA MORAES - OSORIO/RS",
-          "data_hora_posicao": "30/10/2026 07:29:59",
-          "lat": -29.7851648,
-          "lon": -50.2292512
+          "referencia": "5.93 km de CD OSORIO - OSORIO/RS",
+          "data_hora_posicao": "30/10/2026 07:45:58",
+          "lat": -29.8946208,
+          "lon": -50.3513056
         },
-        "distancia_km": 94.9,
+        "distancia_km": 81.1,
         "proximo": false
       },
       {
@@ -195,7 +54,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 07:31:25",
+          "data_hora_posicao": "30/10/2026 07:43:25",
           "lat": -29.9833408,
           "lon": -51.186656
         },
@@ -215,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 07:31:25",
+          "data_hora_posicao": "30/10/2026 07:43:25",
           "lat": -29.9833408,
           "lon": -51.186656
         },
@@ -246,6 +105,97 @@
       }
     }
   },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "GRU074040-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3911.52,
+        "frete_rs": 8271.19,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "30/10/2026 07:45:40",
+          "lat": -27.1356832,
+          "lon": -49.5435424
+        },
+        "distancia_km": 13.1,
+        "proximo": true
+      },
+      {
+        "manif": "GRU074044-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 17308.22,
+        "frete_rs": 17930.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.11 km de POSTO BAVÁRIA - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 07:44:38",
+          "lat": -26.2200352,
+          "lon": -48.9163104
+        },
+        "distancia_km": 131.6,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074046-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 5536.57,
+        "frete_rs": 12529.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016187-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 325.6,
+        "frete_rs": 593.95,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.06 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 07:46:01",
+          "lat": -29.14684,
+          "lon": -51.1647883333333
+        },
+        "distancia_km": 262.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 26756.31,
+        "frete_rs": 38730.83,
+        "qtde": 3
+      },
+      "Porto Alegre": {
+        "peso_kg": 325.6,
+        "frete_rs": 593.95,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -260,12 +210,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 07:30:42",
-          "lat": -26.4707088,
-          "lon": -48.7451264
+          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 07:44:34",
+          "lat": -26.5538656,
+          "lon": -48.7200064
         },
-        "distancia_km": 46.4,
+        "distancia_km": 37.1,
         "proximo": false
       },
       {
@@ -280,12 +230,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de CONCESSIONARIA IVECO - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 07:31:30",
-          "lat": -26.9115446,
-          "lon": -48.7122773
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 07:43:44",
+          "lat": -26.8877111,
+          "lon": -48.7206393
         },
-        "distancia_km": 2.8,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -342,12 +292,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.48 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 07:29:22",
-          "lat": -24.2440512,
-          "lon": -47.3658752
+          "referencia": "1.44 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 07:40:54",
+          "lat": -24.1473792,
+          "lon": -47.3029376
         },
-        "distancia_km": 125.9,
+        "distancia_km": 113.9,
         "proximo": false
       },
       {
@@ -362,12 +312,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.48 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 07:29:22",
-          "lat": -24.2440512,
-          "lon": -47.3658752
+          "referencia": "1.44 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 07:40:54",
+          "lat": -24.1473792,
+          "lon": -47.3029376
         },
-        "distancia_km": 125.9,
+        "distancia_km": 113.9,
         "proximo": false
       },
       {
@@ -397,12 +347,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "30/10/2026 07:31:11",
-          "lat": -24.6495383333333,
-          "lon": -47.9323916666667
+          "referencia": "0.49 km de 5ª DELEGACIA PRF - REGISTRO/SP",
+          "data_hora_posicao": "30/10/2026 07:45:11",
+          "lat": -24.50942,
+          "lon": -47.8494166666667
         },
-        "distancia_km": 198.7,
+        "distancia_km": 182.2,
         "proximo": false
       },
       {
@@ -417,12 +367,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "30/10/2026 07:31:11",
-          "lat": -24.6495383333333,
-          "lon": -47.9323916666667
+          "referencia": "0.49 km de 5ª DELEGACIA PRF - REGISTRO/SP",
+          "data_hora_posicao": "30/10/2026 07:45:11",
+          "lat": -24.50942,
+          "lon": -47.8494166666667
         },
-        "distancia_km": 198.7,
+        "distancia_km": 182.2,
         "proximo": false
       },
       {
@@ -437,12 +387,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "30/10/2026 07:30:16",
-          "lat": -24.47372,
-          "lon": -47.8256832
+          "referencia": "0.75 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 05) - JUQUIA/SP",
+          "data_hora_posicao": "30/10/2026 07:42:16",
+          "lat": -24.3861328,
+          "lon": -47.7155808
         },
-        "distancia_km": 177.9,
+        "distancia_km": 163.1,
         "proximo": false
       },
       {
@@ -538,10 +488,10 @@
         "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "30/10/2026 07:31:33",
-          "lat": -27.9969472,
-          "lon": -48.6901184
+          "referencia": "0.45 km de POSTO 275 - IMBITUBA/SC",
+          "data_hora_posicao": "30/10/2026 07:45:58",
+          "lat": -28.1450336,
+          "lon": -48.6920512
         },
         "distancia_km": null,
         "proximo": false
@@ -569,10 +519,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "30/10/2026 07:31:33",
-          "lat": -27.9969472,
-          "lon": -48.6901184
+          "referencia": "0.45 km de POSTO 275 - IMBITUBA/SC",
+          "data_hora_posicao": "30/10/2026 07:45:58",
+          "lat": -28.1450336,
+          "lon": -48.6920512
         },
         "distancia_km": null,
         "proximo": false
@@ -600,10 +550,10 @@
         "frete_rs": 8182.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "30/10/2026 07:31:33",
-          "lat": -27.9969472,
-          "lon": -48.6901184
+          "referencia": "0.45 km de POSTO 275 - IMBITUBA/SC",
+          "data_hora_posicao": "30/10/2026 07:45:58",
+          "lat": -28.1450336,
+          "lon": -48.6920512
         },
         "distancia_km": null,
         "proximo": false
@@ -631,10 +581,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 07:30:46",
-          "lat": -29.1462533333333,
-          "lon": -51.164845
+          "referencia": "0.06 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 07:46:01",
+          "lat": -29.14684,
+          "lon": -51.1647883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -651,10 +601,10 @@
         "frete_rs": 2960.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.47 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 07:24:37",
-          "lat": -27.601657,
-          "lon": -50.3556145
+          "referencia": "0.21 km de POSTO LÉO AMPESSAN - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 07:46:09",
+          "lat": -27.799325,
+          "lon": -50.3633558
         },
         "distancia_km": null,
         "proximo": false
@@ -687,10 +637,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.47 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 07:24:37",
-          "lat": -27.601657,
-          "lon": -50.3556145
+          "referencia": "0.21 km de POSTO LÉO AMPESSAN - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 07:46:09",
+          "lat": -27.799325,
+          "lon": -50.3633558
         },
         "distancia_km": null,
         "proximo": false
@@ -704,5 +654,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T07:32:40"
+  "_gerado_em": "2026-10-30T07:47:30"
 }
