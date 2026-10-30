@@ -14,7 +14,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 22:01:00",
+          "data_hora_posicao": "29/10/2026 22:15:00",
           "lat": -22.8469504,
           "lon": -47.1247904
         },
@@ -33,12 +33,52 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.33 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "29/10/2026 21:58:39",
-          "lat": -24.96636,
-          "lon": -48.4750592
+          "referencia": "4.21 km de POSTO RABI - BARRA DO TURVO/SP",
+          "data_hora_posicao": "29/10/2026 22:09:05",
+          "lat": -24.970752,
+          "lon": -48.3677184
         },
-        "distancia_km": 263.3,
+        "distancia_km": 255.3,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023946-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 6475.44,
+        "frete_rs": 8231.91,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.14 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "29/10/2026 22:14:48",
+          "lat": -26.8871232,
+          "lon": -48.7223968
+        },
+        "distancia_km": 442.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023947-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10693.6,
+        "frete_rs": 16058.5,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.14 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "29/10/2026 22:14:48",
+          "lat": -26.8871232,
+          "lon": -48.7223968
+        },
+        "distancia_km": 442.8,
         "proximo": false
       },
       {
@@ -53,12 +93,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de OFICINA MECÂNICA QUINTA RODA - GASPAR/SC",
-          "data_hora_posicao": "29/10/2026 22:00:59",
-          "lat": -26.9148166666667,
-          "lon": -48.97532
+          "referencia": "1.18 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "29/10/2026 22:14:58",
+          "lat": -26.862415,
+          "lon": -48.8140666666667
         },
-        "distancia_km": 458.9,
+        "distancia_km": 445.2,
         "proximo": false
       },
       {
@@ -73,12 +113,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de OFICINA MECÂNICA QUINTA RODA - GASPAR/SC",
-          "data_hora_posicao": "29/10/2026 22:00:59",
-          "lat": -26.9148166666667,
-          "lon": -48.97532
+          "referencia": "1.18 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "29/10/2026 22:14:58",
+          "lat": -26.862415,
+          "lon": -48.8140666666667
         },
-        "distancia_km": 458.9,
+        "distancia_km": 445.2,
         "proximo": false
       },
       {
@@ -94,9 +134,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 22:00:16",
-          "lat": -27.205968,
-          "lon": -49.648976
+          "data_hora_posicao": "29/10/2026 22:14:25",
+          "lat": -27.2060384,
+          "lon": -49.6490944
         },
         "distancia_km": 524.4,
         "proximo": false
@@ -143,6 +183,11 @@
         "frete_rs": 6568.71,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 17169.04,
+        "frete_rs": 24290.41,
+        "qtde": 2
+      },
       "Rio do Sul": {
         "peso_kg": 62624.119999999995,
         "frete_rs": 40981.020000000004,
@@ -169,12 +214,12 @@
         "frete_rs": 2599.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "29/10/2026 22:01:17",
-          "lat": -26.6920336,
-          "lon": -48.6974912
+          "referencia": "0.05 km de CARDOSO GUINCHO - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "29/10/2026 22:15:04",
+          "lat": -26.7255952,
+          "lon": -48.7022624
         },
-        "distancia_km": 21.9,
+        "distancia_km": 18.1,
         "proximo": true
       },
       {
@@ -189,12 +234,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 22:00:34",
-          "lat": -23.482576,
-          "lon": -46.5260032
+          "referencia": "0.49 km de AUTO POSTO LIDER - SAO PAULO/SP",
+          "data_hora_posicao": "29/10/2026 22:14:34",
+          "lat": -23.5185392,
+          "lon": -46.6322816
         },
-        "distancia_km": 438.3,
+        "distancia_km": 429.5,
         "proximo": false
       },
       {
@@ -209,12 +254,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.81 km de PARADOURO DURMA BEM CAMINHONEIRO RUSTIC HAUSE - ICARA/SC",
-          "data_hora_posicao": "29/10/2026 21:59:41",
-          "lat": -28.741013,
-          "lon": -49.2509403
+          "referencia": "1.28 km de POSTO MORRO GRANDE - SANGAO/SC",
+          "data_hora_posicao": "29/10/2026 22:13:42",
+          "lat": -28.6534556,
+          "lon": -49.1068493
         },
-        "distancia_km": 212.6,
+        "distancia_km": 200.0,
         "proximo": false
       },
       {
@@ -229,12 +274,12 @@
         "frete_rs": 4567.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.48 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "29/10/2026 22:01:26",
-          "lat": -27.0506976,
-          "lon": -49.3906784
+          "referencia": "1.98 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "29/10/2026 22:14:44",
+          "lat": -26.9946144,
+          "lon": -49.3759296
         },
-        "distancia_km": 68.8,
+        "distancia_km": 66.0,
         "proximo": false
       },
       {
@@ -295,12 +340,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "29/10/2026 22:01:17",
-          "lat": -26.6920336,
-          "lon": -48.6974912
+          "referencia": "0.05 km de CARDOSO GUINCHO - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "29/10/2026 22:15:04",
+          "lat": -26.7255952,
+          "lon": -48.7022624
         },
-        "distancia_km": 110.3,
+        "distancia_km": 108.0,
         "proximo": false
       },
       {
@@ -315,12 +360,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "29/10/2026 22:01:00",
-          "lat": -23.890568,
-          "lon": -46.9821504
+          "referencia": "3.57 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "29/10/2026 22:15:00",
+          "lat": -23.9616096,
+          "lon": -47.1213088
         },
-        "distancia_km": 455.5,
+        "distancia_km": 440.9,
         "proximo": false
       },
       {
@@ -336,9 +381,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 22:00:38",
-          "lat": -23.4705312,
-          "lon": -46.4619904
+          "data_hora_posicao": "29/10/2026 22:14:38",
+          "lat": -23.4704768,
+          "lon": -46.4620864
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -356,7 +401,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:00:33",
+          "data_hora_posicao": "29/10/2026 22:14:33",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -411,10 +456,10 @@
         "frete_rs": 655.46,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:00:54",
-          "lat": -29.9833248,
-          "lon": -51.1866496
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 22:14:54",
+          "lat": -29.9834208,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -431,10 +476,10 @@
         "frete_rs": 6360.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:00:54",
-          "lat": -29.9833248,
-          "lon": -51.1866496
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "29/10/2026 22:14:54",
+          "lat": -29.9834208,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -472,12 +517,12 @@
         "frete_rs": 4726.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 21:59:45",
-          "lat": -23.4710336,
-          "lon": -46.4614016
+          "referencia": "0.27 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 22:13:45",
+          "lat": -23.4821696,
+          "lon": -46.525504
         },
-        "distancia_km": 366.8,
+        "distancia_km": 360.9,
         "proximo": false
       },
       {
@@ -492,12 +537,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.48 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "29/10/2026 22:01:26",
-          "lat": -27.0506976,
-          "lon": -49.3906784
+          "referencia": "1.98 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "29/10/2026 22:14:44",
+          "lat": -26.9946144,
+          "lon": -49.3759296
         },
-        "distancia_km": 169.6,
+        "distancia_km": 163.3,
         "proximo": false
       }
     ],
@@ -510,6 +555,32 @@
       "Rio do Sul": {
         "peso_kg": 11470.59,
         "frete_rs": 5408.48,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074045-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 15692.11,
+        "frete_rs": 24184.7,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 15692.11,
+        "frete_rs": 24184.7,
         "qtde": 1
       }
     }
@@ -529,7 +600,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:01:33",
+          "data_hora_posicao": "29/10/2026 22:14:38",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -560,7 +631,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:01:33",
+          "data_hora_posicao": "29/10/2026 22:14:38",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -591,7 +662,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:01:33",
+          "data_hora_posicao": "29/10/2026 22:14:38",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -622,7 +693,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:00:33",
+          "data_hora_posicao": "29/10/2026 22:14:33",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -638,5 +709,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T22:02:42"
+  "_gerado_em": "2026-10-29T22:17:36"
 }
