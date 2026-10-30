@@ -13,12 +13,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.25 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "30/10/2026 15:29:33",
-          "lat": -28.6907296,
-          "lon": -49.3167712
+          "referencia": "1.06 km de PARADOURO DURMA BEM CAMINHONEIRO RUSTIC HAUSE - ICARA/SC",
+          "data_hora_posicao": "30/10/2026 15:45:33",
+          "lat": -28.7430848,
+          "lon": -49.25288
         },
-        "distancia_km": 208.9,
+        "distancia_km": 212.9,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:29:42",
+          "data_hora_posicao": "30/10/2026 15:45:42",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:29:42",
+          "data_hora_posicao": "30/10/2026 15:45:42",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -100,10 +100,10 @@
         "frete_rs": 3533.56,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de BAUER CAMINHOES - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 15:31:06",
-          "lat": -26.8982156,
-          "lon": -48.7181543
+          "referencia": "0.32 km de FINNI ITAJAÍ - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 15:44:59",
+          "lat": -26.945999,
+          "lon": -48.7319285
         },
         "distancia_km": null,
         "proximo": false
@@ -132,7 +132,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 15:29:42",
+          "data_hora_posicao": "30/10/2026 15:45:42",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -144,37 +144,6 @@
       "Porto Alegre": {
         "peso_kg": 2135.43,
         "frete_rs": 1954.13,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044095-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 3877.99,
-        "frete_rs": 2587.74,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.58 km de SUSIN FRANCESCUTTI METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 15:31:23",
-          "lat": -29.1452791,
-          "lon": -51.187869
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 3877.99,
-        "frete_rs": 2587.74,
         "qtde": 1
       }
     }
@@ -205,5 +174,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T15:32:40"
+  "_gerado_em": "2026-10-30T15:47:40"
 }
