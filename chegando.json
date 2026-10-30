@@ -13,12 +13,12 @@
         "frete_rs": 8553.93,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.2 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "30/10/2026 00:31:00",
-          "lat": -23.5064576,
-          "lon": -46.5700576
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 00:46:32",
+          "lat": -23.4705808,
+          "lon": -46.462448
         },
-        "distancia_km": 11.7,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.47 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 00:31:11",
-          "lat": -24.1789936,
-          "lon": -47.3496096
+          "referencia": "5.1 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 00:39:13",
+          "lat": -24.1312528,
+          "lon": -47.271296
         },
-        "distancia_km": 119.8,
+        "distancia_km": 110.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.54 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 00:31:22",
-          "lat": -25.7827888,
-          "lon": -49.1208352
+          "referencia": "1.3 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "30/10/2026 00:45:22",
+          "lat": -25.6328944,
+          "lon": -49.1624032
         },
-        "distancia_km": 371.9,
+        "distancia_km": 363.8,
         "proximo": false
       },
       {
@@ -73,12 +73,27 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.54 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 00:31:22",
-          "lat": -25.7827888,
-          "lon": -49.1208352
+          "referencia": "1.3 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "30/10/2026 00:45:22",
+          "lat": -25.6328944,
+          "lon": -49.1624032
         },
-        "distancia_km": 371.9,
+        "distancia_km": 363.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023952-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 10505.3,
+        "frete_rs": 12664.53,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -93,12 +108,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.73 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "30/10/2026 00:25:42",
-          "lat": -25.8517016666667,
-          "lon": -48.97008
+          "referencia": "0.52 km de POSTO E COSTELAO MONTE CARLO III - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 00:46:00",
+          "lat": -25.8212866666667,
+          "lon": -49.1276933333333
         },
-        "distancia_km": 366.5,
+        "distancia_km": 375.3,
         "proximo": false
       },
       {
@@ -113,12 +128,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.73 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "30/10/2026 00:25:42",
-          "lat": -25.8517016666667,
-          "lon": -48.97008
+          "referencia": "0.52 km de POSTO E COSTELAO MONTE CARLO III - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 00:46:00",
+          "lat": -25.8212866666667,
+          "lon": -49.1276933333333
         },
-        "distancia_km": 366.5,
+        "distancia_km": 375.3,
         "proximo": false
       },
       {
@@ -133,12 +148,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
-          "data_hora_posicao": "30/10/2026 00:30:16",
-          "lat": -26.824064,
-          "lon": -48.6879584
+          "referencia": "0.39 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 00:46:16",
+          "lat": -26.6453456,
+          "lon": -48.6875616
         },
-        "distancia_km": 435.0,
+        "distancia_km": 418.2,
         "proximo": false
       },
       {
@@ -214,9 +229,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 17169.04,
-        "frete_rs": 24290.41,
-        "qtde": 2
+        "peso_kg": 27674.34,
+        "frete_rs": 36954.94,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 91144.79999999999,
@@ -244,12 +259,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.99 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "30/10/2026 00:31:04",
-          "lat": -26.8602688,
-          "lon": -49.0392448
+          "referencia": "0.29 km de MAGGIOR TEXTIL - INDAIAL/SC",
+          "data_hora_posicao": "30/10/2026 00:45:04",
+          "lat": -26.8695648,
+          "lon": -49.2041184
         },
-        "distancia_km": 71.7,
+        "distancia_km": 57.9,
         "proximo": false
       },
       {
@@ -264,12 +279,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.86 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "30/10/2026 00:31:00",
-          "lat": -24.538328,
-          "lon": -47.8595776
+          "referencia": "1.75 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "30/10/2026 00:45:00",
+          "lat": -24.663736,
+          "lon": -47.9728768
         },
-        "distancia_km": 346.5,
+        "distancia_km": 328.7,
         "proximo": false
       },
       {
@@ -284,12 +299,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.89 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 00:30:38",
-          "lat": -23.7294272,
-          "lon": -46.8942528
+          "referencia": "0.47 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 00:44:38",
+          "lat": -23.85968,
+          "lon": -46.9456928
         },
-        "distancia_km": 475.3,
+        "distancia_km": 460.5,
         "proximo": false
       },
       {
@@ -319,12 +334,12 @@
         "frete_rs": 1460.34,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.99 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "30/10/2026 00:31:04",
-          "lat": -26.8602688,
-          "lon": -49.0392448
+          "referencia": "0.29 km de MAGGIOR TEXTIL - INDAIAL/SC",
+          "data_hora_posicao": "30/10/2026 00:45:04",
+          "lat": -26.8695648,
+          "lon": -49.2041184
         },
-        "distancia_km": 71.7,
+        "distancia_km": 57.9,
         "proximo": false
       },
       {
@@ -340,7 +355,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 00:30:31",
+          "data_hora_posicao": "30/10/2026 00:46:31",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -386,7 +401,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 00:29:58",
+          "data_hora_posicao": "30/10/2026 00:45:58",
           "lat": -26.8876256,
           "lon": -48.720656
         },
@@ -406,7 +421,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 00:31:25",
+          "data_hora_posicao": "30/10/2026 00:43:25",
           "lat": -29.9834208,
           "lon": -51.1866464
         },
@@ -426,7 +441,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 00:31:25",
+          "data_hora_posicao": "30/10/2026 00:43:25",
           "lat": -29.9834208,
           "lon": -51.1866464
         },
@@ -466,12 +481,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 00:30:34",
-          "lat": -24.3004528,
-          "lon": -47.4844832
+          "referencia": "2.88 km de LAVADOR PIPOCA - JUQUIA/SP",
+          "data_hora_posicao": "30/10/2026 00:45:00",
+          "lat": -24.351296,
+          "lon": -47.655936
         },
-        "distancia_km": 313.2,
+        "distancia_km": 301.5,
         "proximo": false
       },
       {
@@ -487,7 +502,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO ROTA 101 JAGUARUNA - JAGUARUNA/SC",
-          "data_hora_posicao": "30/10/2026 00:28:31",
+          "data_hora_posicao": "30/10/2026 00:44:31",
           "lat": -28.6110296,
           "lon": -49.0594028
         },
@@ -522,12 +537,12 @@
         "frete_rs": 4726.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 00:29:45",
-          "lat": -24.3041328,
-          "lon": -47.48928
+          "referencia": "2.38 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "30/10/2026 00:41:45",
+          "lat": -24.3443376,
+          "lon": -47.6480416
         },
-        "distancia_km": 227.3,
+        "distancia_km": 211.9,
         "proximo": false
       },
       {
@@ -542,10 +557,10 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 00:29:26",
-          "lat": -26.8873856,
-          "lon": -48.7212416
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 00:45:26",
+          "lat": -26.8873984,
+          "lon": -48.7212448
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -604,10 +619,10 @@
         "frete_rs": 10743.74,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 00:30:57",
-          "lat": -22.847905,
-          "lon": -47.1235466666667
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "30/10/2026 00:45:06",
+          "lat": -22.8469833333333,
+          "lon": -47.1248066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -624,10 +639,10 @@
         "frete_rs": 1380.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 00:30:57",
-          "lat": -22.847905,
-          "lon": -47.1235466666667
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "30/10/2026 00:45:06",
+          "lat": -22.8469833333333,
+          "lon": -47.1248066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -656,7 +671,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 00:29:33",
+          "data_hora_posicao": "30/10/2026 00:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -687,7 +702,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 00:29:33",
+          "data_hora_posicao": "30/10/2026 00:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -718,7 +733,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 00:29:33",
+          "data_hora_posicao": "30/10/2026 00:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -749,7 +764,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 00:30:31",
+          "data_hora_posicao": "30/10/2026 00:46:31",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -765,5 +780,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T00:32:36"
+  "_gerado_em": "2026-10-30T00:47:36"
 }
