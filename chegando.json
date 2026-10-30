@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 12:39:13",
-          "lat": -27.85784,
-          "lon": -50.3866133333333
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:00:15",
+          "lat": -27.8238266666667,
+          "lon": -50.36294
         },
-        "distancia_km": 102.6,
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.8 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "30/10/2026 12:44:38",
-          "lat": -27.083136,
-          "lon": -49.5095936
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "30/10/2026 13:00:38",
+          "lat": -27.135712,
+          "lon": -49.543616
         },
-        "distancia_km": 19.5,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 12:39:13",
-          "lat": -27.85784,
-          "lon": -50.3866133333333
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:00:15",
+          "lat": -27.8238266666667,
+          "lon": -50.36294
         },
-        "distancia_km": 102.6,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -175,10 +175,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 12:47:33",
-          "lat": -28.9752288,
-          "lon": -49.5331392
+          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "30/10/2026 13:01:05",
+          "lat": -28.9754848,
+          "lon": -49.5331968
         },
         "distancia_km": null,
         "proximo": false
@@ -222,9 +222,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:46:34",
-          "lat": -23.470625,
-          "lon": -46.462205
+          "data_hora_posicao": "30/10/2026 13:00:54",
+          "lat": -23.4706433333333,
+          "lon": -46.4621983333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -242,9 +242,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:46:34",
-          "lat": -23.470625,
-          "lon": -46.462205
+          "data_hora_posicao": "30/10/2026 13:00:54",
+          "lat": -23.4706433333333,
+          "lon": -46.4621983333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -262,7 +262,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:46:16",
+          "data_hora_posicao": "30/10/2026 13:00:16",
           "lat": -23.4704432,
           "lon": -46.4620288
         },
@@ -362,10 +362,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 12:39:13",
-          "lat": -27.85784,
-          "lon": -50.3866133333333
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 13:00:15",
+          "lat": -27.8238266666667,
+          "lon": -50.36294
         },
         "distancia_km": null,
         "proximo": false
@@ -394,9 +394,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "4.61 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 12:41:03",
-          "lat": -28.9477625,
-          "lon": -51.178865
+          "data_hora_posicao": "30/10/2026 13:00:32",
+          "lat": -28.9477621,
+          "lon": -51.1789126
         },
         "distancia_km": null,
         "proximo": false
@@ -410,5 +410,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T12:49:03"
+  "_gerado_em": "2026-10-30T13:02:31"
 }
