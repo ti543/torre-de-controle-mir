@@ -13,12 +13,32 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 16:59:33",
-          "lat": -28.4687168,
-          "lon": -49.0188896
+          "referencia": "0.26 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 17:15:33",
+          "lat": -28.467568,
+          "lon": -49.0045344
         },
-        "distancia_km": 178.3,
+        "distancia_km": 177.9,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000383-2",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2378.61,
+        "frete_rs": 4781.69,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.26 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 17:15:33",
+          "lat": -28.467568,
+          "lon": -49.0045344
+        },
+        "distancia_km": 177.9,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "CRC": {
         "peso_kg": 1914.35,
         "frete_rs": 1558.42,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 2378.61,
+        "frete_rs": 4781.69,
         "qtde": 1
       }
     }
@@ -45,11 +70,31 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:59:40",
+          "data_hora_posicao": "30/10/2026 17:15:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074092-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5898.33,
+        "frete_rs": 10393.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 17:16:04",
+          "lat": -23.470528,
+          "lon": -46.4620448
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -65,7 +110,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:59:40",
+          "data_hora_posicao": "30/10/2026 17:15:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -77,6 +122,11 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 5981.14,
         "frete_rs": 9538.09,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 5898.33,
+        "frete_rs": 10393.32,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -101,7 +151,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:59:40",
+          "data_hora_posicao": "30/10/2026 17:15:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -143,5 +193,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T17:02:49"
+  "_gerado_em": "2026-10-30T17:18:00"
 }
