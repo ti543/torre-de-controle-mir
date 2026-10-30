@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 12:19:13",
-          "lat": -28.0010666666667,
-          "lon": -50.5352533333333
+          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 12:39:13",
+          "lat": -27.85784,
+          "lon": -50.3866133333333
         },
-        "distancia_km": 124.2,
+        "distancia_km": 102.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.87 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 12:24:46",
-          "lat": -27.0620736,
-          "lon": -49.3942176
+          "referencia": "2.8 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "30/10/2026 12:44:38",
+          "lat": -27.083136,
+          "lon": -49.5095936
         },
-        "distancia_km": 29.9,
+        "distancia_km": 19.5,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 12:19:13",
-          "lat": -28.0010666666667,
-          "lon": -50.5352533333333
+          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 12:39:13",
+          "lat": -27.85784,
+          "lon": -50.3866133333333
         },
-        "distancia_km": 124.2,
+        "distancia_km": 102.6,
         "proximo": false
       }
     ],
@@ -176,7 +176,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 12:29:33",
+          "data_hora_posicao": "30/10/2026 12:47:33",
           "lat": -28.9752288,
           "lon": -49.5331392
         },
@@ -222,7 +222,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:30:34",
+          "data_hora_posicao": "30/10/2026 12:46:34",
           "lat": -23.470625,
           "lon": -46.462205
         },
@@ -242,7 +242,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:30:34",
+          "data_hora_posicao": "30/10/2026 12:46:34",
           "lat": -23.470625,
           "lon": -46.462205
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:30:16",
+          "data_hora_posicao": "30/10/2026 12:46:16",
           "lat": -23.4704432,
           "lon": -46.4620288
         },
@@ -362,10 +362,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 12:19:13",
-          "lat": -28.0010666666667,
-          "lon": -50.5352533333333
+          "referencia": "1.94 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 12:39:13",
+          "lat": -27.85784,
+          "lon": -50.3866133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -393,10 +393,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.39 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 12:31:25",
-          "lat": -28.9465196,
-          "lon": -51.182069
+          "referencia": "4.61 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 12:41:03",
+          "lat": -28.9477625,
+          "lon": -51.178865
         },
         "distancia_km": null,
         "proximo": false
@@ -410,5 +410,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T12:32:38"
+  "_gerado_em": "2026-10-30T12:49:03"
 }
