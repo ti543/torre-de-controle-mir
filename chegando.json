@@ -13,12 +13,12 @@
         "frete_rs": 7410.92,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.3 km de ADUANA/PORTO SECO - MULTILOG S/A (CLIA) - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 19:15:30",
-          "lat": -26.9484763,
-          "lon": -48.7492031
+          "referencia": "0.19 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 19:30:55",
+          "lat": -26.9154495,
+          "lon": -48.7107303
         },
-        "distancia_km": 7.3,
+        "distancia_km": 3.3,
         "proximo": true
       },
       {
@@ -33,12 +33,32 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.36 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
-          "data_hora_posicao": "30/10/2026 19:15:33",
-          "lat": -27.5497728,
-          "lon": -48.6195488
+          "referencia": "1.02 km de POSTO APOLO FILIAL 8 (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BIGUACU/SC",
+          "data_hora_posicao": "30/10/2026 19:29:33",
+          "lat": -27.4136576,
+          "lon": -48.6269792
         },
-        "distancia_km": 74.3,
+        "distancia_km": 59.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013533-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 5428.9,
+        "frete_rs": 4391.98,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:31:26",
+          "lat": -25.5277744,
+          "lon": -49.29552
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -53,12 +73,12 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.36 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
-          "data_hora_posicao": "30/10/2026 19:15:33",
-          "lat": -27.5497728,
-          "lon": -48.6195488
+          "referencia": "1.02 km de POSTO APOLO FILIAL 8 (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BIGUACU/SC",
+          "data_hora_posicao": "30/10/2026 19:29:33",
+          "lat": -27.4136576,
+          "lon": -48.6269792
         },
-        "distancia_km": 74.3,
+        "distancia_km": 59.2,
         "proximo": false
       }
     ],
@@ -71,6 +91,11 @@
       "CRC": {
         "peso_kg": 1914.35,
         "frete_rs": 1558.42,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5428.9,
+        "frete_rs": 4391.98,
         "qtde": 1
       },
       "TUB": {
@@ -94,12 +119,32 @@
         "frete_rs": 4011.03,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO CEASA LM - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 19:15:47",
-          "lat": -22.84775,
-          "lon": -47.094485
+          "referencia": "3.13 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
+          "data_hora_posicao": "30/10/2026 19:30:39",
+          "lat": -22.92858,
+          "lon": -46.9410183333333
         },
-        "distancia_km": 94.7,
+        "distancia_km": 77.6,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013530-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 14782.38,
+        "frete_rs": 13506.06,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:31:11",
+          "lat": -25.5265376,
+          "lon": -49.2972704
+        },
+        "distancia_km": 366.8,
         "proximo": false
       }
     ],
@@ -108,11 +153,36 @@
         "peso_kg": 2024.37,
         "frete_rs": 4011.03,
         "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 14782.38,
+        "frete_rs": 13506.06,
+        "qtde": 1
       }
     }
   },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013534-8",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 4263.7,
+        "frete_rs": 5497.54,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:31:26",
+          "lat": -25.5277744,
+          "lon": -49.29552
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002231-4",
         "origin_unit": "CXS",
@@ -125,12 +195,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:15:39",
-          "lat": -27.4765566666667,
-          "lon": -50.3809183333333
+          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:27:59",
+          "lat": -27.3652,
+          "lon": -50.4330133333333
         },
-        "distancia_km": 78.2,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -145,12 +215,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.7 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 19:16:19",
-          "lat": -29.0815826,
-          "lon": -51.1918516
+          "referencia": "2.7 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 19:31:16",
+          "lat": -28.9721075,
+          "lon": -51.1755501
         },
-        "distancia_km": 257.6,
+        "distancia_km": 246.9,
         "proximo": false
       },
       {
@@ -165,12 +235,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de CARREFOUR HIPERMERCADO PÊSSEGO - SAO PAULO/SP",
-          "data_hora_posicao": "30/10/2026 19:16:04",
-          "lat": -23.5727488,
-          "lon": -46.4461632
+          "referencia": "0.25 km de ESTACIONAMENTO WEST PARK - MAUA/SP",
+          "data_hora_posicao": "30/10/2026 19:30:04",
+          "lat": -23.6811088,
+          "lon": -46.4697824
         },
-        "distancia_km": 516.4,
+        "distancia_km": 505.5,
         "proximo": false
       },
       {
@@ -185,12 +255,12 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:15:39",
-          "lat": -27.4765566666667,
-          "lon": -50.3809183333333
+          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:27:59",
+          "lat": -27.3652,
+          "lon": -50.4330133333333
         },
-        "distancia_km": 78.2,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -205,12 +275,12 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:15:39",
-          "lat": -27.4765566666667,
-          "lon": -50.3809183333333
+          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:27:59",
+          "lat": -27.3652,
+          "lon": -50.4330133333333
         },
-        "distancia_km": 78.2,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -225,12 +295,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:15:39",
-          "lat": -27.4765566666667,
-          "lon": -50.3809183333333
+          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:27:59",
+          "lat": -27.3652,
+          "lon": -50.4330133333333
         },
-        "distancia_km": 78.2,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -245,12 +315,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "30/10/2026 19:15:58",
-          "lat": -29.5875104,
-          "lon": -51.354256
+          "referencia": "1.56 km de POSTO REGIS CHARRUA - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "30/10/2026 19:31:10",
+          "lat": -29.4129184,
+          "lon": -51.3539392
         },
-        "distancia_km": 312.9,
+        "distancia_km": 296.7,
         "proximo": false
       },
       {
@@ -265,16 +335,21 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.7 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "30/10/2026 19:15:05",
-          "lat": -29.5992544,
-          "lon": -51.3537088
+          "referencia": "1.57 km de POSTO REGIS CHARRUA - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "30/10/2026 19:31:17",
+          "lat": -29.4130656,
+          "lon": -51.3540352
         },
-        "distancia_km": 314.0,
+        "distancia_km": 296.7,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4263.7,
+        "frete_rs": 5497.54,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 13609.95,
         "frete_rs": 19970.54,
@@ -318,5 +393,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T19:17:36"
+  "_gerado_em": "2026-10-30T19:32:37"
 }
