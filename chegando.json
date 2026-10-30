@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.48 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:14:21",
-          "lat": -28.4252083333333,
-          "lon": -50.86735
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:31:07",
+          "lat": -28.2663183333333,
+          "lon": -50.7881316666667
         },
-        "distancia_km": 180.9,
+        "distancia_km": 162.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de SDB COMERCIO DE ALIMENTOS/BLUMENAU-SC - BLUMENAU/SC",
-          "data_hora_posicao": "30/10/2026 10:15:32",
-          "lat": -26.8624256,
-          "lon": -49.0850816
+          "referencia": "0.31 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "30/10/2026 10:30:38",
+          "lat": -26.8840736,
+          "lon": -49.1492416
         },
-        "distancia_km": 67.7,
+        "distancia_km": 61.1,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.48 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:14:21",
-          "lat": -28.4252083333333,
-          "lon": -50.86735
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:31:07",
+          "lat": -28.2663183333333,
+          "lon": -50.7881316666667
         },
-        "distancia_km": 180.9,
+        "distancia_km": 162.6,
         "proximo": false
       }
     ],
@@ -161,48 +161,70 @@
       }
     }
   },
-  "GRU": {
+  "ARR": {
     "veiculos": [
       {
-        "manif": "ITJ023946-1",
+        "manif": "ITJ023948-8",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6475.44,
-        "frete_rs": 8231.91,
+        "dest_unit": "ARR",
+        "dest_city": "ARARANGUA/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 1125.97,
+        "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 10:16:02",
-          "lat": -23.4720208,
-          "lon": -46.462016
+          "referencia": "0.09 km de MECANICA BRUTUS - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 10:31:33",
+          "lat": -28.510112,
+          "lon": -49.0508192
         },
-        "distancia_km": 0.2,
-        "proximo": true
-      },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 1125.97,
+        "frete_rs": 2010.86,
+        "qtde": 1
+      }
+    }
+  },
+  "CRC": {
+    "veiculos": [
       {
-        "manif": "ITJ023947-0",
+        "manif": "ITJ023949-6",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10693.6,
-        "frete_rs": 16058.5,
+        "dest_unit": "CRC",
+        "dest_city": "ICARA/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 763.66,
+        "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 10:16:02",
-          "lat": -23.4720208,
-          "lon": -46.462016
+          "referencia": "0.09 km de MECANICA BRUTUS - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 10:31:33",
+          "lat": -28.510112,
+          "lon": -49.0508192
         },
-        "distancia_km": 0.2,
-        "proximo": true
-      },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 763.66,
+        "frete_rs": 2156.87,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
       {
         "manif": "ITJ023952-6",
         "origin_unit": "ITJ",
@@ -230,12 +252,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 10:15:10",
-          "lat": -23.63007,
-          "lon": -46.8300683333333
+          "referencia": "0.3 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
+          "data_hora_posicao": "30/10/2026 10:31:10",
+          "lat": -23.5158383333333,
+          "lon": -46.8119683333333
         },
-        "distancia_km": 41.5,
+        "distancia_km": 36.0,
         "proximo": false
       },
       {
@@ -250,12 +272,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 10:15:10",
-          "lat": -23.63007,
-          "lon": -46.8300683333333
+          "referencia": "0.3 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
+          "data_hora_posicao": "30/10/2026 10:31:10",
+          "lat": -23.5158383333333,
+          "lon": -46.8119683333333
         },
-        "distancia_km": 41.5,
+        "distancia_km": 36.0,
         "proximo": false
       },
       {
@@ -270,12 +292,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.27 km de INDUSTRIAS ANHEMBI LTDA (FILIAL) - OSASCO/SP",
-          "data_hora_posicao": "30/10/2026 10:15:06",
-          "lat": -23.547472,
-          "lon": -46.82008
+          "referencia": "0.13 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 10:30:16",
+          "lat": -23.5262736,
+          "lon": -46.753024
         },
-        "distancia_km": 37.5,
+        "distancia_km": 30.3,
         "proximo": false
       },
       {
@@ -341,9 +363,9 @@
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 27674.34,
-        "frete_rs": 36954.94,
-        "qtde": 3
+        "peso_kg": 10505.3,
+        "frete_rs": 12664.53,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 91144.79999999999,
@@ -354,68 +376,6 @@
         "peso_kg": 9175.09,
         "frete_rs": 15004.08,
         "qtde": 2
-      }
-    }
-  },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ023948-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1125.97,
-        "frete_rs": 2010.86,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 10:15:33",
-          "lat": -28.4686784,
-          "lon": -49.0189664
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 1125.97,
-        "frete_rs": 2010.86,
-        "qtde": 1
-      }
-    }
-  },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ023949-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 763.66,
-        "frete_rs": 2156.87,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 10:15:33",
-          "lat": -28.4686784,
-          "lon": -49.0189664
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 763.66,
-        "frete_rs": 2156.87,
-        "qtde": 1
       }
     }
   },
@@ -433,10 +393,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.48 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:14:21",
-          "lat": -28.4252083333333,
-          "lon": -50.86735
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 10:31:07",
+          "lat": -28.2663183333333,
+          "lon": -50.7881316666667
         },
         "distancia_km": null,
         "proximo": false
@@ -464,10 +424,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.98 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 10:15:15",
-          "lat": -28.5785555,
-          "lon": -51.0231251
+          "referencia": "3.11 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "30/10/2026 10:29:28",
+          "lat": -28.6324098,
+          "lon": -51.0807686
         },
         "distancia_km": null,
         "proximo": false
@@ -481,5 +441,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T10:17:37"
+  "_gerado_em": "2026-10-30T10:32:54"
 }
