@@ -120,6 +120,31 @@
   .hidden { display: none !important; }
   .link-trocar { text-align: center; margin-top: 4px; }
   .link-trocar button { background: none; border: none; color: #fff; opacity: 0.8; font-size: 12px; text-decoration: underline; cursor: pointer; }
+
+  .btn-instalar {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 10px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    border: 2px solid rgba(255,255,255,0.55);
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .btn-instalar:hover { background: rgba(255,255,255,0.22); }
+  .dica-ios {
+    margin-top: 8px;
+    background: rgba(255,255,255,0.14);
+    border-radius: 10px;
+    padding: 10px 12px;
+    font-size: 12.5px;
+    line-height: 1.4;
+    max-width: 320px;
+  }
 </style>
 </head>
 <body>
@@ -127,6 +152,11 @@
 <header>
   <h1>Torre de Controle</h1>
   <p id="subtitulo">painel do gerente</p>
+  <button class="btn-instalar hidden" id="btn-instalar">📲 Instalar app</button>
+  <div class="dica-ios hidden" id="dica-ios">
+    Pra instalar no iPhone: toque no ícone de compartilhar (quadrado com uma seta pra cima) e depois em <b>“Adicionar à Tela de Início”</b>.
+    <div style="text-align:right;margin-top:6px;"><button id="fechar-dica-ios" style="background:none;border:none;color:#fff;text-decoration:underline;font-size:12px;cursor:pointer;">entendi</button></div>
+  </div>
 </header>
 
 <div class="container">
@@ -162,6 +192,7 @@
 
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js";
+import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js";
 import { getFirestore, doc, setDoc, deleteDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
 import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-messaging.js";
 
@@ -186,6 +217,17 @@ const UNIDADES = [
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+const auth = getAuth(app);
+// Login anônimo: necessário pra gravar/apagar em "inscricoes_gerentes" no
+// Firestore quando as regras de segurança exigem "request.auth != null".
+// É esse login que faltava antes -- sem ele, o setDoc/deleteDoc de
+// ativar/desativar notificação falhava com "Missing or insufficient
+// permissions." (erro padrão do Firestore quando as regras bloqueiam
+// quem não está autenticado). Precisa do provedor "Anônimo" habilitado em
+// Firebase Console → Authentication → Sign-in method.
+const authPronta = signInAnonymously(auth).catch((e) => {
+  console.error("Falha no login anônimo do Firebase:", e);
+});
 
 const telaEscolha = document.getElementById("tela-escolha");
 const telaPainel = document.getElementById("tela-painel");
@@ -231,6 +273,66 @@ btnTrocar.onclick = () => {
 montarGridUnidades();
 const unidadeAtual = unidadeSalva();
 if (unidadeAtual) mostrarPainel(unidadeAtual);
+
+// --- Instalar app (PWA) ---
+// Mostra o botão sempre que o app ainda não está instalado (tanto no
+// celular -- Android e iPhone -- quanto no PC), e some sozinho assim que
+// instalar. No Android/Chrome/PC o navegador avisa via "beforeinstallprompt"
+// quando dá pra instalar; no iPhone (Safari) esse evento não existe, então
+// mostra uma dica de "Adicionar à Tela de Início" em vez de um botão que
+// dispara o instalador.
+const btnInstalar = document.getElementById("btn-instalar");
+const dicaIos = document.getElementById("dica-ios");
+document.getElementById("fechar-dica-ios").onclick = () => dicaIos.classList.add("hidden");
+
+function rodandoInstalado() {
+  return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+}
+function ehIOS() {
+  return /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream;
+}
+
+let promptInstalacao = null;
+
+function atualizarBotaoInstalar() {
+  if (rodandoInstalado()) {
+    btnInstalar.classList.add("hidden");
+    dicaIos.classList.add("hidden");
+    return;
+  }
+  if (promptInstalacao || ehIOS()) {
+    btnInstalar.classList.remove("hidden");
+  } else {
+    btnInstalar.classList.add("hidden");
+  }
+}
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  promptInstalacao = e;
+  atualizarBotaoInstalar();
+});
+
+window.addEventListener("appinstalled", () => {
+  promptInstalacao = null;
+  btnInstalar.classList.add("hidden");
+  dicaIos.classList.add("hidden");
+});
+
+btnInstalar.onclick = async () => {
+  if (promptInstalacao) {
+    promptInstalacao.prompt();
+    try { await promptInstalacao.userChoice; } catch (e) {}
+    promptInstalacao = null;
+    atualizarBotaoInstalar();
+    return;
+  }
+  if (ehIOS()) {
+    dicaIos.classList.remove("hidden");
+  }
+};
+
+atualizarBotaoInstalar();
 
 // --- Notificações ---
 // Guarda, por unidade, que esse navegador já pediu e recebeu permissão de
@@ -303,6 +405,7 @@ async function ativarNotificacoes() {
       textoStatus.textContent = "Não consegui gerar o token de notificação";
       return;
     }
+    await authPronta;
     await setDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)), {
       unidade: cod,
       token: token,
@@ -314,7 +417,7 @@ async function ativarNotificacoes() {
       carregarChegadas(cod);
     });
   } catch (e) {
-    textoStatus.textContent = "Erro ao ativar: " + e.message;
+    textoStatus.textContent = "Erro ao ativar: " + (e.code || e.message);
   }
 }
 
@@ -327,12 +430,13 @@ async function desativarNotificacoes() {
     const messaging = getMessaging(app);
     const token = await getToken(messaging, { vapidKey: VAPID_KEY, serviceWorkerRegistration: registration });
     if (token) {
+      await authPronta;
       await deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)));
     }
     desmarcarNotifAtivadas(cod);
     atualizarStatusNotificacoes(cod);
   } catch (e) {
-    textoStatus.textContent = "Erro ao desativar: " + e.message;
+    textoStatus.textContent = "Erro ao desativar: " + (e.code || e.message);
   }
 }
 
