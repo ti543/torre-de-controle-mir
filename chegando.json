@@ -14,7 +14,7 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 01:15:00",
+          "data_hora_posicao": "30/10/2026 01:31:00",
           "lat": -23.4704784,
           "lon": -46.462336
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.24 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 01:14:59",
-          "lat": -24.0510208,
-          "lon": -47.210496
+          "referencia": "0.27 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 01:24:59",
+          "lat": -24.0515584,
+          "lon": -47.2059392
         },
-        "distancia_km": 99.8,
+        "distancia_km": 99.5,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de AIZT TRANSPORTADORA E LOCADORA DE VEÍCULOS LTDA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 01:16:10",
-          "lat": -25.3449968,
-          "lon": -49.0437568
+          "referencia": "0.68 km de POSTO TULIO 04 (RIO BONITO) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 01:31:22",
+          "lat": -25.2559296,
+          "lon": -48.9126656
         },
-        "distancia_km": 334.3,
+        "distancia_km": 317.8,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de AIZT TRANSPORTADORA E LOCADORA DE VEÍCULOS LTDA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 01:16:10",
-          "lat": -25.3449968,
-          "lon": -49.0437568
+          "referencia": "0.68 km de POSTO TULIO 04 (RIO BONITO) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 01:31:22",
+          "lat": -25.2559296,
+          "lon": -48.9126656
         },
-        "distancia_km": 334.3,
+        "distancia_km": 317.8,
         "proximo": false
       },
       {
@@ -109,7 +109,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "30/10/2026 01:14:36",
+          "data_hora_posicao": "30/10/2026 01:30:36",
           "lat": -25.6576166666667,
           "lon": -49.1554516666667
         },
@@ -129,7 +129,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "30/10/2026 01:14:36",
+          "data_hora_posicao": "30/10/2026 01:30:36",
           "lat": -25.6576166666667,
           "lon": -49.1554516666667
         },
@@ -148,12 +148,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de TVR TRANSPORTES - TOP FLORIPA TRANSPORTES E LOGÍSTICA LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 01:16:16",
-          "lat": -26.3692832,
-          "lon": -48.8571712
+          "referencia": "0.56 km de POSTO BAVÁRIA - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 01:30:16",
+          "lat": -26.2242304,
+          "lon": -48.9163136
         },
-        "distancia_km": 402.7,
+        "distancia_km": 393.8,
         "proximo": false
       },
       {
@@ -259,13 +259,13 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.33 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 01:16:09",
-          "lat": -27.0579488,
-          "lon": -49.3898592
+          "referencia": "3.15 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "30/10/2026 01:31:18",
+          "lat": -27.0958656,
+          "lon": -49.527328
         },
-        "distancia_km": 30.5,
-        "proximo": false
+        "distancia_km": 17.2,
+        "proximo": true
       },
       {
         "manif": "GRU074040-3",
@@ -279,12 +279,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "30/10/2026 01:09:23",
-          "lat": -24.7935008,
-          "lon": -48.2110496
+          "referencia": "1.88 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 01:31:00",
+          "lat": -24.9443056,
+          "lon": -48.3113376
         },
-        "distancia_km": 304.4,
+        "distancia_km": 284.8,
         "proximo": false
       },
       {
@@ -299,12 +299,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.27 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 01:12:38",
-          "lat": -24.031952,
-          "lon": -47.1811168
+          "referencia": "6.76 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 01:24:20",
+          "lat": -24.0927488,
+          "lon": -47.256064
         },
-        "distancia_km": 431.0,
+        "distancia_km": 421.2,
         "proximo": false
       },
       {
@@ -334,13 +334,13 @@
         "frete_rs": 1460.34,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 01:16:09",
-          "lat": -27.0579488,
-          "lon": -49.3898592
+          "referencia": "3.15 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "30/10/2026 01:31:18",
+          "lat": -27.0958656,
+          "lon": -49.527328
         },
-        "distancia_km": 30.5,
-        "proximo": false
+        "distancia_km": 17.2,
+        "proximo": true
       },
       {
         "manif": "POA016187-0",
@@ -355,7 +355,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 01:16:30",
+          "data_hora_posicao": "30/10/2026 01:30:30",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -400,12 +400,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.12 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 01:16:21",
-          "lat": -26.8907424,
-          "lon": -48.7215776
+          "referencia": "1.02 km de FORT ATACADISTA – FILIAL 115 - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "30/10/2026 01:29:58",
+          "lat": -27.0017312,
+          "lon": -48.6379328
         },
-        "distancia_km": 419.9,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -420,12 +420,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 01:16:21",
-          "lat": -26.8907424,
-          "lon": -48.7215776
+          "referencia": "1.02 km de FORT ATACADISTA – FILIAL 115 - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "30/10/2026 01:29:58",
+          "lat": -27.0017312,
+          "lon": -48.6379328
         },
-        "distancia_km": 419.9,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -441,7 +441,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 01:15:25",
+          "data_hora_posicao": "30/10/2026 01:31:25",
           "lat": -29.9833408,
           "lon": -51.1866912
         },
@@ -461,7 +461,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 01:15:25",
+          "data_hora_posicao": "30/10/2026 01:31:25",
           "lat": -29.9833408,
           "lon": -51.1866912
         },
@@ -506,12 +506,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "30/10/2026 01:15:10",
-          "lat": -24.6025168,
-          "lon": -47.8765472
+          "referencia": "0.16 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
+          "data_hora_posicao": "30/10/2026 01:30:34",
+          "lat": -24.7135264,
+          "lon": -48.0283712
         },
-        "distancia_km": 267.8,
+        "distancia_km": 251.5,
         "proximo": false
       },
       {
@@ -527,7 +527,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO ROTA 101 JAGUARUNA - JAGUARUNA/SC",
-          "data_hora_posicao": "30/10/2026 01:12:31",
+          "data_hora_posicao": "30/10/2026 01:28:31",
           "lat": -28.6110296,
           "lon": -49.0594028
         },
@@ -562,12 +562,12 @@
         "frete_rs": 4726.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "30/10/2026 01:15:45",
-          "lat": -24.6486032,
-          "lon": -47.9281088
+          "referencia": "0.76 km de AUTO POSTO VITORIA - CAJATI/SP",
+          "data_hora_posicao": "30/10/2026 01:29:45",
+          "lat": -24.7302048,
+          "lon": -48.0967264
         },
-        "distancia_km": 168.9,
+        "distancia_km": 149.8,
         "proximo": false
       },
       {
@@ -582,12 +582,12 @@
         "frete_rs": 4856.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "30/10/2026 01:15:26",
-          "lat": -26.8321088,
-          "lon": -48.6944224
+          "referencia": "1.86 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 01:31:26",
+          "lat": -26.66516,
+          "lon": -48.689008
         },
-        "distancia_km": 157.0,
+        "distancia_km": 140.2,
         "proximo": false
       },
       {
@@ -602,12 +602,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "30/10/2026 01:15:26",
-          "lat": -26.8321088,
-          "lon": -48.6944224
+          "referencia": "1.86 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 01:31:26",
+          "lat": -26.66516,
+          "lon": -48.689008
         },
-        "distancia_km": 157.0,
+        "distancia_km": 140.2,
         "proximo": false
       }
     ],
@@ -670,9 +670,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 01:15:07",
-          "lat": -22.84698,
-          "lon": -47.124785
+          "data_hora_posicao": "30/10/2026 01:31:07",
+          "lat": -22.84697,
+          "lon": -47.1247583333333
         },
         "distancia_km": null,
         "proximo": false
@@ -690,9 +690,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 01:15:07",
-          "lat": -22.84698,
-          "lon": -47.124785
+          "data_hora_posicao": "30/10/2026 01:31:07",
+          "lat": -22.84697,
+          "lon": -47.1247583333333
         },
         "distancia_km": null,
         "proximo": false
@@ -721,7 +721,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 01:15:33",
+          "data_hora_posicao": "30/10/2026 01:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -752,7 +752,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 01:15:33",
+          "data_hora_posicao": "30/10/2026 01:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -783,7 +783,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 01:15:33",
+          "data_hora_posicao": "30/10/2026 01:29:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -814,7 +814,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 01:16:30",
+          "data_hora_posicao": "30/10/2026 01:30:30",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -830,5 +830,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T01:17:33"
+  "_gerado_em": "2026-10-30T01:32:37"
 }
