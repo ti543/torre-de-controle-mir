@@ -13,12 +13,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.67 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 16:16:18",
-          "lat": -28.4993728,
-          "lon": -49.0456736
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "30/10/2026 16:31:33",
+          "lat": -28.4687168,
+          "lon": -49.0188896
         },
-        "distancia_km": 182.1,
+        "distancia_km": 178.3,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:15:41",
+          "data_hora_posicao": "30/10/2026 16:31:41",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:15:41",
+          "data_hora_posicao": "30/10/2026 16:31:41",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -100,10 +100,10 @@
         "frete_rs": 3533.56,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "30/10/2026 16:16:08",
-          "lat": -27.100942,
-          "lon": -48.9141748
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "30/10/2026 16:31:26",
+          "lat": -27.0963586,
+          "lon": -48.9307466
         },
         "distancia_km": null,
         "proximo": false
@@ -132,7 +132,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:15:41",
+          "data_hora_posicao": "30/10/2026 16:31:41",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -174,5 +174,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T16:17:45"
+  "_gerado_em": "2026-10-30T16:32:45"
 }
