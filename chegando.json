@@ -13,10 +13,10 @@
         "frete_rs": 8553.93,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "29/10/2026 22:31:00",
-          "lat": -22.8469504,
-          "lon": -47.1247904
+          "referencia": "1.05 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "29/10/2026 22:45:00",
+          "lat": -22.8473888,
+          "lon": -47.1248352
         },
         "distancia_km": 96.9,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 6568.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.45 km de LANCHONETE KM 513 - CAJATI/SP",
-          "data_hora_posicao": "29/10/2026 22:29:14",
-          "lat": -24.8433664,
-          "lon": -48.21184
+          "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "29/10/2026 22:45:11",
+          "lat": -24.7859504,
+          "lon": -48.1746752
         },
-        "distancia_km": 234.1,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "29/10/2026 22:29:22",
-          "lat": -26.757952,
-          "lon": -48.6881952
+          "referencia": "0.49 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 22:46:01",
+          "lat": -26.5866432,
+          "lon": -48.7216832
         },
-        "distancia_km": 428.8,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "29/10/2026 22:29:22",
-          "lat": -26.757952,
-          "lon": -48.6881952
+          "referencia": "0.49 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "29/10/2026 22:46:01",
+          "lat": -26.5866432,
+          "lon": -48.7216832
         },
-        "distancia_km": 428.8,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "29/10/2026 22:30:39",
-          "lat": -26.834595,
-          "lon": -48.6988633333333
+          "referencia": "0.74 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "29/10/2026 22:44:39",
+          "lat": -26.68221,
+          "lon": -48.69359
         },
-        "distancia_km": 436.6,
+        "distancia_km": 421.9,
         "proximo": false
       },
       {
@@ -113,12 +113,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "29/10/2026 22:30:39",
-          "lat": -26.834595,
-          "lon": -48.6988633333333
+          "referencia": "0.74 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "29/10/2026 22:44:39",
+          "lat": -26.68221,
+          "lon": -48.69359
         },
-        "distancia_km": 436.6,
+        "distancia_km": 421.9,
         "proximo": false
       },
       {
@@ -133,12 +133,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de CONCESSIONARIA VOLVO - RIO DO SUL/SC",
-          "data_hora_posicao": "29/10/2026 22:30:16",
-          "lat": -27.1772224,
-          "lon": -49.5931616
+          "referencia": "3.41 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "29/10/2026 22:46:16",
+          "lat": -27.0940384,
+          "lon": -49.5249408
         },
-        "distancia_km": 518.5,
+        "distancia_km": 507.1,
         "proximo": false
       },
       {
@@ -230,112 +230,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013524-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 2486.68,
-        "frete_rs": 2599.54,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.25 km de RODAN TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:31:04",
-          "lat": -26.8495168,
-          "lon": -48.7252288
-        },
-        "distancia_km": 4.2,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074042-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 7258.44,
-        "frete_rs": 12158.87,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.55 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 22:30:34",
-          "lat": -23.5215968,
-          "lon": -46.74832
-        },
-        "distancia_km": 423.6,
-        "proximo": false
-      },
-      {
-        "manif": "POA016185-3",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3449.72,
-        "frete_rs": 8179.48,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.04 km de POSTO ROTA 101 JAGUARUNA - JAGUARUNA/SC",
-          "data_hora_posicao": "29/10/2026 22:31:04",
-          "lat": -28.6109995,
-          "lon": -49.0594331
-        },
-        "distancia_km": 194.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044093-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 7200.8,
-        "frete_rs": 4567.13,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.32 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "29/10/2026 22:30:07",
-          "lat": -26.9515328,
-          "lon": -49.3069536
-        },
-        "distancia_km": 58.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 2486.68,
-        "frete_rs": 2599.54,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 7258.44,
-        "frete_rs": 12158.87,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 3449.72,
-        "frete_rs": 8179.48,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 7200.8,
-        "frete_rs": 4567.13,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -350,12 +244,12 @@
         "frete_rs": 2284.74,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.25 km de RODAN TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:31:04",
-          "lat": -26.8495168,
-          "lon": -48.7252288
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "29/10/2026 22:45:04",
+          "lat": -26.8874592,
+          "lon": -48.7211808
         },
-        "distancia_km": 99.8,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -370,12 +264,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "29/10/2026 22:25:00",
-          "lat": -24.032368,
-          "lon": -47.1817824
+          "referencia": "3.91 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "29/10/2026 22:45:00",
+          "lat": -24.1449984,
+          "lon": -47.27848
         },
-        "distancia_km": 431.0,
+        "distancia_km": 415.1,
         "proximo": false
       },
       {
@@ -390,12 +284,27 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "29/10/2026 22:30:38",
-          "lat": -23.4706816,
-          "lon": -46.4623648
+          "referencia": "0.29 km de ENCAIXE EMPRESA DE TRANSPORTE LTDA (CUMBICA) - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 22:45:23",
+          "lat": -23.4542272,
+          "lon": -46.4709024
         },
-        "distancia_km": 524.5,
+        "distancia_km": 525.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074046-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 5536.57,
+        "frete_rs": 12529.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -411,7 +320,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:30:33",
+          "data_hora_posicao": "29/10/2026 22:44:32",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -426,9 +335,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 21219.74,
-        "frete_rs": 26201.510000000002,
-        "qtde": 2
+        "peso_kg": 26756.31,
+        "frete_rs": 38730.83,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 325.6,
@@ -450,8 +359,13 @@
         "peso_real_kg": 6321.45,
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "29/10/2026 22:45:58",
+          "lat": -26.8877152,
+          "lon": -48.7206752
+        },
+        "distancia_km": 420.2,
         "proximo": false
       },
       {
@@ -467,7 +381,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:30:54",
+          "data_hora_posicao": "29/10/2026 22:44:54",
           "lat": -29.9834208,
           "lon": -51.1866464
         },
@@ -487,7 +401,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:30:54",
+          "data_hora_posicao": "29/10/2026 22:44:54",
           "lat": -29.9834208,
           "lon": -51.1866464
         },
@@ -513,6 +427,87 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074042-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 7258.44,
+        "frete_rs": 12158.87,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.1 km de PEDAGIO - PRACA 11 (RAPOSO TAVARES INTERNA) - OSASCO/SP",
+          "data_hora_posicao": "29/10/2026 22:46:01",
+          "lat": -23.5955216,
+          "lon": -46.8113248
+        },
+        "distancia_km": 413.4,
+        "proximo": false
+      },
+      {
+        "manif": "POA016185-3",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3449.72,
+        "frete_rs": 8179.48,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de POSTO ROTA 101 JAGUARUNA - JAGUARUNA/SC",
+          "data_hora_posicao": "29/10/2026 22:44:30",
+          "lat": -28.6109995,
+          "lon": -49.0594331
+        },
+        "distancia_km": 194.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044093-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 7200.8,
+        "frete_rs": 4567.13,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.38 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "29/10/2026 22:45:26",
+          "lat": -26.874016,
+          "lon": -49.1898496
+        },
+        "distancia_km": 46.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 7258.44,
+        "frete_rs": 12158.87,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3449.72,
+        "frete_rs": 8179.48,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 7200.8,
+        "frete_rs": 4567.13,
+        "qtde": 1
+      }
+    }
+  },
   "CTB": {
     "veiculos": [
       {
@@ -527,12 +522,12 @@
         "frete_rs": 4726.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
-          "data_hora_posicao": "29/10/2026 22:29:45",
-          "lat": -23.5163648,
-          "lon": -46.6536992
+          "referencia": "0.53 km de POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "29/10/2026 22:45:45",
+          "lat": -23.5186112,
+          "lon": -46.7848544
         },
-        "distancia_km": 348.5,
+        "distancia_km": 338.2,
         "proximo": false
       },
       {
@@ -547,12 +542,12 @@
         "frete_rs": 5408.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.32 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "29/10/2026 22:30:07",
-          "lat": -26.9515328,
-          "lon": -49.3069536
+          "referencia": "0.38 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "29/10/2026 22:45:26",
+          "lat": -26.874016,
+          "lon": -49.1898496
         },
-        "distancia_km": 158.3,
+        "distancia_km": 150.1,
         "proximo": false
       }
     ],
@@ -595,6 +590,57 @@
       }
     }
   },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074047-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "QIV0I77",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 9430.3,
+        "frete_rs": 10743.74,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.1 km de MARSUL TRANSPORTES - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 22:46:05",
+          "lat": -23.4749566666667,
+          "lon": -46.4603316666667
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074048-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "QIV0I77",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 2027.5,
+        "frete_rs": 1380.82,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.1 km de MARSUL TRANSPORTES - GUARULHOS/SP",
+          "data_hora_posicao": "29/10/2026 22:46:05",
+          "lat": -23.4749566666667,
+          "lon": -46.4603316666667
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 11457.8,
+        "frete_rs": 12124.56,
+        "qtde": 2
+      }
+    }
+  },
   "ARR": {
     "veiculos": [
       {
@@ -610,7 +656,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:29:33",
+          "data_hora_posicao": "29/10/2026 22:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -641,7 +687,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:29:33",
+          "data_hora_posicao": "29/10/2026 22:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -672,7 +718,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "29/10/2026 22:29:33",
+          "data_hora_posicao": "29/10/2026 22:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -703,7 +749,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "29/10/2026 22:30:33",
+          "data_hora_posicao": "29/10/2026 22:44:32",
           "lat": -29.9837383333333,
           "lon": -51.1870383333333
         },
@@ -719,5 +765,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-29T22:32:26"
+  "_gerado_em": "2026-10-29T22:47:26"
 }
