@@ -13,12 +13,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.26 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 17:15:33",
-          "lat": -28.467568,
-          "lon": -49.0045344
+          "referencia": "3.15 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 17:29:33",
+          "lat": -28.4266752,
+          "lon": -48.8525696
         },
-        "distancia_km": 177.9,
+        "distancia_km": 171.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.26 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 17:15:33",
-          "lat": -28.467568,
-          "lon": -49.0045344
+          "referencia": "3.15 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 17:29:33",
+          "lat": -28.4266752,
+          "lon": -48.8525696
         },
-        "distancia_km": 177.9,
+        "distancia_km": 171.6,
         "proximo": false
       }
     ],
@@ -70,7 +70,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:15:40",
+          "data_hora_posicao": "30/10/2026 17:30:30",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 17:16:04",
+          "data_hora_posicao": "30/10/2026 17:30:04",
           "lat": -23.470528,
           "lon": -46.4620448
         },
@@ -110,11 +110,31 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:15:40",
+          "data_hora_posicao": "30/10/2026 17:30:30",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016193-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 3552.54,
+        "frete_rs": 5153.94,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "30/10/2026 17:30:01",
+          "lat": -29.9834496,
+          "lon": -51.1866176
+        },
+        "distancia_km": 343.3,
         "proximo": false
       }
     ],
@@ -130,9 +150,9 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 325.6,
-        "frete_rs": 593.95,
-        "qtde": 1
+        "peso_kg": 3878.14,
+        "frete_rs": 5747.889999999999,
+        "qtde": 2
       }
     }
   },
@@ -151,7 +171,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 17:15:40",
+          "data_hora_posicao": "30/10/2026 17:30:30",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -193,5 +213,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T17:18:00"
+  "_gerado_em": "2026-10-30T17:32:40"
 }
