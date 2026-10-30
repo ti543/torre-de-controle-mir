@@ -1,26 +1,62 @@
 {
-  "ITJ": {
+  "GRU": {
     "veiculos": [
       {
-        "manif": "BRQ000751-0",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 6868.27,
-        "frete_rs": 7410.92,
-        "grupo_origem": "Brusque",
+        "manif": "CMP010333-1",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "QIV0I77",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 2024.37,
+        "frete_rs": 4011.03,
+        "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.19 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 19:30:55",
-          "lat": -26.9154495,
-          "lon": -48.7107303
+          "referencia": "0.3 km de PEDAGIO - ITATIBA - ITATIBA/SP",
+          "data_hora_posicao": "30/10/2026 19:44:38",
+          "lat": -22.955475,
+          "lon": -46.857585
         },
-        "distancia_km": 3.3,
-        "proximo": true
+        "distancia_km": 70.1,
+        "proximo": false
       },
+      {
+        "manif": "CTB013530-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 14782.38,
+        "frete_rs": 13506.06,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.4 km de FRIGORIFICO DIPLOMATA - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:45:45",
+          "lat": -25.4626144,
+          "lon": -49.2509472
+        },
+        "distancia_km": 358.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 2024.37,
+        "frete_rs": 4011.03,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 14782.38,
+        "frete_rs": 13506.06,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
       {
         "manif": "CRC000393-0",
         "origin_unit": "CRC",
@@ -33,12 +69,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.02 km de POSTO APOLO FILIAL 8 (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BIGUACU/SC",
-          "data_hora_posicao": "30/10/2026 19:29:33",
-          "lat": -27.4136576,
-          "lon": -48.6269792
+          "referencia": "0.21 km de POSTO SILVESTRE (MODESTO) - TIJUCAS/SC",
+          "data_hora_posicao": "30/10/2026 19:45:33",
+          "lat": -27.2275424,
+          "lon": -48.628272
         },
-        "distancia_km": 59.2,
+        "distancia_km": 38.9,
         "proximo": false
       },
       {
@@ -53,10 +89,10 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:31:26",
-          "lat": -25.5277744,
-          "lon": -49.29552
+          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:45:52",
+          "lat": -25.5274768,
+          "lon": -49.2959392
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -73,21 +109,16 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.02 km de POSTO APOLO FILIAL 8 (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BIGUACU/SC",
-          "data_hora_posicao": "30/10/2026 19:29:33",
-          "lat": -27.4136576,
-          "lon": -48.6269792
+          "referencia": "0.21 km de POSTO SILVESTRE (MODESTO) - TIJUCAS/SC",
+          "data_hora_posicao": "30/10/2026 19:45:33",
+          "lat": -27.2275424,
+          "lon": -48.628272
         },
-        "distancia_km": 59.2,
+        "distancia_km": 38.9,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Brusque": {
-        "peso_kg": 6868.27,
-        "frete_rs": 7410.92,
-        "qtde": 1
-      },
       "CRC": {
         "peso_kg": 1914.35,
         "frete_rs": 1558.42,
@@ -101,62 +132,6 @@
       "TUB": {
         "peso_kg": 2378.61,
         "frete_rs": 4781.69,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010333-1",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "QIV0I77",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 2024.37,
-        "frete_rs": 4011.03,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "3.13 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
-          "data_hora_posicao": "30/10/2026 19:30:39",
-          "lat": -22.92858,
-          "lon": -46.9410183333333
-        },
-        "distancia_km": 77.6,
-        "proximo": false
-      },
-      {
-        "manif": "CTB013530-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 14782.38,
-        "frete_rs": 13506.06,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:31:11",
-          "lat": -25.5265376,
-          "lon": -49.2972704
-        },
-        "distancia_km": 366.8,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 2024.37,
-        "frete_rs": 4011.03,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 14782.38,
-        "frete_rs": 13506.06,
         "qtde": 1
       }
     }
@@ -175,10 +150,10 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:31:26",
-          "lat": -25.5277744,
-          "lon": -49.29552
+          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:45:52",
+          "lat": -25.5274768,
+          "lon": -49.2959392
         },
         "distancia_km": 189.9,
         "proximo": false
@@ -195,12 +170,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:27:59",
-          "lat": -27.3652,
-          "lon": -50.4330133333333
+          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:37:58",
+          "lat": -27.3052266666667,
+          "lon": -50.3973866666667
         },
-        "distancia_km": 79.4,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -215,12 +190,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.7 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 19:31:16",
-          "lat": -28.9721075,
-          "lon": -51.1755501
+          "referencia": "0.87 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 19:46:03",
+          "lat": -28.9157781,
+          "lon": -51.1908073
         },
-        "distancia_km": 246.9,
+        "distancia_km": 242.9,
         "proximo": false
       },
       {
@@ -235,12 +210,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de ESTACIONAMENTO WEST PARK - MAUA/SP",
-          "data_hora_posicao": "30/10/2026 19:30:04",
-          "lat": -23.6811088,
-          "lon": -46.4697824
+          "referencia": "0.38 km de PEDAGIO - P4 (SENTIDO IMIGRANTES SP) - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "30/10/2026 19:46:04",
+          "lat": -23.7637184,
+          "lon": -46.5852672
         },
-        "distancia_km": 505.5,
+        "distancia_km": 491.0,
         "proximo": false
       },
       {
@@ -255,12 +230,12 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:27:59",
-          "lat": -27.3652,
-          "lon": -50.4330133333333
+          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:37:58",
+          "lat": -27.3052266666667,
+          "lon": -50.3973866666667
         },
-        "distancia_km": 79.4,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -275,12 +250,12 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:27:59",
-          "lat": -27.3652,
-          "lon": -50.4330133333333
+          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:37:58",
+          "lat": -27.3052266666667,
+          "lon": -50.3973866666667
         },
-        "distancia_km": 79.4,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -295,12 +270,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.45 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "30/10/2026 19:27:59",
-          "lat": -27.3652,
-          "lon": -50.4330133333333
+          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:37:58",
+          "lat": -27.3052266666667,
+          "lon": -50.3973866666667
         },
-        "distancia_km": 79.4,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -315,12 +290,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.56 km de POSTO REGIS CHARRUA - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "30/10/2026 19:31:10",
-          "lat": -29.4129184,
-          "lon": -51.3539392
+          "referencia": "3.43 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "30/10/2026 19:46:12",
+          "lat": -29.2967904,
+          "lon": -51.334016
         },
-        "distancia_km": 296.7,
+        "distancia_km": 285.1,
         "proximo": false
       },
       {
@@ -335,12 +310,27 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.57 km de POSTO REGIS CHARRUA - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "30/10/2026 19:31:17",
-          "lat": -29.4130656,
-          "lon": -51.3540352
+          "referencia": "3.53 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "30/10/2026 19:46:16",
+          "lat": -29.2976544,
+          "lon": -51.3339232
         },
-        "distancia_km": 296.7,
+        "distancia_km": 285.1,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016297-3",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3275.4,
+        "frete_rs": 4097.57,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -364,34 +354,13 @@
         "peso_kg": 13550.43,
         "frete_rs": 13739.919999999998,
         "qtde": 3
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "RSL044101-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 426.72,
-        "frete_rs": 216.03,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 426.72,
-        "frete_rs": 216.03,
+      },
+      "Timbó": {
+        "peso_kg": 3275.4,
+        "frete_rs": 4097.57,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-10-30T19:32:37"
+  "_gerado_em": "2026-10-30T19:47:36"
 }
