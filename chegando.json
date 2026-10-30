@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "30/10/2026 16:45:33",
+          "data_hora_posicao": "30/10/2026 16:59:33",
           "lat": -28.4687168,
           "lon": -49.0188896
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:45:41",
+          "data_hora_posicao": "30/10/2026 16:59:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:45:41",
+          "data_hora_posicao": "30/10/2026 16:59:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -86,37 +86,6 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ023961-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RDW1H87",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 5242.58,
-        "frete_rs": 3533.56,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "30/10/2026 16:46:14",
-          "lat": -27.0963586,
-          "lon": -48.9307466
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5242.58,
-        "frete_rs": 3533.56,
-        "qtde": 1
-      }
-    }
-  },
   "LGS": {
     "veiculos": [
       {
@@ -132,7 +101,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 16:45:41",
+          "data_hora_posicao": "30/10/2026 16:59:40",
           "lat": -27.823825,
           "lon": -50.3627883333333
         },
@@ -174,5 +143,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T16:47:40"
+  "_gerado_em": "2026-10-30T17:02:49"
 }
