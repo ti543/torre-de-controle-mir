@@ -1,225 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CTB013523-2",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 8831.44,
-        "frete_rs": 6568.71,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 04:31:11",
-          "lat": -23.4709088,
-          "lon": -46.4613568
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023946-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6475.44,
-        "frete_rs": 8231.91,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "3.88 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "30/10/2026 04:27:44",
-          "lat": -24.9714944,
-          "lon": -48.3743488
-        },
-        "distancia_km": 255.8,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023947-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10693.6,
-        "frete_rs": 16058.5,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "3.88 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "30/10/2026 04:27:44",
-          "lat": -24.9714944,
-          "lon": -48.3743488
-        },
-        "distancia_km": 255.8,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023952-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 10505.3,
-        "frete_rs": 12664.53,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044087-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 29363.62,
-        "frete_rs": 22600.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.17 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 04:30:31",
-          "lat": -25.1410633333333,
-          "lon": -48.85601
-        },
-        "distancia_km": 305.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044090-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 303.0,
-        "frete_rs": 248.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.17 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 04:30:31",
-          "lat": -25.1410633333333,
-          "lon": -48.85601
-        },
-        "distancia_km": 305.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044094-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 32957.5,
-        "frete_rs": 18132.36,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "30/10/2026 04:30:16",
-          "lat": -25.1763728,
-          "lon": -48.8744736
-        },
-        "distancia_km": 309.4,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044098-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 10694.98,
-        "frete_rs": 16209.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044099-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 17825.7,
-        "frete_rs": 11639.59,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016284-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 2475.7,
-        "frete_rs": 3412.06,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016285-0",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6699.39,
-        "frete_rs": 11592.02,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 8831.44,
-        "frete_rs": 6568.71,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 27674.34,
-        "frete_rs": 36954.94,
-        "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 91144.79999999999,
-        "frete_rs": 68829.63,
-        "qtde": 5
-      },
-      "Timbó": {
-        "peso_kg": 9175.09,
-        "frete_rs": 15004.08,
-        "qtde": 2
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -235,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 04:31:04",
+          "data_hora_posicao": "30/10/2026 04:45:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -254,12 +33,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de FILIAL MIRIN - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 04:31:00",
-          "lat": -26.233152,
-          "lon": -48.9166496
+          "referencia": "0.06 km de SERAFIM TRANSPORTES - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 04:45:00",
+          "lat": -26.3785936,
+          "lon": -48.851872
         },
-        "distancia_km": 130.4,
+        "distancia_km": 121.4,
         "proximo": false
       },
       {
@@ -274,12 +53,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.56 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "30/10/2026 04:29:06",
-          "lat": -24.9606912,
-          "lon": -48.4175872
+          "referencia": "0.99 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 04:39:06",
+          "lat": -24.9726464,
+          "lon": -48.501888
         },
-        "distancia_km": 278.3,
+        "distancia_km": 273.5,
         "proximo": false
       },
       {
@@ -310,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 04:31:04",
+          "data_hora_posicao": "30/10/2026 04:45:04",
           "lat": -27.206144,
           "lon": -49.6495232
         },
@@ -329,12 +108,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO SAPUCAIA DO SUL - CARREFOUR - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 04:30:24",
-          "lat": -29.8055666666667,
-          "lon": -51.166525
+          "referencia": "0.21 km de POSTO SIM PORTÃO - PORTAO/RS",
+          "data_hora_posicao": "30/10/2026 04:45:09",
+          "lat": -29.6921516666667,
+          "lon": -51.2315883333333
         },
-        "distancia_km": 324.8,
+        "distancia_km": 316.8,
         "proximo": false
       }
     ],
@@ -375,12 +154,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "30/10/2026 04:29:58",
-          "lat": -28.6760512,
-          "lon": -49.1281248
+          "referencia": "0.64 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
+          "data_hora_posicao": "30/10/2026 04:45:58",
+          "lat": -28.7714304,
+          "lon": -49.3087776
         },
-        "distancia_km": 246.9,
+        "distancia_km": 226.4,
         "proximo": false
       },
       {
@@ -395,12 +174,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.1 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "30/10/2026 04:29:58",
-          "lat": -28.6760512,
-          "lon": -49.1281248
+          "referencia": "0.64 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
+          "data_hora_posicao": "30/10/2026 04:45:58",
+          "lat": -28.7714304,
+          "lon": -49.3087776
         },
-        "distancia_km": 246.9,
+        "distancia_km": 226.4,
         "proximo": false
       },
       {
@@ -416,7 +195,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 04:31:25",
+          "data_hora_posicao": "30/10/2026 04:43:25",
           "lat": -29.983344,
           "lon": -51.186656
         },
@@ -436,7 +215,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 04:31:25",
+          "data_hora_posicao": "30/10/2026 04:43:25",
           "lat": -29.983344,
           "lon": -51.186656
         },
@@ -481,12 +260,12 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.4 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 04:30:59",
-          "lat": -25.082376,
-          "lon": -48.6146976
+          "referencia": "2.18 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 04:44:34",
+          "lat": -25.1081904,
+          "lon": -48.7721632
         },
-        "distancia_km": 201.0,
+        "distancia_km": 197.9,
         "proximo": false
       },
       {
@@ -501,12 +280,12 @@
         "frete_rs": 8179.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.81 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
-          "data_hora_posicao": "30/10/2026 04:30:39",
-          "lat": -28.431815,
-          "lon": -48.9546881
+          "referencia": "0.18 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 04:44:37",
+          "lat": -28.4213656,
+          "lon": -48.797937
         },
-        "distancia_km": 173.3,
+        "distancia_km": 170.7,
         "proximo": false
       }
     ],
@@ -538,7 +317,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 04:29:45",
+          "data_hora_posicao": "30/10/2026 04:45:45",
           "lat": -25.5276336,
           "lon": -49.295344
         },
@@ -558,9 +337,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 04:31:26",
-          "lat": -25.5275904,
-          "lon": -49.2955008
+          "data_hora_posicao": "30/10/2026 04:45:26",
+          "lat": -25.5275728,
+          "lon": -49.295504
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -578,9 +357,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 04:31:26",
-          "lat": -25.5275904,
-          "lon": -49.2955008
+          "data_hora_posicao": "30/10/2026 04:45:26",
+          "lat": -25.5275728,
+          "lon": -49.295504
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -645,9 +424,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 04:31:10",
-          "lat": -22.8469366666667,
-          "lon": -47.124795
+          "data_hora_posicao": "30/10/2026 04:45:10",
+          "lat": -22.8469633333333,
+          "lon": -47.1248
         },
         "distancia_km": null,
         "proximo": false
@@ -665,9 +444,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "30/10/2026 04:31:10",
-          "lat": -22.8469366666667,
-          "lon": -47.124795
+          "data_hora_posicao": "30/10/2026 04:45:10",
+          "lat": -22.8469633333333,
+          "lon": -47.1248
         },
         "distancia_km": null,
         "proximo": false
@@ -677,6 +456,202 @@
       "Guarulhos": {
         "peso_kg": 11457.8,
         "frete_rs": 12124.56,
+        "qtde": 2
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ023946-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 6475.44,
+        "frete_rs": 8231.91,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.34 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 04:38:53",
+          "lat": -24.9155776,
+          "lon": -48.2555136
+        },
+        "distancia_km": 242.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023947-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10693.6,
+        "frete_rs": 16058.5,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.34 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 04:38:53",
+          "lat": -24.9155776,
+          "lon": -48.2555136
+        },
+        "distancia_km": 242.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023952-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 10505.3,
+        "frete_rs": 12664.53,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044087-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 29363.62,
+        "frete_rs": 22600.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.17 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 04:45:01",
+          "lat": -25.141075,
+          "lon": -48.8560166666667
+        },
+        "distancia_km": 305.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044090-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 303.0,
+        "frete_rs": 248.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.17 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 04:45:01",
+          "lat": -25.141075,
+          "lon": -48.8560166666667
+        },
+        "distancia_km": 305.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044094-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 32957.5,
+        "frete_rs": 18132.36,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.43 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 04:46:16",
+          "lat": -25.1434096,
+          "lon": -48.8570336
+        },
+        "distancia_km": 305.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044098-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 10694.98,
+        "frete_rs": 16209.02,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044099-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 17825.7,
+        "frete_rs": 11639.59,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016284-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2475.7,
+        "frete_rs": 3412.06,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016285-0",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 6699.39,
+        "frete_rs": 11592.02,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 27674.34,
+        "frete_rs": 36954.94,
+        "qtde": 3
+      },
+      "Rio do Sul": {
+        "peso_kg": 91144.79999999999,
+        "frete_rs": 68829.63,
+        "qtde": 5
+      },
+      "Timbó": {
+        "peso_kg": 9175.09,
+        "frete_rs": 15004.08,
         "qtde": 2
       }
     }
@@ -696,7 +671,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 04:29:33",
+          "data_hora_posicao": "30/10/2026 04:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -727,7 +702,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 04:29:33",
+          "data_hora_posicao": "30/10/2026 04:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -758,7 +733,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 04:29:33",
+          "data_hora_posicao": "30/10/2026 04:45:33",
           "lat": -26.887424,
           "lon": -48.7211488
         },
@@ -788,10 +763,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO SAPUCAIA DO SUL - CARREFOUR - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 04:30:24",
-          "lat": -29.8055666666667,
-          "lon": -51.166525
+          "referencia": "0.21 km de POSTO SIM PORTÃO - PORTAO/RS",
+          "data_hora_posicao": "30/10/2026 04:45:09",
+          "lat": -29.6921516666667,
+          "lon": -51.2315883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -805,5 +780,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T04:32:35"
+  "_gerado_em": "2026-10-30T04:47:36"
 }
