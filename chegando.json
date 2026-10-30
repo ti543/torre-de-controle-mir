@@ -13,12 +13,12 @@
         "frete_rs": 7410.92,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO IPIRANGA - BRUSQUE/SC",
-          "data_hora_posicao": "30/10/2026 19:00:50",
-          "lat": -27.0378188,
-          "lon": -48.8620795
+          "referencia": "0.3 km de ADUANA/PORTO SECO - MULTILOG S/A (CLIA) - ITAJAI/SC",
+          "data_hora_posicao": "30/10/2026 19:15:30",
+          "lat": -26.9484763,
+          "lon": -48.7492031
         },
-        "distancia_km": 21.8,
+        "distancia_km": 7.3,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.24 km de VENTISOL INDUSTRIA E COMERCIO LTDA (DEPÓSITO) - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 18:59:33",
-          "lat": -27.6233024,
-          "lon": -48.652144
+          "referencia": "0.36 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "30/10/2026 19:15:33",
+          "lat": -27.5497728,
+          "lon": -48.6195488
         },
-        "distancia_km": 82.1,
+        "distancia_km": 74.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.24 km de VENTISOL INDUSTRIA E COMERCIO LTDA (DEPÓSITO) - PALHOCA/SC",
-          "data_hora_posicao": "30/10/2026 18:59:33",
-          "lat": -27.6233024,
-          "lon": -48.652144
+          "referencia": "0.36 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "30/10/2026 19:15:33",
+          "lat": -27.5497728,
+          "lon": -48.6195488
         },
-        "distancia_km": 82.1,
+        "distancia_km": 74.3,
         "proximo": false
       }
     ],
@@ -80,6 +80,37 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010333-1",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "QIV0I77",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 2024.37,
+        "frete_rs": 4011.03,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.42 km de POSTO CEASA LM - CAMPINAS/SP",
+          "data_hora_posicao": "30/10/2026 19:15:47",
+          "lat": -22.84775,
+          "lon": -47.094485
+        },
+        "distancia_km": 94.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 2024.37,
+        "frete_rs": 4011.03,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -94,12 +125,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 18:59:29",
-          "lat": -27.6331033333333,
-          "lon": -50.3400533333333
+          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:15:39",
+          "lat": -27.4765566666667,
+          "lon": -50.3809183333333
         },
-        "distancia_km": 83.1,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -114,12 +145,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de VIDRO FORTE INDÚSTRIA COMÉRCIO - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 19:01:13",
-          "lat": -29.1448315,
-          "lon": -51.1726166
+          "referencia": "0.7 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 19:16:19",
+          "lat": -29.0815826,
+          "lon": -51.1918516
         },
-        "distancia_km": 262.2,
+        "distancia_km": 257.6,
         "proximo": false
       },
       {
@@ -134,12 +165,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.29 km de 63º DISTRITO POLICIAL - SAO PAULO/SP",
-          "data_hora_posicao": "30/10/2026 19:00:04",
-          "lat": -23.5176256,
-          "lon": -46.4558464
+          "referencia": "0.37 km de CARREFOUR HIPERMERCADO PÊSSEGO - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 19:16:04",
+          "lat": -23.5727488,
+          "lon": -46.4461632
         },
-        "distancia_km": 520.7,
+        "distancia_km": 516.4,
         "proximo": false
       },
       {
@@ -154,12 +185,12 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 18:59:29",
-          "lat": -27.6331033333333,
-          "lon": -50.3400533333333
+          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:15:39",
+          "lat": -27.4765566666667,
+          "lon": -50.3809183333333
         },
-        "distancia_km": 83.1,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -174,12 +205,12 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 18:59:29",
-          "lat": -27.6331033333333,
-          "lon": -50.3400533333333
+          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:15:39",
+          "lat": -27.4765566666667,
+          "lon": -50.3809183333333
         },
-        "distancia_km": 83.1,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -194,12 +225,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 18:59:29",
-          "lat": -27.6331033333333,
-          "lon": -50.3400533333333
+          "referencia": "0.6 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 19:15:39",
+          "lat": -27.4765566666667,
+          "lon": -50.3809183333333
         },
-        "distancia_km": 83.1,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -214,12 +245,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.36 km de SUVESA CONCESSIONARIA SCANIA - PORTAO/RS",
-          "data_hora_posicao": "30/10/2026 18:59:58",
-          "lat": -29.7037344,
-          "lon": -51.2020288
+          "referencia": "0.39 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "30/10/2026 19:15:58",
+          "lat": -29.5875104,
+          "lon": -51.354256
         },
-        "distancia_km": 316.5,
+        "distancia_km": 312.9,
         "proximo": false
       },
       {
@@ -234,12 +265,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO IBP - PORTAO/RS",
-          "data_hora_posicao": "30/10/2026 19:01:05",
-          "lat": -29.700016,
-          "lon": -51.2145952
+          "referencia": "1.7 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "30/10/2026 19:15:05",
+          "lat": -29.5992544,
+          "lon": -51.3537088
         },
-        "distancia_km": 316.7,
+        "distancia_km": 314.0,
         "proximo": false
       }
     ],
@@ -287,5 +318,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T19:02:36"
+  "_gerado_em": "2026-10-30T19:17:36"
 }
