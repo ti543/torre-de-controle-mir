@@ -14,46 +14,11 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:44:55",
+          "data_hora_posicao": "30/10/2026 14:00:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
         "distancia_km": 98.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074044-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 17308.22,
-        "frete_rs": 17930.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 13:44:38",
-          "lat": -27.2057376,
-          "lon": -49.6490112
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074046-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 5536.57,
-        "frete_rs": 12529.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
         "proximo": false
       },
       {
@@ -69,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:44:55",
+          "data_hora_posicao": "30/10/2026 14:00:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
@@ -82,11 +47,6 @@
         "peso_kg": 5981.14,
         "frete_rs": 9538.09,
         "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 22844.79,
-        "frete_rs": 30459.64,
-        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 325.6,
@@ -175,10 +135,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.84 km de MULTI EXPRESS - ICARA/SC",
-          "data_hora_posicao": "30/10/2026 13:45:38",
-          "lat": -28.7476544,
-          "lon": -49.3328544
+          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "30/10/2026 14:00:01",
+          "lat": -28.6901504,
+          "lon": -49.3155904
         },
         "distancia_km": null,
         "proximo": false
@@ -207,7 +167,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 13:44:55",
+          "data_hora_posicao": "30/10/2026 14:00:55",
           "lat": -27.823825,
           "lon": -50.362945
         },
@@ -237,10 +197,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.62 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 13:46:29",
-          "lat": -28.9478113,
-          "lon": -51.1788825
+          "referencia": "4.61 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 13:58:50",
+          "lat": -28.947761,
+          "lon": -51.1788465
         },
         "distancia_km": null,
         "proximo": false
@@ -254,5 +214,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T13:47:37"
+  "_gerado_em": "2026-10-30T14:02:26"
 }
