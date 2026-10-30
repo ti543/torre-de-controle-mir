@@ -13,10 +13,10 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:53:23",
-          "lat": -28.0065066666667,
-          "lon": -50.54096
+          "referencia": "0.03 km de QUEIJO & CIA - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 12:13:23",
+          "lat": -28.0064533333333,
+          "lon": -50.5409066666667
         },
         "distancia_km": 125.0,
         "proximo": false
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.25 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "30/10/2026 12:00:38",
+          "data_hora_posicao": "30/10/2026 12:14:38",
           "lat": -27.0528128,
           "lon": -49.3901408
         },
@@ -68,10 +68,10 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:53:23",
-          "lat": -28.0065066666667,
-          "lon": -50.54096
+          "referencia": "0.03 km de QUEIJO & CIA - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 12:13:23",
+          "lat": -28.0064533333333,
+          "lon": -50.5409066666667
         },
         "distancia_km": 125.0,
         "proximo": false
@@ -161,37 +161,6 @@
       }
     }
   },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ023948-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1125.97,
-        "frete_rs": 2010.86,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 11:59:33",
-          "lat": -28.9752288,
-          "lon": -49.5331392
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 1125.97,
-        "frete_rs": 2010.86,
-        "qtde": 1
-      }
-    }
-  },
   "CRC": {
     "veiculos": [
       {
@@ -207,7 +176,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.3 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "30/10/2026 11:59:33",
+          "data_hora_posicao": "30/10/2026 12:15:33",
           "lat": -28.9752288,
           "lon": -49.5331392
         },
@@ -252,10 +221,10 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:00:04",
-          "lat": -23.470575,
-          "lon": -46.46223
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 12:14:33",
+          "lat": -23.470625,
+          "lon": -46.462205
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -272,10 +241,10 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:00:04",
-          "lat": -23.470575,
-          "lon": -46.46223
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 12:14:33",
+          "lat": -23.470625,
+          "lon": -46.462205
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -293,7 +262,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 12:00:16",
+          "data_hora_posicao": "30/10/2026 12:14:16",
           "lat": -23.4704432,
           "lon": -46.4620288
         },
@@ -393,10 +362,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 11:53:23",
-          "lat": -28.0065066666667,
-          "lon": -50.54096
+          "referencia": "0.03 km de QUEIJO & CIA - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 12:13:23",
+          "lat": -28.0064533333333,
+          "lon": -50.5409066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -424,10 +393,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 11:59:00",
-          "lat": -28.9080411,
-          "lon": -51.1932596
+          "referencia": "4.05 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 12:15:14",
+          "lat": -28.9444426,
+          "lon": -51.1882378
         },
         "distancia_km": null,
         "proximo": false
@@ -441,5 +410,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T12:02:24"
+  "_gerado_em": "2026-10-30T12:17:38"
 }
