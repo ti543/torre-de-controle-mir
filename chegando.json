@@ -13,12 +13,12 @@
         "frete_rs": 4011.03,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.3 km de PEDAGIO - ITATIBA - ITATIBA/SP",
-          "data_hora_posicao": "30/10/2026 19:44:38",
-          "lat": -22.955475,
-          "lon": -46.857585
+          "referencia": "0.08 km de POSTO PETROBRAS - ITATIBA/SP",
+          "data_hora_posicao": "30/10/2026 20:00:39",
+          "lat": -22.979885,
+          "lon": -46.8264233333333
         },
-        "distancia_km": 70.1,
+        "distancia_km": 66.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.4 km de FRIGORIFICO DIPLOMATA - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:45:45",
-          "lat": -25.4626144,
-          "lon": -49.2509472
+          "referencia": "0.75 km de IRMAOS MUFFATO E CIA LTDA - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 19:59:45",
+          "lat": -25.4085184,
+          "lon": -49.2193216
         },
-        "distancia_km": 358.8,
+        "distancia_km": 352.6,
         "proximo": false
       }
     ],
@@ -69,13 +69,13 @@
         "frete_rs": 1558.42,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO SILVESTRE (MODESTO) - TIJUCAS/SC",
-          "data_hora_posicao": "30/10/2026 19:45:33",
-          "lat": -27.2275424,
-          "lon": -48.628272
+          "referencia": "0.55 km de PRF - ITAPEMA/SC",
+          "data_hora_posicao": "30/10/2026 20:01:07",
+          "lat": -27.061072,
+          "lon": -48.5962112
         },
-        "distancia_km": 38.9,
-        "proximo": false
+        "distancia_km": 22.9,
+        "proximo": true
       },
       {
         "manif": "CTB013533-0",
@@ -89,12 +89,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:45:52",
-          "lat": -25.5274768,
-          "lon": -49.2959392
+          "referencia": "0.09 km de PRTRAC - AUTORIZADA AUTOTRAC - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 20:01:26",
+          "lat": -25.5543792,
+          "lon": -49.2749632
         },
-        "distancia_km": 161.7,
+        "distancia_km": 158.2,
         "proximo": false
       },
       {
@@ -109,13 +109,13 @@
         "frete_rs": 4781.69,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO SILVESTRE (MODESTO) - TIJUCAS/SC",
-          "data_hora_posicao": "30/10/2026 19:45:33",
-          "lat": -27.2275424,
-          "lon": -48.628272
+          "referencia": "0.55 km de PRF - ITAPEMA/SC",
+          "data_hora_posicao": "30/10/2026 20:01:07",
+          "lat": -27.061072,
+          "lon": -48.5962112
         },
-        "distancia_km": 38.9,
-        "proximo": false
+        "distancia_km": 22.9,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -150,12 +150,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "30/10/2026 19:45:52",
-          "lat": -25.5274768,
-          "lon": -49.2959392
+          "referencia": "0.09 km de PRTRAC - AUTORIZADA AUTOTRAC - CURITIBA/PR",
+          "data_hora_posicao": "30/10/2026 20:01:26",
+          "lat": -25.5543792,
+          "lon": -49.2749632
         },
-        "distancia_km": 189.9,
+        "distancia_km": 187.4,
         "proximo": false
       },
       {
@@ -170,12 +170,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 19:37:58",
-          "lat": -27.3052266666667,
-          "lon": -50.3973866666667
+          "referencia": "4.85 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:57:59",
+          "lat": -27.29384,
+          "lon": -50.1870933333333
         },
-        "distancia_km": 74.7,
+        "distancia_km": 54.0,
         "proximo": false
       },
       {
@@ -190,12 +190,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.87 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 19:46:03",
-          "lat": -28.9157781,
-          "lon": -51.1908073
+          "referencia": "0.63 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 20:01:19",
+          "lat": -28.8442411,
+          "lon": -51.2639886
         },
-        "distancia_km": 242.9,
+        "distancia_km": 241.4,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.38 km de PEDAGIO - P4 (SENTIDO IMIGRANTES SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "30/10/2026 19:46:04",
-          "lat": -23.7637184,
-          "lon": -46.5852672
+          "referencia": "2.94 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "30/10/2026 20:00:04",
+          "lat": -23.8007792,
+          "lon": -46.7396576
         },
-        "distancia_km": 491.0,
+        "distancia_km": 478.1,
         "proximo": false
       },
       {
@@ -230,12 +230,12 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 19:37:58",
-          "lat": -27.3052266666667,
-          "lon": -50.3973866666667
+          "referencia": "4.85 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:57:59",
+          "lat": -27.29384,
+          "lon": -50.1870933333333
         },
-        "distancia_km": 74.7,
+        "distancia_km": 54.0,
         "proximo": false
       },
       {
@@ -250,12 +250,12 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 19:37:58",
-          "lat": -27.3052266666667,
-          "lon": -50.3973866666667
+          "referencia": "4.85 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:57:59",
+          "lat": -27.29384,
+          "lon": -50.1870933333333
         },
-        "distancia_km": 74.7,
+        "distancia_km": 54.0,
         "proximo": false
       },
       {
@@ -270,12 +270,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.45 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 19:37:58",
-          "lat": -27.3052266666667,
-          "lon": -50.3973866666667
+          "referencia": "4.85 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 19:57:59",
+          "lat": -27.29384,
+          "lon": -50.1870933333333
         },
-        "distancia_km": 74.7,
+        "distancia_km": 54.0,
         "proximo": false
       },
       {
@@ -290,12 +290,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.43 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "30/10/2026 19:46:12",
-          "lat": -29.2967904,
-          "lon": -51.334016
+          "referencia": "0.13 km de POSTO IPIRANGA FORQUETA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 19:59:58",
+          "lat": -29.2097376,
+          "lon": -51.2863744
         },
-        "distancia_km": 285.1,
+        "distancia_km": 274.5,
         "proximo": false
       },
       {
@@ -310,12 +310,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.53 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "30/10/2026 19:46:16",
-          "lat": -29.2976544,
-          "lon": -51.3339232
+          "referencia": "0.59 km de FRAS-LE S/A - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "30/10/2026 20:01:05",
+          "lat": -29.2037376,
+          "lon": -51.2742624
         },
-        "distancia_km": 285.1,
+        "distancia_km": 273.3,
         "proximo": false
       },
       {
@@ -362,5 +362,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T19:47:36"
+  "_gerado_em": "2026-10-30T20:02:38"
 }
