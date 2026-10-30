@@ -13,12 +13,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.39 km de VIDRO FORTE INDÚSTRIA COMÉRCIO - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 07:59:40",
-          "lat": -29.149765,
-          "lon": -51.172945
+          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 08:15:48",
+          "lat": -29.0795016666667,
+          "lon": -51.190865
         },
-        "distancia_km": 262.7,
+        "distancia_km": 257.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 8271.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de PRF - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 08:01:00",
-          "lat": -27.1720192,
-          "lon": -49.5812448
+          "referencia": "0.64 km de CD RIO DO SUL - RDS - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 08:15:00",
+          "lat": -27.1897952,
+          "lon": -49.6192736
         },
-        "distancia_km": 7.8,
+        "distancia_km": 3.5,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 17930.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de CONCESSIONARIA MERCEDES BENZ - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 08:00:38",
-          "lat": -26.3291152,
-          "lon": -48.8631328
+          "referencia": "0.03 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 08:16:24",
+          "lat": -26.4366704,
+          "lon": -48.8140192
         },
-        "distancia_km": 124.9,
+        "distancia_km": 119.1,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.39 km de VIDRO FORTE INDÚSTRIA COMÉRCIO - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 07:59:40",
-          "lat": -29.149765,
-          "lon": -51.172945
+          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 08:15:48",
+          "lat": -29.0795016666667,
+          "lon": -51.190865
         },
-        "distancia_km": 262.7,
+        "distancia_km": 257.3,
         "proximo": false
       }
     ],
@@ -129,12 +129,12 @@
         "frete_rs": 8273.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.54 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "30/10/2026 07:59:58",
-          "lat": -29.880368,
-          "lon": -50.5166624
+          "referencia": "4 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "30/10/2026 08:16:10",
+          "lat": -29.899904,
+          "lon": -50.7422144
         },
-        "distancia_km": 65.6,
+        "distancia_km": 43.8,
         "proximo": false
       },
       {
@@ -149,12 +149,12 @@
         "frete_rs": 11858.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.54 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "30/10/2026 07:59:58",
-          "lat": -29.880368,
-          "lon": -50.5166624
+          "referencia": "4 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "30/10/2026 08:16:10",
+          "lat": -29.899904,
+          "lon": -50.7422144
         },
-        "distancia_km": 65.6,
+        "distancia_km": 43.8,
         "proximo": false
       },
       {
@@ -170,27 +170,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 07:59:25",
-          "lat": -29.9833408,
-          "lon": -51.186656
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044075-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 6754.95,
-        "frete_rs": 6360.76,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "30/10/2026 07:59:25",
+          "data_hora_posicao": "30/10/2026 08:15:25",
           "lat": -29.9833408,
           "lon": -51.186656
         },
@@ -213,11 +193,6 @@
         "peso_kg": 876.45,
         "frete_rs": 655.46,
         "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6754.95,
-        "frete_rs": 6360.76,
-        "qtde": 1
       }
     }
   },
@@ -235,13 +210,13 @@
         "frete_rs": 12158.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 08:00:34",
-          "lat": -26.5538656,
-          "lon": -48.7200064
+          "referencia": "0.41 km de CDH HAVAN - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 08:16:34",
+          "lat": -26.632744,
+          "lon": -48.702352
         },
-        "distancia_km": 37.1,
-        "proximo": false
+        "distancia_km": 28.4,
+        "proximo": true
       },
       {
         "manif": "POA016185-3",
@@ -256,7 +231,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "30/10/2026 07:59:41",
+          "data_hora_posicao": "30/10/2026 08:15:41",
           "lat": -26.8877111,
           "lon": -48.7206393
         },
@@ -317,12 +292,12 @@
         "frete_rs": 8231.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "7.14 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 07:50:54",
-          "lat": -24.0987392,
-          "lon": -47.2545792
+          "referencia": "3.53 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "30/10/2026 08:15:22",
+          "lat": -23.950504,
+          "lon": -47.101392
         },
-        "distancia_km": 106.7,
+        "distancia_km": 84.2,
         "proximo": false
       },
       {
@@ -337,12 +312,12 @@
         "frete_rs": 16058.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "7.14 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 07:50:54",
-          "lat": -24.0987392,
-          "lon": -47.2545792
+          "referencia": "3.53 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "30/10/2026 08:15:22",
+          "lat": -23.950504,
+          "lon": -47.101392
         },
-        "distancia_km": 106.7,
+        "distancia_km": 84.2,
         "proximo": false
       },
       {
@@ -372,12 +347,12 @@
         "frete_rs": 22600.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "30/10/2026 07:59:11",
-          "lat": -24.3922716666667,
-          "lon": -47.723355
+          "referencia": "0.59 km de M. MOHRING COMERCIO E SERVICOS LTDA - ME - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:15:26",
+          "lat": -24.3215083333333,
+          "lon": -47.53719
         },
-        "distancia_km": 164.1,
+        "distancia_km": 144.6,
         "proximo": false
       },
       {
@@ -392,12 +367,12 @@
         "frete_rs": 248.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "30/10/2026 07:59:11",
-          "lat": -24.3922716666667,
-          "lon": -47.723355
+          "referencia": "0.59 km de M. MOHRING COMERCIO E SERVICOS LTDA - ME - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:15:26",
+          "lat": -24.3215083333333,
+          "lon": -47.53719
         },
-        "distancia_km": 164.1,
+        "distancia_km": 144.6,
         "proximo": false
       },
       {
@@ -412,12 +387,12 @@
         "frete_rs": 18132.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de CHURRASCARIA REI DO CUPIM - MIRACATU/SP",
-          "data_hora_posicao": "30/10/2026 08:00:16",
-          "lat": -24.311312,
-          "lon": -47.5122368
+          "referencia": "0.33 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
+          "data_hora_posicao": "30/10/2026 08:14:16",
+          "lat": -24.2526128,
+          "lon": -47.3739552
         },
-        "distancia_km": 141.9,
+        "distancia_km": 127.1,
         "proximo": false
       },
       {
@@ -513,10 +488,10 @@
         "frete_rs": 2010.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "30/10/2026 07:59:33",
-          "lat": -28.297824,
-          "lon": -48.7158112
+          "referencia": "0.84 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 08:15:33",
+          "lat": -28.44056,
+          "lon": -48.8152288
         },
         "distancia_km": null,
         "proximo": false
@@ -544,10 +519,10 @@
         "frete_rs": 2156.87,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "30/10/2026 07:59:33",
-          "lat": -28.297824,
-          "lon": -48.7158112
+          "referencia": "0.84 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 08:15:33",
+          "lat": -28.44056,
+          "lon": -48.8152288
         },
         "distancia_km": null,
         "proximo": false
@@ -575,10 +550,10 @@
         "frete_rs": 8182.76,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "30/10/2026 07:59:33",
-          "lat": -28.297824,
-          "lon": -48.7158112
+          "referencia": "0.84 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "30/10/2026 08:15:33",
+          "lat": -28.44056,
+          "lon": -48.8152288
         },
         "distancia_km": null,
         "proximo": false
@@ -606,10 +581,10 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.39 km de VIDRO FORTE INDÚSTRIA COMÉRCIO - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "30/10/2026 07:59:40",
-          "lat": -29.149765,
-          "lon": -51.172945
+          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "30/10/2026 08:15:48",
+          "lat": -29.0795016666667,
+          "lon": -51.190865
         },
         "distancia_km": null,
         "proximo": false
@@ -626,10 +601,10 @@
         "frete_rs": 2960.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 07:58:38",
-          "lat": -27.8238366,
-          "lon": -50.3627841
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 08:15:44",
+          "lat": -27.8237881,
+          "lon": -50.362754
         },
         "distancia_km": null,
         "proximo": false
@@ -662,10 +637,10 @@
         "frete_rs": 2587.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 07:58:38",
-          "lat": -27.8238366,
-          "lon": -50.3627841
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 08:15:44",
+          "lat": -27.8237881,
+          "lon": -50.362754
         },
         "distancia_km": null,
         "proximo": false
@@ -679,5 +654,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T08:02:36"
+  "_gerado_em": "2026-10-30T08:17:43"
 }
