@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 12:16:04",
+          "data_hora_posicao": "31/10/2026 12:30:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
-          "data_hora_posicao": "31/10/2026 12:16:22",
-          "lat": -26.8878176,
-          "lon": -49.25256
+          "referencia": "0.85 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "31/10/2026 12:30:22",
+          "lat": -26.9491072,
+          "lon": -49.3676096
         },
-        "distancia_km": 52.9,
+        "distancia_km": 40.0,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
-          "data_hora_posicao": "31/10/2026 12:16:22",
-          "lat": -26.8878176,
-          "lon": -49.25256
+          "referencia": "0.85 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "31/10/2026 12:30:22",
+          "lat": -26.9491072,
+          "lon": -49.3676096
         },
-        "distancia_km": 52.9,
+        "distancia_km": 40.0,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3476.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 12:16:37",
-          "lat": -26.8873708,
-          "lon": -48.7210638
+          "referencia": "0.08 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
+          "data_hora_posicao": "31/10/2026 12:30:36",
+          "lat": -26.8861681,
+          "lon": -48.7239436
         },
-        "distancia_km": 98.6,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -154,10 +154,10 @@
         "frete_rs": 6770.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 12:16:26",
-          "lat": -27.2060096,
-          "lon": -49.6492544
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "31/10/2026 12:29:33",
+          "lat": -27.2059744,
+          "lon": -49.6489056
         },
         "distancia_km": null,
         "proximo": false
@@ -191,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 12:16:16",
+          "data_hora_posicao": "31/10/2026 12:30:16",
           "lat": -26.8874752,
           "lon": -48.7231456
         },
@@ -210,12 +210,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de CARDOSO GUINCHO - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "31/10/2026 12:15:00",
-          "lat": -26.7230048,
-          "lon": -48.7022976
+          "referencia": "0.65 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "31/10/2026 12:31:00",
+          "lat": -26.756832,
+          "lon": -48.6888832
         },
-        "distancia_km": 18.4,
+        "distancia_km": 14.9,
         "proximo": true
       }
     ],
@@ -242,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 12:16:09",
+          "data_hora_posicao": "31/10/2026 12:30:29",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 12:16:09",
+          "data_hora_posicao": "31/10/2026 12:30:29",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -374,5 +374,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T12:17:42"
+  "_gerado_em": "2026-10-31T12:32:32"
 }
