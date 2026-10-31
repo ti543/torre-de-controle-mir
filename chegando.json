@@ -2,26 +2,6 @@
   "RSL": {
     "veiculos": [
       {
-        "manif": "CXS002232-2",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 2922.08,
-        "frete_rs": 4994.9,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 07:58:01",
-          "lat": -27.205939,
-          "lon": -49.6494493
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "GRU074094-2",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -33,12 +13,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.81 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
-          "data_hora_posicao": "31/10/2026 08:00:04",
-          "lat": -26.8821152,
-          "lon": -49.1591552
+          "referencia": "3.63 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "31/10/2026 08:16:04",
+          "lat": -26.9235584,
+          "lon": -49.2835264
         },
-        "distancia_km": 60.5,
+        "distancia_km": 48.0,
         "proximo": false
       },
       {
@@ -53,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.03 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "31/10/2026 08:00:22",
-          "lat": -25.19852,
-          "lon": -48.894656
+          "referencia": "2.06 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "31/10/2026 08:14:22",
+          "lat": -25.3077952,
+          "lon": -48.9805728
         },
-        "distancia_km": 235.6,
+        "distancia_km": 221.4,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.03 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "31/10/2026 08:00:22",
-          "lat": -25.19852,
-          "lon": -48.894656
+          "referencia": "2.06 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "31/10/2026 08:14:22",
+          "lat": -25.3077952,
+          "lon": -48.9805728
         },
-        "distancia_km": 235.6,
+        "distancia_km": 221.4,
         "proximo": false
       },
       {
@@ -95,58 +75,13 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "POA016193-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 3552.54,
-        "frete_rs": 5153.94,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016194-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 9672.29,
-        "frete_rs": 7992.03,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 08:01:05",
-          "lat": -27.2060096,
-          "lon": -49.6492608
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 2922.08,
-        "frete_rs": 4994.9,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 30046.91,
         "frete_rs": 42477.72,
         "qtde": 4
-      },
-      "Porto Alegre": {
-        "peso_kg": 13224.830000000002,
-        "frete_rs": 13145.97,
-        "qtde": 2
       }
     }
   },
@@ -195,7 +130,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "31/10/2026 07:59:33",
+          "data_hora_posicao": "31/10/2026 08:15:33",
           "lat": -26.8424032,
           "lon": -49.2724416
         },
@@ -230,12 +165,12 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
-          "data_hora_posicao": "31/10/2026 08:00:16",
-          "lat": -25.8869248,
-          "lon": -48.9348608
+          "referencia": "0.81 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "31/10/2026 08:16:16",
+          "lat": -26.0448528,
+          "lon": -48.859664
         },
-        "distancia_km": 113.3,
+        "distancia_km": 94.7,
         "proximo": false
       },
       {
@@ -250,12 +185,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.7 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "31/10/2026 07:57:00",
-          "lat": -24.9865136,
-          "lon": -48.5076576
+          "referencia": "1.04 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "31/10/2026 08:15:00",
+          "lat": -25.0832544,
+          "lon": -48.6112928
         },
-        "distancia_km": 212.5,
+        "distancia_km": 200.9,
         "proximo": false
       }
     ],
@@ -282,7 +217,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 08:00:33",
+          "data_hora_posicao": "31/10/2026 08:14:54",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -302,7 +237,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 08:00:33",
+          "data_hora_posicao": "31/10/2026 08:14:54",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -332,12 +267,12 @@
         "frete_rs": 27408.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.68 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "31/10/2026 08:00:55",
-          "lat": -24.1375136,
-          "lon": -47.2728832
+          "referencia": "3.01 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "31/10/2026 08:14:34",
+          "lat": -24.0639568,
+          "lon": -47.2339168
         },
-        "distancia_km": 110.9,
+        "distancia_km": 102.6,
         "proximo": false
       },
       {
@@ -352,12 +287,12 @@
         "frete_rs": 183.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.68 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "31/10/2026 08:00:55",
-          "lat": -24.1375136,
-          "lon": -47.2728832
+          "referencia": "3.01 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "31/10/2026 08:14:34",
+          "lat": -24.0639568,
+          "lon": -47.2339168
         },
-        "distancia_km": 110.9,
+        "distancia_km": 102.6,
         "proximo": false
       },
       {
@@ -424,5 +359,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T08:02:35"
+  "_gerado_em": "2026-10-31T08:17:34"
 }
