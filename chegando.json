@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 11:16:04",
+          "data_hora_posicao": "31/10/2026 11:30:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "7.44 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "31/10/2026 11:15:16",
-          "lat": -26.6717232,
-          "lon": -49.0364672
+          "referencia": "0.42 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
+          "data_hora_posicao": "31/10/2026 11:30:22",
+          "lat": -26.7909888,
+          "lon": -49.0867296
         },
-        "distancia_km": 85.0,
+        "distancia_km": 72.4,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "7.44 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "31/10/2026 11:15:16",
-          "lat": -26.6717232,
-          "lon": -49.0364672
+          "referencia": "0.42 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
+          "data_hora_posicao": "31/10/2026 11:30:22",
+          "lat": -26.7909888,
+          "lon": -49.0867296
         },
-        "distancia_km": 85.0,
+        "distancia_km": 72.4,
         "proximo": false
       },
       {
@@ -130,7 +130,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 11:15:33",
+          "data_hora_posicao": "31/10/2026 11:29:33",
           "lat": -27.2058912,
           "lon": -49.6491968
         },
@@ -166,7 +166,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 11:16:16",
+          "data_hora_posicao": "31/10/2026 11:30:16",
           "lat": -26.8874752,
           "lon": -48.7231456
         },
@@ -185,12 +185,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.48 km de BRITÂNIA LOGÍSTICA - JOINVILLE/SC",
-          "data_hora_posicao": "31/10/2026 11:15:00",
-          "lat": -26.1591744,
-          "lon": -48.9075808
+          "referencia": "0.29 km de POSTO ZANDONÁ 10 - JOINVILLE/SC",
+          "data_hora_posicao": "31/10/2026 11:31:00",
+          "lat": -26.3273472,
+          "lon": -48.8646624
         },
-        "distancia_km": 83.1,
+        "distancia_km": 63.9,
         "proximo": false
       }
     ],
@@ -217,7 +217,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 11:15:53",
+          "data_hora_posicao": "31/10/2026 11:31:22",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -237,7 +237,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 11:15:53",
+          "data_hora_posicao": "31/10/2026 11:31:22",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -349,5 +349,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T11:17:34"
+  "_gerado_em": "2026-10-31T11:32:34"
 }
