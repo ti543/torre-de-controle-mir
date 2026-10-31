@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.57 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "30/10/2026 22:59:45",
-          "lat": -24.9217392,
-          "lon": -48.259888
+          "referencia": "2.62 km de LANCHONETE KM 513 - CAJATI/SP",
+          "data_hora_posicao": "30/10/2026 23:12:18",
+          "lat": -24.8321024,
+          "lon": -48.2144
         },
-        "distancia_km": 243.5,
+        "distancia_km": 233.5,
         "proximo": false
       },
       {
@@ -99,33 +99,13 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:59:26",
-          "lat": -26.6808848,
-          "lon": -48.6932448
+          "referencia": "0.39 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 23:21:26",
+          "lat": -26.6917264,
+          "lon": -48.697312
         },
-        "distancia_km": 23.1,
+        "distancia_km": 21.9,
         "proximo": true
-      },
-      {
-        "manif": "GRU074097-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 7681.5,
-        "frete_rs": 32829.58,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:55",
-          "lat": -23.4707248,
-          "lon": -46.462176
-        },
-        "distancia_km": 442.7,
-        "proximo": false
       },
       {
         "manif": "GRU074103-5",
@@ -139,10 +119,30 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:16",
-          "lat": -23.4706304,
-          "lon": -46.4621472
+          "referencia": "0.36 km de FILIAL EXCELLENCE - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:20:24",
+          "lat": -23.4785664,
+          "lon": -46.4609376
+        },
+        "distancia_km": 442.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074109-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 7834.7,
+        "frete_rs": 33589.67,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:21:00",
+          "lat": -23.4707248,
+          "lon": -46.462176
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -155,8 +155,8 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 26287.09,
-        "frete_rs": 59042.850000000006,
+        "peso_kg": 26440.29,
+        "frete_rs": 59802.94,
         "qtde": 2
       }
     }
@@ -175,12 +175,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:59:26",
-          "lat": -26.6808848,
-          "lon": -48.6932448
+          "referencia": "0.39 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 23:21:26",
+          "lat": -26.6917264,
+          "lon": -48.697312
         },
-        "distancia_km": 111.4,
+        "distancia_km": 110.4,
         "proximo": false
       },
       {
@@ -195,12 +195,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.25 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
-          "data_hora_posicao": "30/10/2026 22:58:09",
-          "lat": -27.6767744,
-          "lon": -50.335744
+          "referencia": "1.07 km de POSTO SERRANO IV - PONTE ALTA/SC",
+          "data_hora_posicao": "30/10/2026 23:20:13",
+          "lat": -27.4630618,
+          "lon": -50.388058
         },
-        "distancia_km": 85.6,
+        "distancia_km": 78.3,
         "proximo": false
       },
       {
@@ -215,12 +215,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 23:00:04",
-          "lat": -23.6367696,
-          "lon": -46.8340992
+          "referencia": "0.36 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 23:20:04",
+          "lat": -23.635384,
+          "lon": -46.8294208
         },
-        "distancia_km": 487.3,
+        "distancia_km": 487.7,
         "proximo": false
       },
       {
@@ -236,9 +236,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:22",
-          "lat": -23.4705456,
-          "lon": -46.461936
+          "data_hora_posicao": "30/10/2026 23:20:22",
+          "lat": -23.470488,
+          "lon": -46.4620288
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -256,9 +256,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:22",
-          "lat": -23.4705456,
-          "lon": -46.461936
+          "data_hora_posicao": "30/10/2026 23:20:22",
+          "lat": -23.470488,
+          "lon": -46.4620288
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -290,12 +290,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.74 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 22:57:58",
-          "lat": -28.4471584,
-          "lon": -50.8801504
+          "referencia": "0.02 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 23:18:14",
+          "lat": -28.2660896,
+          "lon": -50.7880544
         },
-        "distancia_km": 183.5,
+        "distancia_km": 162.6,
         "proximo": false
       },
       {
@@ -310,12 +310,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.23 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 22:59:05",
-          "lat": -28.46864,
-          "lon": -50.8927008
+          "referencia": "0.71 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 23:16:16",
+          "lat": -28.2860544,
+          "lon": -50.8027584
         },
-        "distancia_km": 186.1,
+        "distancia_km": 165.2,
         "proximo": false
       }
     ],
@@ -397,10 +397,10 @@
         "frete_rs": 3358.2,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:40",
-          "lat": -23.4718266666667,
-          "lon": -46.46191
+          "referencia": "0.58 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:20:39",
+          "lat": -23.5025216666667,
+          "lon": -46.544905
         },
         "distancia_km": null,
         "proximo": false
@@ -417,10 +417,10 @@
         "frete_rs": 949.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 23:00:40",
-          "lat": -23.4718266666667,
-          "lon": -46.46191
+          "referencia": "0.58 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:20:39",
+          "lat": -23.5025216666667,
+          "lon": -46.544905
         },
         "distancia_km": null,
         "proximo": false
@@ -434,5 +434,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T23:17:39"
+  "_gerado_em": "2026-10-30T23:32:39"
 }
