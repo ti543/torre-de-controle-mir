@@ -13,12 +13,52 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.55 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "31/10/2026 00:13:45",
-          "lat": -24.3718288,
-          "lon": -47.705616
+          "referencia": "0.66 km de CHURRASCARIA REI DO CUPIM - MIRACATU/SP",
+          "data_hora_posicao": "31/10/2026 00:29:45",
+          "lat": -24.3109584,
+          "lon": -47.5111872
         },
-        "distancia_km": 161.3,
+        "distancia_km": 141.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023963-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 24429.99,
+        "frete_rs": 27408.75,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "31/10/2026 00:30:34",
+          "lat": -26.8877408,
+          "lon": -48.7206816
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023964-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 184.45,
+        "frete_rs": 183.61,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "31/10/2026 00:30:34",
+          "lat": -26.8877408,
+          "lon": -48.7206816
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -73,6 +113,11 @@
         "frete_rs": 13506.06,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 24614.440000000002,
+        "frete_rs": 27592.36,
+        "qtde": 2
+      },
       "Rio do Sul": {
         "peso_kg": 27964.98,
         "frete_rs": 27650.82,
@@ -99,12 +144,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO DELTA - BELA VISTA, BALNEÁRIO PIÇARRAS - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "31/10/2026 00:15:26",
-          "lat": -26.7319488,
-          "lon": -48.7012256
+          "referencia": "0.37 km de POSTO DELTA - BELA VISTA, BALNEÁRIO PIÇARRAS - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "31/10/2026 00:29:26",
+          "lat": -26.7361792,
+          "lon": -48.6994848
         },
-        "distancia_km": 17.4,
+        "distancia_km": 17.0,
         "proximo": true
       },
       {
@@ -119,12 +164,12 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de PEDAGIO - PRACA 12 (RAPOSO TAVARES EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "31/10/2026 00:14:16",
-          "lat": -23.589608,
-          "lon": -46.80976
+          "referencia": "0.13 km de FILIAL TOMASI LOGÍSTICA LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "31/10/2026 00:30:16",
+          "lat": -23.7114048,
+          "lon": -46.8775296
         },
-        "distancia_km": 414.0,
+        "distancia_km": 398.8,
         "proximo": false
       },
       {
@@ -140,7 +185,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "31/10/2026 00:15:00",
+          "data_hora_posicao": "31/10/2026 00:31:00",
           "lat": -23.4705008,
           "lon": -46.4624128
         },
@@ -175,12 +220,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO DELTA - BELA VISTA, BALNEÁRIO PIÇARRAS - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "31/10/2026 00:15:26",
-          "lat": -26.7319488,
-          "lon": -48.7012256
+          "referencia": "0.37 km de POSTO DELTA - BELA VISTA, BALNEÁRIO PIÇARRAS - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "31/10/2026 00:29:26",
+          "lat": -26.7361792,
+          "lon": -48.6994848
         },
-        "distancia_km": 107.8,
+        "distancia_km": 107.7,
         "proximo": false
       },
       {
@@ -195,12 +240,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.68 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "31/10/2026 00:15:25",
-          "lat": -27.3014846,
-          "lon": -50.0797471
+          "referencia": "0.86 km de LAGOA CAFÉ COLONIAL E RESTAURANTE - POUSO REDONDO/SC - POUSO REDONDO/SC",
+          "data_hora_posicao": "31/10/2026 00:29:43",
+          "lat": -27.2478425,
+          "lon": -49.9795655
         },
-        "distancia_km": 43.8,
+        "distancia_km": 32.9,
         "proximo": false
       },
       {
@@ -215,12 +260,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.8 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "31/10/2026 00:16:04",
-          "lat": -24.0142,
-          "lon": -47.1673312
+          "referencia": "7.8 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "31/10/2026 00:28:41",
+          "lat": -24.1033728,
+          "lon": -47.2605984
         },
-        "distancia_km": 433.5,
+        "distancia_km": 419.9,
         "proximo": false
       },
       {
@@ -235,12 +280,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.13 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "31/10/2026 00:14:22",
-          "lat": -23.4846896,
-          "lon": -46.330832
+          "referencia": "3.22 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "31/10/2026 00:30:22",
+          "lat": -23.6487312,
+          "lon": -46.39368
         },
-        "distancia_km": 531.4,
+        "distancia_km": 513.1,
         "proximo": false
       },
       {
@@ -255,12 +300,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.13 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "31/10/2026 00:14:22",
-          "lat": -23.4846896,
-          "lon": -46.330832
+          "referencia": "3.22 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "31/10/2026 00:30:22",
+          "lat": -23.6487312,
+          "lon": -46.39368
         },
-        "distancia_km": 531.4,
+        "distancia_km": 513.1,
         "proximo": false
       },
       {
@@ -290,12 +335,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "31/10/2026 00:15:58",
-          "lat": -27.818192,
-          "lon": -50.3722368
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "31/10/2026 00:29:58",
+          "lat": -27.8238464,
+          "lon": -50.3627808
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -310,12 +355,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.69 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "31/10/2026 00:15:37",
-          "lat": -27.8778144,
-          "lon": -50.406032
+          "referencia": "0.07 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "31/10/2026 00:31:05",
+          "lat": -27.8162912,
+          "lon": -50.3714208
         },
-        "distancia_km": 105.5,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -386,10 +431,10 @@
         "frete_rs": 6770.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "31/10/2026 00:15:33",
-          "lat": -26.8364752,
-          "lon": -48.7189216
+          "referencia": "0.12 km de POSTO JUNINHO - ILHOTA/SC",
+          "data_hora_posicao": "31/10/2026 00:29:33",
+          "lat": -26.8896832,
+          "lon": -48.8816992
         },
         "distancia_km": null,
         "proximo": false
@@ -422,10 +467,10 @@
         "frete_rs": 3358.2,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de FOXCONN BRASIL INDUSTRIA E COMERCIO LTDA - JUNDIAI/SP",
-          "data_hora_posicao": "31/10/2026 00:14:59",
-          "lat": -23.16302,
-          "lon": -46.946895
+          "referencia": "0.55 km de TECA FRIO TRANSPORTE - CAMPINAS/SP",
+          "data_hora_posicao": "31/10/2026 00:31:01",
+          "lat": -22.98419,
+          "lon": -47.1113683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -442,10 +487,10 @@
         "frete_rs": 949.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de FOXCONN BRASIL INDUSTRIA E COMERCIO LTDA - JUNDIAI/SP",
-          "data_hora_posicao": "31/10/2026 00:14:59",
-          "lat": -23.16302,
-          "lon": -46.946895
+          "referencia": "0.55 km de TECA FRIO TRANSPORTE - CAMPINAS/SP",
+          "data_hora_posicao": "31/10/2026 00:31:01",
+          "lat": -22.98419,
+          "lon": -47.1113683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -459,5 +504,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T00:17:27"
+  "_gerado_em": "2026-10-31T00:32:29"
 }
