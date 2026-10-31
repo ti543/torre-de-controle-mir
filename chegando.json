@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.09 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 21:45:45",
-          "lat": -25.1150864,
-          "lon": -48.8471488
+          "referencia": "1.11 km de POSTO PELANDA ALPINO 1 - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 22:00:58",
+          "lat": -25.110888,
+          "lon": -48.8065504
         },
-        "distancia_km": 303.1,
+        "distancia_km": 299.5,
         "proximo": false
       },
       {
@@ -64,12 +64,32 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.23 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 21:45:26",
-          "lat": -26.3485488,
-          "lon": -48.8573536
+          "referencia": "0.3 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 22:01:26",
+          "lat": -26.4703088,
+          "lon": -48.7454688
         },
-        "distancia_km": 61.4,
+        "distancia_km": 46.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074097-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 7681.5,
+        "frete_rs": 32829.58,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 22:01:00",
+          "lat": -23.470736,
+          "lon": -46.4621696
+        },
+        "distancia_km": 442.7,
         "proximo": false
       }
     ],
@@ -77,6 +97,11 @@
       "Curitiba": {
         "peso_kg": 5428.9,
         "frete_rs": 4391.98,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 7681.5,
+        "frete_rs": 32829.58,
         "qtde": 1
       }
     }
@@ -95,12 +120,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.23 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 21:45:26",
-          "lat": -26.3485488,
-          "lon": -48.8573536
+          "referencia": "0.3 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 22:01:26",
+          "lat": -26.4703088,
+          "lon": -48.7454688
         },
-        "distancia_km": 123.6,
+        "distancia_km": 121.4,
         "proximo": false
       },
       {
@@ -115,12 +140,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "7.04 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 21:45:39",
-          "lat": -28.175232,
-          "lon": -50.695808
+          "referencia": "6.2 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 21:57:13",
+          "lat": -28.0825344,
+          "lon": -50.5876224
         },
-        "distancia_km": 149.1,
+        "distancia_km": 134.3,
         "proximo": false
       },
       {
@@ -135,12 +160,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.86 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 21:46:04",
-          "lat": -23.6781728,
-          "lon": -46.8217248
+          "referencia": "1.19 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 22:00:04",
+          "lat": -23.6653616,
+          "lon": -46.8234304
         },
-        "distancia_km": 484.2,
+        "distancia_km": 485.3,
         "proximo": false
       },
       {
@@ -155,12 +180,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.57 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 21:45:58",
-          "lat": -28.8804416,
-          "lon": -51.2126528
+          "referencia": "0.13 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 21:56:43",
+          "lat": -28.8235008,
+          "lon": -51.2712256
         },
-        "distancia_km": 241.2,
+        "distancia_km": 240.2,
         "proximo": false
       },
       {
@@ -175,12 +200,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 21:39:14",
-          "lat": -28.9077696,
-          "lon": -51.1931872
+          "referencia": "1.21 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "30/10/2026 21:58:40",
+          "lat": -28.8143296,
+          "lon": -51.2672512
         },
-        "distancia_km": 242.4,
+        "distancia_km": 239.2,
         "proximo": false
       }
     ],
@@ -207,5 +232,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T21:47:37"
+  "_gerado_em": "2026-10-30T22:02:43"
 }
