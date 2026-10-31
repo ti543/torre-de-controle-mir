@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 14:30:04",
+          "data_hora_posicao": "31/10/2026 14:46:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 14:30:22",
+          "data_hora_posicao": "31/10/2026 14:46:22",
           "lat": -27.205952,
           "lon": -49.6490016
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 14:30:22",
+          "data_hora_posicao": "31/10/2026 14:46:22",
           "lat": -27.205952,
           "lon": -49.6490016
         },
@@ -88,12 +88,12 @@
         "frete_rs": 3476.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "31/10/2026 14:30:58",
-          "lat": -26.8785801,
-          "lon": -49.240644
+          "referencia": "1 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "31/10/2026 14:46:29",
+          "lat": -26.9482133,
+          "lon": -49.36637
         },
-        "distancia_km": 54.5,
+        "distancia_km": 40.1,
         "proximo": false
       }
     ],
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 14:29:33",
+          "data_hora_posicao": "31/10/2026 14:45:33",
           "lat": -27.2059744,
           "lon": -49.6489056
         },
@@ -191,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 14:30:16",
+          "data_hora_posicao": "31/10/2026 14:46:16",
           "lat": -26.8874752,
           "lon": -48.7231456
         },
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 14:31:00",
+          "data_hora_posicao": "31/10/2026 14:45:00",
           "lat": -26.887856,
           "lon": -48.7239008
         },
@@ -242,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 14:30:49",
+          "data_hora_posicao": "31/10/2026 14:44:49",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 14:30:49",
+          "data_hora_posicao": "31/10/2026 14:44:49",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -374,5 +374,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T14:32:36"
+  "_gerado_em": "2026-10-31T14:47:34"
 }
