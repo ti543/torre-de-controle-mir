@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.11 km de POSTO PELANDA ALPINO 1 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 22:00:58",
-          "lat": -25.110888,
-          "lon": -48.8065504
+          "referencia": "0.59 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 22:15:45",
+          "lat": -25.0972176,
+          "lon": -48.6548928
         },
-        "distancia_km": 299.5,
+        "distancia_km": 286.5,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.3 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 22:01:26",
-          "lat": -26.4703088,
-          "lon": -48.7454688
+          "referencia": "0.34 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 22:15:26",
+          "lat": -26.5946928,
+          "lon": -48.7223968
         },
-        "distancia_km": 46.4,
+        "distancia_km": 32.6,
         "proximo": false
       },
       {
@@ -85,7 +85,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:01:00",
+          "data_hora_posicao": "30/10/2026 22:15:00",
           "lat": -23.470736,
           "lon": -46.4621696
         },
@@ -120,12 +120,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.3 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "30/10/2026 22:01:26",
-          "lat": -26.4703088,
-          "lon": -48.7454688
+          "referencia": "0.34 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "30/10/2026 22:15:26",
+          "lat": -26.5946928,
+          "lon": -48.7223968
         },
-        "distancia_km": 121.4,
+        "distancia_km": 114.4,
         "proximo": false
       },
       {
@@ -140,12 +140,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.2 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "30/10/2026 21:57:13",
-          "lat": -28.0825344,
-          "lon": -50.5876224
+          "referencia": "3.7 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 22:12:13",
+          "lat": -27.9460096,
+          "lon": -50.4748288
         },
-        "distancia_km": 134.3,
+        "distancia_km": 115.7,
         "proximo": false
       },
       {
@@ -160,12 +160,52 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.19 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 22:00:04",
-          "lat": -23.6653616,
-          "lon": -46.8234304
+          "referencia": "0.87 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 22:16:04",
+          "lat": -23.655112,
+          "lon": -46.8266784
         },
-        "distancia_km": 485.3,
+        "distancia_km": 486.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074098-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 5619.49,
+        "frete_rs": 7617.97,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 22:16:22",
+          "lat": -23.4706192,
+          "lon": -46.4619072
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074100-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 11246.0,
+        "frete_rs": 10291.43,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 22:16:22",
+          "lat": -23.4706192,
+          "lon": -46.4619072
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -180,12 +220,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 21:56:43",
-          "lat": -28.8235008,
-          "lon": -51.2712256
+          "referencia": "0.63 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
+          "data_hora_posicao": "30/10/2026 22:16:17",
+          "lat": -28.6668768,
+          "lon": -51.1776416
         },
-        "distancia_km": 240.2,
+        "distancia_km": 221.2,
         "proximo": false
       },
       {
@@ -200,12 +240,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.21 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "30/10/2026 21:58:40",
-          "lat": -28.8143296,
-          "lon": -51.2672512
+          "referencia": "6.34 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "30/10/2026 22:09:28",
+          "lat": -28.7210496,
+          "lon": -51.2442368
         },
-        "distancia_km": 239.2,
+        "distancia_km": 230.0,
         "proximo": false
       }
     ],
@@ -221,9 +261,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 5898.33,
-        "frete_rs": 10393.32,
-        "qtde": 1
+        "peso_kg": 22763.82,
+        "frete_rs": 28302.72,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 13224.830000000002,
@@ -232,5 +272,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T22:02:43"
+  "_gerado_em": "2026-10-30T22:17:37"
 }
