@@ -13,10 +13,10 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "31/10/2026 09:30:04",
-          "lat": -27.1357408,
-          "lon": -49.5436608
+          "referencia": "0.04 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "31/10/2026 09:47:11",
+          "lat": -27.1357792,
+          "lon": -49.5437536
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.72 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "31/10/2026 09:31:40",
-          "lat": -25.8693584,
-          "lon": -48.9341472
+          "referencia": "0.37 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "31/10/2026 09:46:22",
+          "lat": -26.007984,
+          "lon": -48.8651136
         },
-        "distancia_km": 164.8,
+        "distancia_km": 154.4,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.72 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "31/10/2026 09:31:40",
-          "lat": -25.8693584,
-          "lon": -48.9341472
+          "referencia": "0.37 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "31/10/2026 09:46:22",
+          "lat": -26.007984,
+          "lon": -48.8651136
         },
-        "distancia_km": 164.8,
+        "distancia_km": 154.4,
         "proximo": false
       },
       {
@@ -129,10 +129,10 @@
         "frete_rs": 6770.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.24 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "31/10/2026 09:19:33",
-          "lat": -26.984816,
-          "lon": -49.3727456
+          "referencia": "0.26 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
+          "data_hora_posicao": "31/10/2026 09:45:33",
+          "lat": -27.0357312,
+          "lon": -49.3902976
         },
         "distancia_km": null,
         "proximo": false
@@ -165,10 +165,10 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "31/10/2026 09:30:16",
-          "lat": -26.5538576,
-          "lon": -48.7198208
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "31/10/2026 09:46:16",
+          "lat": -26.553936,
+          "lon": -48.7198944
         },
         "distancia_km": 37.1,
         "proximo": false
@@ -185,12 +185,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "31/10/2026 09:31:00",
-          "lat": -25.5093296,
-          "lon": -49.1265248
+          "referencia": "1.27 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "31/10/2026 09:47:00",
+          "lat": -25.633152,
+          "lon": -49.1624768
         },
-        "distancia_km": 158.5,
+        "distancia_km": 146.3,
         "proximo": false
       }
     ],
@@ -217,7 +217,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 09:30:32",
+          "data_hora_posicao": "31/10/2026 09:46:32",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -237,7 +237,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 09:30:32",
+          "data_hora_posicao": "31/10/2026 09:46:32",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -267,13 +267,13 @@
         "frete_rs": 27408.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
-          "data_hora_posicao": "31/10/2026 09:30:34",
-          "lat": -23.5124224,
-          "lon": -46.8025728
+          "referencia": "0.27 km de EDITORA ABRIL - SAO PAULO/SP",
+          "data_hora_posicao": "31/10/2026 09:46:34",
+          "lat": -23.5087408,
+          "lon": -46.6990816
         },
-        "distancia_km": 35.0,
-        "proximo": false
+        "distancia_km": 24.5,
+        "proximo": true
       },
       {
         "manif": "ITJ023964-0",
@@ -287,13 +287,13 @@
         "frete_rs": 183.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
-          "data_hora_posicao": "31/10/2026 09:30:34",
-          "lat": -23.5124224,
-          "lon": -46.8025728
+          "referencia": "0.27 km de EDITORA ABRIL - SAO PAULO/SP",
+          "data_hora_posicao": "31/10/2026 09:46:34",
+          "lat": -23.5087408,
+          "lon": -46.6990816
         },
-        "distancia_km": 35.0,
-        "proximo": false
+        "distancia_km": 24.5,
+        "proximo": true
       },
       {
         "manif": "RSL044110-4",
@@ -359,5 +359,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T09:32:40"
+  "_gerado_em": "2026-10-31T09:48:30"
 }
