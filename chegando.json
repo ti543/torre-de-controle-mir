@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 12:30:04",
+          "data_hora_posicao": "31/10/2026 12:48:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "31/10/2026 12:30:22",
-          "lat": -26.9491072,
-          "lon": -49.3676096
+          "referencia": "0.34 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "31/10/2026 12:46:30",
+          "lat": -27.05808,
+          "lon": -49.3899232
         },
-        "distancia_km": 40.0,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "31/10/2026 12:30:22",
-          "lat": -26.9491072,
-          "lon": -49.3676096
+          "referencia": "0.34 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "31/10/2026 12:46:30",
+          "lat": -27.05808,
+          "lon": -49.3899232
         },
-        "distancia_km": 40.0,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 12:30:36",
+          "data_hora_posicao": "31/10/2026 12:46:33",
           "lat": -26.8861681,
           "lon": -48.7239436
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 12:29:33",
+          "data_hora_posicao": "31/10/2026 12:47:33",
           "lat": -27.2059744,
           "lon": -49.6489056
         },
@@ -191,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 12:30:16",
+          "data_hora_posicao": "31/10/2026 12:46:16",
           "lat": -26.8874752,
           "lon": -48.7231456
         },
@@ -210,12 +210,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.65 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "31/10/2026 12:31:00",
-          "lat": -26.756832,
-          "lon": -48.6888832
+          "referencia": "0.28 km de POSTO SHELL - NAVEGANTES - NAVEGANTES/SC",
+          "data_hora_posicao": "31/10/2026 12:47:00",
+          "lat": -26.8373456,
+          "lon": -48.7122016
         },
-        "distancia_km": 14.9,
+        "distancia_km": 5.6,
         "proximo": true
       }
     ],
@@ -242,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 12:30:29",
+          "data_hora_posicao": "31/10/2026 12:46:29",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 12:30:29",
+          "data_hora_posicao": "31/10/2026 12:46:29",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -374,5 +374,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T12:32:32"
+  "_gerado_em": "2026-10-31T12:49:55"
 }
