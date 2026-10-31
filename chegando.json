@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "5.8 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "31/10/2026 01:09:49",
-          "lat": -24.0830464,
-          "lon": -47.2528128
+          "referencia": "2.83 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "31/10/2026 01:30:40",
+          "lat": -23.9653072,
+          "lon": -47.1276064
         },
-        "distancia_km": 105.4,
+        "distancia_km": 87.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 27408.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "31/10/2026 01:16:22",
-          "lat": -26.5904224,
-          "lon": -48.7216768
+          "referencia": "0.92 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "31/10/2026 01:30:34",
+          "lat": -26.4541856,
+          "lon": -48.7784768
         },
-        "distancia_km": 414.9,
+        "distancia_km": 405.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 183.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "31/10/2026 01:16:22",
-          "lat": -26.5904224,
-          "lon": -48.7216768
+          "referencia": "0.92 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "31/10/2026 01:30:34",
+          "lat": -26.4541856,
+          "lon": -48.7784768
         },
-        "distancia_km": 414.9,
+        "distancia_km": 405.7,
         "proximo": false
       },
       {
@@ -130,82 +130,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013533-0",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 5428.9,
-        "frete_rs": 4391.98,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.1 km de PATIO MUNDIAL IMPORTAÇÃO E EXPORTAÇÃO - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 01:16:04",
-          "lat": -26.8678176,
-          "lon": -48.7301952
-        },
-        "distancia_km": 2.4,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074103-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 18605.59,
-        "frete_rs": 26213.27,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.78 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "31/10/2026 01:16:16",
-          "lat": -24.0143088,
-          "lon": -47.167456
-        },
-        "distancia_km": 355.5,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074109-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 7834.7,
-        "frete_rs": 33589.67,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "31/10/2026 01:15:00",
-          "lat": -23.4705008,
-          "lon": -46.4624128
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 5428.9,
-        "frete_rs": 4391.98,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 26440.29,
-        "frete_rs": 59802.94,
-        "qtde": 2
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -220,10 +144,10 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de PATIO MUNDIAL IMPORTAÇÃO E EXPORTAÇÃO - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 01:16:04",
-          "lat": -26.8678176,
-          "lon": -48.7301952
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "31/10/2026 01:31:26",
+          "lat": -26.8873504,
+          "lon": -48.7211904
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -241,7 +165,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 01:14:01",
+          "data_hora_posicao": "31/10/2026 01:30:01",
           "lat": -27.2430818,
           "lon": -49.6883938
         },
@@ -260,12 +184,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.33 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "31/10/2026 01:16:04",
-          "lat": -24.4031376,
-          "lon": -47.7396864
+          "referencia": "1.61 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "31/10/2026 01:30:04",
+          "lat": -24.5448048,
+          "lon": -47.8618496
         },
-        "distancia_km": 365.6,
+        "distancia_km": 345.8,
         "proximo": false
       },
       {
@@ -280,12 +204,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.09 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "31/10/2026 01:16:22",
-          "lat": -23.7146288,
-          "lon": -46.8068384
+          "referencia": "0.16 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "31/10/2026 01:30:22",
+          "lat": -23.6912048,
+          "lon": -46.8631392
         },
-        "distancia_km": 481.8,
+        "distancia_km": 480.6,
         "proximo": false
       },
       {
@@ -300,12 +224,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.09 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "31/10/2026 01:16:22",
-          "lat": -23.7146288,
-          "lon": -46.8068384
+          "referencia": "0.16 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "31/10/2026 01:30:22",
+          "lat": -23.6912048,
+          "lon": -46.8631392
         },
-        "distancia_km": 481.8,
+        "distancia_km": 480.6,
         "proximo": false
       },
       {
@@ -335,12 +259,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.44 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "31/10/2026 01:15:58",
-          "lat": -27.6481376,
-          "lon": -50.3374912
+          "referencia": "3.64 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "31/10/2026 01:29:01",
+          "lat": -27.5148,
+          "lon": -50.3656096
         },
-        "distancia_km": 83.8,
+        "distancia_km": 78.6,
         "proximo": false
       },
       {
@@ -355,12 +279,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.09 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "31/10/2026 01:16:17",
-          "lat": -27.6451104,
-          "lon": -50.3380384
+          "referencia": "3.04 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "31/10/2026 01:31:05",
+          "lat": -27.4962944,
+          "lon": -50.3696928
         },
-        "distancia_km": 83.7,
+        "distancia_km": 78.1,
         "proximo": false
       }
     ],
@@ -431,10 +355,10 @@
         "frete_rs": 6770.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "31/10/2026 01:15:33",
-          "lat": -26.8425504,
-          "lon": -49.2729952
+          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "31/10/2026 01:29:33",
+          "lat": -26.8424032,
+          "lon": -49.2724416
         },
         "distancia_km": null,
         "proximo": false
@@ -453,6 +377,57 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074103-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 18605.59,
+        "frete_rs": 26213.27,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "6.53 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "31/10/2026 01:30:16",
+          "lat": -24.0887088,
+          "lon": -47.2570336
+        },
+        "distancia_km": 344.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074109-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 7834.7,
+        "frete_rs": 33589.67,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "31/10/2026 01:31:00",
+          "lat": -23.4705008,
+          "lon": -46.4624128
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 26440.29,
+        "frete_rs": 59802.94,
+        "qtde": 2
+      }
+    }
+  },
   "CMP": {
     "veiculos": [
       {
@@ -468,7 +443,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 01:15:57",
+          "data_hora_posicao": "31/10/2026 01:30:39",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -488,7 +463,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 01:15:57",
+          "data_hora_posicao": "31/10/2026 01:30:39",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -504,5 +479,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T01:17:27"
+  "_gerado_em": "2026-10-31T01:32:34"
 }
