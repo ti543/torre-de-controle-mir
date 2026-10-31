@@ -2,26 +2,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010333-1",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "QIV0I77",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 2024.37,
-        "frete_rs": 4011.03,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.02 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 21:30:40",
-          "lat": -23.4701066666667,
-          "lon": -46.466965
-        },
-        "distancia_km": 0.5,
-        "proximo": true
-      },
-      {
         "manif": "CTB013530-5",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -34,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "1.09 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 21:29:45",
+          "data_hora_posicao": "30/10/2026 21:45:45",
           "lat": -25.1150864,
           "lon": -48.8471488
         },
@@ -58,11 +38,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 2024.37,
-        "frete_rs": 4011.03,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 14782.38,
         "frete_rs": 13506.06,
@@ -89,12 +64,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO BAVÁRIA - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 21:31:26",
-          "lat": -26.2113952,
-          "lon": -48.9158976
+          "referencia": "0.23 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 21:45:26",
+          "lat": -26.3485488,
+          "lon": -48.8573536
         },
-        "distancia_km": 77.6,
+        "distancia_km": 61.4,
         "proximo": false
       }
     ],
@@ -120,33 +95,13 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO BAVÁRIA - JOINVILLE/SC",
-          "data_hora_posicao": "30/10/2026 21:31:26",
-          "lat": -26.2113952,
-          "lon": -48.9158976
+          "referencia": "0.23 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "30/10/2026 21:45:26",
+          "lat": -26.3485488,
+          "lon": -48.8573536
         },
-        "distancia_km": 132.5,
+        "distancia_km": 123.6,
         "proximo": false
-      },
-      {
-        "manif": "CXS002231-4",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 5981.14,
-        "frete_rs": 9538.09,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 21:31:33",
-          "lat": -27.2057866666667,
-          "lon": -49.6490116666667
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "CXS002232-2",
@@ -160,12 +115,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 21:29:46",
-          "lat": -28.2631351,
-          "lon": -50.7859311
+          "referencia": "7.04 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "30/10/2026 21:45:39",
+          "lat": -28.175232,
+          "lon": -50.695808
         },
-        "distancia_km": 162.2,
+        "distancia_km": 149.1,
         "proximo": false
       },
       {
@@ -180,73 +135,13 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.2 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 21:31:32",
-          "lat": -23.6907104,
-          "lon": -46.8186048
+          "referencia": "1.86 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 21:46:04",
+          "lat": -23.6781728,
+          "lon": -46.8217248
         },
-        "distancia_km": 483.3,
+        "distancia_km": 484.2,
         "proximo": false
-      },
-      {
-        "manif": "LGS001602-1",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2135.43,
-        "frete_rs": 1954.13,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 21:31:33",
-          "lat": -27.2057866666667,
-          "lon": -49.6490116666667
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "LGS001603-9",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2571.3,
-        "frete_rs": 3483.42,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 21:31:33",
-          "lat": -27.2057866666667,
-          "lon": -49.6490116666667
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "POA016187-0",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 325.6,
-        "frete_rs": 593.95,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "30/10/2026 21:31:33",
-          "lat": -27.2057866666667,
-          "lon": -49.6490116666667
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016193-4",
@@ -260,12 +155,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.1 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 21:29:58",
-          "lat": -28.9076896,
-          "lon": -51.193184
+          "referencia": "1.57 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 21:45:58",
+          "lat": -28.8804416,
+          "lon": -51.2126528
         },
-        "distancia_km": 242.4,
+        "distancia_km": 241.2,
         "proximo": false
       },
       {
@@ -281,7 +176,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.09 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "30/10/2026 21:25:37",
+          "data_hora_posicao": "30/10/2026 21:39:14",
           "lat": -28.9077696,
           "lon": -51.1931872
         },
@@ -296,9 +191,9 @@
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
-        "peso_kg": 13609.95,
-        "frete_rs": 19970.54,
-        "qtde": 4
+        "peso_kg": 2922.08,
+        "frete_rs": 4994.9,
+        "qtde": 1
       },
       "Guarulhos": {
         "peso_kg": 5898.33,
@@ -306,11 +201,11 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 13550.43,
-        "frete_rs": 13739.919999999998,
-        "qtde": 3
+        "peso_kg": 13224.830000000002,
+        "frete_rs": 13145.97,
+        "qtde": 2
       }
     }
   },
-  "_gerado_em": "2026-10-30T21:32:38"
+  "_gerado_em": "2026-10-30T21:47:37"
 }
