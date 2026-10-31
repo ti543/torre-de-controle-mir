@@ -14,9 +14,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 10:16:04",
-          "lat": -27.2057216,
-          "lon": -49.6490144
+          "data_hora_posicao": "31/10/2026 10:30:19",
+          "lat": -27.2059104,
+          "lon": -49.6489952
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO 37 - JOINVILLE/SC",
-          "data_hora_posicao": "31/10/2026 10:16:22",
-          "lat": -26.2987744,
-          "lon": -48.8837248
+          "referencia": "1.11 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
+          "data_hora_posicao": "31/10/2026 10:30:22",
+          "lat": -26.4294624,
+          "lon": -48.8248192
         },
-        "distancia_km": 126.3,
+        "distancia_km": 119.0,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO 37 - JOINVILLE/SC",
-          "data_hora_posicao": "31/10/2026 10:16:22",
-          "lat": -26.2987744,
-          "lon": -48.8837248
+          "referencia": "1.11 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
+          "data_hora_posicao": "31/10/2026 10:30:22",
+          "lat": -26.4294624,
+          "lon": -48.8248192
         },
-        "distancia_km": 126.3,
+        "distancia_km": 119.0,
         "proximo": false
       },
       {
@@ -129,10 +129,10 @@
         "frete_rs": 6770.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.35 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "31/10/2026 10:15:33",
-          "lat": -27.156832,
-          "lon": -49.5565568
+          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "31/10/2026 10:29:33",
+          "lat": -27.2057984,
+          "lon": -49.6491712
         },
         "distancia_km": null,
         "proximo": false
@@ -165,12 +165,12 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "31/10/2026 10:16:16",
-          "lat": -26.7734688,
-          "lon": -48.6859488
+          "referencia": "1.78 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "31/10/2026 10:30:16",
+          "lat": -26.8000048,
+          "lon": -48.6790624
         },
-        "distancia_km": 13.1,
+        "distancia_km": 10.6,
         "proximo": true
       },
       {
@@ -185,12 +185,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO E COSTELAO MONTE CARLO III - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "31/10/2026 10:15:00",
-          "lat": -25.8242976,
-          "lon": -49.124288
+          "referencia": "0.95 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "31/10/2026 10:27:00",
+          "lat": -25.8502176,
+          "lon": -49.017456
         },
-        "distancia_km": 124.9,
+        "distancia_km": 119.1,
         "proximo": false
       }
     ],
@@ -217,7 +217,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 10:14:31",
+          "data_hora_posicao": "31/10/2026 10:30:31",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -237,7 +237,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 10:14:31",
+          "data_hora_posicao": "31/10/2026 10:30:31",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -266,14 +266,9 @@
         "peso_real_kg": 24429.99,
         "frete_rs": 27408.75,
         "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.11 km de KLIN LOGISTICA - GUARULHOS/SP",
-          "data_hora_posicao": "31/10/2026 10:16:15",
-          "lat": -23.4664192,
-          "lon": -46.4780096
-        },
-        "distancia_km": 1.7,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "ITJ023964-0",
@@ -286,14 +281,9 @@
         "peso_real_kg": 184.45,
         "frete_rs": 183.61,
         "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.11 km de KLIN LOGISTICA - GUARULHOS/SP",
-          "data_hora_posicao": "31/10/2026 10:16:15",
-          "lat": -23.4664192,
-          "lon": -46.4780096
-        },
-        "distancia_km": 1.7,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "RSL044110-4",
@@ -359,5 +349,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T10:17:36"
+  "_gerado_em": "2026-10-31T10:32:23"
 }
