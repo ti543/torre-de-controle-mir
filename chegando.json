@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.61 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "30/10/2026 22:39:00",
-          "lat": -24.9673472,
-          "lon": -48.4712448
+          "referencia": "1.57 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 22:59:45",
+          "lat": -24.9217392,
+          "lon": -48.259888
         },
-        "distancia_km": 263.1,
+        "distancia_km": 243.5,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.88 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:45:26",
-          "lat": -26.672376,
-          "lon": -48.6902496
+          "referencia": "0.89 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 22:59:26",
+          "lat": -26.6808848,
+          "lon": -48.6932448
         },
-        "distancia_km": 24.1,
+        "distancia_km": 23.1,
         "proximo": true
       },
       {
@@ -85,7 +85,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:45:00",
+          "data_hora_posicao": "30/10/2026 23:00:45",
           "lat": -23.4707248,
           "lon": -46.462176
         },
@@ -105,7 +105,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:46:16",
+          "data_hora_posicao": "30/10/2026 23:00:16",
           "lat": -23.4706304,
           "lon": -46.4621472
         },
@@ -140,12 +140,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.88 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:45:26",
-          "lat": -26.672376,
-          "lon": -48.6902496
+          "referencia": "0.89 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 22:59:26",
+          "lat": -26.6808848,
+          "lon": -48.6932448
         },
-        "distancia_km": 112.1,
+        "distancia_km": 111.4,
         "proximo": false
       },
       {
@@ -160,12 +160,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.49 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 22:46:10",
-          "lat": -27.7919841,
-          "lon": -50.3581821
+          "referencia": "2.25 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "30/10/2026 22:58:09",
+          "lat": -27.6767744,
+          "lon": -50.335744
         },
-        "distancia_km": 95.5,
+        "distancia_km": 85.6,
         "proximo": false
       },
       {
@@ -180,12 +180,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 22:46:04",
-          "lat": -23.6387264,
-          "lon": -46.8340672
+          "referencia": "0.36 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 23:00:04",
+          "lat": -23.6367696,
+          "lon": -46.8340992
         },
-        "distancia_km": 487.1,
+        "distancia_km": 487.3,
         "proximo": false
       },
       {
@@ -201,9 +201,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:46:22",
-          "lat": -23.4705776,
-          "lon": -46.4619168
+          "data_hora_posicao": "30/10/2026 23:00:22",
+          "lat": -23.4705456,
+          "lon": -46.461936
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -221,11 +221,26 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:46:22",
-          "lat": -23.4705776,
-          "lon": -46.4619168
+          "data_hora_posicao": "30/10/2026 23:00:22",
+          "lat": -23.4705456,
+          "lon": -46.461936
         },
         "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074105-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 7283.09,
+        "frete_rs": 14175.0,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -240,12 +255,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.75 km de POSTO ANDREAZZA 01 - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 22:45:58",
-          "lat": -28.5319808,
-          "lon": -50.9551168
+          "referencia": "2.74 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 22:57:58",
+          "lat": -28.4471584,
+          "lon": -50.8801504
         },
-        "distancia_km": 195.5,
+        "distancia_km": 183.5,
         "proximo": false
       },
       {
@@ -260,12 +275,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.45 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 22:43:05",
-          "lat": -28.568768,
-          "lon": -50.9992576
+          "referencia": "0.23 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 22:59:05",
+          "lat": -28.46864,
+          "lon": -50.8927008
         },
-        "distancia_km": 201.4,
+        "distancia_km": 186.1,
         "proximo": false
       }
     ],
@@ -281,9 +296,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 22763.82,
-        "frete_rs": 28302.72,
-        "qtde": 3
+        "peso_kg": 30046.91,
+        "frete_rs": 42477.72,
+        "qtde": 4
       },
       "Porto Alegre": {
         "peso_kg": 13224.830000000002,
@@ -333,5 +348,56 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T22:47:37"
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074106-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 2076.53,
+        "frete_rs": 3358.2,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.13 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:00:40",
+          "lat": -23.4718266666667,
+          "lon": -46.46191
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074107-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 907.64,
+        "frete_rs": 949.82,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.13 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 23:00:40",
+          "lat": -23.4718266666667,
+          "lon": -46.46191
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 2984.17,
+        "frete_rs": 4308.0199999999995,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-10-30T23:02:36"
 }
