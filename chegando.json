@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 13:16:04",
+          "data_hora_posicao": "31/10/2026 13:30:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "31/10/2026 13:15:53",
+          "data_hora_posicao": "31/10/2026 13:30:22",
           "lat": -27.1356704,
           "lon": -49.5435616
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "31/10/2026 13:15:53",
+          "data_hora_posicao": "31/10/2026 13:30:22",
           "lat": -27.1356704,
           "lon": -49.5435616
         },
@@ -88,12 +88,12 @@
         "frete_rs": 3476.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 13:14:33",
-          "lat": -26.8861681,
-          "lon": -48.7239436
+          "referencia": "0.32 km de FIRMOS AUTO MECÂNICA - NAVEGANTES/SC",
+          "data_hora_posicao": "31/10/2026 13:30:52",
+          "lat": -26.8335131,
+          "lon": -48.7377601
         },
-        "distancia_km": 98.3,
+        "distancia_km": 99.4,
         "proximo": false
       }
     ],
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 13:15:33",
+          "data_hora_posicao": "31/10/2026 13:29:33",
           "lat": -27.2059744,
           "lon": -49.6489056
         },
@@ -191,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 13:16:16",
+          "data_hora_posicao": "31/10/2026 13:30:16",
           "lat": -26.8874752,
           "lon": -48.7231456
         },
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "31/10/2026 13:15:00",
+          "data_hora_posicao": "31/10/2026 13:31:00",
           "lat": -26.887856,
           "lon": -48.7239008
         },
@@ -242,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 13:14:29",
+          "data_hora_posicao": "31/10/2026 13:30:52",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 13:14:29",
+          "data_hora_posicao": "31/10/2026 13:30:52",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -374,5 +374,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T13:17:35"
+  "_gerado_em": "2026-10-31T13:32:32"
 }
