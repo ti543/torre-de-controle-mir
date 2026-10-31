@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 10:46:04",
+          "data_hora_posicao": "31/10/2026 11:00:04",
           "lat": -27.2059104,
           "lon": -49.6489952
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7617.97,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de FILIAL EXPRESSO LEOMAR - GUARAMIRIM/SC",
-          "data_hora_posicao": "31/10/2026 10:46:22",
-          "lat": -26.4709552,
-          "lon": -48.9705312
+          "referencia": "2.48 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
+          "data_hora_posicao": "31/10/2026 11:01:18",
+          "lat": -26.5639056,
+          "lon": -48.9769696
         },
-        "distancia_km": 105.9,
+        "distancia_km": 97.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10291.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de FILIAL EXPRESSO LEOMAR - GUARAMIRIM/SC",
-          "data_hora_posicao": "31/10/2026 10:46:22",
-          "lat": -26.4709552,
-          "lon": -48.9705312
+          "referencia": "2.48 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
+          "data_hora_posicao": "31/10/2026 11:01:18",
+          "lat": -26.5639056,
+          "lon": -48.9769696
         },
-        "distancia_km": 105.9,
+        "distancia_km": 97.7,
         "proximo": false
       },
       {
@@ -130,7 +130,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "31/10/2026 10:45:33",
+          "data_hora_posicao": "31/10/2026 10:59:33",
           "lat": -27.2058912,
           "lon": -49.6491968
         },
@@ -165,12 +165,12 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "31/10/2026 10:46:16",
-          "lat": -26.8350672,
-          "lon": -48.7087104
+          "referencia": "0.11 km de CONCORDIA LOGISTICA S/A - CONLOG (TERMINAL RETROPORTUARIO) - ITAJAI/SC",
+          "data_hora_posicao": "31/10/2026 11:00:16",
+          "lat": -26.878896,
+          "lon": -48.7261088
         },
-        "distancia_km": 6.0,
+        "distancia_km": 1.1,
         "proximo": true
       },
       {
@@ -185,12 +185,12 @@
         "frete_rs": 33589.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
-          "data_hora_posicao": "31/10/2026 10:45:00",
-          "lat": -25.8907344,
-          "lon": -48.9332992
+          "referencia": "0.27 km de NELORE COUROS - GARUVA/SC",
+          "data_hora_posicao": "31/10/2026 11:01:00",
+          "lat": -26.0214,
+          "lon": -48.8621248
         },
-        "distancia_km": 112.8,
+        "distancia_km": 97.3,
         "proximo": false
       }
     ],
@@ -217,7 +217,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 10:44:37",
+          "data_hora_posicao": "31/10/2026 10:59:35",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -237,7 +237,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "31/10/2026 10:44:37",
+          "data_hora_posicao": "31/10/2026 10:59:35",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -349,5 +349,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-31T10:47:32"
+  "_gerado_em": "2026-10-31T11:02:35"
 }
