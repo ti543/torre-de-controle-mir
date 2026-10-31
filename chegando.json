@@ -13,13 +13,13 @@
         "frete_rs": 4011.03,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.11 km de PRF - 3ª DELEGACIA - ATIBAIA/SP",
-          "data_hora_posicao": "30/10/2026 20:44:39",
-          "lat": -23.1915816666667,
-          "lon": -46.5850683333333
+          "referencia": "0.9 km de POSTO 67 DA FERNÃO - MAIRIPORA/SP",
+          "data_hora_posicao": "30/10/2026 21:00:40",
+          "lat": -23.3386766666667,
+          "lon": -46.5748233333333
         },
-        "distancia_km": 33.5,
-        "proximo": false
+        "distancia_km": 18.6,
+        "proximo": true
       },
       {
         "manif": "CTB013530-5",
@@ -33,12 +33,27 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.8 km de DIESELTRONIC AUTO ELÉTRICA - QUATRO BARRAS/PR",
-          "data_hora_posicao": "30/10/2026 20:45:45",
-          "lat": -25.3564624,
-          "lon": -49.0680736
+          "referencia": "0.49 km de PRF - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "30/10/2026 20:59:45",
+          "lat": -25.2838384,
+          "lon": -48.9291968
         },
-        "distancia_km": 337.0,
+        "distancia_km": 321.1,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016298-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 15641.59,
+        "frete_rs": 25354.08,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -51,6 +66,11 @@
       "Curitiba": {
         "peso_kg": 14782.38,
         "frete_rs": 13506.06,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 15641.59,
+        "frete_rs": 25354.08,
         "qtde": 1
       }
     }
@@ -69,12 +89,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.5 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 20:45:26",
-          "lat": -25.8526608,
-          "lon": -49.0298752
+          "referencia": "0.97 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "30/10/2026 21:01:26",
+          "lat": -25.912184,
+          "lon": -48.9201408
         },
-        "distancia_km": 119.1,
+        "distancia_km": 110.2,
         "proximo": false
       }
     ],
@@ -100,12 +120,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.5 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 20:45:26",
-          "lat": -25.8526608,
-          "lon": -49.0298752
+          "referencia": "0.97 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "30/10/2026 21:01:26",
+          "lat": -25.912184,
+          "lon": -48.9201408
         },
-        "distancia_km": 162.6,
+        "distancia_km": 161.1,
         "proximo": false
       },
       {
@@ -120,12 +140,12 @@
         "frete_rs": 9538.09,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO DALPRÁ - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "30/10/2026 20:45:02",
-          "lat": -27.2863866666667,
-          "lon": -49.7804316666667
+          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 21:00:03",
+          "lat": -27.2427283333333,
+          "lon": -49.6879866666667
         },
-        "distancia_km": 15.7,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -140,12 +160,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.87 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "30/10/2026 20:46:00",
-          "lat": -28.5867151,
-          "lon": -51.0279518
+          "referencia": "0.24 km de POSTO SIM GTM - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 21:01:28",
+          "lat": -28.5025395,
+          "lon": -50.9219098
         },
-        "distancia_km": 204.7,
+        "distancia_km": 190.9,
         "proximo": false
       },
       {
@@ -160,12 +180,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.5 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "30/10/2026 20:46:04",
-          "lat": -23.728864,
-          "lon": -46.808192
+          "referencia": "0.72 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "30/10/2026 21:00:04",
+          "lat": -23.71804,
+          "lon": -46.80608
         },
-        "distancia_km": 480.4,
+        "distancia_km": 481.5,
         "proximo": false
       },
       {
@@ -180,12 +200,12 @@
         "frete_rs": 1954.13,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO DALPRÁ - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "30/10/2026 20:45:02",
-          "lat": -27.2863866666667,
-          "lon": -49.7804316666667
+          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 21:00:03",
+          "lat": -27.2427283333333,
+          "lon": -49.6879866666667
         },
-        "distancia_km": 15.7,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -200,12 +220,12 @@
         "frete_rs": 3483.42,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO DALPRÁ - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "30/10/2026 20:45:02",
-          "lat": -27.2863866666667,
-          "lon": -49.7804316666667
+          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 21:00:03",
+          "lat": -27.2427283333333,
+          "lon": -49.6879866666667
         },
-        "distancia_km": 15.7,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -220,12 +240,12 @@
         "frete_rs": 593.95,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO DALPRÁ - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "30/10/2026 20:45:02",
-          "lat": -27.2863866666667,
-          "lon": -49.7804316666667
+          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "30/10/2026 21:00:03",
+          "lat": -27.2427283333333,
+          "lon": -49.6879866666667
         },
-        "distancia_km": 15.7,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -240,12 +260,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.47 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 20:45:58",
-          "lat": -28.9649056,
-          "lon": -51.1767552
+          "referencia": "2.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 20:55:44",
+          "lat": -28.927264,
+          "lon": -51.1796736
         },
-        "distancia_km": 246.3,
+        "distancia_km": 243.2,
         "proximo": false
       },
       {
@@ -260,12 +280,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "30/10/2026 20:42:03",
-          "lat": -28.9956384,
-          "lon": -51.1821696
+          "referencia": "2.82 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "30/10/2026 20:53:18",
+          "lat": -28.931968,
+          "lon": -51.1831808
         },
-        "distancia_km": 249.4,
+        "distancia_km": 243.9,
         "proximo": false
       },
       {
@@ -312,5 +332,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T20:47:37"
+  "_gerado_em": "2026-10-30T21:02:40"
 }
