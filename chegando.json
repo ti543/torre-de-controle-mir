@@ -13,12 +13,12 @@
         "frete_rs": 13506.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.33 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "30/10/2026 22:27:45",
-          "lat": -25.0468576,
-          "lon": -48.5437632
+          "referencia": "3.61 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "30/10/2026 22:39:00",
+          "lat": -24.9673472,
+          "lon": -48.4712448
         },
-        "distancia_km": 274.3,
+        "distancia_km": 263.1,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 4391.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:29:26",
-          "lat": -26.6400992,
-          "lon": -48.692544
+          "referencia": "1.88 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 22:45:26",
+          "lat": -26.672376,
+          "lon": -48.6902496
         },
-        "distancia_km": 27.7,
+        "distancia_km": 24.1,
         "proximo": true
       },
       {
@@ -84,10 +84,30 @@
         "frete_rs": 32829.58,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:31:00",
-          "lat": -23.4707856,
-          "lon": -46.4622496
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 22:45:00",
+          "lat": -23.4707248,
+          "lon": -46.462176
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074103-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 18605.59,
+        "frete_rs": 26213.27,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "30/10/2026 22:46:16",
+          "lat": -23.4706304,
+          "lon": -46.4621472
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -100,9 +120,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 7681.5,
-        "frete_rs": 32829.58,
-        "qtde": 1
+        "peso_kg": 26287.09,
+        "frete_rs": 59042.850000000006,
+        "qtde": 2
       }
     }
   },
@@ -120,12 +140,12 @@
         "frete_rs": 5497.54,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
-          "data_hora_posicao": "30/10/2026 22:29:26",
-          "lat": -26.6400992,
-          "lon": -48.692544
+          "referencia": "1.88 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "30/10/2026 22:45:26",
+          "lat": -26.672376,
+          "lon": -48.6902496
         },
-        "distancia_km": 113.9,
+        "distancia_km": 112.1,
         "proximo": false
       },
       {
@@ -140,12 +160,12 @@
         "frete_rs": 4994.9,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "30/10/2026 22:28:00",
-          "lat": -27.8164796,
-          "lon": -50.3716101
+          "referencia": "0.49 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "30/10/2026 22:46:10",
+          "lat": -27.7919841,
+          "lon": -50.3581821
         },
-        "distancia_km": 98.4,
+        "distancia_km": 95.5,
         "proximo": false
       },
       {
@@ -160,12 +180,12 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de 36° BATALHÃO DE POLÍCIA MILITAR - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "30/10/2026 22:30:04",
-          "lat": -23.6422832,
-          "lon": -46.8322464
+          "referencia": "0.18 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "30/10/2026 22:46:04",
+          "lat": -23.6387264,
+          "lon": -46.8340672
         },
-        "distancia_km": 486.9,
+        "distancia_km": 487.1,
         "proximo": false
       },
       {
@@ -181,9 +201,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:30:22",
-          "lat": -23.4705808,
-          "lon": -46.461952
+          "data_hora_posicao": "30/10/2026 22:46:22",
+          "lat": -23.4705776,
+          "lon": -46.4619168
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -201,9 +221,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "30/10/2026 22:30:22",
-          "lat": -23.4705808,
-          "lon": -46.461952
+          "data_hora_posicao": "30/10/2026 22:46:22",
+          "lat": -23.4705776,
+          "lon": -46.4619168
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -220,12 +240,12 @@
         "frete_rs": 5153.94,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.82 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "30/10/2026 22:31:03",
-          "lat": -28.6176192,
-          "lon": -51.044192
+          "referencia": "0.75 km de POSTO ANDREAZZA 01 - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 22:45:58",
+          "lat": -28.5319808,
+          "lon": -50.9551168
         },
-        "distancia_km": 208.3,
+        "distancia_km": 195.5,
         "proximo": false
       },
       {
@@ -240,12 +260,12 @@
         "frete_rs": 7992.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.31 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "30/10/2026 22:31:09",
-          "lat": -28.6206784,
-          "lon": -51.0480608
+          "referencia": "0.45 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "30/10/2026 22:43:05",
+          "lat": -28.568768,
+          "lon": -50.9992576
         },
-        "distancia_km": 208.9,
+        "distancia_km": 201.4,
         "proximo": false
       }
     ],
@@ -313,5 +333,5 @@
       }
     }
   },
-  "_gerado_em": "2026-10-30T22:32:27"
+  "_gerado_em": "2026-10-30T22:47:37"
 }
