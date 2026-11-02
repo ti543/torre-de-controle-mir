@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 18:00:04",
+          "data_hora_posicao": "02/11/2026 18:16:04",
           "lat": -27.2059648,
           "lon": -49.6489664
         },
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 18:00:22",
-          "lat": -27.2059584,
-          "lon": -49.6489632
+          "data_hora_posicao": "02/11/2026 18:16:22",
+          "lat": -27.2059616,
+          "lon": -49.6489472
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -54,9 +54,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 18:00:22",
-          "lat": -27.2059584,
-          "lon": -49.6489632
+          "data_hora_posicao": "02/11/2026 18:16:22",
+          "lat": -27.2059616,
+          "lon": -49.6489472
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 17:59:20",
+          "data_hora_posicao": "02/11/2026 18:15:20",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 18:01:33",
+          "data_hora_posicao": "02/11/2026 18:15:33",
           "lat": -27.206032,
           "lon": -49.6488416
         },
@@ -191,9 +191,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 18:00:16",
-          "lat": -26.8874912,
-          "lon": -48.7230976
+          "data_hora_posicao": "02/11/2026 18:16:16",
+          "lat": -26.887472,
+          "lon": -48.7230848
         },
         "distancia_km": 0.2,
         "proximo": true
@@ -211,12 +211,32 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 18:01:01",
+          "data_hora_posicao": "02/11/2026 18:15:01",
           "lat": -26.8878432,
           "lon": -48.7239424
         },
         "distancia_km": 0.3,
         "proximo": true
+      },
+      {
+        "manif": "RSL044132-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 5655.51,
+        "frete_rs": 3961.26,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.12 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "02/11/2026 18:15:32",
+          "lat": -27.1445318,
+          "lon": -49.5489841
+        },
+        "distancia_km": 86.9,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -224,6 +244,11 @@
         "peso_kg": 26440.29,
         "frete_rs": 59802.94,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 5655.51,
+        "frete_rs": 3961.26,
+        "qtde": 1
       }
     }
   },
@@ -242,7 +267,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 18:00:46",
+          "data_hora_posicao": "02/11/2026 18:15:05",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +287,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 18:00:46",
+          "data_hora_posicao": "02/11/2026 18:15:05",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -281,10 +306,10 @@
         "frete_rs": 37906.0,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.43 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "02/11/2026 17:51:59",
-          "lat": -24.9227136,
-          "lon": -48.2607872
+          "referencia": "0.38 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "02/11/2026 18:15:59",
+          "lat": -24.7838064,
+          "lon": -48.1896512
         },
         "distancia_km": null,
         "proximo": false
@@ -377,12 +402,12 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "02/11/2026 18:01:14",
-          "lat": -24.7854176,
-          "lon": -48.1749792
+          "referencia": "1.61 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
+          "data_hora_posicao": "02/11/2026 18:15:02",
+          "lat": -24.720408,
+          "lon": -48.0409088
         },
-        "distancia_km": 227.1,
+        "distancia_km": 212.1,
         "proximo": false
       },
       {
@@ -397,12 +422,12 @@
         "frete_rs": 18955.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "02/11/2026 18:01:04",
-          "lat": -24.37312,
-          "lon": -47.7066208
+          "referencia": "0.05 km de BORRACHARIA HG - MIRACATU/SP",
+          "data_hora_posicao": "02/11/2026 18:15:04",
+          "lat": -24.3247984,
+          "lon": -47.5544928
         },
-        "distancia_km": 161.5,
+        "distancia_km": 146.1,
         "proximo": false
       },
       {
@@ -417,12 +442,12 @@
         "frete_rs": 25289.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.93 km de LANCHONETE KM 513 - CAJATI/SP",
-          "data_hora_posicao": "02/11/2026 17:55:22",
-          "lat": -24.8475392,
-          "lon": -48.2144
+          "referencia": "0.44 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "02/11/2026 18:04:38",
+          "lat": -24.7816464,
+          "lon": -48.1920448
         },
-        "distancia_km": 234.6,
+        "distancia_km": 228.2,
         "proximo": false
       },
       {
@@ -437,12 +462,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.93 km de LANCHONETE KM 513 - CAJATI/SP",
-          "data_hora_posicao": "02/11/2026 17:55:22",
-          "lat": -24.8475392,
-          "lon": -48.2144
+          "referencia": "0.44 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "02/11/2026 18:04:38",
+          "lat": -24.7816464,
+          "lon": -48.1920448
         },
-        "distancia_km": 234.6,
+        "distancia_km": 228.2,
         "proximo": false
       },
       {
@@ -493,12 +518,12 @@
         "frete_rs": 6442.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 17:59:14",
-          "lat": -27.2057661,
-          "lon": -49.6490848
+          "referencia": "1.01 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "02/11/2026 18:15:51",
+          "lat": -27.169563,
+          "lon": -49.5713666
         },
-        "distancia_km": 189.9,
+        "distancia_km": 184.6,
         "proximo": false
       }
     ],
@@ -510,5 +535,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-02T18:02:41"
+  "_gerado_em": "2026-11-02T18:17:38"
 }
