@@ -13,10 +13,10 @@
         "frete_rs": 10393.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 20:00:04",
-          "lat": -27.2059648,
-          "lon": -49.6489664
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "02/11/2026 20:16:04",
+          "lat": -27.2059488,
+          "lon": -49.6490656
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 20:00:22",
+          "data_hora_posicao": "02/11/2026 20:16:22",
           "lat": -27.2059488,
-          "lon": -49.6489632
+          "lon": -49.6490464
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -54,9 +54,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 20:00:22",
+          "data_hora_posicao": "02/11/2026 20:16:22",
           "lat": -27.2059488,
-          "lon": -49.6489632
+          "lon": -49.6490464
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 19:59:20",
+          "data_hora_posicao": "02/11/2026 20:15:20",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 20:01:33",
+          "data_hora_posicao": "02/11/2026 20:15:33",
           "lat": -27.206032,
           "lon": -49.6488416
         },
@@ -191,9 +191,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 20:00:16",
-          "lat": -26.887536,
-          "lon": -48.723056
+          "data_hora_posicao": "02/11/2026 20:16:16",
+          "lat": -26.8875168,
+          "lon": -48.7230848
         },
         "distancia_km": 0.2,
         "proximo": true
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 20:01:01",
+          "data_hora_posicao": "02/11/2026 20:15:01",
           "lat": -26.8878432,
           "lon": -48.7239424
         },
@@ -230,12 +230,12 @@
         "frete_rs": 3961.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.95 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "02/11/2026 20:00:54",
-          "lat": -26.8822006,
-          "lon": -48.8604548
+          "referencia": "0.43 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "02/11/2026 20:15:33",
+          "lat": -26.8422096,
+          "lon": -48.7170073
         },
-        "distancia_km": 13.8,
+        "distancia_km": 5.0,
         "proximo": true
       }
     ],
@@ -267,7 +267,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 20:00:52",
+          "data_hora_posicao": "02/11/2026 20:15:28",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -287,7 +287,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 20:00:52",
+          "data_hora_posicao": "02/11/2026 20:15:28",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -306,10 +306,10 @@
         "frete_rs": 37906.0,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de LAVADOR DO GORDINHO - MIRACATU/SP",
-          "data_hora_posicao": "02/11/2026 19:59:59",
-          "lat": -24.3252816,
-          "lon": -47.557152
+          "referencia": "0.42 km de POSTO O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "02/11/2026 20:15:59",
+          "lat": -24.262144,
+          "lon": -47.3784832
         },
         "distancia_km": null,
         "proximo": false
@@ -402,12 +402,12 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.59 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "02/11/2026 20:01:19",
-          "lat": -24.072168,
-          "lon": -47.2466112
+          "referencia": "0.32 km de POSTO DIONÍSIO 88 (BRASKEM PARADA PROIBIDA PARA PERNOITE) - MIRACATU/SP",
+          "data_hora_posicao": "02/11/2026 20:15:02",
+          "lat": -24.0233504,
+          "lon": -47.172592
         },
-        "distancia_km": 104.1,
+        "distancia_km": 94.9,
         "proximo": false
       },
       {
@@ -422,12 +422,12 @@
         "frete_rs": 18955.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.94 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "02/11/2026 20:01:04",
-          "lat": -23.945448,
-          "lon": -47.097664
+          "referencia": "1.69 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "02/11/2026 20:15:04",
+          "lat": -23.8733104,
+          "lon": -46.964272
         },
-        "distancia_km": 83.5,
+        "distancia_km": 68.0,
         "proximo": false
       },
       {
@@ -442,12 +442,12 @@
         "frete_rs": 25289.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "02/11/2026 19:58:38",
-          "lat": -24.251776,
-          "lon": -47.3732
+          "referencia": "3.66 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "02/11/2026 20:14:38",
+          "lat": -24.1443136,
+          "lon": -47.2811104
         },
-        "distancia_km": 127.0,
+        "distancia_km": 112.0,
         "proximo": false
       },
       {
@@ -462,12 +462,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "02/11/2026 19:58:38",
-          "lat": -24.251776,
-          "lon": -47.3732
+          "referencia": "3.66 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "02/11/2026 20:14:38",
+          "lat": -24.1443136,
+          "lon": -47.2811104
         },
-        "distancia_km": 127.0,
+        "distancia_km": 112.0,
         "proximo": false
       },
       {
@@ -518,12 +518,12 @@
         "frete_rs": 6442.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO JUNINHO - ILHOTA/SC",
-          "data_hora_posicao": "02/11/2026 20:00:01",
-          "lat": -26.8904938,
-          "lon": -48.8830365
+          "referencia": "0.43 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "02/11/2026 20:16:00",
+          "lat": -26.8423646,
+          "lon": -48.7166785
         },
-        "distancia_km": 157.0,
+        "distancia_km": 157.2,
         "proximo": false
       }
     ],
@@ -535,5 +535,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-02T20:02:47"
+  "_gerado_em": "2026-11-02T20:17:50"
 }
