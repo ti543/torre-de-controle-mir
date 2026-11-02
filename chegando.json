@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:16:04",
+          "data_hora_posicao": "02/11/2026 14:30:04",
           "lat": -27.2059648,
           "lon": -49.6489664
         },
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:16:22",
-          "lat": -27.2059712,
-          "lon": -49.6489824
+          "data_hora_posicao": "02/11/2026 14:30:22",
+          "lat": -27.2059488,
+          "lon": -49.6489728
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -54,9 +54,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:16:22",
-          "lat": -27.2059712,
-          "lon": -49.6489824
+          "data_hora_posicao": "02/11/2026 14:30:22",
+          "lat": -27.2059488,
+          "lon": -49.6489728
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:15:20",
+          "data_hora_posicao": "02/11/2026 14:31:20",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:15:33",
+          "data_hora_posicao": "02/11/2026 14:31:33",
           "lat": -27.206032,
           "lon": -49.6488416
         },
@@ -190,10 +190,10 @@
         "frete_rs": 26213.27,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 14:12:16",
-          "lat": -26.8875136,
-          "lon": -48.7230912
+          "referencia": "0.09 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "02/11/2026 14:30:16",
+          "lat": -26.8874752,
+          "lon": -48.7231296
         },
         "distancia_km": 0.2,
         "proximo": true
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 14:15:01",
+          "data_hora_posicao": "02/11/2026 14:31:01",
           "lat": -26.8878432,
           "lon": -48.7239424
         },
@@ -242,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 14:16:29",
+          "data_hora_posicao": "02/11/2026 14:29:46",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -262,7 +262,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 14:16:29",
+          "data_hora_posicao": "02/11/2026 14:29:46",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -282,7 +282,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "02/11/2026 14:15:59",
+          "data_hora_posicao": "02/11/2026 14:29:59",
           "lat": -25.6574064,
           "lon": -49.1549088
         },
@@ -377,12 +377,12 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.04 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "02/11/2026 14:15:39",
-          "lat": -25.8430176,
-          "lon": -49.1015328
+          "referencia": "0.36 km de POSTO TIO ZICO 01 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "02/11/2026 14:31:39",
+          "lat": -25.6936992,
+          "lon": -49.1446688
         },
-        "distancia_km": 375.1,
+        "distancia_km": 367.0,
         "proximo": false
       },
       {
@@ -397,12 +397,12 @@
         "frete_rs": 18955.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO COSTA BRAVA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "02/11/2026 14:15:04",
-          "lat": -25.3206976,
-          "lon": -49.0227968
+          "referencia": "0.14 km de POSTO MAHLE CAMPINA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "02/11/2026 14:31:04",
+          "lat": -25.2193616,
+          "lon": -48.9044928
         },
-        "distancia_km": 331.0,
+        "distancia_km": 314.7,
         "proximo": false
       },
       {
@@ -417,10 +417,10 @@
         "frete_rs": 25289.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "02/11/2026 14:14:38",
-          "lat": -25.657576,
-          "lon": -49.1553856
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "02/11/2026 14:31:10",
+          "lat": -25.6575872,
+          "lon": -49.1557056
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -437,10 +437,10 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "02/11/2026 14:14:38",
-          "lat": -25.657576,
-          "lon": -49.1553856
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "02/11/2026 14:31:10",
+          "lat": -25.6575872,
+          "lon": -49.1557056
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -494,7 +494,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 14:13:59",
+          "data_hora_posicao": "02/11/2026 14:29:59",
           "lat": -27.2060693,
           "lon": -49.6492616
         },
@@ -510,5 +510,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-02T14:17:34"
+  "_gerado_em": "2026-11-02T14:32:45"
 }
