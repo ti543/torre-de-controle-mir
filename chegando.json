@@ -14,7 +14,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 12:57:29",
+          "data_hora_posicao": "03/11/2026 13:13:29",
           "lat": -26.887781,
           "lon": -48.7206293
         },
@@ -27,82 +27,6 @@
         "peso_kg": 193.6,
         "frete_rs": 575.59,
         "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "LGS001605-5",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1475.0,
-        "frete_rs": 1250.0,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 12:59:53",
-          "lat": -29.1465266666667,
-          "lon": -51.1648116666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044128-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 16921.85,
-        "frete_rs": 10523.63,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 12:59:53",
-          "lat": -29.1465266666667,
-          "lon": -51.1648116666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044131-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 740.0,
-        "frete_rs": 390.21,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 12:59:53",
-          "lat": -29.1465266666667,
-          "lon": -51.1648116666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 1475.0,
-        "frete_rs": 1250.0,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 17661.85,
-        "frete_rs": 10913.839999999998,
-        "qtde": 2
       }
     }
   },
@@ -120,12 +44,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de NEW VAGAS ESTACIONAMENTOS 02 - OSASCO/SP",
-          "data_hora_posicao": "03/11/2026 13:00:38",
-          "lat": -23.4794944,
-          "lon": -46.78176
+          "referencia": "0.3 km de CBD GRUPO PÃO DE AÇUCAR (CD FRIGORIFICADO E PESCADOS) - OSASCO/SP",
+          "data_hora_posicao": "03/11/2026 13:15:21",
+          "lat": -23.4787424,
+          "lon": -46.7827328
         },
-        "distancia_km": 32.6,
+        "distancia_km": 32.7,
         "proximo": false
       }
     ],
@@ -151,10 +75,10 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 12:59:53",
-          "lat": -29.1465266666667,
-          "lon": -51.1648116666667
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "03/11/2026 13:16:13",
+          "lat": -29.14647,
+          "lon": -51.1648633333333
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -168,5 +92,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T13:02:32"
+  "_gerado_em": "2026-11-03T13:17:32"
 }
