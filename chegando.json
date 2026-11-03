@@ -13,12 +13,12 @@
         "frete_rs": 575.59,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.13 km de FORT ATACADISTA – FILIAL 115 - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "03/11/2026 11:46:10",
-          "lat": -27.0019176,
-          "lon": -48.6368601
+          "referencia": "0.25 km de LR LOGISTICS SOLUTIONS - CAMBORIU/SC",
+          "data_hora_posicao": "03/11/2026 12:00:01",
+          "lat": -26.9916041,
+          "lon": -48.6621721
         },
-        "distancia_km": 15.2,
+        "distancia_km": 13.0,
         "proximo": true
       }
     ],
@@ -44,10 +44,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "03/11/2026 11:43:47",
-          "lat": -28.9082216666667,
-          "lon": -51.1934983333333
+          "referencia": "5.07 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "03/11/2026 11:56:08",
+          "lat": -28.9506666666667,
+          "lon": -51.17424
         },
         "distancia_km": null,
         "proximo": false
@@ -64,10 +64,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "03/11/2026 11:43:47",
-          "lat": -28.9082216666667,
-          "lon": -51.1934983333333
+          "referencia": "5.07 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "03/11/2026 11:56:08",
+          "lat": -28.9506666666667,
+          "lon": -51.17424
         },
         "distancia_km": null,
         "proximo": false
@@ -84,10 +84,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "03/11/2026 11:43:47",
-          "lat": -28.9082216666667,
-          "lon": -51.1934983333333
+          "referencia": "5.07 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "03/11/2026 11:56:08",
+          "lat": -28.9506666666667,
+          "lon": -51.17424
         },
         "distancia_km": null,
         "proximo": false
@@ -120,12 +120,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.19 km de CBD GRUPO PÃO DE AÇUCAR (CD FRIGORIFICADO E PESCADOS) - OSASCO/SP",
-          "data_hora_posicao": "03/11/2026 11:44:38",
-          "lat": -23.4802992,
-          "lon": -46.7820256
+          "referencia": "0.25 km de CBD GRUPO PÃO DE AÇUCAR (CD FRIGORIFICADO E PESCADOS) - OSASCO/SP",
+          "data_hora_posicao": "03/11/2026 12:00:38",
+          "lat": -23.4791648,
+          "lon": -46.7828608
         },
-        "distancia_km": 32.6,
+        "distancia_km": 32.7,
         "proximo": false
       }
     ],
@@ -134,57 +134,6 @@
         "peso_kg": 541.0,
         "frete_rs": 348.99,
         "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "RSL044121-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 6985.74,
-        "frete_rs": 7342.41,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 11:46:16",
-          "lat": -26.8101824,
-          "lon": -49.0896288
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044122-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 3553.89,
-        "frete_rs": 1875.29,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 11:46:16",
-          "lat": -26.8101824,
-          "lon": -49.0896288
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 10539.63,
-        "frete_rs": 9217.7,
-        "qtde": 2
       }
     }
   },
@@ -202,12 +151,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "03/11/2026 11:43:47",
-          "lat": -28.9082216666667,
-          "lon": -51.1934983333333
+          "referencia": "5.07 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "03/11/2026 11:56:08",
+          "lat": -28.9506666666667,
+          "lon": -51.17424
         },
-        "distancia_km": 119.6,
+        "distancia_km": 114.8,
         "proximo": false
       }
     ],
@@ -219,5 +168,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T11:47:36"
+  "_gerado_em": "2026-11-03T12:02:48"
 }
