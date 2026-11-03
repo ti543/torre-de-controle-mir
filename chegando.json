@@ -1,384 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074094-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 5898.33,
-        "frete_rs": 10393.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 23:46:04",
-          "lat": -27.2059808,
-          "lon": -49.648976
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074098-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 5619.49,
-        "frete_rs": 7617.97,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 23:46:22",
-          "lat": -27.205968,
-          "lon": -49.6489472
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074100-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 11246.0,
-        "frete_rs": 10291.43,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 23:46:22",
-          "lat": -27.205968,
-          "lon": -49.6489472
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074105-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 7283.09,
-        "frete_rs": 14175.0,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023966-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RDW1H87",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 23:43:20",
-          "lat": -27.206135,
-          "lon": -49.6492005
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 30046.91,
-        "frete_rs": 42477.72,
-        "qtde": 4
-      },
-      "Itajaí": {
-        "peso_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074099-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 16005.79,
-        "frete_rs": 17658.68,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074101-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 304.0,
-        "frete_rs": 232.51,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023962-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 2320.24,
-        "frete_rs": 6770.57,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 23:45:33",
-          "lat": -27.206032,
-          "lon": -49.6488416
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 16309.79,
-        "frete_rs": 17891.19,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 2320.24,
-        "frete_rs": 6770.57,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074103-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 18605.59,
-        "frete_rs": 26213.27,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 23:46:16",
-          "lat": -26.8875136,
-          "lon": -48.7230976
-        },
-        "distancia_km": 0.2,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074109-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 7834.7,
-        "frete_rs": 33589.67,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 23:45:01",
-          "lat": -26.8874784,
-          "lon": -48.7212992
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044132-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 5655.51,
-        "frete_rs": 3961.26,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 23:44:17",
-          "lat": -26.8877406,
-          "lon": -48.7213635
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 26440.29,
-        "frete_rs": 59802.94,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 5655.51,
-        "frete_rs": 3961.26,
-        "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074106-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 2076.53,
-        "frete_rs": 3358.2,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 23:46:19",
-          "lat": -22.8469616666667,
-          "lon": -47.12479
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074107-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 907.64,
-        "frete_rs": 949.82,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 23:46:19",
-          "lat": -22.8469616666667,
-          "lon": -47.12479
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044125-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 27553.34,
-        "frete_rs": 37906.0,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 2984.17,
-        "frete_rs": 4308.0199999999995,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 27553.34,
-        "frete_rs": 37906.0,
-        "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074111-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 13312.28,
-        "frete_rs": 11406.27,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "2.57 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "02/11/2026 23:46:24",
-          "lat": -23.8087328,
-          "lon": -46.9241984
-        },
-        "distancia_km": 306.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044120-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.32 km de AUTO POSTO JOSE LUIZ 01 - ARAUCARIA/PR",
-          "data_hora_posicao": "02/11/2026 23:46:24",
-          "lat": -25.5904298,
-          "lon": -49.4101171
-        },
-        "distancia_km": 13.5,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 13312.28,
-        "frete_rs": 11406.27,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -412,36 +32,6 @@
         "proximo": false
       },
       {
-        "manif": "RSL044110-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 24200.98,
-        "frete_rs": 25742.15,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044111-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 3764.0,
-        "frete_rs": 1908.67,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "RSL044112-1",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -454,7 +44,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 23:45:02",
+          "data_hora_posicao": "03/11/2026 00:01:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -474,7 +64,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 23:45:04",
+          "data_hora_posicao": "03/11/2026 00:01:04",
           "lat": -23.470472,
           "lon": -46.462544
         },
@@ -494,7 +84,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 23:44:38",
+          "data_hora_posicao": "03/11/2026 00:00:38",
           "lat": -23.4703088,
           "lon": -46.462304
         },
@@ -514,27 +104,12 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 23:44:38",
+          "data_hora_posicao": "03/11/2026 00:00:38",
           "lat": -23.4703088,
           "lon": -46.462304
         },
         "distancia_km": 0.0,
         "proximo": true
-      },
-      {
-        "manif": "TBO016298-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 15641.59,
-        "frete_rs": 25354.08,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -544,16 +119,130 @@
         "qtde": 2
       },
       "Rio do Sul": {
-        "peso_kg": 118472.07,
-        "frete_rs": 94363.03,
-        "qtde": 6
-      },
-      "Timbó": {
-        "peso_kg": 15641.59,
-        "frete_rs": 25354.08,
+        "peso_kg": 90507.09,
+        "frete_rs": 66712.21,
+        "qtde": 4
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "ITJ023966-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RDW1H87",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 4278.85,
+        "frete_rs": 3476.28,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "02/11/2026 23:59:20",
+          "lat": -27.206135,
+          "lon": -49.6492005
+        },
+        "distancia_km": 0.1,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4278.85,
+        "frete_rs": 3476.28,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-02T23:47:33"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044120-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 8552.78,
+        "frete_rs": 6442.8,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.08 km de POSTO TIO ZICO 04 (BANDEIRAS ROTA SUL) - ARAUCARIA/PR",
+          "data_hora_posicao": "02/11/2026 23:56:55",
+          "lat": -25.6141793,
+          "lon": -49.4245646
+        },
+        "distancia_km": 16.1,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 8552.78,
+        "frete_rs": 6442.8,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "RSL044125-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 27553.34,
+        "frete_rs": 37906.0,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 27553.34,
+        "frete_rs": 37906.0,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "RSL044132-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 5655.51,
+        "frete_rs": 3961.26,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 00:00:17",
+          "lat": -26.8877406,
+          "lon": -48.7213635
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 5655.51,
+        "frete_rs": 3961.26,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-03T00:02:43"
 }
