@@ -342,14 +342,27 @@ atualizarBotaoInstalar();
 // permission) já é guardada pelo próprio navegador entre uma visita e
 // outra; aqui só guardamos que FOI ESSE site que já concluiu a ativação
 // (gerou token e salvou no Firestore) pra essa unidade.
+// Guarda o TOKEN em si (não só "1"/"0") -- é isso que permite desativar
+// direito mais tarde. O Firebase pode trocar o token do aparelho sozinho
+// de vez em quando (rotação em segundo plano); se na hora de desativar a
+// gente pedisse um token novo pra montar o id do documento a apagar, e
+// ele tivesse mudado, ia tentar apagar um documento que nunca existiu --
+// o Firestore não avisa erro nenhum apagando algo que não existe, então a
+// tela mostrava "desativado" certinho, mas o documento de verdade (criado
+// com o token antigo) continuava lá e as notificações continuavam vindo.
+// Guardando o token usado de verdade na ativação, o desativar sempre apaga
+// o documento certo.
 function flagNotifAtivadasKey(cod) {
-  return "torre_notif_ativas_" + cod;
+  return "torre_notif_token_" + cod;
+}
+function tokenNotifAtivado(cod) {
+  try { return localStorage.getItem(flagNotifAtivadasKey(cod)) || ""; } catch (e) { return ""; }
 }
 function notifJaAtivadas(cod) {
-  try { return localStorage.getItem(flagNotifAtivadasKey(cod)) === "1"; } catch (e) { return false; }
+  return !!tokenNotifAtivado(cod);
 }
-function marcarNotifAtivadas(cod) {
-  try { localStorage.setItem(flagNotifAtivadasKey(cod), "1"); } catch (e) {}
+function marcarNotifAtivadas(cod, token) {
+  try { localStorage.setItem(flagNotifAtivadasKey(cod), token); } catch (e) {}
 }
 function desmarcarNotifAtivadas(cod) {
   try { localStorage.removeItem(flagNotifAtivadasKey(cod)); } catch (e) {}
@@ -359,8 +372,7 @@ function desmarcarNotifAtivadas(cod) {
 // unidade (ex.: alguém que acompanha mais de um lugar) -- por isso o
 // documento no Firestore não usa só o token como id (isso faria a
 // segunda unidade ativada sobrescrever a primeira, já que o token do
-// aparelho é sempre o mesmo). Usa token+unidade juntos, e guarda o token
-// também como campo (pra quem lê na hora de mandar a notificação).
+// aparelho é sempre o mesmo). Usa token+unidade juntos.
 function idInscricao(token, cod) {
   return `${token}__${cod}`;
 }
@@ -414,7 +426,16 @@ async function ativarNotificacoes() {
       unidade: cod,
       atualizadoEm: serverTimestamp(),
     });
-    marcarNotifAtivadas(cod);
+    // Se o token tinha mudado desde a última vez que ativou (o Firebase às
+    // vezes rotaciona sozinho), o documento antigo (com o token velho) fica
+    // órfão no Firestore pra sempre, continuando a receber notificação sem
+    // ninguém conseguir desativar -- apaga ele aqui, já que achamos o token
+    // novo mesmo.
+    const tokenAntigo = tokenNotifAtivado(cod);
+    if (tokenAntigo && tokenAntigo !== token) {
+      deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(tokenAntigo, cod))).catch(() => {});
+    }
+    marcarNotifAtivadas(cod, token);
     atualizarStatusNotificacoes(cod);
     onMessage(messaging, (payload) => {
       carregarChegadas(cod);
@@ -429,12 +450,29 @@ async function desativarNotificacoes() {
   if (!cod) return;
   try {
     textoStatus.textContent = "Desativando...";
-    const registration = await navigator.serviceWorker.register("firebase-messaging-sw.js");
-    const messaging = getMessaging(app);
-    const token = await getToken(messaging, { vapidKey: VAPID_KEY, serviceWorkerRegistration: registration });
-    if (token) {
-      await authPronta;
-      await deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(token, cod)));
+    await authPronta;
+    // Apaga usando o token que foi SALVO de verdade na hora de ativar --
+    // não dá pra confiar em pedir um token novo agora pra montar o id,
+    // porque se o Firebase tiver rotacionado o token nesse meio tempo, o
+    // id ia dar diferente do documento real, e apagar "algo que não
+    // existe" não dá erro nenhum no Firestore -- a tela mostraria
+    // "desativado" certinho, mas a inscrição de verdade continuaria lá,
+    // recebendo notificação pra sempre. Esse era o bug.
+    const tokenSalvo = tokenNotifAtivado(cod);
+    if (tokenSalvo) {
+      await deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(tokenSalvo, cod)));
+    }
+    // Por garantia, se o token ATUAL for diferente do salvo, apaga o
+    // documento dele também (caso tenha sido criado por algum motivo).
+    try {
+      const registration = await navigator.serviceWorker.register("firebase-messaging-sw.js");
+      const messaging = getMessaging(app);
+      const tokenAtual = await getToken(messaging, { vapidKey: VAPID_KEY, serviceWorkerRegistration: registration });
+      if (tokenAtual && tokenAtual !== tokenSalvo) {
+        await deleteDoc(doc(db, "inscricoes_gerentes", idInscricao(tokenAtual, cod)));
+      }
+    } catch (e) {
+      // não é grave -- o que importa é ter apagado o documento salvo acima.
     }
     desmarcarNotifAtivadas(cod);
     atualizarStatusNotificacoes(cod);
