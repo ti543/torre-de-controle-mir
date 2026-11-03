@@ -1,4 +1,35 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "FLN000134-1",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 193.6,
+        "frete_rs": 575.59,
+        "grupo_origem": "FLN",
+        "posicao_raster": {
+          "referencia": "2.66 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "03/11/2026 10:31:11",
+          "lat": -27.559484,
+          "lon": -48.6956323
+        },
+        "distancia_km": 74.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "FLN": {
+        "peso_kg": 193.6,
+        "frete_rs": 575.59,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -13,10 +44,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -28.2659666666667,
-          "lon": -50.7881983333333
+          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:29:31",
+          "lat": -28.5156316666667,
+          "lon": -50.9366333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +64,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -28.2659666666667,
-          "lon": -50.7881983333333
+          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:29:31",
+          "lat": -28.5156316666667,
+          "lon": -50.9366333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -53,10 +84,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -28.2659666666667,
-          "lon": -50.7881983333333
+          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:29:31",
+          "lat": -28.5156316666667,
+          "lon": -50.9366333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -89,30 +120,10 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 10:01:02",
-          "lat": -23.4706192,
-          "lon": -46.4622528
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044115-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 33058.0,
-        "frete_rs": 18955.31,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 10:01:04",
-          "lat": -23.47044,
-          "lon": -46.4620448
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 10:31:02",
+          "lat": -23.4703904,
+          "lon": -46.462384
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -129,20 +140,20 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.68 km de AVN TRANSPORTES - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 10:00:38",
-          "lat": -23.4736704,
-          "lon": -46.4831392
+          "referencia": "0.17 km de POSTO EXTRA - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 10:28:38",
+          "lat": -23.5207824,
+          "lon": -46.5567008
         },
-        "distancia_km": 2.2,
+        "distancia_km": 11.1,
         "proximo": true
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 62991.29,
-        "frete_rs": 41423.200000000004,
-        "qtde": 3
+        "peso_kg": 29933.29,
+        "frete_rs": 22467.890000000003,
+        "qtde": 2
       }
     }
   },
@@ -160,10 +171,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -26.7655472,
-          "lon": -49.07848
+          "referencia": "0.3 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 10:30:42",
+          "lat": -26.7657264,
+          "lon": -49.0785248
         },
         "distancia_km": null,
         "proximo": false
@@ -180,10 +191,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -26.7655472,
-          "lon": -49.07848
+          "referencia": "0.3 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 10:30:42",
+          "lat": -26.7657264,
+          "lon": -49.0785248
         },
         "distancia_km": null,
         "proximo": false
@@ -211,12 +222,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:00:42",
-          "lat": -28.2659666666667,
-          "lon": -50.7881983333333
+          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:29:31",
+          "lat": -28.5156316666667,
+          "lon": -50.9366333333333
         },
-        "distancia_km": 194.8,
+        "distancia_km": 165.0,
         "proximo": false
       }
     ],
@@ -228,5 +239,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T10:02:36"
+  "_gerado_em": "2026-11-03T10:32:26"
 }
