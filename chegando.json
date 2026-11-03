@@ -13,12 +13,12 @@
         "frete_rs": 575.59,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "2.66 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "03/11/2026 10:31:11",
-          "lat": -27.559484,
-          "lon": -48.6956323
+          "referencia": "3.19 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "03/11/2026 10:40:03",
+          "lat": -27.4653708,
+          "lon": -48.7216453
         },
-        "distancia_km": 74.8,
+        "distancia_km": 64.3,
         "proximo": false
       }
     ],
@@ -44,10 +44,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:29:31",
-          "lat": -28.5156316666667,
-          "lon": -50.9366333333333
+          "referencia": "4.2 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:44:37",
+          "lat": -28.5898533333333,
+          "lon": -51.0294166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -64,10 +64,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:29:31",
-          "lat": -28.5156316666667,
-          "lon": -50.9366333333333
+          "referencia": "4.2 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:44:37",
+          "lat": -28.5898533333333,
+          "lon": -51.0294166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -84,10 +84,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:29:31",
-          "lat": -28.5156316666667,
-          "lon": -50.9366333333333
+          "referencia": "4.2 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:44:37",
+          "lat": -28.5898533333333,
+          "lon": -51.0294166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -109,26 +109,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "RSL044112-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 29392.29,
-        "frete_rs": 22118.9,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 10:31:02",
-          "lat": -23.4703904,
-          "lon": -46.462384
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "RSL044118-0",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -140,20 +120,20 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO EXTRA - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 10:28:38",
-          "lat": -23.5207824,
-          "lon": -46.5567008
+          "referencia": "0.12 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (VILA MARIA) - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 10:44:38",
+          "lat": -23.5257408,
+          "lon": -46.5742048
         },
-        "distancia_km": 11.1,
+        "distancia_km": 13.0,
         "proximo": true
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 29933.29,
-        "frete_rs": 22467.890000000003,
-        "qtde": 2
+        "peso_kg": 541.0,
+        "frete_rs": 348.99,
+        "qtde": 1
       }
     }
   },
@@ -172,7 +152,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.3 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 10:30:42",
+          "data_hora_posicao": "03/11/2026 10:44:42",
           "lat": -26.7657264,
           "lon": -49.0785248
         },
@@ -192,7 +172,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.3 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 10:30:42",
+          "data_hora_posicao": "03/11/2026 10:44:42",
           "lat": -26.7657264,
           "lon": -49.0785248
         },
@@ -222,12 +202,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "03/11/2026 10:29:31",
-          "lat": -28.5156316666667,
-          "lon": -50.9366333333333
+          "referencia": "4.2 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:44:37",
+          "lat": -28.5898533333333,
+          "lon": -51.0294166666667
         },
-        "distancia_km": 165.0,
+        "distancia_km": 155.7,
         "proximo": false
       }
     ],
@@ -239,5 +219,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T10:32:26"
+  "_gerado_em": "2026-11-03T10:47:37"
 }
