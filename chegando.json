@@ -13,10 +13,10 @@
         "frete_rs": 8284.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.87 km de MANDIRA TRANSPORTES - PORTO BELO/SC - PORTO BELO/SC",
-          "data_hora_posicao": "03/11/2026 08:31:28",
-          "lat": -27.1656881,
-          "lon": -48.6113946
+          "referencia": "0.35 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "03/11/2026 08:45:46",
+          "lat": -27.323787,
+          "lon": -48.6273343
         },
         "distancia_km": null,
         "proximo": false
@@ -27,6 +27,113 @@
         "peso_kg": 9417.71,
         "frete_rs": 8284.28,
         "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "LGS001604-7",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 7817.1,
+        "frete_rs": 7477.71,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "03/11/2026 08:46:22",
+          "lat": -22.8469168,
+          "lon": -47.1247072
+        },
+        "distancia_km": 547.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 7817.1,
+        "frete_rs": 7477.71,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "LGS001605-5",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1475.0,
+        "frete_rs": 1250.0,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.42 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:44:50",
+          "lat": -27.8185066666667,
+          "lon": -50.3687633333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044128-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 16921.85,
+        "frete_rs": 10523.63,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.42 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:44:50",
+          "lat": -27.8185066666667,
+          "lon": -50.3687633333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044131-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 740.0,
+        "frete_rs": 390.21,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.42 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:44:50",
+          "lat": -27.8185066666667,
+          "lon": -50.3687633333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 1475.0,
+        "frete_rs": 1250.0,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 17661.85,
+        "frete_rs": 10913.839999999998,
+        "qtde": 2
       }
     }
   },
@@ -45,7 +152,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:31:02",
+          "data_hora_posicao": "03/11/2026 08:45:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -65,29 +172,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:31:04",
+          "data_hora_posicao": "03/11/2026 08:45:04",
           "lat": -23.47044,
           "lon": -46.4620448
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044117-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 27515.8,
-        "frete_rs": 25289.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:30:38",
-          "lat": -23.4704224,
-          "lon": -46.4622112
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -104,10 +191,10 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:30:38",
-          "lat": -23.4704224,
-          "lon": -46.4622112
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 08:44:38",
+          "lat": -23.4705776,
+          "lon": -46.4624896
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -115,9 +202,9 @@
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 90507.09,
-        "frete_rs": 66712.21,
-        "qtde": 4
+        "peso_kg": 62991.29,
+        "frete_rs": 41423.200000000004,
+        "qtde": 3
       }
     }
   },
@@ -135,10 +222,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:30:42",
-          "lat": -26.8750752,
-          "lon": -49.2521216
+          "referencia": "0.37 km de CONCESSIONARIA MERCEDES BENZ - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 08:45:56",
+          "lat": -26.8717984,
+          "lon": -49.2303808
         },
         "distancia_km": null,
         "proximo": false
@@ -155,10 +242,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:30:42",
-          "lat": -26.8750752,
-          "lon": -49.2521216
+          "referencia": "0.37 km de CONCESSIONARIA MERCEDES BENZ - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 08:45:56",
+          "lat": -26.8717984,
+          "lon": -49.2303808
         },
         "distancia_km": null,
         "proximo": false
@@ -168,57 +255,6 @@
       "Rio do Sul": {
         "peso_kg": 10539.63,
         "frete_rs": 9217.7,
-        "qtde": 2
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044128-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 16921.85,
-        "frete_rs": 10523.63,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:29:37",
-          "lat": -27.8238016666667,
-          "lon": -50.3627783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044131-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 740.0,
-        "frete_rs": 390.21,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:29:37",
-          "lat": -27.8238016666667,
-          "lon": -50.3627783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 17661.85,
-        "frete_rs": 10913.839999999998,
         "qtde": 2
       }
     }
@@ -237,12 +273,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:29:37",
-          "lat": -27.8238016666667,
-          "lon": -50.3627783333333
+          "referencia": "0.42 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:44:50",
+          "lat": -27.8185066666667,
+          "lon": -50.3687633333333
         },
-        "distancia_km": 253.2,
+        "distancia_km": 253.5,
         "proximo": false
       }
     ],
@@ -254,5 +290,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T08:32:38"
+  "_gerado_em": "2026-11-03T08:47:36"
 }
