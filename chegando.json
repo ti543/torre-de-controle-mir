@@ -14,7 +14,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 06:31:19",
+          "data_hora_posicao": "03/11/2026 06:43:19",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 06:31:02",
+          "data_hora_posicao": "03/11/2026 06:45:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 06:31:04",
+          "data_hora_posicao": "03/11/2026 06:45:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -85,7 +85,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 06:30:38",
+          "data_hora_posicao": "03/11/2026 06:44:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -105,7 +105,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 06:30:38",
+          "data_hora_posicao": "03/11/2026 06:44:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -135,10 +135,10 @@
         "frete_rs": 6442.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO 04 (BANDEIRAS ROTA SUL) - ARAUCARIA/PR",
-          "data_hora_posicao": "03/11/2026 06:28:17",
-          "lat": -25.6140483,
-          "lon": -49.4245216
+          "referencia": "0.1 km de POSTO TIO ZICO 04 (BANDEIRAS ROTA SUL) - ARAUCARIA/PR",
+          "data_hora_posicao": "03/11/2026 06:46:17",
+          "lat": -25.6140041,
+          "lon": -49.4245965
         },
         "distancia_km": 16.1,
         "proximo": true
@@ -166,10 +166,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.23 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 06:30:42",
-          "lat": -26.904832,
-          "lon": -49.2713472
+          "referencia": "0.05 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 06:44:42",
+          "lat": -26.842568,
+          "lon": -49.2730176
         },
         "distancia_km": null,
         "proximo": false
@@ -186,10 +186,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.23 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 06:30:42",
-          "lat": -26.904832,
-          "lon": -49.2713472
+          "referencia": "0.05 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 06:44:42",
+          "lat": -26.842568,
+          "lon": -49.2730176
         },
         "distancia_km": null,
         "proximo": false
@@ -200,32 +200,6 @@
         "peso_kg": 10539.63,
         "frete_rs": 9217.7,
         "qtde": 2
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "RSL044125-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 27553.34,
-        "frete_rs": 37906.0,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 27553.34,
-        "frete_rs": 37906.0,
-        "qtde": 1
       }
     }
   },
@@ -243,10 +217,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.64 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 06:27:33",
-          "lat": -27.29448,
-          "lon": -50.1473066666667
+          "referencia": "0.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 06:37:33",
+          "lat": -27.3054666666667,
+          "lon": -50.22704
         },
         "distancia_km": null,
         "proximo": false
@@ -263,10 +237,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.64 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 06:27:33",
-          "lat": -27.29448,
-          "lon": -50.1473066666667
+          "referencia": "0.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 06:37:33",
+          "lat": -27.3054666666667,
+          "lon": -50.22704
         },
         "distancia_km": null,
         "proximo": false
@@ -294,10 +268,10 @@
         "frete_rs": 5195.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.64 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 06:27:33",
-          "lat": -27.29448,
-          "lon": -50.1473066666667
+          "referencia": "0.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 06:37:33",
+          "lat": -27.3054666666667,
+          "lon": -50.22704
         },
         "distancia_km": null,
         "proximo": false
@@ -325,12 +299,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.64 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 06:27:33",
-          "lat": -27.29448,
-          "lon": -50.1473066666667
+          "referencia": "0.7 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 06:37:33",
+          "lat": -27.3054666666667,
+          "lon": -50.22704
         },
-        "distancia_km": 315.7,
+        "distancia_km": 312.1,
         "proximo": false
       }
     ],
@@ -342,5 +316,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T06:32:32"
+  "_gerado_em": "2026-11-03T06:47:33"
 }
