@@ -14,7 +14,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 04:59:19",
+          "data_hora_posicao": "03/11/2026 05:15:19",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 05:01:02",
+          "data_hora_posicao": "03/11/2026 05:15:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 05:01:04",
+          "data_hora_posicao": "03/11/2026 05:15:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -84,10 +84,10 @@
         "frete_rs": 25289.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 05:00:38",
-          "lat": -23.4703088,
-          "lon": -46.462304
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 05:14:38",
+          "lat": -23.4705184,
+          "lon": -46.4620768
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -104,10 +104,10 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 05:00:38",
-          "lat": -23.4703088,
-          "lon": -46.462304
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 05:14:38",
+          "lat": -23.4705184,
+          "lon": -46.4620768
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -136,7 +136,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO TIO ZICO 04 (BANDEIRAS ROTA SUL) - ARAUCARIA/PR",
-          "data_hora_posicao": "03/11/2026 05:00:02",
+          "data_hora_posicao": "03/11/2026 05:16:02",
           "lat": -25.6141001,
           "lon": -49.4245075
         },
@@ -149,6 +149,57 @@
         "peso_kg": 8552.78,
         "frete_rs": 6442.8,
         "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "RSL044121-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 6985.74,
+        "frete_rs": 7342.41,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:15:50",
+          "lat": -27.2072864,
+          "lon": -49.6488224
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044122-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 3553.89,
+        "frete_rs": 1875.29,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:15:50",
+          "lat": -27.2072864,
+          "lon": -49.6488224
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 10539.63,
+        "frete_rs": 9217.7,
+        "qtde": 2
       }
     }
   },
@@ -178,6 +229,119 @@
       }
     }
   },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044128-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 16921.85,
+        "frete_rs": 10523.63,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.53 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:16:28",
+          "lat": -27.21056,
+          "lon": -49.6518183333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044131-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 740.0,
+        "frete_rs": 390.21,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.53 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:16:28",
+          "lat": -27.21056,
+          "lon": -49.6518183333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 17661.85,
+        "frete_rs": 10913.839999999998,
+        "qtde": 2
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "RSL044129-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 3344.3,
+        "frete_rs": 5195.28,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.53 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:16:28",
+          "lat": -27.21056,
+          "lon": -49.6518183333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 3344.3,
+        "frete_rs": 5195.28,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "RSL044130-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 6236.67,
+        "frete_rs": 4595.36,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.53 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 05:16:28",
+          "lat": -27.21056,
+          "lon": -49.6518183333333
+        },
+        "distancia_km": 342.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 6236.67,
+        "frete_rs": 4595.36,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -193,7 +357,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 05:00:17",
+          "data_hora_posicao": "03/11/2026 05:12:17",
           "lat": -26.8877216,
           "lon": -48.7212071
         },
@@ -209,5 +373,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T05:02:26"
+  "_gerado_em": "2026-11-03T05:17:32"
 }
