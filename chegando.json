@@ -1,6 +1,138 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000752-8",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3401.73,
+        "frete_rs": 5960.61,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.82 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "03/11/2026 18:31:27",
+          "lat": -27.0969806,
+          "lon": -48.9296166
+        },
+        "distancia_km": 31.1,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013541-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 4186.06,
+        "frete_rs": 3541.51,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:29:34",
+          "lat": -25.5276078,
+          "lon": -49.2954556
+        },
+        "distancia_km": 161.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 3401.73,
+        "frete_rs": 5960.61,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 4186.06,
+        "frete_rs": 3541.51,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CTB013540-2",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 1217.58,
+        "frete_rs": 1446.76,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.04 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:31:28",
+          "lat": -25.5275808,
+          "lon": -49.2954624
+        },
+        "distancia_km": 366.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044118-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 541.0,
+        "frete_rs": 348.99,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 18:30:38",
+          "lat": -23.4705264,
+          "lon": -46.46248
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 1217.58,
+        "frete_rs": 1446.76,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 541.0,
+        "frete_rs": 348.99,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013542-9",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 4974.58,
+        "frete_rs": 5354.76,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:29:34",
+          "lat": -25.5276078,
+          "lon": -49.2954556
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "GRU074169-8",
         "origin_unit": "GRU",
@@ -13,12 +145,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.28 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 18:12:24",
-          "lat": -23.7968233333333,
-          "lon": -46.7485266666667
+          "referencia": "0.47 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "03/11/2026 18:30:36",
+          "lat": -23.6329366666667,
+          "lon": -46.8317233333333
         },
-        "distancia_km": 478.0,
+        "distancia_km": 487.8,
         "proximo": false
       },
       {
@@ -34,7 +166,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:16:17",
+          "data_hora_posicao": "03/11/2026 18:30:16",
           "lat": -29.9839083333333,
           "lon": -51.1869516666667
         },
@@ -43,6 +175,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4974.58,
+        "frete_rs": 5354.76,
+        "qtde": 1
+      },
       "Guarulhos": {
         "peso_kg": 2796.73,
         "frete_rs": 9870.7,
@@ -51,37 +188,6 @@
       "Porto Alegre": {
         "peso_kg": 1271.73,
         "frete_rs": 1269.63,
-        "qtde": 1
-      }
-    }
-  },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ023974-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2002.3,
-        "frete_rs": 2514.14,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.36 km de FH LOG - BRUSQUE - BRUSQUE/SC",
-          "data_hora_posicao": "03/11/2026 18:16:02",
-          "lat": -27.0564265,
-          "lon": -48.8781361
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2002.3,
-        "frete_rs": 2514.14,
         "qtde": 1
       }
     }
@@ -101,7 +207,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:16:17",
+          "data_hora_posicao": "03/11/2026 18:30:16",
           "lat": -29.9839083333333,
           "lon": -51.1869516666667
         },
@@ -132,7 +238,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:16:17",
+          "data_hora_posicao": "03/11/2026 18:30:16",
           "lat": -29.9839083333333,
           "lon": -51.1869516666667
         },
@@ -148,36 +254,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044118-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 541.0,
-        "frete_rs": 348.99,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 18:14:38",
-          "lat": -23.4705264,
-          "lon": -46.46248
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 541.0,
-        "frete_rs": 348.99,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-03T18:17:26"
+  "_gerado_em": "2026-11-03T18:32:33"
 }
