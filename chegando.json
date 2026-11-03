@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 22:00:04",
+          "data_hora_posicao": "02/11/2026 22:16:04",
           "lat": -27.2059808,
           "lon": -49.648976
         },
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 22:00:22",
-          "lat": -27.2059904,
-          "lon": -49.6489856
+          "data_hora_posicao": "02/11/2026 22:16:22",
+          "lat": -27.2059584,
+          "lon": -49.64896
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -54,9 +54,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 22:00:22",
-          "lat": -27.2059904,
-          "lon": -49.6489856
+          "data_hora_posicao": "02/11/2026 22:16:22",
+          "lat": -27.2059584,
+          "lon": -49.64896
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 21:59:20",
+          "data_hora_posicao": "02/11/2026 22:15:20",
           "lat": -27.206135,
           "lon": -49.6492005
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "02/11/2026 22:01:33",
+          "data_hora_posicao": "02/11/2026 22:15:33",
           "lat": -27.206032,
           "lon": -49.6488416
         },
@@ -191,9 +191,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 22:00:16",
-          "lat": -26.8874784,
-          "lon": -48.723088
+          "data_hora_posicao": "02/11/2026 22:16:16",
+          "lat": -26.8874944,
+          "lon": -48.7230976
         },
         "distancia_km": 0.2,
         "proximo": true
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 22:01:01",
+          "data_hora_posicao": "02/11/2026 22:15:01",
           "lat": -26.8875488,
           "lon": -48.721184
         },
@@ -231,7 +231,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "02/11/2026 22:00:16",
+          "data_hora_posicao": "02/11/2026 22:16:16",
           "lat": -26.8874511,
           "lon": -48.721355
         },
@@ -267,7 +267,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 21:59:39",
+          "data_hora_posicao": "02/11/2026 22:15:58",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -287,7 +287,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "02/11/2026 21:59:39",
+          "data_hora_posicao": "02/11/2026 22:15:58",
           "lat": -22.8469616666667,
           "lon": -47.12479
         },
@@ -306,10 +306,10 @@
         "frete_rs": 37906.0,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.27 km de INDUSTRIAS ANHEMBI LTDA (FILIAL) - OSASCO/SP",
-          "data_hora_posicao": "02/11/2026 22:01:29",
-          "lat": -23.5474416,
-          "lon": -46.8200768
+          "referencia": "0.22 km de PEDAGIO - PRACA 03 (BANDEIRANTES EXTERNA) - SAO PAULO/SP",
+          "data_hora_posicao": "02/11/2026 22:15:59",
+          "lat": -23.4250064,
+          "lon": -46.7605216
         },
         "distancia_km": null,
         "proximo": false
@@ -324,6 +324,62 @@
       "Rio do Sul": {
         "peso_kg": 27553.34,
         "frete_rs": 37906.0,
+        "qtde": 1
+      }
+    }
+  },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "GRU074111-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 13312.28,
+        "frete_rs": 11406.27,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.95 km de MOGIANA MINERADORA – SUZANO - SUZANO/SP",
+          "data_hora_posicao": "02/11/2026 22:15:55",
+          "lat": -23.5030976,
+          "lon": -46.33456
+        },
+        "distancia_km": 374.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044120-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 8552.78,
+        "frete_rs": 6442.8,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.38 km de PRF - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "02/11/2026 22:14:15",
+          "lat": -25.853615,
+          "lon": -48.9811391
+        },
+        "distancia_km": 48.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 13312.28,
+        "frete_rs": 11406.27,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 8552.78,
+        "frete_rs": 6442.8,
         "qtde": 1
       }
     }
@@ -402,12 +458,12 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 22:01:35",
-          "lat": -23.470936,
-          "lon": -46.4612576
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "02/11/2026 22:16:00",
+          "lat": -23.4706864,
+          "lon": -46.4622016
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -423,7 +479,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "02/11/2026 22:01:04",
+          "data_hora_posicao": "02/11/2026 22:15:04",
           "lat": -23.470472,
           "lon": -46.462544
         },
@@ -442,12 +498,12 @@
         "frete_rs": 25289.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de CONCESSIONARIA VOLVO - SAO PAULO/SP",
-          "data_hora_posicao": "02/11/2026 22:00:38",
-          "lat": -23.5091632,
-          "lon": -46.7041824
+          "referencia": "0.15 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "02/11/2026 22:16:38",
+          "lat": -23.5054448,
+          "lon": -46.5690496
         },
-        "distancia_km": 25.0,
+        "distancia_km": 11.6,
         "proximo": true
       },
       {
@@ -462,12 +518,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de CONCESSIONARIA VOLVO - SAO PAULO/SP",
-          "data_hora_posicao": "02/11/2026 22:00:38",
-          "lat": -23.5091632,
-          "lon": -46.7041824
+          "referencia": "0.15 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "02/11/2026 22:16:38",
+          "lat": -23.5054448,
+          "lon": -46.5690496
         },
-        "distancia_km": 25.0,
+        "distancia_km": 11.6,
         "proximo": true
       },
       {
@@ -504,36 +560,5 @@
       }
     }
   },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "RSL044120-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.21 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "02/11/2026 21:57:38",
-          "lat": -25.9052343,
-          "lon": -48.9212385
-        },
-        "distancia_km": 56.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-02T22:02:36"
+  "_gerado_em": "2026-11-02T22:17:40"
 }
