@@ -13,10 +13,10 @@
         "frete_rs": 8284.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.63 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "03/11/2026 08:15:48",
-          "lat": -27.0389275,
-          "lon": -48.6002528
+          "referencia": "0.87 km de MANDIRA TRANSPORTES - PORTO BELO/SC - PORTO BELO/SC",
+          "data_hora_posicao": "03/11/2026 08:31:28",
+          "lat": -27.1656881,
+          "lon": -48.6113946
         },
         "distancia_km": null,
         "proximo": false
@@ -45,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:15:02",
+          "data_hora_posicao": "03/11/2026 08:31:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:15:04",
+          "data_hora_posicao": "03/11/2026 08:31:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -85,7 +85,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:14:38",
+          "data_hora_posicao": "03/11/2026 08:30:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -105,7 +105,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:14:38",
+          "data_hora_posicao": "03/11/2026 08:30:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -135,10 +135,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:14:42",
-          "lat": -26.8423264,
-          "lon": -49.2724128
+          "referencia": "0.95 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 08:30:42",
+          "lat": -26.8750752,
+          "lon": -49.2521216
         },
         "distancia_km": null,
         "proximo": false
@@ -155,10 +155,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:14:42",
-          "lat": -26.8423264,
-          "lon": -49.2724128
+          "referencia": "0.95 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 08:30:42",
+          "lat": -26.8750752,
+          "lon": -49.2521216
         },
         "distancia_km": null,
         "proximo": false
@@ -187,7 +187,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:15:37",
+          "data_hora_posicao": "03/11/2026 08:29:37",
           "lat": -27.8238016666667,
           "lon": -50.3627783333333
         },
@@ -207,7 +207,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:15:37",
+          "data_hora_posicao": "03/11/2026 08:29:37",
           "lat": -27.8238016666667,
           "lon": -50.3627783333333
         },
@@ -220,37 +220,6 @@
         "peso_kg": 17661.85,
         "frete_rs": 10913.839999999998,
         "qtde": 2
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "RSL044129-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 3344.3,
-        "frete_rs": 5195.28,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:15:37",
-          "lat": -27.8238016666667,
-          "lon": -50.3627783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 3344.3,
-        "frete_rs": 5195.28,
-        "qtde": 1
       }
     }
   },
@@ -269,7 +238,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:15:37",
+          "data_hora_posicao": "03/11/2026 08:29:37",
           "lat": -27.8238016666667,
           "lon": -50.3627783333333
         },
@@ -285,5 +254,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T08:17:34"
+  "_gerado_em": "2026-11-03T08:32:38"
 }
