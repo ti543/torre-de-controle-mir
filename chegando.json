@@ -13,12 +13,12 @@
         "frete_rs": 7397.47,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.03 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "03/11/2026 14:01:17",
-          "lat": -22.8475952,
-          "lon": -47.124656
+          "referencia": "2.07 km de CAI CARREFOUR VILA BRANDINA - CAMPINAS/SP - CAMPINAS/SP",
+          "data_hora_posicao": "03/11/2026 14:15:59",
+          "lat": -22.8735936,
+          "lon": -47.0176064
         },
-        "distancia_km": 96.9,
+        "distancia_km": 87.3,
         "proximo": false
       },
       {
@@ -33,13 +33,13 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de JALAPAO COMERCIO E REPRESENTAÇÕES DE FILTROS E LUBRIFICANTES LTDA - OSASCO/SP",
-          "data_hora_posicao": "03/11/2026 14:00:38",
-          "lat": -23.4914848,
-          "lon": -46.7668384
+          "referencia": "0.41 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 14:14:38",
+          "lat": -23.5088288,
+          "lon": -46.7143936
         },
-        "distancia_km": 31.1,
-        "proximo": false
+        "distancia_km": 26.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -51,37 +51,6 @@
       "Rio do Sul": {
         "peso_kg": 541.0,
         "frete_rs": 348.99,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "FLN000134-1",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 193.6,
-        "frete_rs": 575.59,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 14:01:29",
-          "lat": -26.887781,
-          "lon": -48.7206293
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "FLN": {
-        "peso_kg": 193.6,
-        "frete_rs": 575.59,
         "qtde": 1
       }
     }
@@ -100,12 +69,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de VIDRO FORTE INDÚSTRIA COMÉRCIO - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 14:01:21",
-          "lat": -29.1498466666667,
-          "lon": -51.1727466666667
+          "referencia": "0.12 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "03/11/2026 14:15:34",
+          "lat": -29.1388266666667,
+          "lon": -51.20635
         },
-        "distancia_km": 92.7,
+        "distancia_km": 93.9,
         "proximo": false
       }
     ],
@@ -117,5 +86,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T14:02:34"
+  "_gerado_em": "2026-11-03T14:17:26"
 }
