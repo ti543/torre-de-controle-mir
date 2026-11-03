@@ -103,8 +103,15 @@
   .chegada .origem { font-size: 13px; opacity: 0.9; margin-top: 2px; }
   .chegada .origem-item { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; opacity: 0.94; margin-top: 4px; }
   .chegada .origem-total { display: flex; justify-content: flex-end; font-size: 12.5px; font-weight: 800; margin-top: 6px; padding-top: 6px; border-top: 1px solid rgba(255,255,255,0.35); }
-  .chegada .linha2 { display: flex; justify-content: space-between; margin-top: 8px; font-size: 13px; }
-  .chegada .dist { font-weight: 800; }
+  .chegada .linha2 { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; margin-top: 8px; font-size: 13px; }
+  .chegada .linha2 .referencia {
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .chegada .dist { font-weight: 800; flex: 0 0 auto; white-space: nowrap; }
 
   .origem-resumo {
     display: flex;
@@ -567,7 +574,7 @@ async function carregarChegadas(cod) {
         <div class="placa">${placa} — ${base.motorista || ""}</div>
         ${linhasOrigem}
         ${totalHtml}
-        <div class="linha2"><span>${(base.posicao_raster && base.posicao_raster.referencia) || ""}</span><span class="dist">${dist}</span></div>
+        <div class="linha2"><span class="referencia" title="${(base.posicao_raster && base.posicao_raster.referencia) || ""}">${(base.posicao_raster && base.posicao_raster.referencia) || ""}</span><span class="dist">${dist}</span></div>
       `;
       listaEl.appendChild(div);
     });
