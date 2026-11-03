@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "03/11/2026 18:43:26",
+          "data_hora_posicao": "03/11/2026 18:59:26",
           "lat": -27.0964036,
           "lon": -48.9307143
         },
@@ -33,12 +33,12 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.27 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:45:46",
-          "lat": -25.5607221,
-          "lon": -49.2639158
+          "referencia": "1.2 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "03/11/2026 19:00:00",
+          "lat": -25.6247045,
+          "lon": -49.1661626
         },
-        "distancia_km": 157.2,
+        "distancia_km": 147.3,
         "proximo": false
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 6133.33,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "03/11/2026 18:44:51",
-          "lat": -22.8469316666667,
-          "lon": -47.124735
+          "referencia": "0.58 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
+          "data_hora_posicao": "03/11/2026 19:00:56",
+          "lat": -22.8428966666667,
+          "lon": -47.04986
         },
-        "distancia_km": 96.9,
+        "distancia_km": 92.1,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:45:11",
-          "lat": -25.5276256,
-          "lon": -49.2954912
+          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 19:01:20",
+          "lat": -25.5264304,
+          "lon": -49.2972288
         },
-        "distancia_km": 366.7,
+        "distancia_km": 366.8,
         "proximo": false
       },
       {
@@ -110,7 +110,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 18:44:38",
+          "data_hora_posicao": "03/11/2026 19:00:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -150,12 +150,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.27 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:45:46",
-          "lat": -25.5607221,
-          "lon": -49.2639158
+          "referencia": "1.2 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "03/11/2026 19:00:00",
+          "lat": -25.6247045,
+          "lon": -49.1661626
         },
-        "distancia_km": 186.9,
+        "distancia_km": 182.3,
         "proximo": false
       },
       {
@@ -170,12 +170,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO CANCUN - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "03/11/2026 18:44:36",
-          "lat": -23.6416233333333,
-          "lon": -46.8375583333333
+          "referencia": "0.51 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 19:00:36",
+          "lat": -23.7191783333333,
+          "lon": -46.8833616666667
         },
-        "distancia_km": 486.6,
+        "distancia_km": 476.9,
         "proximo": false
       },
       {
@@ -191,11 +191,26 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:45:34",
-          "lat": -29.9837533333333,
-          "lon": -51.18702
+          "data_hora_posicao": "03/11/2026 18:59:58",
+          "lat": -29.9837683333333,
+          "lon": -51.18697
         },
         "distancia_km": 343.4,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016313-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1423.13,
+        "frete_rs": 3212.9,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -213,6 +228,11 @@
       "Porto Alegre": {
         "peso_kg": 1271.73,
         "frete_rs": 1269.63,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 1423.13,
+        "frete_rs": 3212.9,
         "qtde": 1
       }
     }
@@ -232,9 +252,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:45:34",
-          "lat": -29.9837533333333,
-          "lon": -51.18702
+          "data_hora_posicao": "03/11/2026 18:59:58",
+          "lat": -29.9837683333333,
+          "lon": -51.18697
         },
         "distancia_km": null,
         "proximo": false
@@ -263,9 +283,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:45:34",
-          "lat": -29.9837533333333,
-          "lon": -51.18702
+          "data_hora_posicao": "03/11/2026 18:59:58",
+          "lat": -29.9837683333333,
+          "lon": -51.18697
         },
         "distancia_km": null,
         "proximo": false
@@ -279,5 +299,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T18:47:37"
+  "_gerado_em": "2026-11-03T19:02:41"
 }
