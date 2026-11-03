@@ -13,12 +13,12 @@
         "frete_rs": 5960.61,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.82 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "03/11/2026 18:31:27",
-          "lat": -27.0969806,
-          "lon": -48.9296166
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "03/11/2026 18:43:26",
+          "lat": -27.0964036,
+          "lon": -48.9307143
         },
-        "distancia_km": 31.1,
+        "distancia_km": 31.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:29:34",
-          "lat": -25.5276078,
-          "lon": -49.2954556
+          "referencia": "0.27 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:45:46",
+          "lat": -25.5607221,
+          "lon": -49.2639158
         },
-        "distancia_km": 161.7,
+        "distancia_km": 157.2,
         "proximo": false
       }
     ],
@@ -58,6 +58,26 @@
   "GRU": {
     "veiculos": [
       {
+        "manif": "CMP010344-6",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 4514.72,
+        "frete_rs": 6133.33,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "03/11/2026 18:44:51",
+          "lat": -22.8469316666667,
+          "lon": -47.124735
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
         "manif": "CTB013540-2",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -69,10 +89,10 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:31:28",
-          "lat": -25.5275808,
-          "lon": -49.2954624
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:45:11",
+          "lat": -25.5276256,
+          "lon": -49.2954912
         },
         "distancia_km": 366.7,
         "proximo": false
@@ -90,7 +110,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 18:30:38",
+          "data_hora_posicao": "03/11/2026 18:44:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -99,6 +119,11 @@
       }
     ],
     "por_origem": {
+      "Campinas": {
+        "peso_kg": 4514.72,
+        "frete_rs": 6133.33,
+        "qtde": 1
+      },
       "Curitiba": {
         "peso_kg": 1217.58,
         "frete_rs": 1446.76,
@@ -125,12 +150,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 18:29:34",
-          "lat": -25.5276078,
-          "lon": -49.2954556
+          "referencia": "0.27 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 18:45:46",
+          "lat": -25.5607221,
+          "lon": -49.2639158
         },
-        "distancia_km": 189.9,
+        "distancia_km": 186.9,
         "proximo": false
       },
       {
@@ -145,12 +170,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.47 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "03/11/2026 18:30:36",
-          "lat": -23.6329366666667,
-          "lon": -46.8317233333333
+          "referencia": "0.07 km de POSTO CANCUN - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "03/11/2026 18:44:36",
+          "lat": -23.6416233333333,
+          "lon": -46.8375583333333
         },
-        "distancia_km": 487.8,
+        "distancia_km": 486.6,
         "proximo": false
       },
       {
@@ -166,9 +191,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:30:16",
-          "lat": -29.9839083333333,
-          "lon": -51.1869516666667
+          "data_hora_posicao": "03/11/2026 18:45:34",
+          "lat": -29.9837533333333,
+          "lon": -51.18702
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -207,9 +232,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:30:16",
-          "lat": -29.9839083333333,
-          "lon": -51.1869516666667
+          "data_hora_posicao": "03/11/2026 18:45:34",
+          "lat": -29.9837533333333,
+          "lon": -51.18702
         },
         "distancia_km": null,
         "proximo": false
@@ -238,9 +263,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:30:16",
-          "lat": -29.9839083333333,
-          "lon": -51.1869516666667
+          "data_hora_posicao": "03/11/2026 18:45:34",
+          "lat": -29.9837533333333,
+          "lon": -51.18702
         },
         "distancia_km": null,
         "proximo": false
@@ -254,5 +279,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T18:32:33"
+  "_gerado_em": "2026-11-03T18:47:37"
 }
