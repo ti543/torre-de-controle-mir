@@ -13,10 +13,10 @@
         "frete_rs": 8284.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de HUB ITAJAÍ - ITJ - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 08:01:25",
-          "lat": -26.9406793,
-          "lon": -48.6947453
+          "referencia": "1.63 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "03/11/2026 08:15:48",
+          "lat": -27.0389275,
+          "lon": -48.6002528
         },
         "distancia_km": null,
         "proximo": false
@@ -45,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:01:02",
+          "data_hora_posicao": "03/11/2026 08:15:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:01:04",
+          "data_hora_posicao": "03/11/2026 08:15:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -85,7 +85,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:00:38",
+          "data_hora_posicao": "03/11/2026 08:14:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -105,7 +105,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 08:00:38",
+          "data_hora_posicao": "03/11/2026 08:14:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -118,37 +118,6 @@
         "peso_kg": 90507.09,
         "frete_rs": 66712.21,
         "qtde": 4
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "RSL044120-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 07:59:02",
-          "lat": -25.5277301,
-          "lon": -49.2954698
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 8552.78,
-        "frete_rs": 6442.8,
-        "qtde": 1
       }
     }
   },
@@ -167,7 +136,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:00:42",
+          "data_hora_posicao": "03/11/2026 08:14:42",
           "lat": -26.8423264,
           "lon": -49.2724128
         },
@@ -187,7 +156,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 08:00:42",
+          "data_hora_posicao": "03/11/2026 08:14:42",
           "lat": -26.8423264,
           "lon": -49.2724128
         },
@@ -217,10 +186,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:00:01",
-          "lat": -27.7745033333333,
-          "lon": -50.3393216666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:15:37",
+          "lat": -27.8238016666667,
+          "lon": -50.3627783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -237,10 +206,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:00:01",
-          "lat": -27.7745033333333,
-          "lon": -50.3393216666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:15:37",
+          "lat": -27.8238016666667,
+          "lon": -50.3627783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -268,10 +237,10 @@
         "frete_rs": 5195.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:00:01",
-          "lat": -27.7745033333333,
-          "lon": -50.3393216666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:15:37",
+          "lat": -27.8238016666667,
+          "lon": -50.3627783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -299,12 +268,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
-          "data_hora_posicao": "03/11/2026 08:00:01",
-          "lat": -27.7745033333333,
-          "lon": -50.3393216666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:15:37",
+          "lat": -27.8238016666667,
+          "lon": -50.3627783333333
         },
-        "distancia_km": 259.1,
+        "distancia_km": 253.2,
         "proximo": false
       }
     ],
@@ -316,5 +285,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T08:02:33"
+  "_gerado_em": "2026-11-03T08:17:34"
 }
