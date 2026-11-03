@@ -13,12 +13,12 @@
         "frete_rs": 7397.47,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.99 km de TOLIMAN ARMAZEM DE COLETA GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 15:30:48",
-          "lat": -23.3492464,
-          "lon": -46.5536224
+          "referencia": "0.53 km de POSTO PÉ DE BOI - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 15:46:13",
+          "lat": -23.4719264,
+          "lon": -46.5642624
         },
-        "distancia_km": 16.4,
+        "distancia_km": 10.4,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS MARSIL LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 15:30:38",
-          "lat": -23.523112,
-          "lon": -46.612368
+          "referencia": "0.36 km de 1ª DELEGACIA PRF - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 15:46:38",
+          "lat": -23.4709472,
+          "lon": -46.5166848
         },
-        "distancia_km": 16.4,
+        "distancia_km": 5.5,
         "proximo": true
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.04 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "03/11/2026 15:26:29",
-          "lat": -29.3205716666667,
-          "lon": -51.3402083333333
+          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "03/11/2026 15:46:04",
+          "lat": -29.49949,
+          "lon": -51.35305
         },
-        "distancia_km": 75.2,
+        "distancia_km": 56.2,
         "proximo": false
       }
     ],
@@ -86,5 +86,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T15:32:36"
+  "_gerado_em": "2026-11-03T15:48:02"
 }
