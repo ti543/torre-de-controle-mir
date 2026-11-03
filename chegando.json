@@ -1,35 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "ITJ023966-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RDW1H87",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 07:43:19",
-          "lat": -27.206135,
-          "lon": -49.6492005
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "qtde": 1
-      }
-    }
-  },
   "FLN": {
     "veiculos": [
       {
@@ -44,10 +13,10 @@
         "frete_rs": 8284.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 07:45:01",
-          "lat": -26.8901875,
-          "lon": -48.7217233
+          "referencia": "0.3 km de HUB ITAJAÍ - ITJ - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 08:01:25",
+          "lat": -26.9406793,
+          "lon": -48.6947453
         },
         "distancia_km": null,
         "proximo": false
@@ -76,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 07:45:50",
+          "data_hora_posicao": "03/11/2026 08:01:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -96,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 07:45:04",
+          "data_hora_posicao": "03/11/2026 08:01:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -116,7 +85,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 07:46:05",
+          "data_hora_posicao": "03/11/2026 08:00:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -136,7 +105,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 07:46:05",
+          "data_hora_posicao": "03/11/2026 08:00:38",
           "lat": -23.4704224,
           "lon": -46.4622112
         },
@@ -167,7 +136,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 07:43:02",
+          "data_hora_posicao": "03/11/2026 07:59:02",
           "lat": -25.5277301,
           "lon": -49.2954698
         },
@@ -197,10 +166,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 07:44:42",
-          "lat": -26.8422592,
-          "lon": -49.2721952
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 08:00:42",
+          "lat": -26.8423264,
+          "lon": -49.2724128
         },
         "distancia_km": null,
         "proximo": false
@@ -217,10 +186,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "03/11/2026 07:44:42",
-          "lat": -26.8422592,
-          "lon": -49.2721952
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "03/11/2026 08:00:42",
+          "lat": -26.8423264,
+          "lon": -49.2724128
         },
         "distancia_km": null,
         "proximo": false
@@ -248,10 +217,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.99 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "03/11/2026 07:43:29",
-          "lat": -27.6135383333333,
-          "lon": -50.3478166666667
+          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:00:01",
+          "lat": -27.7745033333333,
+          "lon": -50.3393216666667
         },
         "distancia_km": null,
         "proximo": false
@@ -268,10 +237,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.99 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "03/11/2026 07:43:29",
-          "lat": -27.6135383333333,
-          "lon": -50.3478166666667
+          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:00:01",
+          "lat": -27.7745033333333,
+          "lon": -50.3393216666667
         },
         "distancia_km": null,
         "proximo": false
@@ -299,10 +268,10 @@
         "frete_rs": 5195.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.99 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "03/11/2026 07:43:29",
-          "lat": -27.6135383333333,
-          "lon": -50.3478166666667
+          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:00:01",
+          "lat": -27.7745033333333,
+          "lon": -50.3393216666667
         },
         "distancia_km": null,
         "proximo": false
@@ -330,12 +299,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.99 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "03/11/2026 07:43:29",
-          "lat": -27.6135383333333,
-          "lon": -50.3478166666667
+          "referencia": "1.96 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "03/11/2026 08:00:01",
+          "lat": -27.7745033333333,
+          "lon": -50.3393216666667
         },
-        "distancia_km": 275.9,
+        "distancia_km": 259.1,
         "proximo": false
       }
     ],
@@ -347,5 +316,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T07:47:32"
+  "_gerado_em": "2026-11-03T08:02:33"
 }
