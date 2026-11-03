@@ -13,13 +13,13 @@
         "frete_rs": 5960.61,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "03/11/2026 18:59:26",
-          "lat": -27.0964036,
-          "lon": -48.9307143
+          "referencia": "0.45 km de TPR TRANSPORTES - BRUSQUE/SC",
+          "data_hora_posicao": "03/11/2026 19:14:41",
+          "lat": -27.0734835,
+          "lon": -48.8933316
         },
-        "distancia_km": 31.2,
-        "proximo": false
+        "distancia_km": 26.8,
+        "proximo": true
       },
       {
         "manif": "CTB013541-1",
@@ -33,12 +33,12 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.2 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "03/11/2026 19:00:00",
-          "lat": -25.6247045,
-          "lon": -49.1661626
+          "referencia": "1.78 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 19:16:15",
+          "lat": -25.7925305,
+          "lon": -49.1272411
         },
-        "distancia_km": 147.3,
+        "distancia_km": 128.3,
         "proximo": false
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 6133.33,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.58 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
-          "data_hora_posicao": "03/11/2026 19:00:56",
-          "lat": -22.8428966666667,
-          "lon": -47.04986
+          "referencia": "5.02 km de ÁREA DE DESCANSO PARA CAMINHONEIROS - ITATIBA/SP",
+          "data_hora_posicao": "03/11/2026 19:14:56",
+          "lat": -22.9284083333333,
+          "lon": -46.9118566666667
         },
-        "distancia_km": 92.1,
+        "distancia_km": 75.8,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "03/11/2026 19:01:20",
-          "lat": -25.5264304,
-          "lon": -49.2972288
+          "referencia": "0.46 km de SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO PARANÁ - CURITIBA/PR",
+          "data_hora_posicao": "03/11/2026 19:15:23",
+          "lat": -25.4556576,
+          "lon": -49.2483168
         },
-        "distancia_km": 366.8,
+        "distancia_km": 358.1,
         "proximo": false
       },
       {
@@ -110,7 +110,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 19:00:38",
+          "data_hora_posicao": "03/11/2026 19:14:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -150,12 +150,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.2 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "03/11/2026 19:00:00",
-          "lat": -25.6247045,
-          "lon": -49.1661626
+          "referencia": "1.78 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 19:16:15",
+          "lat": -25.7925305,
+          "lon": -49.1272411
         },
-        "distancia_km": 182.3,
+        "distancia_km": 165.6,
         "proximo": false
       },
       {
@@ -170,12 +170,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.51 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "03/11/2026 19:00:36",
-          "lat": -23.7191783333333,
-          "lon": -46.8833616666667
+          "referencia": "0.29 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 19:14:36",
+          "lat": -23.8426566666667,
+          "lon": -46.9323666666667
         },
-        "distancia_km": 476.9,
+        "distancia_km": 462.8,
         "proximo": false
       },
       {
@@ -191,7 +191,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:59:58",
+          "data_hora_posicao": "03/11/2026 19:16:16",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -252,7 +252,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:59:58",
+          "data_hora_posicao": "03/11/2026 19:16:16",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -283,7 +283,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 18:59:58",
+          "data_hora_posicao": "03/11/2026 19:16:16",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -299,5 +299,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T19:02:41"
+  "_gerado_em": "2026-11-03T19:17:31"
 }
