@@ -1,60 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000752-8",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3401.73,
-        "frete_rs": 5960.61,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.08 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 19:46:02",
-          "lat": -26.9103176,
-          "lon": -48.7128378
-        },
-        "distancia_km": 2.7,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013541-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 4186.06,
-        "frete_rs": 3541.51,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.01 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 19:39:23",
-          "lat": -25.8594151,
-          "lon": -48.9507861
-        },
-        "distancia_km": 116.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 3401.73,
-        "frete_rs": 5960.61,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 4186.06,
-        "frete_rs": 3541.51,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -69,13 +13,13 @@
         "frete_rs": 6133.33,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.8 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "03/11/2026 19:45:46",
-          "lat": -23.12125,
-          "lon": -46.5745866666667
+          "referencia": "1.68 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
+          "data_hora_posicao": "03/11/2026 19:59:46",
+          "lat": -23.2783,
+          "lon": -46.5861166666667
         },
-        "distancia_km": 40.5,
-        "proximo": false
+        "distancia_km": 24.8,
+        "proximo": true
       },
       {
         "manif": "CTB013540-2",
@@ -90,9 +34,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 19:45:11",
-          "lat": -25.3506416,
-          "lon": -49.0602272
+          "data_hora_posicao": "03/11/2026 20:01:11",
+          "lat": -25.3505616,
+          "lon": -49.0602784
         },
         "distancia_km": 336.0,
         "proximo": false
@@ -110,7 +54,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 19:44:38",
+          "data_hora_posicao": "03/11/2026 20:00:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -136,6 +80,37 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013541-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 4186.06,
+        "frete_rs": 3541.51,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.75 km de 8ºBPM 2ºGP - 2º GRUPO - GARUVA/SC",
+          "data_hora_posicao": "03/11/2026 20:01:24",
+          "lat": -26.0377225,
+          "lon": -48.8600853
+        },
+        "distancia_km": 95.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4186.06,
+        "frete_rs": 3541.51,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -150,12 +125,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.01 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 19:39:23",
-          "lat": -25.8594151,
-          "lon": -48.9507861
+          "referencia": "0.75 km de 8ºBPM 2ºGP - 2º GRUPO - GARUVA/SC",
+          "data_hora_posicao": "03/11/2026 20:01:24",
+          "lat": -26.0377225,
+          "lon": -48.8600853
         },
-        "distancia_km": 165.1,
+        "distancia_km": 151.8,
         "proximo": false
       },
       {
@@ -170,12 +145,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "03/11/2026 19:45:11",
-          "lat": -24.0514916666667,
-          "lon": -47.2016783333333
+          "referencia": "3.06 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "03/11/2026 19:59:41",
+          "lat": -24.1435016666667,
+          "lon": -47.28756
         },
-        "distancia_km": 428.1,
+        "distancia_km": 414.7,
         "proximo": false
       },
       {
@@ -191,7 +166,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:46:15",
+          "data_hora_posicao": "03/11/2026 20:00:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -252,7 +227,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:46:15",
+          "data_hora_posicao": "03/11/2026 20:00:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -283,7 +258,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:46:15",
+          "data_hora_posicao": "03/11/2026 20:00:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -299,5 +274,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T19:47:27"
+  "_gerado_em": "2026-11-03T20:02:30"
 }
