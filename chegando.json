@@ -2,26 +2,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010344-6",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 4514.72,
-        "frete_rs": 6133.33,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.3 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 20:29:21",
-          "lat": -23.4775,
-          "lon": -46.527695
-        },
-        "distancia_km": 6.7,
-        "proximo": true
-      },
-      {
         "manif": "CTB013540-2",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -33,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.25 km de POSTO TULIO RIO BONITO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 20:31:11",
-          "lat": -25.2396928,
-          "lon": -48.9049216
+          "referencia": "1.45 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 20:45:11",
+          "lat": -25.1668016,
+          "lon": -48.8643808
         },
-        "distancia_km": 316.1,
+        "distancia_km": 307.9,
         "proximo": false
       },
       {
@@ -54,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 20:30:38",
+          "data_hora_posicao": "03/11/2026 20:44:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -78,11 +58,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 4514.72,
-        "frete_rs": 6133.33,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 1217.58,
         "frete_rs": 1446.76,
@@ -114,12 +89,12 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.78 km de FILIAL MIRIN - JOINVILLE/SC",
-          "data_hora_posicao": "03/11/2026 20:31:12",
-          "lat": -26.2388611,
-          "lon": -48.9136181
+          "referencia": "1.05 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
+          "data_hora_posicao": "03/11/2026 20:46:27",
+          "lat": -26.389135,
+          "lon": -48.8402955
         },
-        "distancia_km": 74.6,
+        "distancia_km": 56.7,
         "proximo": false
       },
       {
@@ -134,12 +109,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 20:31:04",
-          "lat": -23.4704832,
-          "lon": -46.461696
+          "referencia": "0.2 km de PACAEMBU AUTOPEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 20:45:04",
+          "lat": -23.45944,
+          "lon": -46.4706624
         },
-        "distancia_km": 442.8,
+        "distancia_km": 443.4,
         "proximo": false
       },
       {
@@ -190,12 +165,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.78 km de FILIAL MIRIN - JOINVILLE/SC",
-          "data_hora_posicao": "03/11/2026 20:31:12",
-          "lat": -26.2388611,
-          "lon": -48.9136181
+          "referencia": "1.05 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
+          "data_hora_posicao": "03/11/2026 20:46:27",
+          "lat": -26.389135,
+          "lon": -48.8402955
         },
-        "distancia_km": 130.0,
+        "distancia_km": 121.3,
         "proximo": false
       },
       {
@@ -210,12 +185,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
-          "data_hora_posicao": "03/11/2026 20:30:27",
-          "lat": -24.33312,
-          "lon": -47.5889066666667
+          "referencia": "4.88 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "03/11/2026 20:46:20",
+          "lat": -24.4157633333333,
+          "lon": -47.7608566666667
         },
-        "distancia_km": 380.3,
+        "distancia_km": 363.3,
         "proximo": false
       },
       {
@@ -231,7 +206,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 20:30:15",
+          "data_hora_posicao": "03/11/2026 20:46:14",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -292,7 +267,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 20:30:15",
+          "data_hora_posicao": "03/11/2026 20:46:14",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -323,7 +298,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 20:30:15",
+          "data_hora_posicao": "03/11/2026 20:46:14",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -339,5 +314,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T20:32:32"
+  "_gerado_em": "2026-11-03T20:47:33"
 }
