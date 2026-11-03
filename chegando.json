@@ -13,12 +13,12 @@
         "frete_rs": 7397.47,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO PÉ DE BOI - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 15:46:13",
-          "lat": -23.4719264,
-          "lon": -46.5642624
+          "referencia": "0.06 km de ENCAIXE EMPRESA DE TRANSPORTE LTDA (CUMBICA) - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:00:54",
+          "lat": -23.4564496,
+          "lon": -46.473392
         },
-        "distancia_km": 10.4,
+        "distancia_km": 1.9,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de 1ª DELEGACIA PRF - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 15:46:38",
-          "lat": -23.4709472,
-          "lon": -46.5166848
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:01:17",
+          "lat": -23.4708448,
+          "lon": -46.461296
         },
-        "distancia_km": 5.5,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -51,6 +51,37 @@
       "Rio do Sul": {
         "peso_kg": 541.0,
         "frete_rs": 348.99,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "GRU074169-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 2796.73,
+        "frete_rs": 9870.7,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:00:50",
+          "lat": -23.47043,
+          "lon": -46.462105
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 2796.73,
+        "frete_rs": 9870.7,
         "qtde": 1
       }
     }
@@ -69,12 +100,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "03/11/2026 15:46:04",
-          "lat": -29.49949,
-          "lon": -51.35305
+          "referencia": "0.98 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "03/11/2026 16:00:04",
+          "lat": -29.6320983333333,
+          "lon": -51.30315
         },
-        "distancia_km": 56.2,
+        "distancia_km": 40.6,
         "proximo": false
       }
     ],
@@ -86,5 +117,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T15:48:02"
+  "_gerado_em": "2026-11-03T16:02:36"
 }
