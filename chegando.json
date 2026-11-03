@@ -1,30 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "LGS001604-7",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 7817.1,
-        "frete_rs": 7477.71,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 7817.1,
-        "frete_rs": 7477.71,
-        "qtde": 1
-      }
-    }
-  },
   "CXS": {
     "veiculos": [
       {
@@ -39,10 +13,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:39:56",
-          "lat": -28.17591,
-          "lon": -50.6980166666667
+          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -28.2659666666667,
+          "lon": -50.7881983333333
         },
         "distancia_km": null,
         "proximo": false
@@ -59,10 +33,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:39:56",
-          "lat": -28.17591,
-          "lon": -50.6980166666667
+          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -28.2659666666667,
+          "lon": -50.7881983333333
         },
         "distancia_km": null,
         "proximo": false
@@ -79,10 +53,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:39:56",
-          "lat": -28.17591,
-          "lon": -50.6980166666667
+          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -28.2659666666667,
+          "lon": -50.7881983333333
         },
         "distancia_km": null,
         "proximo": false
@@ -115,10 +89,10 @@
         "frete_rs": 22118.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:45:02",
-          "lat": -23.4706864,
-          "lon": -46.4622016
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 10:01:02",
+          "lat": -23.4706192,
+          "lon": -46.4622528
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -136,7 +110,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:45:04",
+          "data_hora_posicao": "03/11/2026 10:01:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -155,12 +129,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.19 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:46:21",
-          "lat": -23.4689024,
-          "lon": -46.4655968
+          "referencia": "0.68 km de AVN TRANSPORTES - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 10:00:38",
+          "lat": -23.4736704,
+          "lon": -46.4831392
         },
-        "distancia_km": 0.4,
+        "distancia_km": 2.2,
         "proximo": true
       }
     ],
@@ -186,10 +160,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 09:45:16",
-          "lat": -26.8480736,
-          "lon": -49.0883744
+          "referencia": "0.28 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -26.7655472,
+          "lon": -49.07848
         },
         "distancia_km": null,
         "proximo": false
@@ -206,10 +180,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 09:45:16",
-          "lat": -26.8480736,
-          "lon": -49.0883744
+          "referencia": "0.28 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -26.7655472,
+          "lon": -49.07848
         },
         "distancia_km": null,
         "proximo": false
@@ -237,12 +211,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:39:56",
-          "lat": -28.17591,
-          "lon": -50.6980166666667
+          "referencia": "0.03 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "03/11/2026 10:00:42",
+          "lat": -28.2659666666667,
+          "lon": -50.7881983333333
         },
-        "distancia_km": 206.5,
+        "distancia_km": 194.8,
         "proximo": false
       }
     ],
@@ -254,5 +228,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T09:47:36"
+  "_gerado_em": "2026-11-03T10:02:36"
 }
