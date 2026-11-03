@@ -1,36 +1,37 @@
 {
-  "GRU": {
+  "RSL": {
     "veiculos": [
       {
-        "manif": "ITJ023963-1",
+        "manif": "ITJ023966-6",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 24429.99,
-        "frete_rs": 27408.75,
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RDW1H87",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 4278.85,
+        "frete_rs": 3476.28,
         "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023964-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 184.45,
-        "frete_rs": 183.61,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 04:59:19",
+          "lat": -27.206135,
+          "lon": -49.6492005
+        },
+        "distancia_km": 0.1,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4278.85,
+        "frete_rs": 3476.28,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
       {
         "manif": "RSL044112-1",
         "origin_unit": "RSL",
@@ -44,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 04:45:02",
+          "data_hora_posicao": "03/11/2026 05:01:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -64,7 +65,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 04:45:04",
+          "data_hora_posicao": "03/11/2026 05:01:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -84,7 +85,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 04:44:38",
+          "data_hora_posicao": "03/11/2026 05:00:38",
           "lat": -23.4703088,
           "lon": -46.462304
         },
@@ -104,7 +105,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 04:44:38",
+          "data_hora_posicao": "03/11/2026 05:00:38",
           "lat": -23.4703088,
           "lon": -46.462304
         },
@@ -113,46 +114,10 @@
       }
     ],
     "por_origem": {
-      "Itajaí": {
-        "peso_kg": 24614.440000000002,
-        "frete_rs": 27592.36,
-        "qtde": 2
-      },
       "Rio do Sul": {
         "peso_kg": 90507.09,
         "frete_rs": 66712.21,
         "qtde": 4
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "ITJ023966-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RDW1H87",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 04:43:19",
-          "lat": -27.206135,
-          "lon": -49.6492005
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 4278.85,
-        "frete_rs": 3476.28,
-        "qtde": 1
       }
     }
   },
@@ -171,7 +136,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO TIO ZICO 04 (BANDEIRAS ROTA SUL) - ARAUCARIA/PR",
-          "data_hora_posicao": "03/11/2026 04:44:02",
+          "data_hora_posicao": "03/11/2026 05:00:02",
           "lat": -25.6141001,
           "lon": -49.4245075
         },
@@ -227,10 +192,10 @@
         "frete_rs": 3961.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 04:44:17",
-          "lat": -26.8878285,
-          "lon": -48.7212445
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 05:00:17",
+          "lat": -26.8877216,
+          "lon": -48.7212071
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -244,5 +209,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T04:47:32"
+  "_gerado_em": "2026-11-03T05:02:26"
 }
