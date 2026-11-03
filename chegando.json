@@ -13,12 +13,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de DALLA VALLE TRANSPORTES - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 16:59:53",
-          "lat": -23.5036933333333,
-          "lon": -46.4583383333333
+          "referencia": "0.4 km de FUTURA LOCAÇÕES LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 17:13:21",
+          "lat": -23.539965,
+          "lon": -46.4500366666667
         },
-        "distancia_km": 521.8,
+        "distancia_km": 519.1,
         "proximo": false
       }
     ],
@@ -26,6 +26,37 @@
       "Guarulhos": {
         "peso_kg": 2796.73,
         "frete_rs": 9870.7,
+        "qtde": 1
+      }
+    }
+  },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ023974-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2002.3,
+        "frete_rs": 2514.14,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 17:12:16",
+          "lat": -26.887668,
+          "lon": -48.7207418
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 2002.3,
+        "frete_rs": 2514.14,
         "qtde": 1
       }
     }
@@ -45,7 +76,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 17:00:38",
+          "data_hora_posicao": "03/11/2026 17:14:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -75,12 +106,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.26 km de FILIAL MIRIN - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 17:00:42",
-          "lat": -29.9803233333333,
-          "lon": -51.1847033333333
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "03/11/2026 17:16:17",
+          "lat": -29.98344,
+          "lon": -51.186655
         },
-        "distancia_km": 0.4,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -92,5 +123,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T17:02:44"
+  "_gerado_em": "2026-11-03T17:17:37"
 }
