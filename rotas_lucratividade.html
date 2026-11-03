@@ -71,19 +71,6 @@
   .kpi-value { font-size: 28px; font-weight: 800; color: #ffffff; letter-spacing: -0.4px; text-shadow: 0 1px 2px rgba(0,0,0,0.25); }
   .kpi-tile.featured .kpi-value, .kpi-tile.featured-red .kpi-value { font-size: 34px; }
   .kpi-sub { font-size: 11px; color: #ffffff; margin-top: 5px; opacity: 0.94; text-shadow: 0 1px 2px rgba(0,0,0,0.2); }
-  /* "Melhor/Pior rota citada" mostram o nome da rota inteira (pode ter até
-     4 paradas, tipo RSL→LGS→CXS→POA) -- com tamanho fixo isso quebra em
-     duas linhas no celular (2 colunas) e deixa só esse card mais alto que
-     os outros, feio e torto. clamp() encolhe a fonte conforme a tela fica
-     estreita, e nowrap+ellipsis garante que nunca quebra linha -- na pior
-     das hipóteses corta com "…" em vez de ficar torto. */
-  .kpi-value-rota {
-    font-size: clamp(13px, 2.4vw, 20px);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: block;
-  }
 
   .card {
     background: var(--surface-1); border: 2px solid var(--panel-border); border-radius: 14px; padding: 18px;
@@ -224,7 +211,7 @@
       <div class="period-badge">últimos 10 dia(s) · 19–30/10/2026</div>
     </div>
   </div>
-  <div class="atualizado-badge">Atualizado em 03/11/2026 13:30 · janela "10 dias" — 10 dia(s) com dados</div>
+  <div class="atualizado-badge">Atualizado em 03/11/2026 13:37 · janela "10 dias" — 10 dia(s) com dados</div>
 
   <details class="collapsible">
     <summary>Como isso é calculado</summary>
@@ -253,7 +240,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Melhor rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="GRU→ITJ→TBO">GRU→ITJ→TBO</div>
+      <div class="kpi-value" style="font-size:20px;">GRU→ITJ→TBO</div>
       <div class="kpi-sub">R$ 103.879 · margem 85,0%</div>
     </div>
     <div class="kpi-tile">
@@ -263,7 +250,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Pior rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="RSL→LGS→CXS→POA">RSL→LGS→CXS→POA</div>
+      <div class="kpi-value" style="font-size:20px;">RSL→LGS→CXS→POA</div>
       <div class="kpi-sub">margem 33,2%</div>
     </div>
   </div>
@@ -866,7 +853,7 @@
       <div class="period-badge">últimos 12 dia(s) · 26–30/10/2026</div>
     </div>
   </div>
-  <div class="atualizado-badge">Atualizado em 03/11/2026 13:30 · janela "20 dias" — 12 dia(s) com dados</div>
+  <div class="atualizado-badge">Atualizado em 03/11/2026 13:37 · janela "20 dias" — 12 dia(s) com dados</div>
 
   <details class="collapsible">
     <summary>Como isso é calculado</summary>
@@ -895,7 +882,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Melhor rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="GRU→ITJ→TBO">GRU→ITJ→TBO</div>
+      <div class="kpi-value" style="font-size:20px;">GRU→ITJ→TBO</div>
       <div class="kpi-sub">R$ 120.242 · margem 85,0%</div>
     </div>
     <div class="kpi-tile">
@@ -905,7 +892,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Pior rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="RSL→LGS→CXS→POA">RSL→LGS→CXS→POA</div>
+      <div class="kpi-value" style="font-size:20px;">RSL→LGS→CXS→POA</div>
       <div class="kpi-sub">margem 33,1%</div>
     </div>
   </div>
@@ -1508,7 +1495,7 @@
       <div class="period-badge">últimos 12 dia(s) · 26–30/10/2026</div>
     </div>
   </div>
-  <div class="atualizado-badge">Atualizado em 03/11/2026 13:30 · janela "30 dias" — 12 dia(s) com dados</div>
+  <div class="atualizado-badge">Atualizado em 03/11/2026 13:37 · janela "30 dias" — 12 dia(s) com dados</div>
 
   <details class="collapsible">
     <summary>Como isso é calculado</summary>
@@ -1537,7 +1524,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Melhor rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="GRU→ITJ→TBO">GRU→ITJ→TBO</div>
+      <div class="kpi-value" style="font-size:20px;">GRU→ITJ→TBO</div>
       <div class="kpi-sub">R$ 120.242 · margem 85,0%</div>
     </div>
     <div class="kpi-tile">
@@ -1547,7 +1534,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Pior rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="RSL→LGS→CXS→POA">RSL→LGS→CXS→POA</div>
+      <div class="kpi-value" style="font-size:20px;">RSL→LGS→CXS→POA</div>
       <div class="kpi-sub">margem 33,1%</div>
     </div>
   </div>
@@ -2150,7 +2137,7 @@
       <div class="period-badge">últimos 1 dia(s) · 2026-10-30</div>
     </div>
   </div>
-  <div class="atualizado-badge">Atualizado em 03/11/2026 13:30 · janela "Dia anterior" — 1 dia(s) com dados</div>
+  <div class="atualizado-badge">Atualizado em 03/11/2026 13:37 · janela "Dia anterior" — 1 dia(s) com dados</div>
 
   <details class="collapsible">
     <summary>Como isso é calculado</summary>
@@ -2179,7 +2166,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Melhor rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="GRU→ITJ">GRU→ITJ</div>
+      <div class="kpi-value" style="font-size:20px;">GRU→ITJ</div>
       <div class="kpi-sub">R$ 48.751 · margem 81,5%</div>
     </div>
     <div class="kpi-tile">
@@ -2189,7 +2176,7 @@
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Pior rota citada</div>
-      <div class="kpi-value kpi-value-rota" title="RSL→LGS→CXS→POA">RSL→LGS→CXS→POA</div>
+      <div class="kpi-value" style="font-size:20px;">RSL→LGS→CXS→POA</div>
       <div class="kpi-sub">margem 22,6%</div>
     </div>
   </div>
