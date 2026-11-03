@@ -13,12 +13,32 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de POLIMETRI IND E METALURGICA LTDA - MAUA/SP",
-          "data_hora_posicao": "03/11/2026 17:44:43",
-          "lat": -23.6945033333333,
-          "lon": -46.4745133333333
+          "referencia": "0.09 km de PRE - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "03/11/2026 18:01:16",
+          "lat": -23.77539,
+          "lon": -46.6129933333333
         },
-        "distancia_km": 504.0,
+        "distancia_km": 488.2,
+        "proximo": false
+      },
+      {
+        "manif": "POA016202-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1271.73,
+        "frete_rs": 1269.63,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "03/11/2026 18:01:27",
+          "lat": -29.9839083333333,
+          "lon": -51.1869516666667
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "Guarulhos": {
         "peso_kg": 2796.73,
         "frete_rs": 9870.7,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 1271.73,
+        "frete_rs": 1269.63,
         "qtde": 1
       }
     }
@@ -44,10 +69,10 @@
         "frete_rs": 2514.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.54 km de VALLE DORO - ILHOTA/SC",
-          "data_hora_posicao": "03/11/2026 17:45:58",
-          "lat": -26.9839195,
-          "lon": -48.8034258
+          "referencia": "0.16 km de QFAZ SERVIÇOS LOGISTICOS (EMBRAST INDSUTRIA E COM) - BRUSQUE/SC",
+          "data_hora_posicao": "03/11/2026 18:01:08",
+          "lat": -27.0280425,
+          "lon": -48.8500815
         },
         "distancia_km": null,
         "proximo": false
@@ -57,6 +82,68 @@
       "Itajaí": {
         "peso_kg": 2002.3,
         "frete_rs": 2514.14,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016200-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 3534.72,
+        "frete_rs": 3815.84,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "03/11/2026 18:01:27",
+          "lat": -29.9839083333333,
+          "lon": -51.1869516666667
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 3534.72,
+        "frete_rs": 3815.84,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "POA016201-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 320.89,
+        "frete_rs": 339.02,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "03/11/2026 18:01:27",
+          "lat": -29.9839083333333,
+          "lon": -51.1869516666667
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 320.89,
+        "frete_rs": 339.02,
         "qtde": 1
       }
     }
@@ -76,7 +163,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 17:44:38",
+          "data_hora_posicao": "03/11/2026 18:00:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -92,36 +179,5 @@
       }
     }
   },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "RSL044130-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 6236.67,
-        "frete_rs": 4595.36,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 17:46:28",
-          "lat": -29.98344,
-          "lon": -51.186655
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 6236.67,
-        "frete_rs": 4595.36,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-03T17:47:42"
+  "_gerado_em": "2026-11-03T18:02:37"
 }
