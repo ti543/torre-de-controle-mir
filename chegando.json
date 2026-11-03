@@ -13,12 +13,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 16:29:37",
-          "lat": -23.47029,
-          "lon": -46.461955
+          "referencia": "0.11 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:45:35",
+          "lat": -23.4776216666667,
+          "lon": -46.4684716666667
         },
-        "distancia_km": 524.5,
+        "distancia_km": 523.5,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 16:30:38",
+          "data_hora_posicao": "03/11/2026 16:44:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -75,12 +75,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de E&F DIESEL - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "03/11/2026 16:30:29",
-          "lat": -29.7437316666667,
-          "lon": -51.1508866666667
+          "referencia": "0.91 km de AMAZON CD POA1 - NOVA SANTA RITA/RS",
+          "data_hora_posicao": "03/11/2026 16:46:29",
+          "lat": -29.8717116666667,
+          "lon": -51.2302483333333
         },
-        "distancia_km": 26.9,
+        "distancia_km": 13.1,
         "proximo": true
       }
     ],
@@ -92,5 +92,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T16:32:26"
+  "_gerado_em": "2026-11-03T16:47:46"
 }
