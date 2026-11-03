@@ -13,13 +13,13 @@
         "frete_rs": 575.59,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "03/11/2026 11:15:56",
-          "lat": -27.1962915,
-          "lon": -48.604438
+          "referencia": "0.8 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "03/11/2026 11:33:26",
+          "lat": -27.0765993,
+          "lon": -48.598375
         },
-        "distancia_km": 36.2,
-        "proximo": false
+        "distancia_km": 24.3,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -44,10 +44,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.29 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "03/11/2026 11:08:58",
-          "lat": -28.6958933333333,
-          "lon": -51.21392
+          "referencia": "0.31 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "03/11/2026 11:26:41",
+          "lat": -28.8428066666667,
+          "lon": -51.2668833333333
         },
         "distancia_km": null,
         "proximo": false
@@ -64,10 +64,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.29 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "03/11/2026 11:08:58",
-          "lat": -28.6958933333333,
-          "lon": -51.21392
+          "referencia": "0.31 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "03/11/2026 11:26:41",
+          "lat": -28.8428066666667,
+          "lon": -51.2668833333333
         },
         "distancia_km": null,
         "proximo": false
@@ -84,10 +84,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.29 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "03/11/2026 11:08:58",
-          "lat": -28.6958933333333,
-          "lon": -51.21392
+          "referencia": "0.31 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "03/11/2026 11:26:41",
+          "lat": -28.8428066666667,
+          "lon": -51.2668833333333
         },
         "distancia_km": null,
         "proximo": false
@@ -120,12 +120,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 11:14:38",
-          "lat": -23.5154864,
-          "lon": -46.6602816
+          "referencia": "0.08 km de POSTO CITY AMÉRICA - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 11:34:38",
+          "lat": -23.5107872,
+          "lon": -46.7227328
         },
-        "distancia_km": 20.8,
+        "distancia_km": 26.9,
         "proximo": true
       }
     ],
@@ -152,7 +152,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 11:14:42",
+          "data_hora_posicao": "03/11/2026 11:32:42",
           "lat": -26.7714384,
           "lon": -49.0779872
         },
@@ -172,7 +172,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 11:14:42",
+          "data_hora_posicao": "03/11/2026 11:32:42",
           "lat": -26.7714384,
           "lon": -49.0779872
         },
@@ -202,12 +202,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.29 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "03/11/2026 11:08:58",
-          "lat": -28.6958933333333,
-          "lon": -51.21392
+          "referencia": "0.31 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "03/11/2026 11:26:41",
+          "lat": -28.8428066666667,
+          "lon": -51.2668833333333
         },
-        "distancia_km": 143.2,
+        "distancia_km": 127.1,
         "proximo": false
       }
     ],
@@ -219,5 +219,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T11:17:25"
+  "_gerado_em": "2026-11-03T11:35:45"
 }
