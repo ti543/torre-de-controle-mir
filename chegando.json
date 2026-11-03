@@ -13,12 +13,12 @@
         "frete_rs": 7397.47,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.43 km de ÁREA DE DESCANSO PARA CAMINHONEIROS - ITATIBA/SP",
-          "data_hora_posicao": "03/11/2026 14:30:10",
-          "lat": -22.9400528,
-          "lon": -46.878512
+          "referencia": "2.49 km de POSTO MORRO AZUL - ITATIBA/SP",
+          "data_hora_posicao": "03/11/2026 14:45:59",
+          "lat": -23.0357344,
+          "lon": -46.7250176
         },
-        "distancia_km": 72.7,
+        "distancia_km": 55.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 14:30:51",
-          "lat": -23.5141824,
-          "lon": -46.6783648
+          "referencia": "0.52 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 14:44:38",
+          "lat": -23.5164704,
+          "lon": -46.6614432
         },
-        "distancia_km": 22.6,
+        "distancia_km": 20.9,
         "proximo": true
       }
     ],
@@ -69,10 +69,10 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.48 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "03/11/2026 14:31:34",
-          "lat": -29.139105,
-          "lon": -51.218755
+          "referencia": "0.33 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "03/11/2026 14:45:34",
+          "lat": -29.1392883333333,
+          "lon": -51.2204983333333
         },
         "distancia_km": 93.9,
         "proximo": false
@@ -86,5 +86,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T14:32:51"
+  "_gerado_em": "2026-11-03T14:47:45"
 }
