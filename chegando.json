@@ -13,12 +13,12 @@
         "frete_rs": 5960.61,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "4.95 km de VALLE DORO - ILHOTA/SC",
-          "data_hora_posicao": "03/11/2026 19:30:32",
-          "lat": -26.9915893,
-          "lon": -48.8136903
+          "referencia": "0.08 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 19:46:02",
+          "lat": -26.9103176,
+          "lon": -48.7128378
         },
-        "distancia_km": 14.8,
+        "distancia_km": 2.7,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.52 km de POSTO E COSTELAO MONTE CARLO III - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 19:19:14",
-          "lat": -25.8215228,
-          "lon": -49.1277548
+          "referencia": "1.01 km de MECANICA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 19:39:23",
+          "lat": -25.8594151,
+          "lon": -48.9507861
         },
-        "distancia_km": 125.3,
+        "distancia_km": 116.6,
         "proximo": false
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 6133.33,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.62 km de MCASSAB (CENTRO DE DISTRIBUIÇÃO) - JARINU/SP",
-          "data_hora_posicao": "03/11/2026 19:31:22",
-          "lat": -23.0358966666667,
-          "lon": -46.71852
+          "referencia": "0.8 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "03/11/2026 19:45:46",
+          "lat": -23.12125,
+          "lon": -46.5745866666667
         },
-        "distancia_km": 55.0,
+        "distancia_km": 40.5,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.73 km de RMBPACK MÁQUINAS E EMBALAGENS LTDA - COLOMBO/PR",
-          "data_hora_posicao": "03/11/2026 19:31:11",
-          "lat": -25.387104,
-          "lon": -49.176544
+          "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 19:45:11",
+          "lat": -25.3506416,
+          "lon": -49.0602272
         },
-        "distancia_km": 347.7,
+        "distancia_km": 336.0,
         "proximo": false
       },
       {
@@ -110,7 +110,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 19:30:38",
+          "data_hora_posicao": "03/11/2026 19:44:38",
           "lat": -23.4705264,
           "lon": -46.46248
         },
@@ -150,12 +150,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.52 km de POSTO E COSTELAO MONTE CARLO III - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "03/11/2026 19:19:14",
-          "lat": -25.8215228,
-          "lon": -49.1277548
+          "referencia": "1.01 km de MECANICA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "03/11/2026 19:39:23",
+          "lat": -25.8594151,
+          "lon": -48.9507861
         },
-        "distancia_km": 162.5,
+        "distancia_km": 165.1,
         "proximo": false
       },
       {
@@ -170,12 +170,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "03/11/2026 19:30:36",
-          "lat": -23.936475,
-          "lon": -47.0807233333333
+          "referencia": "0.68 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "03/11/2026 19:45:11",
+          "lat": -24.0514916666667,
+          "lon": -47.2016783333333
         },
-        "distancia_km": 445.6,
+        "distancia_km": 428.1,
         "proximo": false
       },
       {
@@ -191,7 +191,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:30:16",
+          "data_hora_posicao": "03/11/2026 19:46:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -252,7 +252,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:30:16",
+          "data_hora_posicao": "03/11/2026 19:46:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -283,7 +283,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 19:30:16",
+          "data_hora_posicao": "03/11/2026 19:46:15",
           "lat": -29.9837683333333,
           "lon": -51.18697
         },
@@ -299,5 +299,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T19:32:32"
+  "_gerado_em": "2026-11-03T19:47:27"
 }
