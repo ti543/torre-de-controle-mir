@@ -1,60 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010342-0",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 6912.86,
-        "frete_rs": 7397.47,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 16:16:24",
-          "lat": -23.4707408,
-          "lon": -46.4622368
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044118-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 541.0,
-        "frete_rs": 348.99,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 16:16:38",
-          "lat": -23.4705264,
-          "lon": -46.46248
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 6912.86,
-        "frete_rs": 7397.47,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 541.0,
-        "frete_rs": 348.99,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -69,10 +13,10 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 16:17:06",
-          "lat": -23.47043,
-          "lon": -46.462105
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:29:37",
+          "lat": -23.47029,
+          "lon": -46.461955
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -82,6 +26,37 @@
       "Guarulhos": {
         "peso_kg": 2796.73,
         "frete_rs": 9870.7,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044118-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 541.0,
+        "frete_rs": 348.99,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 16:30:38",
+          "lat": -23.4705264,
+          "lon": -46.46248
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 541.0,
+        "frete_rs": 348.99,
         "qtde": 1
       }
     }
@@ -100,13 +75,13 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO SIM PORTÃO - PORTAO/RS",
-          "data_hora_posicao": "03/11/2026 16:16:18",
-          "lat": -29.6900316666667,
-          "lon": -51.2341033333333
+          "referencia": "0.62 km de E&F DIESEL - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "03/11/2026 16:30:29",
+          "lat": -29.7437316666667,
+          "lon": -51.1508866666667
         },
-        "distancia_km": 32.9,
-        "proximo": false
+        "distancia_km": 26.9,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -117,5 +92,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T16:18:51"
+  "_gerado_em": "2026-11-03T16:32:26"
 }
