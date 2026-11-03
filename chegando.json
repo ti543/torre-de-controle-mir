@@ -1,35 +1,4 @@
 {
-  "FLN": {
-    "veiculos": [
-      {
-        "manif": "ITJ023968-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "FLN",
-        "dest_city": "PALHOCA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 9417.71,
-        "frete_rs": 8284.28,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "03/11/2026 09:30:26",
-          "lat": -27.6742956,
-          "lon": -48.6979373
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 9417.71,
-        "frete_rs": 8284.28,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -70,10 +39,10 @@
         "frete_rs": 1250.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.98 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:29:08",
-          "lat": -28.1011466666667,
-          "lon": -50.60848
+          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "03/11/2026 09:39:56",
+          "lat": -28.17591,
+          "lon": -50.6980166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -90,10 +59,10 @@
         "frete_rs": 10523.63,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.98 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:29:08",
-          "lat": -28.1011466666667,
-          "lon": -50.60848
+          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "03/11/2026 09:39:56",
+          "lat": -28.17591,
+          "lon": -50.6980166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -110,10 +79,10 @@
         "frete_rs": 390.21,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.98 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:29:08",
-          "lat": -28.1011466666667,
-          "lon": -50.60848
+          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "03/11/2026 09:39:56",
+          "lat": -28.17591,
+          "lon": -50.6980166666667
         },
         "distancia_km": null,
         "proximo": false
@@ -147,7 +116,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:31:02",
+          "data_hora_posicao": "03/11/2026 09:45:02",
           "lat": -23.4706864,
           "lon": -46.4622016
         },
@@ -167,7 +136,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:31:04",
+          "data_hora_posicao": "03/11/2026 09:45:04",
           "lat": -23.47044,
           "lon": -46.4620448
         },
@@ -186,12 +155,12 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 09:30:38",
-          "lat": -23.4705776,
-          "lon": -46.4624896
+          "referencia": "0.19 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 09:46:21",
+          "lat": -23.4689024,
+          "lon": -46.4655968
         },
-        "distancia_km": 0.0,
+        "distancia_km": 0.4,
         "proximo": true
       }
     ],
@@ -217,10 +186,10 @@
         "frete_rs": 7342.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de DICAVE BLUMENAU - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 09:30:42",
-          "lat": -26.8710112,
-          "lon": -49.1098912
+          "referencia": "0.29 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 09:45:16",
+          "lat": -26.8480736,
+          "lon": -49.0883744
         },
         "distancia_km": null,
         "proximo": false
@@ -237,10 +206,10 @@
         "frete_rs": 1875.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de DICAVE BLUMENAU - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 09:30:42",
-          "lat": -26.8710112,
-          "lon": -49.1098912
+          "referencia": "0.29 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 09:45:16",
+          "lat": -26.8480736,
+          "lon": -49.0883744
         },
         "distancia_km": null,
         "proximo": false
@@ -268,12 +237,12 @@
         "frete_rs": 4595.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.98 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "03/11/2026 09:29:08",
-          "lat": -28.1011466666667,
-          "lon": -50.60848
+          "referencia": "6.81 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "03/11/2026 09:39:56",
+          "lat": -28.17591,
+          "lon": -50.6980166666667
         },
-        "distancia_km": 216.7,
+        "distancia_km": 206.5,
         "proximo": false
       }
     ],
@@ -285,5 +254,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T09:32:34"
+  "_gerado_em": "2026-11-03T09:47:36"
 }
