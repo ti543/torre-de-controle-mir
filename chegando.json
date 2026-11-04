@@ -13,10 +13,10 @@
         "frete_rs": 108.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO SIM APARECIDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 08:59:52",
-          "lat": -29.034125,
-          "lon": -51.1956216666667
+          "referencia": "2.04 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "04/11/2026 09:08:16",
+          "lat": -28.977705,
+          "lon": -51.178545
         },
         "distancia_km": null,
         "proximo": false
@@ -33,50 +33,10 @@
         "frete_rs": 339.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO SIM APARECIDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 08:59:52",
-          "lat": -29.034125,
-          "lon": -51.1956216666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044163-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 5988.5,
-        "frete_rs": 6105.15,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 09:01:33",
-          "lat": -27.8192128,
-          "lon": -50.362048
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044166-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 97.0,
-        "frete_rs": 220.39,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 09:01:33",
-          "lat": -27.8192128,
-          "lon": -50.362048
+          "referencia": "2.04 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "04/11/2026 09:08:16",
+          "lat": -28.977705,
+          "lon": -51.178545
         },
         "distancia_km": null,
         "proximo": false
@@ -92,11 +52,6 @@
         "peso_kg": 320.89,
         "frete_rs": 339.02,
         "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6085.5,
-        "frete_rs": 6325.54,
-        "qtde": 2
       }
     }
   },
@@ -114,12 +69,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO SIM APARECIDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 08:59:52",
-          "lat": -29.034125,
-          "lon": -51.1956216666667
+          "referencia": "2.04 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "04/11/2026 09:08:16",
+          "lat": -28.977705,
+          "lon": -51.178545
         },
-        "distancia_km": 253.6,
+        "distancia_km": 247.6,
         "proximo": false
       },
       {
@@ -149,12 +104,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO SIM APARECIDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 08:59:52",
-          "lat": -29.034125,
-          "lon": -51.1956216666667
+          "referencia": "2.04 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "04/11/2026 09:08:16",
+          "lat": -28.977705,
+          "lon": -51.178545
         },
-        "distancia_km": 253.6,
+        "distancia_km": 247.6,
         "proximo": false
       }
     ],
@@ -179,26 +134,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "GRU074171-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 12282.97,
-        "frete_rs": 12888.82,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.08 km de KOWALSKY - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 09:01:04",
-          "lat": -26.8759552,
-          "lon": -48.727056
-        },
-        "distancia_km": 1.4,
-        "proximo": true
-      },
-      {
         "manif": "GRU074177-9",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -216,9 +151,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 22435.489999999998,
-        "frete_rs": 27298.78,
-        "qtde": 2
+        "peso_kg": 10152.52,
+        "frete_rs": 14409.96,
+        "qtde": 1
       }
     }
   },
@@ -251,10 +186,10 @@
         "frete_rs": 1436.89,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
-          "data_hora_posicao": "04/11/2026 09:00:05",
-          "lat": -27.0378368,
-          "lon": -49.3932416
+          "referencia": "2.24 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 09:16:05",
+          "lat": -26.9629344,
+          "lon": -49.3359136
         },
         "distancia_km": null,
         "proximo": false
@@ -287,12 +222,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.73 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 08:59:25",
-          "lat": -24.4218576,
-          "lon": -47.775168
+          "referencia": "1.33 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 09:15:25",
+          "lat": -24.3314992,
+          "lon": -47.6106048
         },
-        "distancia_km": 170.3,
+        "distancia_km": 151.0,
         "proximo": false
       },
       {
@@ -307,12 +242,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.73 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 08:59:25",
-          "lat": -24.4218576,
-          "lon": -47.775168
+          "referencia": "1.33 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 09:15:25",
+          "lat": -24.3314992,
+          "lon": -47.6106048
         },
-        "distancia_km": 170.3,
+        "distancia_km": 151.0,
         "proximo": false
       },
       {
@@ -327,12 +262,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.07 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "04/11/2026 09:00:28",
-          "lat": -24.0751712,
-          "lon": -47.2501792
+          "referencia": "0.91 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 09:16:21",
+          "lat": -23.9923008,
+          "lon": -47.1474688
         },
-        "distancia_km": 104.6,
+        "distancia_km": 90.7,
         "proximo": false
       },
       {
@@ -413,10 +348,10 @@
         "frete_rs": 1788.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 09:00:18",
-          "lat": -28.4685733,
-          "lon": -49.018945
+          "referencia": "0 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 09:16:01",
+          "lat": -28.4687826,
+          "lon": -49.0189216
         },
         "distancia_km": null,
         "proximo": false
@@ -444,10 +379,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 09:00:18",
-          "lat": -28.4685733,
-          "lon": -49.018945
+          "referencia": "0 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 09:16:01",
+          "lat": -28.4687826,
+          "lon": -49.0189216
         },
         "distancia_km": null,
         "proximo": false
@@ -475,10 +410,10 @@
         "frete_rs": 2352.52,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 09:00:18",
-          "lat": -28.4685733,
-          "lon": -49.018945
+          "referencia": "0 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 09:16:01",
+          "lat": -28.4687826,
+          "lon": -49.0189216
         },
         "distancia_km": null,
         "proximo": false
@@ -506,12 +441,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.27 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "04/11/2026 09:01:12",
-          "lat": -29.4988128,
-          "lon": -49.978192
+          "referencia": "0.17 km de POSTO ROTA 101 - TERRA DE AREIA/RS",
+          "data_hora_posicao": "04/11/2026 09:15:01",
+          "lat": -29.614096,
+          "lon": -50.091072
         },
-        "distancia_km": 128.5,
+        "distancia_km": 113.4,
         "proximo": false
       },
       {
@@ -526,12 +461,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.27 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "04/11/2026 09:01:12",
-          "lat": -29.4988128,
-          "lon": -49.978192
+          "referencia": "0.17 km de POSTO ROTA 101 - TERRA DE AREIA/RS",
+          "data_hora_posicao": "04/11/2026 09:15:01",
+          "lat": -29.614096,
+          "lon": -50.091072
         },
-        "distancia_km": 128.5,
+        "distancia_km": 113.4,
         "proximo": false
       },
       {
@@ -546,12 +481,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 09:01:33",
-          "lat": -27.8192128,
-          "lon": -50.362048
+          "referencia": "2.88 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "04/11/2026 09:07:33",
+          "lat": -27.8504896,
+          "lon": -50.3810624
         },
-        "distancia_km": 253.7,
+        "distancia_km": 249.8,
         "proximo": false
       }
     ],
@@ -582,10 +517,10 @@
         "frete_rs": 3284.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.04 km de POSTO RUSSI - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "04/11/2026 09:00:55",
-          "lat": -27.3754933333333,
-          "lon": -51.2461866666667
+          "referencia": "6.01 km de BRF UNIDADE DE CAMPOS NOVOS - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "04/11/2026 09:11:15",
+          "lat": -27.3316533333333,
+          "lon": -51.3522666666667
         },
         "distancia_km": null,
         "proximo": false
@@ -613,10 +548,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
-          "data_hora_posicao": "04/11/2026 09:00:05",
-          "lat": -27.0378368,
-          "lon": -49.3932416
+          "referencia": "2.24 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 09:16:05",
+          "lat": -26.9629344,
+          "lon": -49.3359136
         },
         "distancia_km": null,
         "proximo": false
@@ -644,10 +579,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 09:01:33",
-          "lat": -27.8192128,
-          "lon": -50.362048
+          "referencia": "2.88 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "04/11/2026 09:07:33",
+          "lat": -27.8504896,
+          "lon": -50.3810624
         },
         "distancia_km": null,
         "proximo": false
@@ -664,10 +599,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 09:01:33",
-          "lat": -27.8192128,
-          "lon": -50.362048
+          "referencia": "2.88 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "04/11/2026 09:07:33",
+          "lat": -27.8504896,
+          "lon": -50.3810624
         },
         "distancia_km": null,
         "proximo": false
@@ -681,5 +616,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T09:02:45"
+  "_gerado_em": "2026-11-04T09:17:46"
 }
