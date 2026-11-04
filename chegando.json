@@ -13,12 +13,32 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.79 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 00:31:11",
-          "lat": -24.4334432,
-          "lon": -47.7895968
+          "referencia": "1.56 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 00:45:11",
+          "lat": -24.3376032,
+          "lon": -47.6433056
         },
-        "distancia_km": 172.2,
+        "distancia_km": 154.0,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023981-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 16786.73,
+        "frete_rs": 18909.75,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 00:44:16",
+          "lat": -26.8877376,
+          "lon": -48.7206816
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -58,6 +78,11 @@
         "frete_rs": 1446.76,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 16786.73,
+        "frete_rs": 18909.75,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 28539.14,
         "frete_rs": 31166.66,
@@ -84,12 +109,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "04/11/2026 00:27:19",
-          "lat": -26.9751065,
-          "lon": -49.3677515
+          "referencia": "0.24 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "04/11/2026 00:39:21",
+          "lat": -27.0569248,
+          "lon": -49.389283
         },
-        "distancia_km": 37.9,
+        "distancia_km": 30.6,
         "proximo": false
       },
       {
@@ -104,12 +129,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO PETROBRAS - ANTONINA - ANTONINA/PR",
-          "data_hora_posicao": "04/11/2026 00:30:45",
-          "lat": -25.1091716666667,
-          "lon": -48.7469716666667
+          "referencia": "0.1 km de POSTO PETROBRAS - ANTONINA - ANTONINA/PR",
+          "data_hora_posicao": "04/11/2026 00:44:39",
+          "lat": -25.1092866666667,
+          "lon": -48.7471466666667
         },
-        "distancia_km": 250.0,
+        "distancia_km": 249.9,
         "proximo": false
       },
       {
@@ -139,12 +164,12 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "04/11/2026 00:27:19",
-          "lat": -26.9751065,
-          "lon": -49.3677515
+          "referencia": "0.24 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "04/11/2026 00:39:21",
+          "lat": -27.0569248,
+          "lon": -49.389283
         },
-        "distancia_km": 37.9,
+        "distancia_km": 30.6,
         "proximo": false
       },
       {
@@ -160,7 +185,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:30:11",
+          "data_hora_posicao": "04/11/2026 00:44:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -205,10 +230,10 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO ESTRELA AZUL - JUQUIA/SP",
-          "data_hora_posicao": "04/11/2026 00:29:47",
-          "lat": -24.3623536,
-          "lon": -47.6907584
+          "referencia": "0.06 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 00:44:35",
+          "lat": -24.362368,
+          "lon": -47.6907776
         },
         "distancia_km": 299.2,
         "proximo": false
@@ -227,57 +252,12 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044153-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3829.82,
-        "frete_rs": 1730.85,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.37 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "04/11/2026 00:31:26",
-          "lat": -26.8363664,
-          "lon": -48.7606624
-        },
-        "distancia_km": 6.9,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044155-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 12382.0,
-        "frete_rs": 5982.47,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.37 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "04/11/2026 00:31:26",
-          "lat": -26.8363664,
-          "lon": -48.7606624
-        },
-        "distancia_km": 6.9,
-        "proximo": true
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 22435.489999999998,
         "frete_rs": 27298.78,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 16211.82,
-        "frete_rs": 7713.32,
         "qtde": 2
       }
     }
@@ -296,12 +276,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.01 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "04/11/2026 00:29:45",
-          "lat": -23.9698976,
-          "lon": -47.1342624
+          "referencia": "0.36 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 00:37:32",
+          "lat": -24.0389568,
+          "lon": -47.1929088
         },
-        "distancia_km": 278.6,
+        "distancia_km": 269.2,
         "proximo": false
       },
       {
@@ -316,12 +296,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "04/11/2026 00:31:26",
-          "lat": -26.8363664,
-          "lon": -48.7606624
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 00:45:26",
+          "lat": -26.8874016,
+          "lon": -48.721184
         },
-        "distancia_km": 155.0,
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -336,12 +316,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "04/11/2026 00:31:26",
-          "lat": -26.8363664,
-          "lon": -48.7606624
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 00:45:26",
+          "lat": -26.8874016,
+          "lon": -48.721184
         },
-        "distancia_km": 155.0,
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -356,12 +336,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "04/11/2026 00:31:26",
-          "lat": -26.8363664,
-          "lon": -48.7606624
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 00:45:26",
+          "lat": -26.8874016,
+          "lon": -48.721184
         },
-        "distancia_km": 155.0,
+        "distancia_km": 161.7,
         "proximo": false
       }
     ],
@@ -393,7 +373,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 00:31:17",
+          "data_hora_posicao": "04/11/2026 00:45:17",
           "lat": -22.846925,
           "lon": -47.1247883333333
         },
@@ -450,7 +430,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:30:11",
+          "data_hora_posicao": "04/11/2026 00:44:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -481,7 +461,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:30:11",
+          "data_hora_posicao": "04/11/2026 00:44:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -497,5 +477,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T00:32:33"
+  "_gerado_em": "2026-11-04T00:47:25"
 }
