@@ -13,13 +13,13 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 17:29:44",
-          "lat": -27.2487311,
-          "lon": -48.6309268
+          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 17:44:36",
+          "lat": -27.1354483,
+          "lon": -48.6096951
         },
-        "distancia_km": 41.1,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "CRC000394-8",
@@ -33,13 +33,13 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 17:29:44",
-          "lat": -27.2487311,
-          "lon": -48.6309268
+          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 17:44:36",
+          "lat": -27.1354483,
+          "lon": -48.6096951
         },
-        "distancia_km": 41.1,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "TUB000386-7",
@@ -53,13 +53,13 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 17:29:44",
-          "lat": -27.2487311,
-          "lon": -48.6309268
+          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 17:44:36",
+          "lat": -27.1354483,
+          "lon": -48.6096951
         },
-        "distancia_km": 41.1,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -95,9 +95,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:30:36",
-          "lat": -27.8238166666667,
-          "lon": -50.3627616666667
+          "data_hora_posicao": "04/11/2026 17:44:52",
+          "lat": -27.8238483333333,
+          "lon": -50.3627633333333
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -115,11 +115,31 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:30:36",
-          "lat": -27.8238166666667,
-          "lon": -50.3627616666667
+          "data_hora_posicao": "04/11/2026 17:44:52",
+          "lat": -27.8238483333333,
+          "lon": -50.3627633333333
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016209-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6749.65,
+        "frete_rs": 5702.59,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "04/11/2026 17:45:01",
+          "lat": -29.9839232,
+          "lon": -51.1870048
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -130,9 +150,9 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 1271.73,
-        "frete_rs": 1269.63,
-        "qtde": 1
+        "peso_kg": 8021.379999999999,
+        "frete_rs": 6972.22,
+        "qtde": 2
       }
     }
   },
@@ -150,10 +170,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO MAKRO - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 17:30:05",
-          "lat": -26.302896,
-          "lon": -48.8825344
+          "referencia": "2.31 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 17:46:15",
+          "lat": -26.1306464,
+          "lon": -48.8923584
         },
         "distancia_km": null,
         "proximo": false
@@ -170,10 +190,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO MAKRO - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 17:30:05",
-          "lat": -26.302896,
-          "lon": -48.8825344
+          "referencia": "2.31 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 17:46:15",
+          "lat": -26.1306464,
+          "lon": -48.8923584
         },
         "distancia_km": null,
         "proximo": false
@@ -188,6 +208,37 @@
       "Rio do Sul": {
         "peso_kg": 10730.62,
         "frete_rs": 13233.48,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016208-6",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2000.0,
+        "frete_rs": 1572.56,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "04/11/2026 17:45:01",
+          "lat": -29.9839232,
+          "lon": -51.1870048
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 2000.0,
+        "frete_rs": 1572.56,
         "qtde": 1
       }
     }
@@ -207,7 +258,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 17:29:33",
+          "data_hora_posicao": "04/11/2026 17:45:33",
           "lat": -29.9833856,
           "lon": -51.186656
         },
@@ -223,5 +274,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T17:32:41"
+  "_gerado_em": "2026-11-04T17:47:46"
 }
