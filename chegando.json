@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 04:43:03",
+          "data_hora_posicao": "04/11/2026 04:59:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "7.08 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 04:45:14",
-          "lat": -26.70344,
-          "lon": -49.0528266666667
+          "referencia": "0.78 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 05:01:13",
+          "lat": -26.8168783333333,
+          "lon": -49.08959
         },
-        "distancia_km": 81.4,
+        "distancia_km": 70.4,
         "proximo": false
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 04:43:03",
+          "data_hora_posicao": "04/11/2026 04:59:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -88,12 +88,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SIM SANTO ANTÔNIO - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 04:44:42",
-          "lat": -29.2205016666667,
-          "lon": -51.3301816666667
+          "referencia": "0.19 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 05:01:06",
+          "lat": -29.1391266666667,
+          "lon": -51.2085516666667
         },
-        "distancia_km": 278.0,
+        "distancia_km": 263.7,
         "proximo": false
       }
     ],
@@ -134,12 +134,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.66 km de PEDAGIO - SAO JOSE DOS PINHAIS (BR 376) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "04/11/2026 04:45:04",
-          "lat": -25.7418144,
-          "lon": -49.1303296
+          "referencia": "0.34 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 05:01:04",
+          "lat": -25.8424096,
+          "lon": -49.0378752
         },
-        "distancia_km": 133.8,
+        "distancia_km": 120.4,
         "proximo": false
       },
       {
@@ -180,12 +180,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de BR TRUCK - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 04:45:45",
-          "lat": -25.5640704,
-          "lon": -49.2515616
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "04/11/2026 04:59:45",
+          "lat": -25.5276512,
+          "lon": -49.2953504
         },
-        "distancia_km": 6.0,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -200,13 +200,13 @@
         "frete_rs": 1248.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:45:48",
-          "lat": -25.7763344,
-          "lon": -49.1203424
+          "referencia": "1.15 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:26",
+          "lat": -25.6242864,
+          "lon": -49.1661024
         },
-        "distancia_km": 32.7,
-        "proximo": false
+        "distancia_km": 16.8,
+        "proximo": true
       },
       {
         "manif": "RSL044151-1",
@@ -220,13 +220,13 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:45:48",
-          "lat": -25.7763344,
-          "lon": -49.1203424
+          "referencia": "1.15 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:26",
+          "lat": -25.6242864,
+          "lon": -49.1661024
         },
-        "distancia_km": 32.7,
-        "proximo": false
+        "distancia_km": 16.8,
+        "proximo": true
       },
       {
         "manif": "RSL044154-6",
@@ -240,13 +240,13 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:45:48",
-          "lat": -25.7763344,
-          "lon": -49.1203424
+          "referencia": "1.15 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:26",
+          "lat": -25.6242864,
+          "lon": -49.1661024
         },
-        "distancia_km": 32.7,
-        "proximo": false
+        "distancia_km": 16.8,
+        "proximo": true
       },
       {
         "manif": "RSL044156-2",
@@ -260,13 +260,13 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:45:48",
-          "lat": -25.7763344,
-          "lon": -49.1203424
+          "referencia": "1.15 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:26",
+          "lat": -25.6242864,
+          "lon": -49.1661024
         },
-        "distancia_km": 32.7,
-        "proximo": false
+        "distancia_km": 16.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -302,7 +302,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 04:45:14",
+          "data_hora_posicao": "04/11/2026 05:01:13",
           "lat": -22.846925,
           "lon": -47.1247883333333
         },
@@ -358,12 +358,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.43 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 02) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "04/11/2026 04:45:25",
-          "lat": -25.7623536,
-          "lon": -49.1248256
+          "referencia": "0.12 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:25",
+          "lat": -25.6573792,
+          "lon": -49.1558848
         },
-        "distancia_km": 370.6,
+        "distancia_km": 365.1,
         "proximo": false
       },
       {
@@ -378,12 +378,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.43 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 02) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "04/11/2026 04:45:25",
-          "lat": -25.7623536,
-          "lon": -49.1248256
+          "referencia": "0.12 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 05:01:25",
+          "lat": -25.6573792,
+          "lon": -49.1558848
         },
-        "distancia_km": 370.6,
+        "distancia_km": 365.1,
         "proximo": false
       },
       {
@@ -398,12 +398,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:46:16",
-          "lat": -25.1000384,
-          "lon": -48.6767008
+          "referencia": "0.13 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 05:00:38",
+          "lat": -25.0839648,
+          "lon": -48.600304
         },
-        "distancia_km": 288.4,
+        "distancia_km": 281.3,
         "proximo": false
       },
       {
@@ -484,12 +484,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.13 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 04:45:19",
-          "lat": -28.4932576,
-          "lon": -49.0416512
+          "referencia": "1.32 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "04/11/2026 05:01:01",
+          "lat": -28.6458368,
+          "lon": -49.1025472
         },
-        "distancia_km": 266.0,
+        "distancia_km": 250.9,
         "proximo": false
       },
       {
@@ -504,12 +504,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.13 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 04:45:19",
-          "lat": -28.4932576,
-          "lon": -49.0416512
+          "referencia": "1.32 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "04/11/2026 05:01:01",
+          "lat": -28.6458368,
+          "lon": -49.1025472
         },
-        "distancia_km": 266.0,
+        "distancia_km": 250.9,
         "proximo": false
       }
     ],
@@ -535,10 +535,10 @@
         "frete_rs": 3815.84,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SIM SANTO ANTÔNIO - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 04:44:42",
-          "lat": -29.2205016666667,
-          "lon": -51.3301816666667
+          "referencia": "0.19 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 05:01:06",
+          "lat": -29.1391266666667,
+          "lon": -51.2085516666667
         },
         "distancia_km": null,
         "proximo": false
@@ -566,10 +566,10 @@
         "frete_rs": 339.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SIM SANTO ANTÔNIO - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 04:44:42",
-          "lat": -29.2205016666667,
-          "lon": -51.3301816666667
+          "referencia": "0.19 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 05:01:06",
+          "lat": -29.1391266666667,
+          "lon": -51.2085516666667
         },
         "distancia_km": null,
         "proximo": false
@@ -583,5 +583,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T04:47:34"
+  "_gerado_em": "2026-11-04T05:02:42"
 }
