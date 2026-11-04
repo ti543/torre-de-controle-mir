@@ -13,10 +13,10 @@
         "frete_rs": 108.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:47",
-          "lat": -28.6348666666667,
-          "lon": -51.0852266666667
+          "referencia": "0.24 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:30:21",
+          "lat": -28.5640633333333,
+          "lon": -50.9946966666667
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 339.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:47",
-          "lat": -28.6348666666667,
-          "lon": -51.0852266666667
+          "referencia": "0.24 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:30:21",
+          "lat": -28.5640633333333,
+          "lon": -50.9946966666667
         },
         "distancia_km": null,
         "proximo": false
@@ -69,12 +69,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:47",
-          "lat": -28.6348666666667,
-          "lon": -51.0852266666667
+          "referencia": "0.24 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:30:21",
+          "lat": -28.5640633333333,
+          "lon": -50.9946966666667
         },
-        "distancia_km": 212.4,
+        "distancia_km": 200.7,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:47",
-          "lat": -28.6348666666667,
-          "lon": -51.0852266666667
+          "referencia": "0.24 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:30:21",
+          "lat": -28.5640633333333,
+          "lon": -50.9946966666667
         },
-        "distancia_km": 212.4,
+        "distancia_km": 200.7,
         "proximo": false
       }
     ],
@@ -197,12 +197,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.88 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "04/11/2026 10:16:13",
-          "lat": -23.9920032,
-          "lon": -47.1475712
+          "referencia": "1.59 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 10:31:25",
+          "lat": -23.9249008,
+          "lon": -46.9935232
         },
-        "distancia_km": 90.7,
+        "distancia_km": 74.0,
         "proximo": false
       },
       {
@@ -217,12 +217,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.88 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "04/11/2026 10:16:13",
-          "lat": -23.9920032,
-          "lon": -47.1475712
+          "referencia": "1.59 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 10:31:25",
+          "lat": -23.9249008,
+          "lon": -46.9935232
         },
-        "distancia_km": 90.7,
+        "distancia_km": 74.0,
         "proximo": false
       },
       {
@@ -237,12 +237,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de PRF (DELEGACIA) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 10:14:16",
-          "lat": -23.6871248,
-          "lon": -46.8606272
+          "referencia": "1.35 km de POSTO 23 - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "04/11/2026 10:30:16",
+          "lat": -23.618808,
+          "lon": -46.8275552
         },
-        "distancia_km": 47.2,
+        "distancia_km": 40.7,
         "proximo": false
       },
       {
@@ -309,37 +309,6 @@
       }
     }
   },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ023978-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 701.4,
-        "frete_rs": 1788.39,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "2.69 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "04/11/2026 10:16:31",
-          "lat": -28.9085463,
-          "lon": -49.4816098
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 701.4,
-        "frete_rs": 1788.39,
-        "qtde": 1
-      }
-    }
-  },
   "CRC": {
     "veiculos": [
       {
@@ -354,10 +323,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.69 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "04/11/2026 10:16:31",
-          "lat": -28.9085463,
-          "lon": -49.4816098
+          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "04/11/2026 10:28:50",
+          "lat": -28.9753391,
+          "lon": -49.533381
         },
         "distancia_km": null,
         "proximo": false
@@ -385,13 +354,13 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "9.07 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:01",
-          "lat": -29.8893312,
-          "lon": -50.6838912
+          "referencia": "1.6 km de ADIENT DO BRASIL BANCOS AUTOMOTIVOS LTDA - GRAVATAI/RS - GRAVATAI/RS",
+          "data_hora_posicao": "04/11/2026 10:31:01",
+          "lat": -29.939888,
+          "lon": -50.893376
         },
-        "distancia_km": 49.6,
-        "proximo": false
+        "distancia_km": 28.7,
+        "proximo": true
       },
       {
         "manif": "ITJ023983-6",
@@ -405,13 +374,13 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "9.07 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:01",
-          "lat": -29.8893312,
-          "lon": -50.6838912
+          "referencia": "1.6 km de ADIENT DO BRASIL BANCOS AUTOMOTIVOS LTDA - GRAVATAI/RS - GRAVATAI/RS",
+          "data_hora_posicao": "04/11/2026 10:31:01",
+          "lat": -29.939888,
+          "lon": -50.893376
         },
-        "distancia_km": 49.6,
-        "proximo": false
+        "distancia_km": 28.7,
+        "proximo": true
       },
       {
         "manif": "RSL044164-3",
@@ -425,12 +394,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:33",
-          "lat": -28.2666848,
-          "lon": -50.789088
+          "referencia": "6.95 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:31:33",
+          "lat": -28.4134208,
+          "lon": -50.860592
         },
-        "distancia_km": 194.8,
+        "distancia_km": 177.4,
         "proximo": false
       }
     ],
@@ -461,10 +430,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "04/11/2026 10:16:05",
-          "lat": -26.8423616,
-          "lon": -49.2724576
+          "referencia": "0.52 km de POSTO ZANDONA 2 - INDAIAL/SC",
+          "data_hora_posicao": "04/11/2026 10:30:19",
+          "lat": -26.883728,
+          "lon": -49.2467232
         },
         "distancia_km": null,
         "proximo": false
@@ -492,10 +461,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:33",
-          "lat": -28.2666848,
-          "lon": -50.789088
+          "referencia": "6.95 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:31:33",
+          "lat": -28.4134208,
+          "lon": -50.860592
         },
         "distancia_km": null,
         "proximo": false
@@ -512,10 +481,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 10:15:33",
-          "lat": -28.2666848,
-          "lon": -50.789088
+          "referencia": "6.95 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "04/11/2026 10:31:33",
+          "lat": -28.4134208,
+          "lon": -50.860592
         },
         "distancia_km": null,
         "proximo": false
@@ -529,5 +498,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T10:17:51"
+  "_gerado_em": "2026-11-04T10:32:44"
 }
