@@ -13,33 +13,13 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "03/11/2026 23:45:11",
-          "lat": -24.7858288,
-          "lon": -48.17504
+          "referencia": "0.54 km de POSTO RECANTO DA SERRA - JACUPIRANGA/SP",
+          "data_hora_posicao": "04/11/2026 00:01:11",
+          "lat": -24.7111376,
+          "lon": -48.0222432
         },
-        "distancia_km": 227.2,
+        "distancia_km": 210.0,
         "proximo": false
-      },
-      {
-        "manif": "RSL044118-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 541.0,
-        "frete_rs": 348.99,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 23:44:38",
-          "lat": -23.4705168,
-          "lon": -46.4624544
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "RSL044157-1",
@@ -79,9 +59,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 29080.14,
-        "frete_rs": 31515.65,
-        "qtde": 2
+        "peso_kg": 28539.14,
+        "frete_rs": 31166.66,
+        "qtde": 1
       },
       "Timbó": {
         "peso_kg": 12507.05,
@@ -104,12 +84,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.78 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "03/11/2026 23:46:03",
-          "lat": -26.8749333,
-          "lon": -49.0047576
+          "referencia": "0.94 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 00:00:29",
+          "lat": -26.8825751,
+          "lon": -49.157576
         },
-        "distancia_km": 73.7,
+        "distancia_km": 60.6,
         "proximo": false
       },
       {
@@ -124,12 +104,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "03/11/2026 23:42:52",
-          "lat": -24.95848,
-          "lon": -48.4212266666667
+          "referencia": "1.24 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "03/11/2026 23:50:53",
+          "lat": -24.9707933333333,
+          "lon": -48.4998933333333
         },
-        "distancia_km": 278.4,
+        "distancia_km": 273.8,
         "proximo": false
       },
       {
@@ -159,12 +139,12 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.78 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "03/11/2026 23:46:03",
-          "lat": -26.8749333,
-          "lon": -49.0047576
+          "referencia": "0.94 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 00:00:29",
+          "lat": -26.8825751,
+          "lon": -49.157576
         },
-        "distancia_km": 73.7,
+        "distancia_km": 60.6,
         "proximo": false
       },
       {
@@ -180,7 +160,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:46:12",
+          "data_hora_posicao": "04/11/2026 00:00:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -225,12 +205,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.62 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "03/11/2026 23:45:27",
-          "lat": -24.308232,
-          "lon": -47.5018912
+          "referencia": "2.1 km de LAVADOR PIPOCA - JUQUIA/SP",
+          "data_hora_posicao": "03/11/2026 23:59:04",
+          "lat": -24.3555184,
+          "lon": -47.6631616
         },
-        "distancia_km": 311.8,
+        "distancia_km": 300.9,
         "proximo": false
       },
       {
@@ -260,12 +240,12 @@
         "frete_rs": 1730.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 23:45:26",
-          "lat": -26.8742528,
-          "lon": -49.1891136
+          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 23:59:26",
+          "lat": -26.8598208,
+          "lon": -49.0769472
         },
-        "distancia_km": 46.4,
+        "distancia_km": 35.4,
         "proximo": false
       },
       {
@@ -280,12 +260,12 @@
         "frete_rs": 5982.47,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 23:45:26",
-          "lat": -26.8742528,
-          "lon": -49.1891136
+          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 23:59:26",
+          "lat": -26.8598208,
+          "lon": -49.0769472
         },
-        "distancia_km": 46.4,
+        "distancia_km": 35.4,
         "proximo": false
       }
     ],
@@ -316,12 +296,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.17 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "03/11/2026 23:46:09",
-          "lat": -23.6872096,
-          "lon": -46.8186112
+          "referencia": "1.46 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 23:59:45",
+          "lat": -23.7233392,
+          "lon": -46.8920608
         },
-        "distancia_km": 323.4,
+        "distancia_km": 315.1,
         "proximo": false
       },
       {
@@ -336,12 +316,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 23:45:26",
-          "lat": -26.8742528,
-          "lon": -49.1891136
+          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 23:59:26",
+          "lat": -26.8598208,
+          "lon": -49.0769472
         },
-        "distancia_km": 150.1,
+        "distancia_km": 149.7,
         "proximo": false
       },
       {
@@ -356,12 +336,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 23:45:26",
-          "lat": -26.8742528,
-          "lon": -49.1891136
+          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 23:59:26",
+          "lat": -26.8598208,
+          "lon": -49.0769472
         },
-        "distancia_km": 150.1,
+        "distancia_km": 149.7,
         "proximo": false
       },
       {
@@ -376,12 +356,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "03/11/2026 23:45:26",
-          "lat": -26.8742528,
-          "lon": -49.1891136
+          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "03/11/2026 23:59:26",
+          "lat": -26.8598208,
+          "lon": -49.0769472
         },
-        "distancia_km": 150.1,
+        "distancia_km": 149.7,
         "proximo": false
       }
     ],
@@ -412,10 +392,10 @@
         "frete_rs": 9779.51,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.47 km de MAGAZINE LUIZA CD 300 - LOUVEIRA/SP",
-          "data_hora_posicao": "03/11/2026 23:45:18",
-          "lat": -23.116965,
-          "lon": -46.9944566666667
+          "referencia": "0.96 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (JARDIM YEDA) - CAMPINAS/SP",
+          "data_hora_posicao": "03/11/2026 23:59:58",
+          "lat": -22.9543533333333,
+          "lon": -47.1255866666667
         },
         "distancia_km": null,
         "proximo": false
@@ -470,7 +450,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:46:12",
+          "data_hora_posicao": "04/11/2026 00:00:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -501,7 +481,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:46:12",
+          "data_hora_posicao": "04/11/2026 00:00:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -517,5 +497,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T23:47:33"
+  "_gerado_em": "2026-11-04T00:02:26"
 }
