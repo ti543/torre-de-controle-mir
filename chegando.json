@@ -14,7 +14,27 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "04/11/2026 12:28:50",
+          "data_hora_posicao": "04/11/2026 12:48:50",
+          "lat": -28.690096,
+          "lon": -49.3156003
+        },
+        "distancia_km": 208.8,
+        "proximo": false
+      },
+      {
+        "manif": "CRC000394-8",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2112.0,
+        "frete_rs": 3501.75,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "04/11/2026 12:48:50",
           "lat": -28.690096,
           "lon": -49.3156003
         },
@@ -26,6 +46,11 @@
       "ARR": {
         "peso_kg": 27.0,
         "frete_rs": 200.56,
+        "qtde": 1
+      },
+      "CRC": {
+        "peso_kg": 2112.0,
+        "frete_rs": 3501.75,
         "qtde": 1
       }
     }
@@ -44,10 +69,10 @@
         "frete_rs": 108.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.5 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "04/11/2026 12:26:24",
-          "lat": -28.19752,
-          "lon": -50.74688
+          "referencia": "7.02 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "04/11/2026 12:46:21",
+          "lat": -28.08808,
+          "lon": -50.5938133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -64,10 +89,10 @@
         "frete_rs": 339.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.5 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "04/11/2026 12:26:24",
-          "lat": -28.19752,
-          "lon": -50.74688
+          "referencia": "7.02 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "04/11/2026 12:46:21",
+          "lat": -28.08808,
+          "lon": -50.5938133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -100,12 +125,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.5 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "04/11/2026 12:26:24",
-          "lat": -28.19752,
-          "lon": -50.74688
+          "referencia": "7.02 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "04/11/2026 12:46:21",
+          "lat": -28.08808,
+          "lon": -50.5938133333333
         },
-        "distancia_km": 154.3,
+        "distancia_km": 135.2,
         "proximo": false
       },
       {
@@ -135,12 +160,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.5 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "04/11/2026 12:26:24",
-          "lat": -28.19752,
-          "lon": -50.74688
+          "referencia": "7.02 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "04/11/2026 12:46:21",
+          "lat": -28.08808,
+          "lon": -50.5938133333333
         },
-        "distancia_km": 154.3,
+        "distancia_km": 135.2,
         "proximo": false
       }
     ],
@@ -222,12 +247,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 12:31:25",
-          "lat": -23.5161328,
-          "lon": -46.6638784
+          "referencia": "0.46 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 12:49:25",
+          "lat": -23.5189664,
+          "lon": -46.6417824
         },
-        "distancia_km": 21.2,
+        "distancia_km": 19.1,
         "proximo": true
       },
       {
@@ -242,12 +267,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 12:31:25",
-          "lat": -23.5161328,
-          "lon": -46.6638784
+          "referencia": "0.46 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 12:49:25",
+          "lat": -23.5189664,
+          "lon": -46.6417824
         },
-        "distancia_km": 21.2,
+        "distancia_km": 19.1,
         "proximo": true
       },
       {
@@ -262,12 +287,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 12:31:20",
-          "lat": -23.4716224,
-          "lon": -46.4617344
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 12:48:16",
+          "lat": -23.4706464,
+          "lon": -46.4622272
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -334,37 +359,6 @@
       }
     }
   },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ023979-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3104.97,
-        "frete_rs": 4811.02,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "04/11/2026 12:28:50",
-          "lat": -28.690096,
-          "lon": -49.3156003
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 3104.97,
-        "frete_rs": 4811.02,
-        "qtde": 1
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
       {
@@ -379,10 +373,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 12:30:05",
-          "lat": -26.8876032,
-          "lon": -48.7206816
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 12:48:05",
+          "lat": -26.887568,
+          "lon": -48.7207712
         },
         "distancia_km": null,
         "proximo": false
@@ -410,10 +404,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 12:31:33",
-          "lat": -29.0839136,
-          "lon": -51.191312
+          "referencia": "0.26 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 12:49:33",
+          "lat": -29.1512704,
+          "lon": -51.1695872
         },
         "distancia_km": null,
         "proximo": false
@@ -430,10 +424,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 12:31:33",
-          "lat": -29.0839136,
-          "lon": -51.191312
+          "referencia": "0.26 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 12:49:33",
+          "lat": -29.1512704,
+          "lon": -51.1695872
         },
         "distancia_km": null,
         "proximo": false
@@ -461,12 +455,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "04/11/2026 12:31:33",
-          "lat": -29.0839136,
-          "lon": -51.191312
+          "referencia": "0.26 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 12:49:33",
+          "lat": -29.1512704,
+          "lon": -51.1695872
         },
-        "distancia_km": 100.0,
+        "distancia_km": 92.5,
         "proximo": false
       }
     ],
@@ -478,5 +472,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T12:32:39"
+  "_gerado_em": "2026-11-04T12:51:58"
 }
