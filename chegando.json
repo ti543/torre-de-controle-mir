@@ -13,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "03/11/2026 21:35:59",
-          "lat": -24.975912,
-          "lon": -48.5017792
+          "referencia": "0.95 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "03/11/2026 21:57:11",
+          "lat": -24.925176,
+          "lon": -48.2647936
         },
-        "distancia_km": 266.1,
+        "distancia_km": 244.1,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 21:44:38",
+          "data_hora_posicao": "03/11/2026 22:00:38",
           "lat": -23.4706032,
           "lon": -46.4624224
         },
@@ -89,10 +89,10 @@
         "frete_rs": 3541.51,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 21:43:47",
-          "lat": -26.8873406,
-          "lon": -48.7212235
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 21:59:02",
+          "lat": -26.8873391,
+          "lon": -48.7209143
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -109,12 +109,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.8 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "03/11/2026 21:45:04",
-          "lat": -23.7839088,
-          "lon": -46.6292544
+          "referencia": "1.02 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 22:01:04",
+          "lat": -23.7549488,
+          "lon": -46.793744
         },
-        "distancia_km": 404.1,
+        "distancia_km": 398.5,
         "proximo": false
       },
       {
@@ -165,12 +165,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 21:43:47",
-          "lat": -26.8873406,
-          "lon": -48.7212235
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 21:59:02",
+          "lat": -26.8873391,
+          "lon": -48.7209143
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -186,7 +186,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "3.24 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "03/11/2026 21:46:17",
+          "data_hora_posicao": "03/11/2026 22:00:16",
           "lat": -24.5587416666667,
           "lon": -47.8665816666667
         },
@@ -206,9 +206,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 21:46:14",
-          "lat": -29.9837683333333,
-          "lon": -51.18697
+          "data_hora_posicao": "03/11/2026 22:01:26",
+          "lat": -29.9837583333333,
+          "lon": -51.187
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -247,9 +247,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 21:46:14",
-          "lat": -29.9837683333333,
-          "lon": -51.18697
+          "data_hora_posicao": "03/11/2026 22:01:26",
+          "lat": -29.9837583333333,
+          "lon": -51.187
         },
         "distancia_km": null,
         "proximo": false
@@ -278,9 +278,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 21:46:14",
-          "lat": -29.9837683333333,
-          "lon": -51.18697
+          "data_hora_posicao": "03/11/2026 22:01:26",
+          "lat": -29.9837583333333,
+          "lon": -51.187
         },
         "distancia_km": null,
         "proximo": false
@@ -294,5 +294,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T21:47:35"
+  "_gerado_em": "2026-11-03T22:02:35"
 }
