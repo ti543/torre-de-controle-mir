@@ -28,12 +28,12 @@
         "frete_rs": 993.45,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.21 km de ASTRANSC - ASSOCIAÇÃO DOS TRANSPORTADORES DE CARGAS DE SC - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 20:31:26",
-          "lat": -26.17648,
-          "lon": -48.9081184
+          "referencia": "0.46 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 20:45:26",
+          "lat": -26.323216,
+          "lon": -48.8680512
         },
-        "distancia_km": 81.2,
+        "distancia_km": 64.4,
         "proximo": false
       },
       {
@@ -49,7 +49,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:31:24",
+          "data_hora_posicao": "04/11/2026 20:46:00",
           "lat": -23.4704896,
           "lon": -46.4624832
         },
@@ -57,24 +57,24 @@
         "proximo": false
       },
       {
-        "manif": "RSL044185-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
+        "manif": "GRU074244-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
         "dest_unit": "ITJ",
         "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 2141.32,
-        "frete_rs": 1443.31,
-        "grupo_origem": "Rio do Sul",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1756.91,
+        "frete_rs": 3046.83,
+        "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.57 km de CONEXÃO MARÍTIMA SERVIÇOS LOGÍSTICO S/A - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:30:23",
-          "lat": -26.8525664,
-          "lon": -48.7267008
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 20:46:16",
+          "lat": -23.4709008,
+          "lon": -46.4621216
         },
-        "distancia_km": 3.9,
-        "proximo": true
+        "distancia_km": 442.7,
+        "proximo": false
       },
       {
         "manif": "TBO016332-5",
@@ -104,14 +104,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 3970.56,
-        "frete_rs": 4824.26,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2141.32,
-        "frete_rs": 1443.31,
-        "qtde": 1
+        "peso_kg": 5727.47,
+        "frete_rs": 7871.09,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 1918.86,
@@ -134,12 +129,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.09 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:29:45",
-          "lat": -25.0811792,
-          "lon": -48.621456
+          "referencia": "1.87 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:37:45",
+          "lat": -25.048792,
+          "lon": -48.547856
         },
-        "distancia_km": 282.8,
+        "distancia_km": 274.8,
         "proximo": false
       },
       {
@@ -170,9 +165,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:31:04",
-          "lat": -26.8874752,
-          "lon": -48.721168
+          "data_hora_posicao": "04/11/2026 20:45:04",
+          "lat": -26.8874784,
+          "lon": -48.7211872
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -190,9 +185,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:31:04",
-          "lat": -26.8874752,
-          "lon": -48.721168
+          "data_hora_posicao": "04/11/2026 20:45:04",
+          "lat": -26.8874784,
+          "lon": -48.7211872
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -209,12 +204,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.57 km de CONEXÃO MARÍTIMA SERVIÇOS LOGÍSTICO S/A - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:30:23",
-          "lat": -26.8525664,
-          "lon": -48.7267008
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 20:46:23",
+          "lat": -26.8876864,
+          "lon": -48.7206272
         },
-        "distancia_km": 439.7,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -229,12 +224,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.57 km de CONEXÃO MARÍTIMA SERVIÇOS LOGÍSTICO S/A - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:30:23",
-          "lat": -26.8525664,
-          "lon": -48.7267008
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 20:46:23",
+          "lat": -26.8876864,
+          "lon": -48.7206272
         },
-        "distancia_km": 439.7,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -290,12 +285,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.21 km de ASTRANSC - ASSOCIAÇÃO DOS TRANSPORTADORES DE CARGAS DE SC - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 20:31:26",
-          "lat": -26.17648,
-          "lon": -48.9081184
+          "referencia": "0.46 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 20:45:26",
+          "lat": -26.323216,
+          "lon": -48.8680512
         },
-        "distancia_km": 136.1,
+        "distancia_km": 125.1,
         "proximo": false
       },
       {
@@ -310,12 +305,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "04/11/2026 20:30:27",
-          "lat": -27.2755216666667,
-          "lon": -49.7496316666667
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 20:45:27",
+          "lat": -27.2047483333333,
+          "lon": -49.6383033333333
         },
-        "distancia_km": 12.5,
+        "distancia_km": 1.1,
         "proximo": true
       },
       {
@@ -330,12 +325,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:26:38",
-          "lat": -23.4706928,
-          "lon": -46.4622688
+          "referencia": "0.46 km de ZARAPLAST SA - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 20:46:38",
+          "lat": -23.4414864,
+          "lon": -46.4412
         },
-        "distancia_km": 524.5,
+        "distancia_km": 528.4,
         "proximo": false
       },
       {
@@ -350,12 +345,12 @@
         "frete_rs": 2337.52,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "04/11/2026 20:30:27",
-          "lat": -27.2755216666667,
-          "lon": -49.7496316666667
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 20:45:27",
+          "lat": -27.2047483333333,
+          "lon": -49.6383033333333
         },
-        "distancia_km": 12.5,
+        "distancia_km": 1.1,
         "proximo": true
       },
       {
@@ -370,12 +365,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "04/11/2026 20:30:27",
-          "lat": -27.2755216666667,
-          "lon": -49.7496316666667
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 20:45:27",
+          "lat": -27.2047483333333,
+          "lon": -49.6383033333333
         },
-        "distancia_km": 12.5,
+        "distancia_km": 1.1,
         "proximo": true
       },
       {
@@ -390,12 +385,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.13 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 20:31:28",
-          "lat": -29.1523872,
-          "lon": -51.1646112
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 20:45:01",
+          "lat": -29.1463008,
+          "lon": -51.164768
         },
-        "distancia_km": 262.5,
+        "distancia_km": 261.9,
         "proximo": false
       }
     ],
@@ -451,10 +446,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:30:05",
-          "lat": -25.1776928,
-          "lon": -48.8736576
+          "referencia": "0.07 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:46:05",
+          "lat": -25.1764368,
+          "lon": -48.873072
         },
         "distancia_km": null,
         "proximo": false
@@ -471,10 +466,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:30:05",
-          "lat": -25.1776928,
-          "lon": -48.8736576
+          "referencia": "0.07 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:46:05",
+          "lat": -25.1764368,
+          "lon": -48.873072
         },
         "distancia_km": null,
         "proximo": false
@@ -512,10 +507,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:26:38",
-          "lat": -23.4706928,
-          "lon": -46.4622688
+          "referencia": "0.46 km de ZARAPLAST SA - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 20:46:38",
+          "lat": -23.4414864,
+          "lon": -46.4412
         },
         "distancia_km": null,
         "proximo": false
@@ -525,6 +520,62 @@
       "Guarulhos": {
         "peso_kg": 8246.52,
         "frete_rs": 5049.79,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU074245-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1351.11,
+        "frete_rs": 4858.91,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 20:46:16",
+          "lat": -23.4709008,
+          "lon": -46.4621216
+        },
+        "distancia_km": 862.6,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044164-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 1727.6,
+        "frete_rs": 926.39,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "04/11/2026 20:45:33",
+          "lat": -29.9833984,
+          "lon": -51.186656
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 1351.11,
+        "frete_rs": 4858.91,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 1727.6,
+        "frete_rs": 926.39,
         "qtde": 1
       }
     }
@@ -543,10 +594,10 @@
         "frete_rs": 1572.56,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.13 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 20:31:28",
-          "lat": -29.1523872,
-          "lon": -51.1646112
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 20:45:01",
+          "lat": -29.1463008,
+          "lon": -51.164768
         },
         "distancia_km": null,
         "proximo": false
@@ -560,36 +611,5 @@
       }
     }
   },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "RSL044164-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1727.6,
-        "frete_rs": 926.39,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 20:27:33",
-          "lat": -29.9833984,
-          "lon": -51.186656
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 1727.6,
-        "frete_rs": 926.39,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-04T20:32:41"
+  "_gerado_em": "2026-11-04T20:47:54"
 }
