@@ -1,26 +1,351 @@
 {
-  "GRU": {
+  "RSL": {
     "veiculos": [
       {
-        "manif": "CTB013540-2",
+        "manif": "CTB013542-9",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 1217.58,
-        "frete_rs": 1446.76,
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 4974.58,
+        "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 04:15:11",
-          "lat": -23.470936,
-          "lon": -46.46144
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 04:31:03",
+          "lat": -27.205922,
+          "lon": -49.6493801
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
+      {
+        "manif": "GRU074169-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ALEX DO PRADO",
+        "peso_real_kg": 2796.73,
+        "frete_rs": 9870.7,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.67 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
+          "data_hora_posicao": "04/11/2026 04:31:29",
+          "lat": -26.6049733333333,
+          "lon": -49.006625
+        },
+        "distancia_km": 92.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074173-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 8039.77,
+        "frete_rs": 12607.78,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023977-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 555.85,
+        "frete_rs": 789.74,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 04:31:03",
+          "lat": -27.205922,
+          "lon": -49.6493801
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "POA016202-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1271.73,
+        "frete_rs": 1269.63,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "1.41 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "04/11/2026 04:26:08",
+          "lat": -29.3570283333333,
+          "lon": -51.3699433333333
+        },
+        "distancia_km": 292.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4974.58,
+        "frete_rs": 5354.76,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 10836.5,
+        "frete_rs": 22478.480000000003,
+        "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 555.85,
+        "frete_rs": 789.74,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 1271.73,
+        "frete_rs": 1269.63,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074171-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 12282.97,
+        "frete_rs": 12888.82,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.18 km de TRANSLUCHI TRANSPORTES - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 04:31:04",
+          "lat": -25.579272,
+          "lon": -49.1783776
+        },
+        "distancia_km": 152.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074177-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 10152.52,
+        "frete_rs": 14409.96,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 22435.489999999998,
+        "frete_rs": 27298.78,
+        "qtde": 2
+      }
+    }
+  },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "GRU074174-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 3627.58,
+        "frete_rs": 5559.08,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.4 km de RESTAURANTE AGRO BOTANICA - PIRAQUARA/PR",
+          "data_hora_posicao": "04/11/2026 04:29:45",
+          "lat": -25.4727968,
+          "lon": -49.0933952
+        },
+        "distancia_km": 21.2,
+        "proximo": true
+      },
+      {
+        "manif": "ITJ023984-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 725.45,
+        "frete_rs": 1248.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "1.39 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:26",
+          "lat": -25.8417632,
+          "lon": -49.0490144
+        },
+        "distancia_km": 42.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044151-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 11183.4,
+        "frete_rs": 4375.05,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.39 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:26",
+          "lat": -25.8417632,
+          "lon": -49.0490144
+        },
+        "distancia_km": 42.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044154-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 6898.0,
+        "frete_rs": 4040.12,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.39 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:26",
+          "lat": -25.8417632,
+          "lon": -49.0490144
+        },
+        "distancia_km": 42.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044156-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 316.4,
+        "frete_rs": 126.11,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.39 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:26",
+          "lat": -25.8417632,
+          "lon": -49.0490144
+        },
+        "distancia_km": 42.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3627.58,
+        "frete_rs": 5559.08,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 725.45,
+        "frete_rs": 1248.89,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 18397.800000000003,
+        "frete_rs": 8541.28,
+        "qtde": 3
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074176-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 7676.65,
+        "frete_rs": 9779.51,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "04/11/2026 04:31:14",
+          "lat": -22.846925,
+          "lon": -47.1247883333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 7676.65,
+        "frete_rs": 9779.51,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074178-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 10714.52,
+        "frete_rs": 12653.05,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 10714.52,
+        "frete_rs": 12653.05,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
       {
         "manif": "ITJ023975-5",
         "origin_unit": "ITJ",
@@ -33,12 +358,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:14:12",
-          "lat": -25.8651696,
-          "lon": -48.9338496
+          "referencia": "1.21 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:25",
+          "lat": -25.8408848,
+          "lon": -49.0468864
         },
-        "distancia_km": 365.0,
+        "distancia_km": 371.0,
         "proximo": false
       },
       {
@@ -53,12 +378,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:14:12",
-          "lat": -25.8651696,
-          "lon": -48.9338496
+          "referencia": "1.21 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:31:25",
+          "lat": -25.8408848,
+          "lon": -49.0468864
         },
-        "distancia_km": 365.0,
+        "distancia_km": 371.0,
         "proximo": false
       },
       {
@@ -73,12 +398,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.54 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 04:16:16",
-          "lat": -25.2138352,
-          "lon": -48.9004704
+          "referencia": "0.44 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 04:30:16",
+          "lat": -25.1077456,
+          "lon": -48.8314944
         },
-        "distancia_km": 314.0,
+        "distancia_km": 301.3,
         "proximo": false
       },
       {
@@ -128,11 +453,6 @@
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 1217.58,
-        "frete_rs": 1446.76,
-        "qtde": 1
-      },
       "Itajaí": {
         "peso_kg": 42380.01,
         "frete_rs": 44275.200000000004,
@@ -146,351 +466,6 @@
       "Timbó": {
         "peso_kg": 12507.05,
         "frete_rs": 16109.94,
-        "qtde": 1
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CTB013542-9",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 4974.58,
-        "frete_rs": 5354.76,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 04:15:03",
-          "lat": -27.205922,
-          "lon": -49.6493801
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074169-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ALEX DO PRADO",
-        "peso_real_kg": 2796.73,
-        "frete_rs": 9870.7,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.97 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
-          "data_hora_posicao": "04/11/2026 04:10:46",
-          "lat": -26.49463,
-          "lon": -49.0014166666667
-        },
-        "distancia_km": 102.0,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074173-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 8039.77,
-        "frete_rs": 12607.78,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023977-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 555.85,
-        "frete_rs": 789.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 04:15:03",
-          "lat": -27.205922,
-          "lon": -49.6493801
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "POA016202-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1271.73,
-        "frete_rs": 1269.63,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.87 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -29.4650833333333,
-          "lon": -51.35352
-        },
-        "distancia_km": 301.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4974.58,
-        "frete_rs": 5354.76,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 10836.5,
-        "frete_rs": 22478.480000000003,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 555.85,
-        "frete_rs": 789.74,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 1271.73,
-        "frete_rs": 1269.63,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074171-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 12282.97,
-        "frete_rs": 12888.82,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "2.09 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "04/11/2026 04:15:04",
-          "lat": -25.4320016,
-          "lon": -49.0858208
-        },
-        "distancia_km": 165.9,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074177-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 10152.52,
-        "frete_rs": 14409.96,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 22435.489999999998,
-        "frete_rs": 27298.78,
-        "qtde": 2
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074174-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 3627.58,
-        "frete_rs": 5559.08,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.54 km de POSTO E CHURRASCARIA O CUPIM 1 - QUATRO BARRAS/PR",
-          "data_hora_posicao": "04/11/2026 04:15:45",
-          "lat": -25.3116848,
-          "lon": -49.0156256
-        },
-        "distancia_km": 37.0,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023984-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 725.45,
-        "frete_rs": 1248.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.95 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -25.8604176,
-          "lon": -48.9457408
-        },
-        "distancia_km": 51.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044151-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 11183.4,
-        "frete_rs": 4375.05,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.95 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -25.8604176,
-          "lon": -48.9457408
-        },
-        "distancia_km": 51.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044154-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6898.0,
-        "frete_rs": 4040.12,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.95 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -25.8604176,
-          "lon": -48.9457408
-        },
-        "distancia_km": 51.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044156-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 316.4,
-        "frete_rs": 126.11,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.95 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -25.8604176,
-          "lon": -48.9457408
-        },
-        "distancia_km": 51.0,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3627.58,
-        "frete_rs": 5559.08,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 725.45,
-        "frete_rs": 1248.89,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 18397.800000000003,
-        "frete_rs": 8541.28,
-        "qtde": 3
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074176-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 7676.65,
-        "frete_rs": 9779.51,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 04:15:14",
-          "lat": -22.846925,
-          "lon": -47.1247883333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 7676.65,
-        "frete_rs": 9779.51,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074178-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 10714.52,
-        "frete_rs": 12653.05,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 10714.52,
-        "frete_rs": 12653.05,
         "qtde": 1
       }
     }
@@ -509,12 +484,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.74 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "04/11/2026 04:15:01",
-          "lat": -28.3690944,
-          "lon": -48.7569088
+          "referencia": "0.43 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "04/11/2026 04:31:01",
+          "lat": -28.4245056,
+          "lon": -48.9003744
         },
-        "distancia_km": 296.4,
+        "distancia_km": 281.6,
         "proximo": false
       },
       {
@@ -529,12 +504,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.74 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "04/11/2026 04:15:01",
-          "lat": -28.3690944,
-          "lon": -48.7569088
+          "referencia": "0.43 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "04/11/2026 04:31:01",
+          "lat": -28.4245056,
+          "lon": -48.9003744
         },
-        "distancia_km": 296.4,
+        "distancia_km": 281.6,
         "proximo": false
       }
     ],
@@ -560,10 +535,10 @@
         "frete_rs": 3815.84,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -29.4650833333333,
-          "lon": -51.35352
+          "referencia": "1.41 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "04/11/2026 04:26:08",
+          "lat": -29.3570283333333,
+          "lon": -51.3699433333333
         },
         "distancia_km": null,
         "proximo": false
@@ -591,10 +566,10 @@
         "frete_rs": 339.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "04/11/2026 04:16:08",
-          "lat": -29.4650833333333,
-          "lon": -51.35352
+          "referencia": "1.41 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "04/11/2026 04:26:08",
+          "lat": -29.3570283333333,
+          "lon": -51.3699433333333
         },
         "distancia_km": null,
         "proximo": false
@@ -608,5 +583,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T04:17:34"
+  "_gerado_em": "2026-11-04T04:32:32"
 }
