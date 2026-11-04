@@ -13,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.95 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "03/11/2026 21:57:11",
-          "lat": -24.925176,
-          "lon": -48.2647936
+          "referencia": "1.14 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "03/11/2026 22:13:31",
+          "lat": -24.78784,
+          "lon": -48.2036736
         },
-        "distancia_km": 244.1,
+        "distancia_km": 229.5,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 22:00:38",
+          "data_hora_posicao": "03/11/2026 22:14:38",
           "lat": -23.4706032,
           "lon": -46.4624224
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 21:59:02",
+          "data_hora_posicao": "03/11/2026 22:15:02",
           "lat": -26.8873391,
           "lon": -48.7209143
         },
@@ -109,12 +109,52 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.02 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "03/11/2026 22:01:04",
-          "lat": -23.7549488,
-          "lon": -46.793744
+          "referencia": "0.19 km de TREVISO TRANSPORTES LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "03/11/2026 22:15:04",
+          "lat": -23.6439168,
+          "lon": -46.8395648
         },
-        "distancia_km": 398.5,
+        "distancia_km": 407.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044153-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3829.82,
+        "frete_rs": 1730.85,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:15:26",
+          "lat": -27.2060288,
+          "lon": -49.6496544
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044155-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 12382.0,
+        "frete_rs": 5982.47,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:15:26",
+          "lat": -27.2060288,
+          "lon": -49.6496544
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -144,6 +184,11 @@
         "frete_rs": 12888.82,
         "qtde": 1
       },
+      "Rio do Sul": {
+        "peso_kg": 16211.82,
+        "frete_rs": 7713.32,
+        "qtde": 2
+      },
       "Timbó": {
         "peso_kg": 95.0,
         "frete_rs": 106.58,
@@ -166,7 +211,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 21:59:02",
+          "data_hora_posicao": "03/11/2026 22:15:02",
           "lat": -26.8873391,
           "lon": -48.7209143
         },
@@ -186,9 +231,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "3.24 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "03/11/2026 22:00:16",
-          "lat": -24.5587416666667,
-          "lon": -47.8665816666667
+          "data_hora_posicao": "03/11/2026 22:15:31",
+          "lat": -24.5587766666667,
+          "lon": -47.8665916666667
         },
         "distancia_km": 344.2,
         "proximo": false
@@ -206,7 +251,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:01:26",
+          "data_hora_posicao": "03/11/2026 22:16:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -232,6 +277,102 @@
       }
     }
   },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "GRU074174-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 3627.58,
+        "frete_rs": 5559.08,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 22:15:45",
+          "lat": -23.470976,
+          "lon": -46.4613792
+        },
+        "distancia_km": 366.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044151-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 11183.4,
+        "frete_rs": 4375.05,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:15:26",
+          "lat": -27.2060288,
+          "lon": -49.6496544
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044154-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 6898.0,
+        "frete_rs": 4040.12,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:15:26",
+          "lat": -27.2060288,
+          "lon": -49.6496544
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044156-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 316.4,
+        "frete_rs": 126.11,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:15:26",
+          "lat": -27.2060288,
+          "lon": -49.6496544
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3627.58,
+        "frete_rs": 5559.08,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 18397.800000000003,
+        "frete_rs": 8541.28,
+        "qtde": 3
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -247,7 +388,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:01:26",
+          "data_hora_posicao": "03/11/2026 22:16:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -278,7 +419,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:01:26",
+          "data_hora_posicao": "03/11/2026 22:16:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -294,5 +435,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T22:02:35"
+  "_gerado_em": "2026-11-03T22:17:30"
 }
