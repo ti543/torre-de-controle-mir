@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 14:15:17",
+          "data_hora_posicao": "04/11/2026 14:30:54",
           "lat": -28.4687571,
           "lon": -49.0189083
         },
@@ -34,7 +34,27 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 14:15:17",
+          "data_hora_posicao": "04/11/2026 14:30:54",
+          "lat": -28.4687571,
+          "lon": -49.0189083
+        },
+        "distancia_km": 178.3,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000386-7",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 1435.13,
+        "frete_rs": 3241.97,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 14:30:54",
           "lat": -28.4687571,
           "lon": -49.0189083
         },
@@ -52,61 +72,10 @@
         "peso_kg": 2112.0,
         "frete_rs": 3501.75,
         "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002233-1",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 19.0,
-        "frete_rs": 108.08,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:15:15",
-          "lat": -27.8238183333333,
-          "lon": -50.36281
-        },
-        "distancia_km": null,
-        "proximo": false
       },
-      {
-        "manif": "POA016201-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 320.89,
-        "frete_rs": 339.02,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:15:15",
-          "lat": -27.8238183333333,
-          "lon": -50.36281
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 19.0,
-        "frete_rs": 108.08,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 320.89,
-        "frete_rs": 339.02,
+      "TUB": {
+        "peso_kg": 1435.13,
+        "frete_rs": 3241.97,
         "qtde": 1
       }
     }
@@ -126,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:15:15",
+          "data_hora_posicao": "04/11/2026 14:31:14",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -146,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:15:15",
+          "data_hora_posicao": "04/11/2026 14:31:14",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -254,7 +223,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 14:16:05",
+          "data_hora_posicao": "04/11/2026 14:30:05",
           "lat": -26.887568,
           "lon": -48.7207712
         },
@@ -284,12 +253,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 14:16:23",
-          "lat": -29.1493472,
-          "lon": -51.1861152
+          "referencia": "1.54 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 14:29:33",
+          "lat": -29.1581536,
+          "lon": -51.2432288
         },
-        "distancia_km": 92.7,
+        "distancia_km": 91.9,
         "proximo": false
       }
     ],
@@ -301,5 +270,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T14:18:02"
+  "_gerado_em": "2026-11-04T14:32:26"
 }
