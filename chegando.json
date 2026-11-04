@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "2.18 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "04/11/2026 15:01:12",
-          "lat": -28.3730791,
-          "lon": -48.7604
+          "referencia": "0.46 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "04/11/2026 15:15:51",
+          "lat": -28.2198953,
+          "lon": -48.7003148
         },
-        "distancia_km": 165.2,
+        "distancia_km": 148.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.18 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "04/11/2026 15:01:12",
-          "lat": -28.3730791,
-          "lon": -48.7604
+          "referencia": "0.46 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "04/11/2026 15:15:51",
+          "lat": -28.2198953,
+          "lon": -48.7003148
         },
-        "distancia_km": 165.2,
+        "distancia_km": 148.2,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.18 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "04/11/2026 15:01:12",
-          "lat": -28.3730791,
-          "lon": -48.7604
+          "referencia": "0.46 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "04/11/2026 15:15:51",
+          "lat": -28.2198953,
+          "lon": -48.7003148
         },
-        "distancia_km": 165.2,
+        "distancia_km": 148.2,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 15:00:01",
+          "data_hora_posicao": "04/11/2026 15:16:01",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 15:00:01",
+          "data_hora_posicao": "04/11/2026 15:16:01",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -197,7 +197,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 15:00:05",
+          "data_hora_posicao": "04/11/2026 15:16:05",
           "lat": -26.887568,
           "lon": -48.7207712
         },
@@ -227,12 +227,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.15 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 15:01:33",
-          "lat": -29.303584,
-          "lon": -51.3373696
+          "referencia": "1.96 km de POSTO REGIS CHARRUA - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "04/11/2026 15:15:33",
+          "lat": -29.41672,
+          "lon": -51.3542208
         },
-        "distancia_km": 77.0,
+        "distancia_km": 65.1,
         "proximo": false
       }
     ],
@@ -244,5 +244,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T15:02:50"
+  "_gerado_em": "2026-11-04T15:17:58"
 }
