@@ -1,4 +1,80 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000753-6",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 6861.47,
+        "frete_rs": 7754.11,
+        "grupo_origem": "Brusque",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013549-6",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 334.38,
+        "frete_rs": 993.45,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "1.03 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 19:45:26",
+          "lat": -25.8412672,
+          "lon": -49.0450272
+        },
+        "distancia_km": 120.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044185-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 2141.32,
+        "frete_rs": 1443.31,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 19:44:38",
+          "lat": -26.8736576,
+          "lon": -49.1139008
+        },
+        "distancia_km": 39.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 6861.47,
+        "frete_rs": 7754.11,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 334.38,
+        "frete_rs": 993.45,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2141.32,
+        "frete_rs": 1443.31,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -13,12 +89,12 @@
         "frete_rs": 6821.75,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.65 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 19:29:01",
-          "lat": -23.3811066666667,
-          "lon": -46.5632033333333
+          "referencia": "0.14 km de PÁTIO FECHADO E MONITORADO GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 19:45:20",
+          "lat": -23.4825683333333,
+          "lon": -46.5355733333333
         },
-        "distancia_km": 14.3,
+        "distancia_km": 7.6,
         "proximo": true
       },
       {
@@ -33,12 +109,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.13 km de DELEGACIA DA POLÍCIA RODOVIÁRIA FEDERAL (PÁTIO DA PRF E DNIT) - COLOMBO/PR",
-          "data_hora_posicao": "04/11/2026 19:29:45",
-          "lat": -25.3765552,
-          "lon": -49.1517568
+          "referencia": "2.04 km de POSTO COSTA BRAVA - QUATRO BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "04/11/2026 19:43:45",
+          "lat": -25.3087888,
+          "lon": -48.9996832
         },
-        "distancia_km": 345.0,
+        "distancia_km": 328.3,
         "proximo": false
       },
       {
@@ -68,12 +144,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
-          "data_hora_posicao": "04/11/2026 19:30:23",
-          "lat": -26.8844352,
-          "lon": -49.2479392
+          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 19:44:38",
+          "lat": -26.8736576,
+          "lon": -49.1139008
         },
-        "distancia_km": 471.9,
+        "distancia_km": 463.0,
         "proximo": false
       },
       {
@@ -88,12 +164,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
-          "data_hora_posicao": "04/11/2026 19:30:23",
-          "lat": -26.8844352,
-          "lon": -49.2479392
+          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "04/11/2026 19:44:38",
+          "lat": -26.8736576,
+          "lon": -49.1139008
         },
-        "distancia_km": 471.9,
+        "distancia_km": 463.0,
         "proximo": false
       }
     ],
@@ -120,62 +196,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013549-6",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 334.38,
-        "frete_rs": 993.45,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.13 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 19:31:26",
-          "lat": -25.776152,
-          "lon": -49.1205536
-        },
-        "distancia_km": 129.8,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044185-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 2141.32,
-        "frete_rs": 1443.31,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.67 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
-          "data_hora_posicao": "04/11/2026 19:30:23",
-          "lat": -26.8844352,
-          "lon": -49.2479392
-        },
-        "distancia_km": 52.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 334.38,
-        "frete_rs": 993.45,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2141.32,
-        "frete_rs": 1443.31,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -190,12 +210,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO PELANDA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 19:31:26",
-          "lat": -25.776152,
-          "lon": -49.1205536
+          "referencia": "1.03 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 19:45:26",
+          "lat": -25.8412672,
+          "lon": -49.0450272
         },
-        "distancia_km": 167.5,
+        "distancia_km": 163.2,
         "proximo": false
       },
       {
@@ -210,12 +230,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.25 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 19:22:33",
-          "lat": -27.3076533333333,
-          "lon": -50.23088
+          "referencia": "10.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 19:42:33",
+          "lat": -27.3028266666667,
+          "lon": -50.0799466666667
         },
-        "distancia_km": 58.5,
+        "distancia_km": 43.9,
         "proximo": false
       },
       {
@@ -230,12 +250,12 @@
         "frete_rs": 2337.52,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.25 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 19:22:33",
-          "lat": -27.3076533333333,
-          "lon": -50.23088
+          "referencia": "10.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 19:42:33",
+          "lat": -27.3028266666667,
+          "lon": -50.0799466666667
         },
-        "distancia_km": 58.5,
+        "distancia_km": 43.9,
         "proximo": false
       },
       {
@@ -250,12 +270,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.25 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 19:22:33",
-          "lat": -27.3076533333333,
-          "lon": -50.23088
+          "referencia": "10.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 19:42:33",
+          "lat": -27.3028266666667,
+          "lon": -50.0799466666667
         },
-        "distancia_km": 58.5,
+        "distancia_km": 43.9,
         "proximo": false
       },
       {
@@ -270,12 +290,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO RODOIL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "04/11/2026 19:29:01",
-          "lat": -29.3924736,
-          "lon": -51.3591264
+          "referencia": "3.28 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "04/11/2026 19:46:22",
+          "lat": -29.2954624,
+          "lon": -51.3342368
         },
-        "distancia_km": 295.1,
+        "distancia_km": 285.0,
         "proximo": false
       },
       {
@@ -346,10 +366,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "04/11/2026 19:30:05",
-          "lat": -25.4223152,
-          "lon": -49.0732128
+          "referencia": "0.52 km de 1ª CPR - QUATRO BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "04/11/2026 19:46:05",
+          "lat": -25.3052432,
+          "lon": -48.9495552
         },
         "distancia_km": null,
         "proximo": false
@@ -366,10 +386,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "04/11/2026 19:30:05",
-          "lat": -25.4223152,
-          "lon": -49.0732128
+          "referencia": "0.52 km de 1ª CPR - QUATRO BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "04/11/2026 19:46:05",
+          "lat": -25.3052432,
+          "lon": -48.9495552
         },
         "distancia_km": null,
         "proximo": false
@@ -407,10 +427,10 @@
         "frete_rs": 1572.56,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO RODOIL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "04/11/2026 19:29:01",
-          "lat": -29.3924736,
-          "lon": -51.3591264
+          "referencia": "3.28 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "04/11/2026 19:46:22",
+          "lat": -29.2954624,
+          "lon": -51.3342368
         },
         "distancia_km": null,
         "proximo": false
@@ -439,7 +459,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 19:31:33",
+          "data_hora_posicao": "04/11/2026 19:45:33",
           "lat": -29.9833856,
           "lon": -51.186656
         },
@@ -455,5 +475,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T19:32:45"
+  "_gerado_em": "2026-11-04T19:47:36"
 }
