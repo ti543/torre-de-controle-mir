@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.4 km de MULTI EXPRESS - ICARA/SC",
-          "data_hora_posicao": "04/11/2026 11:30:37",
-          "lat": -28.773913,
-          "lon": -49.313815
+          "referencia": "0.06 km de POSTO ROTA LITORAL - ICARA/SC",
+          "data_hora_posicao": "04/11/2026 11:46:06",
+          "lat": -28.6998853,
+          "lon": -49.3096976
         },
-        "distancia_km": 217.7,
+        "distancia_km": 209.7,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 11:30:02",
+          "data_hora_posicao": "04/11/2026 11:46:02",
           "lat": -28.2797366666667,
           "lon": -50.79998
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 11:30:02",
+          "data_hora_posicao": "04/11/2026 11:46:02",
           "lat": -28.2797366666667,
           "lon": -50.79998
         },
@@ -101,7 +101,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 11:30:02",
+          "data_hora_posicao": "04/11/2026 11:46:02",
           "lat": -28.2797366666667,
           "lon": -50.79998
         },
@@ -136,7 +136,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "04/11/2026 11:30:02",
+          "data_hora_posicao": "04/11/2026 11:46:02",
           "lat": -28.2797366666667,
           "lon": -50.79998
         },
@@ -202,12 +202,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 11:31:25",
-          "lat": -23.6363984,
-          "lon": -46.8322208
+          "referencia": "0.61 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "04/11/2026 11:45:51",
+          "lat": -23.5114304,
+          "lon": -46.8073248
         },
-        "distancia_km": 42.0,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -222,12 +222,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 11:31:25",
-          "lat": -23.6363984,
-          "lon": -46.8322208
+          "referencia": "0.61 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "04/11/2026 11:45:51",
+          "lat": -23.5114304,
+          "lon": -46.8073248
         },
-        "distancia_km": 42.0,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -242,12 +242,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.45 km de EATON LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 11:30:44",
-          "lat": -23.5093008,
-          "lon": -46.7086528
+          "referencia": "0.47 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 11:46:16",
+          "lat": -23.5189472,
+          "lon": -46.6413472
         },
-        "distancia_km": 25.5,
+        "distancia_km": 19.0,
         "proximo": true
       },
       {
@@ -328,10 +328,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de MULTI EXPRESS - ICARA/SC",
-          "data_hora_posicao": "04/11/2026 11:30:37",
-          "lat": -28.773913,
-          "lon": -49.313815
+          "referencia": "0.06 km de POSTO ROTA LITORAL - ICARA/SC",
+          "data_hora_posicao": "04/11/2026 11:46:06",
+          "lat": -28.6998853,
+          "lon": -49.3096976
         },
         "distancia_km": null,
         "proximo": false
@@ -341,82 +341,6 @@
       "Itajaí": {
         "peso_kg": 3104.97,
         "frete_rs": 4811.02,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "ITJ023982-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 4415.11,
-        "frete_rs": 7192.73,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 11:31:01",
-          "lat": -29.9833536,
-          "lon": -51.1866528
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023983-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2436.76,
-        "frete_rs": 7080.97,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 11:31:01",
-          "lat": -29.9833536,
-          "lon": -51.1866528
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044164-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1727.6,
-        "frete_rs": 926.39,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.13 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "04/11/2026 11:19:33",
-          "lat": -28.668336,
-          "lon": -51.1825536
-        },
-        "distancia_km": 146.2,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 6851.87,
-        "frete_rs": 14273.7,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 1727.6,
-        "frete_rs": 926.39,
         "qtde": 1
       }
     }
@@ -435,10 +359,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de TWS TRANSPORTES - GASPAR/SC",
-          "data_hora_posicao": "04/11/2026 11:30:05",
-          "lat": -26.904512,
-          "lon": -48.9372672
+          "referencia": "2.39 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "04/11/2026 11:44:05",
+          "lat": -26.8396704,
+          "lon": -48.788736
         },
         "distancia_km": null,
         "proximo": false
@@ -466,10 +390,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "04/11/2026 11:19:33",
-          "lat": -28.668336,
-          "lon": -51.1825536
+          "referencia": "2.32 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "04/11/2026 11:46:18",
+          "lat": -28.85568,
+          "lon": -51.2492928
         },
         "distancia_km": null,
         "proximo": false
@@ -486,10 +410,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "04/11/2026 11:19:33",
-          "lat": -28.668336,
-          "lon": -51.1825536
+          "referencia": "2.32 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "04/11/2026 11:46:18",
+          "lat": -28.85568,
+          "lon": -51.2492928
         },
         "distancia_km": null,
         "proximo": false
@@ -503,5 +427,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T11:33:04"
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "RSL044164-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 1727.6,
+        "frete_rs": 926.39,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.32 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "04/11/2026 11:46:18",
+          "lat": -28.85568,
+          "lon": -51.2492928
+        },
+        "distancia_km": 125.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 1727.6,
+        "frete_rs": 926.39,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-04T11:47:46"
 }
