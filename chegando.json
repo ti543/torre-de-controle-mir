@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 14:30:54",
-          "lat": -28.4687571,
-          "lon": -49.0189083
+          "referencia": "3.23 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "04/11/2026 14:46:20",
+          "lat": -28.4267778,
+          "lon": -48.8631048
         },
-        "distancia_km": 178.3,
+        "distancia_km": 171.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 14:30:54",
-          "lat": -28.4687571,
-          "lon": -49.0189083
+          "referencia": "3.23 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "04/11/2026 14:46:20",
+          "lat": -28.4267778,
+          "lon": -48.8631048
         },
-        "distancia_km": 178.3,
+        "distancia_km": 171.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "04/11/2026 14:30:54",
-          "lat": -28.4687571,
-          "lon": -49.0189083
+          "referencia": "3.23 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "04/11/2026 14:46:20",
+          "lat": -28.4267778,
+          "lon": -48.8631048
         },
-        "distancia_km": 178.3,
+        "distancia_km": 171.7,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:31:14",
+          "data_hora_posicao": "04/11/2026 14:45:14",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 14:31:14",
+          "data_hora_posicao": "04/11/2026 14:45:14",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -182,32 +182,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044157-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 28539.14,
-        "frete_rs": 31166.66,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 28539.14,
-        "frete_rs": 31166.66,
-        "qtde": 1
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
       {
@@ -223,7 +197,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 14:30:05",
+          "data_hora_posicao": "04/11/2026 14:46:05",
           "lat": -26.887568,
           "lon": -48.7207712
         },
@@ -253,12 +227,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 14:29:33",
-          "lat": -29.1581536,
-          "lon": -51.2432288
+          "referencia": "0.57 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (UTILIDADES TÉRMICAS) - FARROUPILHA/RS",
+          "data_hora_posicao": "04/11/2026 14:45:33",
+          "lat": -29.214704,
+          "lon": -51.314864
         },
-        "distancia_km": 91.9,
+        "distancia_km": 86.4,
         "proximo": false
       }
     ],
@@ -270,5 +244,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T14:32:26"
+  "_gerado_em": "2026-11-04T14:47:54"
 }
