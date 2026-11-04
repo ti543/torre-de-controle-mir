@@ -2,26 +2,6 @@
   "RSL": {
     "veiculos": [
       {
-        "manif": "CTB013542-9",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 4974.58,
-        "frete_rs": 5354.76,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 07:43:02",
-          "lat": -27.2060253,
-          "lon": -49.649357
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "GRU074169-8",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -34,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 07:45:18",
+          "data_hora_posicao": "04/11/2026 08:01:18",
           "lat": -27.2061266666667,
           "lon": -49.64949
         },
@@ -57,26 +37,6 @@
         "proximo": false
       },
       {
-        "manif": "ITJ023977-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 555.85,
-        "frete_rs": 789.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 07:43:02",
-          "lat": -27.2060253,
-          "lon": -49.649357
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "POA016202-7",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -89,7 +49,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 07:46:04",
+          "data_hora_posicao": "04/11/2026 08:00:04",
           "lat": -29.1462816666667,
           "lon": -51.1648716666667
         },
@@ -98,20 +58,10 @@
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4974.58,
-        "frete_rs": 5354.76,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 10836.5,
         "frete_rs": 22478.480000000003,
         "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 555.85,
-        "frete_rs": 789.74,
-        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 1271.73,
@@ -134,12 +84,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.63 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "04/11/2026 07:45:04",
-          "lat": -26.7945168,
-          "lon": -48.6803552
+          "referencia": "0.14 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
+          "data_hora_posicao": "04/11/2026 08:01:04",
+          "lat": -26.820832,
+          "lon": -48.6847808
         },
-        "distancia_km": 11.1,
+        "distancia_km": 8.2,
         "proximo": true
       },
       {
@@ -207,7 +157,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 07:45:25",
+          "data_hora_posicao": "04/11/2026 08:01:25",
           "lat": -24.7855056,
           "lon": -48.1748992
         },
@@ -227,7 +177,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 07:45:25",
+          "data_hora_posicao": "04/11/2026 08:01:25",
           "lat": -24.7855056,
           "lon": -48.1748992
         },
@@ -246,12 +196,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de DELEGACIA DE POLICIA - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 07:46:16",
-          "lat": -24.4943472,
-          "lon": -47.8384128
+          "referencia": "0.92 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 05) - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 08:00:16",
+          "lat": -24.3838992,
+          "lon": -47.7149952
         },
-        "distancia_km": 180.3,
+        "distancia_km": 162.9,
         "proximo": false
       },
       {
@@ -332,10 +282,10 @@
         "frete_rs": 1788.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.6 km de RESTAURANTE TRÊS BARRAS - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 07:46:02",
-          "lat": -27.906042,
-          "lon": -48.6495225
+          "referencia": "1.07 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "04/11/2026 08:00:50",
+          "lat": -28.059394,
+          "lon": -48.7173356
         },
         "distancia_km": null,
         "proximo": false
@@ -363,10 +313,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.6 km de RESTAURANTE TRÊS BARRAS - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 07:46:02",
-          "lat": -27.906042,
-          "lon": -48.6495225
+          "referencia": "1.07 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "04/11/2026 08:00:50",
+          "lat": -28.059394,
+          "lon": -48.7173356
         },
         "distancia_km": null,
         "proximo": false
@@ -394,10 +344,10 @@
         "frete_rs": 2352.52,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.6 km de RESTAURANTE TRÊS BARRAS - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 07:46:02",
-          "lat": -27.906042,
-          "lon": -48.6495225
+          "referencia": "1.07 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "04/11/2026 08:00:50",
+          "lat": -28.059394,
+          "lon": -48.7173356
         },
         "distancia_km": null,
         "proximo": false
@@ -426,7 +376,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.12 km de SUVESA - CONCESSIONARIA SCANIA - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "04/11/2026 07:45:01",
+          "data_hora_posicao": "04/11/2026 08:01:01",
           "lat": -29.4435776,
           "lon": -49.909504
         },
@@ -446,7 +396,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.12 km de SUVESA - CONCESSIONARIA SCANIA - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "04/11/2026 07:45:01",
+          "data_hora_posicao": "04/11/2026 08:01:01",
           "lat": -29.4435776,
           "lon": -49.909504
         },
@@ -465,12 +415,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "04/11/2026 07:45:33",
-          "lat": -27.564288,
-          "lon": -50.3750944
+          "referencia": "1.08 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "04/11/2026 08:01:33",
+          "lat": -27.7074464,
+          "lon": -50.3353504
         },
-        "distancia_km": 280.4,
+        "distancia_km": 266.3,
         "proximo": false
       }
     ],
@@ -502,7 +452,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 07:46:04",
+          "data_hora_posicao": "04/11/2026 08:00:04",
           "lat": -29.1462816666667,
           "lon": -51.1648716666667
         },
@@ -521,10 +471,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "04/11/2026 07:45:33",
-          "lat": -27.564288,
-          "lon": -50.3750944
+          "referencia": "1.08 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "04/11/2026 08:01:33",
+          "lat": -27.7074464,
+          "lon": -50.3353504
         },
         "distancia_km": null,
         "proximo": false
@@ -541,10 +491,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "04/11/2026 07:45:33",
-          "lat": -27.564288,
-          "lon": -50.3750944
+          "referencia": "1.08 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "04/11/2026 08:01:33",
+          "lat": -27.7074464,
+          "lon": -50.3353504
         },
         "distancia_km": null,
         "proximo": false
@@ -578,7 +528,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 07:46:04",
+          "data_hora_posicao": "04/11/2026 08:00:04",
           "lat": -29.1462816666667,
           "lon": -51.1648716666667
         },
@@ -597,10 +547,10 @@
         "frete_rs": 6105.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "04/11/2026 07:45:33",
-          "lat": -27.564288,
-          "lon": -50.3750944
+          "referencia": "1.08 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "04/11/2026 08:01:33",
+          "lat": -27.7074464,
+          "lon": -50.3353504
         },
         "distancia_km": null,
         "proximo": false
@@ -617,10 +567,10 @@
         "frete_rs": 220.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "04/11/2026 07:45:33",
-          "lat": -27.564288,
-          "lon": -50.3750944
+          "referencia": "1.08 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "04/11/2026 08:01:33",
+          "lat": -27.7074464,
+          "lon": -50.3353504
         },
         "distancia_km": null,
         "proximo": false
@@ -653,10 +603,10 @@
         "frete_rs": 3284.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.32 km de POSTO SERRANO X - CURITIBANOS/SC",
-          "data_hora_posicao": "04/11/2026 07:42:38",
-          "lat": -27.3316533333333,
-          "lon": -50.5676266666667
+          "referencia": "1.31 km de POSTO SERRANO X - CURITIBANOS/SC",
+          "data_hora_posicao": "04/11/2026 07:55:50",
+          "lat": -27.3231733333333,
+          "lon": -50.56384
         },
         "distancia_km": null,
         "proximo": false
@@ -670,5 +620,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T07:47:35"
+  "_gerado_em": "2026-11-04T08:02:40"
 }
