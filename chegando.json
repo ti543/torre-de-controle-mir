@@ -13,12 +13,52 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.04 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 02:01:11",
-          "lat": -23.877952,
-          "lon": -46.9682496
+          "referencia": "0.9 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 02:15:11",
+          "lat": -23.7381056,
+          "lon": -46.89664
         },
-        "distancia_km": 68.6,
+        "distancia_km": 53.3,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023975-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1291.92,
+        "frete_rs": 2193.49,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 02:13:53",
+          "lat": -26.8873728,
+          "lon": -48.7212032
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023976-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 8636.58,
+        "frete_rs": 12849.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 02:13:53",
+          "lat": -26.8873728,
+          "lon": -48.7212032
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -33,12 +73,27 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 02:00:16",
-          "lat": -26.277592,
-          "lon": -48.8921632
+          "referencia": "1.7 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "04/11/2026 02:16:16",
+          "lat": -26.1139504,
+          "lon": -48.8760256
         },
-        "distancia_km": 396.9,
+        "distancia_km": 381.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023985-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 15664.78,
+        "frete_rs": 10322.93,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -79,9 +134,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 16786.73,
-        "frete_rs": 18909.75,
-        "qtde": 1
+        "peso_kg": 42380.01,
+        "frete_rs": 44275.200000000004,
+        "qtde": 4
       },
       "Rio do Sul": {
         "peso_kg": 28539.14,
@@ -109,12 +164,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.24 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 01:59:44",
-          "lat": -27.2049361,
-          "lon": -49.6405471
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 02:13:03",
+          "lat": -27.2070095,
+          "lon": -49.6491958
         },
-        "distancia_km": 0.9,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -129,12 +184,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "04/11/2026 02:01:13",
-          "lat": -25.6835133333333,
-          "lon": -49.1480466666667
+          "referencia": "0.22 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 02:16:22",
+          "lat": -25.8379916666667,
+          "lon": -49.1074666666667
         },
-        "distancia_km": 176.5,
+        "distancia_km": 161.4,
         "proximo": false
       },
       {
@@ -164,12 +219,12 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 01:59:44",
-          "lat": -27.2049361,
-          "lon": -49.6405471
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 02:13:03",
+          "lat": -27.2070095,
+          "lon": -49.6491958
         },
-        "distancia_km": 0.9,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -185,7 +240,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 02:00:10",
+          "data_hora_posicao": "04/11/2026 02:16:10",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -230,12 +285,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.83 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 01:52:42",
-          "lat": -24.7875648,
-          "lon": -48.2084608
+          "referencia": "1.7 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 02:15:04",
+          "lat": -24.9429584,
+          "lon": -48.3099776
         },
-        "distancia_km": 239.1,
+        "distancia_km": 220.1,
         "proximo": false
       },
       {
@@ -276,12 +331,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.07 km de POSTO IPIRANGA MENEGUETTI - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "04/11/2026 01:59:45",
-          "lat": -24.6459072,
-          "lon": -47.9204384
+          "referencia": "0.23 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "04/11/2026 02:15:45",
+          "lat": -24.7347168,
+          "lon": -48.1166368
         },
-        "distancia_km": 169.7,
+        "distancia_km": 147.8,
         "proximo": false
       },
       {
@@ -296,12 +351,12 @@
         "frete_rs": 1248.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:26",
-          "lat": -26.794312,
-          "lon": -48.680288
+          "referencia": "0.2 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 02:15:51",
+          "lat": -26.6468832,
+          "lon": -48.686912
         },
-        "distancia_km": 153.6,
+        "distancia_km": 138.5,
         "proximo": false
       },
       {
@@ -316,12 +371,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:26",
-          "lat": -26.794312,
-          "lon": -48.680288
+          "referencia": "0.2 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 02:15:51",
+          "lat": -26.6468832,
+          "lon": -48.686912
         },
-        "distancia_km": 153.6,
+        "distancia_km": 138.5,
         "proximo": false
       },
       {
@@ -336,12 +391,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:26",
-          "lat": -26.794312,
-          "lon": -48.680288
+          "referencia": "0.2 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 02:15:51",
+          "lat": -26.6468832,
+          "lon": -48.686912
         },
-        "distancia_km": 153.6,
+        "distancia_km": 138.5,
         "proximo": false
       },
       {
@@ -356,12 +411,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:26",
-          "lat": -26.794312,
-          "lon": -48.680288
+          "referencia": "0.2 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 02:15:51",
+          "lat": -26.6468832,
+          "lon": -48.686912
         },
-        "distancia_km": 153.6,
+        "distancia_km": 138.5,
         "proximo": false
       }
     ],
@@ -398,7 +453,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 02:01:16",
+          "data_hora_posicao": "04/11/2026 02:15:16",
           "lat": -22.846925,
           "lon": -47.1247883333333
         },
@@ -454,12 +509,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.55 km de CHURRASCARIA MORRETES - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:01",
-          "lat": -27.3057568,
-          "lon": -48.6326208
+          "referencia": "1.48 km de PRF - BIGUACU/SC",
+          "data_hora_posicao": "04/11/2026 02:15:01",
+          "lat": -27.457488,
+          "lon": -48.637696
         },
-        "distancia_km": 388.3,
+        "distancia_km": 375.0,
         "proximo": false
       },
       {
@@ -474,12 +529,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.55 km de CHURRASCARIA MORRETES - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 02:01:01",
-          "lat": -27.3057568,
-          "lon": -48.6326208
+          "referencia": "1.48 km de PRF - BIGUACU/SC",
+          "data_hora_posicao": "04/11/2026 02:15:01",
+          "lat": -27.457488,
+          "lon": -48.637696
         },
-        "distancia_km": 388.3,
+        "distancia_km": 375.0,
         "proximo": false
       }
     ],
@@ -506,7 +561,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 02:00:10",
+          "data_hora_posicao": "04/11/2026 02:16:10",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -537,7 +592,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 02:00:10",
+          "data_hora_posicao": "04/11/2026 02:16:10",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -553,5 +608,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T02:02:36"
+  "_gerado_em": "2026-11-04T02:17:30"
 }
