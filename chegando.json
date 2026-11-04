@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "03/11/2026 23:31:11",
+          "data_hora_posicao": "03/11/2026 23:45:11",
           "lat": -24.7858288,
           "lon": -48.17504
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 23:30:38",
+          "data_hora_posicao": "03/11/2026 23:44:38",
           "lat": -23.4705168,
           "lon": -46.4624544
         },
@@ -104,12 +104,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "03/11/2026 23:30:26",
-          "lat": -26.8804051,
-          "lon": -48.8427456
+          "referencia": "1.78 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "03/11/2026 23:46:03",
+          "lat": -26.8749333,
+          "lon": -49.0047576
         },
-        "distancia_km": 87.7,
+        "distancia_km": 73.7,
         "proximo": false
       },
       {
@@ -124,12 +124,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "03/11/2026 23:30:38",
-          "lat": -24.9374366666667,
-          "lon": -48.296585
+          "referencia": "1 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "03/11/2026 23:42:52",
+          "lat": -24.95848,
+          "lon": -48.4212266666667
         },
-        "distancia_km": 286.2,
+        "distancia_km": 278.4,
         "proximo": false
       },
       {
@@ -159,12 +159,12 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "03/11/2026 23:30:26",
-          "lat": -26.8804051,
-          "lon": -48.8427456
+          "referencia": "1.78 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "03/11/2026 23:46:03",
+          "lat": -26.8749333,
+          "lon": -49.0047576
         },
-        "distancia_km": 87.7,
+        "distancia_km": 73.7,
         "proximo": false
       },
       {
@@ -180,7 +180,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:30:12",
+          "data_hora_posicao": "03/11/2026 23:46:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -225,12 +225,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.79 km de POSTO LAMBARI - MIRACATU/SP",
-          "data_hora_posicao": "03/11/2026 23:31:04",
-          "lat": -24.222824,
-          "lon": -47.3650368
+          "referencia": "1.62 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
+          "data_hora_posicao": "03/11/2026 23:45:27",
+          "lat": -24.308232,
+          "lon": -47.5018912
         },
-        "distancia_km": 326.0,
+        "distancia_km": 311.8,
         "proximo": false
       },
       {
@@ -260,12 +260,12 @@
         "frete_rs": 1730.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de MEIN HAUS RESTAURANTE COMIDA CASEIRA - RODEIO/SC",
-          "data_hora_posicao": "03/11/2026 23:29:31",
-          "lat": -26.9505696,
-          "lon": -49.3259712
+          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 23:45:26",
+          "lat": -26.8742528,
+          "lon": -49.1891136
         },
-        "distancia_km": 60.4,
+        "distancia_km": 46.4,
         "proximo": false
       },
       {
@@ -280,12 +280,12 @@
         "frete_rs": 5982.47,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de MEIN HAUS RESTAURANTE COMIDA CASEIRA - RODEIO/SC",
-          "data_hora_posicao": "03/11/2026 23:29:31",
-          "lat": -26.9505696,
-          "lon": -49.3259712
+          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 23:45:26",
+          "lat": -26.8742528,
+          "lon": -49.1891136
         },
-        "distancia_km": 60.4,
+        "distancia_km": 46.4,
         "proximo": false
       }
     ],
@@ -316,12 +316,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.21 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "03/11/2026 23:29:45",
-          "lat": -23.807184,
-          "lon": -46.6855328
+          "referencia": "1.17 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 23:46:09",
+          "lat": -23.6872096,
+          "lon": -46.8186112
         },
-        "distancia_km": 325.8,
+        "distancia_km": 323.4,
         "proximo": false
       },
       {
@@ -336,12 +336,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de MEIN HAUS RESTAURANTE COMIDA CASEIRA - RODEIO/SC",
-          "data_hora_posicao": "03/11/2026 23:29:31",
-          "lat": -26.9505696,
-          "lon": -49.3259712
+          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 23:45:26",
+          "lat": -26.8742528,
+          "lon": -49.1891136
         },
-        "distancia_km": 158.2,
+        "distancia_km": 150.1,
         "proximo": false
       },
       {
@@ -356,12 +356,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de MEIN HAUS RESTAURANTE COMIDA CASEIRA - RODEIO/SC",
-          "data_hora_posicao": "03/11/2026 23:29:31",
-          "lat": -26.9505696,
-          "lon": -49.3259712
+          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 23:45:26",
+          "lat": -26.8742528,
+          "lon": -49.1891136
         },
-        "distancia_km": 158.2,
+        "distancia_km": 150.1,
         "proximo": false
       },
       {
@@ -376,12 +376,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de MEIN HAUS RESTAURANTE COMIDA CASEIRA - RODEIO/SC",
-          "data_hora_posicao": "03/11/2026 23:29:31",
-          "lat": -26.9505696,
-          "lon": -49.3259712
+          "referencia": "0.3 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "03/11/2026 23:45:26",
+          "lat": -26.8742528,
+          "lon": -49.1891136
         },
-        "distancia_km": 158.2,
+        "distancia_km": 150.1,
         "proximo": false
       }
     ],
@@ -412,10 +412,10 @@
         "frete_rs": 9779.51,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.62 km de KLABIN S/A - UNIDADE TIJUCO PRETO - JUNDIAI/SP",
-          "data_hora_posicao": "03/11/2026 23:31:18",
-          "lat": -23.267045,
-          "lon": -46.8589983333333
+          "referencia": "0.47 km de MAGAZINE LUIZA CD 300 - LOUVEIRA/SP",
+          "data_hora_posicao": "03/11/2026 23:45:18",
+          "lat": -23.116965,
+          "lon": -46.9944566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -470,7 +470,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:30:12",
+          "data_hora_posicao": "03/11/2026 23:46:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -501,7 +501,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 23:30:12",
+          "data_hora_posicao": "03/11/2026 23:46:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -517,5 +517,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T23:32:28"
+  "_gerado_em": "2026-11-03T23:47:33"
 }
