@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:31:03",
+          "data_hora_posicao": "04/11/2026 06:43:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -33,10 +33,10 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "04/11/2026 06:30:58",
-          "lat": -27.1358966666667,
-          "lon": -49.5436616666667
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "04/11/2026 06:45:22",
+          "lat": -27.1358716666667,
+          "lon": -49.543605
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -69,7 +69,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:31:03",
+          "data_hora_posicao": "04/11/2026 06:43:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:30:06",
+          "data_hora_posicao": "04/11/2026 06:46:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -134,10 +134,10 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 06:31:04",
-          "lat": -26.5539136,
-          "lon": -48.7199136
+          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "04/11/2026 06:45:04",
+          "lat": -26.553992,
+          "lon": -48.7199712
         },
         "distancia_km": 37.1,
         "proximo": false
@@ -166,127 +166,6 @@
       }
     }
   },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074174-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 3627.58,
-        "frete_rs": 5559.08,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 06:29:45",
-          "lat": -25.5277056,
-          "lon": -49.2954624
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023984-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 725.45,
-        "frete_rs": 1248.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 06:29:26",
-          "lat": -25.5277552,
-          "lon": -49.2955744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044151-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 11183.4,
-        "frete_rs": 4375.05,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 06:29:26",
-          "lat": -25.5277552,
-          "lon": -49.2955744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044154-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6898.0,
-        "frete_rs": 4040.12,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 06:29:26",
-          "lat": -25.5277552,
-          "lon": -49.2955744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044156-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 316.4,
-        "frete_rs": 126.11,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 06:29:26",
-          "lat": -25.5277552,
-          "lon": -49.2955744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3627.58,
-        "frete_rs": 5559.08,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 725.45,
-        "frete_rs": 1248.89,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 18397.800000000003,
-        "frete_rs": 8541.28,
-        "qtde": 3
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
       {
@@ -302,7 +181,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 06:31:12",
+          "data_hora_posicao": "04/11/2026 06:45:12",
           "lat": -22.846925,
           "lon": -47.1247883333333
         },
@@ -358,12 +237,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.12 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 06:31:12",
-          "lat": -25.0476512,
-          "lon": -48.545632
+          "referencia": "0.78 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 06:39:25",
+          "lat": -24.9766,
+          "lon": -48.4978976
         },
-        "distancia_km": 274.5,
+        "distancia_km": 265.8,
         "proximo": false
       },
       {
@@ -378,12 +257,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.12 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 06:31:12",
-          "lat": -25.0476512,
-          "lon": -48.545632
+          "referencia": "0.78 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 06:39:25",
+          "lat": -24.9766,
+          "lon": -48.4978976
         },
-        "distancia_km": 274.5,
+        "distancia_km": 265.8,
         "proximo": false
       },
       {
@@ -399,7 +278,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 06:30:16",
+          "data_hora_posicao": "04/11/2026 06:46:16",
           "lat": -24.7857376,
           "lon": -48.1749664
         },
@@ -484,10 +363,10 @@
         "frete_rs": 1788.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO ANGELONI - PORTO BELO/SC",
-          "data_hora_posicao": "04/11/2026 06:30:15",
-          "lat": -27.1763963,
-          "lon": -48.6118545
+          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 06:44:15",
+          "lat": -27.334536,
+          "lon": -48.627309
         },
         "distancia_km": null,
         "proximo": false
@@ -515,10 +394,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO ANGELONI - PORTO BELO/SC",
-          "data_hora_posicao": "04/11/2026 06:30:15",
-          "lat": -27.1763963,
-          "lon": -48.6118545
+          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 06:44:15",
+          "lat": -27.334536,
+          "lon": -48.627309
         },
         "distancia_km": null,
         "proximo": false
@@ -546,10 +425,10 @@
         "frete_rs": 2352.52,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO ANGELONI - PORTO BELO/SC",
-          "data_hora_posicao": "04/11/2026 06:30:15",
-          "lat": -27.1763963,
-          "lon": -48.6118545
+          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 06:44:15",
+          "lat": -27.334536,
+          "lon": -48.627309
         },
         "distancia_km": null,
         "proximo": false
@@ -578,7 +457,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "04/11/2026 06:31:01",
+          "data_hora_posicao": "04/11/2026 06:45:01",
           "lat": -29.305904,
           "lon": -49.7729952
         },
@@ -598,7 +477,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "04/11/2026 06:31:01",
+          "data_hora_posicao": "04/11/2026 06:45:01",
           "lat": -29.305904,
           "lon": -49.7729952
         },
@@ -617,12 +496,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.67 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 06:29:33",
-          "lat": -27.3029792,
-          "lon": -50.0785792
+          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:45:33",
+          "lat": -27.3030368,
+          "lon": -50.2215616
         },
-        "distancia_km": 317.0,
+        "distancia_km": 312.6,
         "proximo": false
       }
     ],
@@ -654,7 +533,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:30:06",
+          "data_hora_posicao": "04/11/2026 06:46:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -673,10 +552,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.67 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 06:29:33",
-          "lat": -27.3029792,
-          "lon": -50.0785792
+          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:45:33",
+          "lat": -27.3030368,
+          "lon": -50.2215616
         },
         "distancia_km": null,
         "proximo": false
@@ -693,10 +572,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.67 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 06:29:33",
-          "lat": -27.3029792,
-          "lon": -50.0785792
+          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:45:33",
+          "lat": -27.3030368,
+          "lon": -50.2215616
         },
         "distancia_km": null,
         "proximo": false
@@ -730,7 +609,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:30:06",
+          "data_hora_posicao": "04/11/2026 06:46:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -749,10 +628,10 @@
         "frete_rs": 6105.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.67 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 06:29:33",
-          "lat": -27.3029792,
-          "lon": -50.0785792
+          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:45:33",
+          "lat": -27.3030368,
+          "lon": -50.2215616
         },
         "distancia_km": null,
         "proximo": false
@@ -769,10 +648,10 @@
         "frete_rs": 220.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.67 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 06:29:33",
-          "lat": -27.3029792,
-          "lon": -50.0785792
+          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:45:33",
+          "lat": -27.3030368,
+          "lon": -50.2215616
         },
         "distancia_km": null,
         "proximo": false
@@ -805,10 +684,10 @@
         "frete_rs": 3284.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:25:57",
-          "lat": -27.2991733333333,
-          "lon": -50.1427733333333
+          "referencia": "1.29 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:41:30",
+          "lat": -27.3004533333333,
+          "lon": -50.2870933333333
         },
         "distancia_km": null,
         "proximo": false
@@ -822,5 +701,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T06:32:32"
+  "_gerado_em": "2026-11-04T06:47:36"
 }
