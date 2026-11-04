@@ -28,12 +28,12 @@
         "frete_rs": 993.45,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.16 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 20:00:13",
-          "lat": -25.873768,
-          "lon": -48.9360928
+          "referencia": "0.03 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "04/11/2026 20:15:26",
+          "lat": -26.0109248,
+          "lon": -48.8635744
         },
-        "distancia_km": 114.7,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 1443.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.74 km de OFICINA MECÂNICA QUINTA RODA - GASPAR/SC",
-          "data_hora_posicao": "04/11/2026 20:00:23",
-          "lat": -26.912016,
-          "lon": -48.978272
+          "referencia": "1.37 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "04/11/2026 20:16:23",
+          "lat": -26.864096,
+          "lon": -48.8148544
         },
-        "distancia_km": 25.7,
+        "distancia_km": 9.7,
         "proximo": true
       },
       {
@@ -98,26 +98,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010351-9",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 4306.82,
-        "frete_rs": 6821.75,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:01:30",
-          "lat": -23.4707966666667,
-          "lon": -46.4621233333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "CTB013548-8",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -129,12 +109,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:00:57",
-          "lat": -25.1849824,
-          "lon": -48.8844608
+          "referencia": "0.72 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:15:45",
+          "lat": -25.108488,
+          "lon": -48.7868736
         },
-        "distancia_km": 310.8,
+        "distancia_km": 297.8,
         "proximo": false
       },
       {
@@ -153,6 +133,46 @@
         "proximo": false
       },
       {
+        "manif": "ITJ023994-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 1548.6,
+        "frete_rs": 2311.19,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 20:15:04",
+          "lat": -26.8877408,
+          "lon": -48.7206656
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023995-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 10303.65,
+        "frete_rs": 12400.91,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 20:15:04",
+          "lat": -26.8877408,
+          "lon": -48.7206656
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
         "manif": "RSL044184-8",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -164,12 +184,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.74 km de OFICINA MECÂNICA QUINTA RODA - GASPAR/SC",
-          "data_hora_posicao": "04/11/2026 20:00:23",
-          "lat": -26.912016,
-          "lon": -48.978272
+          "referencia": "1.37 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "04/11/2026 20:16:23",
+          "lat": -26.864096,
+          "lon": -48.8148544
         },
-        "distancia_km": 458.8,
+        "distancia_km": 445.4,
         "proximo": false
       },
       {
@@ -184,12 +204,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.74 km de OFICINA MECÂNICA QUINTA RODA - GASPAR/SC",
-          "data_hora_posicao": "04/11/2026 20:00:23",
-          "lat": -26.912016,
-          "lon": -48.978272
+          "referencia": "1.37 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "04/11/2026 20:16:23",
+          "lat": -26.864096,
+          "lon": -48.8148544
         },
-        "distancia_km": 458.8,
+        "distancia_km": 445.4,
         "proximo": false
       },
       {
@@ -209,20 +229,15 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 4306.82,
-        "frete_rs": 6821.75,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 11179.98,
         "frete_rs": 8859.96,
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 9159.1,
-        "frete_rs": 15098.21,
-        "qtde": 1
+        "peso_kg": 21011.35,
+        "frete_rs": 29810.309999999998,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 22226.36,
@@ -250,12 +265,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.16 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "04/11/2026 20:00:13",
-          "lat": -25.873768,
-          "lon": -48.9360928
+          "referencia": "0.03 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "04/11/2026 20:15:26",
+          "lat": -26.0109248,
+          "lon": -48.8635744
         },
-        "distancia_km": 164.3,
+        "distancia_km": 154.2,
         "proximo": false
       },
       {
@@ -270,12 +285,32 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 19:52:34",
-          "lat": -27.26256,
-          "lon": -50.0567466666667
+          "referencia": "0.92 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 20:14:07",
+          "lat": -27.2601116666667,
+          "lon": -49.904745
         },
-        "distancia_km": 40.7,
+        "distancia_km": 25.9,
+        "proximo": true
+      },
+      {
+        "manif": "GRU074240-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 4700.16,
+        "frete_rs": 6117.17,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 20:16:38",
+          "lat": -23.4706928,
+          "lon": -46.4622688
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -290,13 +325,13 @@
         "frete_rs": 2337.52,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 19:52:34",
-          "lat": -27.26256,
-          "lon": -50.0567466666667
+          "referencia": "0.92 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 20:14:07",
+          "lat": -27.2601116666667,
+          "lon": -49.904745
         },
-        "distancia_km": 40.7,
-        "proximo": false
+        "distancia_km": 25.9,
+        "proximo": true
       },
       {
         "manif": "POA016202-7",
@@ -310,13 +345,13 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.85 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "04/11/2026 19:52:34",
-          "lat": -27.26256,
-          "lon": -50.0567466666667
+          "referencia": "0.92 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "04/11/2026 20:14:07",
+          "lat": -27.2601116666667,
+          "lon": -49.904745
         },
-        "distancia_km": 40.7,
-        "proximo": false
+        "distancia_km": 25.9,
+        "proximo": true
       },
       {
         "manif": "POA016209-4",
@@ -330,27 +365,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.36 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATRIZ E CD) - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 20:01:01",
-          "lat": -29.2181632,
-          "lon": -51.3233056
+          "referencia": "1.78 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 20:15:14",
+          "lat": -29.1526784,
+          "lon": -51.244464
         },
-        "distancia_km": 277.4,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016330-9",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 2619.38,
-        "frete_rs": 3289.45,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 267.0,
         "proximo": false
       }
     ],
@@ -365,15 +385,15 @@
         "frete_rs": 5698.6,
         "qtde": 2
       },
+      "Guarulhos": {
+        "peso_kg": 4700.16,
+        "frete_rs": 6117.17,
+        "qtde": 1
+      },
       "Porto Alegre": {
         "peso_kg": 8021.379999999999,
         "frete_rs": 6972.22,
         "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 2619.38,
-        "frete_rs": 3289.45,
-        "qtde": 1
       }
     }
   },
@@ -406,10 +426,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "04/11/2026 20:01:25",
-          "lat": -25.1765152,
-          "lon": -48.8741792
+          "referencia": "0.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:16:05",
+          "lat": -25.1775984,
+          "lon": -48.8736544
         },
         "distancia_km": null,
         "proximo": false
@@ -426,10 +446,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "04/11/2026 20:01:25",
-          "lat": -25.1765152,
-          "lon": -48.8741792
+          "referencia": "0.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 20:16:05",
+          "lat": -25.1775984,
+          "lon": -48.8736544
         },
         "distancia_km": null,
         "proximo": false
@@ -453,6 +473,37 @@
       }
     }
   },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074241-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 8246.52,
+        "frete_rs": 5049.79,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 20:16:38",
+          "lat": -23.4706928,
+          "lon": -46.4622688
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8246.52,
+        "frete_rs": 5049.79,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -467,10 +518,10 @@
         "frete_rs": 1572.56,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.36 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATRIZ E CD) - FARROUPILHA/RS",
-          "data_hora_posicao": "04/11/2026 20:01:01",
-          "lat": -29.2181632,
-          "lon": -51.3233056
+          "referencia": "1.78 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "04/11/2026 20:15:14",
+          "lat": -29.1526784,
+          "lon": -51.244464
         },
         "distancia_km": null,
         "proximo": false
@@ -499,9 +550,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 19:59:33",
-          "lat": -29.983392,
-          "lon": -51.1865536
+          "data_hora_posicao": "04/11/2026 20:15:33",
+          "lat": -29.9833984,
+          "lon": -51.186656
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -515,5 +566,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T20:02:36"
+  "_gerado_em": "2026-11-04T20:17:43"
 }
