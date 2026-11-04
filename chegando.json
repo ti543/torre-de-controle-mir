@@ -13,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.14 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "03/11/2026 22:13:31",
-          "lat": -24.78784,
-          "lon": -48.2036736
+          "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "03/11/2026 22:31:11",
+          "lat": -24.7858288,
+          "lon": -48.17504
         },
-        "distancia_km": 229.5,
+        "distancia_km": 227.2,
         "proximo": false
       },
       {
@@ -33,10 +33,10 @@
         "frete_rs": 348.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 22:14:38",
-          "lat": -23.4706032,
-          "lon": -46.4624224
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 22:30:38",
+          "lat": -23.4705168,
+          "lon": -46.4624544
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -90,7 +90,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 22:15:02",
+          "data_hora_posicao": "03/11/2026 22:31:02",
           "lat": -26.8873391,
           "lon": -48.7209143
         },
@@ -109,12 +109,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de TREVISO TRANSPORTES LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "03/11/2026 22:15:04",
-          "lat": -23.6439168,
-          "lon": -46.8395648
+          "referencia": "0.03 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "03/11/2026 22:31:04",
+          "lat": -23.7868864,
+          "lon": -46.914176
         },
-        "distancia_km": 407.3,
+        "distancia_km": 389.7,
         "proximo": false
       },
       {
@@ -129,12 +129,12 @@
         "frete_rs": 1730.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 22:15:26",
-          "lat": -27.2060288,
-          "lon": -49.6496544
+          "referencia": "0.22 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:31:26",
+          "lat": -27.1730976,
+          "lon": -49.5848992
         },
-        "distancia_km": 98.5,
+        "distancia_km": 91.3,
         "proximo": false
       },
       {
@@ -149,12 +149,12 @@
         "frete_rs": 5982.47,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 22:15:26",
-          "lat": -27.2060288,
-          "lon": -49.6496544
+          "referencia": "0.22 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:31:26",
+          "lat": -27.1730976,
+          "lon": -49.5848992
         },
-        "distancia_km": 98.5,
+        "distancia_km": 91.3,
         "proximo": false
       },
       {
@@ -211,7 +211,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 22:15:02",
+          "data_hora_posicao": "03/11/2026 22:31:02",
           "lat": -26.8873391,
           "lon": -48.7209143
         },
@@ -230,12 +230,27 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.24 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "03/11/2026 22:15:31",
-          "lat": -24.5587766666667,
-          "lon": -47.8665916666667
+          "referencia": "3.74 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "03/11/2026 22:30:55",
+          "lat": -24.562905,
+          "lon": -47.8686066666667
         },
-        "distancia_km": 344.2,
+        "distancia_km": 343.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074173-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 8039.77,
+        "frete_rs": 12607.78,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -251,7 +266,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:16:13",
+          "data_hora_posicao": "03/11/2026 22:30:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -266,9 +281,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 2796.73,
-        "frete_rs": 9870.7,
-        "qtde": 1
+        "peso_kg": 10836.5,
+        "frete_rs": 22478.480000000003,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 1271.73,
@@ -291,10 +306,10 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 22:15:45",
-          "lat": -23.470976,
-          "lon": -46.4613792
+          "referencia": "0.21 km de PACAEMBU AUTOPEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 22:31:08",
+          "lat": -23.4594384,
+          "lon": -46.4706816
         },
         "distancia_km": 366.8,
         "proximo": false
@@ -311,12 +326,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 22:15:26",
-          "lat": -27.2060288,
-          "lon": -49.6496544
+          "referencia": "0.22 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:31:26",
+          "lat": -27.1730976,
+          "lon": -49.5848992
         },
-        "distancia_km": 189.9,
+        "distancia_km": 185.2,
         "proximo": false
       },
       {
@@ -331,12 +346,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 22:15:26",
-          "lat": -27.2060288,
-          "lon": -49.6496544
+          "referencia": "0.22 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:31:26",
+          "lat": -27.1730976,
+          "lon": -49.5848992
         },
-        "distancia_km": 189.9,
+        "distancia_km": 185.2,
         "proximo": false
       },
       {
@@ -351,12 +366,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "03/11/2026 22:15:26",
-          "lat": -27.2060288,
-          "lon": -49.6496544
+          "referencia": "0.22 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "03/11/2026 22:31:26",
+          "lat": -27.1730976,
+          "lon": -49.5848992
         },
-        "distancia_km": 189.9,
+        "distancia_km": 185.2,
         "proximo": false
       }
     ],
@@ -370,6 +385,37 @@
         "peso_kg": 18397.800000000003,
         "frete_rs": 8541.28,
         "qtde": 3
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074176-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 7676.65,
+        "frete_rs": 9779.51,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "03/11/2026 22:30:21",
+          "lat": -23.4708216666667,
+          "lon": -46.462145
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 7676.65,
+        "frete_rs": 9779.51,
+        "qtde": 1
       }
     }
   },
@@ -388,7 +434,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:16:13",
+          "data_hora_posicao": "03/11/2026 22:30:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -419,7 +465,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:16:13",
+          "data_hora_posicao": "03/11/2026 22:30:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -435,5 +481,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T22:17:30"
+  "_gerado_em": "2026-11-03T22:32:30"
 }
