@@ -13,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.65 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "04/11/2026 01:15:27",
-          "lat": -24.1692272,
-          "lon": -47.3375552
+          "referencia": "6.39 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 01:29:23",
+          "lat": -24.0876672,
+          "lon": -47.2561824
         },
-        "distancia_km": 118.2,
+        "distancia_km": 106.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 18909.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.73 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "04/11/2026 01:16:16",
-          "lat": -26.6737328,
-          "lon": -48.6904416
+          "referencia": "1.33 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
+          "data_hora_posicao": "04/11/2026 01:30:16",
+          "lat": -26.540312,
+          "lon": -48.7120064
         },
-        "distancia_km": 421.0,
+        "distancia_km": 409.7,
         "proximo": false
       },
       {
@@ -109,10 +109,10 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "04/11/2026 01:07:40",
-          "lat": -27.1356553,
-          "lon": -49.5432801
+          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "04/11/2026 01:31:03",
+          "lat": -27.1360431,
+          "lon": -49.5434896
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -129,12 +129,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.54 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 01:14:39",
-          "lat": -25.2939316666667,
-          "lon": -48.9354016666667
+          "referencia": "2.42 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
+          "data_hora_posicao": "04/11/2026 01:30:38",
+          "lat": -25.3993,
+          "lon": -49.0579266666667
         },
-        "distancia_km": 224.2,
+        "distancia_km": 209.4,
         "proximo": false
       },
       {
@@ -164,10 +164,10 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "04/11/2026 01:07:40",
-          "lat": -27.1356553,
-          "lon": -49.5432801
+          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "04/11/2026 01:31:03",
+          "lat": -27.1360431,
+          "lon": -49.5434896
         },
         "distancia_km": 13.1,
         "proximo": true
@@ -185,7 +185,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 01:16:11",
+          "data_hora_posicao": "04/11/2026 01:30:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -230,12 +230,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.28 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "04/11/2026 01:16:33",
-          "lat": -24.5770944,
-          "lon": -47.8844288
+          "referencia": "0.75 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
+          "data_hora_posicao": "04/11/2026 01:31:04",
+          "lat": -24.6913264,
+          "lon": -47.9944864
         },
-        "distancia_km": 270.2,
+        "distancia_km": 254.8,
         "proximo": false
       },
       {
@@ -276,12 +276,32 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.04 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "04/11/2026 01:15:45",
-          "lat": -24.306864,
-          "lon": -47.4961824
+          "referencia": "0.86 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 01:25:45",
+          "lat": -24.3322624,
+          "lon": -47.6383392
         },
-        "distancia_km": 226.6,
+        "distancia_km": 213.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023984-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 725.45,
+        "frete_rs": 1248.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 01:29:26",
+          "lat": -26.8873152,
+          "lon": -48.7211904
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -297,9 +317,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 01:15:26",
-          "lat": -26.8873408,
-          "lon": -48.7212128
+          "data_hora_posicao": "04/11/2026 01:29:26",
+          "lat": -26.8873152,
+          "lon": -48.7211904
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -317,9 +337,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 01:15:26",
-          "lat": -26.8873408,
-          "lon": -48.7212128
+          "data_hora_posicao": "04/11/2026 01:29:26",
+          "lat": -26.8873152,
+          "lon": -48.7211904
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -337,9 +357,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 01:15:26",
-          "lat": -26.8873408,
-          "lon": -48.7212128
+          "data_hora_posicao": "04/11/2026 01:29:26",
+          "lat": -26.8873152,
+          "lon": -48.7211904
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -349,6 +369,11 @@
       "Guarulhos": {
         "peso_kg": 3627.58,
         "frete_rs": 5559.08,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 725.45,
+        "frete_rs": 1248.89,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -373,7 +398,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 01:15:17",
+          "data_hora_posicao": "04/11/2026 01:31:16",
           "lat": -22.846925,
           "lon": -47.1247883333333
         },
@@ -429,12 +454,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO -  VILSONEI - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 01:15:01",
-          "lat": -26.9441536,
-          "lon": -48.6906464
+          "referencia": "0.21 km de PRF - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 01:31:01",
+          "lat": -27.0640896,
+          "lon": -48.596016
         },
-        "distancia_km": 416.8,
+        "distancia_km": 411.6,
         "proximo": false
       },
       {
@@ -449,12 +474,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO -  VILSONEI - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 01:15:01",
-          "lat": -26.9441536,
-          "lon": -48.6906464
+          "referencia": "0.21 km de PRF - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 01:31:01",
+          "lat": -27.0640896,
+          "lon": -48.596016
         },
-        "distancia_km": 416.8,
+        "distancia_km": 411.6,
         "proximo": false
       }
     ],
@@ -481,7 +506,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 01:16:11",
+          "data_hora_posicao": "04/11/2026 01:30:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -512,7 +537,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 01:16:11",
+          "data_hora_posicao": "04/11/2026 01:30:11",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -528,5 +553,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T01:17:34"
+  "_gerado_em": "2026-11-04T01:32:24"
 }
