@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "04/11/2026 17:44:36",
-          "lat": -27.1354483,
-          "lon": -48.6096951
+          "referencia": "0.07 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 18:01:05",
+          "lat": -27.0825615,
+          "lon": -48.602213
         },
-        "distancia_km": 29.7,
+        "distancia_km": 24.7,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "04/11/2026 17:44:36",
-          "lat": -27.1354483,
-          "lon": -48.6096951
+          "referencia": "0.07 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 18:01:05",
+          "lat": -27.0825615,
+          "lon": -48.602213
         },
-        "distancia_km": 29.7,
+        "distancia_km": 24.7,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.94 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "04/11/2026 17:44:36",
-          "lat": -27.1354483,
-          "lon": -48.6096951
+          "referencia": "0.07 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "04/11/2026 18:01:05",
+          "lat": -27.0825615,
+          "lon": -48.602213
         },
-        "distancia_km": 29.7,
+        "distancia_km": 24.7,
         "proximo": true
       }
     ],
@@ -80,6 +80,37 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010351-9",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 4306.82,
+        "frete_rs": 6821.75,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.41 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "04/11/2026 17:59:22",
+          "lat": -22.8529716666667,
+          "lon": -47.1182
+        },
+        "distancia_km": 96.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 4306.82,
+        "frete_rs": 6821.75,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -95,7 +126,27 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:44:52",
+          "data_hora_posicao": "04/11/2026 17:59:58",
+          "lat": -27.8238483333333,
+          "lon": -50.3627633333333
+        },
+        "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001606-3",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1421.2,
+        "frete_rs": 2337.52,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "04/11/2026 17:59:58",
           "lat": -27.8238483333333,
           "lon": -50.3627633333333
         },
@@ -115,7 +166,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:44:52",
+          "data_hora_posicao": "04/11/2026 17:59:58",
           "lat": -27.8238483333333,
           "lon": -50.3627633333333
         },
@@ -135,7 +186,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 17:45:01",
+          "data_hora_posicao": "04/11/2026 18:01:01",
           "lat": -29.9839232,
           "lon": -51.1870048
         },
@@ -145,9 +196,9 @@
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 1720.76,
-        "frete_rs": 3361.08,
-        "qtde": 1
+        "peso_kg": 3141.96,
+        "frete_rs": 5698.6,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 8021.379999999999,
@@ -170,10 +221,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.31 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 17:46:15",
-          "lat": -26.1306464,
-          "lon": -48.8923584
+          "referencia": "0.06 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "04/11/2026 18:00:05",
+          "lat": -25.991488,
+          "lon": -48.8810496
         },
         "distancia_km": null,
         "proximo": false
@@ -190,10 +241,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.31 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 17:46:15",
-          "lat": -26.1306464,
-          "lon": -48.8923584
+          "referencia": "0.06 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "04/11/2026 18:00:05",
+          "lat": -25.991488,
+          "lon": -48.8810496
         },
         "distancia_km": null,
         "proximo": false
@@ -227,7 +278,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 17:45:01",
+          "data_hora_posicao": "04/11/2026 18:01:01",
           "lat": -29.9839232,
           "lon": -51.1870048
         },
@@ -258,7 +309,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 17:45:33",
+          "data_hora_posicao": "04/11/2026 17:59:33",
           "lat": -29.9833856,
           "lon": -51.186656
         },
@@ -274,5 +325,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T17:47:46"
+  "_gerado_em": "2026-11-04T18:02:29"
 }
