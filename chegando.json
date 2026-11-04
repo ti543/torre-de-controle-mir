@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.49 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "04/11/2026 15:31:51",
-          "lat": -28.0366606,
-          "lon": -48.7096158
+          "referencia": "0.83 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 15:47:05",
+          "lat": -27.8776128,
+          "lon": -48.6469665
         },
-        "distancia_km": 127.8,
+        "distancia_km": 110.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.49 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "04/11/2026 15:31:51",
-          "lat": -28.0366606,
-          "lon": -48.7096158
+          "referencia": "0.83 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 15:47:05",
+          "lat": -27.8776128,
+          "lon": -48.6469665
         },
-        "distancia_km": 127.8,
+        "distancia_km": 110.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.49 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "04/11/2026 15:31:51",
-          "lat": -28.0366606,
-          "lon": -48.7096158
+          "referencia": "0.83 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 15:47:05",
+          "lat": -27.8776128,
+          "lon": -48.6469665
         },
-        "distancia_km": 127.8,
+        "distancia_km": 110.3,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 15:32:00",
+          "data_hora_posicao": "04/11/2026 15:46:00",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 15:32:00",
+          "data_hora_posicao": "04/11/2026 15:46:00",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -136,54 +136,28 @@
       }
     }
   },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074178-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 10714.52,
-        "frete_rs": 12653.05,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023990-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 5306.32,
-        "frete_rs": 3861.09,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 10714.52,
-        "frete_rs": 12653.05,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 5306.32,
-        "frete_rs": 3861.09,
-        "qtde": 1
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
+      {
+        "manif": "ITJ023991-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 4441.92,
+        "frete_rs": 8125.63,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 15:46:53",
+          "lat": -26.8876064,
+          "lon": -48.7206816
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
       {
         "manif": "RSL044160-1",
         "origin_unit": "RSL",
@@ -196,16 +170,21 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 15:32:05",
-          "lat": -26.887568,
-          "lon": -48.7207712
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 15:46:53",
+          "lat": -26.8876064,
+          "lon": -48.7206816
         },
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4441.92,
+        "frete_rs": 8125.63,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 10730.62,
         "frete_rs": 13233.48,
@@ -227,12 +206,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.28 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "04/11/2026 15:31:33",
-          "lat": -29.5954464,
-          "lon": -51.354064
+          "referencia": "0.41 km de POSTO SIM PORTAO RS - PORTAO/RS",
+          "data_hora_posicao": "04/11/2026 15:45:33",
+          "lat": -29.6965152,
+          "lon": -51.2251616
         },
-        "distancia_km": 46.1,
+        "distancia_km": 32.1,
         "proximo": false
       }
     ],
@@ -244,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T15:33:18"
+  "_gerado_em": "2026-11-04T15:48:12"
 }
