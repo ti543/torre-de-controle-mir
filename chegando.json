@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO MACIAMBU LTDA - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:04:40",
-          "lat": -27.8460858,
-          "lon": -48.6362911
+          "referencia": "2 km de POSTO MACIAMBU - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:22:40",
+          "lat": -27.8266266,
+          "lon": -48.6300928
         },
-        "distancia_km": 106.9,
+        "distancia_km": 104.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO MACIAMBU LTDA - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:04:40",
-          "lat": -27.8460858,
-          "lon": -48.6362911
+          "referencia": "2 km de POSTO MACIAMBU - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:22:40",
+          "lat": -27.8266266,
+          "lon": -48.6300928
         },
-        "distancia_km": 106.9,
+        "distancia_km": 104.8,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO MACIAMBU LTDA - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:04:40",
-          "lat": -27.8460858,
-          "lon": -48.6362911
+          "referencia": "2 km de POSTO MACIAMBU - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:22:40",
+          "lat": -27.8266266,
+          "lon": -48.6300928
         },
-        "distancia_km": 106.9,
+        "distancia_km": 104.8,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 16:04:00",
+          "data_hora_posicao": "04/11/2026 16:22:00",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 16:04:00",
+          "data_hora_posicao": "04/11/2026 16:22:00",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -150,10 +150,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 16:04:05",
-          "lat": -26.8876064,
-          "lon": -48.7206816
+          "referencia": "0.59 km de RODAN TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 16:22:05",
+          "lat": -26.8529216,
+          "lon": -48.7265216
         },
         "distancia_km": null,
         "proximo": false
@@ -170,10 +170,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 16:04:05",
-          "lat": -26.8876064,
-          "lon": -48.7206816
+          "referencia": "0.59 km de RODAN TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 16:22:05",
+          "lat": -26.8529216,
+          "lon": -48.7265216
         },
         "distancia_km": null,
         "proximo": false
@@ -206,12 +206,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.3 km de CARREFOUR - CENTRO DE DISTRIBUICAO - ESTEIO/RS",
-          "data_hora_posicao": "04/11/2026 16:03:33",
-          "lat": -29.8339008,
-          "lon": -51.1807904
+          "referencia": "0.33 km de VALTRA MAZZAROLO AGCO - PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "04/11/2026 16:22:57",
+          "lat": -29.9767008,
+          "lon": -51.1795488
         },
-        "distancia_km": 16.6,
+        "distancia_km": 1.0,
         "proximo": true
       }
     ],
@@ -223,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T16:05:48"
+  "_gerado_em": "2026-11-04T16:24:17"
 }
