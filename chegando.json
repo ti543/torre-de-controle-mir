@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "4.85 km de TVR TOP FLORIPA - BIGUACU/SC",
-          "data_hora_posicao": "04/11/2026 17:08:34",
-          "lat": -27.4490208,
-          "lon": -48.7118096
+          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 17:29:44",
+          "lat": -27.2487311,
+          "lon": -48.6309268
         },
-        "distancia_km": 62.4,
+        "distancia_km": 41.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "4.85 km de TVR TOP FLORIPA - BIGUACU/SC",
-          "data_hora_posicao": "04/11/2026 17:08:34",
-          "lat": -27.4490208,
-          "lon": -48.7118096
+          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 17:29:44",
+          "lat": -27.2487311,
+          "lon": -48.6309268
         },
-        "distancia_km": 62.4,
+        "distancia_km": 41.1,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "4.85 km de TVR TOP FLORIPA - BIGUACU/SC",
-          "data_hora_posicao": "04/11/2026 17:08:34",
-          "lat": -27.4490208,
-          "lon": -48.7118096
+          "referencia": "0.92 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "04/11/2026 17:29:44",
+          "lat": -27.2487311,
+          "lon": -48.6309268
         },
-        "distancia_km": 62.4,
+        "distancia_km": 41.1,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:16:36",
+          "data_hora_posicao": "04/11/2026 17:30:36",
           "lat": -27.8238166666667,
           "lon": -50.3627616666667
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 17:16:36",
+          "data_hora_posicao": "04/11/2026 17:30:36",
           "lat": -27.8238166666667,
           "lon": -50.3627616666667
         },
@@ -150,10 +150,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.62 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 17:16:05",
-          "lat": -26.4253616,
-          "lon": -48.82832
+          "referencia": "0.3 km de POSTO MAKRO - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 17:30:05",
+          "lat": -26.302896,
+          "lon": -48.8825344
         },
         "distancia_km": null,
         "proximo": false
@@ -170,10 +170,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.62 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 17:16:05",
-          "lat": -26.4253616,
-          "lon": -48.82832
+          "referencia": "0.3 km de POSTO MAKRO - JOINVILLE/SC",
+          "data_hora_posicao": "04/11/2026 17:30:05",
+          "lat": -26.302896,
+          "lon": -48.8825344
         },
         "distancia_km": null,
         "proximo": false
@@ -207,7 +207,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 17:15:33",
+          "data_hora_posicao": "04/11/2026 17:29:33",
           "lat": -29.9833856,
           "lon": -51.186656
         },
@@ -223,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T17:17:56"
+  "_gerado_em": "2026-11-04T17:32:41"
 }
