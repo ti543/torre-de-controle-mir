@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "2.58 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
-          "data_hora_posicao": "04/11/2026 13:31:28",
-          "lat": -28.6309591,
-          "lon": -49.0892286
+          "referencia": "0.82 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 13:46:27",
+          "lat": -28.4876141,
+          "lon": -49.0384816
         },
-        "distancia_km": 197.2,
+        "distancia_km": 180.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.58 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
-          "data_hora_posicao": "04/11/2026 13:31:28",
-          "lat": -28.6309591,
-          "lon": -49.0892286
+          "referencia": "0.82 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "04/11/2026 13:46:27",
+          "lat": -28.4876141,
+          "lon": -49.0384816
         },
-        "distancia_km": 197.2,
+        "distancia_km": 180.7,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 13:30:02",
-          "lat": -27.8238033333333,
-          "lon": -50.3628033333333
+          "data_hora_posicao": "04/11/2026 13:46:57",
+          "lat": -27.8238016666667,
+          "lon": -50.362805
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 13:30:02",
-          "lat": -27.8238033333333,
-          "lon": -50.3628033333333
+          "data_hora_posicao": "04/11/2026 13:46:57",
+          "lat": -27.8238016666667,
+          "lon": -50.362805
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 13:30:02",
-          "lat": -27.8238033333333,
-          "lon": -50.3628033333333
+          "data_hora_posicao": "04/11/2026 13:46:57",
+          "lat": -27.8238016666667,
+          "lon": -50.362805
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -161,9 +161,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 13:30:02",
-          "lat": -27.8238033333333,
-          "lon": -50.3628033333333
+          "data_hora_posicao": "04/11/2026 13:46:57",
+          "lat": -27.8238016666667,
+          "lon": -50.362805
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -247,12 +247,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 13:31:25",
-          "lat": -23.4656256,
-          "lon": -46.4676576
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 13:45:58",
+          "lat": -23.4705088,
+          "lon": -46.4621472
         },
-        "distancia_km": 0.8,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -267,28 +267,13 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 13:31:25",
-          "lat": -23.4656256,
-          "lon": -46.4676576
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 13:45:58",
+          "lat": -23.4705088,
+          "lon": -46.4621472
         },
-        "distancia_km": 0.8,
+        "distancia_km": 0.0,
         "proximo": true
-      },
-      {
-        "manif": "ITJ023985-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 15664.78,
-        "frete_rs": 10322.93,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       },
       {
         "manif": "RSL044157-1",
@@ -304,37 +289,17 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "TBO016314-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 12507.05,
-        "frete_rs": 16109.94,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 25593.28,
-        "frete_rs": 25365.45,
-        "qtde": 3
+        "peso_kg": 9928.5,
+        "frete_rs": 15042.52,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 28539.14,
         "frete_rs": 31166.66,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 12507.05,
-        "frete_rs": 16109.94,
         "qtde": 1
       }
     }
@@ -354,7 +319,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 13:30:05",
+          "data_hora_posicao": "04/11/2026 13:46:05",
           "lat": -26.887568,
           "lon": -48.7207712
         },
@@ -385,7 +350,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 13:29:33",
+          "data_hora_posicao": "04/11/2026 13:45:33",
           "lat": -29.1461824,
           "lon": -51.1648256
         },
@@ -401,5 +366,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T13:32:36"
+  "_gerado_em": "2026-11-04T13:48:04"
 }
