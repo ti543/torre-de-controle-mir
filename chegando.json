@@ -13,12 +13,12 @@
         "frete_rs": 1446.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.54 km de POSTO RECANTO DA SERRA - JACUPIRANGA/SP",
-          "data_hora_posicao": "04/11/2026 00:01:11",
-          "lat": -24.7111376,
-          "lon": -48.0222432
+          "referencia": "3.44 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "04/11/2026 00:15:43",
+          "lat": -24.5979616,
+          "lon": -47.876096
         },
-        "distancia_km": 210.0,
+        "distancia_km": 190.6,
         "proximo": false
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.94 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 00:00:29",
-          "lat": -26.8825751,
-          "lon": -49.157576
+          "referencia": "2.04 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 00:16:05",
+          "lat": -26.949987,
+          "lon": -49.299397
         },
-        "distancia_km": 60.6,
+        "distancia_km": 44.9,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "03/11/2026 23:50:53",
-          "lat": -24.9707933333333,
-          "lon": -48.4998933333333
+          "referencia": "0.46 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 00:16:24",
+          "lat": -25.1038216666667,
+          "lon": -48.709935
         },
-        "distancia_km": 273.8,
+        "distancia_km": 251.9,
         "proximo": false
       },
       {
@@ -139,12 +139,12 @@
         "frete_rs": 789.74,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.94 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 00:00:29",
-          "lat": -26.8825751,
-          "lon": -49.157576
+          "referencia": "2.04 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 00:16:05",
+          "lat": -26.949987,
+          "lon": -49.299397
         },
-        "distancia_km": 60.6,
+        "distancia_km": 44.9,
         "proximo": false
       },
       {
@@ -160,7 +160,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:00:12",
+          "data_hora_posicao": "04/11/2026 00:16:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -205,12 +205,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.1 km de LAVADOR PIPOCA - JUQUIA/SP",
-          "data_hora_posicao": "03/11/2026 23:59:04",
-          "lat": -24.3555184,
-          "lon": -47.6631616
+          "referencia": "0.05 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 00:16:17",
+          "lat": -24.3623536,
+          "lon": -47.6907584
         },
-        "distancia_km": 300.9,
+        "distancia_km": 299.2,
         "proximo": false
       },
       {
@@ -240,13 +240,13 @@
         "frete_rs": 1730.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 23:59:26",
-          "lat": -26.8598208,
-          "lon": -49.0769472
+          "referencia": "0.16 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 00:15:26",
+          "lat": -26.9007392,
+          "lon": -48.9297344
         },
-        "distancia_km": 35.4,
-        "proximo": false
+        "distancia_km": 20.7,
+        "proximo": true
       },
       {
         "manif": "RSL044155-4",
@@ -260,13 +260,13 @@
         "frete_rs": 5982.47,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 23:59:26",
-          "lat": -26.8598208,
-          "lon": -49.0769472
+          "referencia": "0.16 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 00:15:26",
+          "lat": -26.9007392,
+          "lon": -48.9297344
         },
-        "distancia_km": 35.4,
-        "proximo": false
+        "distancia_km": 20.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -296,12 +296,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.46 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "03/11/2026 23:59:45",
-          "lat": -23.7233392,
-          "lon": -46.8920608
+          "referencia": "0.06 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 00:15:45",
+          "lat": -23.8899936,
+          "lon": -46.9815168
         },
-        "distancia_km": 315.1,
+        "distancia_km": 296.3,
         "proximo": false
       },
       {
@@ -316,12 +316,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 23:59:26",
-          "lat": -26.8598208,
-          "lon": -49.0769472
+          "referencia": "0.16 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 00:15:26",
+          "lat": -26.9007392,
+          "lon": -48.9297344
         },
-        "distancia_km": 149.7,
+        "distancia_km": 157.0,
         "proximo": false
       },
       {
@@ -336,12 +336,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 23:59:26",
-          "lat": -26.8598208,
-          "lon": -49.0769472
+          "referencia": "0.16 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 00:15:26",
+          "lat": -26.9007392,
+          "lon": -48.9297344
         },
-        "distancia_km": 149.7,
+        "distancia_km": 157.0,
         "proximo": false
       },
       {
@@ -356,12 +356,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "03/11/2026 23:59:26",
-          "lat": -26.8598208,
-          "lon": -49.0769472
+          "referencia": "0.16 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 00:15:26",
+          "lat": -26.9007392,
+          "lon": -48.9297344
         },
-        "distancia_km": 149.7,
+        "distancia_km": 157.0,
         "proximo": false
       }
     ],
@@ -392,10 +392,10 @@
         "frete_rs": 9779.51,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.96 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (JARDIM YEDA) - CAMPINAS/SP",
-          "data_hora_posicao": "03/11/2026 23:59:58",
-          "lat": -22.9543533333333,
-          "lon": -47.1255866666667
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "04/11/2026 00:14:36",
+          "lat": -22.8469266666667,
+          "lon": -47.1247883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -450,7 +450,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:00:12",
+          "data_hora_posicao": "04/11/2026 00:16:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -481,7 +481,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 00:00:12",
+          "data_hora_posicao": "04/11/2026 00:16:12",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -497,5 +497,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T00:02:26"
+  "_gerado_em": "2026-11-04T00:17:32"
 }
