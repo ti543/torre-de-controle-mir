@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "03/11/2026 22:45:11",
+          "data_hora_posicao": "03/11/2026 23:01:11",
           "lat": -24.7858288,
           "lon": -48.17504
         },
@@ -34,12 +34,27 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 22:44:38",
+          "data_hora_posicao": "03/11/2026 23:00:38",
           "lat": -23.4705168,
           "lon": -46.4624544
         },
         "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "RSL044157-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 28539.14,
+        "frete_rs": 31166.66,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "TBO016314-7",
@@ -64,9 +79,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 541.0,
-        "frete_rs": 348.99,
-        "qtde": 1
+        "peso_kg": 29080.14,
+        "frete_rs": 31515.65,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 12507.05,
@@ -89,10 +104,10 @@
         "frete_rs": 5354.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "03/11/2026 22:41:20",
-          "lat": -26.8873335,
-          "lon": -48.7209923
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "03/11/2026 23:01:03",
+          "lat": -26.8873196,
+          "lon": -48.7211515
         },
         "distancia_km": 98.6,
         "proximo": false
@@ -109,12 +124,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "03/11/2026 22:45:24",
-          "lat": -24.6539816666667,
-          "lon": -47.9606766666667
+          "referencia": "0.16 km de POLICIA MILITAR - CAJATI/SP",
+          "data_hora_posicao": "03/11/2026 22:59:24",
+          "lat": -24.731915,
+          "lon": -48.111055
         },
-        "distancia_km": 330.2,
+        "distancia_km": 315.2,
         "proximo": false
       },
       {
@@ -145,7 +160,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:46:13",
+          "data_hora_posicao": "03/11/2026 23:00:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -185,12 +200,12 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.01 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
-          "data_hora_posicao": "03/11/2026 22:45:04",
-          "lat": -23.9193856,
-          "lon": -46.9906016
+          "referencia": "0.19 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "03/11/2026 22:59:04",
+          "lat": -23.9824288,
+          "lon": -47.1461792
         },
-        "distancia_km": 373.0,
+        "distancia_km": 359.6,
         "proximo": false
       },
       {
@@ -220,12 +235,12 @@
         "frete_rs": 1730.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "03/11/2026 22:46:28",
-          "lat": -27.0956064,
-          "lon": -49.5305216
+          "referencia": "2.6 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "03/11/2026 22:59:35",
+          "lat": -27.0885376,
+          "lon": -49.4585344
         },
-        "distancia_km": 83.5,
+        "distancia_km": 76.4,
         "proximo": false
       },
       {
@@ -240,12 +255,12 @@
         "frete_rs": 5982.47,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "03/11/2026 22:46:28",
-          "lat": -27.0956064,
-          "lon": -49.5305216
+          "referencia": "2.6 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "03/11/2026 22:59:35",
+          "lat": -27.0885376,
+          "lon": -49.4585344
         },
-        "distancia_km": 83.5,
+        "distancia_km": 76.4,
         "proximo": false
       }
     ],
@@ -276,12 +291,12 @@
         "frete_rs": 5559.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.48 km de PEDAGIO - P9 (SENTIDO RODOVIA AYRTON SENNA) - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "03/11/2026 22:45:45",
-          "lat": -23.4584688,
-          "lon": -46.3488896
+          "referencia": "0.91 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "03/11/2026 22:59:45",
+          "lat": -23.6211808,
+          "lon": -46.3665504
         },
-        "distancia_km": 376.6,
+        "distancia_km": 364.2,
         "proximo": false
       },
       {
@@ -296,12 +311,12 @@
         "frete_rs": 4375.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "03/11/2026 22:46:28",
-          "lat": -27.0956064,
-          "lon": -49.5305216
+          "referencia": "2.6 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "03/11/2026 22:59:35",
+          "lat": -27.0885376,
+          "lon": -49.4585344
         },
-        "distancia_km": 175.9,
+        "distancia_km": 174.3,
         "proximo": false
       },
       {
@@ -316,12 +331,12 @@
         "frete_rs": 4040.12,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "03/11/2026 22:46:28",
-          "lat": -27.0956064,
-          "lon": -49.5305216
+          "referencia": "2.6 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "03/11/2026 22:59:35",
+          "lat": -27.0885376,
+          "lon": -49.4585344
         },
-        "distancia_km": 175.9,
+        "distancia_km": 174.3,
         "proximo": false
       },
       {
@@ -336,12 +351,12 @@
         "frete_rs": 126.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "03/11/2026 22:46:28",
-          "lat": -27.0956064,
-          "lon": -49.5305216
+          "referencia": "2.6 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "03/11/2026 22:59:35",
+          "lat": -27.0885376,
+          "lon": -49.4585344
         },
-        "distancia_km": 175.9,
+        "distancia_km": 174.3,
         "proximo": false
       }
     ],
@@ -372,10 +387,10 @@
         "frete_rs": 9779.51,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - GUARULHOS/SP",
-          "data_hora_posicao": "03/11/2026 22:46:20",
-          "lat": -23.4825883333333,
-          "lon": -46.5260666666667
+          "referencia": "0.48 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "03/11/2026 23:00:20",
+          "lat": -23.51719,
+          "lon": -46.6469083333333
         },
         "distancia_km": null,
         "proximo": false
@@ -430,7 +445,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:46:13",
+          "data_hora_posicao": "03/11/2026 23:00:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -461,7 +476,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "03/11/2026 22:46:13",
+          "data_hora_posicao": "03/11/2026 23:00:13",
           "lat": -29.9837583333333,
           "lon": -51.187
         },
@@ -477,5 +492,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-03T22:47:32"
+  "_gerado_em": "2026-11-03T23:02:27"
 }
