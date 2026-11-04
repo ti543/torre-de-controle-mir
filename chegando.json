@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.19 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 18:46:41",
-          "lat": -26.917993,
-          "lon": -48.7095411
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 19:01:21",
+          "lat": -26.8874886,
+          "lon": -48.7204711
         },
-        "distancia_km": 3.6,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.19 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 18:46:41",
-          "lat": -26.917993,
-          "lon": -48.7095411
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 19:01:21",
+          "lat": -26.8874886,
+          "lon": -48.7204711
         },
-        "distancia_km": 3.6,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 993.45,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.25 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 18:46:08",
-          "lat": -25.5269376,
-          "lon": -49.2932256
+          "referencia": "0.49 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
+          "data_hora_posicao": "04/11/2026 19:01:26",
+          "lat": -25.5624176,
+          "lon": -49.2594784
         },
-        "distancia_km": 161.7,
+        "distancia_km": 156.8,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 1443.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.96 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "04/11/2026 18:46:23",
-          "lat": -27.0870208,
-          "lon": -49.476304
+          "referencia": "2.3 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "04/11/2026 18:56:23",
+          "lat": -27.0611296,
+          "lon": -49.4125664
         },
-        "distancia_km": 78.1,
+        "distancia_km": 71.2,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.19 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 18:46:41",
-          "lat": -26.917993,
-          "lon": -48.7095411
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 19:01:21",
+          "lat": -26.8874886,
+          "lon": -48.7204711
         },
-        "distancia_km": 3.6,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -144,12 +144,12 @@
         "frete_rs": 6821.75,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO GRAAL MIRANTE - JARINU/SP",
-          "data_hora_posicao": "04/11/2026 18:45:30",
-          "lat": -23.0377266666667,
-          "lon": -46.6875833333333
+          "referencia": "0.78 km de POSTO FRANGO ASSADO (ATIBAIA 44) - ATIBAIA/SP",
+          "data_hora_posicao": "04/11/2026 19:00:31",
+          "lat": -23.1556683333333,
+          "lon": -46.5739516666667
         },
-        "distancia_km": 53.3,
+        "distancia_km": 36.8,
         "proximo": false
       },
       {
@@ -164,12 +164,32 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 18:45:45",
-          "lat": -25.527792,
-          "lon": -49.2955232
+          "referencia": "0.27 km de IRMÃOS MUFFATO LTDA - CURITIBA/PR",
+          "data_hora_posicao": "04/11/2026 18:59:45",
+          "lat": -25.4867776,
+          "lon": -49.2678304
         },
-        "distancia_km": 366.7,
+        "distancia_km": 361.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023992-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 9159.1,
+        "frete_rs": 15098.21,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 19:00:36",
+          "lat": -26.8873952,
+          "lon": -48.721088
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -184,12 +204,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.96 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "04/11/2026 18:46:23",
-          "lat": -27.0870208,
-          "lon": -49.476304
+          "referencia": "2.3 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "04/11/2026 18:56:23",
+          "lat": -27.0611296,
+          "lon": -49.4125664
         },
-        "distancia_km": 503.5,
+        "distancia_km": 497.4,
         "proximo": false
       },
       {
@@ -204,12 +224,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.96 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "04/11/2026 18:46:23",
-          "lat": -27.0870208,
-          "lon": -49.476304
+          "referencia": "2.3 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "04/11/2026 18:56:23",
+          "lat": -27.0611296,
+          "lon": -49.4125664
         },
-        "distancia_km": 503.5,
+        "distancia_km": 497.4,
         "proximo": false
       }
     ],
@@ -222,6 +242,11 @@
       "Curitiba": {
         "peso_kg": 11179.98,
         "frete_rs": 8859.96,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 9159.1,
+        "frete_rs": 15098.21,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -245,12 +270,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.25 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "04/11/2026 18:46:08",
-          "lat": -25.5269376,
-          "lon": -49.2932256
+          "referencia": "0.49 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
+          "data_hora_posicao": "04/11/2026 19:01:26",
+          "lat": -25.5624176,
+          "lon": -49.2594784
         },
-        "distancia_km": 190.1,
+        "distancia_km": 186.9,
         "proximo": false
       },
       {
@@ -265,12 +290,12 @@
         "frete_rs": 3361.08,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "04/11/2026 18:40:18",
-          "lat": -27.4828,
-          "lon": -50.378675
+          "referencia": "1.61 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "04/11/2026 18:52:41",
+          "lat": -27.3724,
+          "lon": -50.4298666666667
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.3,
         "proximo": false
       },
       {
@@ -285,12 +310,12 @@
         "frete_rs": 2337.52,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "04/11/2026 18:40:18",
-          "lat": -27.4828,
-          "lon": -50.378675
+          "referencia": "1.61 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "04/11/2026 18:52:41",
+          "lat": -27.3724,
+          "lon": -50.4298666666667
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.3,
         "proximo": false
       },
       {
@@ -305,12 +330,12 @@
         "frete_rs": 1269.63,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "04/11/2026 18:40:18",
-          "lat": -27.4828,
-          "lon": -50.378675
+          "referencia": "1.61 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "04/11/2026 18:52:41",
+          "lat": -27.3724,
+          "lon": -50.4298666666667
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.3,
         "proximo": false
       },
       {
@@ -325,12 +350,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.21 km de EURODIESEL OFICINA MECÂNICA E AUTO PEÇAS LTDA - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "04/11/2026 18:45:23",
-          "lat": -29.7304672,
-          "lon": -51.1497184
+          "referencia": "2.61 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "04/11/2026 19:01:01",
+          "lat": -29.6458368,
+          "lon": -51.2827232
         },
-        "distancia_km": 316.7,
+        "distancia_km": 314.8,
         "proximo": false
       },
       {
@@ -386,10 +411,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.23 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "04/11/2026 18:46:05",
-          "lat": -25.720408,
-          "lon": -49.1369376
+          "referencia": "0.27 km de SCANIA CONCESSIONÁRIA - SÃO JOSÉ DOS PINHAIS - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 19:00:05",
+          "lat": -25.5699552,
+          "lon": -49.1792064
         },
         "distancia_km": null,
         "proximo": false
@@ -406,10 +431,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.23 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "04/11/2026 18:46:05",
-          "lat": -25.720408,
-          "lon": -49.1369376
+          "referencia": "0.27 km de SCANIA CONCESSIONÁRIA - SÃO JOSÉ DOS PINHAIS - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "04/11/2026 19:00:05",
+          "lat": -25.5699552,
+          "lon": -49.1792064
         },
         "distancia_km": null,
         "proximo": false
@@ -442,10 +467,10 @@
         "frete_rs": 1572.56,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.21 km de EURODIESEL OFICINA MECÂNICA E AUTO PEÇAS LTDA - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "04/11/2026 18:45:23",
-          "lat": -29.7304672,
-          "lon": -51.1497184
+          "referencia": "2.61 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "04/11/2026 19:01:01",
+          "lat": -29.6458368,
+          "lon": -51.2827232
         },
         "distancia_km": null,
         "proximo": false
@@ -474,7 +499,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 18:45:33",
+          "data_hora_posicao": "04/11/2026 18:59:33",
           "lat": -29.9833856,
           "lon": -51.186656
         },
@@ -490,5 +515,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T18:47:50"
+  "_gerado_em": "2026-11-04T19:02:40"
 }
