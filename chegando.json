@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:43:03",
+          "data_hora_posicao": "04/11/2026 06:59:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9870.7,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "04/11/2026 06:45:22",
-          "lat": -27.1358716666667,
-          "lon": -49.543605
+          "referencia": "1.07 km de POSTO COLIBRIS - LONTRAS/SC",
+          "data_hora_posicao": "04/11/2026 06:59:52",
+          "lat": -27.16646,
+          "lon": -49.5586916666667
         },
-        "distancia_km": 13.1,
+        "distancia_km": 10.0,
         "proximo": true
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:43:03",
+          "data_hora_posicao": "04/11/2026 06:59:03",
           "lat": -27.2060253,
           "lon": -49.649357
         },
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:46:06",
+          "data_hora_posicao": "04/11/2026 07:00:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -134,13 +134,13 @@
         "frete_rs": 12888.82,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 06:45:04",
-          "lat": -26.553992,
-          "lon": -48.7199712
+          "referencia": "0.98 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 07:01:04",
+          "lat": -26.6572784,
+          "lon": -48.6880672
         },
-        "distancia_km": 37.1,
-        "proximo": false
+        "distancia_km": 25.8,
+        "proximo": true
       },
       {
         "manif": "GRU074177-9",
@@ -163,37 +163,6 @@
         "peso_kg": 22435.489999999998,
         "frete_rs": 27298.78,
         "qtde": 2
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074176-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 7676.65,
-        "frete_rs": 9779.51,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "04/11/2026 06:45:12",
-          "lat": -22.846925,
-          "lon": -47.1247883333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 7676.65,
-        "frete_rs": 9779.51,
-        "qtde": 1
       }
     }
   },
@@ -237,12 +206,12 @@
         "frete_rs": 2193.49,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.78 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "04/11/2026 06:39:25",
-          "lat": -24.9766,
-          "lon": -48.4978976
+          "referencia": "0.6 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 07:01:25",
+          "lat": -24.926656,
+          "lon": -48.2678016
         },
-        "distancia_km": 265.8,
+        "distancia_km": 244.4,
         "proximo": false
       },
       {
@@ -257,12 +226,12 @@
         "frete_rs": 12849.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.78 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "04/11/2026 06:39:25",
-          "lat": -24.9766,
-          "lon": -48.4978976
+          "referencia": "0.6 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 07:01:25",
+          "lat": -24.926656,
+          "lon": -48.2678016
         },
-        "distancia_km": 265.8,
+        "distancia_km": 244.4,
         "proximo": false
       },
       {
@@ -278,7 +247,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 06:46:16",
+          "data_hora_posicao": "04/11/2026 07:00:16",
           "lat": -24.7857376,
           "lon": -48.1749664
         },
@@ -363,10 +332,10 @@
         "frete_rs": 1788.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 06:44:15",
-          "lat": -27.334536,
-          "lon": -48.627309
+          "referencia": "2.02 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "04/11/2026 07:00:22",
+          "lat": -27.4778865,
+          "lon": -48.7217301
         },
         "distancia_km": null,
         "proximo": false
@@ -394,10 +363,10 @@
         "frete_rs": 4811.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 06:44:15",
-          "lat": -27.334536,
-          "lon": -48.627309
+          "referencia": "2.02 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "04/11/2026 07:00:22",
+          "lat": -27.4778865,
+          "lon": -48.7217301
         },
         "distancia_km": null,
         "proximo": false
@@ -425,10 +394,10 @@
         "frete_rs": 2352.52,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.53 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "04/11/2026 06:44:15",
-          "lat": -27.334536,
-          "lon": -48.627309
+          "referencia": "2.02 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "04/11/2026 07:00:22",
+          "lat": -27.4778865,
+          "lon": -48.7217301
         },
         "distancia_km": null,
         "proximo": false
@@ -456,12 +425,12 @@
         "frete_rs": 7192.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "04/11/2026 06:45:01",
-          "lat": -29.305904,
-          "lon": -49.7729952
+          "referencia": "0.8 km de POSTO BR TERRA NOVA TORRES - TORRES/RS",
+          "data_hora_posicao": "04/11/2026 07:01:01",
+          "lat": -29.325248,
+          "lon": -49.7798464
         },
-        "distancia_km": 156.0,
+        "distancia_km": 154.4,
         "proximo": false
       },
       {
@@ -476,12 +445,12 @@
         "frete_rs": 7080.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "04/11/2026 06:45:01",
-          "lat": -29.305904,
-          "lon": -49.7729952
+          "referencia": "0.8 km de POSTO BR TERRA NOVA TORRES - TORRES/RS",
+          "data_hora_posicao": "04/11/2026 07:01:01",
+          "lat": -29.325248,
+          "lon": -49.7798464
         },
-        "distancia_km": 156.0,
+        "distancia_km": 154.4,
         "proximo": false
       },
       {
@@ -496,12 +465,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:45:33",
-          "lat": -27.3030368,
-          "lon": -50.2215616
+          "referencia": "0.52 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:55:33",
+          "lat": -27.3144384,
+          "lon": -50.3229056
         },
-        "distancia_km": 312.6,
+        "distancia_km": 308.5,
         "proximo": false
       }
     ],
@@ -533,7 +502,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:46:06",
+          "data_hora_posicao": "04/11/2026 07:00:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -552,10 +521,10 @@
         "frete_rs": 4305.36,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:45:33",
-          "lat": -27.3030368,
-          "lon": -50.2215616
+          "referencia": "0.52 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:55:33",
+          "lat": -27.3144384,
+          "lon": -50.3229056
         },
         "distancia_km": null,
         "proximo": false
@@ -572,10 +541,10 @@
         "frete_rs": 541.7,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:45:33",
-          "lat": -27.3030368,
-          "lon": -50.2215616
+          "referencia": "0.52 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:55:33",
+          "lat": -27.3144384,
+          "lon": -50.3229056
         },
         "distancia_km": null,
         "proximo": false
@@ -609,7 +578,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 06:46:06",
+          "data_hora_posicao": "04/11/2026 07:00:06",
           "lat": -29.1463883333333,
           "lon": -51.1648633333333
         },
@@ -628,10 +597,10 @@
         "frete_rs": 6105.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:45:33",
-          "lat": -27.3030368,
-          "lon": -50.2215616
+          "referencia": "0.52 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:55:33",
+          "lat": -27.3144384,
+          "lon": -50.3229056
         },
         "distancia_km": null,
         "proximo": false
@@ -648,10 +617,10 @@
         "frete_rs": 220.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:45:33",
-          "lat": -27.3030368,
-          "lon": -50.2215616
+          "referencia": "0.52 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:55:33",
+          "lat": -27.3144384,
+          "lon": -50.3229056
         },
         "distancia_km": null,
         "proximo": false
@@ -684,10 +653,10 @@
         "frete_rs": 3284.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.29 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 06:41:30",
-          "lat": -27.3004533333333,
-          "lon": -50.2870933333333
+          "referencia": "4.24 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 06:54:43",
+          "lat": -27.3247733333333,
+          "lon": -50.3694933333333
         },
         "distancia_km": null,
         "proximo": false
@@ -701,5 +670,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T06:47:36"
+  "_gerado_em": "2026-11-04T07:02:35"
 }
