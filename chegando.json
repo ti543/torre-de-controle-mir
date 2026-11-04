@@ -13,12 +13,12 @@
         "frete_rs": 200.56,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:30:57",
-          "lat": -27.7780363,
-          "lon": -48.6349153
+          "referencia": "2.24 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:45:20",
+          "lat": -27.668751,
+          "lon": -48.7147041
         },
-        "distancia_km": 99.4,
+        "distancia_km": 86.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3501.75,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:30:57",
-          "lat": -27.7780363,
-          "lon": -48.6349153
+          "referencia": "2.24 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:45:20",
+          "lat": -27.668751,
+          "lon": -48.7147041
         },
-        "distancia_km": 99.4,
+        "distancia_km": 86.9,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3241.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "04/11/2026 16:30:57",
-          "lat": -27.7780363,
-          "lon": -48.6349153
+          "referencia": "2.24 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "04/11/2026 16:45:20",
+          "lat": -27.668751,
+          "lon": -48.7147041
         },
-        "distancia_km": 99.4,
+        "distancia_km": 86.9,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 16:30:00",
+          "data_hora_posicao": "04/11/2026 16:45:59",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "04/11/2026 16:30:00",
+          "data_hora_posicao": "04/11/2026 16:45:59",
           "lat": -27.8238183333333,
           "lon": -50.36281
         },
@@ -150,10 +150,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.79 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
-          "data_hora_posicao": "04/11/2026 16:30:34",
-          "lat": -26.7999872,
-          "lon": -48.6789504
+          "referencia": "0.16 km de CDH HAVAN - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 16:46:05",
+          "lat": -26.6348064,
+          "lon": -48.6994016
         },
         "distancia_km": null,
         "proximo": false
@@ -170,10 +170,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.79 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
-          "data_hora_posicao": "04/11/2026 16:30:34",
-          "lat": -26.7999872,
-          "lon": -48.6789504
+          "referencia": "0.16 km de CDH HAVAN - BARRA VELHA/SC",
+          "data_hora_posicao": "04/11/2026 16:46:05",
+          "lat": -26.6348064,
+          "lon": -48.6994016
         },
         "distancia_km": null,
         "proximo": false
@@ -206,12 +206,12 @@
         "frete_rs": 926.39,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 16:30:32",
-          "lat": -29.9839296,
-          "lon": -51.187392
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "04/11/2026 16:45:33",
+          "lat": -29.9833856,
+          "lon": -51.186656
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -223,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T16:32:48"
+  "_gerado_em": "2026-11-04T16:47:55"
 }
