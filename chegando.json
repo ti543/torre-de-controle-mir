@@ -13,12 +13,12 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.77 km de BORGWARNER - ITATIBA/SP",
-          "data_hora_posicao": "05/11/2026 19:00:30",
-          "lat": -22.9675816666667,
-          "lon": -46.8417316666667
+          "referencia": "0.47 km de BOSCH REXROTH LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "05/11/2026 19:14:30",
+          "lat": -23.040815,
+          "lon": -46.679505
         },
-        "distancia_km": 68.0,
+        "distancia_km": 52.7,
         "proximo": false
       },
       {
@@ -33,42 +33,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:01:11",
-          "lat": -25.5278384,
-          "lon": -49.2956
+          "referencia": "0.01 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 19:15:11",
+          "lat": -25.5279152,
+          "lon": -49.2955488
         },
-        "distancia_km": 366.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024000-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3655.04,
-        "frete_rs": 3968.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024001-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3689.54,
-        "frete_rs": 4045.65,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 366.8,
         "proximo": false
       },
       {
@@ -83,27 +53,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:00:38",
-          "lat": -27.2060864,
-          "lon": -49.6493888
+          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:16:38",
+          "lat": -27.2062496,
+          "lon": -49.6495968
         },
         "distancia_km": 524.5,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016331-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 9137.85,
-        "frete_rs": 13021.88,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -118,19 +73,9 @@
         "frete_rs": 13624.12,
         "qtde": 1
       },
-      "Itajaí": {
-        "peso_kg": 7344.58,
-        "frete_rs": 8014.389999999999,
-        "qtde": 2
-      },
       "Rio do Sul": {
         "peso_kg": 14121.7,
         "frete_rs": 7752.59,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 9137.85,
-        "frete_rs": 13021.88,
         "qtde": 1
       }
     }
@@ -149,12 +94,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.03 km de BR TRUCK - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:00:06",
-          "lat": -25.5658166666667,
-          "lon": -49.244685
+          "referencia": "0.77 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "05/11/2026 19:16:23",
+          "lat": -25.68213,
+          "lon": -49.1484666666667
         },
-        "distancia_km": 156.0,
+        "distancia_km": 140.6,
         "proximo": false
       },
       {
@@ -169,12 +114,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.91 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "05/11/2026 18:59:34",
-          "lat": -29.9282432,
-          "lon": -50.8679808
+          "referencia": "8.94 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "05/11/2026 19:14:35",
+          "lat": -29.8881536,
+          "lon": -50.6730336
         },
-        "distancia_km": 398.0,
+        "distancia_km": 384.4,
         "proximo": false
       },
       {
@@ -189,12 +134,12 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:00:38",
-          "lat": -27.2060864,
-          "lon": -49.6493888
+          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:16:38",
+          "lat": -27.2062496,
+          "lon": -49.6495968
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       }
     ],
@@ -230,12 +175,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.03 km de BR TRUCK - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:00:06",
-          "lat": -25.5658166666667,
-          "lon": -49.244685
+          "referencia": "0.77 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "05/11/2026 19:16:23",
+          "lat": -25.68213,
+          "lon": -49.1484666666667
         },
-        "distancia_km": 186.8,
+        "distancia_km": 176.6,
         "proximo": false
       },
       {
@@ -250,12 +195,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:53:34",
-          "lat": -27.388416,
-          "lon": -50.4285952
+          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:07:01",
+          "lat": -27.305184,
+          "lon": -50.3974752
         },
-        "distancia_km": 79.6,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -270,12 +215,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:53:34",
-          "lat": -27.388416,
-          "lon": -50.4285952
+          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:07:01",
+          "lat": -27.305184,
+          "lon": -50.3974752
         },
-        "distancia_km": 79.6,
+        "distancia_km": 74.7,
         "proximo": false
       },
       {
@@ -290,12 +235,27 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:53:34",
-          "lat": -27.388416,
-          "lon": -50.4285952
+          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:07:01",
+          "lat": -27.305184,
+          "lon": -50.3974752
         },
-        "distancia_km": 79.6,
+        "distancia_km": 74.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016343-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 5661.93,
+        "frete_rs": 7156.13,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -313,6 +273,11 @@
       "Porto Alegre": {
         "peso_kg": 6749.65,
         "frete_rs": 5702.59,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 5661.93,
+        "frete_rs": 7156.13,
         "qtde": 1
       }
     }
@@ -358,7 +323,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:00:16",
+          "data_hora_posicao": "05/11/2026 19:16:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -377,10 +342,10 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:59:36",
-          "lat": -29.9834566666667,
-          "lon": -51.1866833333333
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "05/11/2026 19:16:35",
+          "lat": -29.9833433333333,
+          "lon": -51.186645
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -397,10 +362,10 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:59:36",
-          "lat": -29.9834566666667,
-          "lon": -51.1866833333333
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "05/11/2026 19:16:35",
+          "lat": -29.9833433333333,
+          "lon": -51.186645
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -419,37 +384,6 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ024009-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2837.22,
-        "frete_rs": 2131.29,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:00:24",
-          "lat": -26.8877406,
-          "lon": -48.7206211
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2837.22,
-        "frete_rs": 2131.29,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -465,7 +399,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 19:00:56",
+          "data_hora_posicao": "05/11/2026 19:14:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -481,5 +415,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T19:02:36"
+  "_gerado_em": "2026-11-05T19:17:40"
 }
