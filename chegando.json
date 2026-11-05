@@ -13,10 +13,10 @@
         "frete_rs": 170.16,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.41 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "05/11/2026 09:01:29",
-          "lat": -29.0533536,
-          "lon": -51.1905696
+          "referencia": "2.01 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "05/11/2026 09:13:01",
+          "lat": -28.9778784,
+          "lon": -51.1788064
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.41 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "05/11/2026 09:01:29",
-          "lat": -29.0533536,
-          "lon": -51.1905696
+          "referencia": "2.01 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "05/11/2026 09:13:01",
+          "lat": -28.9778784,
+          "lon": -51.1788064
         },
-        "distancia_km": 255.0,
+        "distancia_km": 247.6,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.87 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "05/11/2026 08:58:38",
-          "lat": -26.950608,
-          "lon": -49.3011936
+          "referencia": "1.56 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "05/11/2026 09:10:38",
+          "lat": -26.9790016,
+          "lon": -49.3700768
         },
-        "distancia_km": 44.7,
+        "distancia_km": 37.5,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "05/11/2026 09:01:13",
-          "lat": -26.8593408,
-          "lon": -49.0860672
+          "referencia": "0.81 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 09:15:02",
+          "lat": -26.8829504,
+          "lon": -49.1563296
         },
-        "distancia_km": 67.8,
+        "distancia_km": 60.6,
         "proximo": false
       },
       {
@@ -119,12 +119,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.41 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "05/11/2026 09:01:29",
-          "lat": -29.0533536,
-          "lon": -51.1905696
+          "referencia": "2.01 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "05/11/2026 09:13:01",
+          "lat": -28.9778784,
+          "lon": -51.1788064
         },
-        "distancia_km": 255.0,
+        "distancia_km": 247.6,
         "proximo": false
       }
     ],
@@ -186,10 +186,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.87 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "05/11/2026 08:58:38",
-          "lat": -26.950608,
-          "lon": -49.3011936
+          "referencia": "1.56 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "05/11/2026 09:10:38",
+          "lat": -26.9790016,
+          "lon": -49.3700768
         },
         "distancia_km": null,
         "proximo": false
@@ -205,6 +205,21 @@
         "peso_real_kg": 9518.4,
         "frete_rs": 12417.35,
         "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024005-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 1702.92,
+        "frete_rs": 1830.5,
+        "grupo_origem": "Itajaí",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -230,6 +245,11 @@
         "peso_kg": 17764.92,
         "frete_rs": 17467.14,
         "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 1702.92,
+        "frete_rs": 1830.5,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 1015.1,
@@ -267,12 +287,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de PATIO MUNDIAL IMPORTAÇÃO E EXPORTAÇÃO - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 09:00:16",
-          "lat": -26.8705696,
-          "lon": -48.7295936
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 09:16:16",
+          "lat": -26.8874176,
+          "lon": -48.7206368
         },
-        "distancia_km": 2.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -298,12 +318,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de PATIO MUNDIAL IMPORTAÇÃO E EXPORTAÇÃO - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 09:00:16",
-          "lat": -26.8705696,
-          "lon": -48.7295936
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 09:16:16",
+          "lat": -26.8874176,
+          "lon": -48.7206368
         },
-        "distancia_km": 421.3,
+        "distancia_km": 420.3,
         "proximo": false
       },
       {
@@ -318,12 +338,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "05/11/2026 08:53:33",
-          "lat": -27.9946133333333,
-          "lon": -50.5282133333333
+          "referencia": "8.71 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "05/11/2026 09:14:53",
+          "lat": -28.1712533333333,
+          "lon": -50.678865
         },
-        "distancia_km": 230.2,
+        "distancia_km": 207.4,
         "proximo": false
       },
       {
@@ -338,12 +358,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "05/11/2026 08:53:33",
-          "lat": -27.9946133333333,
-          "lon": -50.5282133333333
+          "referencia": "8.71 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "05/11/2026 09:14:53",
+          "lat": -28.1712533333333,
+          "lon": -50.678865
         },
-        "distancia_km": 230.2,
+        "distancia_km": 207.4,
         "proximo": false
       }
     ],
@@ -374,12 +394,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.01 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
-          "data_hora_posicao": "05/11/2026 09:00:36",
-          "lat": -24.330744,
-          "lon": -47.5828704
+          "referencia": "0.53 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:36",
+          "lat": -24.2655024,
+          "lon": -47.3881888
         },
-        "distancia_km": 148.8,
+        "distancia_km": 129.1,
         "proximo": false
       },
       {
@@ -394,12 +414,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.71 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "05/11/2026 09:01:04",
-          "lat": -24.1695936,
-          "lon": -47.3379776
+          "referencia": "6.42 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:04",
+          "lat": -24.0878768,
+          "lon": -47.2563232
         },
-        "distancia_km": 118.2,
+        "distancia_km": 106.0,
         "proximo": false
       },
       {
@@ -414,12 +434,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.71 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "05/11/2026 09:01:04",
-          "lat": -24.1695936,
-          "lon": -47.3379776
+          "referencia": "6.42 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:04",
+          "lat": -24.0878768,
+          "lon": -47.2563232
         },
-        "distancia_km": 118.2,
+        "distancia_km": 106.0,
         "proximo": false
       },
       {
@@ -434,12 +454,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.57 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "05/11/2026 09:00:23",
-          "lat": -24.3320368,
-          "lon": -47.6083424
+          "referencia": "1.17 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:23",
+          "lat": -24.2780432,
+          "lon": -47.4189984
         },
-        "distancia_km": 150.8,
+        "distancia_km": 132.4,
         "proximo": false
       },
       {
@@ -484,12 +504,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "05/11/2026 09:00:23",
-          "lat": -24.3320368,
-          "lon": -47.6083424
+          "referencia": "1.17 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:23",
+          "lat": -24.2780432,
+          "lon": -47.4189984
         },
-        "distancia_km": 150.8,
+        "distancia_km": 132.4,
         "proximo": false
       },
       {
@@ -504,12 +524,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "05/11/2026 09:00:23",
-          "lat": -24.3320368,
-          "lon": -47.6083424
+          "referencia": "1.17 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 09:16:23",
+          "lat": -24.2780432,
+          "lon": -47.4189984
         },
-        "distancia_km": 150.8,
+        "distancia_km": 132.4,
         "proximo": false
       },
       {
@@ -590,12 +610,12 @@
         "frete_rs": 1968.16,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 09:00:24",
-          "lat": -26.1896133333333,
-          "lon": -48.911705
+          "referencia": "0.24 km de AUTO POSTO THEODORO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 09:16:24",
+          "lat": -26.0277916666667,
+          "lon": -48.8611233333333
         },
-        "distancia_km": 83.0,
+        "distancia_km": 70.6,
         "proximo": false
       },
       {
@@ -610,12 +630,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 09:00:24",
-          "lat": -26.1896133333333,
-          "lon": -48.911705
+          "referencia": "0.24 km de AUTO POSTO THEODORO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 09:16:24",
+          "lat": -26.0277916666667,
+          "lon": -48.8611233333333
         },
-        "distancia_km": 83.0,
+        "distancia_km": 70.6,
         "proximo": false
       },
       {
@@ -630,12 +650,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 09:00:24",
-          "lat": -26.1896133333333,
-          "lon": -48.911705
+          "referencia": "0.24 km de AUTO POSTO THEODORO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 09:16:24",
+          "lat": -26.0277916666667,
+          "lon": -48.8611233333333
         },
-        "distancia_km": 83.0,
+        "distancia_km": 70.6,
         "proximo": false
       }
     ],
@@ -666,10 +686,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "05/11/2026 09:01:30",
-          "lat": -27.1841952,
-          "lon": -51.5197856
+          "referencia": "0.06 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - JOACABA/SC",
+          "data_hora_posicao": "05/11/2026 09:14:56",
+          "lat": -27.1846848,
+          "lon": -51.5199392
         },
         "distancia_km": null,
         "proximo": false
@@ -697,10 +717,10 @@
         "frete_rs": 4894.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "05/11/2026 08:53:33",
-          "lat": -27.9946133333333,
-          "lon": -50.5282133333333
+          "referencia": "8.71 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "05/11/2026 09:14:53",
+          "lat": -28.1712533333333,
+          "lon": -50.678865
         },
         "distancia_km": null,
         "proximo": false
@@ -714,5 +734,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T09:02:41"
+  "_gerado_em": "2026-11-05T09:17:53"
 }
