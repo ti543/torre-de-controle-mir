@@ -13,12 +13,12 @@
         "frete_rs": 1636.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.85 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
-          "data_hora_posicao": "05/11/2026 11:00:05",
-          "lat": -23.1337696,
-          "lon": -46.9795456
+          "referencia": "0.19 km de FOXCONN BRASIL INDUSTRIA E COMERCIO LTDA - JUNDIAI/SP",
+          "data_hora_posicao": "05/11/2026 11:16:05",
+          "lat": -23.164072,
+          "lon": -46.9463872
         },
-        "distancia_km": 64.7,
+        "distancia_km": 60.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.57 km de FILIAL TIC TRANSPORTES - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "05/11/2026 11:00:36",
-          "lat": -23.6506048,
-          "lon": -46.846336
+          "referencia": "0.34 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - CARAPICUIBA/SP",
+          "data_hora_posicao": "05/11/2026 11:14:36",
+          "lat": -23.525272,
+          "lon": -46.8166464
         },
-        "distancia_km": 44.0,
+        "distancia_km": 36.6,
         "proximo": false
       },
       {
@@ -53,13 +53,13 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de PATIO RODOGARCIA - OSASCO/SP",
-          "data_hora_posicao": "05/11/2026 11:01:04",
-          "lat": -23.5217216,
-          "lon": -46.7674208
+          "referencia": "0.1 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "05/11/2026 11:15:04",
+          "lat": -23.5180944,
+          "lon": -46.7317504
         },
-        "distancia_km": 31.6,
-        "proximo": false
+        "distancia_km": 28.0,
+        "proximo": true
       },
       {
         "manif": "ITJ023995-0",
@@ -73,13 +73,13 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de PATIO RODOGARCIA - OSASCO/SP",
-          "data_hora_posicao": "05/11/2026 11:01:04",
-          "lat": -23.5217216,
-          "lon": -46.7674208
+          "referencia": "0.1 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "05/11/2026 11:15:04",
+          "lat": -23.5180944,
+          "lon": -46.7317504
         },
-        "distancia_km": 31.6,
-        "proximo": false
+        "distancia_km": 28.0,
+        "proximo": true
       },
       {
         "manif": "ITJ023998-4",
@@ -93,12 +93,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "05/11/2026 11:00:23",
-          "lat": -23.6965104,
-          "lon": -46.8651936
+          "referencia": "0.45 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "05/11/2026 11:14:23",
+          "lat": -23.6577776,
+          "lon": -46.8506496
         },
-        "distancia_km": 48.1,
+        "distancia_km": 44.7,
         "proximo": false
       },
       {
@@ -143,12 +143,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "05/11/2026 11:00:23",
-          "lat": -23.6965104,
-          "lon": -46.8651936
+          "referencia": "0.45 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "05/11/2026 11:14:23",
+          "lat": -23.6577776,
+          "lon": -46.8506496
         },
-        "distancia_km": 48.1,
+        "distancia_km": 44.7,
         "proximo": false
       },
       {
@@ -163,12 +163,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "05/11/2026 11:00:23",
-          "lat": -23.6965104,
-          "lon": -46.8651936
+          "referencia": "0.45 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "05/11/2026 11:14:23",
+          "lat": -23.6577776,
+          "lon": -46.8506496
         },
-        "distancia_km": 48.1,
+        "distancia_km": 44.7,
         "proximo": false
       },
       {
@@ -254,10 +254,10 @@
         "frete_rs": 170.16,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.57 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "05/11/2026 11:01:01",
-          "lat": -28.475072,
-          "lon": -50.8964832
+          "referencia": "7.19 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "05/11/2026 11:15:01",
+          "lat": -28.3433216,
+          "lon": -50.8154016
         },
         "distancia_km": null,
         "proximo": false
@@ -285,12 +285,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.57 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "05/11/2026 11:01:01",
-          "lat": -28.475072,
-          "lon": -50.8964832
+          "referencia": "7.19 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "05/11/2026 11:15:01",
+          "lat": -28.3433216,
+          "lon": -50.8154016
         },
-        "distancia_km": 186.9,
+        "distancia_km": 170.7,
         "proximo": false
       },
       {
@@ -320,12 +320,12 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.67 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 11:01:02",
-          "lat": -27.1876928,
-          "lon": -49.6091008
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 11:15:02",
+          "lat": -27.2057376,
+          "lon": -49.6490464
         },
-        "distancia_km": 4.5,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -340,12 +340,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.57 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "05/11/2026 11:01:01",
-          "lat": -28.475072,
-          "lon": -50.8964832
+          "referencia": "7.19 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "05/11/2026 11:15:01",
+          "lat": -28.3433216,
+          "lon": -50.8154016
         },
-        "distancia_km": 186.9,
+        "distancia_km": 170.7,
         "proximo": false
       }
     ],
@@ -408,7 +408,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 11:00:16",
+          "data_hora_posicao": "05/11/2026 11:14:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -427,12 +427,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.18 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "05/11/2026 10:53:23",
-          "lat": -28.7653066666667,
-          "lon": -51.26672
+          "referencia": "2.63 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "05/11/2026 11:13:23",
+          "lat": -28.8868533333333,
+          "lon": -51.2050133333333
         },
-        "distancia_km": 135.7,
+        "distancia_km": 121.9,
         "proximo": false
       },
       {
@@ -447,12 +447,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.18 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "05/11/2026 10:53:23",
-          "lat": -28.7653066666667,
-          "lon": -51.26672
+          "referencia": "2.63 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "05/11/2026 11:13:23",
+          "lat": -28.8868533333333,
+          "lon": -51.2050133333333
         },
-        "distancia_km": 135.7,
+        "distancia_km": 121.9,
         "proximo": false
       }
     ],
@@ -466,72 +466,6 @@
         "peso_kg": 2350.96,
         "frete_rs": 4398.780000000001,
         "qtde": 2
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074249-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 9518.4,
-        "frete_rs": 12417.35,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024005-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 1702.92,
-        "frete_rs": 1830.5,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044202-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1015.1,
-        "frete_rs": 605.51,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9518.4,
-        "frete_rs": 12417.35,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 1702.92,
-        "frete_rs": 1830.5,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1015.1,
-        "frete_rs": 605.51,
-        "qtde": 1
       }
     }
   },
@@ -549,10 +483,10 @@
         "frete_rs": 4110.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO JUNINHO - PORTO BELO OUTLET - PORTO BELO/SC",
-          "data_hora_posicao": "05/11/2026 10:59:43",
-          "lat": -27.1989258,
-          "lon": -48.6148418
+          "referencia": "0.03 km de CHURRASCARIA MORRETES - TIJUCAS/SC",
+          "data_hora_posicao": "05/11/2026 11:14:25",
+          "lat": -27.3010326,
+          "lon": -48.6325853
         },
         "distancia_km": null,
         "proximo": false
@@ -580,10 +514,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de DICAVE VOLVO - VIDEIRA - VIDEIRA/SC",
-          "data_hora_posicao": "05/11/2026 11:00:56",
-          "lat": -27.0030624,
-          "lon": -51.119296
+          "referencia": "0.56 km de MECÂNICA PANILTO LTDA - VIDEIRA/SC",
+          "data_hora_posicao": "05/11/2026 11:06:56",
+          "lat": -27.0035584,
+          "lon": -51.0741312
         },
         "distancia_km": null,
         "proximo": false
@@ -611,10 +545,10 @@
         "frete_rs": 4894.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.18 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "05/11/2026 10:53:23",
-          "lat": -28.7653066666667,
-          "lon": -51.26672
+          "referencia": "2.63 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "05/11/2026 11:13:23",
+          "lat": -28.8868533333333,
+          "lon": -51.2050133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -628,5 +562,31 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T11:02:41"
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "RSL044202-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1015.1,
+        "frete_rs": 605.51,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 1015.1,
+        "frete_rs": 605.51,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-05T11:17:43"
 }
