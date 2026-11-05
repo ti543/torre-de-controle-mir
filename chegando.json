@@ -14,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 05:45:27",
-          "lat": -27.2058048,
-          "lon": -49.6487232
+          "data_hora_posicao": "05/11/2026 06:01:27",
+          "lat": -27.2058272,
+          "lon": -49.6487328
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -33,12 +33,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.24 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 05:44:38",
-          "lat": -26.38764,
-          "lon": -48.8413088
+          "referencia": "4.77 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
+          "data_hora_posicao": "05/11/2026 06:00:38",
+          "lat": -26.4530208,
+          "lon": -48.9122528
         },
-        "distancia_km": 121.3,
+        "distancia_km": 111.2,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.6 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "05/11/2026 05:46:13",
-          "lat": -25.4230064,
-          "lon": -49.0741056
+          "referencia": "0.31 km de CONCESSIONARIA COTRASA SCANIA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "05/11/2026 06:01:02",
+          "lat": -25.5670464,
+          "lon": -49.1713216
         },
-        "distancia_km": 206.4,
+        "distancia_km": 188.4,
         "proximo": false
       },
       {
@@ -89,9 +89,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 05:45:27",
-          "lat": -27.2058048,
-          "lon": -49.6487232
+          "data_hora_posicao": "05/11/2026 06:01:27",
+          "lat": -27.2058272,
+          "lon": -49.6487328
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -109,9 +109,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 05:45:27",
-          "lat": -27.2058048,
-          "lon": -49.6487232
+          "data_hora_posicao": "05/11/2026 06:01:27",
+          "lat": -27.2058272,
+          "lon": -49.6487328
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -129,7 +129,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 05:45:01",
+          "data_hora_posicao": "05/11/2026 06:01:01",
           "lat": -29.1462112,
           "lon": -51.164768
         },
@@ -190,7 +190,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 05:44:52",
+          "data_hora_posicao": "05/11/2026 06:00:52",
           "lat": -22.8469816666667,
           "lon": -47.1247783333333
         },
@@ -210,9 +210,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 05:46:05",
-          "lat": -22.8465424,
-          "lon": -47.124704
+          "data_hora_posicao": "05/11/2026 06:00:05",
+          "lat": -22.8465616,
+          "lon": -47.1247968
         },
         "distancia_km": null,
         "proximo": false
@@ -230,9 +230,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 05:46:05",
-          "lat": -22.8465424,
-          "lon": -47.124704
+          "data_hora_posicao": "05/11/2026 06:00:05",
+          "lat": -22.8465616,
+          "lon": -47.1247968
         },
         "distancia_km": null,
         "proximo": false
@@ -270,10 +270,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.24 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 05:44:38",
-          "lat": -26.38764,
-          "lon": -48.8413088
+          "referencia": "4.77 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
+          "data_hora_posicao": "05/11/2026 06:00:38",
+          "lat": -26.4530208,
+          "lon": -48.9122528
         },
         "distancia_km": null,
         "proximo": false
@@ -317,9 +317,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 05:46:00",
-          "lat": -26.5536864,
-          "lon": -48.719776
+          "data_hora_posicao": "05/11/2026 06:00:00",
+          "lat": -26.5538656,
+          "lon": -48.7199776
         },
         "distancia_km": 37.1,
         "proximo": false
@@ -336,12 +336,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.64 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "05/11/2026 05:46:16",
-          "lat": -25.6300608,
-          "lon": -49.1638144
+          "referencia": "0.51 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 06:00:16",
+          "lat": -25.7824592,
+          "lon": -49.1209984
         },
-        "distancia_km": 146.6,
+        "distancia_km": 129.2,
         "proximo": false
       },
       {
@@ -382,12 +382,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.64 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "05/11/2026 05:46:16",
-          "lat": -25.6300608,
-          "lon": -49.1638144
+          "referencia": "0.51 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 06:00:16",
+          "lat": -25.7824592,
+          "lon": -49.1209984
         },
-        "distancia_km": 523.3,
+        "distancia_km": 509.3,
         "proximo": false
       },
       {
@@ -403,7 +403,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 05:45:33",
+          "data_hora_posicao": "05/11/2026 06:01:33",
           "lat": -29.9833216,
           "lon": -51.1866432
         },
@@ -422,12 +422,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.03 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 05:44:18",
-          "lat": -27.2801383333333,
-          "lon": -49.7590316666667
+          "referencia": "0.16 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 06:00:21",
+          "lat": -27.2570116666667,
+          "lon": -49.93445
         },
-        "distancia_km": 331.3,
+        "distancia_km": 326.9,
         "proximo": false
       },
       {
@@ -442,12 +442,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.03 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 05:44:18",
-          "lat": -27.2801383333333,
-          "lon": -49.7590316666667
+          "referencia": "0.16 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 06:00:21",
+          "lat": -27.2570116666667,
+          "lon": -49.93445
         },
-        "distancia_km": 331.3,
+        "distancia_km": 326.9,
         "proximo": false
       }
     ],
@@ -478,12 +478,12 @@
         "frete_rs": 8228.37,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 05:46:31",
-          "lat": -25.5269792,
-          "lon": -49.2974816
+          "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 06:01:11",
+          "lat": -25.5276352,
+          "lon": -49.2952992
         },
-        "distancia_km": 0.2,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -499,7 +499,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 05:46:15",
+          "data_hora_posicao": "05/11/2026 06:00:15",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -519,7 +519,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 05:46:15",
+          "data_hora_posicao": "05/11/2026 06:00:15",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -539,7 +539,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 05:46:15",
+          "data_hora_posicao": "05/11/2026 06:00:15",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -579,12 +579,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.23 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:44:36",
-          "lat": -25.2709184,
-          "lon": -48.919664
+          "referencia": "0.06 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 06:00:36",
+          "lat": -25.1211552,
+          "lon": -48.855248
         },
-        "distancia_km": 319.4,
+        "distancia_km": 304.1,
         "proximo": false
       },
       {
@@ -599,12 +599,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.65 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:45:50",
-          "lat": -25.1080336,
-          "lon": -48.787408
+          "referencia": "0.9 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 06:01:18",
+          "lat": -25.0862784,
+          "lon": -48.610016
         },
-        "distancia_km": 297.8,
+        "distancia_km": 282.3,
         "proximo": false
       },
       {
@@ -619,12 +619,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.65 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:45:50",
-          "lat": -25.1080336,
-          "lon": -48.787408
+          "referencia": "0.9 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 06:01:18",
+          "lat": -25.0862784,
+          "lon": -48.610016
         },
-        "distancia_km": 297.8,
+        "distancia_km": 282.3,
         "proximo": false
       },
       {
@@ -639,12 +639,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:46:23",
-          "lat": -25.1234784,
-          "lon": -48.8560672
+          "referencia": "0.71 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "05/11/2026 06:00:23",
+          "lat": -25.1110752,
+          "lon": -48.753488
         },
-        "distancia_km": 304.4,
+        "distancia_km": 295.3,
         "proximo": false
       },
       {
@@ -689,12 +689,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:46:23",
-          "lat": -25.1234784,
-          "lon": -48.8560672
+          "referencia": "0.71 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "05/11/2026 06:00:23",
+          "lat": -25.1110752,
+          "lon": -48.753488
         },
-        "distancia_km": 304.4,
+        "distancia_km": 295.3,
         "proximo": false
       },
       {
@@ -709,12 +709,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 05:46:23",
-          "lat": -25.1234784,
-          "lon": -48.8560672
+          "referencia": "0.71 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "05/11/2026 06:00:23",
+          "lat": -25.1110752,
+          "lon": -48.753488
         },
-        "distancia_km": 304.4,
+        "distancia_km": 295.3,
         "proximo": false
       },
       {
@@ -796,7 +796,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 05:45:01",
+          "data_hora_posicao": "05/11/2026 06:01:01",
           "lat": -29.1462112,
           "lon": -51.164768
         },
@@ -815,10 +815,10 @@
         "frete_rs": 4894.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.03 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 05:44:18",
-          "lat": -27.2801383333333,
-          "lon": -49.7590316666667
+          "referencia": "0.16 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 06:00:21",
+          "lat": -27.2570116666667,
+          "lon": -49.93445
         },
         "distancia_km": null,
         "proximo": false
@@ -851,10 +851,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.38 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "05/11/2026 05:41:18",
-          "lat": -27.2677376,
-          "lon": -50.0608256
+          "referencia": "11.02 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 05:51:18",
+          "lat": -27.3027328,
+          "lon": -50.082944
         },
         "distancia_km": null,
         "proximo": false
@@ -882,10 +882,10 @@
         "frete_rs": 4079.82,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.03 km de RESTAURANTE IRELE - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 05:44:18",
-          "lat": -27.2801383333333,
-          "lon": -49.7590316666667
+          "referencia": "0.16 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 06:00:21",
+          "lat": -27.2570116666667,
+          "lon": -49.93445
         },
         "distancia_km": null,
         "proximo": false
@@ -899,5 +899,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T05:47:34"
+  "_gerado_em": "2026-11-05T06:02:40"
 }
