@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 14:31:01",
+          "data_hora_posicao": "05/11/2026 14:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 14:31:01",
+          "data_hora_posicao": "05/11/2026 14:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 14:31:01",
+          "data_hora_posicao": "05/11/2026 14:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -100,12 +100,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.44 km de HOTEL MEURER - BIGUACU/SC",
-          "data_hora_posicao": "05/11/2026 14:30:18",
-          "lat": -27.4854928,
-          "lon": -48.7141635
+          "referencia": "1.61 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
+          "data_hora_posicao": "05/11/2026 14:46:05",
+          "lat": -27.3511095,
+          "lon": -48.6325406
         },
-        "distancia_km": 66.5,
+        "distancia_km": 52.3,
         "proximo": false
       }
     ],
@@ -158,7 +158,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 14:30:16",
+          "data_hora_posicao": "05/11/2026 14:46:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -177,12 +177,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 14:30:41",
-          "lat": -29.1365666666667,
-          "lon": -51.19757
+          "referencia": "0.34 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 14:46:22",
+          "lat": -29.1407516666667,
+          "lon": -51.2274833333333
         },
-        "distancia_km": 94.2,
+        "distancia_km": 93.8,
         "proximo": false
       },
       {
@@ -197,12 +197,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 14:30:41",
-          "lat": -29.1365666666667,
-          "lon": -51.19757
+          "referencia": "0.34 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 14:46:22",
+          "lat": -29.1407516666667,
+          "lon": -51.2274833333333
         },
-        "distancia_km": 94.2,
+        "distancia_km": 93.8,
         "proximo": false
       }
     ],
@@ -294,10 +294,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.31 km de RESTAURANTE PARADA 26 - LEBON REGIS/SC",
-          "data_hora_posicao": "05/11/2026 14:30:06",
-          "lat": -26.8369696,
-          "lon": -50.8782816
+          "referencia": "2.83 km de POSTO  CURY - CACADOR/SC",
+          "data_hora_posicao": "05/11/2026 14:46:27",
+          "lat": -26.7546304,
+          "lon": -50.9918208
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +337,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T14:32:44"
+  "_gerado_em": "2026-11-05T14:47:47"
 }
