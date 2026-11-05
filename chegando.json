@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:31:01",
+          "data_hora_posicao": "05/11/2026 16:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:31:01",
+          "data_hora_posicao": "05/11/2026 16:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:31:01",
+          "data_hora_posicao": "05/11/2026 16:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -100,12 +100,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.67 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "05/11/2026 16:30:01",
-          "lat": -27.1297511,
-          "lon": -48.6162621
+          "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "05/11/2026 16:46:35",
+          "lat": -27.133225,
+          "lon": -48.6121973
         },
-        "distancia_km": 28.9,
+        "distancia_km": 29.4,
         "proximo": true
       }
     ],
@@ -158,7 +158,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 16:30:16",
+          "data_hora_posicao": "05/11/2026 16:46:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -177,13 +177,13 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de POSTO SIM PORTAO RS - PORTAO/RS",
-          "data_hora_posicao": "05/11/2026 16:30:22",
-          "lat": -29.6995066666667,
-          "lon": -51.216445
+          "referencia": "0.6 km de CARREFOUR - CENTRO DE DISTRIBUICAO - ESTEIO/RS",
+          "data_hora_posicao": "05/11/2026 16:46:37",
+          "lat": -29.8297766666667,
+          "lon": -51.1764066666667
         },
-        "distancia_km": 31.7,
-        "proximo": false
+        "distancia_km": 17.1,
+        "proximo": true
       },
       {
         "manif": "RSL044198-8",
@@ -197,13 +197,13 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de POSTO SIM PORTAO RS - PORTAO/RS",
-          "data_hora_posicao": "05/11/2026 16:30:22",
-          "lat": -29.6995066666667,
-          "lon": -51.216445
+          "referencia": "0.6 km de CARREFOUR - CENTRO DE DISTRIBUICAO - ESTEIO/RS",
+          "data_hora_posicao": "05/11/2026 16:46:37",
+          "lat": -29.8297766666667,
+          "lon": -51.1764066666667
         },
-        "distancia_km": 31.7,
-        "proximo": false
+        "distancia_km": 17.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -294,10 +294,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO DELTA 280 - PORTO UNIAO/SC",
-          "data_hora_posicao": "05/11/2026 16:30:56",
-          "lat": -26.28456,
-          "lon": -51.0233504
+          "referencia": "5.17 km de POSTO DELTA 280 - PORTO UNIAO/SC",
+          "data_hora_posicao": "05/11/2026 16:34:56",
+          "lat": -26.2881712,
+          "lon": -50.980288
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +337,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T16:32:37"
+  "_gerado_em": "2026-11-05T16:47:40"
 }
