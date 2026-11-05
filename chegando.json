@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.72 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "05/11/2026 20:14:52",
+          "data_hora_posicao": "05/11/2026 20:30:52",
           "lat": -27.0965788,
           "lon": -48.9307448
         },
@@ -33,12 +33,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.02 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "05/11/2026 20:14:57",
-          "lat": -26.10842,
-          "lon": -48.8731733333333
+          "referencia": "0.8 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
+          "data_hora_posicao": "05/11/2026 20:30:57",
+          "lat": -26.2734533333333,
+          "lon": -48.894155
         },
-        "distancia_km": 87.9,
+        "distancia_km": 70.4,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de BALANÇA - TERRA DE AREIA/RS",
-          "data_hora_posicao": "05/11/2026 20:15:34",
-          "lat": -29.6087104,
-          "lon": -50.0867456
+          "referencia": "1.09 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "05/11/2026 20:29:34",
+          "lat": -29.5005888,
+          "lon": -49.9785184
         },
-        "distancia_km": 330.8,
+        "distancia_km": 315.6,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "05/11/2026 20:16:01",
-          "lat": -26.9512352,
-          "lon": -49.369808
+          "referencia": "0.2 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "05/11/2026 20:30:38",
+          "lat": -26.8889056,
+          "lon": -49.253728
         },
-        "distancia_km": 64.7,
+        "distancia_km": 52.8,
         "proximo": false
       }
     ],
@@ -108,26 +108,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010359-4",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 2794.74,
-        "frete_rs": 7229.04,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.31 km de 1ª DELEGACIA PRF - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 20:15:02",
-          "lat": -23.4708033333333,
-          "lon": -46.5160966666667
-        },
-        "distancia_km": 5.5,
-        "proximo": true
-      },
-      {
         "manif": "CTB013558-5",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -140,9 +120,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 20:16:11",
-          "lat": -25.3506,
-          "lon": -49.0601728
+          "data_hora_posicao": "05/11/2026 20:31:11",
+          "lat": -25.350544,
+          "lon": -49.0602656
         },
         "distancia_km": 336.0,
         "proximo": false
@@ -160,7 +140,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:16:00",
+          "data_hora_posicao": "05/11/2026 20:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -180,7 +160,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:16:00",
+          "data_hora_posicao": "05/11/2026 20:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -199,12 +179,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "05/11/2026 20:16:01",
-          "lat": -26.9512352,
-          "lon": -49.369808
+          "referencia": "0.2 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "05/11/2026 20:30:38",
+          "lat": -26.8889056,
+          "lon": -49.253728
         },
-        "distancia_km": 485.1,
+        "distancia_km": 472.6,
         "proximo": false
       },
       {
@@ -220,7 +200,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 20:15:03",
+          "data_hora_posicao": "05/11/2026 20:31:03",
           "lat": -27.2058656,
           "lon": -49.6490368
         },
@@ -229,11 +209,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 2794.74,
-        "frete_rs": 7229.04,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 16625.57,
         "frete_rs": 13624.12,
@@ -265,12 +240,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.02 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "05/11/2026 20:14:57",
-          "lat": -26.10842,
-          "lon": -48.8731733333333
+          "referencia": "0.8 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
+          "data_hora_posicao": "05/11/2026 20:30:57",
+          "lat": -26.2734533333333,
+          "lon": -48.894155
         },
-        "distancia_km": 144.4,
+        "distancia_km": 128.0,
         "proximo": false
       },
       {
@@ -285,12 +260,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.72 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "05/11/2026 20:16:19",
-          "lat": -27.2551968,
-          "lon": -49.9439232
+          "referencia": "3.23 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 20:31:01",
+          "lat": -27.2781664,
+          "lon": -49.8373024
         },
-        "distancia_km": 29.6,
+        "distancia_km": 20.2,
         "proximo": true
       },
       {
@@ -305,12 +280,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.72 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "05/11/2026 20:16:19",
-          "lat": -27.2551968,
-          "lon": -49.9439232
+          "referencia": "3.23 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 20:31:01",
+          "lat": -27.2781664,
+          "lon": -49.8373024
         },
-        "distancia_km": 29.6,
+        "distancia_km": 20.2,
         "proximo": true
       },
       {
@@ -325,12 +300,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.72 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "05/11/2026 20:16:19",
-          "lat": -27.2551968,
-          "lon": -49.9439232
+          "referencia": "3.23 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 20:31:01",
+          "lat": -27.2781664,
+          "lon": -49.8373024
         },
-        "distancia_km": 29.6,
+        "distancia_km": 20.2,
         "proximo": true
       },
       {
@@ -413,7 +388,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:16:16",
+          "data_hora_posicao": "05/11/2026 20:30:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -433,7 +408,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 20:15:36",
+          "data_hora_posicao": "05/11/2026 20:29:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -453,7 +428,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 20:15:36",
+          "data_hora_posicao": "05/11/2026 20:29:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -489,7 +464,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 20:14:56",
+          "data_hora_posicao": "05/11/2026 20:30:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -505,5 +480,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T20:17:36"
+  "_gerado_em": "2026-11-05T20:32:34"
 }
