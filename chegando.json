@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:45:01",
+          "data_hora_posicao": "05/11/2026 14:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -45,26 +45,11 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:45:01",
+          "data_hora_posicao": "05/11/2026 14:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
         "distancia_km": 98.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074250-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 11573.66,
-        "frete_rs": 18918.3,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
         "proximo": false
       },
       {
@@ -80,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:45:01",
+          "data_hora_posicao": "05/11/2026 14:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -92,11 +77,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 812.86,
         "frete_rs": 2175.95,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 11573.66,
-        "frete_rs": 18918.3,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -147,7 +127,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 13:46:16",
+          "data_hora_posicao": "05/11/2026 14:00:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -167,7 +147,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:45:11",
+          "data_hora_posicao": "05/11/2026 13:59:41",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -187,7 +167,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:45:11",
+          "data_hora_posicao": "05/11/2026 13:59:41",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -269,37 +249,6 @@
       }
     }
   },
-  "FLN": {
-    "veiculos": [
-      {
-        "manif": "ITJ024008-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "FLN",
-        "dest_city": "PALHOCA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 5544.99,
-        "frete_rs": 4110.91,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "05/11/2026 13:44:18",
-          "lat": -27.6742621,
-          "lon": -48.6980335
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5544.99,
-        "frete_rs": 4110.91,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -314,10 +263,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.33 km de MECÂNICA E AUTO ELÉTRICA FARIAS - SANTA CECILIA/SC",
-          "data_hora_posicao": "05/11/2026 13:40:02",
-          "lat": -26.941472,
-          "lon": -50.4295264
+          "referencia": "4.61 km de RESTAURANTE BOA VISTA - SANTA CECILIA/SC",
+          "data_hora_posicao": "05/11/2026 13:51:18",
+          "lat": -26.9213952,
+          "lon": -50.48896
         },
         "distancia_km": null,
         "proximo": false
@@ -357,5 +306,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T13:47:43"
+  "_gerado_em": "2026-11-05T14:02:43"
 }
