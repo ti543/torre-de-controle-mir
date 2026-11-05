@@ -13,12 +13,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.17 km de ESTACIONAMENTO PATIO-BR - JUQUIA/SP",
-          "data_hora_posicao": "04/11/2026 22:59:45",
-          "lat": -24.3304288,
-          "lon": -47.6253152
+          "referencia": "0.1 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 23:15:45",
+          "lat": -24.2740512,
+          "lon": -47.4092832
         },
-        "distancia_km": 152.1,
+        "distancia_km": 131.4,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:00:36",
+          "data_hora_posicao": "04/11/2026 23:16:36",
           "lat": -26.8874336,
           "lon": -48.7211328
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:01:04",
+          "data_hora_posicao": "04/11/2026 23:15:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:01:04",
+          "data_hora_posicao": "04/11/2026 23:15:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:00:23",
+          "data_hora_posicao": "04/11/2026 23:16:23",
           "lat": -26.88768,
           "lon": -48.7206272
         },
@@ -114,7 +114,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:00:23",
+          "data_hora_posicao": "04/11/2026 23:16:23",
           "lat": -26.88768,
           "lon": -48.7206272
         },
@@ -205,8 +205,8 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 23:01:26",
-          "lat": -26.8874144,
+          "data_hora_posicao": "04/11/2026 23:15:26",
+          "lat": -26.8874048,
           "lon": -48.721184
         },
         "distancia_km": 98.5,
@@ -224,12 +224,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.49 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "04/11/2026 23:00:38",
-          "lat": -23.9798336,
-          "lon": -47.1452512
+          "referencia": "0.52 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 23:06:38",
+          "lat": -24.0306608,
+          "lon": -47.1791648
         },
-        "distancia_km": 437.9,
+        "distancia_km": 431.3,
         "proximo": false
       },
       {
@@ -259,12 +259,52 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 23:01:02",
-          "lat": -23.470464,
-          "lon": -46.4620832
+          "referencia": "0.36 km de FILIAL EXCELLENCE - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 23:16:14",
+          "lat": -23.4785312,
+          "lon": -46.4609312
         },
-        "distancia_km": 524.5,
+        "distancia_km": 523.9,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023996-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1499.26,
+        "frete_rs": 1723.78,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 23:15:26",
+          "lat": -26.8874048,
+          "lon": -48.721184
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ023997-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 266.1,
+        "frete_rs": 370.01,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 23:15:26",
+          "lat": -26.8874048,
+          "lon": -48.721184
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -280,7 +320,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 23:01:01",
+          "data_hora_posicao": "04/11/2026 23:15:01",
           "lat": -29.1462112,
           "lon": -51.1647808
         },
@@ -298,6 +338,11 @@
         "peso_kg": 29584.18,
         "frete_rs": 37442.47,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 1765.3600000000001,
+        "frete_rs": 2093.79,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 6749.65,
@@ -335,10 +380,10 @@
         "frete_rs": 4902.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de BALANÇA (SP 348) - JUNDIAI/SP",
-          "data_hora_posicao": "04/11/2026 23:00:58",
-          "lat": -23.19193,
-          "lon": -46.9306316666667
+          "referencia": "1.28 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "04/11/2026 23:16:02",
+          "lat": -23.0183916666667,
+          "lon": -47.0804383333333
         },
         "distancia_km": null,
         "proximo": false
@@ -355,10 +400,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.65 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 23:00:05",
-          "lat": -24.4279568,
-          "lon": -47.7836672
+          "referencia": "1.03 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 23:16:05",
+          "lat": -24.3308944,
+          "lon": -47.613504
         },
         "distancia_km": null,
         "proximo": false
@@ -375,10 +420,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.65 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "04/11/2026 23:00:05",
-          "lat": -24.4279568,
-          "lon": -47.7836672
+          "referencia": "1.03 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "04/11/2026 23:16:05",
+          "lat": -24.3308944,
+          "lon": -47.613504
         },
         "distancia_km": null,
         "proximo": false
@@ -416,10 +461,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.49 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "04/11/2026 23:00:38",
-          "lat": -23.9798336,
-          "lon": -47.1452512
+          "referencia": "0.52 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 23:06:38",
+          "lat": -24.0306608,
+          "lon": -47.1791648
         },
         "distancia_km": null,
         "proximo": false
@@ -462,12 +507,12 @@
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.6 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "04/11/2026 22:54:00",
-          "lat": -24.0302368,
-          "lon": -47.178448
+          "referencia": "0.1 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "04/11/2026 23:16:00",
+          "lat": -24.1589488,
+          "lon": -47.3269664
         },
-        "distancia_km": 353.4,
+        "distancia_km": 334.1,
         "proximo": false
       },
       {
@@ -482,12 +527,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 23:00:16",
-          "lat": -23.8568592,
-          "lon": -46.9420736
+          "referencia": "1.36 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 23:16:16",
+          "lat": -23.9380608,
+          "lon": -47.0839936
         },
-        "distancia_km": 381.4,
+        "distancia_km": 366.9,
         "proximo": false
       },
       {
@@ -517,13 +562,13 @@
         "frete_rs": 904.62,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.79 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 23:00:34",
-          "lat": -26.8601566666667,
-          "lon": -49.07878
+          "referencia": "1.12 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 23:16:34",
+          "lat": -26.8939483333333,
+          "lon": -48.9160266666667
         },
-        "distancia_km": 35.6,
-        "proximo": false
+        "distancia_km": 19.3,
+        "proximo": true
       },
       {
         "manif": "TBO016332-5",
@@ -573,12 +618,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 23:00:16",
-          "lat": -23.8568592,
-          "lon": -46.9420736
+          "referencia": "1.36 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 23:16:16",
+          "lat": -23.9380608,
+          "lon": -47.0839936
         },
-        "distancia_km": 800.5,
+        "distancia_km": 785.4,
         "proximo": false
       },
       {
@@ -594,7 +639,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 23:01:33",
+          "data_hora_posicao": "04/11/2026 23:15:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -629,12 +674,12 @@
         "frete_rs": 8228.37,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 23:01:11",
-          "lat": -23.515712,
-          "lon": -46.658656
+          "referencia": "0.67 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "04/11/2026 23:16:01",
+          "lat": -23.5095456,
+          "lon": -46.8074496
         },
-        "distancia_km": 348.1,
+        "distancia_km": 337.2,
         "proximo": false
       },
       {
@@ -649,12 +694,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.79 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 23:00:34",
-          "lat": -26.8601566666667,
-          "lon": -49.07878
+          "referencia": "1.12 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 23:16:34",
+          "lat": -26.8939483333333,
+          "lon": -48.9160266666667
         },
-        "distancia_km": 149.7,
+        "distancia_km": 156.6,
         "proximo": false
       },
       {
@@ -669,12 +714,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.79 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "04/11/2026 23:00:34",
-          "lat": -26.8601566666667,
-          "lon": -49.07878
+          "referencia": "1.12 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "04/11/2026 23:16:34",
+          "lat": -26.8939483333333,
+          "lon": -48.9160266666667
         },
-        "distancia_km": 149.7,
+        "distancia_km": 156.6,
         "proximo": false
       }
     ],
@@ -706,7 +751,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 23:01:01",
+          "data_hora_posicao": "04/11/2026 23:15:01",
           "lat": -29.1462112,
           "lon": -51.1647808
         },
@@ -722,5 +767,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T23:02:41"
+  "_gerado_em": "2026-11-04T23:17:36"
 }
