@@ -14,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 07:59:27",
-          "lat": -27.2059584,
-          "lon": -49.6497152
+          "data_hora_posicao": "05/11/2026 08:15:27",
+          "lat": -27.2059872,
+          "lon": -49.649712
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -33,10 +33,10 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "05/11/2026 08:00:38",
-          "lat": -26.8751136,
-          "lon": -49.2362944
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "05/11/2026 08:16:38",
+          "lat": -26.8423584,
+          "lon": -49.2724416
         },
         "distancia_km": 55.1,
         "proximo": false
@@ -89,9 +89,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 07:59:27",
-          "lat": -27.2059584,
-          "lon": -49.6497152
+          "data_hora_posicao": "05/11/2026 08:15:27",
+          "lat": -27.2059872,
+          "lon": -49.649712
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -109,9 +109,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 07:59:27",
-          "lat": -27.2059584,
-          "lon": -49.6497152
+          "data_hora_posicao": "05/11/2026 08:15:27",
+          "lat": -27.2059872,
+          "lon": -49.649712
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -128,10 +128,10 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 08:01:01",
-          "lat": -29.1462848,
-          "lon": -51.1648512
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 08:15:01",
+          "lat": -29.1464576,
+          "lon": -51.1647936
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -200,10 +200,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "05/11/2026 08:00:38",
-          "lat": -26.8751136,
-          "lon": -49.2362944
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "05/11/2026 08:16:38",
+          "lat": -26.8423584,
+          "lon": -49.2724416
         },
         "distancia_km": null,
         "proximo": false
@@ -222,6 +222,21 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044202-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1015.1,
+        "frete_rs": 605.51,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -229,6 +244,11 @@
         "peso_kg": 17764.92,
         "frete_rs": 17467.14,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 1015.1,
+        "frete_rs": 605.51,
+        "qtde": 1
       }
     }
   },
@@ -247,7 +267,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 08:00:00",
+          "data_hora_posicao": "05/11/2026 08:16:00",
           "lat": -26.8879328,
           "lon": -48.7206304
         },
@@ -266,13 +286,13 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.38 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 08:00:16",
-          "lat": -26.5950352,
-          "lon": -48.7224512
+          "referencia": "1 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "05/11/2026 08:16:16",
+          "lat": -26.7526784,
+          "lon": -48.691232
         },
-        "distancia_km": 32.5,
-        "proximo": false
+        "distancia_km": 15.3,
+        "proximo": true
       },
       {
         "manif": "GRU074248-1",
@@ -312,33 +332,13 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.38 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 08:00:16",
-          "lat": -26.5950352,
-          "lon": -48.7224512
+          "referencia": "1 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "05/11/2026 08:16:16",
+          "lat": -26.7526784,
+          "lon": -48.691232
         },
-        "distancia_km": 447.4,
+        "distancia_km": 434.3,
         "proximo": false
-      },
-      {
-        "manif": "RSL044164-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1727.6,
-        "frete_rs": 926.39,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 07:59:33",
-          "lat": -29.9833216,
-          "lon": -51.1866432
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "RSL044197-0",
@@ -353,9 +353,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 07:59:58",
-          "lat": -27.82379,
-          "lon": -50.362795
+          "data_hora_posicao": "05/11/2026 08:16:08",
+          "lat": -27.823795,
+          "lon": -50.3627883333333
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -373,9 +373,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 07:59:58",
-          "lat": -27.82379,
-          "lon": -50.362795
+          "data_hora_posicao": "05/11/2026 08:16:08",
+          "lat": -27.823795,
+          "lon": -50.3627883333333
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -388,9 +388,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 4078.56,
-        "frete_rs": 5325.17,
-        "qtde": 3
+        "peso_kg": 2350.96,
+        "frete_rs": 4398.780000000001,
+        "qtde": 2
       }
     }
   },
@@ -408,12 +408,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.36 km de POSTO CAJATI - CAJATI/SP",
-          "data_hora_posicao": "05/11/2026 08:00:36",
-          "lat": -24.7423456,
-          "lon": -48.1298624
+          "referencia": "0.6 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "05/11/2026 08:14:36",
+          "lat": -24.6725744,
+          "lon": -47.9788832
         },
-        "distancia_km": 220.6,
+        "distancia_km": 203.9,
         "proximo": false
       },
       {
@@ -428,12 +428,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.27 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "05/11/2026 08:01:04",
-          "lat": -24.5727408,
-          "lon": -47.8815168
+          "referencia": "1.85 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:15:04",
+          "lat": -24.4331088,
+          "lon": -47.7891936
         },
-        "distancia_km": 189.2,
+        "distancia_km": 172.2,
         "proximo": false
       },
       {
@@ -448,12 +448,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.27 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "05/11/2026 08:01:04",
-          "lat": -24.5727408,
-          "lon": -47.8815168
+          "referencia": "1.85 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:15:04",
+          "lat": -24.4331088,
+          "lon": -47.7891936
         },
-        "distancia_km": 189.2,
+        "distancia_km": 172.2,
         "proximo": false
       },
       {
@@ -468,12 +468,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "05/11/2026 07:50:23",
-          "lat": -24.7855664,
-          "lon": -48.174992
+          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "05/11/2026 08:14:23",
+          "lat": -24.681528,
+          "lon": -47.9839616
         },
-        "distancia_km": 227.1,
+        "distancia_km": 204.9,
         "proximo": false
       },
       {
@@ -518,12 +518,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "05/11/2026 07:50:23",
-          "lat": -24.7855664,
-          "lon": -48.174992
+          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "05/11/2026 08:14:23",
+          "lat": -24.681528,
+          "lon": -47.9839616
         },
-        "distancia_km": 227.1,
+        "distancia_km": 204.9,
         "proximo": false
       },
       {
@@ -538,12 +538,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "05/11/2026 07:50:23",
-          "lat": -24.7855664,
-          "lon": -48.174992
+          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "05/11/2026 08:14:23",
+          "lat": -24.681528,
+          "lon": -47.9839616
         },
-        "distancia_km": 227.1,
+        "distancia_km": 204.9,
         "proximo": false
       },
       {
@@ -624,12 +624,12 @@
         "frete_rs": 1968.16,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 08:00:25",
-          "lat": -26.7759933333333,
-          "lon": -48.6856133333333
+          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 08:16:25",
+          "lat": -26.6095283333333,
+          "lon": -48.7224766666667
         },
-        "distancia_km": 151.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -644,12 +644,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 08:00:25",
-          "lat": -26.7759933333333,
-          "lon": -48.6856133333333
+          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 08:16:25",
+          "lat": -26.6095283333333,
+          "lon": -48.7224766666667
         },
-        "distancia_km": 151.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -664,12 +664,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 08:00:25",
-          "lat": -26.7759933333333,
-          "lon": -48.6856133333333
+          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 08:16:25",
+          "lat": -26.6095283333333,
+          "lon": -48.7224766666667
         },
-        "distancia_km": 151.6,
+        "distancia_km": 133.2,
         "proximo": false
       }
     ],
@@ -700,10 +700,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.72 km de BRF UNIDADE DE CAMPOS NOVOS - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "05/11/2026 07:57:55",
-          "lat": -27.362768,
-          "lon": -51.3072256
+          "referencia": "1.88 km de POSTO PIOVESAN (SAL GROSSO) - ERVAL VELHO/SC",
+          "data_hora_posicao": "05/11/2026 08:15:19",
+          "lat": -27.2605184,
+          "lon": -51.4424448
         },
         "distancia_km": null,
         "proximo": false
@@ -732,9 +732,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 07:59:58",
-          "lat": -27.82379,
-          "lon": -50.362795
+          "data_hora_posicao": "05/11/2026 08:16:08",
+          "lat": -27.823795,
+          "lon": -50.3627883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -763,9 +763,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 07:59:58",
-          "lat": -27.82379,
-          "lon": -50.362795
+          "data_hora_posicao": "05/11/2026 08:16:08",
+          "lat": -27.823795,
+          "lon": -50.3627883333333
         },
         "distancia_km": null,
         "proximo": false
@@ -779,5 +779,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T08:02:45"
+  "_gerado_em": "2026-11-05T08:17:45"
 }
