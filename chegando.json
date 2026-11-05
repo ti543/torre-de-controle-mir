@@ -13,12 +13,12 @@
         "frete_rs": 10893.63,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "5.14 km de VALLE DORO - ILHOTA/SC",
-          "data_hora_posicao": "05/11/2026 19:30:07",
-          "lat": -26.9936508,
-          "lon": -48.814899
+          "referencia": "0.25 km de BPM - BRUSQUE / SC - BRUSQUE/SC",
+          "data_hora_posicao": "05/11/2026 19:45:07",
+          "lat": -27.069408,
+          "lon": -48.8810861
         },
-        "distancia_km": 15.0,
+        "distancia_km": 25.7,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 19:30:22",
-          "lat": -25.82625,
-          "lon": -49.121735
+          "referencia": "0.64 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
+          "data_hora_posicao": "05/11/2026 19:45:34",
+          "lat": -25.8520016666667,
+          "lon": -48.9709483333333
         },
-        "distancia_km": 124.6,
+        "distancia_km": 117.8,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.19 km de PEDAGIO - S. A. DA PATRULHA (BR 290 SENTIDO LITORAL) - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "05/11/2026 19:29:34",
-          "lat": -29.8898944,
-          "lon": -50.4711776
+          "referencia": "0.23 km de POSTO CHARÃO - OSORIO/RS",
+          "data_hora_posicao": "05/11/2026 19:45:34",
+          "lat": -29.8936896,
+          "lon": -50.2835392
         },
-        "distancia_km": 375.2,
+        "distancia_km": 367.5,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.26 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "05/11/2026 19:31:14",
-          "lat": -27.1579104,
-          "lon": -49.5564768
+          "referencia": "1.67 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "05/11/2026 19:46:11",
+          "lat": -27.081616,
+          "lon": -49.5003424
         },
-        "distancia_km": 88.0,
+        "distancia_km": 80.2,
         "proximo": false
       }
     ],
@@ -119,13 +119,13 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO SHELL - ATIBAIA/SP",
-          "data_hora_posicao": "05/11/2026 19:30:40",
-          "lat": -23.1778,
-          "lon": -46.5794133333333
+          "referencia": "1.14 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
+          "data_hora_posicao": "05/11/2026 19:44:40",
+          "lat": -23.2897383333333,
+          "lon": -46.5837716666667
         },
-        "distancia_km": 34.7,
-        "proximo": false
+        "distancia_km": 23.6,
+        "proximo": true
       },
       {
         "manif": "CTB013558-5",
@@ -139,12 +139,52 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.44 km de PATIO 201 CAMINHOES E CARRETAS - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:31:11",
-          "lat": -25.507984,
-          "lon": -49.2848704
+          "referencia": "0.45 km de ZANOTELLI TRANSPORTES E LOGISTICA LTDA - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 19:46:33",
+          "lat": -25.4351136,
+          "lon": -49.2334528
         },
-        "distancia_km": 364.5,
+        "distancia_km": 355.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024010-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 20305.78,
+        "frete_rs": 20319.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 19:46:00",
+          "lat": -26.8873952,
+          "lon": -48.7211616
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024011-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 4085.49,
+        "frete_rs": 6876.14,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 19:46:00",
+          "lat": -26.8873952,
+          "lon": -48.7211616
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -159,12 +199,32 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.26 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "05/11/2026 19:31:14",
-          "lat": -27.1579104,
-          "lon": -49.5564768
+          "referencia": "1.67 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "05/11/2026 19:46:11",
+          "lat": -27.081616,
+          "lon": -49.5003424
         },
-        "distancia_km": 514.6,
+        "distancia_km": 504.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044218-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 29611.3,
+        "frete_rs": 19427.57,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:45:03",
+          "lat": -27.2058656,
+          "lon": -49.6490368
+        },
+        "distancia_km": 524.4,
         "proximo": false
       }
     ],
@@ -179,10 +239,15 @@
         "frete_rs": 13624.12,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 24391.269999999997,
+        "frete_rs": 27195.17,
+        "qtde": 2
+      },
       "Rio do Sul": {
-        "peso_kg": 14121.7,
-        "frete_rs": 7752.59,
-        "qtde": 1
+        "peso_kg": 43733.0,
+        "frete_rs": 27180.16,
+        "qtde": 2
       }
     }
   },
@@ -200,12 +265,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 19:30:22",
-          "lat": -25.82625,
-          "lon": -49.121735
+          "referencia": "0.64 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
+          "data_hora_posicao": "05/11/2026 19:45:34",
+          "lat": -25.8520016666667,
+          "lon": -48.9709483333333
         },
-        "distancia_km": 162.2,
+        "distancia_km": 165.0,
         "proximo": false
       },
       {
@@ -220,12 +285,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:29:25",
-          "lat": -27.3015552,
-          "lon": -50.2164224
+          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:43:26",
+          "lat": -27.3086208,
+          "lon": -50.1331456
         },
-        "distancia_km": 57.0,
+        "distancia_km": 49.1,
         "proximo": false
       },
       {
@@ -240,12 +305,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:29:25",
-          "lat": -27.3015552,
-          "lon": -50.2164224
+          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:43:26",
+          "lat": -27.3086208,
+          "lon": -50.1331456
         },
-        "distancia_km": 57.0,
+        "distancia_km": 49.1,
         "proximo": false
       },
       {
@@ -260,12 +325,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:29:25",
-          "lat": -27.3015552,
-          "lon": -50.2164224
+          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:43:26",
+          "lat": -27.3086208,
+          "lon": -50.1331456
         },
-        "distancia_km": 57.0,
+        "distancia_km": 49.1,
         "proximo": false
       },
       {
@@ -348,7 +413,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:30:58",
+          "data_hora_posicao": "05/11/2026 19:46:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -368,9 +433,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:30:35",
-          "lat": -29.983375,
-          "lon": -51.1866233333333
+          "data_hora_posicao": "05/11/2026 19:46:34",
+          "lat": -29.9834033333333,
+          "lon": -51.186615
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -388,9 +453,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:30:35",
-          "lat": -29.983375,
-          "lon": -51.1866233333333
+          "data_hora_posicao": "05/11/2026 19:46:34",
+          "lat": -29.9834033333333,
+          "lon": -51.186615
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -424,7 +489,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 19:30:56",
+          "data_hora_posicao": "05/11/2026 19:44:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -440,5 +505,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T19:32:38"
+  "_gerado_em": "2026-11-05T19:47:35"
 }
