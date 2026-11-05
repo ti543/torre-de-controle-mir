@@ -1,35 +1,4 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002235-7",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 137.0,
-        "frete_rs": 170.16,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 17:31:01",
-          "lat": -27.8238528,
-          "lon": -50.3627392
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 137.0,
-        "frete_rs": 170.16,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -44,10 +13,10 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 17:31:01",
-          "lat": -27.8238528,
-          "lon": -50.3627392
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "05/11/2026 17:45:01",
+          "lat": -27.8238272,
+          "lon": -50.3625664
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -64,10 +33,10 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 17:31:01",
-          "lat": -27.8238528,
-          "lon": -50.3627392
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "05/11/2026 17:45:01",
+          "lat": -27.8238272,
+          "lon": -50.3625664
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -100,12 +69,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "05/11/2026 17:30:35",
-          "lat": -27.133225,
-          "lon": -48.6121973
+          "referencia": "0.28 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "05/11/2026 17:46:00",
+          "lat": -27.0808696,
+          "lon": -48.6007753
         },
-        "distancia_km": 29.4,
+        "distancia_km": 24.6,
         "proximo": true
       }
     ],
@@ -158,7 +127,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 17:30:16",
+          "data_hora_posicao": "05/11/2026 17:46:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -178,7 +147,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 17:30:36",
+          "data_hora_posicao": "05/11/2026 17:46:36",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -198,7 +167,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 17:30:36",
+          "data_hora_posicao": "05/11/2026 17:46:36",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -294,10 +263,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de 3º BATALHÃO DE POLÍCIA MILITAR - CANOINHAS/SC",
-          "data_hora_posicao": "05/11/2026 17:30:56",
-          "lat": -26.1790928,
-          "lon": -50.3954816
+          "referencia": "1.46 km de MILI S A - TRES BARRAS/SC",
+          "data_hora_posicao": "05/11/2026 17:46:40",
+          "lat": -26.1507472,
+          "lon": -50.3663328
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +306,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T17:32:41"
+  "_gerado_em": "2026-11-05T17:47:51"
 }
