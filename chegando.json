@@ -13,10 +13,10 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:45:27",
-          "lat": -27.2058176,
-          "lon": -49.6486976
+          "referencia": "0.06 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 07:01:27",
+          "lat": -27.2058304,
+          "lon": -49.6486944
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -33,12 +33,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -26.762688,
-          "lon": -49.0771712
+          "referencia": "1.67 km de COLETA EUDORA SC - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 07:00:38",
+          "lat": -26.8298144,
+          "lon": -49.0904128
         },
-        "distancia_km": 75.2,
+        "distancia_km": 69.4,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.58 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "05/11/2026 06:45:02",
-          "lat": -25.8775088,
-          "lon": -48.935456
+          "referencia": "0.21 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 07:01:02",
+          "lat": -26.0502896,
+          "lon": -48.8596352
         },
-        "distancia_km": 163.9,
+        "distancia_km": 150.6,
         "proximo": false
       },
       {
@@ -88,10 +88,10 @@
         "frete_rs": 1723.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:45:27",
-          "lat": -27.2058176,
-          "lon": -49.6486976
+          "referencia": "0.06 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 07:01:27",
+          "lat": -27.2058304,
+          "lon": -49.6486944
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -108,10 +108,10 @@
         "frete_rs": 370.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:45:27",
-          "lat": -27.2058176,
-          "lon": -49.6486976
+          "referencia": "0.06 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 07:01:27",
+          "lat": -27.2058304,
+          "lon": -49.6486944
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -129,7 +129,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 06:45:01",
+          "data_hora_posicao": "05/11/2026 07:01:01",
           "lat": -29.1462112,
           "lon": -51.164768
         },
@@ -176,82 +176,12 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "GRU074246-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
-        "peso_real_kg": 3914.35,
-        "frete_rs": 4902.91,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 06:44:51",
-          "lat": -22.8469816666667,
-          "lon": -47.1247783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ023991-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 4441.92,
-        "frete_rs": 8125.63,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 06:46:05",
-          "lat": -22.8465136,
-          "lon": -47.1247104
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044160-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 10730.62,
-        "frete_rs": 13233.48,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 06:46:05",
-          "lat": -22.8465136,
-          "lon": -47.1247104
-        },
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 4172.65,
-        "frete_rs": 6089.94,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 4441.92,
-        "frete_rs": 8125.63,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 10730.62,
-        "frete_rs": 13233.48,
+        "peso_kg": 258.3,
+        "frete_rs": 1187.03,
         "qtde": 1
       }
     }
@@ -270,10 +200,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -26.762688,
-          "lon": -49.0771712
+          "referencia": "1.67 km de COLETA EUDORA SC - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 07:00:38",
+          "lat": -26.8298144,
+          "lon": -49.0904128
         },
         "distancia_km": null,
         "proximo": false
@@ -316,12 +246,12 @@
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de CARDOSO GUINCHO - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 06:46:00",
-          "lat": -26.7291456,
-          "lon": -48.7020608
+          "referencia": "0.9 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "05/11/2026 07:00:00",
+          "lat": -26.8077376,
+          "lon": -48.6812896
         },
-        "distancia_km": 17.7,
+        "distancia_km": 9.7,
         "proximo": true
       },
       {
@@ -336,12 +266,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de BR COLD - GARUVA/SC",
-          "data_hora_posicao": "05/11/2026 06:46:16",
-          "lat": -26.0790736,
-          "lon": -48.8616224
+          "referencia": "0.41 km de CD JOINVILLE - JVL - JOINVILLE/SC",
+          "data_hora_posicao": "05/11/2026 07:00:16",
+          "lat": -26.2276528,
+          "lon": -48.9166304
         },
-        "distancia_km": 91.0,
+        "distancia_km": 75.9,
         "proximo": false
       },
       {
@@ -382,12 +312,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de BR COLD - GARUVA/SC",
-          "data_hora_posicao": "05/11/2026 06:46:16",
-          "lat": -26.0790736,
-          "lon": -48.8616224
+          "referencia": "0.41 km de CD JOINVILLE - JVL - JOINVILLE/SC",
+          "data_hora_posicao": "05/11/2026 07:00:16",
+          "lat": -26.2276528,
+          "lon": -48.9166304
         },
-        "distancia_km": 490.4,
+        "distancia_km": 473.2,
         "proximo": false
       },
       {
@@ -403,7 +333,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 06:45:33",
+          "data_hora_posicao": "05/11/2026 07:01:33",
           "lat": -29.9833216,
           "lon": -51.1866432
         },
@@ -422,12 +352,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -27.2978133333333,
-          "lon": -50.2951466666667
+          "referencia": "3.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 06:54:47",
+          "lat": -27.3084266666667,
+          "lon": -50.3922133333333
         },
-        "distancia_km": 311.0,
+        "distancia_km": 307.4,
         "proximo": false
       },
       {
@@ -442,12 +372,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -27.2978133333333,
-          "lon": -50.2951466666667
+          "referencia": "3.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 06:54:47",
+          "lat": -27.3084266666667,
+          "lon": -50.3922133333333
         },
-        "distancia_km": 311.0,
+        "distancia_km": 307.4,
         "proximo": false
       }
     ],
@@ -478,12 +408,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.42 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:41:51",
-          "lat": -24.9653552,
-          "lon": -48.4634272
+          "referencia": "1.38 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 07:00:36",
+          "lat": -24.9230192,
+          "lon": -48.2611808
         },
-        "distancia_km": 262.3,
+        "distancia_km": 243.7,
         "proximo": false
       },
       {
@@ -498,12 +428,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:37:04",
-          "lat": -24.9280208,
-          "lon": -48.2704768
+          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "05/11/2026 07:01:04",
+          "lat": -24.7856288,
+          "lon": -48.17504
         },
-        "distancia_km": 244.7,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -518,12 +448,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:37:04",
-          "lat": -24.9280208,
-          "lon": -48.2704768
+          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "05/11/2026 07:01:04",
+          "lat": -24.7856288,
+          "lon": -48.17504
         },
-        "distancia_km": 244.7,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -538,12 +468,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.61 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:44:58",
-          "lat": -24.9678336,
-          "lon": -48.3864064
+          "referencia": "2.67 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 06:58:23",
+          "lat": -24.9132368,
+          "lon": -48.2533824
         },
-        "distancia_km": 256.5,
+        "distancia_km": 242.4,
         "proximo": false
       },
       {
@@ -588,12 +518,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.61 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:44:58",
-          "lat": -24.9678336,
-          "lon": -48.3864064
+          "referencia": "2.67 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 06:58:23",
+          "lat": -24.9132368,
+          "lon": -48.2533824
         },
-        "distancia_km": 256.5,
+        "distancia_km": 242.4,
         "proximo": false
       },
       {
@@ -608,12 +538,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.61 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 06:44:58",
-          "lat": -24.9678336,
-          "lon": -48.3864064
+          "referencia": "2.67 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 06:58:23",
+          "lat": -24.9132368,
+          "lon": -48.2533824
         },
-        "distancia_km": 256.5,
+        "distancia_km": 242.4,
         "proximo": false
       },
       {
@@ -695,7 +625,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 06:46:21",
+          "data_hora_posicao": "05/11/2026 07:00:21",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -715,7 +645,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 06:46:21",
+          "data_hora_posicao": "05/11/2026 07:00:21",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -735,7 +665,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 06:46:21",
+          "data_hora_posicao": "05/11/2026 07:00:21",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -771,7 +701,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 06:45:01",
+          "data_hora_posicao": "05/11/2026 07:01:01",
           "lat": -29.1462112,
           "lon": -51.164768
         },
@@ -790,10 +720,10 @@
         "frete_rs": 4894.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -27.2978133333333,
-          "lon": -50.2951466666667
+          "referencia": "3.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 06:54:47",
+          "lat": -27.3084266666667,
+          "lon": -50.3922133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -826,10 +756,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.59 km de MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS - CURITIBANOS/SC",
-          "data_hora_posicao": "05/11/2026 06:44:56",
-          "lat": -27.3025792,
-          "lon": -50.6625632
+          "referencia": "2.02 km de 3ªCIA/3ºPEL/– 3º GRUPO - BRUNOPOLIS/SC",
+          "data_hora_posicao": "05/11/2026 07:00:56",
+          "lat": -27.3291008,
+          "lon": -50.8365056
         },
         "distancia_km": null,
         "proximo": false
@@ -857,10 +787,10 @@
         "frete_rs": 4079.82,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 06:44:38",
-          "lat": -27.2978133333333,
-          "lon": -50.2951466666667
+          "referencia": "3.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 06:54:47",
+          "lat": -27.3084266666667,
+          "lon": -50.3922133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -874,5 +804,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T06:47:39"
+  "_gerado_em": "2026-11-05T07:02:53"
 }
