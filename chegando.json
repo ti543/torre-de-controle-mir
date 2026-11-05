@@ -1,25 +1,56 @@
 {
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002235-7",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 137.0,
+        "frete_rs": 170.16,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 08:31:01",
+          "lat": -29.1464576,
+          "lon": -51.1647936
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 137.0,
+        "frete_rs": 170.16,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
-        "manif": "CTB013550-0",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
+        "manif": "CXS002236-5",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
         "dest_unit": "RSL",
         "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6756.13,
-        "frete_rs": 6540.27,
-        "grupo_origem": "Curitiba",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 812.86,
+        "frete_rs": 2175.95,
+        "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 08:15:27",
-          "lat": -27.2059872,
-          "lon": -49.649712
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 08:31:01",
+          "lat": -29.1464576,
+          "lon": -51.1647936
         },
-        "distancia_km": 0.0,
-        "proximo": true
+        "distancia_km": 261.9,
+        "proximo": false
       },
       {
         "manif": "GRU074240-6",
@@ -34,7 +65,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "05/11/2026 08:16:38",
+          "data_hora_posicao": "05/11/2026 08:30:38",
           "lat": -26.8423584,
           "lon": -49.2724416
         },
@@ -68,53 +99,13 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.86 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
-          "data_hora_posicao": "05/11/2026 08:00:07",
-          "lat": -26.4936032,
-          "lon": -49.0012672
+          "referencia": "5.41 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 08:31:02",
+          "lat": -26.7176624,
+          "lon": -49.0583616
         },
-        "distancia_km": 102.0,
+        "distancia_km": 79.9,
         "proximo": false
-      },
-      {
-        "manif": "ITJ023996-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 1499.26,
-        "frete_rs": 1723.78,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 08:15:27",
-          "lat": -27.2059872,
-          "lon": -49.649712
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023997-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 266.1,
-        "frete_rs": 370.01,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 08:15:27",
-          "lat": -27.2059872,
-          "lon": -49.649712
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "POA016209-4",
@@ -129,7 +120,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 08:15:01",
+          "data_hora_posicao": "05/11/2026 08:31:01",
           "lat": -29.1464576,
           "lon": -51.1647936
         },
@@ -138,20 +129,15 @@
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 6756.13,
-        "frete_rs": 6540.27,
+      "Caxias do Sul / Lages": {
+        "peso_kg": 812.86,
+        "frete_rs": 2175.95,
         "qtde": 1
       },
       "Guarulhos": {
         "peso_kg": 29584.18,
         "frete_rs": 37442.47,
         "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 1765.3600000000001,
-        "frete_rs": 2093.79,
-        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 6749.65,
@@ -201,7 +187,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "05/11/2026 08:16:38",
+          "data_hora_posicao": "05/11/2026 08:30:38",
           "lat": -26.8423584,
           "lon": -49.2724416
         },
@@ -265,14 +251,9 @@
         "peso_real_kg": 3970.56,
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 08:16:00",
-          "lat": -26.8879328,
-          "lon": -48.7206304
-        },
-        "distancia_km": 0.1,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "GRU074244-9",
@@ -286,12 +267,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 08:16:16",
-          "lat": -26.7526784,
-          "lon": -48.691232
+          "referencia": "1.91 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "05/11/2026 08:30:16",
+          "lat": -26.79876,
+          "lon": -48.6793856
         },
-        "distancia_km": 15.3,
+        "distancia_km": 10.7,
         "proximo": true
       },
       {
@@ -332,12 +313,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "05/11/2026 08:16:16",
-          "lat": -26.7526784,
-          "lon": -48.691232
+          "referencia": "1.91 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "05/11/2026 08:30:16",
+          "lat": -26.79876,
+          "lon": -48.6793856
         },
-        "distancia_km": 434.3,
+        "distancia_km": 430.7,
         "proximo": false
       },
       {
@@ -352,12 +333,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 08:16:08",
-          "lat": -27.823795,
-          "lon": -50.3627883333333
+          "referencia": "2.07 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "05/11/2026 08:31:16",
+          "lat": -27.8432016666667,
+          "lon": -50.378745
         },
-        "distancia_km": 253.2,
+        "distancia_km": 250.6,
         "proximo": false
       },
       {
@@ -372,12 +353,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 08:16:08",
-          "lat": -27.823795,
-          "lon": -50.3627883333333
+          "referencia": "2.07 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "05/11/2026 08:31:16",
+          "lat": -27.8432016666667,
+          "lon": -50.378745
         },
-        "distancia_km": 253.2,
+        "distancia_km": 250.6,
         "proximo": false
       }
     ],
@@ -408,12 +389,12 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "05/11/2026 08:14:36",
-          "lat": -24.6725744,
-          "lon": -47.9788832
+          "referencia": "0.87 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:30:36",
+          "lat": -24.5385232,
+          "lon": -47.8594592
         },
-        "distancia_km": 203.9,
+        "distancia_km": 185.1,
         "proximo": false
       },
       {
@@ -428,12 +409,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.85 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "05/11/2026 08:15:04",
-          "lat": -24.4331088,
-          "lon": -47.7891936
+          "referencia": "0.07 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "05/11/2026 08:31:04",
+          "lat": -24.3310656,
+          "lon": -47.6294304
         },
-        "distancia_km": 172.2,
+        "distancia_km": 152.4,
         "proximo": false
       },
       {
@@ -448,12 +429,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.85 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "05/11/2026 08:15:04",
-          "lat": -24.4331088,
-          "lon": -47.7891936
+          "referencia": "0.07 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "05/11/2026 08:31:04",
+          "lat": -24.3310656,
+          "lon": -47.6294304
         },
-        "distancia_km": 172.2,
+        "distancia_km": 152.4,
         "proximo": false
       },
       {
@@ -468,12 +449,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "05/11/2026 08:14:23",
-          "lat": -24.681528,
-          "lon": -47.9839616
+          "referencia": "2.58 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:30:23",
+          "lat": -24.553208,
+          "lon": -47.8644864
         },
-        "distancia_km": 204.9,
+        "distancia_km": 186.5,
         "proximo": false
       },
       {
@@ -518,12 +499,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "05/11/2026 08:14:23",
-          "lat": -24.681528,
-          "lon": -47.9839616
+          "referencia": "2.58 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:30:23",
+          "lat": -24.553208,
+          "lon": -47.8644864
         },
-        "distancia_km": 204.9,
+        "distancia_km": 186.5,
         "proximo": false
       },
       {
@@ -538,12 +519,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.53 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "05/11/2026 08:14:23",
-          "lat": -24.681528,
-          "lon": -47.9839616
+          "referencia": "2.58 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "05/11/2026 08:30:23",
+          "lat": -24.553208,
+          "lon": -47.8644864
         },
-        "distancia_km": 204.9,
+        "distancia_km": 186.5,
         "proximo": false
       },
       {
@@ -624,12 +605,12 @@
         "frete_rs": 1968.16,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 08:16:25",
-          "lat": -26.6095283333333,
-          "lon": -48.7224766666667
+          "referencia": "0.5 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 08:30:25",
+          "lat": -26.4645,
+          "lon": -48.7501933333333
         },
-        "distancia_km": 133.2,
+        "distancia_km": 117.6,
         "proximo": false
       },
       {
@@ -644,12 +625,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 08:16:25",
-          "lat": -26.6095283333333,
-          "lon": -48.7224766666667
+          "referencia": "0.5 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 08:30:25",
+          "lat": -26.4645,
+          "lon": -48.7501933333333
         },
-        "distancia_km": 133.2,
+        "distancia_km": 117.6,
         "proximo": false
       },
       {
@@ -664,12 +645,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de PRF - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 08:16:25",
-          "lat": -26.6095283333333,
-          "lon": -48.7224766666667
+          "referencia": "0.5 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 08:30:25",
+          "lat": -26.4645,
+          "lon": -48.7501933333333
         },
-        "distancia_km": 133.2,
+        "distancia_km": 117.6,
         "proximo": false
       }
     ],
@@ -700,10 +681,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.88 km de POSTO PIOVESAN (SAL GROSSO) - ERVAL VELHO/SC",
-          "data_hora_posicao": "05/11/2026 08:15:19",
-          "lat": -27.2605184,
-          "lon": -51.4424448
+          "referencia": "0.49 km de POSTO AMIGÃO - JOACABA/SC",
+          "data_hora_posicao": "05/11/2026 08:31:35",
+          "lat": -27.2000544,
+          "lon": -51.5155488
         },
         "distancia_km": null,
         "proximo": false
@@ -731,10 +712,10 @@
         "frete_rs": 4894.8,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 08:16:08",
-          "lat": -27.823795,
-          "lon": -50.3627883333333
+          "referencia": "2.07 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "05/11/2026 08:31:16",
+          "lat": -27.8432016666667,
+          "lon": -50.378745
         },
         "distancia_km": null,
         "proximo": false
@@ -748,36 +729,5 @@
       }
     }
   },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "RSL044196-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2884.22,
-        "frete_rs": 4079.82,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 08:16:08",
-          "lat": -27.823795,
-          "lon": -50.3627883333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2884.22,
-        "frete_rs": 4079.82,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-05T08:17:45"
+  "_gerado_em": "2026-11-05T08:32:46"
 }
