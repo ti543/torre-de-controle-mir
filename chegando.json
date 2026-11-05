@@ -13,12 +13,12 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.33 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 18:45:03",
-          "lat": -22.891205,
-          "lon": -47.0102016666667
+          "referencia": "0.77 km de BORGWARNER - ITATIBA/SP",
+          "data_hora_posicao": "05/11/2026 19:00:30",
+          "lat": -22.9675816666667,
+          "lon": -46.8417316666667
         },
-        "distancia_km": 85.4,
+        "distancia_km": 68.0,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 18:45:11",
+          "data_hora_posicao": "05/11/2026 19:01:11",
           "lat": -25.5278384,
           "lon": -49.2956
         },
@@ -84,7 +84,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 18:44:38",
+          "data_hora_posicao": "05/11/2026 19:00:38",
           "lat": -27.2060864,
           "lon": -49.6493888
         },
@@ -149,33 +149,13 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.14 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 18:46:06",
-          "lat": -25.5271583333333,
-          "lon": -49.2970566666667
+          "referencia": "1.03 km de BR TRUCK - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 19:00:06",
+          "lat": -25.5658166666667,
+          "lon": -49.244685
         },
-        "distancia_km": 161.8,
+        "distancia_km": 156.0,
         "proximo": false
-      },
-      {
-        "manif": "FLN000135-0",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 43.0,
-        "frete_rs": 170.17,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 18:44:29",
-          "lat": -26.8877406,
-          "lon": -48.7206211
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016215-9",
@@ -189,12 +169,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO GRAAL ROTA 80 - GRAVATAI/RS",
-          "data_hora_posicao": "05/11/2026 18:45:34",
-          "lat": -29.9532192,
-          "lon": -51.0538048
+          "referencia": "0.91 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
+          "data_hora_posicao": "05/11/2026 18:59:34",
+          "lat": -29.9282432,
+          "lon": -50.8679808
         },
-        "distancia_km": 410.2,
+        "distancia_km": 398.0,
         "proximo": false
       },
       {
@@ -210,7 +190,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 18:44:38",
+          "data_hora_posicao": "05/11/2026 19:00:38",
           "lat": -27.2060864,
           "lon": -49.6493888
         },
@@ -222,11 +202,6 @@
       "Curitiba": {
         "peso_kg": 2289.02,
         "frete_rs": 2710.01,
-        "qtde": 1
-      },
-      "FLN": {
-        "peso_kg": 43.0,
-        "frete_rs": 170.17,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -255,12 +230,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.14 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 18:46:06",
-          "lat": -25.5271583333333,
-          "lon": -49.2970566666667
+          "referencia": "1.03 km de BR TRUCK - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 19:00:06",
+          "lat": -25.5658166666667,
+          "lon": -49.244685
         },
-        "distancia_km": 190.0,
+        "distancia_km": 186.8,
         "proximo": false
       },
       {
@@ -275,12 +250,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:41:01",
-          "lat": -27.4822432,
-          "lon": -50.3789536
+          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:53:34",
+          "lat": -27.388416,
+          "lon": -50.4285952
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.6,
         "proximo": false
       },
       {
@@ -295,12 +270,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:41:01",
-          "lat": -27.4822432,
-          "lon": -50.3789536
+          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:53:34",
+          "lat": -27.388416,
+          "lon": -50.4285952
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.6,
         "proximo": false
       },
       {
@@ -315,12 +290,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "05/11/2026 18:41:01",
-          "lat": -27.4822432,
-          "lon": -50.3789536
+          "referencia": "0.17 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:53:34",
+          "lat": -27.388416,
+          "lon": -50.4285952
         },
-        "distancia_km": 78.3,
+        "distancia_km": 79.6,
         "proximo": false
       }
     ],
@@ -383,7 +358,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 18:46:16",
+          "data_hora_posicao": "05/11/2026 19:00:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -403,7 +378,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:45:40",
+          "data_hora_posicao": "05/11/2026 18:59:36",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -423,7 +398,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:45:40",
+          "data_hora_posicao": "05/11/2026 18:59:36",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -444,6 +419,37 @@
       }
     }
   },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ024009-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2837.22,
+        "frete_rs": 2131.29,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 19:00:24",
+          "lat": -26.8877406,
+          "lon": -48.7206211
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 2837.22,
+        "frete_rs": 2131.29,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -459,7 +465,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 18:44:56",
+          "data_hora_posicao": "05/11/2026 19:00:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -475,5 +481,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T18:47:35"
+  "_gerado_em": "2026-11-05T19:02:36"
 }
