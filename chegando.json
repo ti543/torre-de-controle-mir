@@ -13,12 +13,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.46 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "04/11/2026 21:09:45",
-          "lat": -24.914816,
-          "lon": -48.2545632
+          "referencia": "0.02 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "04/11/2026 21:31:06",
+          "lat": -24.7862064,
+          "lon": -48.1754528
         },
-        "distancia_km": 242.6,
+        "distancia_km": 227.2,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 21:14:51",
+          "data_hora_posicao": "04/11/2026 21:30:36",
           "lat": -26.8874048,
           "lon": -48.7210976
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 21:15:04",
+          "data_hora_posicao": "04/11/2026 21:31:04",
           "lat": -26.8874784,
           "lon": -48.7211872
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 21:15:04",
+          "data_hora_posicao": "04/11/2026 21:31:04",
           "lat": -26.8874784,
           "lon": -48.7211872
         },
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 21:16:23",
+          "data_hora_posicao": "04/11/2026 21:30:23",
           "lat": -26.8876864,
           "lon": -48.7206272
         },
@@ -114,7 +114,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 21:16:23",
+          "data_hora_posicao": "04/11/2026 21:30:23",
           "lat": -26.8876864,
           "lon": -48.7206272
         },
@@ -174,13 +174,13 @@
         "frete_rs": 993.45,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.67 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 21:15:26",
-          "lat": -26.584976,
-          "lon": -48.7219744
+          "referencia": "0.24 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "04/11/2026 21:31:26",
+          "lat": -26.7436416,
+          "lon": -48.6977728
         },
-        "distancia_km": 33.6,
-        "proximo": false
+        "distancia_km": 16.2,
+        "proximo": true
       },
       {
         "manif": "GRU074243-1",
@@ -194,12 +194,12 @@
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de AUTO POSTO RODOVIAS LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 21:16:00",
-          "lat": -23.5222128,
-          "lon": -46.6051552
+          "referencia": "0.15 km de POSTO DE GASOLINA - SHELL - PAPA 8 - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 21:30:00",
+          "lat": -23.5138928,
+          "lon": -46.6734368
         },
-        "distancia_km": 430.5,
+        "distancia_km": 427.9,
         "proximo": false
       },
       {
@@ -214,12 +214,32 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - LATERAL ARUJA (SENTIDO RODOANEL) - ARUJA/SP",
-          "data_hora_posicao": "04/11/2026 21:16:16",
-          "lat": -23.4150784,
-          "lon": -46.36624
+          "referencia": "2.75 km de DELEGACIA SECCIONAL DE POLICIA - SUZANO/SP",
+          "data_hora_posicao": "04/11/2026 21:30:16",
+          "lat": -23.554936,
+          "lon": -46.3411232
         },
-        "distancia_km": 453.0,
+        "distancia_km": 441.1,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044191-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 895.29,
+        "frete_rs": 904.62,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 21:30:56",
+          "lat": -27.2061483333333,
+          "lon": -49.6494516666667
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -249,6 +269,11 @@
         "frete_rs": 7871.09,
         "qtde": 2
       },
+      "Rio do Sul": {
+        "peso_kg": 895.29,
+        "frete_rs": 904.62,
+        "qtde": 1
+      },
       "Timbó": {
         "peso_kg": 1918.86,
         "frete_rs": 2314.9,
@@ -270,12 +295,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.67 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "04/11/2026 21:15:26",
-          "lat": -26.584976,
-          "lon": -48.7219744
+          "referencia": "0.24 km de POSTO BUFFON 88 - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "04/11/2026 21:31:26",
+          "lat": -26.7436416,
+          "lon": -48.6977728
         },
-        "distancia_km": 115.0,
+        "distancia_km": 107.4,
         "proximo": false
       },
       {
@@ -290,12 +315,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.2 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
-          "data_hora_posicao": "04/11/2026 21:14:38",
-          "lat": -23.6190992,
-          "lon": -46.3648096
+          "referencia": "2.95 km de 2°CIA 41°BPM - SANTO ANDRE/SP",
+          "data_hora_posicao": "04/11/2026 21:30:38",
+          "lat": -23.730024,
+          "lon": -46.490352
         },
-        "distancia_km": 517.6,
+        "distancia_km": 499.9,
         "proximo": false
       },
       {
@@ -311,7 +336,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 21:15:01",
+          "data_hora_posicao": "04/11/2026 21:31:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -355,6 +380,26 @@
         "proximo": false
       },
       {
+        "manif": "GRU074246-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 3914.35,
+        "frete_rs": 4902.91,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.12 km de TOLIMAN MS TRANSPORTES LTDA (TRANSFIGUEREDO) - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 21:30:59",
+          "lat": -23.4750683333333,
+          "lon": -46.4760333333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "ITJ023991-7",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
@@ -366,10 +411,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 21:16:19",
-          "lat": -25.0873584,
-          "lon": -48.604
+          "referencia": "0.58 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 21:30:29",
+          "lat": -24.9762352,
+          "lon": -48.5038592
         },
         "distancia_km": null,
         "proximo": false
@@ -386,10 +431,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 21:16:19",
-          "lat": -25.0873584,
-          "lon": -48.604
+          "referencia": "0.58 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 21:30:29",
+          "lat": -24.9762352,
+          "lon": -48.5038592
         },
         "distancia_km": null,
         "proximo": false
@@ -397,9 +442,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 258.3,
-        "frete_rs": 1187.03,
-        "qtde": 1
+        "peso_kg": 4172.65,
+        "frete_rs": 6089.94,
+        "qtde": 2
       },
       "Itajaí": {
         "peso_kg": 4441.92,
@@ -427,10 +472,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.2 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
-          "data_hora_posicao": "04/11/2026 21:14:38",
-          "lat": -23.6190992,
-          "lon": -46.3648096
+          "referencia": "2.95 km de 2°CIA 41°BPM - SANTO ANDRE/SP",
+          "data_hora_posicao": "04/11/2026 21:30:38",
+          "lat": -23.730024,
+          "lon": -46.490352
         },
         "distancia_km": null,
         "proximo": false
@@ -458,12 +503,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - LATERAL ARUJA (SENTIDO RODOANEL) - ARUJA/SP",
-          "data_hora_posicao": "04/11/2026 21:16:16",
-          "lat": -23.4150784,
-          "lon": -46.36624
+          "referencia": "2.75 km de DELEGACIA SECCIONAL DE POLICIA - SUZANO/SP",
+          "data_hora_posicao": "04/11/2026 21:30:16",
+          "lat": -23.554936,
+          "lon": -46.3411232
         },
-        "distancia_km": 873.1,
+        "distancia_km": 861.3,
         "proximo": false
       },
       {
@@ -479,7 +524,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 21:15:33",
+          "data_hora_posicao": "04/11/2026 21:31:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -515,7 +560,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 21:15:01",
+          "data_hora_posicao": "04/11/2026 21:31:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -531,5 +576,56 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T21:17:40"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044190-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 18563.67,
+        "frete_rs": 11181.19,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 21:30:56",
+          "lat": -27.2061483333333,
+          "lon": -49.6494516666667
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044192-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 6.5,
+        "frete_rs": 75.09,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "04/11/2026 21:30:56",
+          "lat": -27.2061483333333,
+          "lon": -49.6494516666667
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 18570.17,
+        "frete_rs": 11256.28,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-04T21:32:38"
 }
