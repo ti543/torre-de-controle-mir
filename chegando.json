@@ -13,12 +13,32 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.31 km de SAMSUNG ELETRONICA DA AMAZONIA LTDA - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 18:31:03",
-          "lat": -22.84438,
-          "lon": -47.0376566666667
+          "referencia": "1.33 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
+          "data_hora_posicao": "05/11/2026 18:45:03",
+          "lat": -22.891205,
+          "lon": -47.0102016666667
         },
-        "distancia_km": 91.1,
+        "distancia_km": 85.4,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013558-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 16625.57,
+        "frete_rs": 13624.12,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 18:45:11",
+          "lat": -25.5278384,
+          "lon": -49.2956
+        },
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -64,7 +84,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 18:30:38",
+          "data_hora_posicao": "05/11/2026 18:44:38",
           "lat": -27.2060864,
           "lon": -49.6493888
         },
@@ -93,6 +113,11 @@
         "frete_rs": 7229.04,
         "qtde": 1
       },
+      "Curitiba": {
+        "peso_kg": 16625.57,
+        "frete_rs": 13624.12,
+        "qtde": 1
+      },
       "Itajaí": {
         "peso_kg": 7344.58,
         "frete_rs": 8014.389999999999,
@@ -110,84 +135,28 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CXS002236-5",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 812.86,
-        "frete_rs": 2175.95,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "1.41 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "05/11/2026 18:29:01",
-          "lat": -27.5764736,
-          "lon": -50.3705568
-        },
-        "distancia_km": 82.2,
-        "proximo": false
-      },
-      {
-        "manif": "LGS001607-1",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 638.8,
-        "frete_rs": 1062.18,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "1.41 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "05/11/2026 18:29:01",
-          "lat": -27.5764736,
-          "lon": -50.3705568
-        },
-        "distancia_km": 82.2,
-        "proximo": false
-      },
-      {
-        "manif": "POA016209-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6749.65,
-        "frete_rs": 5702.59,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "1.41 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
-          "data_hora_posicao": "05/11/2026 18:29:01",
-          "lat": -27.5764736,
-          "lon": -50.3705568
-        },
-        "distancia_km": 82.2,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 1451.6599999999999,
-        "frete_rs": 3238.13,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 6749.65,
-        "frete_rs": 5702.59,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
+      {
+        "manif": "CTB013559-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 2289.02,
+        "frete_rs": 2710.01,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.14 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 18:46:06",
+          "lat": -25.5271583333333,
+          "lon": -49.2970566666667
+        },
+        "distancia_km": 161.8,
+        "proximo": false
+      },
       {
         "manif": "FLN000135-0",
         "origin_unit": "FLN",
@@ -200,12 +169,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.2 km de CONCESSIONARIA IVECO - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 18:30:43",
-          "lat": -26.9133936,
-          "lon": -48.7115911
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 18:44:29",
+          "lat": -26.8877406,
+          "lon": -48.7206211
         },
-        "distancia_km": 3.0,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -220,12 +189,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.21 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:29:34",
-          "lat": -29.984704,
-          "lon": -51.184848
+          "referencia": "0.29 km de POSTO GRAAL ROTA 80 - GRAVATAI/RS",
+          "data_hora_posicao": "05/11/2026 18:45:34",
+          "lat": -29.9532192,
+          "lon": -51.0538048
         },
-        "distancia_km": 420.3,
+        "distancia_km": 410.2,
         "proximo": false
       },
       {
@@ -241,7 +210,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 18:30:38",
+          "data_hora_posicao": "05/11/2026 18:44:38",
           "lat": -27.2060864,
           "lon": -49.6493888
         },
@@ -250,6 +219,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 2289.02,
+        "frete_rs": 2710.01,
+        "qtde": 1
+      },
       "FLN": {
         "peso_kg": 43.0,
         "frete_rs": 170.17,
@@ -263,6 +237,107 @@
       "Rio do Sul": {
         "peso_kg": 460.96,
         "frete_rs": 163.18,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CTB013560-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 4506.07,
+        "frete_rs": 4162.8,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.14 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 18:46:06",
+          "lat": -25.5271583333333,
+          "lon": -49.2970566666667
+        },
+        "distancia_km": 190.0,
+        "proximo": false
+      },
+      {
+        "manif": "CXS002236-5",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 812.86,
+        "frete_rs": 2175.95,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:41:01",
+          "lat": -27.4822432,
+          "lon": -50.3789536
+        },
+        "distancia_km": 78.3,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001607-1",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 638.8,
+        "frete_rs": 1062.18,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:41:01",
+          "lat": -27.4822432,
+          "lon": -50.3789536
+        },
+        "distancia_km": 78.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016209-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6749.65,
+        "frete_rs": 5702.59,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "1.26 km de POSTO 300 - PONTE ALTA/SC",
+          "data_hora_posicao": "05/11/2026 18:41:01",
+          "lat": -27.4822432,
+          "lon": -50.3789536
+        },
+        "distancia_km": 78.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4506.07,
+        "frete_rs": 4162.8,
+        "qtde": 1
+      },
+      "Caxias do Sul / Lages": {
+        "peso_kg": 1451.6599999999999,
+        "frete_rs": 3238.13,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 6749.65,
+        "frete_rs": 5702.59,
         "qtde": 1
       }
     }
@@ -307,10 +382,10 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 18:30:32",
-          "lat": -26.8874144,
-          "lon": -48.7214176
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 18:46:16",
+          "lat": -26.8873984,
+          "lon": -48.7214784
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -328,7 +403,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:29:40",
+          "data_hora_posicao": "05/11/2026 18:45:40",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -348,7 +423,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 18:29:40",
+          "data_hora_posicao": "05/11/2026 18:45:40",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -383,10 +458,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.23 km de DELEGACIA DE POLÍCIA MILITAR - MAJOR VIEIRA/SC",
-          "data_hora_posicao": "05/11/2026 18:24:12",
-          "lat": -26.3640256,
-          "lon": -50.3017184
+          "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
+          "data_hora_posicao": "05/11/2026 18:44:56",
+          "lat": -26.3927568,
+          "lon": -50.1716832
         },
         "distancia_km": null,
         "proximo": false
@@ -400,5 +475,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T18:32:44"
+  "_gerado_em": "2026-11-05T18:47:35"
 }
