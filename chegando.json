@@ -13,12 +13,12 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "05/11/2026 02:15:27",
-          "lat": -27.1358112,
-          "lon": -49.5435168
+          "referencia": "0.1 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 02:31:27",
+          "lat": -27.1722912,
+          "lon": -49.582112
         },
-        "distancia_km": 13.1,
+        "distancia_km": 7.7,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 02:12:38",
-          "lat": -24.9378416,
-          "lon": -48.29792
+          "referencia": "1.22 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 02:25:06",
+          "lat": -24.9558528,
+          "lon": -48.421888
         },
-        "distancia_km": 286.1,
+        "distancia_km": 278.6,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 12407.0,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "05/11/2026 02:13:02",
-          "lat": -24.4773376,
-          "lon": -47.8285344
+          "referencia": "0.17 km de POSTO 4 IRMÃOS (NORTE) - JACUPIRANGA/SP",
+          "data_hora_posicao": "05/11/2026 02:31:02",
+          "lat": -24.651224,
+          "lon": -47.9437728
         },
-        "distancia_km": 353.9,
+        "distancia_km": 331.4,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 1723.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "05/11/2026 02:15:27",
-          "lat": -27.1358112,
-          "lon": -49.5435168
+          "referencia": "0.1 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 02:31:27",
+          "lat": -27.1722912,
+          "lon": -49.582112
         },
-        "distancia_km": 13.1,
+        "distancia_km": 7.7,
         "proximo": true
       },
       {
@@ -108,12 +108,12 @@
         "frete_rs": 370.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "05/11/2026 02:15:27",
-          "lat": -27.1358112,
-          "lon": -49.5435168
+          "referencia": "0.1 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 02:31:27",
+          "lat": -27.1722912,
+          "lon": -49.582112
         },
-        "distancia_km": 13.1,
+        "distancia_km": 7.7,
         "proximo": true
       },
       {
@@ -128,10 +128,10 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 02:15:01",
-          "lat": -29.1462112,
-          "lon": -51.1647808
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 02:31:01",
+          "lat": -29.1463008,
+          "lon": -51.1647648
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -190,7 +190,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 02:14:55",
+          "data_hora_posicao": "05/11/2026 02:30:55",
           "lat": -22.8469816666667,
           "lon": -47.1247783333333
         },
@@ -209,10 +209,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 02:16:27",
-          "lat": -22.8469008,
-          "lon": -47.124768
+          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "05/11/2026 02:30:05",
+          "lat": -22.8465712,
+          "lon": -47.1247936
         },
         "distancia_km": null,
         "proximo": false
@@ -229,10 +229,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "05/11/2026 02:16:27",
-          "lat": -22.8469008,
-          "lon": -47.124768
+          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "05/11/2026 02:30:05",
+          "lat": -22.8465712,
+          "lon": -47.1247936
         },
         "distancia_km": null,
         "proximo": false
@@ -270,10 +270,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 02:12:38",
-          "lat": -24.9378416,
-          "lon": -48.29792
+          "referencia": "1.22 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 02:25:06",
+          "lat": -24.9558528,
+          "lon": -48.421888
         },
         "distancia_km": null,
         "proximo": false
@@ -316,12 +316,12 @@
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 02:12:21",
-          "lat": -24.9782784,
-          "lon": -48.5057792
+          "referencia": "2.42 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 02:31:19",
+          "lat": -25.0826144,
+          "lon": -48.6420608
         },
-        "distancia_km": 213.4,
+        "distancia_km": 200.8,
         "proximo": false
       },
       {
@@ -336,12 +336,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 02:16:16",
-          "lat": -24.9734704,
-          "lon": -48.50296
+          "referencia": "1.91 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 02:30:16",
+          "lat": -25.0733104,
+          "lon": -48.586656
         },
-        "distancia_km": 213.9,
+        "distancia_km": 202.2,
         "proximo": false
       },
       {
@@ -382,12 +382,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 02:16:16",
-          "lat": -24.9734704,
-          "lon": -48.50296
+          "referencia": "1.91 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 02:30:16",
+          "lat": -25.0733104,
+          "lon": -48.586656
         },
-        "distancia_km": 616.7,
+        "distancia_km": 603.1,
         "proximo": false
       },
       {
@@ -403,7 +403,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 02:15:33",
+          "data_hora_posicao": "05/11/2026 02:31:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -438,10 +438,10 @@
         "frete_rs": 8228.37,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO SIM | CAJATI - CAJATI/SP",
-          "data_hora_posicao": "05/11/2026 02:16:05",
-          "lat": -24.7794224,
-          "lon": -48.1863712
+          "referencia": "0.06 km de POSTO SIM | CAJATI - CAJATI/SP",
+          "data_hora_posicao": "05/11/2026 02:31:11",
+          "lat": -24.779496,
+          "lon": -48.186592
         },
         "distancia_km": 139.2,
         "proximo": false
@@ -459,7 +459,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 02:16:18",
+          "data_hora_posicao": "05/11/2026 02:30:18",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -479,7 +479,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 02:16:18",
+          "data_hora_posicao": "05/11/2026 02:30:18",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -499,7 +499,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 02:16:18",
+          "data_hora_posicao": "05/11/2026 02:30:18",
           "lat": -26.887355,
           "lon": -48.7211016666667
         },
@@ -540,9 +540,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 02:16:36",
-          "lat": -26.5538336,
-          "lon": -48.7198784
+          "data_hora_posicao": "05/11/2026 02:30:36",
+          "lat": -26.5539136,
+          "lon": -48.7199296
         },
         "distancia_km": 411.4,
         "proximo": false
@@ -559,12 +559,12 @@
         "frete_rs": 2311.19,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 02:15:13",
-          "lat": -26.6468384,
-          "lon": -48.6869248
+          "referencia": "2.69 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 02:31:04",
+          "lat": -26.4893744,
+          "lon": -48.7340768
         },
-        "distancia_km": 418.3,
+        "distancia_km": 406.3,
         "proximo": false
       },
       {
@@ -579,12 +579,12 @@
         "frete_rs": 12400.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 02:15:13",
-          "lat": -26.6468384,
-          "lon": -48.6869248
+          "referencia": "2.69 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 02:31:04",
+          "lat": -26.4893744,
+          "lon": -48.7340768
         },
-        "distancia_km": 418.3,
+        "distancia_km": 406.3,
         "proximo": false
       },
       {
@@ -599,12 +599,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 02:16:23",
-          "lat": -26.1892656,
-          "lon": -48.9116832
+          "referencia": "0.49 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 02:31:16",
+          "lat": -26.0477712,
+          "lon": -48.8595072
         },
-        "distancia_km": 390.5,
+        "distancia_km": 375.1,
         "proximo": false
       },
       {
@@ -649,12 +649,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 02:16:23",
-          "lat": -26.1892656,
-          "lon": -48.9116832
+          "referencia": "0.49 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 02:31:16",
+          "lat": -26.0477712,
+          "lon": -48.8595072
         },
-        "distancia_km": 390.5,
+        "distancia_km": 375.1,
         "proximo": false
       },
       {
@@ -669,12 +669,12 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 02:16:23",
-          "lat": -26.1892656,
-          "lon": -48.9116832
+          "referencia": "0.49 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "05/11/2026 02:31:16",
+          "lat": -26.0477712,
+          "lon": -48.8595072
         },
-        "distancia_km": 390.5,
+        "distancia_km": 375.1,
         "proximo": false
       },
       {
@@ -755,10 +755,10 @@
         "frete_rs": 1572.56,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 02:15:01",
-          "lat": -29.1462112,
-          "lon": -51.1647808
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "05/11/2026 02:31:01",
+          "lat": -29.1463008,
+          "lon": -51.1647648
         },
         "distancia_km": null,
         "proximo": false
@@ -772,5 +772,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T02:17:41"
+  "_gerado_em": "2026-11-05T02:32:39"
 }
