@@ -13,72 +13,12 @@
         "frete_rs": 1636.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO DE SERVIÇOS APOLO & - SAO PAULO/SP",
-          "data_hora_posicao": "05/11/2026 13:00:05",
-          "lat": -23.5238624,
-          "lon": -46.6098176
+          "referencia": "0.25 km de FILIAL EXPRESSO LEOMAR - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 13:16:11",
+          "lat": -23.4620592,
+          "lon": -46.4878464
         },
-        "distancia_km": 16.2,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023993-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 9159.1,
-        "frete_rs": 15098.21,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:00:36",
-          "lat": -23.470696,
-          "lon": -46.4622368
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023994-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 1548.6,
-        "frete_rs": 2311.19,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:01:04",
-          "lat": -23.4706352,
-          "lon": -46.4622304
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023995-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 10303.65,
-        "frete_rs": 12400.91,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:01:04",
-          "lat": -23.4706352,
-          "lon": -46.4622304
-        },
-        "distancia_km": 0.0,
+        "distancia_km": 2.8,
         "proximo": true
       },
       {
@@ -93,12 +33,12 @@
         "frete_rs": 7998.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:00:23",
-          "lat": -23.4629952,
-          "lon": -46.4692576
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 13:14:23",
+          "lat": -23.47052,
+          "lon": -46.4621344
         },
-        "distancia_km": 1.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -143,12 +83,12 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:00:23",
-          "lat": -23.4629952,
-          "lon": -46.4692576
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 13:14:23",
+          "lat": -23.47052,
+          "lon": -46.4621344
         },
-        "distancia_km": 1.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -163,43 +103,13 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:00:23",
-          "lat": -23.4629952,
-          "lon": -46.4692576
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 13:14:23",
+          "lat": -23.47052,
+          "lon": -46.4621344
         },
-        "distancia_km": 1.1,
+        "distancia_km": 0.0,
         "proximo": true
-      },
-      {
-        "manif": "RSL044193-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12078.47,
-        "frete_rs": 14829.46,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044194-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 15690.1,
-        "frete_rs": 12367.39,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       },
       {
         "manif": "TBO016331-7",
@@ -224,14 +134,14 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 34379.5,
-        "frete_rs": 45822.92999999999,
-        "qtde": 6
+        "peso_kg": 13368.150000000001,
+        "frete_rs": 16012.619999999999,
+        "qtde": 3
       },
       "Rio do Sul": {
-        "peso_kg": 49994.93,
-        "frete_rs": 48281.71,
-        "qtde": 4
+        "peso_kg": 22226.36,
+        "frete_rs": 21084.86,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 9137.85,
@@ -255,7 +165,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:01:01",
+          "data_hora_posicao": "05/11/2026 13:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -286,7 +196,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:01:01",
+          "data_hora_posicao": "05/11/2026 13:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -321,7 +231,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:01:01",
+          "data_hora_posicao": "05/11/2026 13:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -388,7 +298,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 13:00:16",
+          "data_hora_posicao": "05/11/2026 13:16:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -408,9 +318,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 12:59:42",
-          "lat": -29.14632,
-          "lon": -51.1648483333333
+          "data_hora_posicao": "05/11/2026 13:15:12",
+          "lat": -29.1463666666667,
+          "lon": -51.1648383333333
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -428,9 +338,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 12:59:42",
-          "lat": -29.14632,
-          "lon": -51.1648483333333
+          "data_hora_posicao": "05/11/2026 13:15:12",
+          "lat": -29.1463666666667,
+          "lon": -51.1648383333333
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -464,7 +374,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.93 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "05/11/2026 12:57:27",
+          "data_hora_posicao": "05/11/2026 13:13:27",
           "lat": -27.6744575,
           "lon": -48.6978625
         },
@@ -494,10 +404,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.3 km de POSTO SCARIOTTI - SANTA CECILIA/SC",
-          "data_hora_posicao": "05/11/2026 13:00:56",
-          "lat": -26.9774144,
-          "lon": -50.3968416
+          "referencia": "2.42 km de POSTO SCARIOTTI - SANTA CECILIA/SC",
+          "data_hora_posicao": "05/11/2026 13:14:56",
+          "lat": -26.9767104,
+          "lon": -50.3956256
         },
         "distancia_km": null,
         "proximo": false
@@ -507,37 +417,6 @@
       "Rio do Sul": {
         "peso_kg": 2432.92,
         "frete_rs": 2426.55,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044195-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 4069.0,
-        "frete_rs": 4894.8,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 12:59:42",
-          "lat": -29.14632,
-          "lon": -51.1648483333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 4069.0,
-        "frete_rs": 4894.8,
         "qtde": 1
       }
     }
@@ -568,5 +447,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T13:02:37"
+  "_gerado_em": "2026-11-05T13:17:37"
 }
