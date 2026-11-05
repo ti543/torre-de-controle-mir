@@ -1,90 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010357-8",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1350.0,
-        "frete_rs": 1636.76,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.06 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:31:38",
-          "lat": -23.4704544,
-          "lon": -46.4626336
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024000-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3655.04,
-        "frete_rs": 3968.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024001-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3689.54,
-        "frete_rs": 4045.65,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016331-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 9137.85,
-        "frete_rs": 13021.88,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1350.0,
-        "frete_rs": 1636.76,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 7344.58,
-        "frete_rs": 8014.389999999999,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 9137.85,
-        "frete_rs": 13021.88,
-        "qtde": 1
-      }
-    }
-  },
   "LGS": {
     "veiculos": [
       {
@@ -100,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:31:01",
+          "data_hora_posicao": "05/11/2026 13:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -131,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:31:01",
+          "data_hora_posicao": "05/11/2026 13:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -166,7 +80,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:31:01",
+          "data_hora_posicao": "05/11/2026 13:45:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -233,7 +147,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 13:30:16",
+          "data_hora_posicao": "05/11/2026 13:46:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -253,7 +167,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:31:11",
+          "data_hora_posicao": "05/11/2026 13:45:11",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -273,7 +187,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:31:11",
+          "data_hora_posicao": "05/11/2026 13:45:11",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -294,6 +208,67 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024000-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 3655.04,
+        "frete_rs": 3968.74,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024001-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 3689.54,
+        "frete_rs": 4045.65,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016331-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 9137.85,
+        "frete_rs": 13021.88,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 7344.58,
+        "frete_rs": 8014.389999999999,
+        "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 9137.85,
+        "frete_rs": 13021.88,
+        "qtde": 1
+      }
+    }
+  },
   "FLN": {
     "veiculos": [
       {
@@ -308,10 +283,10 @@
         "frete_rs": 4110.91,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "05/11/2026 13:29:27",
-          "lat": -27.6744575,
-          "lon": -48.6978625
+          "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
+          "data_hora_posicao": "05/11/2026 13:44:18",
+          "lat": -27.6742621,
+          "lon": -48.6980335
         },
         "distancia_km": null,
         "proximo": false
@@ -339,10 +314,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.42 km de POSTO SCARIOTTI - SANTA CECILIA/SC",
-          "data_hora_posicao": "05/11/2026 13:31:33",
-          "lat": -26.9767104,
-          "lon": -50.3956256
+          "referencia": "1.33 km de MECÂNICA E AUTO ELÉTRICA FARIAS - SANTA CECILIA/SC",
+          "data_hora_posicao": "05/11/2026 13:40:02",
+          "lat": -26.941472,
+          "lon": -50.4295264
         },
         "distancia_km": null,
         "proximo": false
@@ -382,5 +357,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T13:32:46"
+  "_gerado_em": "2026-11-05T13:47:43"
 }
