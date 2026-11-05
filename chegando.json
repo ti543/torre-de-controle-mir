@@ -13,13 +13,13 @@
         "frete_rs": 10893.63,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.25 km de BPM - BRUSQUE / SC - BRUSQUE/SC",
-          "data_hora_posicao": "05/11/2026 19:45:07",
-          "lat": -27.069408,
-          "lon": -48.8810861
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "05/11/2026 19:59:30",
+          "lat": -27.096374,
+          "lon": -48.930754
         },
-        "distancia_km": 25.7,
-        "proximo": true
+        "distancia_km": 31.2,
+        "proximo": false
       },
       {
         "manif": "CTB013559-3",
@@ -33,12 +33,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.64 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "05/11/2026 19:45:34",
-          "lat": -25.8520016666667,
-          "lon": -48.9709483333333
+          "referencia": "1.77 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "05/11/2026 20:00:25",
+          "lat": -25.95784,
+          "lon": -48.90092
         },
-        "distancia_km": 117.8,
+        "distancia_km": 104.9,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO CHARÃO - OSORIO/RS",
-          "data_hora_posicao": "05/11/2026 19:45:34",
-          "lat": -29.8936896,
-          "lon": -50.2835392
+          "referencia": "2.88 km de POSTO TULIO (OSORIO FIGUEIRAS) - OSORIO/RS",
+          "data_hora_posicao": "05/11/2026 20:01:34",
+          "lat": -29.7390272,
+          "lon": -50.2094208
         },
-        "distancia_km": 367.5,
+        "distancia_km": 348.9,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "05/11/2026 19:46:11",
-          "lat": -27.081616,
-          "lon": -49.5003424
+          "referencia": "2.61 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "05/11/2026 19:58:52",
+          "lat": -27.0624096,
+          "lon": -49.4154176
         },
-        "distancia_km": 80.2,
+        "distancia_km": 71.5,
         "proximo": false
       }
     ],
@@ -119,12 +119,12 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "05/11/2026 19:44:40",
-          "lat": -23.2897383333333,
-          "lon": -46.5837716666667
+          "referencia": "3.86 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
+          "data_hora_posicao": "05/11/2026 20:00:40",
+          "lat": -23.3913616666667,
+          "lon": -46.5712266666667
         },
-        "distancia_km": 23.6,
+        "distancia_km": 14.2,
         "proximo": true
       },
       {
@@ -139,12 +139,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.45 km de ZANOTELLI TRANSPORTES E LOGISTICA LTDA - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:46:33",
-          "lat": -25.4351136,
-          "lon": -49.2334528
+          "referencia": "0.25 km de RMBPACK MÁQUINAS E EMBALAGENS LTDA - COLOMBO/PR",
+          "data_hora_posicao": "05/11/2026 20:01:21",
+          "lat": -25.3881552,
+          "lon": -49.1813248
         },
-        "distancia_km": 355.5,
+        "distancia_km": 348.2,
         "proximo": false
       },
       {
@@ -160,7 +160,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:46:00",
+          "data_hora_posicao": "05/11/2026 19:56:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -180,7 +180,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:46:00",
+          "data_hora_posicao": "05/11/2026 19:56:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -199,12 +199,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "05/11/2026 19:46:11",
-          "lat": -27.081616,
-          "lon": -49.5003424
+          "referencia": "2.61 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "05/11/2026 19:58:52",
+          "lat": -27.0624096,
+          "lon": -49.4154176
         },
-        "distancia_km": 504.5,
+        "distancia_km": 497.6,
         "proximo": false
       },
       {
@@ -220,7 +220,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:45:03",
+          "data_hora_posicao": "05/11/2026 20:01:03",
           "lat": -27.2058656,
           "lon": -49.6490368
         },
@@ -265,12 +265,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.64 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "05/11/2026 19:45:34",
-          "lat": -25.8520016666667,
-          "lon": -48.9709483333333
+          "referencia": "1.77 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "05/11/2026 20:00:25",
+          "lat": -25.95784,
+          "lon": -48.90092
         },
-        "distancia_km": 165.0,
+        "distancia_km": 157.5,
         "proximo": false
       },
       {
@@ -285,12 +285,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:43:26",
-          "lat": -27.3086208,
-          "lon": -50.1331456
+          "referencia": "7.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 19:59:25",
+          "lat": -27.2737536,
+          "lon": -50.062848
         },
-        "distancia_km": 49.1,
+        "distancia_km": 41.5,
         "proximo": false
       },
       {
@@ -305,12 +305,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:43:26",
-          "lat": -27.3086208,
-          "lon": -50.1331456
+          "referencia": "7.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 19:59:25",
+          "lat": -27.2737536,
+          "lon": -50.062848
         },
-        "distancia_km": 49.1,
+        "distancia_km": 41.5,
         "proximo": false
       },
       {
@@ -325,12 +325,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "9.89 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:43:26",
-          "lat": -27.3086208,
-          "lon": -50.1331456
+          "referencia": "7.78 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "05/11/2026 19:59:25",
+          "lat": -27.2737536,
+          "lon": -50.062848
         },
-        "distancia_km": 49.1,
+        "distancia_km": 41.5,
         "proximo": false
       },
       {
@@ -413,7 +413,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:46:16",
+          "data_hora_posicao": "05/11/2026 20:00:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -433,7 +433,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:46:34",
+          "data_hora_posicao": "05/11/2026 19:59:36",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -453,7 +453,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:46:34",
+          "data_hora_posicao": "05/11/2026 19:59:36",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -489,7 +489,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 19:44:56",
+          "data_hora_posicao": "05/11/2026 20:00:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -505,5 +505,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T19:47:35"
+  "_gerado_em": "2026-11-05T20:02:41"
 }
