@@ -13,12 +13,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.44 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "04/11/2026 22:29:45",
-          "lat": -24.6068352,
-          "lon": -47.879424
+          "referencia": "3 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "04/11/2026 22:45:45",
+          "lat": -24.4256912,
+          "lon": -47.7811616
         },
-        "distancia_km": 191.5,
+        "distancia_km": 171.0,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:30:36",
+          "data_hora_posicao": "04/11/2026 22:46:36",
           "lat": -26.8873504,
           "lon": -48.7211808
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:31:04",
+          "data_hora_posicao": "04/11/2026 22:45:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:31:04",
+          "data_hora_posicao": "04/11/2026 22:45:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:30:23",
+          "data_hora_posicao": "04/11/2026 22:46:23",
           "lat": -26.8876736,
           "lon": -48.7207296
         },
@@ -114,11 +114,41 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:30:23",
+          "data_hora_posicao": "04/11/2026 22:46:23",
           "lat": -26.8876736,
           "lon": -48.7207296
         },
         "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044193-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 12078.47,
+        "frete_rs": 14829.46,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044194-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 15690.1,
+        "frete_rs": 12367.39,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -149,9 +179,9 @@
         "qtde": 3
       },
       "Rio do Sul": {
-        "peso_kg": 22226.36,
-        "frete_rs": 21084.86,
-        "qtde": 2
+        "peso_kg": 49994.93,
+        "frete_rs": 48281.71,
+        "qtde": 4
       },
       "Timbó": {
         "peso_kg": 9137.85,
@@ -175,11 +205,11 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:31:26",
-          "lat": -26.8872832,
-          "lon": -48.7211872
+          "data_hora_posicao": "04/11/2026 22:45:26",
+          "lat": -26.8874048,
+          "lon": -48.721184
         },
-        "distancia_km": 98.6,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -194,12 +224,47 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 22:30:38",
-          "lat": -23.783816,
-          "lon": -46.914448
+          "referencia": "1.78 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 22:46:38",
+          "lat": -23.9265504,
+          "lon": -46.9946432
         },
-        "distancia_km": 469.2,
+        "distancia_km": 451.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074250-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 11573.66,
+        "frete_rs": 18918.3,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074251-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 13310.36,
+        "frete_rs": 12407.0,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 22:45:02",
+          "lat": -23.470464,
+          "lon": -46.4620832
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -215,7 +280,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 22:31:01",
+          "data_hora_posicao": "04/11/2026 22:45:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -230,9 +295,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 4700.16,
-        "frete_rs": 6117.17,
-        "qtde": 1
+        "peso_kg": 29584.18,
+        "frete_rs": 37442.47,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 6749.65,
@@ -270,10 +335,10 @@
         "frete_rs": 4902.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 22:30:58",
-          "lat": -23.5077466666667,
-          "lon": -46.719575
+          "referencia": "0.42 km de POSTO FRANGO ASSADO - CAIEIRAS/SP",
+          "data_hora_posicao": "04/11/2026 22:44:58",
+          "lat": -23.3509716666667,
+          "lon": -46.80057
         },
         "distancia_km": null,
         "proximo": false
@@ -290,10 +355,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
-          "data_hora_posicao": "04/11/2026 22:30:05",
-          "lat": -24.7005696,
-          "lon": -48.0060576
+          "referencia": "5.32 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "04/11/2026 22:46:05",
+          "lat": -24.5731296,
+          "lon": -47.8818176
         },
         "distancia_km": null,
         "proximo": false
@@ -310,10 +375,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
-          "data_hora_posicao": "04/11/2026 22:30:05",
-          "lat": -24.7005696,
-          "lon": -48.0060576
+          "referencia": "5.32 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "04/11/2026 22:46:05",
+          "lat": -24.5731296,
+          "lon": -47.8818176
         },
         "distancia_km": null,
         "proximo": false
@@ -351,10 +416,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 22:30:38",
-          "lat": -23.783816,
-          "lon": -46.914448
+          "referencia": "1.78 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 22:46:38",
+          "lat": -23.9265504,
+          "lon": -46.9946432
         },
         "distancia_km": null,
         "proximo": false
@@ -397,12 +462,12 @@
         "frete_rs": 4824.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 22:30:00",
-          "lat": -23.885328,
-          "lon": -46.9759744
+          "referencia": "2.63 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "04/11/2026 22:46:00",
+          "lat": -23.9659904,
+          "lon": -47.1297568
         },
-        "distancia_km": 377.0,
+        "distancia_km": 362.0,
         "proximo": false
       },
       {
@@ -417,12 +482,12 @@
         "frete_rs": 3046.83,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.06 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 22:30:42",
-          "lat": -23.662728,
-          "lon": -46.8234912
+          "referencia": "0.68 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 22:46:16",
+          "lat": -23.7399152,
+          "lon": -46.8975968
         },
-        "distancia_km": 406.2,
+        "distancia_km": 395.1,
         "proximo": false
       },
       {
@@ -452,12 +517,12 @@
         "frete_rs": 904.62,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "04/11/2026 22:30:34",
-          "lat": -26.9625966666667,
-          "lon": -49.337555
+          "referencia": "0.29 km de ALBANY INTERNATIONAL - INDAIAL/SC",
+          "data_hora_posicao": "04/11/2026 22:46:34",
+          "lat": -26.87083,
+          "lon": -49.215855
         },
-        "distancia_km": 61.7,
+        "distancia_km": 49.1,
         "proximo": false
       },
       {
@@ -508,12 +573,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.06 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 22:30:42",
-          "lat": -23.662728,
-          "lon": -46.8234912
+          "referencia": "0.68 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 22:46:16",
+          "lat": -23.7399152,
+          "lon": -46.8975968
         },
-        "distancia_km": 825.3,
+        "distancia_km": 814.0,
         "proximo": false
       },
       {
@@ -529,7 +594,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 22:31:33",
+          "data_hora_posicao": "04/11/2026 22:45:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -564,12 +629,12 @@
         "frete_rs": 8228.37,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 22:31:11",
-          "lat": -23.470976,
-          "lon": -46.4613408
+          "referencia": "0.35 km de MULTIEIXO MANUTNEÇÃO - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 22:45:27",
+          "lat": -23.4794544,
+          "lon": -46.5201696
         },
-        "distancia_km": 366.8,
+        "distancia_km": 361.5,
         "proximo": false
       },
       {
@@ -584,12 +649,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "04/11/2026 22:30:34",
-          "lat": -26.9625966666667,
-          "lon": -49.337555
+          "referencia": "0.29 km de ALBANY INTERNATIONAL - INDAIAL/SC",
+          "data_hora_posicao": "04/11/2026 22:46:34",
+          "lat": -26.87083,
+          "lon": -49.215855
         },
-        "distancia_km": 159.6,
+        "distancia_km": 149.6,
         "proximo": false
       },
       {
@@ -604,12 +669,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "04/11/2026 22:30:34",
-          "lat": -26.9625966666667,
-          "lon": -49.337555
+          "referencia": "0.29 km de ALBANY INTERNATIONAL - INDAIAL/SC",
+          "data_hora_posicao": "04/11/2026 22:46:34",
+          "lat": -26.87083,
+          "lon": -49.215855
         },
-        "distancia_km": 159.6,
+        "distancia_km": 149.6,
         "proximo": false
       }
     ],
@@ -641,7 +706,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 22:31:01",
+          "data_hora_posicao": "04/11/2026 22:45:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -657,5 +722,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T22:32:37"
+  "_gerado_em": "2026-11-04T22:47:44"
 }
