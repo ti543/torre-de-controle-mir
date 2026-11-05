@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 15:47:01",
+          "data_hora_posicao": "05/11/2026 16:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 15:47:01",
+          "data_hora_posicao": "05/11/2026 16:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 15:47:01",
+          "data_hora_posicao": "05/11/2026 16:01:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -100,12 +100,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.01 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "05/11/2026 15:46:53",
-          "lat": -27.1968303,
-          "lon": -48.6037953
+          "referencia": "0.85 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "05/11/2026 16:01:45",
+          "lat": -27.1956213,
+          "lon": -48.6050216
         },
-        "distancia_km": 36.3,
+        "distancia_km": 36.1,
         "proximo": false
       }
     ],
@@ -158,7 +158,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 15:46:16",
+          "data_hora_posicao": "05/11/2026 16:00:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -177,12 +177,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.24 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "05/11/2026 15:45:13",
-          "lat": -29.3043483333333,
-          "lon": -51.338305
+          "referencia": "2.7 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "05/11/2026 15:59:48",
+          "lat": -29.4268833333333,
+          "lon": -51.3506766666667
         },
-        "distancia_km": 76.9,
+        "distancia_km": 63.9,
         "proximo": false
       },
       {
@@ -197,12 +197,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.24 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "05/11/2026 15:45:13",
-          "lat": -29.3043483333333,
-          "lon": -51.338305
+          "referencia": "2.7 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "05/11/2026 15:59:48",
+          "lat": -29.4268833333333,
+          "lon": -51.3506766666667
         },
-        "distancia_km": 76.9,
+        "distancia_km": 63.9,
         "proximo": false
       }
     ],
@@ -294,10 +294,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "11.07 km de POSTO DELTA 280 - PORTO UNIAO/SC",
-          "data_hora_posicao": "05/11/2026 15:44:46",
-          "lat": -26.372352,
-          "lon": -51.0793216
+          "referencia": "0.75 km de POSTO SHELL - PORTO UNIAO/SC",
+          "data_hora_posicao": "05/11/2026 16:01:21",
+          "lat": -26.2671648,
+          "lon": -51.0586496
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +337,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T15:48:04"
+  "_gerado_em": "2026-11-05T16:02:55"
 }
