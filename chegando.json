@@ -1,120 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000753-6",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 6861.47,
-        "frete_rs": 7754.11,
-        "grupo_origem": "Brusque",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "CTB013549-6",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 334.38,
-        "frete_rs": 993.45,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.46 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 20:45:26",
-          "lat": -26.323216,
-          "lon": -48.8680512
-        },
-        "distancia_km": 64.4,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074243-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 3970.56,
-        "frete_rs": 4824.26,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:46:00",
-          "lat": -23.4704896,
-          "lon": -46.4624832
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074244-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1756.91,
-        "frete_rs": 3046.83,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:46:16",
-          "lat": -23.4709008,
-          "lon": -46.4621216
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016332-5",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 1918.86,
-        "frete_rs": 2314.9,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 6861.47,
-        "frete_rs": 7754.11,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 334.38,
-        "frete_rs": 993.45,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 5727.47,
-        "frete_rs": 7871.09,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 1918.86,
-        "frete_rs": 2314.9,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -129,12 +13,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.87 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:37:45",
-          "lat": -25.048792,
-          "lon": -48.547856
+          "referencia": "4.08 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "04/11/2026 20:59:09",
+          "lat": -24.9718528,
+          "lon": -48.372352
         },
-        "distancia_km": 274.8,
+        "distancia_km": 255.7,
         "proximo": false
       },
       {
@@ -148,8 +32,13 @@
         "peso_real_kg": 9159.1,
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 21:00:36",
+          "lat": -26.8873952,
+          "lon": -48.721088
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -165,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:45:04",
+          "data_hora_posicao": "04/11/2026 21:01:04",
           "lat": -26.8874784,
           "lon": -48.7211872
         },
@@ -185,7 +74,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:45:04",
+          "data_hora_posicao": "04/11/2026 21:01:04",
           "lat": -26.8874784,
           "lon": -48.7211872
         },
@@ -205,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:46:23",
+          "data_hora_posicao": "04/11/2026 21:00:23",
           "lat": -26.8876864,
           "lon": -48.7206272
         },
@@ -225,7 +114,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 20:46:23",
+          "data_hora_posicao": "04/11/2026 21:00:23",
           "lat": -26.8876864,
           "lon": -48.7206272
         },
@@ -271,6 +160,102 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013549-6",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 334.38,
+        "frete_rs": 993.45,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "1.42 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "04/11/2026 21:01:26",
+          "lat": -26.4549648,
+          "lon": -48.7735648
+        },
+        "distancia_km": 48.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074243-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 3970.56,
+        "frete_rs": 4824.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.77 km de CONCESSIONARIA MERCEDES BENZ - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 21:00:00",
+          "lat": -23.4768336,
+          "lon": -46.5162464
+        },
+        "distancia_km": 439.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074244-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1756.91,
+        "frete_rs": 3046.83,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.06 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 21:01:05",
+          "lat": -23.472944,
+          "lon": -46.4629792
+        },
+        "distancia_km": 442.4,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016332-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 1918.86,
+        "frete_rs": 2314.9,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 334.38,
+        "frete_rs": 993.45,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 5727.47,
+        "frete_rs": 7871.09,
+        "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 1918.86,
+        "frete_rs": 2314.9,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -285,33 +270,13 @@
         "frete_rs": 6540.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
-          "data_hora_posicao": "04/11/2026 20:45:26",
-          "lat": -26.323216,
-          "lon": -48.8680512
+          "referencia": "1.42 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "04/11/2026 21:01:26",
+          "lat": -26.4549648,
+          "lon": -48.7735648
         },
-        "distancia_km": 125.1,
+        "distancia_km": 120.6,
         "proximo": false
-      },
-      {
-        "manif": "CXS002234-9",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1720.76,
-        "frete_rs": 3361.08,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 20:45:27",
-          "lat": -27.2047483333333,
-          "lon": -49.6383033333333
-        },
-        "distancia_km": 1.1,
-        "proximo": true
       },
       {
         "manif": "GRU074240-6",
@@ -325,53 +290,13 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.46 km de ZARAPLAST SA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 20:46:38",
-          "lat": -23.4414864,
-          "lon": -46.4412
+          "referencia": "0.13 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
+          "data_hora_posicao": "04/11/2026 21:00:38",
+          "lat": -23.4733696,
+          "lon": -46.3308704
         },
-        "distancia_km": 528.4,
+        "distancia_km": 532.4,
         "proximo": false
-      },
-      {
-        "manif": "LGS001606-3",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1421.2,
-        "frete_rs": 2337.52,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 20:45:27",
-          "lat": -27.2047483333333,
-          "lon": -49.6383033333333
-        },
-        "distancia_km": 1.1,
-        "proximo": true
-      },
-      {
-        "manif": "POA016202-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1271.73,
-        "frete_rs": 1269.63,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "04/11/2026 20:45:27",
-          "lat": -27.2047483333333,
-          "lon": -49.6383033333333
-        },
-        "distancia_km": 1.1,
-        "proximo": true
       },
       {
         "manif": "POA016209-4",
@@ -386,7 +311,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 20:45:01",
+          "data_hora_posicao": "04/11/2026 21:01:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -400,20 +325,15 @@
         "frete_rs": 6540.27,
         "qtde": 1
       },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 3141.96,
-        "frete_rs": 5698.6,
-        "qtde": 2
-      },
       "Guarulhos": {
         "peso_kg": 4700.16,
         "frete_rs": 6117.17,
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 8021.379999999999,
-        "frete_rs": 6972.22,
-        "qtde": 2
+        "peso_kg": 6749.65,
+        "frete_rs": 5702.59,
+        "qtde": 1
       }
     }
   },
@@ -446,10 +366,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:46:05",
-          "lat": -25.1764368,
-          "lon": -48.873072
+          "referencia": "1.24 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 21:00:20",
+          "lat": -25.1114784,
+          "lon": -48.7824928
         },
         "distancia_km": null,
         "proximo": false
@@ -466,10 +386,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "04/11/2026 20:46:05",
-          "lat": -25.1764368,
-          "lon": -48.873072
+          "referencia": "1.24 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "04/11/2026 21:00:20",
+          "lat": -25.1114784,
+          "lon": -48.7824928
         },
         "distancia_km": null,
         "proximo": false
@@ -507,10 +427,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.46 km de ZARAPLAST SA - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 20:46:38",
-          "lat": -23.4414864,
-          "lon": -46.4412
+          "referencia": "0.13 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
+          "data_hora_posicao": "04/11/2026 21:00:38",
+          "lat": -23.4733696,
+          "lon": -46.3308704
         },
         "distancia_km": null,
         "proximo": false
@@ -538,12 +458,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 20:46:16",
-          "lat": -23.4709008,
-          "lon": -46.4621216
+          "referencia": "0.06 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 21:01:05",
+          "lat": -23.472944,
+          "lon": -46.4629792
         },
-        "distancia_km": 862.6,
+        "distancia_km": 862.4,
         "proximo": false
       },
       {
@@ -559,7 +479,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 20:45:33",
+          "data_hora_posicao": "04/11/2026 21:01:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -595,7 +515,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 20:45:01",
+          "data_hora_posicao": "04/11/2026 21:01:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -611,5 +531,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T20:47:54"
+  "_gerado_em": "2026-11-04T21:02:45"
 }
