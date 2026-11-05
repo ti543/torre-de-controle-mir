@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:01:01",
+          "data_hora_posicao": "05/11/2026 16:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:01:01",
+          "data_hora_posicao": "05/11/2026 16:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 16:01:01",
+          "data_hora_posicao": "05/11/2026 16:15:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -100,13 +100,13 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "05/11/2026 16:01:45",
-          "lat": -27.1956213,
-          "lon": -48.6050216
+          "referencia": "0.62 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "05/11/2026 16:15:54",
+          "lat": -27.1324501,
+          "lon": -48.6115501
         },
-        "distancia_km": 36.1,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -158,7 +158,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 16:00:16",
+          "data_hora_posicao": "05/11/2026 16:16:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -177,12 +177,12 @@
         "frete_rs": 4036.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.7 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "05/11/2026 15:59:48",
-          "lat": -29.4268833333333,
-          "lon": -51.3506766666667
+          "referencia": "2.17 km de CONCESSIONARIA MERCEDES BENZ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "05/11/2026 16:15:48",
+          "lat": -29.60709,
+          "lon": -51.35276
         },
-        "distancia_km": 63.9,
+        "distancia_km": 44.8,
         "proximo": false
       },
       {
@@ -197,12 +197,12 @@
         "frete_rs": 362.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.7 km de MADESA MÓVEIS - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "05/11/2026 15:59:48",
-          "lat": -29.4268833333333,
-          "lon": -51.3506766666667
+          "referencia": "2.17 km de CONCESSIONARIA MERCEDES BENZ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "05/11/2026 16:15:48",
+          "lat": -29.60709,
+          "lon": -51.35276
         },
-        "distancia_km": 63.9,
+        "distancia_km": 44.8,
         "proximo": false
       }
     ],
@@ -294,10 +294,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.75 km de POSTO SHELL - PORTO UNIAO/SC",
-          "data_hora_posicao": "05/11/2026 16:01:21",
-          "lat": -26.2671648,
-          "lon": -51.0586496
+          "referencia": "0.5 km de POSTO IPIRANGA - PORTO UNIAO/SC",
+          "data_hora_posicao": "05/11/2026 16:14:56",
+          "lat": -26.2426896,
+          "lon": -51.0824544
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +337,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T16:02:55"
+  "_gerado_em": "2026-11-05T16:17:57"
 }
