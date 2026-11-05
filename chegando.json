@@ -13,12 +13,12 @@
         "frete_rs": 8859.96,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.17 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
-          "data_hora_posicao": "04/11/2026 22:15:45",
-          "lat": -24.7178448,
-          "lon": -48.0374304
+          "referencia": "2.44 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "04/11/2026 22:29:45",
+          "lat": -24.6068352,
+          "lon": -47.879424
         },
-        "distancia_km": 211.7,
+        "distancia_km": 191.5,
         "proximo": false
       },
       {
@@ -33,10 +33,10 @@
         "frete_rs": 15098.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:14:36",
-          "lat": -26.8874176,
-          "lon": -48.7211072
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 22:30:36",
+          "lat": -26.8873504,
+          "lon": -48.7211808
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:15:04",
+          "data_hora_posicao": "04/11/2026 22:31:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:15:04",
+          "data_hora_posicao": "04/11/2026 22:31:04",
           "lat": -26.887408,
           "lon": -48.7212512
         },
@@ -93,10 +93,10 @@
         "frete_rs": 7198.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:16:23",
-          "lat": -26.8876864,
-          "lon": -48.7206272
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 22:30:23",
+          "lat": -26.8876736,
+          "lon": -48.7207296
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -113,10 +113,10 @@
         "frete_rs": 13886.08,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:16:23",
-          "lat": -26.8876864,
-          "lon": -48.7206272
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "04/11/2026 22:30:23",
+          "lat": -26.8876736,
+          "lon": -48.7207296
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -160,142 +160,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013549-6",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 334.38,
-        "frete_rs": 993.45,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:15:26",
-          "lat": -26.8873568,
-          "lon": -48.7208352
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074243-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 3970.56,
-        "frete_rs": 4824.26,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.29 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "04/11/2026 22:16:00",
-          "lat": -23.7617376,
-          "lon": -46.9051808
-        },
-        "distancia_km": 392.6,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074244-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1756.91,
-        "frete_rs": 3046.83,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.21 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 22:16:16",
-          "lat": -23.791448,
-          "lon": -46.7591168
-        },
-        "distancia_km": 396.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074248-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 501.12,
-        "frete_rs": 2697.04,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044191-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 895.29,
-        "frete_rs": 904.62,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.35 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "04/11/2026 22:14:35",
-          "lat": -27.0518483333333,
-          "lon": -49.390305
-        },
-        "distancia_km": 68.8,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016332-5",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 1918.86,
-        "frete_rs": 2314.9,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 334.38,
-        "frete_rs": 993.45,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 6228.59,
-        "frete_rs": 10568.130000000001,
-        "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 895.29,
-        "frete_rs": 904.62,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 1918.86,
-        "frete_rs": 2314.9,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -311,9 +175,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "04/11/2026 22:15:26",
-          "lat": -26.8873568,
-          "lon": -48.7208352
+          "data_hora_posicao": "04/11/2026 22:31:26",
+          "lat": -26.8872832,
+          "lon": -48.7211872
         },
         "distancia_km": 98.6,
         "proximo": false
@@ -330,12 +194,12 @@
         "frete_rs": 6117.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 22:14:38",
-          "lat": -23.6375536,
-          "lon": -46.8339968
+          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 22:30:38",
+          "lat": -23.783816,
+          "lon": -46.914448
         },
-        "distancia_km": 487.2,
+        "distancia_km": 469.2,
         "proximo": false
       },
       {
@@ -351,7 +215,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 22:15:01",
+          "data_hora_posicao": "04/11/2026 22:31:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -406,10 +270,10 @@
         "frete_rs": 4902.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de ESTACIONAMENTO DE CAMINHÕES MEGA PARK MARGINAL TRUCK - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 22:14:59",
-          "lat": -23.5273633333333,
-          "lon": -46.5831333333333
+          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "04/11/2026 22:30:58",
+          "lat": -23.5077466666667,
+          "lon": -46.719575
         },
         "distancia_km": null,
         "proximo": false
@@ -426,10 +290,10 @@
         "frete_rs": 8125.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.92 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 22:16:05",
-          "lat": -24.7591808,
-          "lon": -48.1643904
+          "referencia": "0.14 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
+          "data_hora_posicao": "04/11/2026 22:30:05",
+          "lat": -24.7005696,
+          "lon": -48.0060576
         },
         "distancia_km": null,
         "proximo": false
@@ -446,10 +310,10 @@
         "frete_rs": 13233.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.92 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "04/11/2026 22:16:05",
-          "lat": -24.7591808,
-          "lon": -48.1643904
+          "referencia": "0.14 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
+          "data_hora_posicao": "04/11/2026 22:30:05",
+          "lat": -24.7005696,
+          "lon": -48.0060576
         },
         "distancia_km": null,
         "proximo": false
@@ -487,10 +351,10 @@
         "frete_rs": 5049.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "04/11/2026 22:14:38",
-          "lat": -23.6375536,
-          "lon": -46.8339968
+          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 22:30:38",
+          "lat": -23.783816,
+          "lon": -46.914448
         },
         "distancia_km": null,
         "proximo": false
@@ -519,6 +383,117 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074243-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 3970.56,
+        "frete_rs": 4824.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.11 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "04/11/2026 22:30:00",
+          "lat": -23.885328,
+          "lon": -46.9759744
+        },
+        "distancia_km": 377.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074244-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1756.91,
+        "frete_rs": 3046.83,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.06 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "04/11/2026 22:30:42",
+          "lat": -23.662728,
+          "lon": -46.8234912
+        },
+        "distancia_km": 406.2,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074248-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 501.12,
+        "frete_rs": 2697.04,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044191-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 895.29,
+        "frete_rs": 904.62,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 22:30:34",
+          "lat": -26.9625966666667,
+          "lon": -49.337555
+        },
+        "distancia_km": 61.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016332-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 1918.86,
+        "frete_rs": 2314.9,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 6228.59,
+        "frete_rs": 10568.130000000001,
+        "qtde": 3
+      },
+      "Rio do Sul": {
+        "peso_kg": 895.29,
+        "frete_rs": 904.62,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 1918.86,
+        "frete_rs": 2314.9,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -533,12 +508,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.21 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "04/11/2026 22:16:16",
-          "lat": -23.791448,
-          "lon": -46.7591168
+          "referencia": "1.06 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "04/11/2026 22:30:42",
+          "lat": -23.662728,
+          "lon": -46.8234912
         },
-        "distancia_km": 816.4,
+        "distancia_km": 825.3,
         "proximo": false
       },
       {
@@ -554,7 +529,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "04/11/2026 22:15:33",
+          "data_hora_posicao": "04/11/2026 22:31:33",
           "lat": -29.9833984,
           "lon": -51.186656
         },
@@ -589,10 +564,10 @@
         "frete_rs": 8228.37,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "04/11/2026 22:16:24",
-          "lat": -23.470984,
-          "lon": -46.461376
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "04/11/2026 22:31:11",
+          "lat": -23.470976,
+          "lon": -46.4613408
         },
         "distancia_km": 366.8,
         "proximo": false
@@ -609,12 +584,12 @@
         "frete_rs": 11181.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "04/11/2026 22:14:35",
-          "lat": -27.0518483333333,
-          "lon": -49.390305
+          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 22:30:34",
+          "lat": -26.9625966666667,
+          "lon": -49.337555
         },
-        "distancia_km": 169.7,
+        "distancia_km": 159.6,
         "proximo": false
       },
       {
@@ -629,12 +604,12 @@
         "frete_rs": 75.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "04/11/2026 22:14:35",
-          "lat": -27.0518483333333,
-          "lon": -49.390305
+          "referencia": "2.34 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "04/11/2026 22:30:34",
+          "lat": -26.9625966666667,
+          "lon": -49.337555
         },
-        "distancia_km": 169.7,
+        "distancia_km": 159.6,
         "proximo": false
       }
     ],
@@ -666,7 +641,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "04/11/2026 22:15:01",
+          "data_hora_posicao": "04/11/2026 22:31:01",
           "lat": -29.1463008,
           "lon": -51.164768
         },
@@ -682,5 +657,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-04T22:17:38"
+  "_gerado_em": "2026-11-04T22:32:37"
 }
