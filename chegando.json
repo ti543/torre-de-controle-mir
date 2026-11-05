@@ -1,4 +1,90 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010359-4",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 2794.74,
+        "frete_rs": 7229.04,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "05/11/2026 18:15:21",
+          "lat": -22.8469383333333,
+          "lon": -47.124775
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024000-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 3655.04,
+        "frete_rs": 3968.74,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024001-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 3689.54,
+        "frete_rs": 4045.65,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016331-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 9137.85,
+        "frete_rs": 13021.88,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 2794.74,
+        "frete_rs": 7229.04,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 7344.58,
+        "frete_rs": 8014.389999999999,
+        "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 9137.85,
+        "frete_rs": 13021.88,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -13,12 +99,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 18:01:01",
-          "lat": -27.8185696,
-          "lon": -50.3683168
+          "referencia": "0.56 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "05/11/2026 18:16:39",
+          "lat": -27.6920384,
+          "lon": -50.3359936
         },
-        "distancia_km": 98.3,
+        "distancia_km": 86.6,
         "proximo": false
       },
       {
@@ -33,12 +119,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 18:01:01",
-          "lat": -27.8185696,
-          "lon": -50.3683168
+          "referencia": "0.56 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "05/11/2026 18:16:39",
+          "lat": -27.6920384,
+          "lon": -50.3359936
         },
-        "distancia_km": 98.3,
+        "distancia_km": 86.6,
         "proximo": false
       },
       {
@@ -53,12 +139,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 18:01:01",
-          "lat": -27.8185696,
-          "lon": -50.3683168
+          "referencia": "0.56 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "05/11/2026 18:16:39",
+          "lat": -27.6920384,
+          "lon": -50.3359936
         },
-        "distancia_km": 98.3,
+        "distancia_km": 86.6,
         "proximo": false
       }
     ],
@@ -89,12 +175,12 @@
         "frete_rs": 170.17,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO IRMÃO DA ESTRADA (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "05/11/2026 18:01:20",
-          "lat": -26.982571,
-          "lon": -48.6735978
+          "referencia": "0.68 km de POSTO MIME (FILIAL 32) - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 18:16:24",
+          "lat": -26.9342405,
+          "lon": -48.7010165
         },
-        "distancia_km": 11.6,
+        "distancia_km": 5.6,
         "proximo": true
       }
     ],
@@ -147,7 +233,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 18:00:52",
+          "data_hora_posicao": "05/11/2026 18:16:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -167,7 +253,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 17:59:40",
+          "data_hora_posicao": "05/11/2026 18:15:40",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -187,7 +273,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 17:59:40",
+          "data_hora_posicao": "05/11/2026 18:15:40",
           "lat": -29.9834566666667,
           "lon": -51.1866833333333
         },
@@ -208,67 +294,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024000-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3655.04,
-        "frete_rs": 3968.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024001-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3689.54,
-        "frete_rs": 4045.65,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016331-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 9137.85,
-        "frete_rs": 13021.88,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 7344.58,
-        "frete_rs": 8014.389999999999,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 9137.85,
-        "frete_rs": 13021.88,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -283,10 +308,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de PREMIUM TABACOS DO BRASIL LTDA - CANOINHAS/SC",
-          "data_hora_posicao": "05/11/2026 17:59:58",
-          "lat": -26.1831536,
-          "lon": -50.3846944
+          "referencia": "2.08 km de AUTO POSTO ELDORADO - CANOINHAS/SC",
+          "data_hora_posicao": "05/11/2026 18:04:56",
+          "lat": -26.2078896,
+          "lon": -50.366
         },
         "distancia_km": null,
         "proximo": false
@@ -326,5 +351,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T18:02:36"
+  "_gerado_em": "2026-11-05T18:17:46"
 }
