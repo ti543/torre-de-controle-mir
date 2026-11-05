@@ -1,4 +1,110 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000754-4",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 9464.6,
+        "frete_rs": 10893.63,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "5.14 km de VALLE DORO - ILHOTA/SC",
+          "data_hora_posicao": "05/11/2026 19:30:07",
+          "lat": -26.9936508,
+          "lon": -48.814899
+        },
+        "distancia_km": 15.0,
+        "proximo": true
+      },
+      {
+        "manif": "CTB013559-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 2289.02,
+        "frete_rs": 2710.01,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.28 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 19:30:22",
+          "lat": -25.82625,
+          "lon": -49.121735
+        },
+        "distancia_km": 124.6,
+        "proximo": false
+      },
+      {
+        "manif": "POA016215-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4933.1,
+        "frete_rs": 5705.53,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "2.19 km de PEDAGIO - S. A. DA PATRULHA (BR 290 SENTIDO LITORAL) - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "05/11/2026 19:29:34",
+          "lat": -29.8898944,
+          "lon": -50.4711776
+        },
+        "distancia_km": 375.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044217-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 460.96,
+        "frete_rs": 163.18,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.26 km de POSTO COLIBRIS - LONTRAS/SC",
+          "data_hora_posicao": "05/11/2026 19:31:14",
+          "lat": -27.1579104,
+          "lon": -49.5564768
+        },
+        "distancia_km": 88.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 9464.6,
+        "frete_rs": 10893.63,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 2289.02,
+        "frete_rs": 2710.01,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 4933.1,
+        "frete_rs": 5705.53,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 460.96,
+        "frete_rs": 163.18,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -13,12 +119,12 @@
         "frete_rs": 7229.04,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.47 km de BOSCH REXROTH LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "05/11/2026 19:14:30",
-          "lat": -23.040815,
-          "lon": -46.679505
+          "referencia": "1.14 km de POSTO SHELL - ATIBAIA/SP",
+          "data_hora_posicao": "05/11/2026 19:30:40",
+          "lat": -23.1778,
+          "lon": -46.5794133333333
         },
-        "distancia_km": 52.7,
+        "distancia_km": 34.7,
         "proximo": false
       },
       {
@@ -33,12 +139,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "05/11/2026 19:15:11",
-          "lat": -25.5279152,
-          "lon": -49.2955488
+          "referencia": "0.44 km de PATIO 201 CAMINHOES E CARRETAS - CURITIBA/PR",
+          "data_hora_posicao": "05/11/2026 19:31:11",
+          "lat": -25.507984,
+          "lon": -49.2848704
         },
-        "distancia_km": 366.8,
+        "distancia_km": 364.5,
         "proximo": false
       },
       {
@@ -53,12 +159,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:16:38",
-          "lat": -27.2062496,
-          "lon": -49.6495968
+          "referencia": "1.26 km de POSTO COLIBRIS - LONTRAS/SC",
+          "data_hora_posicao": "05/11/2026 19:31:14",
+          "lat": -27.1579104,
+          "lon": -49.5564768
         },
-        "distancia_km": 524.5,
+        "distancia_km": 514.6,
         "proximo": false
       }
     ],
@@ -80,87 +186,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013559-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 2289.02,
-        "frete_rs": 2710.01,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.77 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "05/11/2026 19:16:23",
-          "lat": -25.68213,
-          "lon": -49.1484666666667
-        },
-        "distancia_km": 140.6,
-        "proximo": false
-      },
-      {
-        "manif": "POA016215-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4933.1,
-        "frete_rs": 5705.53,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "8.94 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "05/11/2026 19:14:35",
-          "lat": -29.8881536,
-          "lon": -50.6730336
-        },
-        "distancia_km": 384.4,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044217-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 460.96,
-        "frete_rs": 163.18,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:16:38",
-          "lat": -27.2062496,
-          "lon": -49.6495968
-        },
-        "distancia_km": 98.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 2289.02,
-        "frete_rs": 2710.01,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 4933.1,
-        "frete_rs": 5705.53,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 460.96,
-        "frete_rs": 163.18,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -175,12 +200,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.77 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "05/11/2026 19:16:23",
-          "lat": -25.68213,
-          "lon": -49.1484666666667
+          "referencia": "0.28 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 19:30:22",
+          "lat": -25.82625,
+          "lon": -49.121735
         },
-        "distancia_km": 176.6,
+        "distancia_km": 162.2,
         "proximo": false
       },
       {
@@ -195,12 +220,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:07:01",
-          "lat": -27.305184,
-          "lon": -50.3974752
+          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:29:25",
+          "lat": -27.3015552,
+          "lon": -50.2164224
         },
-        "distancia_km": 74.7,
+        "distancia_km": 57.0,
         "proximo": false
       },
       {
@@ -215,12 +240,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:07:01",
-          "lat": -27.305184,
-          "lon": -50.3974752
+          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:29:25",
+          "lat": -27.3015552,
+          "lon": -50.2164224
         },
-        "distancia_km": 74.7,
+        "distancia_km": 57.0,
         "proximo": false
       },
       {
@@ -235,12 +260,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.44 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 19:07:01",
-          "lat": -27.305184,
-          "lon": -50.3974752
+          "referencia": "1.83 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 19:29:25",
+          "lat": -27.3015552,
+          "lon": -50.2164224
         },
-        "distancia_km": 74.7,
+        "distancia_km": 57.0,
         "proximo": false
       },
       {
@@ -323,7 +348,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 19:16:16",
+          "data_hora_posicao": "05/11/2026 19:30:58",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -343,9 +368,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:16:35",
-          "lat": -29.9833433333333,
-          "lon": -51.186645
+          "data_hora_posicao": "05/11/2026 19:30:35",
+          "lat": -29.983375,
+          "lon": -51.1866233333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -363,9 +388,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 19:16:35",
-          "lat": -29.9833433333333,
-          "lon": -51.186645
+          "data_hora_posicao": "05/11/2026 19:30:35",
+          "lat": -29.983375,
+          "lon": -51.1866233333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -399,7 +424,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 19:14:56",
+          "data_hora_posicao": "05/11/2026 19:30:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -415,5 +440,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T19:17:40"
+  "_gerado_em": "2026-11-05T19:32:38"
 }
