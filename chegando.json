@@ -13,30 +13,10 @@
         "frete_rs": 1636.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.25 km de FILIAL EXPRESSO LEOMAR - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:16:11",
-          "lat": -23.4620592,
-          "lon": -46.4878464
-        },
-        "distancia_km": 2.8,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ023998-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6023.57,
-        "frete_rs": 7998.23,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:14:23",
-          "lat": -23.47052,
-          "lon": -46.4621344
+          "referencia": "0.06 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 13:31:38",
+          "lat": -23.4704544,
+          "lon": -46.4626336
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -72,46 +52,6 @@
         "proximo": false
       },
       {
-        "manif": "RSL044184-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 2815.36,
-        "frete_rs": 7198.78,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:14:23",
-          "lat": -23.47052,
-          "lon": -46.4621344
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044186-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 19411.0,
-        "frete_rs": 13886.08,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 13:14:23",
-          "lat": -23.47052,
-          "lon": -46.4621344
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "TBO016331-7",
         "origin_unit": "TBO",
         "origin_city": "TIMBO/SC",
@@ -134,13 +74,8 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 13368.150000000001,
-        "frete_rs": 16012.619999999999,
-        "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 22226.36,
-        "frete_rs": 21084.86,
+        "peso_kg": 7344.58,
+        "frete_rs": 8014.389999999999,
         "qtde": 2
       },
       "Timbó": {
@@ -165,7 +100,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:15:01",
+          "data_hora_posicao": "05/11/2026 13:31:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -196,7 +131,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:15:01",
+          "data_hora_posicao": "05/11/2026 13:31:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -231,7 +166,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "05/11/2026 13:15:01",
+          "data_hora_posicao": "05/11/2026 13:31:01",
           "lat": -27.8239456,
           "lon": -50.36288
         },
@@ -298,7 +233,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 13:16:16",
+          "data_hora_posicao": "05/11/2026 13:30:16",
           "lat": -26.8876384,
           "lon": -48.7206816
         },
@@ -318,7 +253,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:15:12",
+          "data_hora_posicao": "05/11/2026 13:31:11",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -338,7 +273,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "05/11/2026 13:15:12",
+          "data_hora_posicao": "05/11/2026 13:31:11",
           "lat": -29.1463666666667,
           "lon": -51.1648383333333
         },
@@ -374,7 +309,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.93 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "05/11/2026 13:13:27",
+          "data_hora_posicao": "05/11/2026 13:29:27",
           "lat": -27.6744575,
           "lon": -48.6978625
         },
@@ -405,7 +340,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "2.42 km de POSTO SCARIOTTI - SANTA CECILIA/SC",
-          "data_hora_posicao": "05/11/2026 13:14:56",
+          "data_hora_posicao": "05/11/2026 13:31:33",
           "lat": -26.9767104,
           "lon": -50.3956256
         },
@@ -447,5 +382,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T13:17:37"
+  "_gerado_em": "2026-11-05T13:32:46"
 }
