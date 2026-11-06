@@ -13,12 +13,32 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 15:29:29",
-          "lat": -28.4685611,
-          "lon": -49.0191021
+          "referencia": "1.88 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
+          "data_hora_posicao": "06/11/2026 15:44:43",
+          "lat": -28.455318,
+          "lon": -48.9803778
         },
-        "distancia_km": 178.2,
+        "distancia_km": 176.2,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000390-5",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2629.3,
+        "frete_rs": 5387.97,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "1.88 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
+          "data_hora_posicao": "06/11/2026 15:44:43",
+          "lat": -28.455318,
+          "lon": -48.9803778
+        },
+        "distancia_km": 176.2,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "CRC": {
         "peso_kg": 825.34,
         "frete_rs": 1325.26,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 2629.3,
+        "frete_rs": 5387.97,
         "qtde": 1
       }
     }
@@ -44,12 +69,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.55 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "06/11/2026 15:28:43",
-          "lat": -28.6723466666667,
-          "lon": -51.1474666666667
+          "referencia": "6.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "06/11/2026 15:43:46",
+          "lat": -28.6222633333333,
+          "lon": -51.0426233333333
         },
-        "distancia_km": 219.6,
+        "distancia_km": 208.6,
         "proximo": false
       }
     ],
@@ -76,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:30:16",
+          "data_hora_posicao": "06/11/2026 15:44:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -96,7 +121,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:30:16",
+          "data_hora_posicao": "06/11/2026 15:44:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -116,7 +141,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:30:16",
+          "data_hora_posicao": "06/11/2026 15:44:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -137,72 +162,6 @@
       }
     }
   },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074302-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RLF0A16",
-        "motorista": "TIAGO RUAN PEDRO",
-        "peso_real_kg": 4055.63,
-        "frete_rs": 7597.02,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024025-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RLF0A16",
-        "motorista": "TIAGO RUAN PEDRO",
-        "peso_real_kg": 6289.26,
-        "frete_rs": 6259.82,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044229-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1229.32,
-        "frete_rs": 2140.03,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 4055.63,
-        "frete_rs": 7597.02,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 6289.26,
-        "frete_rs": 6259.82,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1229.32,
-        "frete_rs": 2140.03,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -217,12 +176,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:30:00",
-          "lat": -23.5137024,
-          "lon": -46.6794176
+          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:44:00",
+          "lat": -23.5170048,
+          "lon": -46.6569056
         },
-        "distancia_km": 22.7,
+        "distancia_km": 20.5,
         "proximo": true
       },
       {
@@ -237,12 +196,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:30:00",
-          "lat": -23.5137024,
-          "lon": -46.6794176
+          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:44:00",
+          "lat": -23.5170048,
+          "lon": -46.6569056
         },
-        "distancia_km": 22.7,
+        "distancia_km": 20.5,
         "proximo": true
       }
     ],
@@ -251,37 +210,6 @@
         "peso_kg": 24391.269999999997,
         "frete_rs": 27195.17,
         "qtde": 2
-      }
-    }
-  },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ024026-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 649.96,
-        "frete_rs": 381.16,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.23 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 15:31:52",
-          "lat": -26.890224,
-          "lon": -48.7206208
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 649.96,
-        "frete_rs": 381.16,
-        "qtde": 1
       }
     }
   },
@@ -299,10 +227,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.72 km de CULTIVAR INSUMOS AGRÍCOLAS - CURITIBANOS/SC",
-          "data_hora_posicao": "06/11/2026 15:30:56",
-          "lat": -27.3145856,
-          "lon": -50.5712992
+          "referencia": "0.59 km de POSTO SERRANO X - CURITIBANOS/SC",
+          "data_hora_posicao": "06/11/2026 15:44:56",
+          "lat": -27.3177664,
+          "lon": -50.559184
         },
         "distancia_km": null,
         "proximo": false
@@ -316,5 +244,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T15:33:05"
+  "_gerado_em": "2026-11-06T15:47:46"
 }
