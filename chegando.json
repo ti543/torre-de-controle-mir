@@ -1,4 +1,35 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CRC000395-6",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 825.34,
+        "frete_rs": 1325.26,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "0.31 km de POLÍCIA MILITAR RODOVIÁRIA ESTADUAL - ICARA/SC",
+          "data_hora_posicao": "06/11/2026 13:30:53",
+          "lat": -28.6961528,
+          "lon": -49.3149711
+        },
+        "distancia_km": 209.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "CRC": {
+        "peso_kg": 825.34,
+        "frete_rs": 1325.26,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -14,7 +45,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:16:16",
+          "data_hora_posicao": "06/11/2026 13:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -34,7 +65,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:16:16",
+          "data_hora_posicao": "06/11/2026 13:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -54,7 +85,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:16:16",
+          "data_hora_posicao": "06/11/2026 13:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -90,7 +121,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "06/11/2026 13:15:29",
+          "data_hora_posicao": "06/11/2026 13:29:29",
           "lat": -27.2059104,
           "lon": -49.648928
         },
@@ -186,12 +217,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.05 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:16:00",
-          "lat": -23.736832,
-          "lon": -46.89624
+          "referencia": "0.37 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:30:00",
+          "lat": -23.7183648,
+          "lon": -46.8820736
         },
-        "distancia_km": 53.2,
+        "distancia_km": 50.9,
         "proximo": false
       },
       {
@@ -206,12 +237,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.05 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:16:00",
-          "lat": -23.736832,
-          "lon": -46.89624
+          "referencia": "0.37 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:30:00",
+          "lat": -23.7183648,
+          "lon": -46.8820736
         },
-        "distancia_km": 53.2,
+        "distancia_km": 50.9,
         "proximo": false
       },
       {
@@ -226,13 +257,13 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "06/11/2026 13:16:08",
-          "lat": -23.5812512,
-          "lon": -46.808368
+          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:30:38",
+          "lat": -23.5244,
+          "lon": -46.7474656
         },
-        "distancia_km": 37.4,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024017-6",
@@ -246,13 +277,13 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "06/11/2026 13:16:08",
-          "lat": -23.5812512,
-          "lon": -46.808368
+          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:30:38",
+          "lat": -23.5244,
+          "lon": -46.7474656
         },
-        "distancia_km": 37.4,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "RSL044216-0",
@@ -266,13 +297,13 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "06/11/2026 13:16:08",
-          "lat": -23.5812512,
-          "lon": -46.808368
+          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:30:38",
+          "lat": -23.5244,
+          "lon": -46.7474656
         },
-        "distancia_km": 37.4,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "RSL044218-6",
@@ -286,12 +317,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de BIG PACAEMBÚ - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:15:03",
-          "lat": -23.5166304,
-          "lon": -46.6602016
+          "referencia": "0.19 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:31:03",
+          "lat": -23.5281616,
+          "lon": -46.5971296
         },
-        "distancia_km": 20.8,
+        "distancia_km": 15.2,
         "proximo": true
       },
       {
@@ -343,37 +374,6 @@
       }
     }
   },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024019-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3910.07,
-        "frete_rs": 4121.56,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "06/11/2026 13:14:37",
-          "lat": -28.6901271,
-          "lon": -49.3155853
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 3910.07,
-        "frete_rs": 4121.56,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -388,10 +388,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.24 km de PEDAGIO - MONTE CASTELO - MONTE CASTELO/SC",
-          "data_hora_posicao": "06/11/2026 13:07:23",
-          "lat": -26.623744,
-          "lon": -50.242048
+          "referencia": "0.43 km de RESTAURANTE GAUCHÃO - SANTA CECILIA/SC",
+          "data_hora_posicao": "06/11/2026 13:27:23",
+          "lat": -26.7721728,
+          "lon": -50.34944
         },
         "distancia_km": null,
         "proximo": false
@@ -420,9 +420,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:15:41",
-          "lat": -28.9080518,
-          "lon": -51.1932853
+          "data_hora_posicao": "06/11/2026 13:31:00",
+          "lat": -28.9081811,
+          "lon": -51.193238
         },
         "distancia_km": null,
         "proximo": false
@@ -440,9 +440,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:15:41",
-          "lat": -28.9080518,
-          "lon": -51.1932853
+          "data_hora_posicao": "06/11/2026 13:31:00",
+          "lat": -28.9081811,
+          "lon": -51.193238
         },
         "distancia_km": null,
         "proximo": false
@@ -456,5 +456,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T13:17:41"
+  "_gerado_em": "2026-11-06T13:32:34"
 }
