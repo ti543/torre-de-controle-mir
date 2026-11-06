@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 14:45:32",
+          "data_hora_posicao": "06/11/2026 15:01:29",
           "lat": -28.4685611,
           "lon": -49.0191021
         },
@@ -44,12 +44,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.16 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 14:45:23",
-          "lat": -28.93528,
-          "lon": -51.1833066666667
+          "referencia": "1.32 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "06/11/2026 15:00:01",
+          "lat": -28.8484783333333,
+          "lon": -51.25741
         },
-        "distancia_km": 244.2,
+        "distancia_km": 241.4,
         "proximo": false
       }
     ],
@@ -76,7 +76,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 14:46:16",
+          "data_hora_posicao": "06/11/2026 15:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -96,7 +96,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 14:46:16",
+          "data_hora_posicao": "06/11/2026 15:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -116,7 +116,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 14:46:16",
+          "data_hora_posicao": "06/11/2026 15:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -217,13 +217,13 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "06/11/2026 14:46:31",
-          "lat": -23.5629328,
-          "lon": -46.8200064
+          "referencia": "0.06 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:00:00",
+          "lat": -23.5178624,
+          "lon": -46.7310976
         },
-        "distancia_km": 37.9,
-        "proximo": false
+        "distancia_km": 27.9,
+        "proximo": true
       },
       {
         "manif": "ITJ024011-7",
@@ -237,85 +237,20 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "06/11/2026 14:46:31",
-          "lat": -23.5629328,
-          "lon": -46.8200064
+          "referencia": "0.06 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:00:00",
+          "lat": -23.5178624,
+          "lon": -46.7310976
         },
-        "distancia_km": 37.9,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024016-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 14290.53,
-        "frete_rs": 16301.21,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 14:44:44",
-          "lat": -23.4706976,
-          "lon": -46.4623008
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024017-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 0.01,
-        "frete_rs": 162.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 14:44:44",
-          "lat": -23.4706976,
-          "lon": -46.4623008
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044216-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 14121.7,
-        "frete_rs": 7752.59,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 14:44:44",
-          "lat": -23.4706976,
-          "lon": -46.4623008
-        },
-        "distancia_km": 0.0,
+        "distancia_km": 27.9,
         "proximo": true
       }
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 38681.81,
-        "frete_rs": 43658.38,
-        "qtde": 4
-      },
-      "Rio do Sul": {
-        "peso_kg": 14121.7,
-        "frete_rs": 7752.59,
-        "qtde": 1
+        "peso_kg": 24391.269999999997,
+        "frete_rs": 27195.17,
+        "qtde": 2
       }
     }
   },
@@ -333,10 +268,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de 1ºPEL/2ºGP - 2º GRUPO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "06/11/2026 14:46:13",
-          "lat": -27.2642336,
-          "lon": -50.4422944
+          "referencia": "0.17 km de SUPERGASBRAS - CURITIBANOS/SC",
+          "data_hora_posicao": "06/11/2026 15:00:56",
+          "lat": -27.3149536,
+          "lon": -50.5469984
         },
         "distancia_km": null,
         "proximo": false
@@ -364,10 +299,10 @@
         "frete_rs": 3472.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "06/11/2026 14:46:22",
-          "lat": -29.127807,
-          "lon": -51.192122
+          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "06/11/2026 15:01:21",
+          "lat": -29.1464903,
+          "lon": -51.1651035
         },
         "distancia_km": null,
         "proximo": false
@@ -384,10 +319,10 @@
         "frete_rs": 1779.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "06/11/2026 14:46:22",
-          "lat": -29.127807,
-          "lon": -51.192122
+          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "06/11/2026 15:01:21",
+          "lat": -29.1464903,
+          "lon": -51.1651035
         },
         "distancia_km": null,
         "proximo": false
@@ -401,5 +336,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T14:47:43"
+  "_gerado_em": "2026-11-06T15:02:45"
 }
