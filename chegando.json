@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "1.29 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 23:15:11",
+          "data_hora_posicao": "05/11/2026 23:31:11",
           "lat": -24.940952,
           "lon": -48.3064416
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 23:16:00",
+          "data_hora_posicao": "05/11/2026 23:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 23:16:00",
+          "data_hora_posicao": "05/11/2026 23:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -73,10 +73,10 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 23:14:38",
-          "lat": -26.8877152,
-          "lon": -48.7206624
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 23:30:38",
+          "lat": -26.8876448,
+          "lon": -48.7207264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -93,12 +93,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.7 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 23:16:26",
-          "lat": -26.5497744,
-          "lon": -48.714416
+          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 23:31:03",
+          "lat": -26.5539824,
+          "lon": -48.7198816
         },
-        "distancia_km": 410.8,
+        "distancia_km": 411.4,
         "proximo": false
       },
       {
@@ -199,12 +199,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 23:15:48",
-          "lat": -26.8873733333333,
-          "lon": -48.721195
+          "referencia": "0.08 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 23:31:17",
+          "lat": -26.8596483333333,
+          "lon": -48.727595
         },
-        "distancia_km": 98.5,
+        "distancia_km": 99.1,
         "proximo": false
       },
       {
@@ -219,10 +219,10 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 23:15:29",
-          "lat": -23.4708976,
-          "lon": -46.462176
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 23:31:29",
+          "lat": -23.470928,
+          "lon": -46.4612896
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -241,6 +241,26 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "ITJ024012-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 786.55,
+        "frete_rs": 1657.12,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 23:31:17",
+          "lat": -26.8596483333333,
+          "lon": -48.727595
+        },
+        "distancia_km": 99.1,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -253,6 +273,11 @@
         "peso_kg": 17016.0,
         "frete_rs": 24469.239999999998,
         "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 786.55,
+        "frete_rs": 1657.12,
+        "qtde": 1
       }
     }
   },
@@ -297,7 +322,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 23:16:16",
+          "data_hora_posicao": "05/11/2026 23:30:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -317,7 +342,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 23:16:18",
+          "data_hora_posicao": "05/11/2026 23:30:18",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -337,7 +362,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 23:16:18",
+          "data_hora_posicao": "05/11/2026 23:30:18",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -372,12 +397,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.55 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "05/11/2026 23:15:04",
-          "lat": -23.9730704,
-          "lon": -47.1371776
+          "referencia": "7.14 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "05/11/2026 23:31:04",
+          "lat": -24.0967824,
+          "lon": -47.2568032
         },
-        "distancia_km": 361.0,
+        "distancia_km": 343.3,
         "proximo": false
       },
       {
@@ -407,12 +432,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.21 km de PRF - TUBARAO/SC",
-          "data_hora_posicao": "05/11/2026 23:16:05",
-          "lat": -28.5455488,
-          "lon": -49.053328
+          "referencia": "2.6 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "05/11/2026 23:31:45",
+          "lat": -28.4244544,
+          "lon": -48.9381856
         },
-        "distancia_km": 187.2,
+        "distancia_km": 172.2,
         "proximo": false
       },
       {
@@ -427,12 +452,12 @@
         "frete_rs": 1544.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "05/11/2026 23:15:27",
-          "lat": -26.8882528,
-          "lon": -48.9920384
+          "referencia": "1.61 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
+          "data_hora_posicao": "05/11/2026 23:31:27",
+          "lat": -26.874896,
+          "lon": -48.8254976
         },
-        "distancia_km": 26.9,
+        "distancia_km": 10.5,
         "proximo": true
       }
     ],
@@ -468,12 +493,12 @@
         "frete_rs": 6264.24,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.81 km de 2°CIA 41°BPM - SANTO ANDRE/SP",
-          "data_hora_posicao": "05/11/2026 23:15:45",
-          "lat": -23.7287008,
-          "lon": -46.490224
+          "referencia": "4.82 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "05/11/2026 23:29:45",
+          "lat": -23.7916832,
+          "lon": -46.6579712
         },
-        "distancia_km": 347.0,
+        "distancia_km": 329.1,
         "proximo": false
       },
       {
@@ -488,12 +513,12 @@
         "frete_rs": 6460.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.95 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "05/11/2026 23:15:27",
-          "lat": -26.8882528,
-          "lon": -48.9920384
+          "referencia": "1.61 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
+          "data_hora_posicao": "05/11/2026 23:31:27",
+          "lat": -26.874896,
+          "lon": -48.8254976
         },
-        "distancia_km": 154.3,
+        "distancia_km": 157.0,
         "proximo": false
       }
     ],
@@ -524,10 +549,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 23:15:29",
-          "lat": -23.4708976,
-          "lon": -46.462176
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 23:31:29",
+          "lat": -23.470928,
+          "lon": -46.4612896
         },
         "distancia_km": null,
         "proximo": false
@@ -571,7 +596,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 23:14:56",
+          "data_hora_posicao": "05/11/2026 23:30:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -587,5 +612,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T23:17:34"
+  "_gerado_em": "2026-11-05T23:32:43"
 }
