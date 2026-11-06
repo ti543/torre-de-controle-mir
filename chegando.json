@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.66 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "06/11/2026 01:31:11",
+          "data_hora_posicao": "06/11/2026 01:45:11",
           "lat": -24.9349152,
           "lon": -48.2883552
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:00",
+          "data_hora_posicao": "06/11/2026 01:46:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -54,9 +54,49 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:00",
+          "data_hora_posicao": "06/11/2026 01:46:00",
           "lat": -26.8873952,
           "lon": -48.7211616
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024016-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 14290.53,
+        "frete_rs": 16301.21,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 01:44:38",
+          "lat": -26.8877248,
+          "lon": -48.7206688
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024017-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 0.01,
+        "frete_rs": 162.0,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 01:44:38",
+          "lat": -26.8877248,
+          "lon": -48.7206688
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -74,7 +114,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:38",
+          "data_hora_posicao": "06/11/2026 01:44:38",
           "lat": -26.8877248,
           "lon": -48.7206688
         },
@@ -93,12 +133,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.99 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "06/11/2026 01:31:03",
-          "lat": -25.683928,
-          "lon": -49.1476512
+          "referencia": "0.15 km de POSTO TULIO CONTORNO - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "06/11/2026 01:45:58",
+          "lat": -25.5406208,
+          "lon": -49.1506048
         },
-        "distancia_km": 366.5,
+        "distancia_km": 356.3,
         "proximo": false
       },
       {
@@ -169,9 +209,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 24391.269999999997,
-        "frete_rs": 27195.17,
-        "qtde": 2
+        "peso_kg": 38681.81,
+        "frete_rs": 43658.38,
+        "qtde": 4
       },
       "Rio do Sul": {
         "peso_kg": 71125.73999999999,
@@ -199,12 +239,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "06/11/2026 01:31:36",
-          "lat": -27.1358216666667,
-          "lon": -49.543595
+          "referencia": "0.72 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "06/11/2026 01:45:34",
+          "lat": -27.1825166666667,
+          "lon": -49.6011916666667
         },
-        "distancia_km": 13.1,
+        "distancia_km": 5.5,
         "proximo": true
       },
       {
@@ -219,12 +259,12 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.01 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 01:31:29",
-          "lat": -23.8780144,
-          "lon": -46.968576
+          "referencia": "2.69 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 01:45:29",
+          "lat": -23.9432912,
+          "lon": -47.0959392
         },
-        "distancia_km": 457.5,
+        "distancia_km": 444.1,
         "proximo": false
       },
       {
@@ -254,12 +294,12 @@
         "frete_rs": 1657.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "06/11/2026 01:31:36",
-          "lat": -27.1358216666667,
-          "lon": -49.543595
+          "referencia": "0.72 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "06/11/2026 01:45:34",
+          "lat": -27.1825166666667,
+          "lon": -49.6011916666667
         },
-        "distancia_km": 13.1,
+        "distancia_km": 5.5,
         "proximo": true
       }
     ],
@@ -310,10 +350,10 @@
         "frete_rs": 8947.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.33 km de SOFTYS BRASIL LTDA. - CAIEIRAS/SP",
-          "data_hora_posicao": "06/11/2026 01:30:35",
-          "lat": -23.3758216666667,
-          "lon": -46.775145
+          "referencia": "1.92 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "06/11/2026 01:45:16",
+          "lat": -23.2341,
+          "lon": -46.8924533333333
         },
         "distancia_km": null,
         "proximo": false
@@ -330,10 +370,10 @@
         "frete_rs": 511.65,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.33 km de SOFTYS BRASIL LTDA. - CAIEIRAS/SP",
-          "data_hora_posicao": "06/11/2026 01:30:35",
-          "lat": -23.3758216666667,
-          "lon": -46.775145
+          "referencia": "1.92 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "06/11/2026 01:45:16",
+          "lat": -23.2341,
+          "lon": -46.8924533333333
         },
         "distancia_km": null,
         "proximo": false
@@ -361,12 +401,12 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:16",
-          "lat": -26.9089504,
-          "lon": -48.713584
+          "referencia": "1.47 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "06/11/2026 01:46:16",
+          "lat": -27.0375104,
+          "lon": -48.60048
         },
-        "distancia_km": 418.7,
+        "distancia_km": 413.7,
         "proximo": false
       },
       {
@@ -381,12 +421,12 @@
         "frete_rs": 16655.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:16",
-          "lat": -26.9089504,
-          "lon": -48.713584
+          "referencia": "1.47 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "06/11/2026 01:46:16",
+          "lat": -27.0375104,
+          "lon": -48.60048
         },
-        "distancia_km": 418.7,
+        "distancia_km": 413.7,
         "proximo": false
       },
       {
@@ -401,12 +441,12 @@
         "frete_rs": 1018.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 01:30:16",
-          "lat": -26.9089504,
-          "lon": -48.713584
+          "referencia": "1.47 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "06/11/2026 01:46:16",
+          "lat": -27.0375104,
+          "lon": -48.60048
         },
-        "distancia_km": 418.7,
+        "distancia_km": 413.7,
         "proximo": false
       },
       {
@@ -422,7 +462,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 01:31:31",
+          "data_hora_posicao": "06/11/2026 01:45:31",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -442,7 +482,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 01:31:31",
+          "data_hora_posicao": "06/11/2026 01:45:31",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -482,12 +522,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.42 km de BMW LANCHONETE - CAJATI/SP",
-          "data_hora_posicao": "06/11/2026 01:28:18",
-          "lat": -24.8805888,
-          "lon": -48.2292224
+          "referencia": "2.01 km de POSTO RABI - BARRA DO TURVO/SP",
+          "data_hora_posicao": "06/11/2026 01:38:18",
+          "lat": -24.9458432,
+          "lon": -48.3124736
         },
-        "distancia_km": 228.5,
+        "distancia_km": 219.7,
         "proximo": false
       },
       {
@@ -517,12 +557,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "06/11/2026 01:31:34",
-          "lat": -27.3200352,
-          "lon": -48.6281024
+          "referencia": "1.82 km de POSTO GRAAL GP SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "06/11/2026 01:45:34",
+          "lat": -27.15704,
+          "lon": -48.6108384
         },
-        "distancia_km": 49.0,
+        "distancia_km": 31.9,
         "proximo": false
       }
     ],
@@ -553,12 +593,12 @@
         "frete_rs": 6264.24,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.08 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "06/11/2026 01:29:45",
-          "lat": -24.3418272,
-          "lon": -47.6463744
+          "referencia": "0.72 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "06/11/2026 01:45:45",
+          "lat": -24.4402528,
+          "lon": -47.797296
         },
-        "distancia_km": 212.2,
+        "distancia_km": 193.4,
         "proximo": false
       },
       {
@@ -573,12 +613,12 @@
         "frete_rs": 4732.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.42 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
-          "data_hora_posicao": "06/11/2026 01:31:27",
-          "lat": -26.7036272,
-          "lon": -48.7001216
+          "referencia": "0.24 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "06/11/2026 01:46:07",
+          "lat": -26.5559744,
+          "lon": -48.7204448
         },
-        "distancia_km": 143.6,
+        "distancia_km": 128.0,
         "proximo": false
       },
       {
@@ -593,12 +633,12 @@
         "frete_rs": 6460.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.42 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
-          "data_hora_posicao": "06/11/2026 01:31:27",
-          "lat": -26.7036272,
-          "lon": -48.7001216
+          "referencia": "0.24 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "06/11/2026 01:46:07",
+          "lat": -26.5559744,
+          "lon": -48.7204448
         },
-        "distancia_km": 143.6,
+        "distancia_km": 128.0,
         "proximo": false
       }
     ],
@@ -634,10 +674,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.01 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 01:31:29",
-          "lat": -23.8780144,
-          "lon": -46.968576
+          "referencia": "2.69 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 01:45:29",
+          "lat": -23.9432912,
+          "lon": -47.0959392
         },
         "distancia_km": null,
         "proximo": false
@@ -681,7 +721,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "06/11/2026 01:30:56",
+          "data_hora_posicao": "06/11/2026 01:44:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -697,5 +737,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T01:32:48"
+  "_gerado_em": "2026-11-06T01:47:35"
 }
