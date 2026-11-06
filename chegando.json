@@ -1,4 +1,80 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010365-9",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPV8F30",
+        "motorista": "ODAIR JUSTO DA SILVA",
+        "peso_real_kg": 4951.0,
+        "frete_rs": 10705.44,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.4 km de POLYSER - VALINHOS/SP",
+          "data_hora_posicao": "06/11/2026 16:20:05",
+          "lat": -22.9830016,
+          "lon": -47.0482176
+        },
+        "distancia_km": 80.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024010-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 20305.78,
+        "frete_rs": 20319.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.3 km de UNIÃO QUÍMICA - INOVAT - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 16:20:45",
+          "lat": -23.467544,
+          "lon": -46.5057664
+        },
+        "distancia_km": 4.4,
+        "proximo": true
+      },
+      {
+        "manif": "ITJ024011-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 4085.49,
+        "frete_rs": 6876.14,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.3 km de UNIÃO QUÍMICA - INOVAT - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 16:20:45",
+          "lat": -23.467544,
+          "lon": -46.5057664
+        },
+        "distancia_km": 4.4,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 4951.0,
+        "frete_rs": 10705.44,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 24391.269999999997,
+        "frete_rs": 27195.17,
+        "qtde": 2
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -13,12 +89,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.91 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
-          "data_hora_posicao": "06/11/2026 15:47:36",
-          "lat": -28.4313031,
-          "lon": -48.953754
+          "referencia": "0.06 km de POSTO DOM SIMON - LAGUNA/SC",
+          "data_hora_posicao": "06/11/2026 16:21:09",
+          "lat": -28.3879361,
+          "lon": -48.7743553
         },
-        "distancia_km": 173.2,
+        "distancia_km": 166.9,
         "proximo": false
       },
       {
@@ -33,12 +109,12 @@
         "frete_rs": 5387.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.91 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
-          "data_hora_posicao": "06/11/2026 15:47:36",
-          "lat": -28.4313031,
-          "lon": -48.953754
+          "referencia": "0.06 km de POSTO DOM SIMON - LAGUNA/SC",
+          "data_hora_posicao": "06/11/2026 16:21:09",
+          "lat": -28.3879361,
+          "lon": -48.7743553
         },
-        "distancia_km": 173.2,
+        "distancia_km": 166.9,
         "proximo": false
       }
     ],
@@ -69,12 +145,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.64 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "06/11/2026 15:43:46",
-          "lat": -28.6222633333333,
-          "lon": -51.0426233333333
+          "referencia": "9.44 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "06/11/2026 16:20:50",
+          "lat": -28.3603883333333,
+          "lon": -50.8314366666667
         },
-        "distancia_km": 208.6,
+        "distancia_km": 173.2,
         "proximo": false
       },
       {
@@ -90,9 +166,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 15:44:44",
-          "lat": -23.47048,
-          "lon": -46.4621376
+          "data_hora_posicao": "06/11/2026 16:20:56",
+          "lat": -23.4704496,
+          "lon": -46.4622016
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -126,7 +202,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:44:16",
+          "data_hora_posicao": "06/11/2026 16:20:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -146,7 +222,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:44:16",
+          "data_hora_posicao": "06/11/2026 16:20:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -166,7 +242,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:44:16",
+          "data_hora_posicao": "06/11/2026 16:20:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -187,57 +263,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024010-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 20305.78,
-        "frete_rs": 20319.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:44:00",
-          "lat": -23.5170048,
-          "lon": -46.6569056
-        },
-        "distancia_km": 20.5,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024011-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 4085.49,
-        "frete_rs": 6876.14,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.42 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:44:00",
-          "lat": -23.5170048,
-          "lon": -46.6569056
-        },
-        "distancia_km": 20.5,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 24391.269999999997,
-        "frete_rs": 27195.17,
-        "qtde": 2
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -252,10 +277,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.59 km de POSTO SERRANO X - CURITIBANOS/SC",
-          "data_hora_posicao": "06/11/2026 15:44:56",
-          "lat": -27.3177664,
-          "lon": -50.559184
+          "referencia": "2.4 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "06/11/2026 16:10:56",
+          "lat": -27.3050784,
+          "lon": -50.3978656
         },
         "distancia_km": null,
         "proximo": false
@@ -269,5 +294,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T16:17:47"
+  "_gerado_em": "2026-11-06T16:32:50"
 }
