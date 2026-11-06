@@ -13,53 +13,13 @@
         "frete_rs": 10705.44,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.12 km de ÁREA DE DESCANSO PARA CAMINHONEIROS - ITATIBA/SP",
-          "data_hora_posicao": "06/11/2026 16:46:05",
-          "lat": -22.9493168,
-          "lon": -46.86736
+          "referencia": "1.35 km de CONCESSIONARIA MERCEDES BENZ - ITATIBA/SP",
+          "data_hora_posicao": "06/11/2026 17:00:05",
+          "lat": -23.0007424,
+          "lon": -46.78112
         },
-        "distancia_km": 71.2,
+        "distancia_km": 61.6,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024010-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 20305.78,
-        "frete_rs": 20319.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 16:46:00",
-          "lat": -23.4707072,
-          "lon": -46.4622016
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024011-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 4085.49,
-        "frete_rs": 6876.14,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 16:46:00",
-          "lat": -23.4707072,
-          "lon": -46.4622016
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -67,11 +27,6 @@
         "peso_kg": 4951.0,
         "frete_rs": 10705.44,
         "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 24391.269999999997,
-        "frete_rs": 27195.17,
-        "qtde": 2
       }
     }
   },
@@ -89,12 +44,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
-          "data_hora_posicao": "06/11/2026 16:46:45",
-          "lat": -28.1107655,
-          "lon": -48.7016963
+          "referencia": "0.24 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
+          "data_hora_posicao": "06/11/2026 17:01:24",
+          "lat": -27.96306,
+          "lon": -48.6795631
         },
-        "distancia_km": 136.0,
+        "distancia_km": 119.7,
         "proximo": false
       },
       {
@@ -109,12 +64,12 @@
         "frete_rs": 5387.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
-          "data_hora_posicao": "06/11/2026 16:46:45",
-          "lat": -28.1107655,
-          "lon": -48.7016963
+          "referencia": "0.24 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
+          "data_hora_posicao": "06/11/2026 17:01:24",
+          "lat": -27.96306,
+          "lon": -48.6795631
         },
-        "distancia_km": 136.0,
+        "distancia_km": 119.7,
         "proximo": false
       }
     ],
@@ -145,12 +100,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.91 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "06/11/2026 16:45:54",
-          "lat": -28.1974666666667,
-          "lon": -50.7303466666667
+          "referencia": "12.98 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "06/11/2026 16:55:58",
+          "lat": -28.1400533333333,
+          "lon": -50.6493333333333
         },
-        "distancia_km": 153.2,
+        "distancia_km": 143.1,
         "proximo": false
       },
       {
@@ -165,12 +120,12 @@
         "frete_rs": 6128.96,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.15 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 16:46:25",
-          "lat": -23.4771728,
-          "lon": -46.4682912
+          "referencia": "0.32 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (VILA JACUÍ) - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 17:00:25",
+          "lat": -23.498312,
+          "lon": -46.4563104
         },
-        "distancia_km": 523.5,
+        "distancia_km": 522.4,
         "proximo": false
       }
     ],
@@ -202,7 +157,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 16:46:16",
+          "data_hora_posicao": "06/11/2026 17:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -222,7 +177,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 16:46:16",
+          "data_hora_posicao": "06/11/2026 17:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -242,7 +197,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 16:46:16",
+          "data_hora_posicao": "06/11/2026 17:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -277,10 +232,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "11.91 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "06/11/2026 16:42:14",
-          "lat": -27.304192,
-          "lon": -50.0925184
+          "referencia": "5.08 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "06/11/2026 16:53:21",
+          "lat": -27.254144,
+          "lon": -50.0401664
         },
         "distancia_km": null,
         "proximo": false
@@ -294,5 +249,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T16:48:02"
+  "_gerado_em": "2026-11-06T17:02:46"
 }
