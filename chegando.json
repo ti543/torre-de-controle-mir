@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:00:16",
+          "data_hora_posicao": "06/11/2026 10:16:16",
           "lat": -29.9833856,
           "lon": -51.1867488
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:00:16",
+          "data_hora_posicao": "06/11/2026 10:16:16",
           "lat": -29.9833856,
           "lon": -51.1867488
         },
@@ -54,52 +54,12 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:00:16",
+          "data_hora_posicao": "06/11/2026 10:16:16",
           "lat": -29.9833856,
           "lon": -51.1867488
         },
         "distancia_km": 0.0,
         "proximo": true
-      },
-      {
-        "manif": "RSL044197-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1940.96,
-        "frete_rs": 4036.05,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.03 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "06/11/2026 10:01:24",
-          "lat": -29.617135,
-          "lon": -51.3281533333333
-        },
-        "distancia_km": 43.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044198-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 410.0,
-        "frete_rs": 362.73,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.03 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "06/11/2026 10:01:24",
-          "lat": -29.617135,
-          "lon": -51.3281533333333
-        },
-        "distancia_km": 43.0,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -111,11 +71,6 @@
       "Itajaí": {
         "peso_kg": 12471.07,
         "frete_rs": 17673.64,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 2350.96,
-        "frete_rs": 4398.780000000001,
         "qtde": 2
       }
     }
@@ -134,12 +89,12 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "06/11/2026 10:01:29",
-          "lat": -26.874992,
-          "lon": -49.1168
+          "referencia": "0.23 km de ALBANY INTERNATIONAL - INDAIAL/SC",
+          "data_hora_posicao": "06/11/2026 10:15:29",
+          "lat": -26.8708032,
+          "lon": -49.2191552
         },
-        "distancia_km": 64.3,
+        "distancia_km": 56.6,
         "proximo": false
       },
       {
@@ -180,10 +135,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "06/11/2026 10:01:29",
-          "lat": -26.874992,
-          "lon": -49.1168
+          "referencia": "0.23 km de ALBANY INTERNATIONAL - INDAIAL/SC",
+          "data_hora_posicao": "06/11/2026 10:15:29",
+          "lat": -26.8708032,
+          "lon": -49.2191552
         },
         "distancia_km": null,
         "proximo": false
@@ -246,12 +201,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.09 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
-          "data_hora_posicao": "06/11/2026 10:00:00",
-          "lat": -24.7227248,
-          "lon": -48.04496
+          "referencia": "1.67 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "06/11/2026 10:16:00",
+          "lat": -24.6120752,
+          "lon": -47.8845056
         },
-        "distancia_km": 212.6,
+        "distancia_km": 192.3,
         "proximo": false
       },
       {
@@ -266,12 +221,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.09 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
-          "data_hora_posicao": "06/11/2026 10:00:00",
-          "lat": -24.7227248,
-          "lon": -48.04496
+          "referencia": "1.67 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "06/11/2026 10:16:00",
+          "lat": -24.6120752,
+          "lon": -47.8845056
         },
-        "distancia_km": 212.6,
+        "distancia_km": 192.3,
         "proximo": false
       },
       {
@@ -286,12 +241,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.5 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "06/11/2026 10:00:38",
-          "lat": -24.2439392,
-          "lon": -47.3657216
+          "referencia": "4.24 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 10:14:38",
+          "lat": -24.1453824,
+          "lon": -47.2750656
         },
-        "distancia_km": 125.8,
+        "distancia_km": 111.7,
         "proximo": false
       },
       {
@@ -306,12 +261,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.5 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "06/11/2026 10:00:38",
-          "lat": -24.2439392,
-          "lon": -47.3657216
+          "referencia": "4.24 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 10:14:38",
+          "lat": -24.1453824,
+          "lon": -47.2750656
         },
-        "distancia_km": 125.8,
+        "distancia_km": 111.7,
         "proximo": false
       },
       {
@@ -326,12 +281,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.5 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "06/11/2026 10:00:38",
-          "lat": -24.2439392,
-          "lon": -47.3657216
+          "referencia": "4.24 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 10:14:38",
+          "lat": -24.1453824,
+          "lon": -47.2750656
         },
-        "distancia_km": 125.8,
+        "distancia_km": 111.7,
         "proximo": false
       },
       {
@@ -346,12 +301,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.48 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "06/11/2026 09:59:03",
-          "lat": -24.0571696,
-          "lon": -47.2208032
+          "referencia": "1.03 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 10:15:03",
+          "lat": -23.9756128,
+          "lon": -47.1424
         },
-        "distancia_km": 101.1,
+        "distancia_km": 89.2,
         "proximo": false
       },
       {
@@ -447,10 +402,10 @@
         "frete_rs": 1644.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.72 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "06/11/2026 10:01:29",
-          "lat": -28.9223441,
-          "lon": -49.4954538
+          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "06/11/2026 10:15:32",
+          "lat": -28.9753436,
+          "lon": -49.5333575
         },
         "distancia_km": null,
         "proximo": false
@@ -478,10 +433,10 @@
         "frete_rs": 4121.56,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.72 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "06/11/2026 10:01:29",
-          "lat": -28.9223441,
-          "lon": -49.4954538
+          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "06/11/2026 10:15:32",
+          "lat": -28.9753436,
+          "lon": -49.5333575
         },
         "distancia_km": null,
         "proximo": false
@@ -510,7 +465,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 10:01:34",
+          "data_hora_posicao": "06/11/2026 10:15:34",
           "lat": -26.887424,
           "lon": -48.7212672
         },
@@ -540,10 +495,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.32 km de PRF  - CAMPO ALEGRE / SC - CAMPO ALEGRE/SC",
-          "data_hora_posicao": "06/11/2026 10:01:38",
-          "lat": -26.2401664,
-          "lon": -49.3920896
+          "referencia": "0.44 km de POSTO DELTA - SÃO BENTO DO SUL - SAO BENTO DO SUL/SC",
+          "data_hora_posicao": "06/11/2026 10:14:56",
+          "lat": -26.22424,
+          "lon": -49.4078304
         },
         "distancia_km": null,
         "proximo": false
@@ -571,10 +526,10 @@
         "frete_rs": 3472.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.53 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "06/11/2026 09:57:39",
-          "lat": -28.084736,
-          "lon": -50.59008
+          "referencia": "4.29 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "06/11/2026 10:15:19",
+          "lat": -28.194688,
+          "lon": -50.7166208
         },
         "distancia_km": null,
         "proximo": false
@@ -591,10 +546,10 @@
         "frete_rs": 1779.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.53 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "06/11/2026 09:57:39",
-          "lat": -28.084736,
-          "lon": -50.59008
+          "referencia": "4.29 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "06/11/2026 10:15:19",
+          "lat": -28.194688,
+          "lon": -50.7166208
         },
         "distancia_km": null,
         "proximo": false
@@ -608,5 +563,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T10:02:45"
+  "_gerado_em": "2026-11-06T10:17:46"
 }
