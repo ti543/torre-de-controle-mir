@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "1.29 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 22:47:11",
+          "data_hora_posicao": "05/11/2026 23:01:11",
           "lat": -24.940952,
           "lon": -48.3064416
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:46:00",
+          "data_hora_posicao": "05/11/2026 23:00:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:46:00",
+          "data_hora_posicao": "05/11/2026 23:00:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:46:38",
+          "data_hora_posicao": "05/11/2026 23:00:38",
           "lat": -26.8877152,
           "lon": -48.7206624
         },
@@ -93,12 +93,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "05/11/2026 22:47:03",
-          "lat": -26.8402048,
-          "lon": -48.7145152
+          "referencia": "0.99 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 23:01:03",
+          "lat": -26.6970544,
+          "lon": -48.6987648
         },
-        "distancia_km": 437.9,
+        "distancia_km": 423.6,
         "proximo": false
       },
       {
@@ -200,7 +200,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:45:49",
+          "data_hora_posicao": "05/11/2026 22:59:48",
           "lat": -26.8873733333333,
           "lon": -48.721195
         },
@@ -219,10 +219,10 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 22:45:29",
-          "lat": -23.4703776,
-          "lon": -46.462128
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 23:01:29",
+          "lat": -23.4704592,
+          "lon": -46.4620864
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -297,7 +297,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:46:16",
+          "data_hora_posicao": "05/11/2026 23:00:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -317,9 +317,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 22:47:10",
-          "lat": -29.9834416666667,
-          "lon": -51.1866983333333
+          "data_hora_posicao": "05/11/2026 23:00:18",
+          "lat": -29.9834883333333,
+          "lon": -51.1866933333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -337,9 +337,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 22:47:10",
-          "lat": -29.9834416666667,
-          "lon": -51.1866983333333
+          "data_hora_posicao": "05/11/2026 23:00:18",
+          "lat": -29.9834883333333,
+          "lon": -51.1866933333333
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -372,12 +372,27 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.41 km de BALANÇA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "05/11/2026 22:47:04",
-          "lat": -23.7710864,
-          "lon": -46.911568
+          "referencia": "0.63 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "05/11/2026 23:01:04",
+          "lat": -23.9050944,
+          "lon": -46.9917856
         },
-        "distancia_km": 391.3,
+        "distancia_km": 374.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074301-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RLF0A16",
+        "motorista": "TIAGO RUAN PEDRO",
+        "peso_real_kg": 7607.39,
+        "frete_rs": 15092.5,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -392,12 +407,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.52 km de MULTI EXPRESS - ICARA/SC",
-          "data_hora_posicao": "05/11/2026 22:45:34",
-          "lat": -28.7728256,
-          "lon": -49.3114016
+          "referencia": "1.55 km de TERRACOTAGRES - SANGAO/SC",
+          "data_hora_posicao": "05/11/2026 23:01:34",
+          "lat": -28.676944,
+          "lon": -49.1333824
         },
-        "distancia_km": 217.5,
+        "distancia_km": 203.1,
         "proximo": false
       },
       {
@@ -412,20 +427,20 @@
         "frete_rs": 1544.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.25 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "05/11/2026 22:45:27",
-          "lat": -26.9120032,
-          "lon": -49.2778272
+          "referencia": "0.49 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 23:01:27",
+          "lat": -26.8764128,
+          "lon": -49.1222016
         },
-        "distancia_km": 55.3,
+        "distancia_km": 39.8,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 4734.2,
-        "frete_rs": 5559.66,
-        "qtde": 1
+        "peso_kg": 12341.59,
+        "frete_rs": 20652.16,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 4933.1,
@@ -453,12 +468,12 @@
         "frete_rs": 6264.24,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de PEDAGIO - P10 (SENTIDO RODOVIA PRESIDENTE DUTRA) - ARUJA/SP",
-          "data_hora_posicao": "05/11/2026 22:45:45",
-          "lat": -23.4252256,
-          "lon": -46.3588928
+          "referencia": "0.98 km de RODOBOX TRANSPORTES DE CARGAS LTDA - SUZANO/SP",
+          "data_hora_posicao": "05/11/2026 22:59:45",
+          "lat": -23.5932,
+          "lon": -46.3499712
         },
-        "distancia_km": 378.1,
+        "distancia_km": 367.4,
         "proximo": false
       },
       {
@@ -473,12 +488,12 @@
         "frete_rs": 6460.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.25 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "05/11/2026 22:45:27",
-          "lat": -26.9120032,
-          "lon": -49.2778272
+          "referencia": "0.49 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 23:01:27",
+          "lat": -26.8764128,
+          "lon": -49.1222016
         },
-        "distancia_km": 153.9,
+        "distancia_km": 151.0,
         "proximo": false
       }
     ],
@@ -509,20 +524,35 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 22:45:29",
-          "lat": -23.4703776,
-          "lon": -46.462128
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 23:01:29",
+          "lat": -23.4704592,
+          "lon": -46.4620864
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074302-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RLF0A16",
+        "motorista": "TIAGO RUAN PEDRO",
+        "peso_real_kg": 4055.63,
+        "frete_rs": 7597.02,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 1770.46,
-        "frete_rs": 2181.42,
-        "qtde": 1
+        "peso_kg": 5826.09,
+        "frete_rs": 9778.44,
+        "qtde": 2
       }
     }
   },
@@ -541,7 +571,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 22:46:56",
+          "data_hora_posicao": "05/11/2026 23:00:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -557,5 +587,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T22:48:31"
+  "_gerado_em": "2026-11-05T23:02:45"
 }
