@@ -13,12 +13,32 @@
         "frete_rs": 10705.44,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.35 km de CONCESSIONARIA MERCEDES BENZ - ITATIBA/SP",
-          "data_hora_posicao": "06/11/2026 17:00:05",
-          "lat": -23.0007424,
-          "lon": -46.78112
+          "referencia": "0.23 km de POSTO MORRO AZUL - ITATIBA/SP",
+          "data_hora_posicao": "06/11/2026 17:30:05",
+          "lat": -23.0292784,
+          "lon": -46.7463328
         },
-        "distancia_km": 61.6,
+        "distancia_km": 57.0,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013566-6",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 4080.24,
+        "frete_rs": 5642.05,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.54 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
+          "data_hora_posicao": "06/11/2026 17:31:45",
+          "lat": -25.4983216,
+          "lon": -49.277312
+        },
+        "distancia_km": 363.3,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "Campinas": {
         "peso_kg": 4951.0,
         "frete_rs": 10705.44,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 4080.24,
+        "frete_rs": 5642.05,
         "qtde": 1
       }
     }
@@ -44,12 +69,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.24 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
-          "data_hora_posicao": "06/11/2026 17:01:24",
-          "lat": -27.96306,
-          "lon": -48.6795631
+          "referencia": "0.91 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
+          "data_hora_posicao": "06/11/2026 17:29:49",
+          "lat": -27.6854835,
+          "lon": -48.6881875
         },
-        "distancia_km": 119.7,
+        "distancia_km": 88.8,
         "proximo": false
       },
       {
@@ -64,12 +89,12 @@
         "frete_rs": 5387.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.24 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
-          "data_hora_posicao": "06/11/2026 17:01:24",
-          "lat": -27.96306,
-          "lon": -48.6795631
+          "referencia": "0.91 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
+          "data_hora_posicao": "06/11/2026 17:29:49",
+          "lat": -27.6854835,
+          "lon": -48.6881875
         },
-        "distancia_km": 119.7,
+        "distancia_km": 88.8,
         "proximo": false
       }
     ],
@@ -100,12 +125,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "12.98 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "06/11/2026 16:55:58",
-          "lat": -28.1400533333333,
-          "lon": -50.6493333333333
+          "referencia": "3.81 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "06/11/2026 17:22:43",
+          "lat": -27.9421333333333,
+          "lon": -50.47296
         },
-        "distancia_km": 143.1,
+        "distancia_km": 115.3,
         "proximo": false
       },
       {
@@ -120,12 +145,12 @@
         "frete_rs": 6128.96,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (VILA JACUÍ) - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 17:00:25",
-          "lat": -23.498312,
-          "lon": -46.4563104
+          "referencia": "0.13 km de ESTACIONAMENTO PARA CAMINHÕES E CARRETAS ESPLENDOR - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 17:30:25",
+          "lat": -23.5770608,
+          "lon": -46.4438912
         },
-        "distancia_km": 522.4,
+        "distancia_km": 516.2,
         "proximo": false
       }
     ],
@@ -139,82 +164,6 @@
         "peso_kg": 3903.17,
         "frete_rs": 6128.96,
         "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074245-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1351.11,
-        "frete_rs": 4858.91,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 17:00:16",
-          "lat": -29.9833856,
-          "lon": -51.1866368
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024014-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 10932.97,
-        "frete_rs": 16655.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 17:00:16",
-          "lat": -29.9833856,
-          "lon": -51.1866368
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024015-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1538.1,
-        "frete_rs": 1018.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 17:00:16",
-          "lat": -29.9833856,
-          "lon": -51.1866368
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 1351.11,
-        "frete_rs": 4858.91,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 12471.07,
-        "frete_rs": 17673.64,
-        "qtde": 2
       }
     }
   },
@@ -232,10 +181,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.08 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "06/11/2026 16:53:21",
-          "lat": -27.254144,
-          "lon": -50.0401664
+          "referencia": "0.86 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
+          "data_hora_posicao": "06/11/2026 17:30:56",
+          "lat": -27.2593984,
+          "lon": -49.7174912
         },
         "distancia_km": null,
         "proximo": false
@@ -249,5 +198,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T17:02:46"
+  "_gerado_em": "2026-11-06T17:32:47"
 }
