@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "1.3 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "06/11/2026 00:29:11",
+          "data_hora_posicao": "06/11/2026 00:45:11",
           "lat": -24.9409504,
           "lon": -48.3064512
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:30:00",
+          "data_hora_posicao": "06/11/2026 00:46:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:30:00",
+          "data_hora_posicao": "06/11/2026 00:46:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -74,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:30:38",
+          "data_hora_posicao": "06/11/2026 00:44:38",
           "lat": -26.8877248,
           "lon": -48.7206688
         },
@@ -93,12 +93,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "06/11/2026 00:31:03",
-          "lat": -26.0266608,
-          "lon": -48.8612608
+          "referencia": "0.2 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "06/11/2026 00:45:03",
+          "lat": -25.9051584,
+          "lon": -48.9212192
         },
-        "distancia_km": 373.4,
+        "distancia_km": 367.4,
         "proximo": false
       },
       {
@@ -199,12 +199,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.41 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
-          "data_hora_posicao": "06/11/2026 00:29:46",
-          "lat": -26.8796583333333,
-          "lon": -49.1709516666667
+          "referencia": "0.53 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "06/11/2026 00:45:46",
+          "lat": -26.9491866666667,
+          "lon": -49.3146183333333
         },
-        "distancia_km": 59.7,
+        "distancia_km": 43.8,
         "proximo": false
       },
       {
@@ -219,12 +219,12 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.79 km de PARADA DE CARGAS EXCEDENTES - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "06/11/2026 00:29:29",
-          "lat": -23.7628768,
-          "lon": -46.5500192
+          "referencia": "2.94 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 00:45:29",
+          "lat": -23.8007504,
+          "lon": -46.7395936
         },
-        "distancia_km": 493.3,
+        "distancia_km": 478.2,
         "proximo": false
       },
       {
@@ -254,12 +254,12 @@
         "frete_rs": 1657.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.41 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
-          "data_hora_posicao": "06/11/2026 00:29:46",
-          "lat": -26.8796583333333,
-          "lon": -49.1709516666667
+          "referencia": "0.53 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "06/11/2026 00:45:46",
+          "lat": -26.9491866666667,
+          "lon": -49.3146183333333
         },
-        "distancia_km": 59.7,
+        "distancia_km": 43.8,
         "proximo": false
       }
     ],
@@ -297,13 +297,53 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "GRU074303-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 8328.04,
+        "frete_rs": 8947.49,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 00:46:16",
+          "lat": -23.4704583333333,
+          "lon": -46.4622333333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074304-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "DOUGLAS EDUARDO MORAIS MUNIZ",
+        "peso_real_kg": 503.0,
+        "frete_rs": 511.65,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 00:46:16",
+          "lat": -23.4704583333333,
+          "lon": -46.4622333333333
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 258.3,
-        "frete_rs": 1187.03,
-        "qtde": 1
+        "peso_kg": 9089.34,
+        "frete_rs": 10646.17,
+        "qtde": 3
       }
     }
   },
@@ -322,7 +362,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:30:16",
+          "data_hora_posicao": "06/11/2026 00:46:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -342,7 +382,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 00:29:32",
+          "data_hora_posicao": "06/11/2026 00:45:32",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -362,7 +402,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 00:29:32",
+          "data_hora_posicao": "06/11/2026 00:45:32",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -397,12 +437,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.8 km de LAVADOR E BORRACHARIA CLEAN TRUCK MARCELINHO - REGISTRO/SP",
-          "data_hora_posicao": "06/11/2026 00:31:04",
-          "lat": -24.4653584,
-          "lon": -47.8200928
+          "referencia": "1.19 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "06/11/2026 00:45:04",
+          "lat": -24.6150976,
+          "lon": -47.887984
         },
-        "distancia_km": 284.1,
+        "distancia_km": 266.1,
         "proximo": false
       },
       {
@@ -432,12 +472,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO SOROCABA - PAULO LOPES/SC",
-          "data_hora_posicao": "06/11/2026 00:31:04",
-          "lat": -27.9323872,
-          "lon": -48.6613088
+          "referencia": "0.44 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
+          "data_hora_posicao": "06/11/2026 00:45:54",
+          "lat": -27.7801472,
+          "lon": -48.6353376
         },
-        "distancia_km": 116.3,
+        "distancia_km": 99.6,
         "proximo": false
       }
     ],
@@ -468,12 +508,32 @@
         "frete_rs": 6264.24,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.5 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 00:29:45",
-          "lat": -23.9554176,
-          "lon": -47.1093472
+          "referencia": "0.37 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 00:39:50",
+          "lat": -24.039072,
+          "lon": -47.192944
         },
-        "distancia_km": 281.6,
+        "distancia_km": 269.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024013-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3634.56,
+        "frete_rs": 4732.22,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 00:45:28",
+          "lat": -26.8872896,
+          "lon": -48.7214176
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -488,10 +548,10 @@
         "frete_rs": 6460.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:29:27",
-          "lat": -26.8873856,
-          "lon": -48.7212128
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 00:45:28",
+          "lat": -26.8872896,
+          "lon": -48.7214176
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -501,6 +561,11 @@
       "Guarulhos": {
         "peso_kg": 5254.0,
         "frete_rs": 6264.24,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 3634.56,
+        "frete_rs": 4732.22,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -524,10 +589,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.79 km de PARADA DE CARGAS EXCEDENTES - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "06/11/2026 00:29:29",
-          "lat": -23.7628768,
-          "lon": -46.5500192
+          "referencia": "2.94 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 00:45:29",
+          "lat": -23.8007504,
+          "lon": -46.7395936
         },
         "distancia_km": null,
         "proximo": false
@@ -571,7 +636,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "06/11/2026 00:30:56",
+          "data_hora_posicao": "06/11/2026 00:44:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -587,5 +652,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T00:32:34"
+  "_gerado_em": "2026-11-06T00:47:34"
 }
