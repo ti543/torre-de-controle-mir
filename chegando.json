@@ -13,12 +13,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.31 km de POLÍCIA MILITAR RODOVIÁRIA ESTADUAL - ICARA/SC",
-          "data_hora_posicao": "06/11/2026 13:30:53",
-          "lat": -28.6961528,
-          "lon": -49.3149711
+          "referencia": "0.59 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
+          "data_hora_posicao": "06/11/2026 13:44:29",
+          "lat": -28.745803,
+          "lon": -49.2582248
         },
-        "distancia_km": 209.4,
+        "distancia_km": 213.3,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:30:16",
+          "data_hora_posicao": "06/11/2026 13:46:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:30:16",
+          "data_hora_posicao": "06/11/2026 13:46:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -85,7 +85,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:30:16",
+          "data_hora_posicao": "06/11/2026 13:46:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -103,37 +103,6 @@
         "peso_kg": 12471.07,
         "frete_rs": 17673.64,
         "qtde": 2
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074297-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 6049.63,
-        "frete_rs": 6817.71,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "06/11/2026 13:29:29",
-          "lat": -27.2059104,
-          "lon": -49.648928
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6049.63,
-        "frete_rs": 6817.71,
-        "qtde": 1
       }
     }
   },
@@ -217,12 +186,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:30:00",
-          "lat": -23.7183648,
-          "lon": -46.8820736
+          "referencia": "0.15 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:46:00",
+          "lat": -23.6975632,
+          "lon": -46.8657984
         },
-        "distancia_km": 50.9,
+        "distancia_km": 48.3,
         "proximo": false
       },
       {
@@ -237,12 +206,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:30:00",
-          "lat": -23.7183648,
-          "lon": -46.8820736
+          "referencia": "0.15 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:46:00",
+          "lat": -23.6975632,
+          "lon": -46.8657984
         },
-        "distancia_km": 50.9,
+        "distancia_km": 48.3,
         "proximo": false
       },
       {
@@ -257,12 +226,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:30:38",
-          "lat": -23.5244,
-          "lon": -46.7474656
+          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:44:38",
+          "lat": -23.5088448,
+          "lon": -46.7149504
         },
-        "distancia_km": 29.7,
+        "distancia_km": 26.1,
         "proximo": true
       },
       {
@@ -277,12 +246,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:30:38",
-          "lat": -23.5244,
-          "lon": -46.7474656
+          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:44:38",
+          "lat": -23.5088448,
+          "lon": -46.7149504
         },
-        "distancia_km": 29.7,
+        "distancia_km": 26.1,
         "proximo": true
       },
       {
@@ -297,12 +266,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:30:38",
-          "lat": -23.5244,
-          "lon": -46.7474656
+          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:44:38",
+          "lat": -23.5088448,
+          "lon": -46.7149504
         },
-        "distancia_km": 29.7,
+        "distancia_km": 26.1,
         "proximo": true
       },
       {
@@ -317,12 +286,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.19 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:31:03",
-          "lat": -23.5281616,
-          "lon": -46.5971296
+          "referencia": "0.15 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 13:45:03",
+          "lat": -23.4627136,
+          "lon": -46.469456
         },
-        "distancia_km": 15.2,
+        "distancia_km": 1.1,
         "proximo": true
       },
       {
@@ -388,10 +357,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.43 km de RESTAURANTE GAUCHÃO - SANTA CECILIA/SC",
-          "data_hora_posicao": "06/11/2026 13:27:23",
-          "lat": -26.7721728,
-          "lon": -50.34944
+          "referencia": "0.77 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 05) - SANTA CECILIA/SC",
+          "data_hora_posicao": "06/11/2026 13:37:23",
+          "lat": -26.8312832,
+          "lon": -50.3888128
         },
         "distancia_km": null,
         "proximo": false
@@ -420,7 +389,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:31:00",
+          "data_hora_posicao": "06/11/2026 13:45:43",
           "lat": -28.9081811,
           "lon": -51.193238
         },
@@ -440,7 +409,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:31:00",
+          "data_hora_posicao": "06/11/2026 13:45:43",
           "lat": -28.9081811,
           "lon": -51.193238
         },
@@ -456,5 +425,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T13:32:34"
+  "_gerado_em": "2026-11-06T13:47:39"
 }
