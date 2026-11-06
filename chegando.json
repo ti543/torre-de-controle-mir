@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 15:01:29",
+          "data_hora_posicao": "06/11/2026 15:29:29",
           "lat": -28.4685611,
           "lon": -49.0191021
         },
@@ -44,12 +44,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 15:02:28",
-          "lat": -28.8431783333333,
-          "lon": -51.2662033333333
+          "referencia": "3.55 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
+          "data_hora_posicao": "06/11/2026 15:28:43",
+          "lat": -28.6723466666667,
+          "lon": -51.1474666666667
         },
-        "distancia_km": 241.5,
+        "distancia_km": 219.6,
         "proximo": false
       }
     ],
@@ -76,7 +76,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:00:16",
+          "data_hora_posicao": "06/11/2026 15:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -96,7 +96,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:00:16",
+          "data_hora_posicao": "06/11/2026 15:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -116,7 +116,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 15:00:16",
+          "data_hora_posicao": "06/11/2026 15:30:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -217,12 +217,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:00:00",
-          "lat": -23.5178624,
-          "lon": -46.7310976
+          "referencia": "0.48 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:30:00",
+          "lat": -23.5137024,
+          "lon": -46.6794176
         },
-        "distancia_km": 27.9,
+        "distancia_km": 22.7,
         "proximo": true
       },
       {
@@ -237,12 +237,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 15:00:00",
-          "lat": -23.5178624,
-          "lon": -46.7310976
+          "referencia": "0.48 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 15:30:00",
+          "lat": -23.5137024,
+          "lon": -46.6794176
         },
-        "distancia_km": 27.9,
+        "distancia_km": 22.7,
         "proximo": true
       }
     ],
@@ -251,6 +251,37 @@
         "peso_kg": 24391.269999999997,
         "frete_rs": 27195.17,
         "qtde": 2
+      }
+    }
+  },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ024026-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 649.96,
+        "frete_rs": 381.16,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.23 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 15:31:52",
+          "lat": -26.890224,
+          "lon": -48.7206208
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 649.96,
+        "frete_rs": 381.16,
+        "qtde": 1
       }
     }
   },
@@ -268,10 +299,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de CULTIVAR INSUMOS AGRÍCOLAS - CURITIBANOS/SC",
-          "data_hora_posicao": "06/11/2026 15:03:31",
-          "lat": -27.3148288,
-          "lon": -50.5723296
+          "referencia": "0.72 km de CULTIVAR INSUMOS AGRÍCOLAS - CURITIBANOS/SC",
+          "data_hora_posicao": "06/11/2026 15:30:56",
+          "lat": -27.3145856,
+          "lon": -50.5712992
         },
         "distancia_km": null,
         "proximo": false
@@ -285,56 +316,5 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044223-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 5191.24,
-        "frete_rs": 3472.69,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "06/11/2026 15:01:21",
-          "lat": -29.1464903,
-          "lon": -51.1651035
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044227-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 1520.0,
-        "frete_rs": 1779.99,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "06/11/2026 15:01:21",
-          "lat": -29.1464903,
-          "lon": -51.1651035
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 6711.24,
-        "frete_rs": 5252.68,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-06T15:17:44"
+  "_gerado_em": "2026-11-06T15:33:05"
 }
