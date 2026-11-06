@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.72 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "05/11/2026 20:42:52",
+          "data_hora_posicao": "05/11/2026 20:58:52",
           "lat": -27.0965788,
           "lon": -48.9307448
         },
@@ -33,12 +33,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.31 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 20:44:56",
-          "lat": -26.41858,
-          "lon": -48.832665
+          "referencia": "0.29 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 21:00:56",
+          "lat": -26.5524216666667,
+          "lon": -48.7173766666667
         },
-        "distancia_km": 53.3,
+        "distancia_km": 37.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 20:45:04",
-          "lat": -23.4705328,
-          "lon": -46.4621472
+          "referencia": "0.06 km de POSTO CRUZEIRO DO SUL - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 21:01:04",
+          "lat": -23.4670368,
+          "lon": -46.4662816
         },
-        "distancia_km": 442.7,
+        "distancia_km": 442.8,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.05 km de POSTO ROTA 101 PARADOURO - DOM PEDRO DE ALCANTARA/RS",
-          "data_hora_posicao": "05/11/2026 20:45:34",
-          "lat": -29.3808064,
-          "lon": -49.8302752
+          "referencia": "0.02 km de POSTO FISCAL - TORRES - TORRES/RS",
+          "data_hora_posicao": "05/11/2026 20:59:34",
+          "lat": -29.3061664,
+          "lon": -49.7720768
         },
-        "distancia_km": 297.8,
+        "distancia_km": 288.0,
         "proximo": false
       },
       {
@@ -93,13 +93,13 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "05/11/2026 20:44:54",
-          "lat": -26.8736736,
-          "lon": -49.113904
+          "referencia": "0.36 km de POSTO ESTRELA - GASPAR/SC",
+          "data_hora_posicao": "05/11/2026 21:00:38",
+          "lat": -26.9148768,
+          "lon": -48.9740448
         },
-        "distancia_km": 39.0,
-        "proximo": false
+        "distancia_km": 25.3,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -144,12 +144,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de POSTO ROTA 4 - QUATRO BARRAS/PR",
-          "data_hora_posicao": "05/11/2026 20:45:58",
-          "lat": -25.3615616,
-          "lon": -49.0825088
+          "referencia": "0.25 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 21:01:11",
+          "lat": -25.291504,
+          "lon": -48.9341312
         },
-        "distancia_km": 338.5,
+        "distancia_km": 322.0,
         "proximo": false
       },
       {
@@ -165,7 +165,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:46:00",
+          "data_hora_posicao": "05/11/2026 21:00:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -185,7 +185,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:46:00",
+          "data_hora_posicao": "05/11/2026 21:00:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -204,12 +204,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "05/11/2026 20:44:54",
-          "lat": -26.8736736,
-          "lon": -49.113904
+          "referencia": "0.36 km de POSTO ESTRELA - GASPAR/SC",
+          "data_hora_posicao": "05/11/2026 21:00:38",
+          "lat": -26.9148768,
+          "lon": -48.9740448
         },
-        "distancia_km": 463.0,
+        "distancia_km": 458.8,
         "proximo": false
       },
       {
@@ -224,12 +224,42 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 20:45:21",
-          "lat": -27.1724416,
-          "lon": -49.5824448
+          "referencia": "2.79 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "05/11/2026 21:01:21",
+          "lat": -27.0831936,
+          "lon": -49.5101344
         },
-        "distancia_km": 517.4,
+        "distancia_km": 505.2,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016344-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 6262.6,
+        "frete_rs": 7490.22,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016345-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 15997.06,
+        "frete_rs": 20754.22,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -248,6 +278,11 @@
         "peso_kg": 43733.0,
         "frete_rs": 27180.16,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 22259.66,
+        "frete_rs": 28244.440000000002,
+        "qtde": 2
       }
     }
   },
@@ -265,12 +300,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.31 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "05/11/2026 20:44:56",
-          "lat": -26.41858,
-          "lon": -48.832665
+          "referencia": "0.29 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "05/11/2026 21:00:56",
+          "lat": -26.5524216666667,
+          "lon": -48.7173766666667
         },
-        "distancia_km": 119.3,
+        "distancia_km": 117.6,
         "proximo": false
       },
       {
@@ -285,12 +320,12 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.94 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 20:45:01",
-          "lat": -27.2573984,
-          "lon": -49.7133984
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:01:31",
+          "lat": -27.2061152,
+          "lon": -49.649216
         },
-        "distancia_km": 8.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -305,12 +340,12 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.94 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 20:45:01",
-          "lat": -27.2573984,
-          "lon": -49.7133984
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:01:31",
+          "lat": -27.2061152,
+          "lon": -49.649216
         },
-        "distancia_km": 8.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -325,12 +360,12 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.94 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "05/11/2026 20:45:01",
-          "lat": -27.2573984,
-          "lon": -49.7133984
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:01:31",
+          "lat": -27.2061152,
+          "lon": -49.649216
         },
-        "distancia_km": 8.5,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -393,7 +428,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 20:44:16",
+          "data_hora_posicao": "05/11/2026 21:00:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -413,7 +448,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 20:45:35",
+          "data_hora_posicao": "05/11/2026 21:01:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -433,7 +468,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 20:45:35",
+          "data_hora_posicao": "05/11/2026 21:01:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -469,7 +504,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 20:44:56",
+          "data_hora_posicao": "05/11/2026 21:00:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -485,5 +520,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T20:47:27"
+  "_gerado_em": "2026-11-05T21:02:35"
 }
