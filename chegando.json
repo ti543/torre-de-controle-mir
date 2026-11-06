@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:00:16",
+          "data_hora_posicao": "06/11/2026 13:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:00:16",
+          "data_hora_posicao": "06/11/2026 13:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:00:16",
+          "data_hora_posicao": "06/11/2026 13:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "06/11/2026 13:01:29",
+          "data_hora_posicao": "06/11/2026 13:15:29",
           "lat": -27.2059104,
           "lon": -49.648928
         },
@@ -186,12 +186,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:00:00",
-          "lat": -23.7652336,
-          "lon": -46.9073536
+          "referencia": "1.05 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:16:00",
+          "lat": -23.736832,
+          "lon": -46.89624
         },
-        "distancia_km": 55.9,
+        "distancia_km": 53.2,
         "proximo": false
       },
       {
@@ -206,12 +206,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:00:00",
-          "lat": -23.7652336,
-          "lon": -46.9073536
+          "referencia": "1.05 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 13:16:00",
+          "lat": -23.736832,
+          "lon": -46.89624
         },
-        "distancia_km": 55.9,
+        "distancia_km": 53.2,
         "proximo": false
       },
       {
@@ -226,12 +226,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "06/11/2026 13:00:38",
-          "lat": -23.6700288,
-          "lon": -46.8559808
+          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "06/11/2026 13:16:08",
+          "lat": -23.5812512,
+          "lon": -46.808368
         },
-        "distancia_km": 45.9,
+        "distancia_km": 37.4,
         "proximo": false
       },
       {
@@ -246,12 +246,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "06/11/2026 13:00:38",
-          "lat": -23.6700288,
-          "lon": -46.8559808
+          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "06/11/2026 13:16:08",
+          "lat": -23.5812512,
+          "lon": -46.808368
         },
-        "distancia_km": 45.9,
+        "distancia_km": 37.4,
         "proximo": false
       },
       {
@@ -266,12 +266,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "06/11/2026 13:00:38",
-          "lat": -23.6700288,
-          "lon": -46.8559808
+          "referencia": "0.66 km de BASE DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "06/11/2026 13:16:08",
+          "lat": -23.5812512,
+          "lon": -46.808368
         },
-        "distancia_km": 45.9,
+        "distancia_km": 37.4,
         "proximo": false
       },
       {
@@ -286,43 +286,13 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO DE SERVIÇO ANEL VIÁRIO - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:01:03",
-          "lat": -23.516832,
-          "lon": -46.7290912
+          "referencia": "0.62 km de BIG PACAEMBÚ - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 13:15:03",
+          "lat": -23.5166304,
+          "lon": -46.6602016
         },
-        "distancia_km": 27.7,
+        "distancia_km": 20.8,
         "proximo": true
-      },
-      {
-        "manif": "RSL044221-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 7118.59,
-        "frete_rs": 9828.62,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044222-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 20274.15,
-        "frete_rs": 11223.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       },
       {
         "manif": "TBO016344-9",
@@ -362,9 +332,9 @@
         "qtde": 4
       },
       "Rio do Sul": {
-        "peso_kg": 71125.73999999999,
-        "frete_rs": 48231.79,
-        "qtde": 4
+        "peso_kg": 43733.0,
+        "frete_rs": 27180.16,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 22259.66,
@@ -388,7 +358,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "06/11/2026 12:58:37",
+          "data_hora_posicao": "06/11/2026 13:14:37",
           "lat": -28.6901271,
           "lon": -49.3155853
         },
@@ -418,10 +388,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.91 km de PEDAGIO - MONTE CASTELO - MONTE CASTELO/SC",
-          "data_hora_posicao": "06/11/2026 12:57:23",
-          "lat": -26.60544,
-          "lon": -50.2276096
+          "referencia": "6.24 km de PEDAGIO - MONTE CASTELO - MONTE CASTELO/SC",
+          "data_hora_posicao": "06/11/2026 13:07:23",
+          "lat": -26.623744,
+          "lon": -50.242048
         },
         "distancia_km": null,
         "proximo": false
@@ -449,10 +419,10 @@
         "frete_rs": 3472.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:01:46",
-          "lat": -28.8418175,
-          "lon": -51.2706341
+          "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "06/11/2026 13:15:41",
+          "lat": -28.9080518,
+          "lon": -51.1932853
         },
         "distancia_km": null,
         "proximo": false
@@ -469,10 +439,10 @@
         "frete_rs": 1779.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:01:46",
-          "lat": -28.8418175,
-          "lon": -51.2706341
+          "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "06/11/2026 13:15:41",
+          "lat": -28.9080518,
+          "lon": -51.1932853
         },
         "distancia_km": null,
         "proximo": false
@@ -486,5 +456,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T13:02:48"
+  "_gerado_em": "2026-11-06T13:17:41"
 }
