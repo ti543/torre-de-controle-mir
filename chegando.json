@@ -13,10 +13,10 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.29 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "06/11/2026 00:01:11",
-          "lat": -24.9408608,
-          "lon": -48.3064224
+          "referencia": "1.3 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "06/11/2026 00:15:11",
+          "lat": -24.9409504,
+          "lon": -48.3064512
         },
         "distancia_km": 248.4,
         "proximo": false
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:00:00",
+          "data_hora_posicao": "06/11/2026 00:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:00:00",
+          "data_hora_posicao": "06/11/2026 00:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -73,10 +73,10 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:00:38",
-          "lat": -26.8876448,
-          "lon": -48.7207264
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 00:14:38",
+          "lat": -26.8877248,
+          "lon": -48.7206688
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -93,12 +93,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO ZANDONA 5 - JOINVILLE/SC",
-          "data_hora_posicao": "06/11/2026 00:01:03",
-          "lat": -26.3567632,
-          "lon": -48.8587584
+          "referencia": "0.23 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
+          "data_hora_posicao": "06/11/2026 00:15:03",
+          "lat": -26.2005744,
+          "lon": -48.9129536
         },
-        "distancia_km": 401.7,
+        "distancia_km": 391.5,
         "proximo": false
       },
       {
@@ -199,12 +199,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.94 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "05/11/2026 23:59:47",
-          "lat": -26.87944,
-          "lon": -48.831855
+          "referencia": "1.99 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "06/11/2026 00:15:46",
+          "lat": -26.8745366666667,
+          "lon": -49.0101066666667
         },
-        "distancia_km": 88.8,
+        "distancia_km": 73.3,
         "proximo": false
       },
       {
@@ -219,12 +219,12 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.66 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
-          "data_hora_posicao": "06/11/2026 00:01:29",
-          "lat": -23.5496272,
-          "lon": -46.340576
+          "referencia": "1.8 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "06/11/2026 00:15:29",
+          "lat": -23.6926672,
+          "lon": -46.4110752
         },
-        "distancia_km": 525.1,
+        "distancia_km": 508.2,
         "proximo": false
       },
       {
@@ -254,12 +254,12 @@
         "frete_rs": 1657.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.94 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "05/11/2026 23:59:47",
-          "lat": -26.87944,
-          "lon": -48.831855
+          "referencia": "1.99 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "06/11/2026 00:15:46",
+          "lat": -26.8745366666667,
+          "lon": -49.0101066666667
         },
-        "distancia_km": 88.8,
+        "distancia_km": 73.3,
         "proximo": false
       }
     ],
@@ -322,7 +322,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:00:16",
+          "data_hora_posicao": "06/11/2026 00:14:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -342,7 +342,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 00:01:32",
+          "data_hora_posicao": "06/11/2026 00:15:32",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -362,7 +362,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 00:01:32",
+          "data_hora_posicao": "06/11/2026 00:15:32",
           "lat": -29.9834883333333,
           "lon": -51.1866933333333
         },
@@ -397,12 +397,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.18 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "06/11/2026 00:01:22",
-          "lat": -24.3069216,
-          "lon": -47.4977696
+          "referencia": "1.81 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "06/11/2026 00:13:04",
+          "lat": -24.339592,
+          "lon": -47.644912
         },
-        "distancia_km": 312.1,
+        "distancia_km": 303.2,
         "proximo": false
       },
       {
@@ -432,12 +432,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO MIRIM - IMBITUBA/SC",
-          "data_hora_posicao": "06/11/2026 00:00:59",
-          "lat": -28.25656,
-          "lon": -48.703616
+          "referencia": "1.39 km de PRF - PAULO LOPES/SC",
+          "data_hora_posicao": "06/11/2026 00:15:34",
+          "lat": -28.0894272,
+          "lon": -48.7101664
         },
-        "distancia_km": 152.2,
+        "distancia_km": 133.7,
         "proximo": false
       }
     ],
@@ -468,12 +468,12 @@
         "frete_rs": 6264.24,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "05/11/2026 23:59:45",
-          "lat": -23.7023392,
-          "lon": -46.871392
+          "referencia": "1.98 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 00:15:45",
+          "lat": -23.86948,
+          "lon": -46.9575104
         },
-        "distancia_km": 318.2,
+        "distancia_km": 299.6,
         "proximo": false
       },
       {
@@ -488,10 +488,10 @@
         "frete_rs": 6460.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 00:01:27",
-          "lat": -26.887168,
-          "lon": -48.7212608
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 00:15:27",
+          "lat": -26.8873888,
+          "lon": -48.7212064
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -524,10 +524,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.66 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
-          "data_hora_posicao": "06/11/2026 00:01:29",
-          "lat": -23.5496272,
-          "lon": -46.340576
+          "referencia": "1.8 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "06/11/2026 00:15:29",
+          "lat": -23.6926672,
+          "lon": -46.4110752
         },
         "distancia_km": null,
         "proximo": false
@@ -571,7 +571,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "06/11/2026 00:00:56",
+          "data_hora_posicao": "06/11/2026 00:14:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -587,5 +587,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T00:02:34"
+  "_gerado_em": "2026-11-06T00:17:36"
 }
