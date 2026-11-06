@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:46:16",
+          "data_hora_posicao": "06/11/2026 10:58:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:46:16",
+          "data_hora_posicao": "06/11/2026 10:58:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 10:46:16",
+          "data_hora_posicao": "06/11/2026 10:58:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -89,60 +89,25 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "06/11/2026 10:45:29",
-          "lat": -26.842336,
-          "lon": -49.2724448
+          "referencia": "1.05 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "06/11/2026 10:57:29",
+          "lat": -26.8522272,
+          "lon": -49.2707008
         },
-        "distancia_km": 55.1,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074300-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 10966.37,
-        "frete_rs": 17651.53,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 54.4,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 17016.0,
-        "frete_rs": 24469.239999999998,
-        "qtde": 2
+        "peso_kg": 6049.63,
+        "frete_rs": 6817.71,
+        "qtde": 1
       }
     }
   },
   "TBO": {
     "veiculos": [
-      {
-        "manif": "GRU074299-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1770.46,
-        "frete_rs": 2181.42,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "06/11/2026 10:45:29",
-          "lat": -26.842336,
-          "lon": -49.2724448
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
       {
         "manif": "GRU074302-0",
         "origin_unit": "GRU",
@@ -176,9 +141,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 5826.09,
-        "frete_rs": 9778.44,
-        "qtde": 2
+        "peso_kg": 4055.63,
+        "frete_rs": 7597.02,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 1229.32,
@@ -201,12 +166,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "06/11/2026 10:44:00",
-          "lat": -24.378448,
-          "lon": -47.7112288
+          "referencia": "0.15 km de LAVADOR DO GORDINHO - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 10:58:00",
+          "lat": -24.3249232,
+          "lon": -47.5555392
         },
-        "distancia_km": 162.2,
+        "distancia_km": 146.2,
         "proximo": false
       },
       {
@@ -221,12 +186,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "06/11/2026 10:44:00",
-          "lat": -24.378448,
-          "lon": -47.7112288
+          "referencia": "0.15 km de LAVADOR DO GORDINHO - MIRACATU/SP",
+          "data_hora_posicao": "06/11/2026 10:58:00",
+          "lat": -24.3249232,
+          "lon": -47.5555392
         },
-        "distancia_km": 162.2,
+        "distancia_km": 146.2,
         "proximo": false
       },
       {
@@ -241,12 +206,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.91 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 10:45:43",
-          "lat": -23.992304,
-          "lon": -47.1474912
+          "referencia": "0.09 km de POSTO PRESIDENTE 67 (COLORADO) - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 10:58:38",
+          "lat": -23.9350832,
+          "lon": -47.0285824
         },
-        "distancia_km": 90.7,
+        "distancia_km": 77.4,
         "proximo": false
       },
       {
@@ -261,12 +226,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.91 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 10:45:43",
-          "lat": -23.992304,
-          "lon": -47.1474912
+          "referencia": "0.09 km de POSTO PRESIDENTE 67 (COLORADO) - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 10:58:38",
+          "lat": -23.9350832,
+          "lon": -47.0285824
         },
-        "distancia_km": 90.7,
+        "distancia_km": 77.4,
         "proximo": false
       },
       {
@@ -281,12 +246,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.91 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 10:45:43",
-          "lat": -23.992304,
-          "lon": -47.1474912
+          "referencia": "0.09 km de POSTO PRESIDENTE 67 (COLORADO) - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 10:58:38",
+          "lat": -23.9350832,
+          "lon": -47.0285824
         },
-        "distancia_km": 90.7,
+        "distancia_km": 77.4,
         "proximo": false
       },
       {
@@ -301,12 +266,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.87 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 10:46:18",
-          "lat": -23.8035152,
-          "lon": -46.9200224
+          "referencia": "0.09 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 10:59:54",
+          "lat": -23.786568,
+          "lon": -46.9135712
         },
-        "distancia_km": 59.5,
+        "distancia_km": 57.9,
         "proximo": false
       },
       {
@@ -402,10 +367,10 @@
         "frete_rs": 1644.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "06/11/2026 10:46:21",
-          "lat": -28.9755496,
-          "lon": -49.5330901
+          "referencia": "0.29 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "06/11/2026 11:00:43",
+          "lat": -28.975606,
+          "lon": -49.5324316
         },
         "distancia_km": null,
         "proximo": false
@@ -433,10 +398,10 @@
         "frete_rs": 4121.56,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "06/11/2026 10:46:21",
-          "lat": -28.9755496,
-          "lon": -49.5330901
+          "referencia": "0.29 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "06/11/2026 11:00:43",
+          "lat": -28.975606,
+          "lon": -49.5324316
         },
         "distancia_km": null,
         "proximo": false
@@ -465,7 +430,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 10:45:34",
+          "data_hora_posicao": "06/11/2026 10:57:34",
           "lat": -26.887424,
           "lon": -48.7212672
         },
@@ -495,10 +460,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.18 km de BATISTELLA INDUSTRIA E COMERCIO LTDA - RIO NEGRINHO/SC",
-          "data_hora_posicao": "06/11/2026 10:38:56",
-          "lat": -26.258344,
-          "lon": -49.6011424
+          "referencia": "10.16 km de BATISTELLA INDUSTRIA E COMERCIO LTDA - RIO NEGRINHO/SC",
+          "data_hora_posicao": "06/11/2026 10:50:13",
+          "lat": -26.2349824,
+          "lon": -49.687168
         },
         "distancia_km": null,
         "proximo": false
@@ -526,10 +491,10 @@
         "frete_rs": 3472.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.44 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "06/11/2026 10:45:13",
-          "lat": -28.393452,
-          "lon": -50.8489441
+          "referencia": "0.05 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "06/11/2026 10:59:14",
+          "lat": -28.493149,
+          "lon": -50.9117333
         },
         "distancia_km": null,
         "proximo": false
@@ -546,10 +511,10 @@
         "frete_rs": 1779.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.44 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "06/11/2026 10:45:13",
-          "lat": -28.393452,
-          "lon": -50.8489441
+          "referencia": "0.05 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "06/11/2026 10:59:14",
+          "lat": -28.493149,
+          "lon": -50.9117333
         },
         "distancia_km": null,
         "proximo": false
@@ -563,5 +528,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T10:47:45"
+  "_gerado_em": "2026-11-06T11:02:44"
 }
