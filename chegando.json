@@ -13,12 +13,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.59 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
-          "data_hora_posicao": "06/11/2026 13:44:29",
-          "lat": -28.745803,
-          "lon": -49.2582248
+          "referencia": "1.9 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "06/11/2026 14:00:54",
+          "lat": -28.6354475,
+          "lon": -49.0949418
         },
-        "distancia_km": 213.3,
+        "distancia_km": 197.8,
         "proximo": false
       }
     ],
@@ -26,6 +26,37 @@
       "CRC": {
         "peso_kg": 825.34,
         "frete_rs": 1325.26,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CXS002237-3",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2279.24,
+        "frete_rs": 4882.4,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.19 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "06/11/2026 13:59:42",
+          "lat": -29.1499516666667,
+          "lon": -51.1647766666667
+        },
+        "distancia_km": 262.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 2279.24,
+        "frete_rs": 4882.4,
         "qtde": 1
       }
     }
@@ -45,7 +76,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:46:16",
+          "data_hora_posicao": "06/11/2026 14:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -65,7 +96,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:46:16",
+          "data_hora_posicao": "06/11/2026 14:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -85,7 +116,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 13:46:16",
+          "data_hora_posicao": "06/11/2026 14:00:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -186,12 +217,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.15 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:46:00",
-          "lat": -23.6975632,
-          "lon": -46.8657984
+          "referencia": "0.06 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 14:00:00",
+          "lat": -23.689544,
+          "lon": -46.8622336
         },
-        "distancia_km": 48.3,
+        "distancia_km": 47.5,
         "proximo": false
       },
       {
@@ -206,12 +237,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.15 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 13:46:00",
-          "lat": -23.6975632,
-          "lon": -46.8657984
+          "referencia": "0.06 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 14:00:00",
+          "lat": -23.689544,
+          "lon": -46.8622336
         },
-        "distancia_km": 48.3,
+        "distancia_km": 47.5,
         "proximo": false
       },
       {
@@ -226,12 +257,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:44:38",
-          "lat": -23.5088448,
-          "lon": -46.7149504
+          "referencia": "0.32 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 14:00:38",
+          "lat": -23.5178768,
+          "lon": -46.6500992
         },
-        "distancia_km": 26.1,
+        "distancia_km": 19.9,
         "proximo": true
       },
       {
@@ -246,12 +277,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:44:38",
-          "lat": -23.5088448,
-          "lon": -46.7149504
+          "referencia": "0.32 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 14:00:38",
+          "lat": -23.5178768,
+          "lon": -46.6500992
         },
-        "distancia_km": 26.1,
+        "distancia_km": 19.9,
         "proximo": true
       },
       {
@@ -266,32 +297,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de INFOTEL - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 13:44:38",
-          "lat": -23.5088448,
-          "lon": -46.7149504
+          "referencia": "0.32 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "06/11/2026 14:00:38",
+          "lat": -23.5178768,
+          "lon": -46.6500992
         },
-        "distancia_km": 26.1,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044218-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 29611.3,
-        "frete_rs": 19427.57,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.15 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "06/11/2026 13:45:03",
-          "lat": -23.4627136,
-          "lon": -46.469456
-        },
-        "distancia_km": 1.1,
+        "distancia_km": 19.9,
         "proximo": true
       },
       {
@@ -332,9 +343,9 @@
         "qtde": 4
       },
       "Rio do Sul": {
-        "peso_kg": 43733.0,
-        "frete_rs": 27180.16,
-        "qtde": 2
+        "peso_kg": 14121.7,
+        "frete_rs": 7752.59,
+        "qtde": 1
       },
       "Timbó": {
         "peso_kg": 22259.66,
@@ -357,10 +368,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.77 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 05) - SANTA CECILIA/SC",
-          "data_hora_posicao": "06/11/2026 13:37:23",
-          "lat": -26.8312832,
-          "lon": -50.3888128
+          "referencia": "2.27 km de POSTO AG5 - SANTA CECILIA/SC",
+          "data_hora_posicao": "06/11/2026 13:54:56",
+          "lat": -26.9754304,
+          "lon": -50.3992192
         },
         "distancia_km": null,
         "proximo": false
@@ -389,7 +400,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:45:43",
+          "data_hora_posicao": "06/11/2026 14:01:12",
           "lat": -28.9081811,
           "lon": -51.193238
         },
@@ -409,7 +420,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 13:45:43",
+          "data_hora_posicao": "06/11/2026 14:01:12",
           "lat": -28.9081811,
           "lon": -51.193238
         },
@@ -425,5 +436,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T13:47:39"
+  "_gerado_em": "2026-11-06T14:02:29"
 }
