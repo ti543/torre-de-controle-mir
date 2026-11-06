@@ -44,12 +44,12 @@
         "frete_rs": 4882.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.32 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "06/11/2026 15:00:01",
-          "lat": -28.8484783333333,
-          "lon": -51.25741
+          "referencia": "0.39 km de POSTO KAMBOIN - ANTONIO PRADO/RS",
+          "data_hora_posicao": "06/11/2026 15:02:28",
+          "lat": -28.8431783333333,
+          "lon": -51.2662033333333
         },
-        "distancia_km": 241.4,
+        "distancia_km": 241.5,
         "proximo": false
       }
     ],
@@ -268,10 +268,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de SUPERGASBRAS - CURITIBANOS/SC",
-          "data_hora_posicao": "06/11/2026 15:00:56",
-          "lat": -27.3149536,
-          "lon": -50.5469984
+          "referencia": "0.63 km de CULTIVAR INSUMOS AGRÍCOLAS - CURITIBANOS/SC",
+          "data_hora_posicao": "06/11/2026 15:03:31",
+          "lat": -27.3148288,
+          "lon": -50.5723296
         },
         "distancia_km": null,
         "proximo": false
@@ -336,5 +336,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T15:02:45"
+  "_gerado_em": "2026-11-06T15:17:44"
 }
