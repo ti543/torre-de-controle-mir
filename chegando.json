@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 12:00:16",
+          "data_hora_posicao": "06/11/2026 12:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 12:00:16",
+          "data_hora_posicao": "06/11/2026 12:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 12:00:16",
+          "data_hora_posicao": "06/11/2026 12:16:16",
           "lat": -29.9833856,
           "lon": -51.1866368
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "06/11/2026 12:01:29",
+          "data_hora_posicao": "06/11/2026 12:15:29",
           "lat": -27.1356832,
           "lon": -49.543456
         },
@@ -124,6 +124,21 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024025-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RLF0A16",
+        "motorista": "TIAGO RUAN PEDRO",
+        "peso_real_kg": 6289.26,
+        "frete_rs": 6259.82,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "RSL044229-1",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -143,6 +158,11 @@
       "Guarulhos": {
         "peso_kg": 4055.63,
         "frete_rs": 7597.02,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 6289.26,
+        "frete_rs": 6259.82,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -166,12 +186,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.32 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 12:00:00",
-          "lat": -23.9744912,
-          "lon": -47.1388992
+          "referencia": "0.46 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 12:15:14",
+          "lat": -23.9131776,
+          "lon": -46.989712
         },
-        "distancia_km": 88.8,
+        "distancia_km": 72.9,
         "proximo": false
       },
       {
@@ -186,12 +206,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.32 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "06/11/2026 12:00:00",
-          "lat": -23.9744912,
-          "lon": -47.1388992
+          "referencia": "0.46 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "06/11/2026 12:15:14",
+          "lat": -23.9131776,
+          "lon": -46.989712
         },
-        "distancia_km": 88.8,
+        "distancia_km": 72.9,
         "proximo": false
       },
       {
@@ -206,12 +226,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 12:00:38",
-          "lat": -23.7657984,
-          "lon": -46.907776
+          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 12:14:38",
+          "lat": -23.7514064,
+          "lon": -46.9012096
         },
-        "distancia_km": 56.0,
+        "distancia_km": 54.5,
         "proximo": false
       },
       {
@@ -226,12 +246,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 12:00:38",
-          "lat": -23.7657984,
-          "lon": -46.907776
+          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 12:14:38",
+          "lat": -23.7514064,
+          "lon": -46.9012096
         },
-        "distancia_km": 56.0,
+        "distancia_km": 54.5,
         "proximo": false
       },
       {
@@ -246,12 +266,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 12:00:38",
-          "lat": -23.7657984,
-          "lon": -46.907776
+          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 12:14:38",
+          "lat": -23.7514064,
+          "lon": -46.9012096
         },
-        "distancia_km": 56.0,
+        "distancia_km": 54.5,
         "proximo": false
       },
       {
@@ -266,12 +286,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "06/11/2026 12:01:03",
-          "lat": -23.7132624,
-          "lon": -46.878592
+          "referencia": "0.14 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "06/11/2026 12:15:03",
+          "lat": -23.6910592,
+          "lon": -46.862928
         },
-        "distancia_km": 50.3,
+        "distancia_km": 47.6,
         "proximo": false
       },
       {
@@ -368,7 +388,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "06/11/2026 11:59:46",
+          "data_hora_posicao": "06/11/2026 12:15:46",
           "lat": -28.6901271,
           "lon": -49.3155853
         },
@@ -398,10 +418,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.33 km de POSTO MATINHOS DIBRAPE - PAPANDUVA/SC",
-          "data_hora_posicao": "06/11/2026 11:56:56",
-          "lat": -26.3854672,
-          "lon": -50.1872096
+          "referencia": "0.05 km de RESTAURANTE DO MILTÃO - MONTE CASTELO/SC",
+          "data_hora_posicao": "06/11/2026 12:14:56",
+          "lat": -26.4529328,
+          "lon": -50.228
         },
         "distancia_km": null,
         "proximo": false
@@ -429,10 +449,10 @@
         "frete_rs": 3472.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.82 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "06/11/2026 12:00:45",
-          "lat": -28.584522,
-          "lon": -51.0290111
+          "referencia": "1.29 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "06/11/2026 12:13:02",
+          "lat": -28.6434238,
+          "lon": -51.0991111
         },
         "distancia_km": null,
         "proximo": false
@@ -449,10 +469,10 @@
         "frete_rs": 1779.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.82 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "06/11/2026 12:00:45",
-          "lat": -28.584522,
-          "lon": -51.0290111
+          "referencia": "1.29 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "06/11/2026 12:13:02",
+          "lat": -28.6434238,
+          "lon": -51.0991111
         },
         "distancia_km": null,
         "proximo": false
@@ -466,5 +486,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T12:02:46"
+  "_gerado_em": "2026-11-06T12:17:39"
 }
