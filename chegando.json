@@ -13,12 +13,12 @@
         "frete_rs": 10893.63,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.41 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BRUSQUE/SC",
-          "data_hora_posicao": "05/11/2026 21:14:56",
-          "lat": -27.080888,
-          "lon": -48.9072198
+          "referencia": "0.51 km de QFAZ SERVIÇOS LOGISTICOS (EMBRAST INDSUTRIA E COM) - BRUSQUE/SC",
+          "data_hora_posicao": "05/11/2026 21:30:44",
+          "lat": -27.0308796,
+          "lon": -48.8526031
         },
-        "distancia_km": 28.3,
+        "distancia_km": 20.6,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 21:14:56",
-          "lat": -26.6961583333333,
-          "lon": -48.6988233333333
+          "referencia": "0.45 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 21:30:56",
+          "lat": -26.8550633333333,
+          "lon": -48.7273516666667
         },
-        "distancia_km": 21.4,
+        "distancia_km": 3.7,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de PEDAGIO - LATERAL ARUJA (SENTIDO RODOANEL) - ARUJA/SP",
-          "data_hora_posicao": "05/11/2026 21:15:04",
-          "lat": -23.4175152,
-          "lon": -46.362176
+          "referencia": "1.82 km de BORRACHARIA - SUZANO/SP",
+          "data_hora_posicao": "05/11/2026 21:31:04",
+          "lat": -23.5688656,
+          "lon": -46.3429184
         },
-        "distancia_km": 453.0,
+        "distancia_km": 439.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO VALE MATRIZ - PASSO DE TORRES/SC",
-          "data_hora_posicao": "05/11/2026 21:16:03",
-          "lat": -29.2470016,
-          "lon": -49.7532
+          "referencia": "0.62 km de POSTO FURNAS (REDE FURNAS) - SOMBRIO/SC",
+          "data_hora_posicao": "05/11/2026 21:31:34",
+          "lat": -29.1239488,
+          "lon": -49.658576
         },
-        "distancia_km": 281.2,
+        "distancia_km": 265.2,
         "proximo": false
       },
       {
@@ -93,13 +93,33 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.72 km de POSTO BOUTIQUE - ILHOTA/SC",
-          "data_hora_posicao": "05/11/2026 21:14:38",
-          "lat": -26.8666464,
-          "lon": -48.8168992
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 21:31:24",
+          "lat": -26.887424,
+          "lon": -48.7205824
         },
-        "distancia_km": 9.8,
+        "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "RSL044220-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1629.56,
+        "frete_rs": 1544.73,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:31:27",
+          "lat": -27.2060928,
+          "lon": -49.6493088
+        },
+        "distancia_km": 98.5,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -124,9 +144,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 460.96,
-        "frete_rs": 163.18,
-        "qtde": 1
+        "peso_kg": 2090.52,
+        "frete_rs": 1707.91,
+        "qtde": 2
       }
     }
   },
@@ -144,12 +164,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 21:16:22",
-          "lat": -25.1613904,
-          "lon": -48.8617248
+          "referencia": "0.04 km de POSTO PETROBRAS - ANTONINA - ANTONINA/PR",
+          "data_hora_posicao": "05/11/2026 21:31:11",
+          "lat": -25.1093152,
+          "lon": -48.7462336
         },
-        "distancia_km": 307.3,
+        "distancia_km": 294.6,
         "proximo": false
       },
       {
@@ -165,7 +185,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:16:00",
+          "data_hora_posicao": "05/11/2026 21:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -185,7 +205,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:16:00",
+          "data_hora_posicao": "05/11/2026 21:30:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -204,12 +224,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.72 km de POSTO BOUTIQUE - ILHOTA/SC",
-          "data_hora_posicao": "05/11/2026 21:14:38",
-          "lat": -26.8666464,
-          "lon": -48.8168992
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 21:31:24",
+          "lat": -26.887424,
+          "lon": -48.7205824
         },
-        "distancia_km": 445.8,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -224,12 +244,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.73 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "05/11/2026 21:15:03",
-          "lat": -27.0644064,
-          "lon": -49.415792
+          "referencia": "1.89 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "05/11/2026 21:31:03",
+          "lat": -26.98176,
+          "lon": -49.371552
         },
-        "distancia_km": 497.8,
+        "distancia_km": 487.9,
         "proximo": false
       },
       {
@@ -300,89 +320,19 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "05/11/2026 21:14:56",
-          "lat": -26.6961583333333,
-          "lon": -48.6988233333333
+          "referencia": "0.45 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
+          "data_hora_posicao": "05/11/2026 21:30:56",
+          "lat": -26.8550633333333,
+          "lon": -48.7273516666667
         },
-        "distancia_km": 110.0,
+        "distancia_km": 99.3,
         "proximo": false
-      },
-      {
-        "manif": "CXS002236-5",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 812.86,
-        "frete_rs": 2175.95,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:16:12",
-          "lat": -27.2060256,
-          "lon": -49.6493824
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "LGS001607-1",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 638.8,
-        "frete_rs": 1062.18,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:16:12",
-          "lat": -27.2060256,
-          "lon": -49.6493824
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "POA016209-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6749.65,
-        "frete_rs": 5702.59,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:16:12",
-          "lat": -27.2060256,
-          "lon": -49.6493824
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
       "Curitiba": {
         "peso_kg": 4506.07,
         "frete_rs": 4162.8,
-        "qtde": 1
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 1451.6599999999999,
-        "frete_rs": 3238.13,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 6749.65,
-        "frete_rs": 5702.59,
         "qtde": 1
       }
     }
@@ -428,7 +378,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:16:16",
+          "data_hora_posicao": "05/11/2026 21:30:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -448,7 +398,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:15:35",
+          "data_hora_posicao": "05/11/2026 21:31:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -468,7 +418,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:15:35",
+          "data_hora_posicao": "05/11/2026 21:31:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -504,7 +454,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 21:14:56",
+          "data_hora_posicao": "05/11/2026 21:30:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -520,5 +470,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T21:17:38"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044219-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 8722.49,
+        "frete_rs": 6460.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:31:27",
+          "lat": -27.2060928,
+          "lon": -49.6493088
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 8722.49,
+        "frete_rs": 6460.33,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-05T21:32:37"
 }
