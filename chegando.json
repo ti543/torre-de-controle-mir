@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:01:19",
+          "data_hora_posicao": "05/11/2026 22:13:19",
           "lat": -26.8875333,
           "lon": -48.7206506
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:30",
+          "data_hora_posicao": "05/11/2026 22:15:59",
           "lat": -26.8873733333333,
           "lon": -48.721195
         },
@@ -53,12 +53,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de PEDAGIO - P4 (SENTIDO IMIGRANTES SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "05/11/2026 22:01:04",
-          "lat": -23.7635568,
-          "lon": -46.5858272
+          "referencia": "2.14 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
+          "data_hora_posicao": "05/11/2026 22:15:04",
+          "lat": -23.7961904,
+          "lon": -46.7497792
         },
-        "distancia_km": 408.3,
+        "distancia_km": 396.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.22 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "05/11/2026 21:59:34",
-          "lat": -28.8863104,
-          "lon": -49.463584
+          "referencia": "0.05 km de POSTO ROSSO - CRICIUMA/SC",
+          "data_hora_posicao": "05/11/2026 22:15:34",
+          "lat": -28.8036,
+          "lon": -49.3676768
         },
-        "distancia_km": 233.9,
+        "distancia_km": 222.3,
         "proximo": false
       },
       {
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:38",
+          "data_hora_posicao": "05/11/2026 22:14:38",
           "lat": -26.8877152,
           "lon": -48.7206624
         },
@@ -113,12 +113,12 @@
         "frete_rs": 1544.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.3 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "05/11/2026 22:01:27",
-          "lat": -27.07976,
-          "lon": -49.5152352
+          "referencia": "2.65 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "05/11/2026 22:15:41",
+          "lat": -27.0628256,
+          "lon": -49.4156256
         },
-        "distancia_km": 81.5,
+        "distancia_km": 71.5,
         "proximo": false
       }
     ],
@@ -164,12 +164,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "05/11/2026 21:58:00",
-          "lat": -24.9759248,
-          "lon": -48.5032
+          "referencia": "1.03 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "05/11/2026 22:09:07",
+          "lat": -24.9711872,
+          "lon": -48.4054528
         },
-        "distancia_km": 266.2,
+        "distancia_km": 258.2,
         "proximo": false
       },
       {
@@ -185,7 +185,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:00",
+          "data_hora_posicao": "05/11/2026 22:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -205,7 +205,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:00",
+          "data_hora_posicao": "05/11/2026 22:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -225,7 +225,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:38",
+          "data_hora_posicao": "05/11/2026 22:14:38",
           "lat": -26.8877152,
           "lon": -48.7206624
         },
@@ -244,12 +244,42 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.89 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "05/11/2026 22:01:03",
-          "lat": -26.8712928,
-          "lon": -49.1983328
+          "referencia": "2.28 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "05/11/2026 22:15:03",
+          "lat": -26.8598976,
+          "lon": -49.062992
         },
-        "distancia_km": 467.7,
+        "distancia_km": 458.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044221-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 7118.59,
+        "frete_rs": 9828.62,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044222-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 20274.15,
+        "frete_rs": 11223.01,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -295,9 +325,9 @@
         "qtde": 2
       },
       "Rio do Sul": {
-        "peso_kg": 43733.0,
-        "frete_rs": 27180.16,
-        "qtde": 2
+        "peso_kg": 71125.73999999999,
+        "frete_rs": 48231.79,
+        "qtde": 4
       },
       "Timbó": {
         "peso_kg": 22259.66,
@@ -321,11 +351,31 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:30",
+          "data_hora_posicao": "05/11/2026 22:15:59",
           "lat": -26.8873733333333,
           "lon": -48.721195
         },
         "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074297-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 6049.63,
+        "frete_rs": 6817.71,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 22:15:29",
+          "lat": -23.4703776,
+          "lon": -46.462128
+        },
+        "distancia_km": 524.5,
         "proximo": false
       }
     ],
@@ -333,6 +383,11 @@
       "Curitiba": {
         "peso_kg": 4506.07,
         "frete_rs": 4162.8,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 6049.63,
+        "frete_rs": 6817.71,
         "qtde": 1
       }
     }
@@ -378,7 +433,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 22:00:16",
+          "data_hora_posicao": "05/11/2026 22:16:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -398,7 +453,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:59:34",
+          "data_hora_posicao": "05/11/2026 22:15:34",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -418,7 +473,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:59:34",
+          "data_hora_posicao": "05/11/2026 22:15:34",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -439,6 +494,93 @@
       }
     }
   },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "GRU074296-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 5254.0,
+        "frete_rs": 6264.24,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 22:15:45",
+          "lat": -23.470928,
+          "lon": -46.4613568
+        },
+        "distancia_km": 366.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044219-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 8722.49,
+        "frete_rs": 6460.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.65 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "05/11/2026 22:15:41",
+          "lat": -27.0628256,
+          "lon": -49.4156256
+        },
+        "distancia_km": 171.1,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 5254.0,
+        "frete_rs": 6264.24,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 8722.49,
+        "frete_rs": 6460.33,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074299-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1770.46,
+        "frete_rs": 2181.42,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "05/11/2026 22:15:29",
+          "lat": -23.4703776,
+          "lon": -46.462128
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 1770.46,
+        "frete_rs": 2181.42,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -454,7 +596,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 22:00:56",
+          "data_hora_posicao": "05/11/2026 22:14:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -470,36 +612,5 @@
       }
     }
   },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "RSL044219-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 8722.49,
-        "frete_rs": 6460.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.3 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "05/11/2026 22:01:27",
-          "lat": -27.07976,
-          "lon": -49.5152352
-        },
-        "distancia_km": 174.0,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 8722.49,
-        "frete_rs": 6460.33,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-05T22:02:34"
+  "_gerado_em": "2026-11-05T22:17:34"
 }
