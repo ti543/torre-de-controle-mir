@@ -13,13 +13,13 @@
         "frete_rs": 10893.63,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.72 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "05/11/2026 20:58:52",
-          "lat": -27.0965788,
-          "lon": -48.9307448
+          "referencia": "0.41 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BRUSQUE/SC",
+          "data_hora_posicao": "05/11/2026 21:14:56",
+          "lat": -27.080888,
+          "lon": -48.9072198
         },
-        "distancia_km": 31.2,
-        "proximo": false
+        "distancia_km": 28.3,
+        "proximo": true
       },
       {
         "manif": "CTB013559-3",
@@ -33,13 +33,13 @@
         "frete_rs": 2710.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 21:00:56",
-          "lat": -26.5524216666667,
-          "lon": -48.7173766666667
+          "referencia": "0.9 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 21:14:56",
+          "lat": -26.6961583333333,
+          "lon": -48.6988233333333
         },
-        "distancia_km": 37.3,
-        "proximo": false
+        "distancia_km": 21.4,
+        "proximo": true
       },
       {
         "manif": "GRU074295-3",
@@ -53,12 +53,12 @@
         "frete_rs": 5559.66,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO CRUZEIRO DO SUL - GUARULHOS/SP",
-          "data_hora_posicao": "05/11/2026 21:01:04",
-          "lat": -23.4670368,
-          "lon": -46.4662816
+          "referencia": "0.35 km de PEDAGIO - LATERAL ARUJA (SENTIDO RODOANEL) - ARUJA/SP",
+          "data_hora_posicao": "05/11/2026 21:15:04",
+          "lat": -23.4175152,
+          "lon": -46.362176
         },
-        "distancia_km": 442.8,
+        "distancia_km": 453.0,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5705.53,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "05/11/2026 20:59:34",
-          "lat": -29.3061664,
-          "lon": -49.7720768
+          "referencia": "0.6 km de POSTO VALE MATRIZ - PASSO DE TORRES/SC",
+          "data_hora_posicao": "05/11/2026 21:16:03",
+          "lat": -29.2470016,
+          "lon": -49.7532
         },
-        "distancia_km": 288.0,
+        "distancia_km": 281.2,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 163.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de POSTO ESTRELA - GASPAR/SC",
-          "data_hora_posicao": "05/11/2026 21:00:38",
-          "lat": -26.9148768,
-          "lon": -48.9740448
+          "referencia": "1.72 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "05/11/2026 21:14:38",
+          "lat": -26.8666464,
+          "lon": -48.8168992
         },
-        "distancia_km": 25.3,
+        "distancia_km": 9.8,
         "proximo": true
       }
     ],
@@ -144,12 +144,12 @@
         "frete_rs": 13624.12,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.25 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "05/11/2026 21:01:11",
-          "lat": -25.291504,
-          "lon": -48.9341312
+          "referencia": "2.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "05/11/2026 21:16:22",
+          "lat": -25.1613904,
+          "lon": -48.8617248
         },
-        "distancia_km": 322.0,
+        "distancia_km": 307.3,
         "proximo": false
       },
       {
@@ -165,7 +165,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:00:00",
+          "data_hora_posicao": "05/11/2026 21:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -185,7 +185,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:00:00",
+          "data_hora_posicao": "05/11/2026 21:16:00",
           "lat": -26.8873952,
           "lon": -48.7211616
         },
@@ -204,12 +204,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de POSTO ESTRELA - GASPAR/SC",
-          "data_hora_posicao": "05/11/2026 21:00:38",
-          "lat": -26.9148768,
-          "lon": -48.9740448
+          "referencia": "1.72 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "05/11/2026 21:14:38",
+          "lat": -26.8666464,
+          "lon": -48.8168992
         },
-        "distancia_km": 458.8,
+        "distancia_km": 445.8,
         "proximo": false
       },
       {
@@ -224,12 +224,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.79 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "05/11/2026 21:01:21",
-          "lat": -27.0831936,
-          "lon": -49.5101344
+          "referencia": "2.73 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "05/11/2026 21:15:03",
+          "lat": -27.0644064,
+          "lon": -49.415792
         },
-        "distancia_km": 505.2,
+        "distancia_km": 497.8,
         "proximo": false
       },
       {
@@ -300,12 +300,12 @@
         "frete_rs": 4162.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "05/11/2026 21:00:56",
-          "lat": -26.5524216666667,
-          "lon": -48.7173766666667
+          "referencia": "0.9 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "05/11/2026 21:14:56",
+          "lat": -26.6961583333333,
+          "lon": -48.6988233333333
         },
-        "distancia_km": 117.6,
+        "distancia_km": 110.0,
         "proximo": false
       },
       {
@@ -320,10 +320,10 @@
         "frete_rs": 2175.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:01:31",
-          "lat": -27.2061152,
-          "lon": -49.649216
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:16:12",
+          "lat": -27.2060256,
+          "lon": -49.6493824
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -340,10 +340,10 @@
         "frete_rs": 1062.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:01:31",
-          "lat": -27.2061152,
-          "lon": -49.649216
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:16:12",
+          "lat": -27.2060256,
+          "lon": -49.6493824
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -360,10 +360,10 @@
         "frete_rs": 5702.59,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "05/11/2026 21:01:31",
-          "lat": -27.2061152,
-          "lon": -49.649216
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "05/11/2026 21:16:12",
+          "lat": -27.2060256,
+          "lon": -49.6493824
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -428,7 +428,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "05/11/2026 21:00:16",
+          "data_hora_posicao": "05/11/2026 21:16:16",
           "lat": -26.8873984,
           "lon": -48.7214784
         },
@@ -448,7 +448,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:01:35",
+          "data_hora_posicao": "05/11/2026 21:15:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -468,7 +468,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "05/11/2026 21:01:35",
+          "data_hora_posicao": "05/11/2026 21:15:35",
           "lat": -29.9834033333333,
           "lon": -51.186615
         },
@@ -504,7 +504,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "05/11/2026 21:00:56",
+          "data_hora_posicao": "05/11/2026 21:14:56",
           "lat": -26.3927568,
           "lon": -50.1716832
         },
@@ -520,5 +520,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-05T21:02:35"
+  "_gerado_em": "2026-11-05T21:17:38"
 }
