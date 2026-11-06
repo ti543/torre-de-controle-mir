@@ -13,13 +13,13 @@
         "frete_rs": 4858.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.36 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "06/11/2026 08:32:16",
-          "lat": -29.914704,
-          "lon": -50.8155776
+          "referencia": "0.07 km de POSTO REDE SIM - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "06/11/2026 08:46:16",
+          "lat": -29.9439328,
+          "lon": -50.9471008
         },
-        "distancia_km": 36.6,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "ITJ024014-1",
@@ -33,13 +33,13 @@
         "frete_rs": 16655.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.36 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "06/11/2026 08:32:16",
-          "lat": -29.914704,
-          "lon": -50.8155776
+          "referencia": "0.07 km de POSTO REDE SIM - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "06/11/2026 08:46:16",
+          "lat": -29.9439328,
+          "lon": -50.9471008
         },
-        "distancia_km": 36.6,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "ITJ024015-0",
@@ -53,13 +53,13 @@
         "frete_rs": 1018.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.36 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "06/11/2026 08:32:16",
-          "lat": -29.914704,
-          "lon": -50.8155776
+          "referencia": "0.07 km de POSTO REDE SIM - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "06/11/2026 08:46:16",
+          "lat": -29.9439328,
+          "lon": -50.9471008
         },
-        "distancia_km": 36.6,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "RSL044197-0",
@@ -74,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 08:31:46",
+          "data_hora_posicao": "06/11/2026 08:45:46",
           "lat": -29.9834016666667,
           "lon": -51.1866366666667
         },
@@ -94,7 +94,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "06/11/2026 08:31:46",
+          "data_hora_posicao": "06/11/2026 08:45:46",
           "lat": -29.9834016666667,
           "lon": -51.1866366666667
         },
@@ -134,12 +134,12 @@
         "frete_rs": 6817.71,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.88 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "06/11/2026 08:33:29",
-          "lat": -26.4507328,
-          "lon": -48.8764544
+          "referencia": "0.56 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "06/11/2026 08:45:53",
+          "lat": -26.4795584,
+          "lon": -49.0009952
         },
-        "distancia_km": 113.8,
+        "distancia_km": 103.3,
         "proximo": false
       },
       {
@@ -180,10 +180,10 @@
         "frete_rs": 2181.42,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.88 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "06/11/2026 08:33:29",
-          "lat": -26.4507328,
-          "lon": -48.8764544
+          "referencia": "0.56 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "06/11/2026 08:45:53",
+          "lat": -26.4795584,
+          "lon": -49.0009952
         },
         "distancia_km": null,
         "proximo": false
@@ -232,57 +232,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074301-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RLF0A16",
-        "motorista": "TIAGO RUAN PEDRO",
-        "peso_real_kg": 7607.39,
-        "frete_rs": 15092.5,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016215-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4933.1,
-        "frete_rs": 5705.53,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "06/11/2026 08:33:34",
-          "lat": -26.8874592,
-          "lon": -48.7212992
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 7607.39,
-        "frete_rs": 15092.5,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 4933.1,
-        "frete_rs": 5705.53,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -297,12 +246,12 @@
         "frete_rs": 20319.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "06/11/2026 08:29:20",
-          "lat": -25.055216,
-          "lon": -48.5537824
+          "referencia": "1.57 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "06/11/2026 08:40:23",
+          "lat": -24.9727232,
+          "lon": -48.4912384
         },
-        "distancia_km": 275.7,
+        "distancia_km": 265.0,
         "proximo": false
       },
       {
@@ -317,12 +266,12 @@
         "frete_rs": 6876.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "06/11/2026 08:29:20",
-          "lat": -25.055216,
-          "lon": -48.5537824
+          "referencia": "1.57 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "06/11/2026 08:40:23",
+          "lat": -24.9727232,
+          "lon": -48.4912384
         },
-        "distancia_km": 275.7,
+        "distancia_km": 265.0,
         "proximo": false
       },
       {
@@ -337,12 +286,12 @@
         "frete_rs": 16301.21,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.41 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "06/11/2026 08:32:38",
-          "lat": -24.784448,
-          "lon": -48.1884704
+          "referencia": "0.96 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "06/11/2026 08:46:38",
+          "lat": -24.7218544,
+          "lon": -48.07312
         },
-        "distancia_km": 228.1,
+        "distancia_km": 214.7,
         "proximo": false
       },
       {
@@ -357,12 +306,12 @@
         "frete_rs": 162.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.41 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "06/11/2026 08:32:38",
-          "lat": -24.784448,
-          "lon": -48.1884704
+          "referencia": "0.96 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "06/11/2026 08:46:38",
+          "lat": -24.7218544,
+          "lon": -48.07312
         },
-        "distancia_km": 228.1,
+        "distancia_km": 214.7,
         "proximo": false
       },
       {
@@ -377,12 +326,12 @@
         "frete_rs": 7752.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "06/11/2026 08:32:38",
-          "lat": -24.784448,
-          "lon": -48.1884704
+          "referencia": "0.96 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "06/11/2026 08:46:38",
+          "lat": -24.7218544,
+          "lon": -48.07312
         },
-        "distancia_km": 228.1,
+        "distancia_km": 214.7,
         "proximo": false
       },
       {
@@ -397,12 +346,12 @@
         "frete_rs": 19427.57,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO MENEGUETI - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "06/11/2026 08:33:03",
-          "lat": -24.6333104,
-          "lon": -47.9068256
+          "referencia": "0.11 km de POSTO IPIRANGA SASSAKI - REGISTRO/SP",
+          "data_hora_posicao": "06/11/2026 08:45:03",
+          "lat": -24.5007168,
+          "lon": -47.8450752
         },
-        "distancia_km": 195.5,
+        "distancia_km": 181.3,
         "proximo": false
       },
       {
@@ -499,7 +448,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 08:33:22",
+          "data_hora_posicao": "06/11/2026 08:43:07",
           "lat": -28.4685151,
           "lon": -49.0190028
         },
@@ -530,7 +479,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 08:33:22",
+          "data_hora_posicao": "06/11/2026 08:43:07",
           "lat": -28.4685151,
           "lon": -49.0190028
         },
@@ -561,7 +510,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 08:33:22",
+          "data_hora_posicao": "06/11/2026 08:43:07",
           "lat": -28.4685151,
           "lon": -49.0190028
         },
@@ -581,7 +530,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 08:33:22",
+          "data_hora_posicao": "06/11/2026 08:43:07",
           "lat": -28.4685151,
           "lon": -49.0190028
         },
@@ -594,6 +543,37 @@
         "peso_kg": 1375.56,
         "frete_rs": 1786.63,
         "qtde": 2
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "POA016215-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4933.1,
+        "frete_rs": 5705.53,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "06/11/2026 08:45:34",
+          "lat": -26.8873856,
+          "lon": -48.7213632
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 4933.1,
+        "frete_rs": 5705.53,
+        "qtde": 1
       }
     }
   },
@@ -611,10 +591,10 @@
         "frete_rs": 2426.55,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de PÁTIO ERENILSON BOSSY - MAFRA/SC",
-          "data_hora_posicao": "06/11/2026 08:32:56",
-          "lat": -26.14568,
-          "lon": -49.828912
+          "referencia": "2.48 km de MULTI EXPRESS - MAFRA/SC",
+          "data_hora_posicao": "06/11/2026 08:44:56",
+          "lat": -26.17944,
+          "lon": -49.8140288
         },
         "distancia_km": null,
         "proximo": false
@@ -643,7 +623,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "06/11/2026 08:32:22",
+          "data_hora_posicao": "06/11/2026 08:46:31",
           "lat": -27.8238326,
           "lon": -50.3627503
         },
@@ -663,7 +643,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "06/11/2026 08:32:22",
+          "data_hora_posicao": "06/11/2026 08:46:31",
           "lat": -27.8238326,
           "lon": -50.3627503
         },
@@ -694,7 +674,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "06/11/2026 08:32:22",
+          "data_hora_posicao": "06/11/2026 08:46:31",
           "lat": -27.8238326,
           "lon": -50.3627503
         },
@@ -714,7 +694,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "06/11/2026 08:32:22",
+          "data_hora_posicao": "06/11/2026 08:46:31",
           "lat": -27.8238326,
           "lon": -50.3627503
         },
@@ -730,5 +710,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T08:35:07"
+  "_gerado_em": "2026-11-06T08:47:56"
 }
