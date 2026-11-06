@@ -13,12 +13,12 @@
         "frete_rs": 1325.26,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.88 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 15:44:43",
-          "lat": -28.455318,
-          "lon": -48.9803778
+          "referencia": "0.91 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "06/11/2026 15:47:36",
+          "lat": -28.4313031,
+          "lon": -48.953754
         },
-        "distancia_km": 176.2,
+        "distancia_km": 173.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5387.97,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.88 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
-          "data_hora_posicao": "06/11/2026 15:44:43",
-          "lat": -28.455318,
-          "lon": -48.9803778
+          "referencia": "0.91 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "06/11/2026 15:47:36",
+          "lat": -28.4313031,
+          "lon": -48.953754
         },
-        "distancia_km": 176.2,
+        "distancia_km": 173.2,
         "proximo": false
       }
     ],
@@ -76,12 +76,37 @@
         },
         "distancia_km": 208.6,
         "proximo": false
+      },
+      {
+        "manif": "GRU074356-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3903.17,
+        "frete_rs": 6128.96,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "06/11/2026 15:44:44",
+          "lat": -23.47048,
+          "lon": -46.4621376
+        },
+        "distancia_km": 524.5,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
         "peso_kg": 2279.24,
         "frete_rs": 4882.4,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 3903.17,
+        "frete_rs": 6128.96,
         "qtde": 1
       }
     }
@@ -244,5 +269,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-06T16:02:39"
+  "_gerado_em": "2026-11-06T16:17:47"
 }
