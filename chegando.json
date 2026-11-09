@@ -13,12 +13,12 @@
         "frete_rs": 4230.98,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.1 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "09/11/2026 16:14:30",
-          "lat": -23.3024288,
-          "lon": -46.5724192
+          "referencia": "0.76 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 16:30:30",
+          "lat": -23.4211488,
+          "lon": -46.577824
         },
-        "distancia_km": 21.8,
+        "distancia_km": 13.0,
         "proximo": true
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.87 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "09/11/2026 16:14:38",
-          "lat": -27.1177503,
-          "lon": -48.9095365
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "09/11/2026 16:28:59",
+          "lat": -27.0963796,
+          "lon": -48.9307451
         },
-        "distancia_km": 31.7,
+        "distancia_km": 31.2,
         "proximo": false
       }
     ],
@@ -97,6 +97,36 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "ITJ024039-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 6292.6,
+        "frete_rs": 7517.18,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024040-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 52.0,
+        "frete_rs": 130.0,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -104,6 +134,11 @@
         "peso_kg": 43.75,
         "frete_rs": 96.29,
         "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 6344.6,
+        "frete_rs": 7647.18,
+        "qtde": 2
       }
     }
   },
@@ -121,12 +156,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.52 km de ECN CARREFOUR CENTER NORTE - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 16:14:36",
-          "lat": -23.518648,
-          "lon": -46.6216384
+          "referencia": "0.75 km de EATON LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 16:30:36",
+          "lat": -23.5079136,
+          "lon": -46.711312
         },
-        "distancia_km": 510.5,
+        "distancia_km": 506.2,
         "proximo": false
       }
     ],
@@ -152,12 +187,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
-          "data_hora_posicao": "09/11/2026 16:15:39",
-          "lat": -29.9752192,
-          "lon": -51.1985824
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "09/11/2026 16:30:16",
+          "lat": -29.9834496,
+          "lon": -51.1867232
         },
-        "distancia_km": 1.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -172,12 +207,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
-          "data_hora_posicao": "09/11/2026 16:15:39",
-          "lat": -29.9752192,
-          "lon": -51.1985824
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "09/11/2026 16:30:16",
+          "lat": -29.9834496,
+          "lon": -51.1867232
         },
-        "distancia_km": 1.5,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -189,5 +224,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T16:17:47"
+  "_gerado_em": "2026-11-09T16:32:47"
 }
