@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 08:59:03",
+          "data_hora_posicao": "09/11/2026 09:15:03",
           "lat": -26.8873888,
           "lon": -48.7212416
         },
@@ -48,13 +48,13 @@
         "frete_rs": 3776.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.75 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "09/11/2026 09:00:03",
-          "lat": -26.8616992,
-          "lon": -49.068976
+          "referencia": "1.03 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "09/11/2026 09:15:35",
+          "lat": -26.8942016,
+          "lon": -48.9168576
         },
-        "distancia_km": 34.6,
-        "proximo": false
+        "distancia_km": 19.4,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -110,12 +110,12 @@
         "frete_rs": 19339.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de FILIAL POLIVIAS S/A TRANSPORTES E SERVICOS LTDA - OSASCO/SP",
-          "data_hora_posicao": "09/11/2026 09:00:38",
-          "lat": -23.5164304,
-          "lon": -46.7919872
+          "referencia": "0.09 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 09:14:38",
+          "lat": -23.525864,
+          "lon": -46.7542496
         },
-        "distancia_km": 34.0,
+        "distancia_km": 30.4,
         "proximo": false
       }
     ],
@@ -141,10 +141,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 09:00:16",
-          "lat": -27.865376,
-          "lon": -50.3939872
+          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:13:37",
+          "lat": -27.9533568,
+          "lon": -50.480768
         },
         "distancia_km": null,
         "proximo": false
@@ -172,12 +172,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 09:00:16",
-          "lat": -27.865376,
-          "lon": -50.3939872
+          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:13:37",
+          "lat": -27.9533568,
+          "lon": -50.480768
         },
-        "distancia_km": 247.8,
+        "distancia_km": 235.9,
         "proximo": false
       },
       {
@@ -192,12 +192,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 09:00:16",
-          "lat": -27.865376,
-          "lon": -50.3939872
+          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:13:37",
+          "lat": -27.9533568,
+          "lon": -50.480768
         },
-        "distancia_km": 247.8,
+        "distancia_km": 235.9,
         "proximo": false
       }
     ],
@@ -209,5 +209,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T09:02:36"
+  "_gerado_em": "2026-11-09T09:17:32"
 }
