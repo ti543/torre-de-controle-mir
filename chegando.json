@@ -13,12 +13,12 @@
         "frete_rs": 4230.98,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO PETROBRAS - ITATIBA/SP",
-          "data_hora_posicao": "09/11/2026 15:14:30",
-          "lat": -22.9801728,
-          "lon": -46.8262752
+          "referencia": "1.27 km de CONCESSIONARIA MERCEDES BENZ - ITATIBA/SP",
+          "data_hora_posicao": "09/11/2026 15:30:30",
+          "lat": -23.0002992,
+          "lon": -46.7817952
         },
-        "distancia_km": 66.0,
+        "distancia_km": 61.6,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "09/11/2026 15:15:26",
-          "lat": -27.2440071,
-          "lon": -48.6393991
+          "referencia": "1.02 km de 3°PEL/1°GP – 1° GRUPO - CANELINHA/SC",
+          "data_hora_posicao": "09/11/2026 15:30:40",
+          "lat": -27.265941,
+          "lon": -48.756393
         },
-        "distancia_km": 40.5,
+        "distancia_km": 42.2,
         "proximo": false
       }
     ],
@@ -121,10 +121,10 @@
         "frete_rs": 1417.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "09/11/2026 15:15:26",
-          "lat": -27.2440071,
-          "lon": -48.6393991
+          "referencia": "1.02 km de 3°PEL/1°GP – 1° GRUPO - CANELINHA/SC",
+          "data_hora_posicao": "09/11/2026 15:30:40",
+          "lat": -27.265941,
+          "lon": -48.756393
         },
         "distancia_km": null,
         "proximo": false
@@ -152,12 +152,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.6 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "09/11/2026 15:14:16",
-          "lat": -29.471696,
-          "lon": -51.3533024
+          "referencia": "0.2 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "09/11/2026 15:30:16",
+          "lat": -29.6249024,
+          "lon": -51.3119616
         },
-        "distancia_km": 59.1,
+        "distancia_km": 41.7,
         "proximo": false
       },
       {
@@ -172,12 +172,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.6 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "09/11/2026 15:14:16",
-          "lat": -29.471696,
-          "lon": -51.3533024
+          "referencia": "0.2 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "09/11/2026 15:30:16",
+          "lat": -29.6249024,
+          "lon": -51.3119616
         },
-        "distancia_km": 59.1,
+        "distancia_km": 41.7,
         "proximo": false
       }
     ],
@@ -189,5 +189,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T15:17:40"
+  "_gerado_em": "2026-11-09T15:32:39"
 }
