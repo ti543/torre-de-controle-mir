@@ -40,7 +40,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 13:14:01",
+          "data_hora_posicao": "09/11/2026 13:30:01",
           "lat": -27.6744423,
           "lon": -48.6978711
         },
@@ -71,7 +71,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 13:14:01",
+          "data_hora_posicao": "09/11/2026 13:30:01",
           "lat": -27.6744423,
           "lon": -48.6978711
         },
@@ -101,10 +101,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:14:16",
-          "lat": -29.1494464,
-          "lon": -51.1787424
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 13:30:16",
+          "lat": -29.1463584,
+          "lon": -51.1648608
         },
         "distancia_km": null,
         "proximo": false
@@ -132,12 +132,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:14:16",
-          "lat": -29.1494464,
-          "lon": -51.1787424
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 13:30:16",
+          "lat": -29.1463584,
+          "lon": -51.1648608
         },
-        "distancia_km": 92.7,
+        "distancia_km": 93.1,
         "proximo": false
       },
       {
@@ -152,12 +152,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:14:16",
-          "lat": -29.1494464,
-          "lon": -51.1787424
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 13:30:16",
+          "lat": -29.1463584,
+          "lon": -51.1648608
         },
-        "distancia_km": 92.7,
+        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -184,7 +184,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 13:15:35",
+          "data_hora_posicao": "09/11/2026 13:29:35",
           "lat": -26.8875072,
           "lon": -48.7207808
         },
@@ -200,5 +200,31 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T13:17:34"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "TBO016369-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "MIR0001",
+        "motorista": "DANIEL HETTERICH",
+        "peso_real_kg": 120.0,
+        "frete_rs": 196.93,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Timbó": {
+        "peso_kg": 120.0,
+        "frete_rs": 196.93,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-09T13:32:39"
 }
