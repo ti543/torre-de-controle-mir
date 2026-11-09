@@ -13,12 +13,12 @@
         "frete_rs": 3104.57,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.4 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 20:30:14",
-          "lat": -23.4159133333333,
-          "lon": -46.5807633333333
+          "referencia": "0.24 km de POSTO EMIRADOS - GUARULHOS/SP",
+          "data_hora_posicao": "09/11/2026 20:44:33",
+          "lat": -23.48418,
+          "lon": -46.53798
         },
-        "distancia_km": 13.5,
+        "distancia_km": 7.9,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4858.2,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "09/11/2026 20:30:28",
-          "lat": -25.1783216,
-          "lon": -48.8789408
+          "referencia": "1.29 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "09/11/2026 20:45:31",
+          "lat": -25.1134352,
+          "lon": -48.7586432
         },
-        "distancia_km": 309.9,
+        "distancia_km": 295.9,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "09/11/2026 20:30:26",
-          "lat": -26.9529408,
-          "lon": -49.3714272
+          "referencia": "2.4 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "09/11/2026 20:44:26",
+          "lat": -26.9130816,
+          "lon": -49.2788032
         },
-        "distancia_km": 485.3,
+        "distancia_km": 476.2,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "09/11/2026 20:30:26",
-          "lat": -26.9529408,
-          "lon": -49.3714272
+          "referencia": "2.4 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "09/11/2026 20:44:26",
+          "lat": -26.9130816,
+          "lon": -49.2788032
         },
-        "distancia_km": 485.3,
+        "distancia_km": 476.2,
         "proximo": false
       }
     ],
@@ -114,12 +114,32 @@
         "frete_rs": 528.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.66 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "09/11/2026 20:29:27",
-          "lat": -26.1053136,
-          "lon": -48.8718176
+          "referencia": "0.82 km de TRANSPORTES RAPOSA - JOINVILLE/SC",
+          "data_hora_posicao": "09/11/2026 20:45:27",
+          "lat": -26.2676736,
+          "lon": -48.8964224
         },
-        "distancia_km": 88.3,
+        "distancia_km": 71.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074427-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 4237.45,
+        "frete_rs": 11222.73,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "09/11/2026 20:45:04",
+          "lat": -23.4703472,
+          "lon": -46.4619488
+        },
+        "distancia_km": 442.8,
         "proximo": false
       },
       {
@@ -134,12 +154,12 @@
         "frete_rs": 1453.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
-          "data_hora_posicao": "09/11/2026 20:30:26",
-          "lat": -26.9529408,
-          "lon": -49.3714272
+          "referencia": "2.4 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "09/11/2026 20:44:26",
+          "lat": -26.9130816,
+          "lon": -49.2788032
         },
-        "distancia_km": 64.9,
+        "distancia_km": 55.4,
         "proximo": false
       }
     ],
@@ -147,6 +167,11 @@
       "Curitiba": {
         "peso_kg": 299.34,
         "frete_rs": 528.9,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 4237.45,
+        "frete_rs": 11222.73,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -170,12 +195,12 @@
         "frete_rs": 1368.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.66 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "09/11/2026 20:29:27",
-          "lat": -26.1053136,
-          "lon": -48.8718176
+          "referencia": "0.82 km de TRANSPORTES RAPOSA - JOINVILLE/SC",
+          "data_hora_posicao": "09/11/2026 20:45:27",
+          "lat": -26.2676736,
+          "lon": -48.8964224
         },
-        "distancia_km": 144.8,
+        "distancia_km": 128.4,
         "proximo": false
       },
       {
@@ -191,7 +216,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO SIM - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "09/11/2026 20:30:59",
+          "data_hora_posicao": "09/11/2026 20:44:36",
           "lat": -24.77908,
           "lon": -48.185424
         },
@@ -210,12 +235,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.37 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 20:30:44",
-          "lat": -29.1499456,
-          "lon": -51.187408
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 20:44:16",
+          "lat": -29.1464928,
+          "lon": -51.1647744
         },
-        "distancia_km": 263.5,
+        "distancia_km": 261.9,
         "proximo": false
       },
       {
@@ -332,12 +357,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "09/11/2026 20:29:35",
-          "lat": -26.9850016,
-          "lon": -48.6679296
+          "referencia": "0.49 km de POSTO BRAVA - ITAPEMA/SC",
+          "data_hora_posicao": "09/11/2026 20:45:35",
+          "lat": -27.1006624,
+          "lon": -48.6183136
         },
-        "distancia_km": 414.4,
+        "distancia_km": 407.0,
         "proximo": false
       }
     ],
@@ -363,10 +388,10 @@
         "frete_rs": 298.08,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.37 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 20:30:44",
-          "lat": -29.1499456,
-          "lon": -51.187408
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 20:44:16",
+          "lat": -29.1464928,
+          "lon": -51.1647744
         },
         "distancia_km": null,
         "proximo": false
@@ -394,10 +419,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.37 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 20:30:44",
-          "lat": -29.1499456,
-          "lon": -51.187408
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 20:44:16",
+          "lat": -29.1464928,
+          "lon": -51.1647744
         },
         "distancia_km": null,
         "proximo": false
@@ -411,5 +436,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T20:32:31"
+  "_gerado_em": "2026-11-09T20:47:47"
 }
