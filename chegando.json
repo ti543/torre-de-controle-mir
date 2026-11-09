@@ -13,12 +13,12 @@
         "frete_rs": 4230.98,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2 km de CAI CARREFOUR VILA BRANDINA - CAMPINAS/SP - CAMPINAS/SP",
-          "data_hora_posicao": "09/11/2026 14:44:30",
-          "lat": -22.8742784,
-          "lon": -47.0173024
+          "referencia": "0.07 km de PEDAGIO - ITATIBA - ITATIBA/SP",
+          "data_hora_posicao": "09/11/2026 15:00:30",
+          "lat": -22.9544128,
+          "lon": -46.859632
         },
-        "distancia_km": 87.3,
+        "distancia_km": 70.3,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "09/11/2026 14:45:01",
-          "lat": -27.4690116,
-          "lon": -48.722525
+          "referencia": "1.15 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "09/11/2026 15:00:34",
+          "lat": -27.3310313,
+          "lon": -48.626755
         },
-        "distancia_km": 64.7,
+        "distancia_km": 50.2,
         "proximo": false
       }
     ],
@@ -121,10 +121,10 @@
         "frete_rs": 1417.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "09/11/2026 14:45:01",
-          "lat": -27.4690116,
-          "lon": -48.722525
+          "referencia": "1.15 km de POSTINHO BR - TIJUCAS/SC",
+          "data_hora_posicao": "09/11/2026 15:00:34",
+          "lat": -27.3310313,
+          "lon": -48.626755
         },
         "distancia_km": null,
         "proximo": false
@@ -152,10 +152,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de CD ALIBEM - FARROUPILHA/RS",
-          "data_hora_posicao": "09/11/2026 14:44:16",
-          "lat": -29.2513408,
-          "lon": -51.3446656
+          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "09/11/2026 14:59:23",
+          "lat": -29.327056,
+          "lon": -51.3541536
         },
         "distancia_km": null,
         "proximo": false
@@ -183,12 +183,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de CD ALIBEM - FARROUPILHA/RS",
-          "data_hora_posicao": "09/11/2026 14:44:16",
-          "lat": -29.2513408,
-          "lon": -51.3446656
+          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "09/11/2026 14:59:23",
+          "lat": -29.327056,
+          "lon": -51.3541536
         },
-        "distancia_km": 82.8,
+        "distancia_km": 74.8,
         "proximo": false
       },
       {
@@ -203,12 +203,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de CD ALIBEM - FARROUPILHA/RS",
-          "data_hora_posicao": "09/11/2026 14:44:16",
-          "lat": -29.2513408,
-          "lon": -51.3446656
+          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "09/11/2026 14:59:23",
+          "lat": -29.327056,
+          "lon": -51.3541536
         },
-        "distancia_km": 82.8,
+        "distancia_km": 74.8,
         "proximo": false
       }
     ],
@@ -220,5 +220,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T14:47:29"
+  "_gerado_em": "2026-11-09T15:02:38"
 }
