@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 08:29:03",
+          "data_hora_posicao": "09/11/2026 08:45:03",
           "lat": -26.8873888,
           "lon": -48.7212416
         },
@@ -48,12 +48,12 @@
         "frete_rs": 3776.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.53 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "09/11/2026 08:29:35",
-          "lat": -26.869872,
-          "lon": -49.2017408
+          "referencia": "0.64 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "09/11/2026 08:45:35",
+          "lat": -26.8827488,
+          "lon": -49.1538304
         },
-        "distancia_km": 47.7,
+        "distancia_km": 42.9,
         "proximo": false
       }
     ],
@@ -125,12 +125,12 @@
         "frete_rs": 19339.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de DELEGACIA DE POLICIA CIVIL - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "09/11/2026 08:30:38",
-          "lat": -23.641376,
-          "lon": -46.8368672
+          "referencia": "0.55 km de BASE DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "09/11/2026 08:44:38",
+          "lat": -23.5750624,
+          "lon": -46.810608
         },
-        "distancia_km": 42.6,
+        "distancia_km": 37.4,
         "proximo": false
       }
     ],
@@ -157,9 +157,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:30:16",
+          "data_hora_posicao": "09/11/2026 08:44:16",
           "lat": -27.8238016,
-          "lon": -50.3628
+          "lon": -50.362912
         },
         "distancia_km": null,
         "proximo": false
@@ -188,9 +188,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:30:16",
+          "data_hora_posicao": "09/11/2026 08:44:16",
           "lat": -27.8238016,
-          "lon": -50.3628
+          "lon": -50.362912
         },
         "distancia_km": null,
         "proximo": false
@@ -208,9 +208,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:30:16",
+          "data_hora_posicao": "09/11/2026 08:44:16",
           "lat": -27.8238016,
-          "lon": -50.3628
+          "lon": -50.362912
         },
         "distancia_km": null,
         "proximo": false
@@ -239,9 +239,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:30:16",
+          "data_hora_posicao": "09/11/2026 08:44:16",
           "lat": -27.8238016,
-          "lon": -50.3628
+          "lon": -50.362912
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -259,9 +259,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:30:16",
+          "data_hora_posicao": "09/11/2026 08:44:16",
           "lat": -27.8238016,
-          "lon": -50.3628
+          "lon": -50.362912
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -275,5 +275,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T08:32:39"
+  "_gerado_em": "2026-11-09T08:47:36"
 }
