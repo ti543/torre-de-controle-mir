@@ -13,13 +13,13 @@
         "frete_rs": 4230.98,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.31 km de POSTO SHELL - ATIBAIA/SP",
-          "data_hora_posicao": "09/11/2026 16:00:30",
-          "lat": -23.1763248,
-          "lon": -46.5788768
+          "referencia": "1.1 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
+          "data_hora_posicao": "09/11/2026 16:14:30",
+          "lat": -23.3024288,
+          "lon": -46.5724192
         },
-        "distancia_km": 34.8,
-        "proximo": false
+        "distancia_km": 21.8,
+        "proximo": true
       },
       {
         "manif": "TBO016369-4",
@@ -64,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "6.75 km de COSTA RICA MALHAS - NOVA TRENTO/SC",
-          "data_hora_posicao": "09/11/2026 16:00:32",
-          "lat": -27.1631666,
-          "lon": -48.9006585
+          "referencia": "1.87 km de HOTEL VENEZA - BRUSQUE/SC",
+          "data_hora_posicao": "09/11/2026 16:14:38",
+          "lat": -27.1177503,
+          "lon": -48.9095365
         },
-        "distancia_km": 35.4,
+        "distancia_km": 31.7,
         "proximo": false
       }
     ],
@@ -121,12 +121,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de MULTIEIXO MANUTNEÇÃO - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 16:00:36",
-          "lat": -23.4797472,
-          "lon": -46.5207488
+          "referencia": "0.52 km de ECN CARREFOUR CENTER NORTE - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 16:14:36",
+          "lat": -23.518648,
+          "lon": -46.6216384
         },
-        "distancia_km": 520.1,
+        "distancia_km": 510.5,
         "proximo": false
       }
     ],
@@ -152,12 +152,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "09/11/2026 16:00:16",
-          "lat": -29.8425248,
-          "lon": -51.187152
+          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
+          "data_hora_posicao": "09/11/2026 16:15:39",
+          "lat": -29.9752192,
+          "lon": -51.1985824
         },
-        "distancia_km": 15.7,
+        "distancia_km": 1.5,
         "proximo": true
       },
       {
@@ -172,12 +172,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "09/11/2026 16:00:16",
-          "lat": -29.8425248,
-          "lon": -51.187152
+          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
+          "data_hora_posicao": "09/11/2026 16:15:39",
+          "lat": -29.9752192,
+          "lon": -51.1985824
         },
-        "distancia_km": 15.7,
+        "distancia_km": 1.5,
         "proximo": true
       }
     ],
@@ -189,5 +189,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T16:02:53"
+  "_gerado_em": "2026-11-09T16:17:47"
 }
