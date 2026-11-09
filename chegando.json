@@ -13,12 +13,12 @@
         "frete_rs": 4230.98,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.07 km de PEDAGIO - ITATIBA - ITATIBA/SP",
-          "data_hora_posicao": "09/11/2026 15:00:30",
-          "lat": -22.9544128,
-          "lon": -46.859632
+          "referencia": "0.05 km de POSTO PETROBRAS - ITATIBA/SP",
+          "data_hora_posicao": "09/11/2026 15:14:30",
+          "lat": -22.9801728,
+          "lon": -46.8262752
         },
-        "distancia_km": 70.3,
+        "distancia_km": 66.0,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "09/11/2026 15:00:34",
-          "lat": -27.3310313,
-          "lon": -48.626755
+          "referencia": "0.43 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "09/11/2026 15:15:26",
+          "lat": -27.2440071,
+          "lon": -48.6393991
         },
-        "distancia_km": 50.2,
+        "distancia_km": 40.5,
         "proximo": false
       }
     ],
@@ -121,10 +121,10 @@
         "frete_rs": 1417.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "09/11/2026 15:00:34",
-          "lat": -27.3310313,
-          "lon": -48.626755
+          "referencia": "0.43 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "09/11/2026 15:15:26",
+          "lat": -27.2440071,
+          "lon": -48.6393991
         },
         "distancia_km": null,
         "proximo": false
@@ -134,37 +134,6 @@
       "Itajaí": {
         "peso_kg": 1845.4,
         "frete_rs": 1417.38,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044252-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 8491.8,
-        "frete_rs": 5447.15,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "09/11/2026 14:59:23",
-          "lat": -29.327056,
-          "lon": -51.3541536
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 8491.8,
-        "frete_rs": 5447.15,
         "qtde": 1
       }
     }
@@ -183,12 +152,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "09/11/2026 14:59:23",
-          "lat": -29.327056,
-          "lon": -51.3541536
+          "referencia": "0.6 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "09/11/2026 15:14:16",
+          "lat": -29.471696,
+          "lon": -51.3533024
         },
-        "distancia_km": 74.8,
+        "distancia_km": 59.1,
         "proximo": false
       },
       {
@@ -203,12 +172,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "09/11/2026 14:59:23",
-          "lat": -29.327056,
-          "lon": -51.3541536
+          "referencia": "0.6 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "09/11/2026 15:14:16",
+          "lat": -29.471696,
+          "lon": -51.3533024
         },
-        "distancia_km": 74.8,
+        "distancia_km": 59.1,
         "proximo": false
       }
     ],
@@ -220,5 +189,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T15:02:38"
+  "_gerado_em": "2026-11-09T15:17:40"
 }
