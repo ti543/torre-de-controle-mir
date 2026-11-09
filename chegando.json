@@ -40,9 +40,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.97 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 13:44:08",
-          "lat": -27.6742411,
-          "lon": -48.6979028
+          "data_hora_posicao": "09/11/2026 13:58:36",
+          "lat": -27.6742296,
+          "lon": -48.69792
         },
         "distancia_km": null,
         "proximo": false
@@ -71,9 +71,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.97 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 13:44:08",
-          "lat": -27.6742411,
-          "lon": -48.6979028
+          "data_hora_posicao": "09/11/2026 13:58:36",
+          "lat": -27.6742296,
+          "lon": -48.69792
         },
         "distancia_km": null,
         "proximo": false
@@ -101,10 +101,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:44:16",
-          "lat": -29.1463584,
-          "lon": -51.1648608
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:00:52",
+          "lat": -29.146912,
+          "lon": -51.164832
         },
         "distancia_km": null,
         "proximo": false
@@ -132,12 +132,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:44:16",
-          "lat": -29.1463584,
-          "lon": -51.1648608
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:00:52",
+          "lat": -29.146912,
+          "lon": -51.164832
         },
-        "distancia_km": 93.1,
+        "distancia_km": 93.0,
         "proximo": false
       },
       {
@@ -152,12 +152,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 13:44:16",
-          "lat": -29.1463584,
-          "lon": -51.1648608
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:00:52",
+          "lat": -29.146912,
+          "lon": -51.164832
         },
-        "distancia_km": 93.1,
+        "distancia_km": 93.0,
         "proximo": false
       }
     ],
@@ -166,37 +166,6 @@
         "peso_kg": 12383.16,
         "frete_rs": 9451.57,
         "qtde": 2
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "RSL044258-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4957.83,
-        "frete_rs": 3776.98,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 13:45:35",
-          "lat": -26.8875072,
-          "lon": -48.7207808
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 4957.83,
-        "frete_rs": 3776.98,
-        "qtde": 1
       }
     }
   },
@@ -226,5 +195,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T13:47:23"
+  "_gerado_em": "2026-11-09T14:02:35"
 }
