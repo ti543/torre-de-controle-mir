@@ -1,190 +1,246 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010365-9",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "ODAIR JUSTO DA SILVA",
-        "peso_real_kg": 4951.0,
-        "frete_rs": 10705.44,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.23 km de POSTO MORRO AZUL - ITATIBA/SP",
-          "data_hora_posicao": "06/11/2026 17:30:05",
-          "lat": -23.0292784,
-          "lon": -46.7463328
-        },
-        "distancia_km": 57.0,
-        "proximo": false
-      },
-      {
-        "manif": "CTB013566-6",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 4080.24,
-        "frete_rs": 5642.05,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.54 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
-          "data_hora_posicao": "06/11/2026 17:31:45",
-          "lat": -25.4983216,
-          "lon": -49.277312
-        },
-        "distancia_km": 363.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 4951.0,
-        "frete_rs": 10705.44,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 4080.24,
-        "frete_rs": 5642.05,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
-        "manif": "CRC000395-6",
-        "origin_unit": "CRC",
-        "origin_city": "ICARA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 825.34,
-        "frete_rs": 1325.26,
-        "grupo_origem": "CRC",
-        "posicao_raster": {
-          "referencia": "0.91 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "06/11/2026 17:29:49",
-          "lat": -27.6854835,
-          "lon": -48.6881875
-        },
-        "distancia_km": 88.8,
-        "proximo": false
-      },
-      {
-        "manif": "TUB000390-5",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2629.3,
-        "frete_rs": 5387.97,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.91 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "06/11/2026 17:29:49",
-          "lat": -27.6854835,
-          "lon": -48.6881875
-        },
-        "distancia_km": 88.8,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "CRC": {
-        "peso_kg": 825.34,
-        "frete_rs": 1325.26,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 2629.3,
-        "frete_rs": 5387.97,
-        "qtde": 1
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CXS002237-3",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2279.24,
-        "frete_rs": 4882.4,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "3.81 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "06/11/2026 17:22:43",
-          "lat": -27.9421333333333,
-          "lon": -50.47296
-        },
-        "distancia_km": 115.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074356-9",
+        "manif": "GRU074358-5",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 3903.17,
-        "frete_rs": 6128.96,
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 10382.57,
+        "frete_rs": 9982.92,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de ESTACIONAMENTO PARA CAMINHÕES E CARRETAS ESPLENDOR - SAO PAULO/SP",
-          "data_hora_posicao": "06/11/2026 17:30:25",
-          "lat": -23.5770608,
-          "lon": -46.4438912
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "09/11/2026 07:59:03",
+          "lat": -26.8873888,
+          "lon": -48.7212416
         },
-        "distancia_km": 516.2,
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "GRU074367-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 8200.53,
+        "frete_rs": 11367.85,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044258-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4957.83,
+        "frete_rs": 3776.98,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.08 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "09/11/2026 07:59:35",
+          "lat": -26.8598816,
+          "lon": -49.261264
+        },
+        "distancia_km": 53.7,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 2279.24,
-        "frete_rs": 4882.4,
-        "qtde": 1
-      },
       "Guarulhos": {
-        "peso_kg": 3903.17,
-        "frete_rs": 6128.96,
+        "peso_kg": 18583.1,
+        "frete_rs": 21350.77,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 4957.83,
+        "frete_rs": 3776.98,
         "qtde": 1
       }
     }
   },
-  "JCB": {
+  "CTB": {
     "veiculos": [
       {
-        "manif": "RSL044189-9",
+        "manif": "GRU074363-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 12511.96,
+        "frete_rs": 10880.35,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "09/11/2026 07:59:12",
+          "lat": -25.5277536,
+          "lon": -49.2955552
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044248-8",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
-        "placa": "MIR1F19",
-        "motorista": "RAFAEL LUIS LOPES",
-        "peso_real_kg": 2432.92,
-        "frete_rs": 2426.55,
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 11963.72,
+        "frete_rs": 7509.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.86 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "06/11/2026 17:30:56",
-          "lat": -27.2593984,
-          "lon": -49.7174912
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "09/11/2026 07:59:27",
+          "lat": -25.527664,
+          "lon": -49.2954496
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 12511.96,
+        "frete_rs": 10880.35,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 11963.72,
+        "frete_rs": 7509.58,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074368-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 3817.66,
+        "frete_rs": 5832.0,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074369-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 43.75,
+        "frete_rs": 96.29,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044259-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 6240.71,
+        "frete_rs": 4681.74,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.08 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "09/11/2026 07:59:35",
+          "lat": -26.8598816,
+          "lon": -49.261264
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3861.41,
+        "frete_rs": 5928.29,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 6240.71,
+        "frete_rs": 4681.74,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024031-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 15514.94,
+        "frete_rs": 19339.42,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.13 km de PRF (DELEGACIA) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "09/11/2026 07:58:38",
+          "lat": -23.687256,
+          "lon": -46.8607296
+        },
+        "distancia_km": 47.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 15514.94,
+        "frete_rs": 19339.42,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044252-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 8491.8,
+        "frete_rs": 5447.15,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 07:58:16",
+          "lat": -27.8238016,
+          "lon": -50.3628
         },
         "distancia_km": null,
         "proximo": false
@@ -192,11 +248,113 @@
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 2432.92,
-        "frete_rs": 2426.55,
+        "peso_kg": 8491.8,
+        "frete_rs": 5447.15,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-06T17:32:47"
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "RSL044253-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 3791.94,
+        "frete_rs": 5267.58,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 07:58:16",
+          "lat": -27.8238016,
+          "lon": -50.3628
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044255-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 609.43,
+        "frete_rs": 693.21,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 07:58:16",
+          "lat": -27.8238016,
+          "lon": -50.3628
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 4401.37,
+        "frete_rs": 5960.79,
+        "qtde": 2
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "RSL044254-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 12313.96,
+        "frete_rs": 9225.6,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 07:58:16",
+          "lat": -27.8238016,
+          "lon": -50.3628
+        },
+        "distancia_km": 253.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044256-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 69.2,
+        "frete_rs": 225.97,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 07:58:16",
+          "lat": -27.8238016,
+          "lon": -50.3628
+        },
+        "distancia_km": 253.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 12383.16,
+        "frete_rs": 9451.57,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-09T08:01:59"
 }
