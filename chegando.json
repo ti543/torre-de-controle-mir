@@ -1,75 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074358-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 10382.57,
-        "frete_rs": 9982.92,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 09:15:03",
-          "lat": -26.8873888,
-          "lon": -48.7212416
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074367-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 8200.53,
-        "frete_rs": 11367.85,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044258-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4957.83,
-        "frete_rs": 3776.98,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.03 km de CHURRASCARIA TONI - GASPAR/SC",
-          "data_hora_posicao": "09/11/2026 09:15:35",
-          "lat": -26.8942016,
-          "lon": -48.9168576
-        },
-        "distancia_km": 19.4,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 18583.1,
-        "frete_rs": 21350.77,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 4957.83,
-        "frete_rs": 3776.98,
-        "qtde": 1
-      }
-    }
-  },
   "TBO": {
     "veiculos": [
       {
@@ -110,13 +39,13 @@
         "frete_rs": 19339.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 09:14:38",
-          "lat": -23.525864,
-          "lon": -46.7542496
+          "referencia": "0.21 km de POSTO DE GASOLINA - SHELL - PAPA 8 - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 09:30:38",
+          "lat": -23.5151024,
+          "lon": -46.6720512
         },
-        "distancia_km": 30.4,
-        "proximo": false
+        "distancia_km": 22.0,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -141,10 +70,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "09/11/2026 09:13:37",
-          "lat": -27.9533568,
-          "lon": -50.480768
+          "referencia": "0.3 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:23:37",
+          "lat": -28.0337408,
+          "lon": -50.5639168
         },
         "distancia_km": null,
         "proximo": false
@@ -172,12 +101,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "09/11/2026 09:13:37",
-          "lat": -27.9533568,
-          "lon": -50.480768
+          "referencia": "0.3 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:23:37",
+          "lat": -28.0337408,
+          "lon": -50.5639168
         },
-        "distancia_km": 235.9,
+        "distancia_km": 225.1,
         "proximo": false
       },
       {
@@ -192,12 +121,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.45 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "09/11/2026 09:13:37",
-          "lat": -27.9533568,
-          "lon": -50.480768
+          "referencia": "0.3 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "09/11/2026 09:23:37",
+          "lat": -28.0337408,
+          "lon": -50.5639168
         },
-        "distancia_km": 235.9,
+        "distancia_km": 225.1,
         "proximo": false
       }
     ],
@@ -209,5 +138,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T09:17:32"
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "RSL044258-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4957.83,
+        "frete_rs": 3776.98,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.23 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "09/11/2026 09:29:35",
+          "lat": -26.834784,
+          "lon": -48.7552
+        },
+        "distancia_km": 6.8,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 4957.83,
+        "frete_rs": 3776.98,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-09T09:32:35"
 }
