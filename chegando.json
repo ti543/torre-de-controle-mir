@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 08:45:03",
+          "data_hora_posicao": "09/11/2026 08:59:03",
           "lat": -26.8873888,
           "lon": -48.7212416
         },
@@ -48,12 +48,12 @@
         "frete_rs": 3776.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "09/11/2026 08:45:35",
-          "lat": -26.8827488,
-          "lon": -49.1538304
+          "referencia": "1.75 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "09/11/2026 09:00:03",
+          "lat": -26.8616992,
+          "lon": -49.068976
         },
-        "distancia_km": 42.9,
+        "distancia_km": 34.6,
         "proximo": false
       }
     ],
@@ -73,21 +73,6 @@
   "TBO": {
     "veiculos": [
       {
-        "manif": "GRU074368-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 3817.66,
-        "frete_rs": 5832.0,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "GRU074369-1",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -105,9 +90,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 3861.41,
-        "frete_rs": 5928.29,
-        "qtde": 2
+        "peso_kg": 43.75,
+        "frete_rs": 96.29,
+        "qtde": 1
       }
     }
   },
@@ -125,12 +110,12 @@
         "frete_rs": 19339.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.55 km de BASE DA POLICIA MILITAR - OSASCO/SP",
-          "data_hora_posicao": "09/11/2026 08:44:38",
-          "lat": -23.5750624,
-          "lon": -46.810608
+          "referencia": "0.11 km de FILIAL POLIVIAS S/A TRANSPORTES E SERVICOS LTDA - OSASCO/SP",
+          "data_hora_posicao": "09/11/2026 09:00:38",
+          "lat": -23.5164304,
+          "lon": -46.7919872
         },
-        "distancia_km": 37.4,
+        "distancia_km": 34.0,
         "proximo": false
       }
     ],
@@ -156,10 +141,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:44:16",
-          "lat": -27.8238016,
-          "lon": -50.362912
+          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 09:00:16",
+          "lat": -27.865376,
+          "lon": -50.3939872
         },
         "distancia_km": null,
         "proximo": false
@@ -170,57 +155,6 @@
         "peso_kg": 8491.8,
         "frete_rs": 5447.15,
         "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "RSL044253-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 3791.94,
-        "frete_rs": 5267.58,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:44:16",
-          "lat": -27.8238016,
-          "lon": -50.362912
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044255-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 609.43,
-        "frete_rs": 693.21,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:44:16",
-          "lat": -27.8238016,
-          "lon": -50.362912
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 4401.37,
-        "frete_rs": 5960.79,
-        "qtde": 2
       }
     }
   },
@@ -238,12 +172,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:44:16",
-          "lat": -27.8238016,
-          "lon": -50.362912
+          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 09:00:16",
+          "lat": -27.865376,
+          "lon": -50.3939872
         },
-        "distancia_km": 253.2,
+        "distancia_km": 247.8,
         "proximo": false
       },
       {
@@ -258,12 +192,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 08:44:16",
-          "lat": -27.8238016,
-          "lon": -50.362912
+          "referencia": "0.84 km de POSTO GUARUJA 02 - LAGES/SC",
+          "data_hora_posicao": "09/11/2026 09:00:16",
+          "lat": -27.865376,
+          "lon": -50.3939872
         },
-        "distancia_km": 253.2,
+        "distancia_km": 247.8,
         "proximo": false
       }
     ],
@@ -275,5 +209,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T08:47:36"
+  "_gerado_em": "2026-11-09T09:02:36"
 }
