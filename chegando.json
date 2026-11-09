@@ -2,6 +2,26 @@
   "ITJ": {
     "veiculos": [
       {
+        "manif": "BRQ000756-1",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 4444.68,
+        "frete_rs": 4743.95,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "09/11/2026 18:15:25",
+          "lat": -27.0963796,
+          "lon": -48.9307451
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
         "manif": "FLN000136-8",
         "origin_unit": "FLN",
         "origin_city": "PALHOCA/SC",
@@ -14,7 +34,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "09/11/2026 18:00:53",
+          "data_hora_posicao": "09/11/2026 18:15:25",
           "lat": -27.0963796,
           "lon": -48.9307451
         },
@@ -23,6 +43,11 @@
       }
     ],
     "por_origem": {
+      "Brusque": {
+        "peso_kg": 4444.68,
+        "frete_rs": 4743.95,
+        "qtde": 1
+      },
       "FLN": {
         "peso_kg": 16.9,
         "frete_rs": 265.92,
@@ -105,12 +130,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de NOSSO POSTO SÃO LOURENÇO - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 18:00:36",
-          "lat": -23.8503856,
-          "lon": -46.938768
+          "referencia": "0.76 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "09/11/2026 18:14:36",
+          "lat": -23.9387648,
+          "lon": -47.0624224
         },
-        "distancia_km": 461.7,
+        "distancia_km": 446.4,
         "proximo": false
       },
       {
@@ -126,9 +151,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "09/11/2026 18:00:16",
-          "lat": -29.9835488,
-          "lon": -51.1867232
+          "data_hora_posicao": "09/11/2026 18:14:16",
+          "lat": -29.9840384,
+          "lon": -51.1867904
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -162,9 +187,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "09/11/2026 18:00:16",
-          "lat": -29.9835488,
-          "lon": -51.1867232
+          "data_hora_posicao": "09/11/2026 18:14:16",
+          "lat": -29.9840384,
+          "lon": -51.1867904
         },
         "distancia_km": null,
         "proximo": false
@@ -193,9 +218,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "09/11/2026 18:00:16",
-          "lat": -29.9835488,
-          "lon": -51.1867232
+          "data_hora_posicao": "09/11/2026 18:14:16",
+          "lat": -29.9840384,
+          "lon": -51.1867904
         },
         "distancia_km": null,
         "proximo": false
@@ -209,5 +234,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T18:02:37"
+  "_gerado_em": "2026-11-09T18:17:52"
 }
