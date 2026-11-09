@@ -1,110 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000756-1",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 4444.68,
-        "frete_rs": 4743.95,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.16 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 19:15:44",
-          "lat": -26.9175031,
-          "lon": -48.7098911
-        },
-        "distancia_km": 3.5,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013576-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 299.34,
-        "frete_rs": 528.9,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.15 km de POSTO GP COMBUSTÍVEIS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "09/11/2026 19:15:27",
-          "lat": -25.5721248,
-          "lon": -49.1999744
-        },
-        "distancia_km": 153.9,
-        "proximo": false
-      },
-      {
-        "manif": "FLN000136-8",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 16.9,
-        "frete_rs": 265.92,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.16 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 19:15:44",
-          "lat": -26.9175031,
-          "lon": -48.7098911
-        },
-        "distancia_km": 3.5,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044270-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 1715.02,
-        "frete_rs": 1453.13,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "09/11/2026 19:14:26",
-          "lat": -27.2060896,
-          "lon": -49.6490848
-        },
-        "distancia_km": 98.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 4444.68,
-        "frete_rs": 4743.95,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 299.34,
-        "frete_rs": 528.9,
-        "qtde": 1
-      },
-      "FLN": {
-        "peso_kg": 16.9,
-        "frete_rs": 265.92,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1715.02,
-        "frete_rs": 1453.13,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -119,12 +13,12 @@
         "frete_rs": 3104.57,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.09 km de LAVA RÁPIDO SÃO ROQUE - ITATIBA/SP",
-          "data_hora_posicao": "09/11/2026 19:15:16",
-          "lat": -22.98919,
-          "lon": -46.8012
+          "referencia": "0.35 km de LITENS AUTOMOTIVE DO BRASIL LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "09/11/2026 19:29:18",
+          "lat": -23.04779,
+          "lon": -46.6702983333333
         },
-        "distancia_km": 63.7,
+        "distancia_km": 51.6,
         "proximo": false
       },
       {
@@ -139,12 +33,12 @@
         "frete_rs": 4858.2,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.4 km de SVC CURITIBA - CURITIBA/PR",
-          "data_hora_posicao": "09/11/2026 19:15:12",
-          "lat": -25.4797968,
-          "lon": -49.262176
+          "referencia": "0.1 km de POSTO ROTA SUL - PINHAIS/PR",
+          "data_hora_posicao": "09/11/2026 19:29:12",
+          "lat": -25.415024,
+          "lon": -49.22224
         },
-        "distancia_km": 360.8,
+        "distancia_km": 353.3,
         "proximo": false
       },
       {
@@ -159,12 +53,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "09/11/2026 19:14:26",
-          "lat": -27.2060896,
-          "lon": -49.6490848
+          "referencia": "0.18 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "09/11/2026 19:30:26",
+          "lat": -27.19336,
+          "lon": -49.6233216
         },
-        "distancia_km": 524.4,
+        "distancia_km": 521.8,
         "proximo": false
       },
       {
@@ -179,12 +73,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "09/11/2026 19:14:26",
-          "lat": -27.2060896,
-          "lon": -49.6490848
+          "referencia": "0.18 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "09/11/2026 19:30:26",
+          "lat": -27.19336,
+          "lon": -49.6233216
         },
-        "distancia_km": 524.4,
+        "distancia_km": 521.8,
         "proximo": false
       }
     ],
@@ -206,6 +100,62 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013576-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 299.34,
+        "frete_rs": 528.9,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.06 km de AUTO POSTO PELANDA - CONTENDA/PR",
+          "data_hora_posicao": "09/11/2026 19:29:27",
+          "lat": -25.6750128,
+          "lon": -49.1506624
+        },
+        "distancia_km": 141.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044270-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 1715.02,
+        "frete_rs": 1453.13,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.18 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "09/11/2026 19:30:26",
+          "lat": -27.19336,
+          "lon": -49.6233216
+        },
+        "distancia_km": 95.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 299.34,
+        "frete_rs": 528.9,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 1715.02,
+        "frete_rs": 1453.13,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -220,12 +170,12 @@
         "frete_rs": 1368.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO GP COMBUSTÍVEIS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "09/11/2026 19:15:27",
-          "lat": -25.5721248,
-          "lon": -49.1999744
+          "referencia": "0.06 km de AUTO POSTO PELANDA - CONTENDA/PR",
+          "data_hora_posicao": "09/11/2026 19:29:27",
+          "lat": -25.6750128,
+          "lon": -49.1506624
         },
-        "distancia_km": 187.1,
+        "distancia_km": 177.3,
         "proximo": false
       },
       {
@@ -240,12 +190,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "09/11/2026 19:14:36",
-          "lat": -24.3070208,
-          "lon": -47.4983744
+          "referencia": "0.84 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "09/11/2026 19:31:06",
+          "lat": -24.3681072,
+          "lon": -47.6952576
         },
-        "distancia_km": 387.7,
+        "distancia_km": 371.3,
         "proximo": false
       },
       {
@@ -260,12 +210,27 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "09/11/2026 19:14:16",
-          "lat": -29.6189184,
-          "lon": -51.3241248
+          "referencia": "0.88 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "09/11/2026 19:30:16",
+          "lat": -29.4652256,
+          "lon": -51.3535072
         },
-        "distancia_km": 314.3,
+        "distancia_km": 301.5,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016375-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 5561.73,
+        "frete_rs": 6120.26,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -283,6 +248,11 @@
       "Porto Alegre": {
         "peso_kg": 4672.13,
         "frete_rs": 5345.49,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 5561.73,
+        "frete_rs": 6120.26,
         "qtde": 1
       }
     }
@@ -362,10 +332,10 @@
         "frete_rs": 298.08,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "09/11/2026 19:14:16",
-          "lat": -29.6189184,
-          "lon": -51.3241248
+          "referencia": "0.88 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "09/11/2026 19:30:16",
+          "lat": -29.4652256,
+          "lon": -51.3535072
         },
         "distancia_km": null,
         "proximo": false
@@ -393,10 +363,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "09/11/2026 19:14:16",
-          "lat": -29.6189184,
-          "lon": -51.3241248
+          "referencia": "0.88 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "09/11/2026 19:30:16",
+          "lat": -29.4652256,
+          "lon": -51.3535072
         },
         "distancia_km": null,
         "proximo": false
@@ -410,5 +380,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T19:17:34"
+  "_gerado_em": "2026-11-09T19:32:38"
 }
