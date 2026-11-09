@@ -1,4 +1,55 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010373-0",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1521.73,
+        "frete_rs": 4230.98,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.9 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "09/11/2026 14:30:43",
+          "lat": -22.848224,
+          "lon": -47.1235424
+        },
+        "distancia_km": 96.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016369-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "MIR0001",
+        "motorista": "DANIEL HETTERICH",
+        "peso_real_kg": 120.0,
+        "frete_rs": 196.93,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 1521.73,
+        "frete_rs": 4230.98,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 120.0,
+        "frete_rs": 196.93,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -13,12 +64,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.97 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 14:14:36",
-          "lat": -27.6742296,
-          "lon": -48.69792
+          "referencia": "2.3 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "09/11/2026 14:29:45",
+          "lat": -27.6325168,
+          "lon": -48.700492
         },
-        "distancia_km": 87.5,
+        "distancia_km": 82.9,
         "proximo": false
       }
     ],
@@ -70,10 +121,10 @@
         "frete_rs": 1417.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.97 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 14:14:36",
-          "lat": -27.6742296,
-          "lon": -48.69792
+          "referencia": "2.3 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "09/11/2026 14:29:45",
+          "lat": -27.6325168,
+          "lon": -48.700492
         },
         "distancia_km": null,
         "proximo": false
@@ -101,10 +152,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 14:14:31",
-          "lat": -29.1370272,
-          "lon": -51.19984
+          "referencia": "0.32 km de CONCESSIONARIA MERCEDES BENZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:30:16",
+          "lat": -29.2002816,
+          "lon": -51.26504
         },
         "distancia_km": null,
         "proximo": false
@@ -132,12 +183,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 14:14:31",
-          "lat": -29.1370272,
-          "lon": -51.19984
+          "referencia": "0.32 km de CONCESSIONARIA MERCEDES BENZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:30:16",
+          "lat": -29.2002816,
+          "lon": -51.26504
         },
-        "distancia_km": 94.1,
+        "distancia_km": 87.4,
         "proximo": false
       },
       {
@@ -152,12 +203,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 14:14:31",
-          "lat": -29.1370272,
-          "lon": -51.19984
+          "referencia": "0.32 km de CONCESSIONARIA MERCEDES BENZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 14:30:16",
+          "lat": -29.2002816,
+          "lon": -51.26504
         },
-        "distancia_km": 94.1,
+        "distancia_km": 87.4,
         "proximo": false
       }
     ],
@@ -169,31 +220,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "TBO016369-4",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "MIR0001",
-        "motorista": "DANIEL HETTERICH",
-        "peso_real_kg": 120.0,
-        "frete_rs": 196.93,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Timbó": {
-        "peso_kg": 120.0,
-        "frete_rs": 196.93,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-09T14:17:35"
+  "_gerado_em": "2026-11-09T14:32:36"
 }
