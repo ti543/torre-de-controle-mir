@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 07:59:03",
+          "data_hora_posicao": "09/11/2026 08:15:03",
           "lat": -26.8873888,
           "lon": -48.7212416
         },
@@ -48,12 +48,12 @@
         "frete_rs": 3776.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.08 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "09/11/2026 07:59:35",
-          "lat": -26.8598816,
-          "lon": -49.261264
+          "referencia": "0.2 km de POSTO AGRICOPEL (MIME 25) - INDAIAL/SC",
+          "data_hora_posicao": "09/11/2026 08:15:35",
+          "lat": -26.8701056,
+          "lon": -49.2241056
         },
-        "distancia_km": 53.7,
+        "distancia_km": 49.9,
         "proximo": false
       }
     ],
@@ -66,62 +66,6 @@
       "Rio do Sul": {
         "peso_kg": 4957.83,
         "frete_rs": 3776.98,
-        "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074363-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 12511.96,
-        "frete_rs": 10880.35,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "09/11/2026 07:59:12",
-          "lat": -25.5277536,
-          "lon": -49.2955552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044248-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 11963.72,
-        "frete_rs": 7509.58,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "09/11/2026 07:59:27",
-          "lat": -25.527664,
-          "lon": -49.2954496
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 12511.96,
-        "frete_rs": 10880.35,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 11963.72,
-        "frete_rs": 7509.58,
         "qtde": 1
       }
     }
@@ -157,26 +101,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044259-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 6240.71,
-        "frete_rs": 4681.74,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.08 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "09/11/2026 07:59:35",
-          "lat": -26.8598816,
-          "lon": -49.261264
-        },
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -184,11 +108,6 @@
         "peso_kg": 3861.41,
         "frete_rs": 5928.29,
         "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 6240.71,
-        "frete_rs": 4681.74,
-        "qtde": 1
       }
     }
   },
@@ -206,12 +125,12 @@
         "frete_rs": 19339.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.13 km de PRF (DELEGACIA) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "09/11/2026 07:58:38",
-          "lat": -23.687256,
-          "lon": -46.8607296
+          "referencia": "0.16 km de GIOVANELLA TRANSPORTES EMBU - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "09/11/2026 08:14:38",
+          "lat": -23.6660464,
+          "lon": -46.854608
         },
-        "distancia_km": 47.2,
+        "distancia_km": 45.5,
         "proximo": false
       }
     ],
@@ -238,7 +157,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 07:58:16",
+          "data_hora_posicao": "09/11/2026 08:14:16",
           "lat": -27.8238016,
           "lon": -50.3628
         },
@@ -269,7 +188,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 07:58:16",
+          "data_hora_posicao": "09/11/2026 08:14:16",
           "lat": -27.8238016,
           "lon": -50.3628
         },
@@ -289,7 +208,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 07:58:16",
+          "data_hora_posicao": "09/11/2026 08:14:16",
           "lat": -27.8238016,
           "lon": -50.3628
         },
@@ -320,7 +239,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 07:58:16",
+          "data_hora_posicao": "09/11/2026 08:14:16",
           "lat": -27.8238016,
           "lon": -50.3628
         },
@@ -340,7 +259,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "09/11/2026 07:58:16",
+          "data_hora_posicao": "09/11/2026 08:14:16",
           "lat": -27.8238016,
           "lon": -50.3628
         },
@@ -356,5 +275,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T08:01:59"
+  "_gerado_em": "2026-11-09T08:17:36"
 }
