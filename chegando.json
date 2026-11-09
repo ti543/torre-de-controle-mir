@@ -13,13 +13,33 @@
         "frete_rs": 4743.95,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.63 km de AUTO POSTO SANTA TEREZINHA - BRUSQUE/SC",
-          "data_hora_posicao": "09/11/2026 18:29:59",
-          "lat": -27.0758596,
-          "lon": -48.8961431
+          "referencia": "0.26 km de QFAZ SERVIÇOS LOGISTICOS (EMBRAST INDSUTRIA E COM) - BRUSQUE/SC",
+          "data_hora_posicao": "09/11/2026 18:46:03",
+          "lat": -27.0290736,
+          "lon": -48.8508715
         },
-        "distancia_km": 27.2,
+        "distancia_km": 20.3,
         "proximo": true
+      },
+      {
+        "manif": "CTB013576-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 299.34,
+        "frete_rs": 528.9,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "09/11/2026 18:45:27",
+          "lat": -25.5277344,
+          "lon": -49.2954784
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "FLN000136-8",
@@ -33,12 +53,12 @@
         "frete_rs": 265.92,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.63 km de AUTO POSTO SANTA TEREZINHA - BRUSQUE/SC",
-          "data_hora_posicao": "09/11/2026 18:29:59",
-          "lat": -27.0758596,
-          "lon": -48.8961431
+          "referencia": "0.26 km de QFAZ SERVIÇOS LOGISTICOS (EMBRAST INDSUTRIA E COM) - BRUSQUE/SC",
+          "data_hora_posicao": "09/11/2026 18:46:03",
+          "lat": -27.0290736,
+          "lon": -48.8508715
         },
-        "distancia_km": 27.2,
+        "distancia_km": 20.3,
         "proximo": true
       }
     ],
@@ -46,6 +66,11 @@
       "Brusque": {
         "peso_kg": 4444.68,
         "frete_rs": 4743.95,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 299.34,
+        "frete_rs": 528.9,
         "qtde": 1
       },
       "FLN": {
@@ -69,12 +94,32 @@
         "frete_rs": 3104.57,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "09/11/2026 18:29:22",
-          "lat": -22.84695,
-          "lon": -47.1247
+          "referencia": "1.35 km de POSTO SHELL AUTO SHOPP PAULISTA LTDA - CAMPINAS/SP",
+          "data_hora_posicao": "09/11/2026 18:45:21",
+          "lat": -22.84419,
+          "lon": -47.042355
         },
-        "distancia_km": 96.9,
+        "distancia_km": 91.5,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013578-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 5260.54,
+        "frete_rs": 4858.2,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "09/11/2026 18:45:12",
+          "lat": -25.5277344,
+          "lon": -49.2954528
+        },
+        "distancia_km": 366.7,
         "proximo": false
       }
     ],
@@ -82,6 +127,92 @@
       "Campinas": {
         "peso_kg": 1568.73,
         "frete_rs": 3104.57,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5260.54,
+        "frete_rs": 4858.2,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CTB013577-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1319.85,
+        "frete_rs": 1368.15,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "09/11/2026 18:45:27",
+          "lat": -25.5277344,
+          "lon": -49.2954784
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074426-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 9099.62,
+        "frete_rs": 16188.47,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "4.58 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "09/11/2026 18:44:58",
+          "lat": -24.1394896,
+          "lon": -47.2732
+        },
+        "distancia_km": 415.9,
+        "proximo": false
+      },
+      {
+        "manif": "POA016226-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 4672.13,
+        "frete_rs": 5345.49,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.14 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 18:44:16",
+          "lat": -29.8157696,
+          "lon": -51.1693568
+        },
+        "distancia_km": 326.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 1319.85,
+        "frete_rs": 1368.15,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 9099.62,
+        "frete_rs": 16188.47,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 4672.13,
+        "frete_rs": 5345.49,
         "qtde": 1
       }
     }
@@ -147,62 +278,6 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074426-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 9099.62,
-        "frete_rs": 16188.47,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.53 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "09/11/2026 18:28:36",
-          "lat": -24.0306496,
-          "lon": -47.1790848
-        },
-        "distancia_km": 431.3,
-        "proximo": false
-      },
-      {
-        "manif": "POA016226-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 4672.13,
-        "frete_rs": 5345.49,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "2.89 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
-          "data_hora_posicao": "09/11/2026 18:30:16",
-          "lat": -29.9108864,
-          "lon": -51.2386688
-        },
-        "distancia_km": 338.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9099.62,
-        "frete_rs": 16188.47,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 4672.13,
-        "frete_rs": 5345.49,
-        "qtde": 1
-      }
-    }
-  },
   "CXS": {
     "veiculos": [
       {
@@ -217,10 +292,10 @@
         "frete_rs": 298.08,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.89 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
-          "data_hora_posicao": "09/11/2026 18:30:16",
-          "lat": -29.9108864,
-          "lon": -51.2386688
+          "referencia": "0.14 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 18:44:16",
+          "lat": -29.8157696,
+          "lon": -51.1693568
         },
         "distancia_km": null,
         "proximo": false
@@ -248,10 +323,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.89 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
-          "data_hora_posicao": "09/11/2026 18:30:16",
-          "lat": -29.9108864,
-          "lon": -51.2386688
+          "referencia": "0.14 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "09/11/2026 18:44:16",
+          "lat": -29.8157696,
+          "lon": -51.1693568
         },
         "distancia_km": null,
         "proximo": false
@@ -265,5 +340,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T18:32:32"
+  "_gerado_em": "2026-11-09T18:47:35"
 }
