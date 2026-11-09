@@ -40,7 +40,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 10:14:38",
+          "data_hora_posicao": "09/11/2026 10:30:38",
           "lat": -23.4706464,
           "lon": -46.462224
         },
@@ -70,10 +70,10 @@
         "frete_rs": 5447.15,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "11.53 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "09/11/2026 10:14:16",
-          "lat": -28.3776864,
-          "lon": -50.8398144
+          "referencia": "0.14 km de POSTO SIM MONTE CARLO - VACARIA/RS",
+          "data_hora_posicao": "09/11/2026 10:30:16",
+          "lat": -28.5002752,
+          "lon": -50.9197312
         },
         "distancia_km": null,
         "proximo": false
@@ -101,12 +101,12 @@
         "frete_rs": 9225.6,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "11.53 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "09/11/2026 10:14:16",
-          "lat": -28.3776864,
-          "lon": -50.8398144
+          "referencia": "0.14 km de POSTO SIM MONTE CARLO - VACARIA/RS",
+          "data_hora_posicao": "09/11/2026 10:30:16",
+          "lat": -28.5002752,
+          "lon": -50.9197312
         },
-        "distancia_km": 181.7,
+        "distancia_km": 166.9,
         "proximo": false
       },
       {
@@ -121,12 +121,12 @@
         "frete_rs": 225.97,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "11.53 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "09/11/2026 10:14:16",
-          "lat": -28.3776864,
-          "lon": -50.8398144
+          "referencia": "0.14 km de POSTO SIM MONTE CARLO - VACARIA/RS",
+          "data_hora_posicao": "09/11/2026 10:30:16",
+          "lat": -28.5002752,
+          "lon": -50.9197312
         },
-        "distancia_km": 181.7,
+        "distancia_km": 166.9,
         "proximo": false
       }
     ],
@@ -153,7 +153,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 10:15:35",
+          "data_hora_posicao": "09/11/2026 10:29:35",
           "lat": -26.8875072,
           "lon": -48.7207808
         },
@@ -169,5 +169,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T10:17:32"
+  "_gerado_em": "2026-11-09T10:32:37"
 }
