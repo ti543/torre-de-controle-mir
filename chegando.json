@@ -13,13 +13,13 @@
         "frete_rs": 7012.24,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.77 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "10/11/2026 19:45:17",
-          "lat": -27.0965016666667,
-          "lon": -48.9302833333333
+          "referencia": "0.9 km de FH LOG - BRUSQUE - BRUSQUE/SC",
+          "data_hora_posicao": "10/11/2026 20:00:21",
+          "lat": -27.0630766666667,
+          "lon": -48.877745
         },
-        "distancia_km": 31.1,
-        "proximo": false
+        "distancia_km": 24.9,
+        "proximo": true
       },
       {
         "manif": "CTB013584-4",
@@ -33,12 +33,12 @@
         "frete_rs": 7558.82,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.23 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 19:44:07",
-          "lat": -25.5295904,
-          "lon": -49.2940512
+          "referencia": "1.12 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "10/11/2026 20:00:07",
+          "lat": -25.5687024,
+          "lon": -49.2303456
         },
-        "distancia_km": 161.4,
+        "distancia_km": 155.2,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.41 km de POSTO BRASIL - ATIBAIA - ATIBAIA/SP",
-          "data_hora_posicao": "10/11/2026 19:44:57",
-          "lat": -23.09921,
-          "lon": -46.6127983333333
+          "referencia": "0.05 km de CHAPADA PAULISTA RESTAURANTE LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "10/11/2026 20:00:57",
+          "lat": -23.2138366666667,
+          "lon": -46.59371
         },
-        "distancia_km": 44.1,
+        "distancia_km": 31.5,
         "proximo": false
       },
       {
@@ -110,7 +110,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 19:43:46",
+          "data_hora_posicao": "10/11/2026 19:59:46",
           "lat": -25.3505184,
           "lon": -49.0601184
         },
@@ -129,12 +129,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.81 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "10/11/2026 19:45:30",
-          "lat": -26.9721184,
-          "lon": -49.3667296
+          "referencia": "3.33 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "10/11/2026 20:00:36",
+          "lat": -26.9209504,
+          "lon": -49.282464
         },
-        "distancia_km": 486.7,
+        "distancia_km": 477.2,
         "proximo": false
       },
       {
@@ -190,12 +190,12 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.23 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 19:44:07",
-          "lat": -25.5295904,
-          "lon": -49.2940512
+          "referencia": "1.12 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "10/11/2026 20:00:07",
+          "lat": -25.5687024,
+          "lon": -49.2303456
         },
-        "distancia_km": 189.8,
+        "distancia_km": 186.8,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.79 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "10/11/2026 19:45:33",
-          "lat": -24.7581083333333,
-          "lon": -48.1638983333333
+          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "10/11/2026 19:59:22",
+          "lat": -24.7798066666667,
+          "lon": -48.1863816666667
         },
-        "distancia_km": 310.1,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -231,7 +231,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 19:43:35",
+          "data_hora_posicao": "10/11/2026 19:59:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -272,7 +272,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 19:43:35",
+          "data_hora_posicao": "10/11/2026 19:59:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -303,7 +303,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 19:42:03",
+          "data_hora_posicao": "10/11/2026 19:58:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -319,5 +319,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T19:47:32"
+  "_gerado_em": "2026-11-10T20:02:45"
 }
