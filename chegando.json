@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:43:16",
-          "lat": -28.4685466,
-          "lon": -49.0190995
+          "referencia": "0 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:59:13",
+          "lat": -28.468812,
+          "lon": -49.0189458
         },
-        "distancia_km": 178.2,
+        "distancia_km": 178.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:43:16",
-          "lat": -28.4685466,
-          "lon": -49.0190995
+          "referencia": "0 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:59:13",
+          "lat": -28.468812,
+          "lon": -49.0189458
         },
-        "distancia_km": 178.2,
+        "distancia_km": 178.3,
         "proximo": false
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:44:18",
-          "lat": -27.82384,
-          "lon": -50.3625728
+          "referencia": "0.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 15:01:21",
+          "lat": -27.7441184,
+          "lon": -50.3351552
         },
-        "distancia_km": 98.3,
+        "distancia_km": 90.3,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 2023.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:44:18",
-          "lat": -27.82384,
-          "lon": -50.3625728
+          "referencia": "0.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 15:01:21",
+          "lat": -27.7441184,
+          "lon": -50.3351552
         },
-        "distancia_km": 98.3,
+        "distancia_km": 90.3,
         "proximo": false
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:44:18",
-          "lat": -27.82384,
-          "lon": -50.3625728
+          "referencia": "0.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 15:01:21",
+          "lat": -27.7441184,
+          "lon": -50.3351552
         },
-        "distancia_km": 98.3,
+        "distancia_km": 90.3,
         "proximo": false
       },
       {
@@ -129,12 +129,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:44:18",
-          "lat": -27.82384,
-          "lon": -50.3625728
+          "referencia": "0.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 15:01:21",
+          "lat": -27.7441184,
+          "lon": -50.3351552
         },
-        "distancia_km": 98.3,
+        "distancia_km": 90.3,
         "proximo": false
       }
     ],
@@ -165,10 +165,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de CORDEIRO INDÚSTRIA E COMÉRCIO DE FARINHA E GORDURA ANIMAL LTDA - XANXERE/SC",
-          "data_hora_posicao": "10/11/2026 14:46:03",
-          "lat": -26.9100721,
-          "lon": -52.3911365
+          "referencia": "0.06 km de CORDEIRO INDÚSTRIA E COMÉRCIO DE FARINHA E GORDURA ANIMAL LTDA - XANXERE/SC",
+          "data_hora_posicao": "10/11/2026 15:00:54",
+          "lat": -26.90896,
+          "lon": -52.3914321
         },
         "distancia_km": null,
         "proximo": false
@@ -178,37 +178,6 @@
       "Rio do Sul": {
         "peso_kg": 2065.84,
         "frete_rs": 4400.48,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044282-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 3962.42,
-        "frete_rs": 3324.29,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:45:02",
-          "lat": -29.1502528,
-          "lon": -51.171712
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 3962.42,
-        "frete_rs": 3324.29,
         "qtde": 1
       }
     }
@@ -227,12 +196,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:45:02",
-          "lat": -29.1502528,
-          "lon": -51.171712
+          "referencia": "0.25 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 15:01:02",
+          "lat": -29.13912,
+          "lon": -51.2093088
         },
-        "distancia_km": 92.6,
+        "distancia_km": 93.9,
         "proximo": false
       },
       {
@@ -247,12 +216,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:45:02",
-          "lat": -29.1502528,
-          "lon": -51.171712
+          "referencia": "0.25 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 15:01:02",
+          "lat": -29.13912,
+          "lon": -51.2093088
         },
-        "distancia_km": 92.6,
+        "distancia_km": 93.9,
         "proximo": false
       }
     ],
@@ -264,5 +233,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T14:47:38"
+  "_gerado_em": "2026-11-10T15:03:20"
 }
