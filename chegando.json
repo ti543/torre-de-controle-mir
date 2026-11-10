@@ -13,12 +13,32 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.66 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 13:14:38",
-          "lat": -28.7455251,
-          "lon": -49.2576098
+          "referencia": "1.84 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "10/11/2026 13:31:09",
+          "lat": -28.6359193,
+          "lon": -49.0954666
         },
-        "distancia_km": 213.2,
+        "distancia_km": 197.9,
+        "proximo": false
+      },
+      {
+        "manif": "CRC000396-4",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 555.5,
+        "frete_rs": 588.91,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "1.84 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
+          "data_hora_posicao": "10/11/2026 13:31:09",
+          "lat": -28.6359193,
+          "lon": -49.0954666
+        },
+        "distancia_km": 197.9,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "ARR": {
         "peso_kg": 60.0,
         "frete_rs": 466.04,
+        "qtde": 1
+      },
+      "CRC": {
+        "peso_kg": 555.5,
+        "frete_rs": 588.91,
         "qtde": 1
       }
     }
@@ -45,7 +70,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:15:30",
+          "data_hora_posicao": "10/11/2026 13:30:36",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -65,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 13:16:00",
+          "data_hora_posicao": "10/11/2026 13:30:00",
           "lat": -27.2061184,
           "lon": -49.6494336
         },
@@ -100,7 +125,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:15:30",
+          "data_hora_posicao": "10/11/2026 13:30:36",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -187,7 +212,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:15:30",
+          "data_hora_posicao": "10/11/2026 13:30:36",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -217,10 +242,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.75 km de POSTO CARRETÃO 01 - VARGEM BONITA/SC",
-          "data_hora_posicao": "10/11/2026 13:02:40",
-          "lat": -26.9797632,
-          "lon": -51.8065408
+          "referencia": "4 km de POSTO CARRETÃO 01 - VARGEM BONITA/SC",
+          "data_hora_posicao": "10/11/2026 13:27:10",
+          "lat": -26.954624,
+          "lon": -51.8555392
         },
         "distancia_km": null,
         "proximo": false
@@ -289,10 +314,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 13:10:32",
-          "lat": -28.9167328,
-          "lon": -51.1842816
+          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:29:49",
+          "lat": -28.9785216,
+          "lon": -51.1801728
         },
         "distancia_km": null,
         "proximo": false
@@ -320,12 +345,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 13:10:32",
-          "lat": -28.9167328,
-          "lon": -51.1842816
+          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:29:49",
+          "lat": -28.9785216,
+          "lon": -51.1801728
         },
-        "distancia_km": 118.6,
+        "distancia_km": 111.7,
         "proximo": false
       },
       {
@@ -340,12 +365,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 13:10:32",
-          "lat": -28.9167328,
-          "lon": -51.1842816
+          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:29:49",
+          "lat": -28.9785216,
+          "lon": -51.1801728
         },
-        "distancia_km": 118.6,
+        "distancia_km": 111.7,
         "proximo": false
       }
     ],
@@ -357,5 +382,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T13:17:44"
+  "_gerado_em": "2026-11-10T13:33:00"
 }
