@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:45:34",
-          "lat": -26.9846796,
-          "lon": -48.6682063
+          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 18:59:39",
+          "lat": -26.9169118,
+          "lon": -48.7101211
         },
-        "distancia_km": 12.0,
+        "distancia_km": 3.4,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:45:34",
-          "lat": -26.9846796,
-          "lon": -48.6682063
+          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 18:59:39",
+          "lat": -26.9169118,
+          "lon": -48.7101211
         },
-        "distancia_km": 12.0,
+        "distancia_km": 3.4,
         "proximo": true
       },
       {
@@ -54,11 +54,26 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 18:44:22",
+          "data_hora_posicao": "10/11/2026 19:00:07",
           "lat": -25.5278448,
           "lon": -49.2955776
         },
         "distancia_km": 161.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016394-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 498.88,
+        "frete_rs": 540.6,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -73,12 +88,12 @@
         "frete_rs": 3094.95,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:45:34",
-          "lat": -26.9846796,
-          "lon": -48.6682063
+          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 18:59:39",
+          "lat": -26.9169118,
+          "lon": -48.7101211
         },
-        "distancia_km": 12.0,
+        "distancia_km": 3.4,
         "proximo": true
       }
     ],
@@ -96,6 +111,11 @@
       "Curitiba": {
         "peso_kg": 5790.89,
         "frete_rs": 7558.82,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 498.88,
+        "frete_rs": 540.6,
         "qtde": 1
       },
       "TUB": {
@@ -119,12 +139,12 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.41 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 18:43:02",
-          "lat": -22.85387,
-          "lon": -47.1171483333333
+          "referencia": "2.24 km de POSTO DOM PEDRO I - VALINHOS/SP",
+          "data_hora_posicao": "10/11/2026 19:00:23",
+          "lat": -22.9007533333333,
+          "lon": -46.991305
         },
-        "distancia_km": 95.8,
+        "distancia_km": 83.3,
         "proximo": false
       },
       {
@@ -139,12 +159,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 18:45:49",
-          "lat": -25.52776,
-          "lon": -49.2954752
+          "referencia": "0.27 km de A.T.I. BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA - CURITIBA/PR",
+          "data_hora_posicao": "10/11/2026 18:59:46",
+          "lat": -25.4749072,
+          "lon": -49.2581216
         },
-        "distancia_km": 366.7,
+        "distancia_km": 360.2,
         "proximo": false
       },
       {
@@ -159,12 +179,27 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:44:36",
-          "lat": -27.2070976,
-          "lon": -49.648224
+          "referencia": "1.12 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "10/11/2026 19:00:36",
+          "lat": -27.1445408,
+          "lon": -49.5489664
         },
-        "distancia_km": 524.5,
+        "distancia_km": 512.9,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016393-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 9348.74,
+        "frete_rs": 14528.28,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -182,6 +217,11 @@
       "Rio do Sul": {
         "peso_kg": 30910.4,
         "frete_rs": 19155.38,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 9348.74,
+        "frete_rs": 14528.28,
         "qtde": 1
       }
     }
@@ -201,32 +241,12 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 18:44:22",
+          "data_hora_posicao": "10/11/2026 19:00:07",
           "lat": -25.5278448,
           "lon": -49.2955776
         },
         "distancia_km": 189.9,
         "proximo": false
-      },
-      {
-        "manif": "CXS002239-0",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 2563.22,
-        "frete_rs": 4837.03,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:44:18",
-          "lat": -27.2061152,
-          "lon": -49.6494176
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "GRU074492-1",
@@ -240,73 +260,13 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.78 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "10/11/2026 18:44:12",
-          "lat": -24.3301416666667,
-          "lon": -47.6158
+          "referencia": "2.7 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "10/11/2026 19:00:51",
+          "lat": -24.4274833333333,
+          "lon": -47.7834016666667
         },
-        "distancia_km": 379.1,
+        "distancia_km": 361.0,
         "proximo": false
-      },
-      {
-        "manif": "LGS001609-8",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1433.0,
-        "frete_rs": 2023.61,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:44:18",
-          "lat": -27.2061152,
-          "lon": -49.6494176
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "LGS001610-1",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 2000.0,
-        "frete_rs": 1800.0,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:44:18",
-          "lat": -27.2061152,
-          "lon": -49.6494176
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "POA016226-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 4672.13,
-        "frete_rs": 5345.49,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:44:18",
-          "lat": -27.2061152,
-          "lon": -49.6494176
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "POA016232-9",
@@ -321,7 +281,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:45:35",
+          "data_hora_posicao": "10/11/2026 18:59:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -350,20 +310,15 @@
         "frete_rs": 8648.53,
         "qtde": 1
       },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 5996.219999999999,
-        "frete_rs": 8660.64,
-        "qtde": 3
-      },
       "Guarulhos": {
         "peso_kg": 3851.36,
         "frete_rs": 7220.69,
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 7835.27,
-        "frete_rs": 7834.07,
-        "qtde": 2
+        "peso_kg": 3163.14,
+        "frete_rs": 2488.58,
+        "qtde": 1
       },
       "Timbó": {
         "peso_kg": 990.46,
@@ -387,7 +342,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:45:35",
+          "data_hora_posicao": "10/11/2026 18:59:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -418,7 +373,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 18:42:03",
+          "data_hora_posicao": "10/11/2026 18:58:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -434,5 +389,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T18:47:33"
+  "_gerado_em": "2026-11-10T19:02:36"
 }
