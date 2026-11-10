@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:15:53",
-          "lat": -28.4687141,
-          "lon": -49.0189505
+          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:30:20",
+          "lat": -28.4685521,
+          "lon": -49.0191196
         },
-        "distancia_km": 178.3,
+        "distancia_km": 178.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:15:53",
-          "lat": -28.4687141,
-          "lon": -49.0189505
+          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:30:20",
+          "lat": -28.4685521,
+          "lon": -49.0191196
         },
-        "distancia_km": 178.3,
+        "distancia_km": 178.2,
         "proximo": false
       }
     ],
@@ -70,7 +70,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:14:18",
+          "data_hora_posicao": "10/11/2026 14:30:18",
           "lat": -27.8238176,
           "lon": -50.362896
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:14:18",
+          "data_hora_posicao": "10/11/2026 14:30:18",
           "lat": -27.8238176,
           "lon": -50.362896
         },
@@ -126,7 +126,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:14:18",
+          "data_hora_posicao": "10/11/2026 14:30:18",
           "lat": -27.8238176,
           "lon": -50.362896
         },
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.09 km de POSTO RUSSI - FAXINAL DOS GUEDES/SC",
-          "data_hora_posicao": "10/11/2026 14:14:15",
-          "lat": -26.8730103,
-          "lon": -52.2792826
+          "referencia": "0.37 km de ZANOTELLI TRANSPORTES E LOGISTICA LTDA - XANXERE/SC",
+          "data_hora_posicao": "10/11/2026 14:29:52",
+          "lat": -26.8822888,
+          "lon": -52.4049921
         },
         "distancia_km": null,
         "proximo": false
@@ -187,10 +187,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:15:02",
-          "lat": -29.1463104,
-          "lon": -51.1648608
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:31:02",
+          "lat": -29.1463872,
+          "lon": -51.1648032
         },
         "distancia_km": null,
         "proximo": false
@@ -218,10 +218,10 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:15:02",
-          "lat": -29.1463104,
-          "lon": -51.1648608
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:31:02",
+          "lat": -29.1463872,
+          "lon": -51.1648032
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -238,10 +238,10 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:15:02",
-          "lat": -29.1463104,
-          "lon": -51.1648608
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:31:02",
+          "lat": -29.1463872,
+          "lon": -51.1648032
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -255,5 +255,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T14:17:37"
+  "_gerado_em": "2026-11-10T14:32:45"
 }
