@@ -13,10 +13,10 @@
         "frete_rs": 528.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:00:43",
-          "lat": -26.8874112,
-          "lon": -48.720912
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "09/11/2026 22:15:27",
+          "lat": -26.887376,
+          "lon": -48.721184
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -33,12 +33,12 @@
         "frete_rs": 11222.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "09/11/2026 21:59:04",
-          "lat": -23.742984,
-          "lon": -46.8995808
+          "referencia": "0.07 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "09/11/2026 22:15:04",
+          "lat": -23.8965008,
+          "lon": -46.9863104
         },
-        "distancia_km": 394.7,
+        "distancia_km": 375.5,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:00:26",
+          "data_hora_posicao": "09/11/2026 22:14:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -73,12 +73,12 @@
         "frete_rs": 363.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "09/11/2026 22:00:07",
-          "lat": -27.2047584,
-          "lon": -49.638592
+          "referencia": "0.21 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "09/11/2026 22:14:07",
+          "lat": -27.1246048,
+          "lon": -49.5371616
         },
-        "distancia_km": 97.5,
+        "distancia_km": 85.0,
         "proximo": false
       }
     ],
@@ -114,12 +114,12 @@
         "frete_rs": 1368.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:00:43",
-          "lat": -26.8874112,
-          "lon": -48.720912
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "09/11/2026 22:15:27",
+          "lat": -26.887376,
+          "lon": -48.721184
         },
-        "distancia_km": 98.6,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -134,12 +134,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "09/11/2026 21:58:36",
-          "lat": -25.082304,
-          "lon": -48.599296
+          "referencia": "1 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "09/11/2026 22:14:36",
+          "lat": -25.1070064,
+          "lon": -48.7839104
         },
-        "distancia_km": 258.4,
+        "distancia_km": 248.9,
         "proximo": false
       },
       {
@@ -154,12 +154,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 22:00:00",
-          "lat": -23.4706064,
-          "lon": -46.4620736
+          "referencia": "0.17 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "09/11/2026 22:16:00",
+          "lat": -23.46916,
+          "lon": -46.4655776
         },
-        "distancia_km": 524.5,
+        "distancia_km": 524.4,
         "proximo": false
       },
       {
@@ -175,7 +175,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:00:16",
+          "data_hora_posicao": "09/11/2026 22:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -216,9 +216,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "09/11/2026 21:59:12",
-          "lat": -24.785888,
-          "lon": -48.1750496
+          "data_hora_posicao": "09/11/2026 22:15:12",
+          "lat": -24.7858272,
+          "lon": -48.1751264
         },
         "distancia_km": 227.2,
         "proximo": false
@@ -235,12 +235,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.44 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "09/11/2026 21:59:03",
-          "lat": -26.7658512,
-          "lon": -48.6863072
+          "referencia": "0.46 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "09/11/2026 22:15:49",
+          "lat": -26.5868752,
+          "lon": -48.7216384
         },
-        "distancia_km": 429.4,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -256,7 +256,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:00:26",
+          "data_hora_posicao": "09/11/2026 22:14:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -276,7 +276,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:00:26",
+          "data_hora_posicao": "09/11/2026 22:14:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -316,12 +316,12 @@
         "frete_rs": 5785.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de TOCANTINS TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 21:59:46",
-          "lat": -23.4352112,
-          "lon": -46.4263072
+          "referencia": "0.75 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
+          "data_hora_posicao": "09/11/2026 22:15:46",
+          "lat": -23.5339424,
+          "lon": -46.3318912
         },
-        "distancia_km": 372.1,
+        "distancia_km": 372.8,
         "proximo": false
       },
       {
@@ -336,12 +336,12 @@
         "frete_rs": 6752.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "09/11/2026 22:00:07",
-          "lat": -27.2047584,
-          "lon": -49.638592
+          "referencia": "0.21 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "09/11/2026 22:14:07",
+          "lat": -27.1246048,
+          "lon": -49.5371616
         },
-        "distancia_km": 189.6,
+        "distancia_km": 179.2,
         "proximo": false
       }
     ],
@@ -372,10 +372,10 @@
         "frete_rs": 301.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de FILIAL EXCELLENCE - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 22:00:35",
-          "lat": -23.4785483333333,
-          "lon": -46.4611666666667
+          "referencia": "0.55 km de POSTO EXTRA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:15:39",
+          "lat": -23.5230383333333,
+          "lon": -46.5597633333333
         },
         "distancia_km": null,
         "proximo": false
@@ -392,10 +392,10 @@
         "frete_rs": 2630.1,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de FILIAL EXCELLENCE - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 22:00:35",
-          "lat": -23.4785483333333,
-          "lon": -46.4611666666667
+          "referencia": "0.55 km de POSTO EXTRA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:15:39",
+          "lat": -23.5230383333333,
+          "lon": -46.5597633333333
         },
         "distancia_km": null,
         "proximo": false
@@ -423,12 +423,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.01 km de POSTO MACIAMBU LTDA - PALHOCA/SC",
-          "data_hora_posicao": "09/11/2026 21:59:35",
-          "lat": -27.8605312,
-          "lon": -48.6449728
+          "referencia": "0.62 km de POSTO BELA VISTA - PAULO LOPES/SC",
+          "data_hora_posicao": "09/11/2026 22:11:35",
+          "lat": -27.9853216,
+          "lon": -48.679296
         },
-        "distancia_km": 341.9,
+        "distancia_km": 329.9,
         "proximo": false
       }
     ],
@@ -455,7 +455,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:00:16",
+          "data_hora_posicao": "09/11/2026 22:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -486,7 +486,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:00:16",
+          "data_hora_posicao": "09/11/2026 22:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -502,5 +502,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T22:02:33"
+  "_gerado_em": "2026-11-09T22:17:35"
 }
