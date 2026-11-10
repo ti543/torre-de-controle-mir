@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "2.01 km de POSTO SOROCABA - PAULO LOPES/SC",
-          "data_hora_posicao": "10/11/2026 16:45:08",
-          "lat": -27.9251431,
-          "lon": -48.6574553
+          "referencia": "0.17 km de CONCESSIONARIA VOLVO - PALHOCA/SC",
+          "data_hora_posicao": "10/11/2026 17:00:38",
+          "lat": -27.7570285,
+          "lon": -48.631797
         },
-        "distancia_km": 115.6,
+        "distancia_km": 97.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.01 km de POSTO SOROCABA - PAULO LOPES/SC",
-          "data_hora_posicao": "10/11/2026 16:45:08",
-          "lat": -27.9251431,
-          "lon": -48.6574553
+          "referencia": "0.17 km de CONCESSIONARIA VOLVO - PALHOCA/SC",
+          "data_hora_posicao": "10/11/2026 17:00:38",
+          "lat": -27.7570285,
+          "lon": -48.631797
         },
-        "distancia_km": 115.6,
+        "distancia_km": 97.1,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 3094.95,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.01 km de POSTO SOROCABA - PAULO LOPES/SC",
-          "data_hora_posicao": "10/11/2026 16:45:08",
-          "lat": -27.9251431,
-          "lon": -48.6574553
+          "referencia": "0.17 km de CONCESSIONARIA VOLVO - PALHOCA/SC",
+          "data_hora_posicao": "10/11/2026 17:00:38",
+          "lat": -27.7570285,
+          "lon": -48.631797
         },
-        "distancia_km": 115.6,
+        "distancia_km": 97.1,
         "proximo": false
       }
     ],
@@ -94,13 +94,13 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.11 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "10/11/2026 16:38:51",
-          "lat": -27.2944896,
-          "lon": -50.077824
+          "referencia": "0.83 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "10/11/2026 17:00:18",
+          "lat": -27.2594528,
+          "lon": -49.9230016
         },
-        "distancia_km": 43.4,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       },
       {
         "manif": "GRU074492-1",
@@ -114,12 +114,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.45 km de UDIAÇO DISTRIBUIDORA DE FERRO E AÇO LTDA - CARAPICUIBA/SP",
-          "data_hora_posicao": "10/11/2026 16:45:20",
-          "lat": -23.5363583333333,
-          "lon": -46.8179433333333
+          "referencia": "0.17 km de TREVISO TRANSPORTES LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "10/11/2026 16:59:11",
+          "lat": -23.643675,
+          "lon": -46.8394233333333
         },
-        "distancia_km": 497.4,
+        "distancia_km": 486.3,
         "proximo": false
       },
       {
@@ -134,13 +134,13 @@
         "frete_rs": 2023.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.11 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "10/11/2026 16:38:51",
-          "lat": -27.2944896,
-          "lon": -50.077824
+          "referencia": "0.83 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "10/11/2026 17:00:18",
+          "lat": -27.2594528,
+          "lon": -49.9230016
         },
-        "distancia_km": 43.4,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       },
       {
         "manif": "LGS001610-1",
@@ -154,13 +154,13 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.11 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "10/11/2026 16:38:51",
-          "lat": -27.2944896,
-          "lon": -50.077824
+          "referencia": "0.83 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "10/11/2026 17:00:18",
+          "lat": -27.2594528,
+          "lon": -49.9230016
         },
-        "distancia_km": 43.4,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       },
       {
         "manif": "POA016226-4",
@@ -174,13 +174,13 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "10.11 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "10/11/2026 16:38:51",
-          "lat": -27.2944896,
-          "lon": -50.077824
+          "referencia": "0.83 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "10/11/2026 17:00:18",
+          "lat": -27.2594528,
+          "lon": -49.9230016
         },
-        "distancia_km": 43.4,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -216,9 +216,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.15 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FRIGORIFICO AURORA - XAXIM/SC",
-          "data_hora_posicao": "10/11/2026 16:35:53",
-          "lat": -26.9586491,
-          "lon": -52.5348076
+          "data_hora_posicao": "10/11/2026 17:00:18",
+          "lat": -26.9587353,
+          "lon": -52.5348335
         },
         "distancia_km": null,
         "proximo": false
@@ -246,12 +246,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de MEGA CENTRO LOGÍSTICO - ESTEIO - ESTEIO/RS",
-          "data_hora_posicao": "10/11/2026 16:45:02",
-          "lat": -29.838656,
-          "lon": -51.1840832
+          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
+          "data_hora_posicao": "10/11/2026 17:00:22",
+          "lat": -29.9752224,
+          "lon": -51.1987456
         },
-        "distancia_km": 16.1,
+        "distancia_km": 1.5,
         "proximo": true
       },
       {
@@ -266,12 +266,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de MEGA CENTRO LOGÍSTICO - ESTEIO - ESTEIO/RS",
-          "data_hora_posicao": "10/11/2026 16:45:02",
-          "lat": -29.838656,
-          "lon": -51.1840832
+          "referencia": "0.56 km de GLOBB - PORTO ALEGRE/RS",
+          "data_hora_posicao": "10/11/2026 17:00:22",
+          "lat": -29.9752224,
+          "lon": -51.1987456
         },
-        "distancia_km": 16.1,
+        "distancia_km": 1.5,
         "proximo": true
       }
     ],
@@ -283,5 +283,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T16:47:43"
+  "_gerado_em": "2026-11-10T17:02:43"
 }
