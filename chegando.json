@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:30:52",
-          "lat": -27.0289823,
-          "lon": -48.6051828
+          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "10/11/2026 18:45:34",
+          "lat": -26.9846796,
+          "lon": -48.6682063
         },
-        "distancia_km": 19.5,
+        "distancia_km": 12.0,
         "proximo": true
       },
       {
@@ -33,13 +33,33 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:30:52",
-          "lat": -27.0289823,
-          "lon": -48.6051828
+          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "10/11/2026 18:45:34",
+          "lat": -26.9846796,
+          "lon": -48.6682063
         },
-        "distancia_km": 19.5,
+        "distancia_km": 12.0,
         "proximo": true
+      },
+      {
+        "manif": "CTB013584-4",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5790.89,
+        "frete_rs": 7558.82,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "10/11/2026 18:44:22",
+          "lat": -25.5278448,
+          "lon": -49.2955776
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "TUB000391-3",
@@ -53,12 +73,12 @@
         "frete_rs": 3094.95,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "10/11/2026 18:30:52",
-          "lat": -27.0289823,
-          "lon": -48.6051828
+          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "10/11/2026 18:45:34",
+          "lat": -26.9846796,
+          "lon": -48.6682063
         },
-        "distancia_km": 19.5,
+        "distancia_km": 12.0,
         "proximo": true
       }
     ],
@@ -71,6 +91,11 @@
       "CRC": {
         "peso_kg": 555.5,
         "frete_rs": 588.91,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5790.89,
+        "frete_rs": 7558.82,
         "qtde": 1
       },
       "TUB": {
@@ -94,12 +119,32 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 18:29:03",
-          "lat": -22.846935,
-          "lon": -47.12478
+          "referencia": "0.41 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "10/11/2026 18:43:02",
+          "lat": -22.85387,
+          "lon": -47.1171483333333
         },
-        "distancia_km": 96.9,
+        "distancia_km": 95.8,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013588-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 14223.02,
+        "frete_rs": 9728.22,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "10/11/2026 18:45:49",
+          "lat": -25.52776,
+          "lon": -49.2954752
+        },
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -114,12 +159,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:30:36",
-          "lat": -27.2058624,
-          "lon": -49.6492992
+          "referencia": "0.09 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 18:44:36",
+          "lat": -27.2070976,
+          "lon": -49.648224
         },
-        "distancia_km": 524.4,
+        "distancia_km": 524.5,
         "proximo": false
       }
     ],
@@ -127,6 +172,11 @@
       "Campinas": {
         "peso_kg": 4092.97,
         "frete_rs": 7006.7,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 14223.02,
+        "frete_rs": 9728.22,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -138,6 +188,26 @@
   },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013585-2",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 7548.58,
+        "frete_rs": 8648.53,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "10/11/2026 18:44:22",
+          "lat": -25.5278448,
+          "lon": -49.2955776
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002239-0",
         "origin_unit": "CXS",
@@ -151,7 +221,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:30:18",
+          "data_hora_posicao": "10/11/2026 18:44:18",
           "lat": -27.2061152,
           "lon": -49.6494176
         },
@@ -170,12 +240,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO BREDA - MIRACATU/SP",
-          "data_hora_posicao": "10/11/2026 18:30:12",
-          "lat": -24.2867533333333,
-          "lon": -47.449245
+          "referencia": "0.78 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "10/11/2026 18:44:12",
+          "lat": -24.3301416666667,
+          "lon": -47.6158
         },
-        "distancia_km": 392.3,
+        "distancia_km": 379.1,
         "proximo": false
       },
       {
@@ -191,7 +261,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:30:18",
+          "data_hora_posicao": "10/11/2026 18:44:18",
           "lat": -27.2061152,
           "lon": -49.6494176
         },
@@ -211,7 +281,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:30:18",
+          "data_hora_posicao": "10/11/2026 18:44:18",
           "lat": -27.2061152,
           "lon": -49.6494176
         },
@@ -231,7 +301,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:30:18",
+          "data_hora_posicao": "10/11/2026 18:44:18",
           "lat": -27.2061152,
           "lon": -49.6494176
         },
@@ -251,7 +321,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:29:35",
+          "data_hora_posicao": "10/11/2026 18:45:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -275,6 +345,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 7548.58,
+        "frete_rs": 8648.53,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 5996.219999999999,
         "frete_rs": 8660.64,
@@ -312,7 +387,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:29:35",
+          "data_hora_posicao": "10/11/2026 18:45:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -343,7 +418,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 18:30:03",
+          "data_hora_posicao": "10/11/2026 18:42:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -359,5 +434,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T18:32:27"
+  "_gerado_em": "2026-11-10T18:47:33"
 }
