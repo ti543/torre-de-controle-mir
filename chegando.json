@@ -1,105 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000757-9",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 6449.05,
-        "frete_rs": 7012.24,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.18 km de BAUER CAMINHOES - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 20:29:15",
-          "lat": -26.8970983333333,
-          "lon": -48.7184283333333
-        },
-        "distancia_km": 1.1,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013584-4",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 5790.89,
-        "frete_rs": 7558.82,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.17 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 20:30:07",
-          "lat": -25.8439088,
-          "lon": -49.100608
-        },
-        "distancia_km": 122.0,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074494-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 6897.13,
-        "frete_rs": 11390.81,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 20:30:50",
-          "lat": -23.4707504,
-          "lon": -46.4622848
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016394-5",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 498.88,
-        "frete_rs": 540.6,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 6449.05,
-        "frete_rs": 7012.24,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 5790.89,
-        "frete_rs": 7558.82,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 6897.13,
-        "frete_rs": 11390.81,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 498.88,
-        "frete_rs": 540.6,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -114,12 +13,12 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.62 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
-          "data_hora_posicao": "10/11/2026 20:29:14",
-          "lat": -23.3806616666667,
-          "lon": -46.563365
+          "referencia": "0.49 km de RIKEL PARK ESTACIONAMENTO - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 20:45:32",
+          "lat": -23.4928183333333,
+          "lon": -46.559385
         },
-        "distancia_km": 14.4,
+        "distancia_km": 10.2,
         "proximo": true
       },
       {
@@ -134,12 +33,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.46 km de POSTO MAHLE CAMPINA (MESMO LUGAR) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 20:30:32",
-          "lat": -25.2312624,
-          "lon": -48.9079488
+          "referencia": "0.91 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 20:45:46",
+          "lat": -25.1086992,
+          "lon": -48.8366688
         },
-        "distancia_km": 315.8,
+        "distancia_km": 301.8,
         "proximo": false
       },
       {
@@ -154,12 +53,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.59 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "10/11/2026 20:28:36",
-          "lat": -26.8716768,
-          "lon": -49.0167744
+          "referencia": "0.63 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
+          "data_hora_posicao": "10/11/2026 20:44:36",
+          "lat": -26.880992,
+          "lon": -48.8468096
         },
-        "distancia_km": 457.3,
+        "distancia_km": 448.7,
         "proximo": false
       },
       {
@@ -201,6 +100,82 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013584-4",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5790.89,
+        "frete_rs": 7558.82,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.31 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "10/11/2026 20:45:55",
+          "lat": -25.8646304,
+          "lon": -48.9341632
+        },
+        "distancia_km": 115.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074494-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 6897.13,
+        "frete_rs": 11390.81,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 20:44:00",
+          "lat": -23.4708608,
+          "lon": -46.4621504
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016394-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 498.88,
+        "frete_rs": 540.6,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5790.89,
+        "frete_rs": 7558.82,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 6897.13,
+        "frete_rs": 11390.81,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 498.88,
+        "frete_rs": 540.6,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -215,12 +190,12 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.17 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 20:30:07",
-          "lat": -25.8439088,
-          "lon": -49.100608
+          "referencia": "0.31 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "10/11/2026 20:45:55",
+          "lat": -25.8646304,
+          "lon": -48.9341632
         },
-        "distancia_km": 161.0,
+        "distancia_km": 165.3,
         "proximo": false
       },
       {
@@ -235,12 +210,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.03 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "10/11/2026 20:30:46",
-          "lat": -24.7758566666667,
-          "lon": -48.2098783333333
+          "referencia": "2.8 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "10/11/2026 20:45:04",
+          "lat": -24.8930933333333,
+          "lon": -48.2397866666667
         },
-        "distancia_km": 306.1,
+        "distancia_km": 293.2,
         "proximo": false
       },
       {
@@ -256,7 +231,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 20:29:35",
+          "data_hora_posicao": "10/11/2026 20:45:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -297,7 +272,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 20:29:35",
+          "data_hora_posicao": "10/11/2026 20:45:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -328,7 +303,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 20:30:03",
+          "data_hora_posicao": "10/11/2026 20:42:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -344,5 +319,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T20:32:32"
+  "_gerado_em": "2026-11-10T20:47:33"
 }
