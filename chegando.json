@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO TREVO SUL BR - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 13:45:36",
-          "lat": -28.5072395,
-          "lon": -49.0492338
+          "referencia": "0.94 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:00:20",
+          "lat": -28.4978755,
+          "lon": -49.033127
         },
-        "distancia_km": 183.0,
+        "distancia_km": 181.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO TREVO SUL BR - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 13:45:36",
-          "lat": -28.5072395,
-          "lon": -49.0492338
+          "referencia": "0.94 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:00:20",
+          "lat": -28.4978755,
+          "lon": -49.033127
         },
-        "distancia_km": 183.0,
+        "distancia_km": 181.7,
         "proximo": false
       }
     ],
@@ -70,26 +70,11 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:44:18",
+          "data_hora_posicao": "10/11/2026 14:00:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
         "distancia_km": 98.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074436-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 9853.03,
-        "frete_rs": 16928.48,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
         "proximo": false
       },
       {
@@ -105,7 +90,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:44:18",
+          "data_hora_posicao": "10/11/2026 14:00:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -117,11 +102,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 2563.22,
         "frete_rs": 4837.03,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 9853.03,
-        "frete_rs": 16928.48,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -192,7 +172,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:44:18",
+          "data_hora_posicao": "10/11/2026 14:00:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -222,10 +202,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.59 km de POSTOS IPIRANGA - PONTE SERRADA/SC",
-          "data_hora_posicao": "10/11/2026 13:42:29",
-          "lat": -26.8921344,
-          "lon": -51.9839744
+          "referencia": "0.55 km de RESTAURANTE PARADA DO METEÓRO - VARGEAO/SC",
+          "data_hora_posicao": "10/11/2026 14:00:08",
+          "lat": -26.8720493,
+          "lon": -52.1481101
         },
         "distancia_km": null,
         "proximo": false
@@ -253,10 +233,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:45:02",
-          "lat": -29.0725504,
-          "lon": -51.1896576
+          "referencia": "0.73 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 13:59:02",
+          "lat": -29.1305824,
+          "lon": -51.189152
         },
         "distancia_km": null,
         "proximo": false
@@ -284,12 +264,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:45:02",
-          "lat": -29.0725504,
-          "lon": -51.1896576
+          "referencia": "0.73 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 13:59:02",
+          "lat": -29.1305824,
+          "lon": -51.189152
         },
-        "distancia_km": 101.3,
+        "distancia_km": 94.8,
         "proximo": false
       },
       {
@@ -304,12 +284,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:45:02",
-          "lat": -29.0725504,
-          "lon": -51.1896576
+          "referencia": "0.73 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 13:59:02",
+          "lat": -29.1305824,
+          "lon": -51.189152
         },
-        "distancia_km": 101.3,
+        "distancia_km": 94.8,
         "proximo": false
       }
     ],
@@ -321,5 +301,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T13:47:40"
+  "_gerado_em": "2026-11-10T14:02:36"
 }
