@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.84 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
-          "data_hora_posicao": "10/11/2026 13:31:09",
-          "lat": -28.6359193,
-          "lon": -49.0954666
+          "referencia": "0.08 km de POSTO TREVO SUL BR - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 13:45:36",
+          "lat": -28.5072395,
+          "lon": -49.0492338
         },
-        "distancia_km": 197.9,
+        "distancia_km": 183.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.84 km de POSTO SANGÃO (LANCHONETE ROCHA) - SANGAO/SC",
-          "data_hora_posicao": "10/11/2026 13:31:09",
-          "lat": -28.6359193,
-          "lon": -49.0954666
+          "referencia": "0.08 km de POSTO TREVO SUL BR - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 13:45:36",
+          "lat": -28.5072395,
+          "lon": -49.0492338
         },
-        "distancia_km": 197.9,
+        "distancia_km": 183.0,
         "proximo": false
       }
     ],
@@ -70,32 +70,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:30:36",
+          "data_hora_posicao": "10/11/2026 13:44:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "GRU074430-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 10171.68,
-        "frete_rs": 9655.32,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 13:30:00",
-          "lat": -27.2061184,
-          "lon": -49.6494336
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "GRU074436-1",
@@ -125,7 +105,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:30:36",
+          "data_hora_posicao": "10/11/2026 13:44:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -140,9 +120,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 20024.71,
-        "frete_rs": 26583.8,
-        "qtde": 2
+        "peso_kg": 9853.03,
+        "frete_rs": 16928.48,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 4672.13,
@@ -212,7 +192,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:30:36",
+          "data_hora_posicao": "10/11/2026 13:44:18",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -242,10 +222,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4 km de POSTO CARRETÃO 01 - VARGEM BONITA/SC",
-          "data_hora_posicao": "10/11/2026 13:27:10",
-          "lat": -26.954624,
-          "lon": -51.8555392
+          "referencia": "3.59 km de POSTOS IPIRANGA - PONTE SERRADA/SC",
+          "data_hora_posicao": "10/11/2026 13:42:29",
+          "lat": -26.8921344,
+          "lon": -51.9839744
         },
         "distancia_km": null,
         "proximo": false
@@ -256,47 +236,6 @@
         "peso_kg": 2065.84,
         "frete_rs": 4400.48,
         "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044280-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 10850.96,
-        "frete_rs": 18907.44,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044281-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 17236.6,
-        "frete_rs": 12570.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 28087.559999999998,
-        "frete_rs": 31477.94,
-        "qtde": 2
       }
     }
   },
@@ -314,10 +253,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:29:49",
-          "lat": -28.9785216,
-          "lon": -51.1801728
+          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:45:02",
+          "lat": -29.0725504,
+          "lon": -51.1896576
         },
         "distancia_km": null,
         "proximo": false
@@ -345,12 +284,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:29:49",
-          "lat": -28.9785216,
-          "lon": -51.1801728
+          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:45:02",
+          "lat": -29.0725504,
+          "lon": -51.1896576
         },
-        "distancia_km": 111.7,
+        "distancia_km": 101.3,
         "proximo": false
       },
       {
@@ -365,12 +304,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.92 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "10/11/2026 13:29:49",
-          "lat": -28.9785216,
-          "lon": -51.1801728
+          "referencia": "0.68 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "10/11/2026 13:45:02",
+          "lat": -29.0725504,
+          "lon": -51.1896576
         },
-        "distancia_km": 111.7,
+        "distancia_km": 101.3,
         "proximo": false
       }
     ],
@@ -382,5 +321,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T13:33:00"
+  "_gerado_em": "2026-11-10T13:47:40"
 }
