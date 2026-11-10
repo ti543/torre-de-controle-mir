@@ -13,13 +13,13 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "10/11/2026 17:59:59",
-          "lat": -27.1897371,
-          "lon": -48.6122665
+          "referencia": "0.51 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "10/11/2026 18:15:46",
+          "lat": -27.1315398,
+          "lon": -48.6097245
         },
-        "distancia_km": 35.3,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       },
       {
         "manif": "CRC000396-4",
@@ -33,13 +33,13 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "10/11/2026 17:59:59",
-          "lat": -27.1897371,
-          "lon": -48.6122665
+          "referencia": "0.51 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "10/11/2026 18:15:46",
+          "lat": -27.1315398,
+          "lon": -48.6097245
         },
-        "distancia_km": 35.3,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       },
       {
         "manif": "TUB000391-3",
@@ -53,13 +53,13 @@
         "frete_rs": 3094.95,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "10/11/2026 17:59:59",
-          "lat": -27.1897371,
-          "lon": -48.6122665
+          "referencia": "0.51 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "10/11/2026 18:15:46",
+          "lat": -27.1315398,
+          "lon": -48.6097245
         },
-        "distancia_km": 35.3,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -94,12 +94,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:01:04",
-          "lat": -27.2057664,
-          "lon": -49.6490432
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 18:15:22",
+          "lat": -27.2060768,
+          "lon": -49.6493376
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -114,12 +114,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.52 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "10/11/2026 17:57:10",
-          "lat": -24.05187,
-          "lon": -47.213135
+          "referencia": "2.38 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "10/11/2026 18:10:03",
+          "lat": -24.1461933333333,
+          "lon": -47.2936783333333
         },
-        "distancia_km": 427.4,
+        "distancia_km": 414.1,
         "proximo": false
       },
       {
@@ -134,12 +134,12 @@
         "frete_rs": 2023.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:01:04",
-          "lat": -27.2057664,
-          "lon": -49.6490432
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 18:15:22",
+          "lat": -27.2060768,
+          "lon": -49.6493376
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -154,12 +154,12 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:01:04",
-          "lat": -27.2057664,
-          "lon": -49.6490432
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 18:15:22",
+          "lat": -27.2060768,
+          "lon": -49.6493376
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -174,12 +174,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 18:01:04",
-          "lat": -27.2057664,
-          "lon": -49.6490432
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 18:15:22",
+          "lat": -27.2060768,
+          "lon": -49.6493376
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -221,37 +221,6 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ024056-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 989.35,
-        "frete_rs": 2365.51,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.37 km de BCR TRANSPORTES RODOVIARIO LTDA - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 17:59:35",
-          "lat": -26.8989133333333,
-          "lon": -48.7179133333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 989.35,
-        "frete_rs": 2365.51,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -267,7 +236,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 17:58:03",
+          "data_hora_posicao": "10/11/2026 18:14:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -283,5 +252,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T18:02:45"
+  "_gerado_em": "2026-11-10T18:17:38"
 }
