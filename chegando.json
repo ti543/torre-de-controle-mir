@@ -13,12 +13,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:44:18",
-          "lat": -28.4226752,
-          "lon": -50.865952
+          "referencia": "2.25 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:56:42",
+          "lat": -28.2999584,
+          "lon": -50.8039488
         },
-        "distancia_km": 180.6,
+        "distancia_km": 166.4,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.38 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "10/11/2026 10:44:00",
+          "data_hora_posicao": "10/11/2026 11:00:00",
           "lat": -27.0584128,
           "lon": -49.3903072
         },
@@ -68,12 +68,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:44:18",
-          "lat": -28.4226752,
-          "lon": -50.865952
+          "referencia": "2.25 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:56:42",
+          "lat": -28.2999584,
+          "lon": -50.8039488
         },
-        "distancia_km": 180.6,
+        "distancia_km": 166.4,
         "proximo": false
       }
     ],
@@ -126,21 +126,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044289-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3010.73,
-        "frete_rs": 1746.26,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -152,11 +137,6 @@
       "Itajaí": {
         "peso_kg": 704.55,
         "frete_rs": 1158.37,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 3010.73,
-        "frete_rs": 1746.26,
         "qtde": 1
       }
     }
@@ -175,12 +155,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de ASSAI ATACADISTA LTDA (DUTRA) - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 10:45:04",
-          "lat": -23.4775472,
-          "lon": -46.5280832
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 11:00:10",
+          "lat": -23.4705952,
+          "lon": -46.4622752
         },
-        "distancia_km": 6.8,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -195,12 +175,12 @@
         "frete_rs": 14372.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:44:26",
-          "lat": -23.7120832,
-          "lon": -46.8778528
+          "referencia": "0.2 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 11:00:26",
+          "lat": -23.6839808,
+          "lon": -46.8591232
         },
-        "distancia_km": 50.1,
+        "distancia_km": 46.9,
         "proximo": false
       },
       {
@@ -215,12 +195,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:44:26",
-          "lat": -23.7120832,
-          "lon": -46.8778528
+          "referencia": "0.2 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 11:00:26",
+          "lat": -23.6839808,
+          "lon": -46.8591232
         },
-        "distancia_km": 50.1,
+        "distancia_km": 46.9,
         "proximo": false
       },
       {
@@ -235,12 +215,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:44:26",
-          "lat": -23.7120832,
-          "lon": -46.8778528
+          "referencia": "0.2 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 11:00:26",
+          "lat": -23.6839808,
+          "lon": -46.8591232
         },
-        "distancia_km": 50.1,
+        "distancia_km": 46.9,
         "proximo": false
       },
       {
@@ -321,10 +301,10 @@
         "frete_rs": 255.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de FILIAL MIR CRICIÚMA - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 10:45:15",
-          "lat": -28.7881098,
-          "lon": -49.342485
+          "referencia": "2.92 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
+          "data_hora_posicao": "10/11/2026 10:59:54",
+          "lat": -28.9065628,
+          "lon": -49.4800536
         },
         "distancia_km": null,
         "proximo": false
@@ -352,10 +332,10 @@
         "frete_rs": 4311.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de FILIAL MIR CRICIÚMA - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 10:45:15",
-          "lat": -28.7881098,
-          "lon": -49.342485
+          "referencia": "2.92 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
+          "data_hora_posicao": "10/11/2026 10:59:54",
+          "lat": -28.9065628,
+          "lon": -49.4800536
         },
         "distancia_km": null,
         "proximo": false
@@ -383,10 +363,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:44:18",
-          "lat": -28.4226752,
-          "lon": -50.865952
+          "referencia": "2.25 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:56:42",
+          "lat": -28.2999584,
+          "lon": -50.8039488
         },
         "distancia_km": null,
         "proximo": false
@@ -403,10 +383,10 @@
         "frete_rs": 3024.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:41:02",
-          "lat": -28.5390976,
-          "lon": -50.969664
+          "referencia": "4.72 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "10/11/2026 11:00:03",
+          "lat": -28.6211104,
+          "lon": -51.0704384
         },
         "distancia_km": null,
         "proximo": false
@@ -423,10 +403,10 @@
         "frete_rs": 2808.81,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:41:02",
-          "lat": -28.5390976,
-          "lon": -50.969664
+          "referencia": "4.72 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "10/11/2026 11:00:03",
+          "lat": -28.6211104,
+          "lon": -51.0704384
         },
         "distancia_km": null,
         "proximo": false
@@ -459,10 +439,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.97 km de POSTO NOSSA SENHORA DE LOURDES - ERVAL VELHO/SC",
-          "data_hora_posicao": "10/11/2026 10:44:34",
-          "lat": -27.3027905,
-          "lon": -51.3879641
+          "referencia": "0.11 km de POSTO PASINATO - ERVAL VELHO/SC",
+          "data_hora_posicao": "10/11/2026 11:00:17",
+          "lat": -27.244837,
+          "lon": -51.4480781
         },
         "distancia_km": null,
         "proximo": false
@@ -490,10 +470,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:41:02",
-          "lat": -28.5390976,
-          "lon": -50.969664
+          "referencia": "4.72 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "10/11/2026 11:00:03",
+          "lat": -28.6211104,
+          "lon": -51.0704384
         },
         "distancia_km": null,
         "proximo": false
@@ -521,12 +501,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:41:02",
-          "lat": -28.5390976,
-          "lon": -50.969664
+          "referencia": "4.72 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "10/11/2026 11:00:03",
+          "lat": -28.6211104,
+          "lon": -51.0704384
         },
-        "distancia_km": 162.0,
+        "distancia_km": 151.9,
         "proximo": false
       },
       {
@@ -541,12 +521,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:41:02",
-          "lat": -28.5390976,
-          "lon": -50.969664
+          "referencia": "4.72 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "10/11/2026 11:00:03",
+          "lat": -28.6211104,
+          "lon": -51.0704384
         },
-        "distancia_km": 162.0,
+        "distancia_km": 151.9,
         "proximo": false
       }
     ],
@@ -558,5 +538,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T10:47:34"
+  "_gerado_em": "2026-11-10T11:02:43"
 }
