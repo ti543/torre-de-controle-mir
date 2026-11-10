@@ -13,13 +13,33 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 18:59:39",
-          "lat": -26.9169118,
-          "lon": -48.7101211
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 19:15:30",
+          "lat": -26.8876958,
+          "lon": -48.7206715
         },
-        "distancia_km": 3.4,
+        "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "BRQ000757-9",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 6449.05,
+        "frete_rs": 7012.24,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.74 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "10/11/2026 19:15:35",
+          "lat": -27.0964783333333,
+          "lon": -48.9306333333333
+        },
+        "distancia_km": 31.2,
+        "proximo": false
       },
       {
         "manif": "CRC000396-4",
@@ -33,12 +53,12 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 18:59:39",
-          "lat": -26.9169118,
-          "lon": -48.7101211
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 19:15:30",
+          "lat": -26.8876958,
+          "lon": -48.7206715
         },
-        "distancia_km": 3.4,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -54,7 +74,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 19:00:07",
+          "data_hora_posicao": "10/11/2026 19:14:07",
           "lat": -25.5278448,
           "lon": -49.2955776
         },
@@ -88,12 +108,12 @@
         "frete_rs": 3094.95,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.13 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 18:59:39",
-          "lat": -26.9169118,
-          "lon": -48.7101211
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 19:15:30",
+          "lat": -26.8876958,
+          "lon": -48.7206715
         },
-        "distancia_km": 3.4,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -101,6 +121,11 @@
       "ARR": {
         "peso_kg": 60.0,
         "frete_rs": 466.04,
+        "qtde": 1
+      },
+      "Brusque": {
+        "peso_kg": 6449.05,
+        "frete_rs": 7012.24,
         "qtde": 1
       },
       "CRC": {
@@ -139,12 +164,12 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.24 km de POSTO DOM PEDRO I - VALINHOS/SP",
-          "data_hora_posicao": "10/11/2026 19:00:23",
-          "lat": -22.9007533333333,
-          "lon": -46.991305
+          "referencia": "0.03 km de PEDAGIO - ITATIBA - ITATIBA/SP",
+          "data_hora_posicao": "10/11/2026 19:15:47",
+          "lat": -22.95401,
+          "lon": -46.860125
         },
-        "distancia_km": 83.3,
+        "distancia_km": 70.4,
         "proximo": false
       },
       {
@@ -159,12 +184,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.27 km de A.T.I. BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 18:59:46",
-          "lat": -25.4749072,
-          "lon": -49.2581216
+          "referencia": "0.11 km de POSTO ROTA SUL - PINHAIS/PR",
+          "data_hora_posicao": "10/11/2026 19:15:46",
+          "lat": -25.4148128,
+          "lon": -49.2222528
         },
-        "distancia_km": 360.2,
+        "distancia_km": 353.2,
         "proximo": false
       },
       {
@@ -179,12 +204,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "10/11/2026 19:00:36",
-          "lat": -27.1445408,
-          "lon": -49.5489664
+          "referencia": "2.33 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "10/11/2026 19:12:54",
+          "lat": -27.080352,
+          "lon": -49.5191584
         },
-        "distancia_km": 512.9,
+        "distancia_km": 505.5,
         "proximo": false
       },
       {
@@ -241,7 +266,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 19:00:07",
+          "data_hora_posicao": "10/11/2026 19:14:07",
           "lat": -25.5278448,
           "lon": -49.2955776
         },
@@ -260,12 +285,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.7 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "10/11/2026 19:00:51",
-          "lat": -24.4274833333333,
-          "lon": -47.7834016666667
+          "referencia": "4.16 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "10/11/2026 19:14:51",
+          "lat": -24.5657616666667,
+          "lon": -47.872065
         },
-        "distancia_km": 361.0,
+        "distancia_km": 343.2,
         "proximo": false
       },
       {
@@ -281,7 +306,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:59:35",
+          "data_hora_posicao": "10/11/2026 19:15:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -342,7 +367,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 18:59:35",
+          "data_hora_posicao": "10/11/2026 19:15:35",
           "lat": -29.9839328,
           "lon": -51.1870016
         },
@@ -373,7 +398,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 18:58:03",
+          "data_hora_posicao": "10/11/2026 19:14:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -389,5 +414,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T19:02:36"
+  "_gerado_em": "2026-11-10T19:17:27"
 }
