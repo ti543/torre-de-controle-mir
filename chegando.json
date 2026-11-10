@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "3.29 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "10/11/2026 11:45:20",
-          "lat": -28.9015168,
-          "lon": -49.4758311
+          "referencia": "1.47 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "10/11/2026 12:00:37",
+          "lat": -28.7826878,
+          "lon": -49.3325156
         },
-        "distancia_km": 235.9,
+        "distancia_km": 219.1,
         "proximo": false
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:37:32",
-          "lat": -28.0720896,
-          "lon": -50.5789184
+          "referencia": "5.39 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 11:57:32",
+          "lat": -27.9064064,
+          "lon": -50.4412416
         },
-        "distancia_km": 132.9,
+        "distancia_km": 110.2,
         "proximo": false
       },
       {
@@ -65,7 +65,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "10/11/2026 11:46:00",
+          "data_hora_posicao": "10/11/2026 12:00:18",
           "lat": -27.1356832,
           "lon": -49.5436832
         },
@@ -99,12 +99,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:37:32",
-          "lat": -28.0720896,
-          "lon": -50.5789184
+          "referencia": "5.39 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 11:57:32",
+          "lat": -27.9064064,
+          "lon": -50.4412416
         },
-        "distancia_km": 132.9,
+        "distancia_km": 110.2,
         "proximo": false
       }
     ],
@@ -186,13 +186,13 @@
         "frete_rs": 14372.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
-          "data_hora_posicao": "10/11/2026 11:45:45",
-          "lat": -23.5254112,
-          "lon": -46.7558176
+          "referencia": "0.26 km de CAMIL ALIMENTOS VILA ANASTÁCIO - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:58:26",
+          "lat": -23.5133776,
+          "lon": -46.7231712
         },
-        "distancia_km": 30.5,
-        "proximo": false
+        "distancia_km": 27.0,
+        "proximo": true
       },
       {
         "manif": "RSL044269-1",
@@ -206,13 +206,13 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
-          "data_hora_posicao": "10/11/2026 11:45:45",
-          "lat": -23.5254112,
-          "lon": -46.7558176
+          "referencia": "0.26 km de CAMIL ALIMENTOS VILA ANASTÁCIO - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:58:26",
+          "lat": -23.5133776,
+          "lon": -46.7231712
         },
-        "distancia_km": 30.5,
-        "proximo": false
+        "distancia_km": 27.0,
+        "proximo": true
       },
       {
         "manif": "RSL044271-2",
@@ -226,13 +226,13 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
-          "data_hora_posicao": "10/11/2026 11:45:45",
-          "lat": -23.5254112,
-          "lon": -46.7558176
+          "referencia": "0.26 km de CAMIL ALIMENTOS VILA ANASTÁCIO - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:58:26",
+          "lat": -23.5133776,
+          "lon": -46.7231712
         },
-        "distancia_km": 30.5,
-        "proximo": false
+        "distancia_km": 27.0,
+        "proximo": true
       },
       {
         "manif": "RSL044280-1",
@@ -312,10 +312,10 @@
         "frete_rs": 4311.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.29 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "10/11/2026 11:45:20",
-          "lat": -28.9015168,
-          "lon": -49.4758311
+          "referencia": "1.47 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "10/11/2026 12:00:37",
+          "lat": -28.7826878,
+          "lon": -49.3325156
         },
         "distancia_km": null,
         "proximo": false
@@ -343,10 +343,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:37:32",
-          "lat": -28.0720896,
-          "lon": -50.5789184
+          "referencia": "5.39 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 11:57:32",
+          "lat": -27.9064064,
+          "lon": -50.4412416
         },
         "distancia_km": null,
         "proximo": false
@@ -364,7 +364,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:45:02",
+          "data_hora_posicao": "10/11/2026 11:59:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -384,7 +384,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:45:02",
+          "data_hora_posicao": "10/11/2026 11:59:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -419,10 +419,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "10/11/2026 11:46:06",
-          "lat": -27.1847103,
-          "lon": -51.5198725
+          "referencia": "0.06 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - JOACABA/SC",
+          "data_hora_posicao": "10/11/2026 11:58:02",
+          "lat": -27.184688,
+          "lon": -51.5199076
         },
         "distancia_km": null,
         "proximo": false
@@ -451,7 +451,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:45:02",
+          "data_hora_posicao": "10/11/2026 11:59:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -482,7 +482,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:45:02",
+          "data_hora_posicao": "10/11/2026 11:59:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -502,7 +502,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:45:02",
+          "data_hora_posicao": "10/11/2026 11:59:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -518,5 +518,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T11:47:39"
+  "_gerado_em": "2026-11-10T12:02:37"
 }
