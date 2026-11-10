@@ -14,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.07 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 04:59:27",
-          "lat": -27.2057728,
-          "lon": -49.648656
+          "data_hora_posicao": "10/11/2026 05:15:27",
+          "lat": -27.2057664,
+          "lon": -49.6486432
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -48,12 +48,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.07 km de POSTO ALPINO 01 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 04:56:00",
-          "lat": -25.1001152,
-          "lon": -48.8217504
+          "referencia": "0.73 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 05:16:00",
+          "lat": -25.2745888,
+          "lon": -48.922576
         },
-        "distancia_km": 248.3,
+        "distancia_km": 226.7,
         "proximo": false
       },
       {
@@ -84,9 +84,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 04:59:27",
-          "lat": -27.2057728,
-          "lon": -49.648656
+          "data_hora_posicao": "10/11/2026 05:15:27",
+          "lat": -27.2057664,
+          "lon": -49.6486432
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -104,7 +104,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 05:00:18",
+          "data_hora_posicao": "10/11/2026 05:14:18",
           "lat": -29.1464032,
           "lon": -51.1648032
         },
@@ -149,12 +149,12 @@
         "frete_rs": 11222.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de CD MERCADO LIVRE JOINVILLE - JOINVILLE/SC",
-          "data_hora_posicao": "10/11/2026 05:01:04",
-          "lat": -26.3616048,
-          "lon": -48.85896
+          "referencia": "1.17 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "10/11/2026 05:15:04",
+          "lat": -26.4765232,
+          "lon": -48.7402112
         },
-        "distancia_km": 60.1,
+        "distancia_km": 45.7,
         "proximo": false
       },
       {
@@ -196,7 +196,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "10/11/2026 04:59:46",
+          "data_hora_posicao": "10/11/2026 05:15:46",
           "lat": -25.5276336,
           "lon": -49.2952992
         },
@@ -215,13 +215,13 @@
         "frete_rs": 426.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.99 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 05:00:30",
-          "lat": -25.7941328,
-          "lon": -49.1282624
+          "referencia": "0.12 km de POSTO TIO ZICO 02 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "10/11/2026 05:14:07",
+          "lat": -25.6519168,
+          "lon": -49.1571616
         },
-        "distancia_km": 34.0,
-        "proximo": false
+        "distancia_km": 19.6,
+        "proximo": true
       },
       {
         "manif": "RSL044276-3",
@@ -235,13 +235,13 @@
         "frete_rs": 6752.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.99 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 05:00:30",
-          "lat": -25.7941328,
-          "lon": -49.1282624
+          "referencia": "0.12 km de POSTO TIO ZICO 02 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "10/11/2026 05:14:07",
+          "lat": -25.6519168,
+          "lon": -49.1571616
         },
-        "distancia_km": 34.0,
-        "proximo": false
+        "distancia_km": 19.6,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -277,7 +277,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 05:01:09",
+          "data_hora_posicao": "10/11/2026 05:15:09",
           "lat": -22.846945,
           "lon": -47.1247733333333
         },
@@ -297,7 +297,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 05:01:09",
+          "data_hora_posicao": "10/11/2026 05:15:09",
           "lat": -22.846945,
           "lon": -47.1247733333333
         },
@@ -354,7 +354,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 04:59:35",
+          "data_hora_posicao": "10/11/2026 05:15:35",
           "lat": -29.9838816,
           "lon": -51.1873792
         },
@@ -373,12 +373,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 05:01:02",
-          "lat": -27.2059904,
-          "lon": -49.649312
+          "referencia": "0.52 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:15:36",
+          "lat": -27.2098496,
+          "lon": -49.65192
         },
-        "distancia_km": 343.4,
+        "distancia_km": 342.9,
         "proximo": false
       },
       {
@@ -393,12 +393,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 05:01:02",
-          "lat": -27.2059904,
-          "lon": -49.649312
+          "referencia": "0.52 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:15:36",
+          "lat": -27.2098496,
+          "lon": -49.65192
         },
-        "distancia_km": 343.4,
+        "distancia_km": 342.9,
         "proximo": false
       }
     ],
@@ -429,12 +429,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.65 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "10/11/2026 04:43:03",
-          "lat": -24.9317888,
-          "lon": -48.278832
+          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "10/11/2026 05:15:04",
+          "lat": -24.7855632,
+          "lon": -48.1750112
         },
-        "distancia_km": 245.6,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -449,12 +449,12 @@
         "frete_rs": 14372.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.15 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "10/11/2026 05:00:46",
-          "lat": -25.540432,
-          "lon": -49.15056
+          "referencia": "0.48 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "10/11/2026 05:14:26",
+          "lat": -25.4157008,
+          "lon": -49.0678816
         },
-        "distancia_km": 356.3,
+        "distancia_km": 341.1,
         "proximo": false
       },
       {
@@ -469,12 +469,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "10/11/2026 05:00:46",
-          "lat": -25.540432,
-          "lon": -49.15056
+          "referencia": "0.48 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "10/11/2026 05:14:26",
+          "lat": -25.4157008,
+          "lon": -49.0678816
         },
-        "distancia_km": 356.3,
+        "distancia_km": 341.1,
         "proximo": false
       },
       {
@@ -489,12 +489,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "10/11/2026 05:00:46",
-          "lat": -25.540432,
-          "lon": -49.15056
+          "referencia": "0.48 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "10/11/2026 05:14:26",
+          "lat": -25.4157008,
+          "lon": -49.0678816
         },
-        "distancia_km": 356.3,
+        "distancia_km": 341.1,
         "proximo": false
       },
       {
@@ -576,7 +576,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 05:00:18",
+          "data_hora_posicao": "10/11/2026 05:14:18",
           "lat": -29.1464032,
           "lon": -51.1648032
         },
@@ -595,10 +595,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 05:01:02",
-          "lat": -27.2059904,
-          "lon": -49.649312
+          "referencia": "0.52 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:15:36",
+          "lat": -27.2098496,
+          "lon": -49.65192
         },
         "distancia_km": null,
         "proximo": false
@@ -632,7 +632,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 05:00:18",
+          "data_hora_posicao": "10/11/2026 05:14:18",
           "lat": -29.1464032,
           "lon": -51.1648032
         },
@@ -651,10 +651,10 @@
         "frete_rs": 3024.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 05:01:02",
-          "lat": -27.2059904,
-          "lon": -49.649312
+          "referencia": "0.52 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:15:36",
+          "lat": -27.2098496,
+          "lon": -49.65192
         },
         "distancia_km": null,
         "proximo": false
@@ -671,10 +671,10 @@
         "frete_rs": 2808.81,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 05:01:02",
-          "lat": -27.2059904,
-          "lon": -49.649312
+          "referencia": "0.52 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:15:36",
+          "lat": -27.2098496,
+          "lon": -49.65192
         },
         "distancia_km": null,
         "proximo": false
@@ -693,5 +693,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T05:02:40"
+  "JCB": {
+    "veiculos": [
+      {
+        "manif": "RSL044273-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "JCB",
+        "dest_city": "JOACABA/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 2065.84,
+        "frete_rs": 4400.48,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "10/11/2026 05:14:02",
+          "lat": -27.2063238,
+          "lon": -49.6489988
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2065.84,
+        "frete_rs": 4400.48,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-10T05:17:36"
 }
