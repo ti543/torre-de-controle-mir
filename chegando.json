@@ -13,10 +13,10 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:30:20",
-          "lat": -28.4685521,
-          "lon": -49.0191196
+          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:43:16",
+          "lat": -28.4685466,
+          "lon": -49.0190995
         },
         "distancia_km": 178.2,
         "proximo": false
@@ -33,10 +33,10 @@
         "frete_rs": 588.91,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "10/11/2026 14:30:20",
-          "lat": -28.4685521,
-          "lon": -49.0191196
+          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "10/11/2026 14:43:16",
+          "lat": -28.4685466,
+          "lon": -49.0190995
         },
         "distancia_km": 178.2,
         "proximo": false
@@ -69,10 +69,50 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:30:18",
-          "lat": -27.8238176,
-          "lon": -50.362896
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 14:44:18",
+          "lat": -27.82384,
+          "lon": -50.3625728
+        },
+        "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001609-8",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1433.0,
+        "frete_rs": 2023.61,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 14:44:18",
+          "lat": -27.82384,
+          "lon": -50.3625728
+        },
+        "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001610-1",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 2000.0,
+        "frete_rs": 1800.0,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 14:44:18",
+          "lat": -27.82384,
+          "lon": -50.3625728
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,10 +129,10 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:30:18",
-          "lat": -27.8238176,
-          "lon": -50.362896
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "10/11/2026 14:44:18",
+          "lat": -27.82384,
+          "lon": -50.3625728
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -100,44 +140,13 @@
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 2563.22,
-        "frete_rs": 4837.03,
-        "qtde": 1
+        "peso_kg": 5996.219999999999,
+        "frete_rs": 8660.64,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 4672.13,
         "frete_rs": 5345.49,
-        "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "POA016225-6",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 2000.0,
-        "frete_rs": 1800.0,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 14:30:18",
-          "lat": -27.8238176,
-          "lon": -50.362896
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 2000.0,
-        "frete_rs": 1800.0,
         "qtde": 1
       }
     }
@@ -156,10 +165,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de ZANOTELLI TRANSPORTES E LOGISTICA LTDA - XANXERE/SC",
-          "data_hora_posicao": "10/11/2026 14:29:52",
-          "lat": -26.8822888,
-          "lon": -52.4049921
+          "referencia": "0.13 km de CORDEIRO INDÚSTRIA E COMÉRCIO DE FARINHA E GORDURA ANIMAL LTDA - XANXERE/SC",
+          "data_hora_posicao": "10/11/2026 14:46:03",
+          "lat": -26.9100721,
+          "lon": -52.3911365
         },
         "distancia_km": null,
         "proximo": false
@@ -187,10 +196,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:31:02",
-          "lat": -29.1463872,
-          "lon": -51.1648032
+          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:45:02",
+          "lat": -29.1502528,
+          "lon": -51.171712
         },
         "distancia_km": null,
         "proximo": false
@@ -218,12 +227,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:31:02",
-          "lat": -29.1463872,
-          "lon": -51.1648032
+          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:45:02",
+          "lat": -29.1502528,
+          "lon": -51.171712
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.6,
         "proximo": false
       },
       {
@@ -238,12 +247,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 14:31:02",
-          "lat": -29.1463872,
-          "lon": -51.1648032
+          "referencia": "0.5 km de POSTO PETROBRAS JUVENTUDE RS - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "10/11/2026 14:45:02",
+          "lat": -29.1502528,
+          "lon": -51.171712
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.6,
         "proximo": false
       }
     ],
@@ -255,5 +264,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T14:32:45"
+  "_gerado_em": "2026-11-10T14:47:38"
 }
