@@ -13,12 +13,12 @@
         "frete_rs": 1368.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 00:15:27",
-          "lat": -26.88736,
-          "lon": -48.721184
+          "referencia": "0.18 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 00:30:03",
+          "lat": -26.8660352,
+          "lon": -48.7298368
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de PEDAGIO - GARUVA - GARUVA/SC",
-          "data_hora_posicao": "10/11/2026 00:14:36",
-          "lat": -25.9988768,
-          "lon": -48.8780928
+          "referencia": "3.19 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "10/11/2026 00:30:36",
+          "lat": -26.1251984,
+          "lon": -48.8858048
         },
-        "distancia_km": 154.6,
+        "distancia_km": 142.1,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.21 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 00:16:00",
-          "lat": -23.8707472,
-          "lon": -46.9598848
+          "referencia": "1.57 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "10/11/2026 00:30:00",
+          "lat": -23.9384224,
+          "lon": -47.086064
         },
-        "distancia_km": 458.6,
+        "distancia_km": 445.1,
         "proximo": false
       },
       {
@@ -77,6 +77,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024044-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3529.36,
+        "frete_rs": 6307.81,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.18 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "10/11/2026 00:30:03",
+          "lat": -26.8660352,
+          "lon": -48.7298368
+        },
+        "distancia_km": 98.6,
+        "proximo": false
+      },
+      {
         "manif": "POA016226-4",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -89,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 00:14:17",
+          "data_hora_posicao": "10/11/2026 00:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -107,6 +127,11 @@
         "peso_kg": 29124.33,
         "frete_rs": 42772.270000000004,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 3529.36,
+        "frete_rs": 6307.81,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 4672.13,
@@ -129,12 +154,12 @@
         "frete_rs": 4858.2,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "6.16 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "10/11/2026 00:12:55",
-          "lat": -24.1201936,
-          "lon": -47.2663232
+          "referencia": "0.23 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
+          "data_hora_posicao": "10/11/2026 00:29:12",
+          "lat": -24.0189072,
+          "lon": -47.1704096
         },
-        "distancia_km": 109.1,
+        "distancia_km": 94.4,
         "proximo": false
       },
       {
@@ -149,12 +174,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "09/11/2026 23:43:03",
-          "lat": -25.9057072,
-          "lon": -48.9209024
+          "referencia": "0.5 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
+          "data_hora_posicao": "10/11/2026 00:30:23",
+          "lat": -25.8884544,
+          "lon": -48.9340672
         },
-        "distancia_km": 367.4,
+        "distancia_km": 366.9,
         "proximo": false
       },
       {
@@ -170,7 +195,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 00:14:26",
+          "data_hora_posicao": "10/11/2026 00:30:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -190,7 +215,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 00:14:26",
+          "data_hora_posicao": "10/11/2026 00:30:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -280,12 +305,12 @@
         "frete_rs": 11222.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
-          "data_hora_posicao": "10/11/2026 00:15:04",
-          "lat": -24.7150304,
-          "lon": -48.0318656
+          "referencia": "1.12 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "10/11/2026 00:31:04",
+          "lat": -24.7760784,
+          "lon": -48.1975776
         },
-        "distancia_km": 251.2,
+        "distancia_km": 240.6,
         "proximo": false
       },
       {
@@ -326,12 +351,12 @@
         "frete_rs": 5785.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "10/11/2026 00:06:19",
-          "lat": -24.0507648,
-          "lon": -47.2088064
+          "referencia": "1.83 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "10/11/2026 00:26:19",
+          "lat": -24.1701888,
+          "lon": -47.339008
         },
-        "distancia_km": 267.1,
+        "distancia_km": 248.5,
         "proximo": false
       },
       {
@@ -347,7 +372,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 00:16:07",
+          "data_hora_posicao": "10/11/2026 00:30:07",
           "lat": -26.8874464,
           "lon": -48.720912
         },
@@ -383,7 +408,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 00:14:21",
+          "data_hora_posicao": "10/11/2026 00:29:13",
           "lat": -22.846945,
           "lon": -47.1247733333333
         },
@@ -403,7 +428,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "10/11/2026 00:14:21",
+          "data_hora_posicao": "10/11/2026 00:29:13",
           "lat": -22.846945,
           "lon": -47.1247733333333
         },
@@ -459,12 +484,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.91 km de GOSTINHO BRASILEIRO - MARACAJA/SC",
-          "data_hora_posicao": "10/11/2026 00:15:35",
-          "lat": -28.8407776,
-          "lon": -49.4269792
+          "referencia": "0.05 km de POSTO NOVO POSTO - MARACAJA/SC",
+          "data_hora_posicao": "10/11/2026 00:29:35",
+          "lat": -28.8700192,
+          "lon": -49.4525984
         },
-        "distancia_km": 212.6,
+        "distancia_km": 208.6,
         "proximo": false
       }
     ],
@@ -491,7 +516,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 00:14:17",
+          "data_hora_posicao": "10/11/2026 00:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -522,7 +547,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "10/11/2026 00:14:17",
+          "data_hora_posicao": "10/11/2026 00:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -538,5 +563,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T00:17:47"
+  "_gerado_em": "2026-11-10T00:32:36"
 }
