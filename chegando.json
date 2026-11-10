@@ -1,105 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010376-4",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 1568.73,
-        "frete_rs": 3104.57,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.03 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 20:59:44",
-          "lat": -23.4726666666667,
-          "lon": -46.4625533333333
-        },
-        "distancia_km": 0.2,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013578-0",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 5260.54,
-        "frete_rs": 4858.2,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.11 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "09/11/2026 20:59:12",
-          "lat": -25.0768128,
-          "lon": -48.594272
-        },
-        "distancia_km": 280.4,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044269-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 5918.0,
-        "frete_rs": 2961.51,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.57 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
-          "data_hora_posicao": "09/11/2026 21:00:26",
-          "lat": -26.8764672,
-          "lon": -49.124512
-        },
-        "distancia_km": 463.9,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044271-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6060.28,
-        "frete_rs": 5782.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.57 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
-          "data_hora_posicao": "09/11/2026 21:00:26",
-          "lat": -26.8764672,
-          "lon": -49.124512
-        },
-        "distancia_km": 463.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1568.73,
-        "frete_rs": 3104.57,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 5260.54,
-        "frete_rs": 4858.2,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 11978.279999999999,
-        "frete_rs": 8743.53,
-        "qtde": 2
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -114,12 +13,12 @@
         "frete_rs": 528.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.08 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "09/11/2026 20:59:27",
-          "lat": -26.408168,
-          "lon": -48.8374048
+          "referencia": "0.53 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
+          "data_hora_posicao": "09/11/2026 21:15:27",
+          "lat": -26.5333424,
+          "lon": -48.7138848
         },
-        "distancia_km": 54.5,
+        "distancia_km": 39.4,
         "proximo": false
       },
       {
@@ -134,12 +33,12 @@
         "frete_rs": 11222.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de MULTIEIXO MANUTNEÇÃO - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 20:59:04",
-          "lat": -23.4800096,
-          "lon": -46.5212416
+          "referencia": "0.59 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 21:15:04",
+          "lat": -23.5176528,
+          "lon": -46.643968
         },
-        "distancia_km": 438.8,
+        "distancia_km": 429.0,
         "proximo": false
       },
       {
@@ -154,13 +53,13 @@
         "frete_rs": 1453.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.57 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
-          "data_hora_posicao": "09/11/2026 21:00:26",
-          "lat": -26.8764672,
-          "lon": -49.124512
+          "referencia": "0.91 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "09/11/2026 21:14:26",
+          "lat": -26.8854144,
+          "lon": -48.994096
         },
-        "distancia_km": 40.0,
-        "proximo": false
+        "distancia_km": 27.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -195,12 +94,12 @@
         "frete_rs": 1368.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.08 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "09/11/2026 20:59:27",
-          "lat": -26.408168,
-          "lon": -48.8374048
+          "referencia": "0.53 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
+          "data_hora_posicao": "09/11/2026 21:15:27",
+          "lat": -26.5333424,
+          "lon": -48.7138848
         },
-        "distancia_km": 119.9,
+        "distancia_km": 119.2,
         "proximo": false
       },
       {
@@ -215,12 +114,32 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.62 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "09/11/2026 21:00:36",
-          "lat": -24.7746016,
-          "lon": -48.2022656
+          "referencia": "1.29 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "09/11/2026 21:14:12",
+          "lat": -24.8760576,
+          "lon": -48.2264832
         },
-        "distancia_km": 306.6,
+        "distancia_km": 295.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074430-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 10171.68,
+        "frete_rs": 9655.32,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "09/11/2026 21:16:00",
+          "lat": -23.4705184,
+          "lon": -46.462048
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -236,7 +155,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 21:00:16",
+          "data_hora_posicao": "09/11/2026 21:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -251,9 +170,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 9099.62,
-        "frete_rs": 16188.47,
-        "qtde": 1
+        "peso_kg": 19271.300000000003,
+        "frete_rs": 25843.79,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 4672.13,
@@ -262,63 +181,103 @@
       }
     }
   },
-  "TBO": {
+  "GRU": {
     "veiculos": [
       {
-        "manif": "GRU074369-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 43.75,
-        "frete_rs": 96.29,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "manif": "CTB013578-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 5260.54,
+        "frete_rs": 4858.2,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.64 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "09/11/2026 21:11:13",
+          "lat": -24.97588,
+          "lon": -48.5019712
+        },
+        "distancia_km": 266.1,
         "proximo": false
       },
       {
-        "manif": "ITJ024039-7",
+        "manif": "ITJ024043-5",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6292.6,
-        "frete_rs": 7517.18,
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 11596.03,
+        "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "09/11/2026 21:15:03",
+          "lat": -26.887424,
+          "lon": -48.7211808
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
-        "manif": "ITJ024040-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 52.0,
-        "frete_rs": 130.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "manif": "RSL044269-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 5918.0,
+        "frete_rs": 2961.51,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.91 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "09/11/2026 21:14:26",
+          "lat": -26.8854144,
+          "lon": -48.994096
+        },
+        "distancia_km": 457.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044271-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 6060.28,
+        "frete_rs": 5782.02,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.91 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "09/11/2026 21:14:26",
+          "lat": -26.8854144,
+          "lon": -48.994096
+        },
+        "distancia_km": 457.2,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 43.75,
-        "frete_rs": 96.29,
+      "Curitiba": {
+        "peso_kg": 5260.54,
+        "frete_rs": 4858.2,
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 6344.6,
-        "frete_rs": 7647.18,
+        "peso_kg": 11596.03,
+        "frete_rs": 15341.93,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 11978.279999999999,
+        "frete_rs": 8743.53,
         "qtde": 2
       }
     }
@@ -337,12 +296,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "09/11/2026 20:59:35",
-          "lat": -27.2484448,
-          "lon": -48.6311008
+          "referencia": "1.01 km de POSTO TIJUQUINHAS APOLO VIII (BRASKEM PARADA PROIBIDA PARA PERNOITE) - BIGUACU/SC",
+          "data_hora_posicao": "09/11/2026 21:15:35",
+          "lat": -27.4317728,
+          "lon": -48.6238336
         },
-        "distancia_km": 393.3,
+        "distancia_km": 378.1,
         "proximo": false
       }
     ],
@@ -369,7 +328,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 21:00:16",
+          "data_hora_posicao": "09/11/2026 21:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -400,7 +359,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 21:00:16",
+          "data_hora_posicao": "09/11/2026 21:14:16",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -416,5 +375,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T21:02:27"
+  "_gerado_em": "2026-11-09T21:17:34"
 }
