@@ -13,12 +13,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.08 km de CAMPAGNARO PECAS E ACESSORIOS LTDA - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:30:18",
-          "lat": -28.5221152,
-          "lon": -50.9435872
+          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:44:18",
+          "lat": -28.4226752,
+          "lon": -50.865952
         },
-        "distancia_km": 193.9,
+        "distancia_km": 180.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
-          "data_hora_posicao": "10/11/2026 10:28:00",
-          "lat": -27.0364384,
-          "lon": -49.391296
+          "referencia": "0.38 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "10/11/2026 10:44:00",
+          "lat": -27.0584128,
+          "lon": -49.3903072
         },
-        "distancia_km": 31.8,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.08 km de CAMPAGNARO PECAS E ACESSORIOS LTDA - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:30:18",
-          "lat": -28.5221152,
-          "lon": -50.9435872
+          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:44:18",
+          "lat": -28.4226752,
+          "lon": -50.865952
         },
-        "distancia_km": 193.9,
+        "distancia_km": 180.6,
         "proximo": false
       }
     ],
@@ -95,37 +95,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074427-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 4237.45,
-        "frete_rs": 11222.73,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.97 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "10/11/2026 10:31:04",
-          "lat": -26.8819552,
-          "lon": -48.8606976
-        },
-        "distancia_km": 13.9,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 4237.45,
-        "frete_rs": 11222.73,
-        "qtde": 1
-      }
-    }
-  },
   "TBO": {
     "veiculos": [
       {
@@ -139,6 +108,21 @@
         "peso_real_kg": 6488.4,
         "frete_rs": 9676.55,
         "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024055-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 704.55,
+        "frete_rs": 1158.37,
+        "grupo_origem": "Itajaí",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -165,6 +149,11 @@
         "frete_rs": 9676.55,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 704.55,
+        "frete_rs": 1158.37,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 3010.73,
         "frete_rs": 1746.26,
@@ -186,12 +175,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.49 km de 2º DISTRITO POLICIAL - SAO PAULO/SP",
-          "data_hora_posicao": "10/11/2026 10:31:04",
-          "lat": -23.5186688,
-          "lon": -46.644512
+          "referencia": "0.26 km de ASSAI ATACADISTA LTDA (DUTRA) - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 10:45:04",
+          "lat": -23.4775472,
+          "lon": -46.5280832
         },
-        "distancia_km": 19.3,
+        "distancia_km": 6.8,
         "proximo": true
       },
       {
@@ -206,12 +195,12 @@
         "frete_rs": 14372.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:31:36",
-          "lat": -23.793064,
-          "lon": -46.9149856
+          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 10:44:26",
+          "lat": -23.7120832,
+          "lon": -46.8778528
         },
-        "distancia_km": 58.4,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -226,12 +215,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:31:36",
-          "lat": -23.793064,
-          "lon": -46.9149856
+          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 10:44:26",
+          "lat": -23.7120832,
+          "lon": -46.8778528
         },
-        "distancia_km": 58.4,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -246,12 +235,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 10:31:36",
-          "lat": -23.793064,
-          "lon": -46.9149856
+          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "10/11/2026 10:44:26",
+          "lat": -23.7120832,
+          "lon": -46.8778528
         },
-        "distancia_km": 58.4,
+        "distancia_km": 50.1,
         "proximo": false
       },
       {
@@ -332,10 +321,10 @@
         "frete_rs": 255.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.77 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 10:32:18",
-          "lat": -28.7012313,
-          "lon": -49.1964276
+          "referencia": "0.33 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "10/11/2026 10:45:15",
+          "lat": -28.7881098,
+          "lon": -49.342485
         },
         "distancia_km": null,
         "proximo": false
@@ -363,10 +352,10 @@
         "frete_rs": 4311.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.77 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 10:32:18",
-          "lat": -28.7012313,
-          "lon": -49.1964276
+          "referencia": "0.33 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "10/11/2026 10:45:15",
+          "lat": -28.7881098,
+          "lon": -49.342485
         },
         "distancia_km": null,
         "proximo": false
@@ -394,10 +383,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.08 km de CAMPAGNARO PECAS E ACESSORIOS LTDA - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:30:18",
-          "lat": -28.5221152,
-          "lon": -50.9435872
+          "referencia": "5.79 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:44:18",
+          "lat": -28.4226752,
+          "lon": -50.865952
         },
         "distancia_km": null,
         "proximo": false
@@ -414,10 +403,10 @@
         "frete_rs": 3024.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:31:02",
-          "lat": -28.5118784,
-          "lon": -50.9323616
+          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:41:02",
+          "lat": -28.5390976,
+          "lon": -50.969664
         },
         "distancia_km": null,
         "proximo": false
@@ -434,10 +423,10 @@
         "frete_rs": 2808.81,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:31:02",
-          "lat": -28.5118784,
-          "lon": -50.9323616
+          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:41:02",
+          "lat": -28.5390976,
+          "lon": -50.969664
         },
         "distancia_km": null,
         "proximo": false
@@ -470,10 +459,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.6 km de POSTO RUSSI - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "10/11/2026 10:30:44",
-          "lat": -27.3671,
-          "lon": -51.259109
+          "referencia": "4.97 km de POSTO NOSSA SENHORA DE LOURDES - ERVAL VELHO/SC",
+          "data_hora_posicao": "10/11/2026 10:44:34",
+          "lat": -27.3027905,
+          "lon": -51.3879641
         },
         "distancia_km": null,
         "proximo": false
@@ -501,10 +490,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:31:02",
-          "lat": -28.5118784,
-          "lon": -50.9323616
+          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:41:02",
+          "lat": -28.5390976,
+          "lon": -50.969664
         },
         "distancia_km": null,
         "proximo": false
@@ -532,12 +521,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:31:02",
-          "lat": -28.5118784,
-          "lon": -50.9323616
+          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:41:02",
+          "lat": -28.5390976,
+          "lon": -50.969664
         },
-        "distancia_km": 165.5,
+        "distancia_km": 162.0,
         "proximo": false
       },
       {
@@ -552,12 +541,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de VIP AUTO POSTO (POSTOS MARASCHIN GNV) - VACARIA/RS",
-          "data_hora_posicao": "10/11/2026 10:31:02",
-          "lat": -28.5118784,
-          "lon": -50.9323616
+          "referencia": "0.34 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "10/11/2026 10:41:02",
+          "lat": -28.5390976,
+          "lon": -50.969664
         },
-        "distancia_km": 165.5,
+        "distancia_km": 162.0,
         "proximo": false
       }
     ],
@@ -569,5 +558,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T10:33:59"
+  "_gerado_em": "2026-11-10T10:47:34"
 }
