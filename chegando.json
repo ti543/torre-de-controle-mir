@@ -14,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:29:27",
-          "lat": -26.8873696,
-          "lon": -48.7212096
+          "data_hora_posicao": "09/11/2026 22:45:27",
+          "lat": -26.8873568,
+          "lon": -48.7212032
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.74 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "09/11/2026 22:30:36",
-          "lat": -25.2036496,
-          "lon": -48.8959232
+          "referencia": "2.87 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "09/11/2026 22:44:36",
+          "lat": -25.3069504,
+          "lon": -48.9888512
         },
-        "distancia_km": 235.0,
+        "distancia_km": 221.2,
         "proximo": false
       },
       {
@@ -53,12 +53,27 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO DE MOLAS HORA CERTA - ARUJA/SP",
-          "data_hora_posicao": "09/11/2026 22:30:00",
-          "lat": -23.4162528,
-          "lon": -46.3714912
+          "referencia": "1.89 km de BORRACHARIA - SUZANO/SP",
+          "data_hora_posicao": "09/11/2026 22:46:00",
+          "lat": -23.5682608,
+          "lon": -46.3426656
         },
-        "distancia_km": 534.9,
+        "distancia_km": 523.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074436-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 9853.03,
+        "frete_rs": 16928.48,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -74,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:30:17",
+          "data_hora_posicao": "09/11/2026 22:44:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -89,9 +104,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 19271.300000000003,
-        "frete_rs": 25843.79,
-        "qtde": 2
+        "peso_kg": 29124.33,
+        "frete_rs": 42772.270000000004,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 4672.13,
@@ -114,12 +129,12 @@
         "frete_rs": 4858.2,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "09/11/2026 22:29:12",
-          "lat": -24.7858272,
-          "lon": -48.1751264
+          "referencia": "0.34 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "09/11/2026 22:45:12",
+          "lat": -24.7215936,
+          "lon": -48.0793312
         },
-        "distancia_km": 227.2,
+        "distancia_km": 215.2,
         "proximo": false
       },
       {
@@ -134,12 +149,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.81 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
-          "data_hora_posicao": "09/11/2026 22:29:03",
-          "lat": -26.4538512,
-          "lon": -48.7795456
+          "referencia": "0.12 km de POSTO MAKRO - JOINVILLE/SC",
+          "data_hora_posicao": "09/11/2026 22:45:03",
+          "lat": -26.3043312,
+          "lon": -48.881584
         },
-        "distancia_km": 405.7,
+        "distancia_km": 398.5,
         "proximo": false
       },
       {
@@ -155,7 +170,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:30:26",
+          "data_hora_posicao": "09/11/2026 22:44:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -175,11 +190,26 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:30:26",
+          "data_hora_posicao": "09/11/2026 22:44:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
         "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016376-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 12248.71,
+        "frete_rs": 17255.77,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -198,6 +228,11 @@
         "peso_kg": 11978.279999999999,
         "frete_rs": 8743.53,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 12248.71,
+        "frete_rs": 17255.77,
+        "qtde": 1
       }
     }
   },
@@ -215,12 +250,12 @@
         "frete_rs": 11222.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.5 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "09/11/2026 22:29:04",
-          "lat": -23.9665744,
-          "lon": -47.1310208
+          "referencia": "6.73 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "09/11/2026 22:45:04",
+          "lat": -24.0919344,
+          "lon": -47.2565088
         },
-        "distancia_km": 361.9,
+        "distancia_km": 343.8,
         "proximo": false
       },
       {
@@ -250,12 +285,12 @@
         "frete_rs": 363.01,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "09/11/2026 22:30:20",
-          "lat": -27.0838368,
-          "lon": -49.44992
+          "referencia": "2.05 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "09/11/2026 22:44:31",
+          "lat": -26.993936,
+          "lon": -49.3758688
         },
-        "distancia_km": 75.4,
+        "distancia_km": 66.0,
         "proximo": false
       }
     ],
@@ -286,12 +321,12 @@
         "frete_rs": 5785.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.74 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "09/11/2026 22:29:46",
-          "lat": -23.6922432,
-          "lon": -46.409904
+          "referencia": "0.28 km de PEDAGIO - P3 (SENTIDO IMIGRANTES SP) - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "09/11/2026 22:45:46",
+          "lat": -23.76316,
+          "lon": -46.590144
         },
-        "distancia_km": 356.0,
+        "distancia_km": 336.5,
         "proximo": false
       },
       {
@@ -306,12 +341,12 @@
         "frete_rs": 6752.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "09/11/2026 22:30:20",
-          "lat": -27.0838368,
-          "lon": -49.44992
+          "referencia": "2.05 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "09/11/2026 22:44:31",
+          "lat": -26.993936,
+          "lon": -49.3758688
         },
-        "distancia_km": 173.7,
+        "distancia_km": 163.2,
         "proximo": false
       }
     ],
@@ -342,10 +377,10 @@
         "frete_rs": 301.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.55 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 22:29:15",
-          "lat": -23.5153816666667,
-          "lon": -46.6615633333333
+          "referencia": "0.82 km de PEDAGIO - PRACA 03 (BANDEIRANTES EXTERNA) - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:45:15",
+          "lat": -23.4198783333333,
+          "lon": -46.76243
         },
         "distancia_km": null,
         "proximo": false
@@ -362,10 +397,10 @@
         "frete_rs": 2630.1,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.55 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 22:29:15",
-          "lat": -23.5153816666667,
-          "lon": -46.6615633333333
+          "referencia": "0.82 km de PEDAGIO - PRACA 03 (BANDEIRANTES EXTERNA) - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:45:15",
+          "lat": -23.4198783333333,
+          "lon": -46.76243
         },
         "distancia_km": null,
         "proximo": false
@@ -419,12 +454,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de REFISA INDÚSTRIA E COMÉRCIO DE SAL - IMBITUBA/SC",
-          "data_hora_posicao": "09/11/2026 22:29:35",
-          "lat": -28.1696992,
-          "lon": -48.6944192
+          "referencia": "1.88 km de POSTO ROSSO - LAGUNA/SC",
+          "data_hora_posicao": "09/11/2026 22:43:35",
+          "lat": -28.3233408,
+          "lon": -48.7295456
         },
-        "distancia_km": 315.1,
+        "distancia_km": 301.7,
         "proximo": false
       }
     ],
@@ -451,7 +486,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:30:17",
+          "data_hora_posicao": "09/11/2026 22:44:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -482,7 +517,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:30:17",
+          "data_hora_posicao": "09/11/2026 22:44:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -498,5 +533,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T22:32:27"
+  "_gerado_em": "2026-11-09T22:47:34"
 }
