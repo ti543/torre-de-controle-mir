@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.31 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "10/11/2026 11:30:42",
-          "lat": -28.9752893,
-          "lon": -49.5332021
+          "referencia": "3.29 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
+          "data_hora_posicao": "10/11/2026 11:45:20",
+          "lat": -28.9015168,
+          "lon": -49.4758311
         },
-        "distancia_km": 245.5,
+        "distancia_km": 235.9,
         "proximo": false
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 4837.03,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "11.17 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:27:32",
-          "lat": -28.150528,
-          "lon": -50.66368
+          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "10/11/2026 11:37:32",
+          "lat": -28.0720896,
+          "lon": -50.5789184
         },
-        "distancia_km": 144.9,
+        "distancia_km": 132.9,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.74 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "10/11/2026 11:30:28",
-          "lat": -27.0829248,
-          "lon": -49.510944
+          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "10/11/2026 11:46:00",
+          "lat": -27.1356832,
+          "lon": -49.5436832
         },
-        "distancia_km": 19.4,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 5345.49,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "11.17 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:27:32",
-          "lat": -28.150528,
-          "lon": -50.66368
+          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "10/11/2026 11:37:32",
+          "lat": -28.0720896,
+          "lon": -50.5789184
         },
-        "distancia_km": 144.9,
+        "distancia_km": 132.9,
         "proximo": false
       }
     ],
@@ -175,26 +175,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "ITJ024043-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 11596.03,
-        "frete_rs": 15341.93,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 11:29:42",
-          "lat": -23.4706576,
-          "lon": -46.4622112
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "ITJ024045-1",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
@@ -206,12 +186,12 @@
         "frete_rs": 14372.23,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - CARAPICUIBA/SP",
-          "data_hora_posicao": "10/11/2026 11:30:26",
-          "lat": -23.5251776,
-          "lon": -46.8166528
+          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:45:45",
+          "lat": -23.5254112,
+          "lon": -46.7558176
         },
-        "distancia_km": 36.6,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -226,12 +206,12 @@
         "frete_rs": 2961.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - CARAPICUIBA/SP",
-          "data_hora_posicao": "10/11/2026 11:30:26",
-          "lat": -23.5251776,
-          "lon": -46.8166528
+          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:45:45",
+          "lat": -23.5254112,
+          "lon": -46.7558176
         },
-        "distancia_km": 36.6,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -246,12 +226,12 @@
         "frete_rs": 5782.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - CARAPICUIBA/SP",
-          "data_hora_posicao": "10/11/2026 11:30:26",
-          "lat": -23.5251776,
-          "lon": -46.8166528
+          "referencia": "0.21 km de ESTACIONAMENTO RDLK - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 11:45:45",
+          "lat": -23.5254112,
+          "lon": -46.7558176
         },
-        "distancia_km": 36.6,
+        "distancia_km": 30.5,
         "proximo": false
       },
       {
@@ -302,9 +282,9 @@
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 21931.21,
-        "frete_rs": 29714.16,
-        "qtde": 2
+        "peso_kg": 10335.18,
+        "frete_rs": 14372.23,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 40065.84,
@@ -332,10 +312,10 @@
         "frete_rs": 4311.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "10/11/2026 11:30:42",
-          "lat": -28.9752893,
-          "lon": -49.5332021
+          "referencia": "3.29 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
+          "data_hora_posicao": "10/11/2026 11:45:20",
+          "lat": -28.9015168,
+          "lon": -49.4758311
         },
         "distancia_km": null,
         "proximo": false
@@ -363,10 +343,10 @@
         "frete_rs": 1800.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "11.17 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "10/11/2026 11:27:32",
-          "lat": -28.150528,
-          "lon": -50.66368
+          "referencia": "4.81 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
+          "data_hora_posicao": "10/11/2026 11:37:32",
+          "lat": -28.0720896,
+          "lon": -50.5789184
         },
         "distancia_km": null,
         "proximo": false
@@ -384,7 +364,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:31:02",
+          "data_hora_posicao": "10/11/2026 11:45:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -404,7 +384,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:31:02",
+          "data_hora_posicao": "10/11/2026 11:45:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -439,10 +419,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "10/11/2026 11:24:23",
-          "lat": -27.1845451,
-          "lon": -51.5197931
+          "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
+          "data_hora_posicao": "10/11/2026 11:46:06",
+          "lat": -27.1847103,
+          "lon": -51.5198725
         },
         "distancia_km": null,
         "proximo": false
@@ -471,7 +451,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:31:02",
+          "data_hora_posicao": "10/11/2026 11:45:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -502,7 +482,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:31:02",
+          "data_hora_posicao": "10/11/2026 11:45:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -522,7 +502,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "10/11/2026 11:31:02",
+          "data_hora_posicao": "10/11/2026 11:45:02",
           "lat": -28.6688832,
           "lon": -51.1834912
         },
@@ -538,5 +518,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T11:32:45"
+  "_gerado_em": "2026-11-10T11:47:39"
 }
