@@ -1,105 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013576-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 299.34,
-        "frete_rs": 528.9,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:15:27",
-          "lat": -26.887376,
-          "lon": -48.721184
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074427-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 4237.45,
-        "frete_rs": 11222.73,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.07 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "09/11/2026 22:15:04",
-          "lat": -23.8965008,
-          "lon": -46.9863104
-        },
-        "distancia_km": 375.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044270-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 1715.02,
-        "frete_rs": 1453.13,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:14:26",
-          "lat": -26.8877024,
-          "lon": -48.7206752
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044277-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1142.5,
-        "frete_rs": 363.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.21 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "09/11/2026 22:14:07",
-          "lat": -27.1246048,
-          "lon": -49.5371616
-        },
-        "distancia_km": 85.0,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 299.34,
-        "frete_rs": 528.9,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 4237.45,
-        "frete_rs": 11222.73,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2857.52,
-        "frete_rs": 1816.14,
-        "qtde": 2
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -115,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:15:27",
-          "lat": -26.887376,
-          "lon": -48.721184
+          "data_hora_posicao": "09/11/2026 22:29:27",
+          "lat": -26.8873696,
+          "lon": -48.7212096
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -134,12 +33,12 @@
         "frete_rs": 16188.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "09/11/2026 22:14:36",
-          "lat": -25.1070064,
-          "lon": -48.7839104
+          "referencia": "1.74 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "09/11/2026 22:30:36",
+          "lat": -25.2036496,
+          "lon": -48.8959232
         },
-        "distancia_km": 248.9,
+        "distancia_km": 235.0,
         "proximo": false
       },
       {
@@ -154,12 +53,12 @@
         "frete_rs": 9655.32,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "09/11/2026 22:16:00",
-          "lat": -23.46916,
-          "lon": -46.4655776
+          "referencia": "0.13 km de POSTO DE MOLAS HORA CERTA - ARUJA/SP",
+          "data_hora_posicao": "09/11/2026 22:30:00",
+          "lat": -23.4162528,
+          "lon": -46.3714912
         },
-        "distancia_km": 524.4,
+        "distancia_km": 534.9,
         "proximo": false
       },
       {
@@ -175,7 +74,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:14:16",
+          "data_hora_posicao": "09/11/2026 22:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -216,7 +115,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "09/11/2026 22:15:12",
+          "data_hora_posicao": "09/11/2026 22:29:12",
           "lat": -24.7858272,
           "lon": -48.1751264
         },
@@ -235,12 +134,12 @@
         "frete_rs": 15341.93,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.46 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "09/11/2026 22:15:49",
-          "lat": -26.5868752,
-          "lon": -48.7216384
+          "referencia": "0.81 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "09/11/2026 22:29:03",
+          "lat": -26.4538512,
+          "lon": -48.7795456
         },
-        "distancia_km": 414.6,
+        "distancia_km": 405.7,
         "proximo": false
       },
       {
@@ -256,7 +155,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:14:26",
+          "data_hora_posicao": "09/11/2026 22:30:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -276,7 +175,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "09/11/2026 22:14:26",
+          "data_hora_posicao": "09/11/2026 22:30:26",
           "lat": -26.8877024,
           "lon": -48.7206752
         },
@@ -302,6 +201,77 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074427-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 4237.45,
+        "frete_rs": 11222.73,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "2.5 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "09/11/2026 22:29:04",
+          "lat": -23.9665744,
+          "lon": -47.1310208
+        },
+        "distancia_km": 361.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074434-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 1525.43,
+        "frete_rs": 1773.25,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044277-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 1142.5,
+        "frete_rs": 363.01,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "3.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "09/11/2026 22:30:20",
+          "lat": -27.0838368,
+          "lon": -49.44992
+        },
+        "distancia_km": 75.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 5762.88,
+        "frete_rs": 12995.98,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 1142.5,
+        "frete_rs": 363.01,
+        "qtde": 1
+      }
+    }
+  },
   "CTB": {
     "veiculos": [
       {
@@ -316,12 +286,12 @@
         "frete_rs": 5785.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.75 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
-          "data_hora_posicao": "09/11/2026 22:15:46",
-          "lat": -23.5339424,
-          "lon": -46.3318912
+          "referencia": "1.74 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "09/11/2026 22:29:46",
+          "lat": -23.6922432,
+          "lon": -46.409904
         },
-        "distancia_km": 372.8,
+        "distancia_km": 356.0,
         "proximo": false
       },
       {
@@ -336,12 +306,12 @@
         "frete_rs": 6752.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "09/11/2026 22:14:07",
-          "lat": -27.1246048,
-          "lon": -49.5371616
+          "referencia": "3.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "09/11/2026 22:30:20",
+          "lat": -27.0838368,
+          "lon": -49.44992
         },
-        "distancia_km": 179.2,
+        "distancia_km": 173.7,
         "proximo": false
       }
     ],
@@ -372,10 +342,10 @@
         "frete_rs": 301.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.55 km de POSTO EXTRA - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 22:15:39",
-          "lat": -23.5230383333333,
-          "lon": -46.5597633333333
+          "referencia": "0.55 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:29:15",
+          "lat": -23.5153816666667,
+          "lon": -46.6615633333333
         },
         "distancia_km": null,
         "proximo": false
@@ -392,10 +362,10 @@
         "frete_rs": 2630.1,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.55 km de POSTO EXTRA - SAO PAULO/SP",
-          "data_hora_posicao": "09/11/2026 22:15:39",
-          "lat": -23.5230383333333,
-          "lon": -46.5597633333333
+          "referencia": "0.55 km de PACAEMBU AUTOPEÇAS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "09/11/2026 22:29:15",
+          "lat": -23.5153816666667,
+          "lon": -46.6615633333333
         },
         "distancia_km": null,
         "proximo": false
@@ -406,6 +376,32 @@
         "peso_kg": 1442.92,
         "frete_rs": 2931.8199999999997,
         "qtde": 2
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074435-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 6488.4,
+        "frete_rs": 9676.55,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 6488.4,
+        "frete_rs": 9676.55,
+        "qtde": 1
       }
     }
   },
@@ -423,12 +419,12 @@
         "frete_rs": 14849.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO BELA VISTA - PAULO LOPES/SC",
-          "data_hora_posicao": "09/11/2026 22:11:35",
-          "lat": -27.9853216,
-          "lon": -48.679296
+          "referencia": "0.36 km de REFISA INDÚSTRIA E COMÉRCIO DE SAL - IMBITUBA/SC",
+          "data_hora_posicao": "09/11/2026 22:29:35",
+          "lat": -28.1696992,
+          "lon": -48.6944192
         },
-        "distancia_km": 329.9,
+        "distancia_km": 315.1,
         "proximo": false
       }
     ],
@@ -455,7 +451,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:14:16",
+          "data_hora_posicao": "09/11/2026 22:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -486,7 +482,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "09/11/2026 22:14:16",
+          "data_hora_posicao": "09/11/2026 22:30:17",
           "lat": -29.1464928,
           "lon": -51.1647744
         },
@@ -502,5 +498,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-09T22:17:35"
+  "_gerado_em": "2026-11-09T22:32:27"
 }
