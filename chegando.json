@@ -13,12 +13,12 @@
         "frete_rs": 466.04,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.42 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 13:00:49",
-          "lat": -28.694769,
-          "lon": -49.3167656
+          "referencia": "0.66 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
+          "data_hora_posicao": "10/11/2026 13:14:38",
+          "lat": -28.7455251,
+          "lon": -49.2576098
         },
-        "distancia_km": 209.3,
+        "distancia_km": 213.2,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:00:18",
+          "data_hora_posicao": "10/11/2026 13:15:30",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -65,7 +65,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 13:00:00",
+          "data_hora_posicao": "10/11/2026 13:16:00",
           "lat": -27.2061184,
           "lon": -49.6494336
         },
@@ -100,7 +100,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:00:18",
+          "data_hora_posicao": "10/11/2026 13:15:30",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -172,163 +172,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024045-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10335.18,
-        "frete_rs": 14372.23,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 13:00:57",
-          "lat": -23.4699328,
-          "lon": -46.4672576
-        },
-        "distancia_km": 0.5,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044269-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 5918.0,
-        "frete_rs": 2961.51,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 13:00:57",
-          "lat": -23.4699328,
-          "lon": -46.4672576
-        },
-        "distancia_km": 0.5,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044271-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6060.28,
-        "frete_rs": 5782.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 13:00:57",
-          "lat": -23.4699328,
-          "lon": -46.4672576
-        },
-        "distancia_km": 0.5,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044280-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 10850.96,
-        "frete_rs": 18907.44,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044281-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 17236.6,
-        "frete_rs": 12570.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016376-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 12248.71,
-        "frete_rs": 17255.77,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 10335.18,
-        "frete_rs": 14372.23,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 40065.84,
-        "frete_rs": 40221.47,
-        "qtde": 4
-      },
-      "Timbó": {
-        "peso_kg": 12248.71,
-        "frete_rs": 17255.77,
-        "qtde": 1
-      }
-    }
-  },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024047-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2900.34,
-        "frete_rs": 4311.97,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.42 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "10/11/2026 13:00:49",
-          "lat": -28.694769,
-          "lon": -49.3167656
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2900.34,
-        "frete_rs": 4311.97,
-        "qtde": 1
-      }
-    }
-  },
   "LGS": {
     "veiculos": [
       {
@@ -344,7 +187,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "10/11/2026 13:00:18",
+          "data_hora_posicao": "10/11/2026 13:15:30",
           "lat": -27.8237856,
           "lon": -50.3627424
         },
@@ -374,10 +217,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de POSTO CARRETÃO MATRIZ - VARGEM BONITA/SC",
-          "data_hora_posicao": "10/11/2026 12:50:53",
-          "lat": -26.9916056,
-          "lon": -51.7520265
+          "referencia": "1.75 km de POSTO CARRETÃO 01 - VARGEM BONITA/SC",
+          "data_hora_posicao": "10/11/2026 13:02:40",
+          "lat": -26.9797632,
+          "lon": -51.8065408
         },
         "distancia_km": null,
         "proximo": false
@@ -388,6 +231,47 @@
         "peso_kg": 2065.84,
         "frete_rs": 4400.48,
         "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044280-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 10850.96,
+        "frete_rs": 18907.44,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044281-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 17236.6,
+        "frete_rs": 12570.5,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 28087.559999999998,
+        "frete_rs": 31477.94,
+        "qtde": 2
       }
     }
   },
@@ -405,10 +289,10 @@
         "frete_rs": 3324.29,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.1 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 12:59:02",
-          "lat": -28.8665056,
-          "lon": -51.2349664
+          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "10/11/2026 13:10:32",
+          "lat": -28.9167328,
+          "lon": -51.1842816
         },
         "distancia_km": null,
         "proximo": false
@@ -436,12 +320,12 @@
         "frete_rs": 5093.25,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.1 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 12:59:02",
-          "lat": -28.8665056,
-          "lon": -51.2349664
+          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "10/11/2026 13:10:32",
+          "lat": -28.9167328,
+          "lon": -51.1842816
         },
-        "distancia_km": 124.3,
+        "distancia_km": 118.6,
         "proximo": false
       },
       {
@@ -456,12 +340,12 @@
         "frete_rs": 458.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.1 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "10/11/2026 12:59:02",
-          "lat": -28.8665056,
-          "lon": -51.2349664
+          "referencia": "1.31 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "10/11/2026 13:10:32",
+          "lat": -28.9167328,
+          "lon": -51.1842816
         },
-        "distancia_km": 124.3,
+        "distancia_km": 118.6,
         "proximo": false
       }
     ],
@@ -473,5 +357,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T13:02:32"
+  "_gerado_em": "2026-11-10T13:17:44"
 }
