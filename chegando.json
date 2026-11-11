@@ -1,95 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074492-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 3851.36,
-        "frete_rs": 7220.69,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:44:58",
-          "lat": -27.2059616666667,
-          "lon": -49.6488633333333
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074499-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 7368.54,
-        "frete_rs": 15477.54,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074501-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 15189.23,
-        "frete_rs": 15125.87,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.91 km de BR COLD - GARUVA/SC",
-          "data_hora_posicao": "11/11/2026 07:44:10",
-          "lat": -26.0773088,
-          "lon": -48.8614208
-        },
-        "distancia_km": 148.0,
-        "proximo": false
-      },
-      {
-        "manif": "POA016232-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3163.14,
-        "frete_rs": 2488.58,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:45:35",
-          "lat": -29.1462048,
-          "lon": -51.1648128
-        },
-        "distancia_km": 261.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 26409.129999999997,
-        "frete_rs": 37824.1,
-        "qtde": 3
-      },
-      "Porto Alegre": {
-        "peso_kg": 3163.14,
-        "frete_rs": 2488.58,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -105,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 07:43:41",
+          "data_hora_posicao": "11/11/2026 07:59:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -125,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "11/11/2026 07:45:04",
-          "lat": -25.710376,
-          "lon": -49.1406368
+          "data_hora_posicao": "11/11/2026 07:59:59",
+          "lat": -25.7102752,
+          "lon": -49.140432
         },
         "distancia_km": 137.4,
         "proximo": false
@@ -156,9 +65,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "11/11/2026 07:45:04",
-          "lat": -25.710376,
-          "lon": -49.1406368
+          "data_hora_posicao": "11/11/2026 07:59:59",
+          "lat": -25.7102752,
+          "lon": -49.140432
         },
         "distancia_km": 515.9,
         "proximo": false
@@ -175,12 +84,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 07:46:00",
-          "lat": -27.82088,
-          "lon": -50.3621664
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 08:00:00",
+          "lat": -27.8238144,
+          "lon": -50.3625984
         },
-        "distancia_km": 253.5,
+        "distancia_km": 253.2,
         "proximo": false
       }
     ],
@@ -226,11 +135,26 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de BR COLD - GARUVA/SC",
-          "data_hora_posicao": "11/11/2026 07:44:10",
-          "lat": -26.0773088,
-          "lon": -48.8614208
+          "referencia": "0.5 km de FILIAL MIRIN - JOINVILLE/SC",
+          "data_hora_posicao": "11/11/2026 08:00:10",
+          "lat": -26.2365584,
+          "lon": -48.9148896
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044320-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 2602.86,
+        "frete_rs": 3597.81,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
@@ -240,6 +164,82 @@
         "peso_kg": 11107.0,
         "frete_rs": 11708.2,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 2602.86,
+        "frete_rs": 3597.81,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "GRU074499-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 7368.54,
+        "frete_rs": 15477.54,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074501-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 15189.23,
+        "frete_rs": 15125.87,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.5 km de FILIAL MIRIN - JOINVILLE/SC",
+          "data_hora_posicao": "11/11/2026 08:00:10",
+          "lat": -26.2365584,
+          "lon": -48.9148896
+        },
+        "distancia_km": 130.2,
+        "proximo": false
+      },
+      {
+        "manif": "POA016232-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 3163.14,
+        "frete_rs": 2488.58,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 07:59:35",
+          "lat": -29.1462048,
+          "lon": -51.1648128
+        },
+        "distancia_km": 261.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 22557.77,
+        "frete_rs": 30603.410000000003,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 3163.14,
+        "frete_rs": 2488.58,
+        "qtde": 1
       }
     }
   },
@@ -257,12 +257,12 @@
         "frete_rs": 8473.07,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:45:04",
-          "lat": -24.1437664,
-          "lon": -47.2880256
+          "referencia": "2.52 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:59:04",
+          "lat": -24.062096,
+          "lon": -47.2294624
         },
-        "distancia_km": 112.5,
+        "distancia_km": 102.1,
         "proximo": false
       },
       {
@@ -277,12 +277,12 @@
         "frete_rs": 12610.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:45:04",
-          "lat": -24.1437664,
-          "lon": -47.2880256
+          "referencia": "2.52 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:59:04",
+          "lat": -24.062096,
+          "lon": -47.2294624
         },
-        "distancia_km": 112.5,
+        "distancia_km": 102.1,
         "proximo": false
       },
       {
@@ -312,12 +312,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 07:44:36",
-          "lat": -23.8994832,
-          "lon": -46.9882432
+          "referencia": "0.12 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 08:00:40",
+          "lat": -23.7859728,
+          "lon": -46.9135328
         },
-        "distancia_km": 71.7,
+        "distancia_km": 57.8,
         "proximo": false
       },
       {
@@ -399,7 +399,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:45:35",
+          "data_hora_posicao": "11/11/2026 07:59:35",
           "lat": -29.1462048,
           "lon": -51.1648128
         },
@@ -418,10 +418,10 @@
         "frete_rs": 2019.83,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 07:46:00",
-          "lat": -27.82088,
-          "lon": -50.3621664
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 08:00:00",
+          "lat": -27.8238144,
+          "lon": -50.3625984
         },
         "distancia_km": null,
         "proximo": false
@@ -455,7 +455,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.74 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 07:44:03",
+          "data_hora_posicao": "11/11/2026 08:00:03",
           "lat": -27.0990643,
           "lon": -52.6211845
         },
@@ -485,10 +485,10 @@
         "frete_rs": 5943.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 07:46:00",
-          "lat": -27.82088,
-          "lon": -50.3621664
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 08:00:00",
+          "lat": -27.8238144,
+          "lon": -50.3625984
         },
         "distancia_km": null,
         "proximo": false
@@ -505,10 +505,10 @@
         "frete_rs": 129.79,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 07:46:00",
-          "lat": -27.82088,
-          "lon": -50.3621664
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 08:00:00",
+          "lat": -27.8238144,
+          "lon": -50.3625984
         },
         "distancia_km": null,
         "proximo": false
@@ -522,5 +522,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T07:47:46"
+  "_gerado_em": "2026-11-11T08:02:36"
 }
