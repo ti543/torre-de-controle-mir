@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:15:35",
+          "data_hora_posicao": "11/11/2026 15:29:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:15:35",
+          "data_hora_posicao": "11/11/2026 15:29:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.36 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 15:14:14",
-          "lat": -24.2936176,
-          "lon": -47.4778816
+          "referencia": "1.95 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "11/11/2026 15:28:14",
+          "lat": -24.3407616,
+          "lon": -47.6456768
         },
-        "distancia_km": 314.2,
+        "distancia_km": 303.0,
         "proximo": false
       }
     ],
@@ -100,12 +100,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 15:15:04",
-          "lat": -26.8876,
-          "lon": -48.7206944
+          "referencia": "0.16 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 15:29:04",
+          "lat": -26.8903904,
+          "lon": -48.7213984
         },
-        "distancia_km": 420.2,
+        "distancia_km": 419.9,
         "proximo": false
       },
       {
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO SIM - FARROUPILHA/RS - FARROUPILHA/RS",
-          "data_hora_posicao": "11/11/2026 15:14:00",
-          "lat": -29.2209856,
-          "lon": -51.3324352
+          "referencia": "4.24 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "11/11/2026 15:30:00",
+          "lat": -29.304416,
+          "lon": -51.3383328
         },
-        "distancia_km": 85.9,
+        "distancia_km": 76.9,
         "proximo": false
       }
     ],
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.36 km de PÁTIO MZ - PINHALZINHO/SC",
-          "data_hora_posicao": "11/11/2026 15:15:30",
-          "lat": -26.866692,
-          "lon": -52.9662113
+          "referencia": "0.5 km de AUTO POSTO JUVENCIO - SAUDADES/SC",
+          "data_hora_posicao": "11/11/2026 15:30:06",
+          "lat": -26.8256156,
+          "lon": -53.087793
         },
         "distancia_km": null,
         "proximo": false
@@ -173,5 +173,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T15:17:40"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044333-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 4565.42,
+        "frete_rs": 3594.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 15:30:07",
+          "lat": -27.2060576,
+          "lon": -49.6493632
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 4565.42,
+        "frete_rs": 3594.22,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-11T15:32:31"
 }
