@@ -14,47 +14,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:29:35",
+          "data_hora_posicao": "11/11/2026 13:43:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "GRU074499-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 7368.54,
-        "frete_rs": 15477.54,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074501-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 15189.23,
-        "frete_rs": 15125.87,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 13:30:11",
-          "lat": -27.205968,
-          "lon": -49.6489568
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016232-9",
@@ -69,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:29:35",
+          "data_hora_posicao": "11/11/2026 13:43:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -82,11 +47,6 @@
         "peso_kg": 982.4,
         "frete_rs": 3467.79,
         "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 22557.77,
-        "frete_rs": 30603.410000000003,
-        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 3163.14,
@@ -109,40 +69,20 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.58 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 13:30:47",
-          "lat": -24.1393184,
-          "lon": -47.2732576
+          "referencia": "1.56 km de POSTO LAMBARI - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 13:44:14",
+          "lat": -24.2111632,
+          "lon": -47.3705376
         },
-        "distancia_km": 338.4,
+        "distancia_km": 327.0,
         "proximo": false
-      },
-      {
-        "manif": "GRU074495-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3662.76,
-        "frete_rs": 3959.17,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 13:29:04",
-          "lat": -26.8876,
-          "lon": -48.7206944
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 10559.89,
-        "frete_rs": 15349.98,
-        "qtde": 2
+        "peso_kg": 6897.13,
+        "frete_rs": 11390.81,
+        "qtde": 1
       }
     }
   },
@@ -161,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 13:29:04",
+          "data_hora_posicao": "11/11/2026 13:45:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -181,7 +121,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:30:00",
+          "data_hora_posicao": "11/11/2026 13:44:43",
           "lat": -29.1462944,
           "lon": -51.1648512
         },
@@ -263,7 +203,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.16 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 13:29:03",
+          "data_hora_posicao": "11/11/2026 13:35:22",
           "lat": -27.087694,
           "lon": -52.5221146
         },
@@ -294,7 +234,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:30:00",
+          "data_hora_posicao": "11/11/2026 13:44:43",
           "lat": -29.1462944,
           "lon": -51.1648512
         },
@@ -310,5 +250,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T13:32:34"
+  "_gerado_em": "2026-11-11T13:47:34"
 }
