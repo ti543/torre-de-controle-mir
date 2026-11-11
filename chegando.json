@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 14:59:35",
+          "data_hora_posicao": "11/11/2026 15:15:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 14:59:35",
+          "data_hora_posicao": "11/11/2026 15:15:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 15:00:14",
-          "lat": -24.266856,
-          "lon": -47.3927648
+          "referencia": "1.36 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 15:14:14",
+          "lat": -24.2936176,
+          "lon": -47.4778816
         },
-        "distancia_km": 320.4,
+        "distancia_km": 314.2,
         "proximo": false
       }
     ],
@@ -101,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 14:59:04",
+          "data_hora_posicao": "11/11/2026 15:15:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.47 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 15:00:00",
-          "lat": -29.1858112,
-          "lon": -51.24736
+          "referencia": "0.14 km de POSTO SIM - FARROUPILHA/RS - FARROUPILHA/RS",
+          "data_hora_posicao": "11/11/2026 15:14:00",
+          "lat": -29.2209856,
+          "lon": -51.3324352
         },
-        "distancia_km": 88.9,
+        "distancia_km": 85.9,
         "proximo": false
       }
     ],
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.38 km de FRIAVES INDUSTRIAL DE ALIMENTOS LTDA - NOVA ERECHIM/SC",
-          "data_hora_posicao": "11/11/2026 15:00:19",
-          "lat": -26.9322285,
-          "lon": -52.8403203
+          "referencia": "1.36 km de PÁTIO MZ - PINHALZINHO/SC",
+          "data_hora_posicao": "11/11/2026 15:15:30",
+          "lat": -26.866692,
+          "lon": -52.9662113
         },
         "distancia_km": null,
         "proximo": false
@@ -173,5 +173,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T15:02:40"
+  "_gerado_em": "2026-11-11T15:17:40"
 }
