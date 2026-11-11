@@ -13,13 +13,13 @@
         "frete_rs": 7558.82,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.74 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "10/11/2026 21:44:07",
-          "lat": -26.4734672,
-          "lon": -48.7428032
+          "referencia": "0.38 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "10/11/2026 22:00:07",
+          "lat": -26.6454176,
+          "lon": -48.6876448
         },
-        "distancia_km": 46.1,
-        "proximo": false
+        "distancia_km": 27.1,
+        "proximo": true
       },
       {
         "manif": "GRU074494-8",
@@ -33,10 +33,10 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 21:44:00",
-          "lat": -23.4704592,
-          "lon": -46.4620096
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 22:00:00",
+          "lat": -23.4705264,
+          "lon": -46.4620832
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -53,12 +53,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 21:45:04",
-          "lat": -23.4706064,
-          "lon": -46.462352
+          "referencia": "0.08 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 21:59:04",
+          "lat": -23.4660016,
+          "lon": -46.466976
         },
-        "distancia_km": 442.7,
+        "distancia_km": 442.9,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 3244.88,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.52 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 21:45:28",
-          "lat": -27.173984,
-          "lon": -49.5880096
+          "referencia": "2.5 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "10/11/2026 22:00:50",
+          "lat": -27.0818944,
+          "lon": -49.5203072
         },
-        "distancia_km": 91.6,
+        "distancia_km": 82.1,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 122.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.52 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 21:45:28",
-          "lat": -27.173984,
-          "lon": -49.5880096
+          "referencia": "2.5 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "10/11/2026 22:00:50",
+          "lat": -27.0818944,
+          "lon": -49.5203072
         },
-        "distancia_km": 91.6,
+        "distancia_km": 82.1,
         "proximo": false
       },
       {
@@ -154,12 +154,12 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.74 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "10/11/2026 21:44:07",
-          "lat": -26.4734672,
-          "lon": -48.7428032
+          "referencia": "0.38 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "10/11/2026 22:00:07",
+          "lat": -26.6454176,
+          "lon": -48.6876448
         },
-        "distancia_km": 121.4,
+        "distancia_km": 113.9,
         "proximo": false
       },
       {
@@ -174,12 +174,27 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de POSTO PELANDA ALPINO 1 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 21:44:08",
-          "lat": -25.1037033333333,
-          "lon": -48.8081116666667
+          "referencia": "0.17 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 21:59:10",
+          "lat": -25.216205,
+          "lon": -48.90349
         },
-        "distancia_km": 248.4,
+        "distancia_km": 233.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074499-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 7368.54,
+        "frete_rs": 15477.54,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -195,7 +210,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 21:45:35",
+          "data_hora_posicao": "10/11/2026 21:59:35",
           "lat": -29.983616,
           "lon": -51.1869664
         },
@@ -210,9 +225,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 3851.36,
-        "frete_rs": 7220.69,
-        "qtde": 1
+        "peso_kg": 11219.9,
+        "frete_rs": 22698.23,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 3163.14,
@@ -235,12 +250,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "10/11/2026 21:45:46",
-          "lat": -24.9295136,
-          "lon": -48.2733728
+          "referencia": "1.1 km de LANCHONETE KM 513 - CAJATI/SP",
+          "data_hora_posicao": "10/11/2026 21:59:10",
+          "lat": -24.8461312,
+          "lon": -48.2135808
         },
-        "distancia_km": 245.1,
+        "distancia_km": 234.4,
         "proximo": false
       },
       {
@@ -255,12 +270,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de SERAFIM TRANSPORTES - JOINVILLE/SC",
-          "data_hora_posicao": "10/11/2026 21:45:47",
-          "lat": -26.3777488,
-          "lon": -48.852368
+          "referencia": "0.34 km de POSTO BAVÁRIA - JOINVILLE/SC",
+          "data_hora_posicao": "10/11/2026 22:00:36",
+          "lat": -26.216168,
+          "lon": -48.9159584
         },
-        "distancia_km": 403.2,
+        "distancia_km": 393.1,
         "proximo": false
       },
       {
@@ -311,12 +326,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 21:45:04",
-          "lat": -23.4706064,
-          "lon": -46.462352
+          "referencia": "0.08 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 21:59:04",
+          "lat": -23.4660016,
+          "lon": -46.466976
         },
-        "distancia_km": 862.6,
+        "distancia_km": 862.8,
         "proximo": false
       }
     ],
@@ -343,7 +358,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 21:45:35",
+          "data_hora_posicao": "10/11/2026 21:59:35",
           "lat": -29.983616,
           "lon": -51.1869664
         },
@@ -374,7 +389,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 21:42:03",
+          "data_hora_posicao": "10/11/2026 21:58:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -404,12 +419,12 @@
         "frete_rs": 10404.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.52 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
-          "data_hora_posicao": "10/11/2026 21:45:28",
-          "lat": -27.173984,
-          "lon": -49.5880096
+          "referencia": "2.5 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "10/11/2026 22:00:50",
+          "lat": -27.0818944,
+          "lon": -49.5203072
         },
-        "distancia_km": 185.4,
+        "distancia_km": 174.3,
         "proximo": false
       }
     ],
@@ -421,5 +436,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T21:47:36"
+  "_gerado_em": "2026-11-10T22:02:32"
 }
