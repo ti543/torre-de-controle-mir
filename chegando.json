@@ -13,12 +13,32 @@
         "frete_rs": 3467.79,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 17:29:35",
-          "lat": -27.8238336,
-          "lon": -50.36272
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 17:45:49",
+          "lat": -27.8238624,
+          "lon": -50.3625632
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074554-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 7968.72,
+        "frete_rs": 14671.56,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "11/11/2026 17:44:28",
+          "lat": -23.4708016,
+          "lon": -46.4622912
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -33,10 +53,10 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 17:29:35",
-          "lat": -27.8238336,
-          "lon": -50.36272
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 17:45:49",
+          "lat": -27.8238624,
+          "lon": -50.3625632
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -46,6 +66,11 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 982.4,
         "frete_rs": 3467.79,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 7968.72,
+        "frete_rs": 14671.56,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -69,12 +94,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.38 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 17:30:14",
-          "lat": -25.0871568,
-          "lon": -48.6043392
+          "referencia": "1.22 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "11/11/2026 17:44:14",
+          "lat": -25.1097056,
+          "lon": -48.7591552
         },
-        "distancia_km": 200.5,
+        "distancia_km": 197.7,
         "proximo": false
       }
     ],
@@ -100,12 +125,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.76 km de KLABIN S/A - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 17:31:04",
-          "lat": -26.888016,
-          "lon": -48.7030272
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 17:45:04",
+          "lat": -26.8877312,
+          "lon": -48.7207232
         },
-        "distancia_km": 421.2,
+        "distancia_km": 420.2,
         "proximo": false
       }
     ],
@@ -131,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.51 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 17:20:48",
-          "lat": -26.7315863,
-          "lon": -53.5207301
+          "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
+          "data_hora_posicao": "11/11/2026 17:44:03",
+          "lat": -26.7316366,
+          "lon": -53.5207635
         },
         "distancia_km": null,
         "proximo": false
@@ -162,12 +187,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.28 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "11/11/2026 17:30:07",
-          "lat": -27.0690656,
-          "lon": -49.4194464
+          "referencia": "3.14 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "11/11/2026 17:45:55",
+          "lat": -27.0678848,
+          "lon": -49.4186016
         },
-        "distancia_km": 498.5,
+        "distancia_km": 498.3,
         "proximo": false
       }
     ],
@@ -179,5 +204,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T17:32:43"
+  "_gerado_em": "2026-11-11T17:47:35"
 }
