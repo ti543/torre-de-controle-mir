@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 00:30:07",
+          "data_hora_posicao": "11/11/2026 00:44:07",
           "lat": -26.8875072,
           "lon": -48.7212192
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "6.49 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "11/11/2026 00:30:13",
-          "lat": -26.4519116666667,
-          "lon": -48.89253
+          "referencia": "1.78 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "11/11/2026 00:42:13",
+          "lat": -26.4924583333333,
+          "lon": -49.0024233333333
         },
-        "distancia_km": 112.6,
+        "distancia_km": 102.1,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.08 km de 36° BATALHÃO DE POLÍCIA MILITAR - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "11/11/2026 00:30:10",
-          "lat": -23.6500592,
-          "lon": -46.829408
+          "referencia": "0.66 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 00:44:10",
+          "lat": -23.7400448,
+          "lon": -46.8976352
         },
-        "distancia_km": 486.3,
+        "distancia_km": 474.1,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 00:29:35",
+          "data_hora_posicao": "11/11/2026 00:45:35",
           "lat": -29.9836544,
           "lon": -51.1869952
         },
@@ -129,12 +129,27 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.3 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 00:29:46",
-          "lat": -23.8581184,
-          "lon": -46.9433792
+          "referencia": "0.09 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 00:45:46",
+          "lat": -23.7126096,
+          "lon": -46.8781088
         },
-        "distancia_km": 65.3,
+        "distancia_km": 50.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024059-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 4824.77,
+        "frete_rs": 10108.31,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -149,12 +164,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.05 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 00:30:46",
-          "lat": -25.140024,
-          "lon": -48.85592
+          "referencia": "0.68 km de ESTACIONAMENTO POSTO DINOSSAURO SUL - ANTONINA/PR",
+          "data_hora_posicao": "11/11/2026 00:44:36",
+          "lat": -25.1061152,
+          "lon": -48.740048
         },
-        "distancia_km": 305.4,
+        "distancia_km": 293.9,
         "proximo": false
       },
       {
@@ -209,6 +224,11 @@
         "frete_rs": 9728.22,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 4824.77,
+        "frete_rs": 10108.31,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 59345.08,
         "frete_rs": 47323.22,
@@ -236,7 +256,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 00:27:41",
+          "data_hora_posicao": "11/11/2026 00:43:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -255,12 +275,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "7.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 00:30:10",
-          "lat": -24.1032944,
-          "lon": -47.2604
+          "referencia": "0.31 km de POSTO LAMBARI - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 00:45:04",
+          "lat": -24.1957696,
+          "lon": -47.3638752
         },
-        "distancia_km": 342.5,
+        "distancia_km": 328.8,
         "proximo": false
       },
       {
@@ -301,12 +321,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "7.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 00:30:10",
-          "lat": -24.1032944,
-          "lon": -47.2604
+          "referencia": "0.31 km de POSTO LAMBARI - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 00:45:04",
+          "lat": -24.1957696,
+          "lon": -47.3638752
         },
-        "distancia_km": 760.6,
+        "distancia_km": 746.4,
         "proximo": false
       }
     ],
@@ -347,10 +367,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.08 km de 36° BATALHÃO DE POLÍCIA MILITAR - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "11/11/2026 00:30:10",
-          "lat": -23.6500592,
-          "lon": -46.829408
+          "referencia": "0.66 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 00:44:10",
+          "lat": -23.7400448,
+          "lon": -46.8976352
         },
         "distancia_km": null,
         "proximo": false
@@ -378,12 +398,12 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.66 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 00:29:27",
-          "lat": -24.1468864,
-          "lon": -47.3008352
+          "referencia": "1.01 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 00:45:12",
+          "lat": -24.2772448,
+          "lon": -47.4176032
         },
-        "distancia_km": 253.1,
+        "distancia_km": 234.9,
         "proximo": false
       },
       {
@@ -399,8 +419,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 00:29:28",
-          "lat": -26.8873696,
+          "data_hora_posicao": "11/11/2026 00:45:28",
+          "lat": -26.8873792,
           "lon": -48.7211424
         },
         "distancia_km": 161.7,
@@ -435,9 +455,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 00:30:53",
-          "lat": -22.8469383333333,
-          "lon": -47.124735
+          "data_hora_posicao": "11/11/2026 00:45:17",
+          "lat": -22.8469316666667,
+          "lon": -47.1247466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -455,9 +475,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 00:30:53",
-          "lat": -22.8469383333333,
-          "lon": -47.124735
+          "data_hora_posicao": "11/11/2026 00:45:17",
+          "lat": -22.8469316666667,
+          "lon": -47.1247466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -486,7 +506,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 00:29:35",
+          "data_hora_posicao": "11/11/2026 00:45:35",
           "lat": -29.9836544,
           "lon": -51.1869952
         },
@@ -517,7 +537,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 00:27:03",
+          "data_hora_posicao": "11/11/2026 00:43:03",
           "lat": -27.0925585,
           "lon": -52.6192031
         },
@@ -533,5 +553,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T00:32:30"
+  "_gerado_em": "2026-11-11T00:47:32"
 }
