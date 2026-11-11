@@ -13,12 +13,12 @@
         "frete_rs": 11713.56,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.67 km de BORGWARNER - ITATIBA/SP",
-          "data_hora_posicao": "11/11/2026 19:29:26",
-          "lat": -22.9607216666667,
-          "lon": -46.8490883333333
+          "referencia": "0.11 km de POSTO MORRO AZUL - ITATIBA/SP",
+          "data_hora_posicao": "11/11/2026 19:44:51",
+          "lat": -23.02889,
+          "lon": -46.74844
         },
-        "distancia_km": 69.1,
+        "distancia_km": 57.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.51 km de BRENNTAG QUÍMICA BRASIL - BRUSQUE/SC",
-          "data_hora_posicao": "11/11/2026 19:30:07",
-          "lat": -27.0624896,
-          "lon": -48.8915392
+          "referencia": "0.48 km de HOTEL VENEZA - BRUSQUE/SC",
+          "data_hora_posicao": "11/11/2026 19:45:16",
+          "lat": -27.0978976,
+          "lon": -48.917008
         },
-        "distancia_km": 468.2,
+        "distancia_km": 472.8,
         "proximo": false
       },
       {
@@ -53,12 +53,27 @@
         "frete_rs": 16244.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.39 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "11/11/2026 19:30:18",
-          "lat": -27.104464,
-          "lon": -49.5239328
+          "referencia": "2.76 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "11/11/2026 19:42:18",
+          "lat": -27.0975712,
+          "lon": -49.4623808
         },
-        "distancia_km": 507.9,
+        "distancia_km": 503.6,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016405-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 11996.55,
+        "frete_rs": 17000.19,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -72,6 +87,11 @@
         "peso_kg": 35126.92,
         "frete_rs": 19838.83,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 11996.55,
+        "frete_rs": 17000.19,
+        "qtde": 1
       }
     }
   },
@@ -89,12 +109,12 @@
         "frete_rs": 3467.79,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.55 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 19:29:35",
-          "lat": -27.2923264,
-          "lon": -50.1487232
+          "referencia": "6.38 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 19:45:35",
+          "lat": -27.2606176,
+          "lon": -50.052304
         },
-        "distancia_km": 50.3,
+        "distancia_km": 40.3,
         "proximo": false
       },
       {
@@ -109,12 +129,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - MAUA/SP",
-          "data_hora_posicao": "11/11/2026 19:30:28",
-          "lat": -23.6967216,
-          "lon": -46.4737248
+          "referencia": "0.71 km de STRINGAL EQUIPAMENTOS INDUSTRIAIS - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "11/11/2026 19:44:28",
+          "lat": -23.759208,
+          "lon": -46.571152
         },
-        "distancia_km": 503.9,
+        "distancia_km": 492.3,
         "proximo": false
       },
       {
@@ -129,12 +149,12 @@
         "frete_rs": 4155.8,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.55 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 19:29:35",
-          "lat": -27.2923264,
-          "lon": -50.1487232
+          "referencia": "6.38 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 19:45:35",
+          "lat": -27.2606176,
+          "lon": -50.052304
         },
-        "distancia_km": 50.3,
+        "distancia_km": 40.3,
         "proximo": false
       },
       {
@@ -149,12 +169,12 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "8.55 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 19:29:35",
-          "lat": -27.2923264,
-          "lon": -50.1487232
+          "referencia": "6.38 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 19:45:35",
+          "lat": -27.2606176,
+          "lon": -50.052304
         },
-        "distancia_km": 50.3,
+        "distancia_km": 40.3,
         "proximo": false
       },
       {
@@ -169,27 +189,12 @@
         "frete_rs": 5661.14,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO HOFF - PORTAO/RS",
-          "data_hora_posicao": "11/11/2026 19:30:59",
-          "lat": -29.6784544,
-          "lon": -51.245968
+          "referencia": "0.53 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "11/11/2026 19:45:02",
+          "lat": -29.6191936,
+          "lon": -51.3235904
         },
-        "distancia_km": 316.1,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016404-6",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1661.33,
-        "frete_rs": 2168.58,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 314.3,
         "proximo": false
       }
     ],
@@ -208,11 +213,6 @@
         "peso_kg": 6396.9400000000005,
         "frete_rs": 8149.72,
         "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 1661.33,
-        "frete_rs": 2168.58,
-        "qtde": 1
       }
     }
   },
@@ -230,12 +230,27 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 19:30:14",
-          "lat": -25.845224,
-          "lon": -49.0762976
+          "referencia": "0.66 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "11/11/2026 19:44:14",
+          "lat": -25.865896,
+          "lon": -48.9428096
         },
-        "distancia_km": 121.2,
+        "distancia_km": 115.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016406-2",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 50.0,
+        "frete_rs": 134.09,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -243,6 +258,11 @@
       "Guarulhos": {
         "peso_kg": 6897.13,
         "frete_rs": 11390.81,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 50.0,
+        "frete_rs": 134.09,
         "qtde": 1
       }
     }
@@ -262,7 +282,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 19:29:04",
+          "data_hora_posicao": "11/11/2026 19:45:04",
           "lat": -26.8874496,
           "lon": -48.7211488
         },
@@ -282,7 +302,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 19:29:04",
+          "data_hora_posicao": "11/11/2026 19:45:04",
           "lat": -26.8874496,
           "lon": -48.7211488
         },
@@ -317,10 +337,10 @@
         "frete_rs": 141.89,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO HOFF - PORTAO/RS",
-          "data_hora_posicao": "11/11/2026 19:30:59",
-          "lat": -29.6784544,
-          "lon": -51.245968
+          "referencia": "0.53 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "11/11/2026 19:45:02",
+          "lat": -29.6191936,
+          "lon": -51.3235904
         },
         "distancia_km": null,
         "proximo": false
@@ -349,7 +369,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 19:28:03",
+          "data_hora_posicao": "11/11/2026 19:44:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -365,5 +385,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T19:32:37"
+  "_gerado_em": "2026-11-11T19:47:22"
 }
