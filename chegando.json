@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 22:44:07",
+          "data_hora_posicao": "10/11/2026 23:00:07",
           "lat": -26.8874176,
           "lon": -48.7212128
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "10/11/2026 22:45:09",
-          "lat": -25.6013083333333,
-          "lon": -49.17344
+          "referencia": "0.08 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 23:01:06",
+          "lat": -25.7782983333333,
+          "lon": -49.1203316666667
         },
-        "distancia_km": 184.6,
+        "distancia_km": 167.3,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:44:10",
-          "lat": -23.4706416,
-          "lon": -46.4623296
+          "referencia": "0.03 km de POSTO CUMBICA - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 23:00:10",
+          "lat": -23.4503072,
+          "lon": -46.4619456
         },
-        "distancia_km": 524.5,
+        "distancia_km": 526.3,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 22:45:35",
+          "data_hora_posicao": "10/11/2026 22:59:35",
           "lat": -29.983696,
           "lon": -51.1869312
         },
@@ -129,12 +129,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.21 km de DELEGACIA DE POLICIA - REGISTRO/SP",
-          "data_hora_posicao": "10/11/2026 22:45:46",
-          "lat": -24.49564,
-          "lon": -47.8396768
+          "referencia": "4.95 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "10/11/2026 22:53:46",
+          "lat": -24.4174064,
+          "lon": -47.7632704
         },
-        "distancia_km": 180.5,
+        "distancia_km": 169.0,
         "proximo": false
       },
       {
@@ -149,12 +149,42 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "10/11/2026 22:44:36",
-          "lat": -25.864456,
-          "lon": -48.939392
+          "referencia": "1.05 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 23:00:36",
+          "lat": -25.842336,
+          "lon": -49.0559872
         },
-        "distancia_km": 365.4,
+        "distancia_km": 371.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044313-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 28178.12,
+        "frete_rs": 27620.94,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044314-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 256.56,
+        "frete_rs": 546.9,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -180,9 +210,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 30910.4,
-        "frete_rs": 19155.38,
-        "qtde": 1
+        "peso_kg": 59345.08,
+        "frete_rs": 47323.22,
+        "qtde": 3
       },
       "Timbó": {
         "peso_kg": 9348.74,
@@ -205,12 +235,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:45:07",
-          "lat": -23.4703392,
-          "lon": -46.4617984
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 23:00:00",
+          "lat": -23.4705328,
+          "lon": -46.4623712
         },
-        "distancia_km": 442.8,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -225,12 +255,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de PEDAGIO - P6 (MAUA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "10/11/2026 22:45:04",
-          "lat": -23.7160896,
-          "lon": -46.4660672
+          "referencia": "2.43 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "10/11/2026 23:01:04",
+          "lat": -23.7867184,
+          "lon": -46.6345472
         },
-        "distancia_km": 419.2,
+        "distancia_km": 403.5,
         "proximo": false
       },
       {
@@ -260,12 +290,12 @@
         "frete_rs": 3244.88,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.1 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "10/11/2026 22:45:28",
-          "lat": -26.9189504,
-          "lon": -49.28176
+          "referencia": "0.27 km de AUTO POSTO BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "10/11/2026 22:59:28",
+          "lat": -26.88312,
+          "lon": -49.1425824
         },
-        "distancia_km": 55.7,
+        "distancia_km": 41.8,
         "proximo": false
       },
       {
@@ -280,12 +310,12 @@
         "frete_rs": 122.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.1 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "10/11/2026 22:45:28",
-          "lat": -26.9189504,
-          "lon": -49.28176
+          "referencia": "0.27 km de AUTO POSTO BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "10/11/2026 22:59:28",
+          "lat": -26.88312,
+          "lon": -49.1425824
         },
-        "distancia_km": 55.7,
+        "distancia_km": 41.8,
         "proximo": false
       }
     ],
@@ -316,12 +346,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de PEDAGIO - P6 (MAUA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "10/11/2026 22:45:04",
-          "lat": -23.7160896,
-          "lon": -46.4660672
+          "referencia": "2.43 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "10/11/2026 23:01:04",
+          "lat": -23.7867184,
+          "lon": -46.6345472
         },
-        "distancia_km": 839.4,
+        "distancia_km": 823.5,
         "proximo": false
       }
     ],
@@ -362,10 +392,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:44:10",
-          "lat": -23.4706416,
-          "lon": -46.4623296
+          "referencia": "0.03 km de POSTO CUMBICA - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 23:00:10",
+          "lat": -23.4503072,
+          "lon": -46.4619456
         },
         "distancia_km": null,
         "proximo": false
@@ -393,12 +423,12 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de DIA BRASIL SOCIEDADE LIMITADA (CENTRO DE DISTRIBUIÇÃO) - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:45:12",
-          "lat": -23.4816608,
-          "lon": -46.5248
+          "referencia": "0.17 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 23:01:12",
+          "lat": -23.5135104,
+          "lon": -46.676144
         },
-        "distancia_km": 361.0,
+        "distancia_km": 346.9,
         "proximo": false
       },
       {
@@ -413,12 +443,12 @@
         "frete_rs": 10404.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.1 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "10/11/2026 22:45:28",
-          "lat": -26.9189504,
-          "lon": -49.28176
+          "referencia": "0.27 km de AUTO POSTO BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "10/11/2026 22:59:28",
+          "lat": -26.88312,
+          "lon": -49.1425824
         },
-        "distancia_km": 154.7,
+        "distancia_km": 151.5,
         "proximo": false
       }
     ],
@@ -449,10 +479,10 @@
         "frete_rs": 9518.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de TOLIMAN MS TRANSPORTES LTDA (TRANSFIGUEREDO) - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:44:01",
-          "lat": -23.4751783333333,
-          "lon": -46.475875
+          "referencia": "0.18 km de POSTO SERVIÇOS APOLO 8 - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 23:01:08",
+          "lat": -23.5224833333333,
+          "lon": -46.6108566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -469,10 +499,10 @@
         "frete_rs": 531.35,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de TOLIMAN MS TRANSPORTES LTDA (TRANSFIGUEREDO) - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 22:44:01",
-          "lat": -23.4751783333333,
-          "lon": -46.475875
+          "referencia": "0.18 km de POSTO SERVIÇOS APOLO 8 - SAO PAULO/SP",
+          "data_hora_posicao": "10/11/2026 23:01:08",
+          "lat": -23.5224833333333,
+          "lon": -46.6108566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -501,7 +531,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 22:45:35",
+          "data_hora_posicao": "10/11/2026 22:59:35",
           "lat": -29.983696,
           "lon": -51.1869312
         },
@@ -532,7 +562,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 22:42:03",
+          "data_hora_posicao": "10/11/2026 22:58:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -548,5 +578,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T22:47:33"
+  "_gerado_em": "2026-11-10T23:03:01"
 }
