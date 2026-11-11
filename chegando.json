@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 14:29:35",
+          "data_hora_posicao": "11/11/2026 14:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 14:29:35",
+          "data_hora_posicao": "11/11/2026 14:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,10 +69,10 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 14:30:42",
-          "lat": -24.2665744,
-          "lon": -47.3926784
+          "referencia": "0.08 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 14:46:14",
+          "lat": -24.266856,
+          "lon": -47.3927648
         },
         "distancia_km": 320.4,
         "proximo": false
@@ -101,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 14:29:04",
+          "data_hora_posicao": "11/11/2026 14:45:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.59 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 14:30:00",
-          "lat": -29.131664,
-          "lon": -51.188432
+          "referencia": "0.22 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 14:46:00",
+          "lat": -29.137008,
+          "lon": -51.1999232
         },
-        "distancia_km": 94.7,
+        "distancia_km": 94.1,
         "proximo": false
       }
     ],
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de HOTEL BOA VISTA - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 14:29:35",
-          "lat": -27.0770066,
-          "lon": -52.6251631
+          "referencia": "2.4 km de PRF - CHAPECÓ/SC - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 14:43:27",
+          "lat": -26.9967376,
+          "lon": -52.675784
         },
         "distancia_km": null,
         "proximo": false
@@ -173,5 +173,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T14:32:35"
+  "_gerado_em": "2026-11-11T14:48:01"
 }
