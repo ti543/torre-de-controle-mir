@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "11/11/2026 20:00:07",
+          "data_hora_posicao": "11/11/2026 20:14:07",
           "lat": -27.0965408,
           "lon": -48.9306816
         },
@@ -33,12 +33,32 @@
         "frete_rs": 11713.56,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO MORRO AZUL - ITATIBA/SP",
-          "data_hora_posicao": "11/11/2026 20:00:51",
-          "lat": -23.02889,
-          "lon": -46.74844
+          "referencia": "0.32 km de BOSCH REXROTH LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "11/11/2026 20:15:06",
+          "lat": -23.0417383333333,
+          "lon": -46.67827
         },
-        "distancia_km": 57.1,
+        "distancia_km": 52.5,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013596-8",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 2573.48,
+        "frete_rs": 3907.14,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "11/11/2026 20:15:12",
+          "lat": -25.5276816,
+          "lon": -49.295376
+        },
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -54,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "11/11/2026 20:00:07",
+          "data_hora_posicao": "11/11/2026 20:14:07",
           "lat": -27.0965408,
           "lon": -48.9306816
         },
@@ -73,12 +93,12 @@
         "frete_rs": 16244.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "11/11/2026 20:00:41",
-          "lat": -27.0557792,
-          "lon": -49.3893696
+          "referencia": "0.48 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "11/11/2026 20:14:32",
+          "lat": -27.016128,
+          "lon": -49.3709824
         },
-        "distancia_km": 495.5,
+        "distancia_km": 490.9,
         "proximo": false
       },
       {
@@ -108,6 +128,11 @@
         "frete_rs": 11713.56,
         "qtde": 1
       },
+      "Curitiba": {
+        "peso_kg": 2573.48,
+        "frete_rs": 3907.14,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 35126.92,
         "frete_rs": 19838.83,
@@ -135,11 +160,31 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "11/11/2026 20:00:07",
+          "data_hora_posicao": "11/11/2026 20:14:07",
           "lat": -27.0965408,
           "lon": -48.9306816
         },
         "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013594-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 4963.74,
+        "frete_rs": 4870.03,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "11/11/2026 20:15:28",
+          "lat": -25.5277728,
+          "lon": -49.2954368
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -154,12 +199,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 03) - GARUVA/SC",
-          "data_hora_posicao": "11/11/2026 19:58:37",
-          "lat": -25.9913936,
-          "lon": -48.882304
+          "referencia": "0.5 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "11/11/2026 20:14:14",
+          "lat": -26.150736,
+          "lon": -48.9090816
         },
-        "distancia_km": 100.9,
+        "distancia_km": 84.0,
         "proximo": false
       },
       {
@@ -184,6 +229,11 @@
         "frete_rs": 470.17,
         "qtde": 1
       },
+      "Curitiba": {
+        "peso_kg": 4963.74,
+        "frete_rs": 4870.03,
+        "qtde": 1
+      },
       "Guarulhos": {
         "peso_kg": 6897.13,
         "frete_rs": 11390.81,
@@ -199,6 +249,26 @@
   "RSL": {
     "veiculos": [
       {
+        "manif": "CTB013595-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3936.66,
+        "frete_rs": 4726.04,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "11/11/2026 20:15:28",
+          "lat": -25.5277728,
+          "lon": -49.2954368
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
         "manif": "CXS002240-3",
         "origin_unit": "CXS",
         "origin_city": "CAXIAS DO SUL/RS",
@@ -210,12 +280,12 @@
         "frete_rs": 3467.79,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.15 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "11/11/2026 19:59:35",
-          "lat": -27.2566048,
-          "lon": -49.9372544
+          "referencia": "2.26 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 20:13:59",
+          "lat": -27.2766848,
+          "lon": -49.8472
         },
-        "distancia_km": 29.0,
+        "distancia_km": 21.0,
         "proximo": true
       },
       {
@@ -230,12 +300,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.75 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "11/11/2026 20:00:28",
-          "lat": -23.794432,
-          "lon": -46.7536608
+          "referencia": "1.06 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "11/11/2026 20:15:13",
+          "lat": -23.6625792,
+          "lon": -46.823472
         },
-        "distancia_km": 477.9,
+        "distancia_km": 485.5,
         "proximo": false
       },
       {
@@ -250,12 +320,12 @@
         "frete_rs": 4155.8,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.15 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "11/11/2026 19:59:35",
-          "lat": -27.2566048,
-          "lon": -49.9372544
+          "referencia": "2.26 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 20:13:59",
+          "lat": -27.2766848,
+          "lon": -49.8472
         },
-        "distancia_km": 29.0,
+        "distancia_km": 21.0,
         "proximo": true
       },
       {
@@ -270,12 +340,12 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.15 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "11/11/2026 19:59:35",
-          "lat": -27.2566048,
-          "lon": -49.9372544
+          "referencia": "2.26 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "11/11/2026 20:13:59",
+          "lat": -27.2766848,
+          "lon": -49.8472
         },
-        "distancia_km": 29.0,
+        "distancia_km": 21.0,
         "proximo": true
       },
       {
@@ -290,16 +360,21 @@
         "frete_rs": 5661.14,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.91 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "11/11/2026 20:00:17",
-          "lat": -29.46544,
-          "lon": -51.3535104
+          "referencia": "3.6 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "11/11/2026 20:13:16",
+          "lat": -29.3391616,
+          "lon": -51.3603584
         },
-        "distancia_km": 301.5,
+        "distancia_km": 290.4,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 3936.66,
+        "frete_rs": 4726.04,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 3544.32,
         "frete_rs": 7623.59,
@@ -331,10 +406,10 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 19:59:04",
-          "lat": -26.8874496,
-          "lon": -48.7211488
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 20:15:04",
+          "lat": -26.8874848,
+          "lon": -48.7212448
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -351,10 +426,10 @@
         "frete_rs": 6384.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 19:59:04",
-          "lat": -26.8874496,
-          "lon": -48.7211488
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 20:15:04",
+          "lat": -26.8874848,
+          "lon": -48.7212448
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -387,10 +462,10 @@
         "frete_rs": 141.89,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.91 km de POSTO ZANLUCHI SUL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "11/11/2026 20:00:17",
-          "lat": -29.46544,
-          "lon": -51.3535104
+          "referencia": "3.6 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "11/11/2026 20:13:16",
+          "lat": -29.3391616,
+          "lon": -51.3603584
         },
         "distancia_km": null,
         "proximo": false
@@ -419,7 +494,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 20:00:03",
+          "data_hora_posicao": "11/11/2026 20:12:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -435,5 +510,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T20:02:26"
+  "_gerado_em": "2026-11-11T20:17:31"
 }
