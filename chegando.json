@@ -13,12 +13,12 @@
         "frete_rs": 3467.79,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 18:00:43",
-          "lat": -27.8238624,
-          "lon": -50.3625632
+          "referencia": "1.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 18:15:35",
+          "lat": -27.7349056,
+          "lon": -50.3356704
         },
-        "distancia_km": 98.3,
+        "distancia_km": 89.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 18:00:28",
-          "lat": -23.470632,
-          "lon": -46.4624288
+          "referencia": "0.19 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "11/11/2026 18:15:52",
+          "lat": -23.4688336,
+          "lon": -46.4656032
         },
-        "distancia_km": 524.5,
+        "distancia_km": 524.4,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 4155.8,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 18:00:43",
-          "lat": -27.8238624,
-          "lon": -50.3625632
+          "referencia": "1.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 18:15:35",
+          "lat": -27.7349056,
+          "lon": -50.3356704
         },
-        "distancia_km": 98.3,
+        "distancia_km": 89.7,
         "proximo": false
       },
       {
@@ -73,12 +73,27 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 18:00:43",
-          "lat": -27.8238624,
-          "lon": -50.3625632
+          "referencia": "1.92 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 18:15:35",
+          "lat": -27.7349056,
+          "lon": -50.3356704
         },
-        "distancia_km": 98.3,
+        "distancia_km": 89.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016404-6",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1661.33,
+        "frete_rs": 2168.58,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -97,6 +112,11 @@
         "peso_kg": 3163.14,
         "frete_rs": 2488.58,
         "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 1661.33,
+        "frete_rs": 2168.58,
+        "qtde": 1
       }
     }
   },
@@ -114,12 +134,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "11/11/2026 18:00:14",
-          "lat": -25.176744,
-          "lon": -48.877568
+          "referencia": "0.31 km de 1ª CPR - QUATRO BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "11/11/2026 18:14:14",
+          "lat": -25.30508,
+          "lon": -48.9469856
         },
-        "distancia_km": 190.9,
+        "distancia_km": 177.4,
         "proximo": false
       }
     ],
@@ -146,7 +166,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 17:59:04",
+          "data_hora_posicao": "11/11/2026 18:15:04",
           "lat": -26.8877312,
           "lon": -48.7207232
         },
@@ -177,7 +197,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 18:00:03",
+          "data_hora_posicao": "11/11/2026 18:16:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -207,22 +227,42 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de TRANSPORTES APIUNA LTDA - APIUNA/SC",
-          "data_hora_posicao": "11/11/2026 18:00:47",
-          "lat": -27.040528,
-          "lon": -49.3963232
+          "referencia": "1.22 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "11/11/2026 18:14:07",
+          "lat": -26.9486752,
+          "lon": -49.36272
         },
-        "distancia_km": 494.6,
+        "distancia_km": 484.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044335-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 30561.5,
+        "frete_rs": 16244.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 18:14:18",
+          "lat": -27.2061088,
+          "lon": -49.6493408
+        },
+        "distancia_km": 524.5,
         "proximo": false
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 4565.42,
-        "frete_rs": 3594.22,
-        "qtde": 1
+        "peso_kg": 35126.92,
+        "frete_rs": 19838.83,
+        "qtde": 2
       }
     }
   },
-  "_gerado_em": "2026-11-11T18:02:24"
+  "_gerado_em": "2026-11-11T18:17:36"
 }
