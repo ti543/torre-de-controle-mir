@@ -2,26 +2,6 @@
   "RSL": {
     "veiculos": [
       {
-        "manif": "CTB013585-2",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 7548.58,
-        "frete_rs": 8648.53,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:30:07",
-          "lat": -27.2058368,
-          "lon": -49.6488384
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
         "manif": "GRU074492-1",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -34,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:28:59",
+          "data_hora_posicao": "11/11/2026 07:44:58",
           "lat": -27.2059616666667,
           "lon": -49.6488633333333
         },
@@ -68,33 +48,13 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.15 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "11/11/2026 07:23:04",
-          "lat": -25.873656,
-          "lon": -48.9361024
+          "referencia": "0.91 km de BR COLD - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 07:44:10",
+          "lat": -26.0773088,
+          "lon": -48.8614208
         },
-        "distancia_km": 164.3,
+        "distancia_km": 148.0,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024060-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 813.77,
-        "frete_rs": 1194.3,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:30:07",
-          "lat": -27.2058368,
-          "lon": -49.6488384
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016232-9",
@@ -109,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:29:35",
+          "data_hora_posicao": "11/11/2026 07:45:35",
           "lat": -29.1462048,
           "lon": -51.1648128
         },
@@ -118,20 +78,10 @@
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 7548.58,
-        "frete_rs": 8648.53,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 26409.129999999997,
         "frete_rs": 37824.1,
         "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 813.77,
-        "frete_rs": 1194.3,
-        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3163.14,
@@ -155,7 +105,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 07:27:41",
+          "data_hora_posicao": "11/11/2026 07:43:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -175,7 +125,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "11/11/2026 07:29:04",
+          "data_hora_posicao": "11/11/2026 07:45:04",
           "lat": -25.710376,
           "lon": -49.1406368
         },
@@ -206,7 +156,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "11/11/2026 07:29:04",
+          "data_hora_posicao": "11/11/2026 07:45:04",
           "lat": -25.710376,
           "lon": -49.1406368
         },
@@ -225,12 +175,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:30:00",
-          "lat": -27.7115712,
-          "lon": -50.3362432
+          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 07:46:00",
+          "lat": -27.82088,
+          "lon": -50.3621664
         },
-        "distancia_km": 265.8,
+        "distancia_km": 253.5,
         "proximo": false
       }
     ],
@@ -276,10 +226,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.15 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "11/11/2026 07:23:04",
-          "lat": -25.873656,
-          "lon": -48.9361024
+          "referencia": "0.91 km de BR COLD - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 07:44:10",
+          "lat": -26.0773088,
+          "lon": -48.8614208
         },
         "distancia_km": null,
         "proximo": false
@@ -307,12 +257,12 @@
         "frete_rs": 8473.07,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de O FAZENDEIRO - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:29:04",
-          "lat": -24.257736,
-          "lon": -47.3763168
+          "referencia": "3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:45:04",
+          "lat": -24.1437664,
+          "lon": -47.2880256
         },
-        "distancia_km": 127.7,
+        "distancia_km": 112.5,
         "proximo": false
       },
       {
@@ -327,12 +277,12 @@
         "frete_rs": 12610.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de O FAZENDEIRO - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:29:04",
-          "lat": -24.257736,
-          "lon": -47.3763168
+          "referencia": "3 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:45:04",
+          "lat": -24.1437664,
+          "lon": -47.2880256
         },
-        "distancia_km": 127.7,
+        "distancia_km": 112.5,
         "proximo": false
       },
       {
@@ -362,12 +312,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.08 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "11/11/2026 07:28:36",
-          "lat": -23.9754144,
-          "lon": -47.1416832
+          "referencia": "0.42 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 07:44:36",
+          "lat": -23.8994832,
+          "lon": -46.9882432
         },
-        "distancia_km": 89.1,
+        "distancia_km": 71.7,
         "proximo": false
       },
       {
@@ -449,7 +399,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:29:35",
+          "data_hora_posicao": "11/11/2026 07:45:35",
           "lat": -29.1462048,
           "lon": -51.1648128
         },
@@ -468,10 +418,10 @@
         "frete_rs": 2019.83,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:30:00",
-          "lat": -27.7115712,
-          "lon": -50.3362432
+          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 07:46:00",
+          "lat": -27.82088,
+          "lon": -50.3621664
         },
         "distancia_km": null,
         "proximo": false
@@ -504,10 +454,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.75 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 07:24:02",
-          "lat": -27.0991311,
-          "lon": -52.621248
+          "referencia": "0.74 km de POSTO IGUAÇU - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 07:44:03",
+          "lat": -27.0990643,
+          "lon": -52.6211845
         },
         "distancia_km": null,
         "proximo": false
@@ -535,10 +485,10 @@
         "frete_rs": 5943.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:30:00",
-          "lat": -27.7115712,
-          "lon": -50.3362432
+          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 07:46:00",
+          "lat": -27.82088,
+          "lon": -50.3621664
         },
         "distancia_km": null,
         "proximo": false
@@ -555,10 +505,10 @@
         "frete_rs": 129.79,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:30:00",
-          "lat": -27.7115712,
-          "lon": -50.3362432
+          "referencia": "0.24 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "11/11/2026 07:46:00",
+          "lat": -27.82088,
+          "lon": -50.3621664
         },
         "distancia_km": null,
         "proximo": false
@@ -572,5 +522,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T07:32:30"
+  "_gerado_em": "2026-11-11T07:47:46"
 }
