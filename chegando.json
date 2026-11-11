@@ -13,12 +13,12 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "11/11/2026 05:00:07",
-          "lat": -27.1373024,
-          "lon": -49.543888
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 05:14:18",
+          "lat": -27.205872,
+          "lon": -49.648928
         },
-        "distancia_km": 13.0,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 05:01:01",
+          "data_hora_posicao": "11/11/2026 05:15:01",
           "lat": -27.2059616666667,
           "lon": -49.6488633333333
         },
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "11/11/2026 04:55:24",
-          "lat": -24.9762816,
-          "lon": -48.5055488
+          "referencia": "3.05 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 05:14:10",
+          "lat": -25.08308,
+          "lon": -48.6341824
         },
-        "distancia_km": 273.0,
+        "distancia_km": 256.9,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 1194.3,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "11/11/2026 05:00:07",
-          "lat": -27.1373024,
-          "lon": -49.543888
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 05:14:18",
+          "lat": -27.205872,
+          "lon": -49.648928
         },
-        "distancia_km": 13.0,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -108,12 +108,12 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.77 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "11/11/2026 04:59:35",
-          "lat": -29.8468928,
-          "lon": -51.2088352
+          "referencia": "0.49 km de UNIQUE RUBBER TECHNOLOGIES - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "11/11/2026 05:15:35",
+          "lat": -29.7190016,
+          "lon": -51.1735584
         },
-        "distancia_km": 330.8,
+        "distancia_km": 316.6,
         "proximo": false
       }
     ],
@@ -155,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 04:59:41",
+          "data_hora_posicao": "11/11/2026 05:15:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -174,12 +174,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.13 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 05:01:04",
-          "lat": -24.784632,
-          "lon": -48.2082976
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "11/11/2026 05:02:01",
+          "lat": -24.7934976,
+          "lon": -48.2110912
         },
-        "distancia_km": 239.4,
+        "distancia_km": 238.4,
         "proximo": false
       },
       {
@@ -220,12 +220,32 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.13 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 05:01:04",
-          "lat": -24.784632,
-          "lon": -48.2082976
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "11/11/2026 05:02:01",
+          "lat": -24.7934976,
+          "lon": -48.2110912
         },
-        "distancia_km": 648.5,
+        "distancia_km": 647.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044317-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5741.3,
+        "frete_rs": 3478.46,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.01 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "11/11/2026 05:12:00",
+          "lat": -27.2765536,
+          "lon": -49.7399936
+        },
+        "distancia_km": 332.4,
         "proximo": false
       }
     ],
@@ -233,6 +253,11 @@
       "Guarulhos": {
         "peso_kg": 7516.9,
         "frete_rs": 13053.08,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 5741.3,
+        "frete_rs": 3478.46,
         "qtde": 1
       }
     }
@@ -266,10 +291,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "11/11/2026 04:55:24",
-          "lat": -24.9762816,
-          "lon": -48.5055488
+          "referencia": "3.05 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 05:14:10",
+          "lat": -25.08308,
+          "lon": -48.6341824
         },
         "distancia_km": null,
         "proximo": false
@@ -297,13 +322,13 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de PRE - QUATRO BARRAS/PR",
-          "data_hora_posicao": "11/11/2026 04:59:12",
-          "lat": -25.2994176,
-          "lon": -48.9416192
+          "referencia": "2.41 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "11/11/2026 05:13:13",
+          "lat": -25.400232,
+          "lon": -49.0582208
         },
-        "distancia_km": 43.7,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024061-3",
@@ -317,12 +342,12 @@
         "frete_rs": 4092.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 04:59:28",
-          "lat": -25.8535248,
-          "lon": -48.952704
+          "referencia": "2.22 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 05:15:28",
+          "lat": -25.8455424,
+          "lon": -49.0893632
         },
-        "distancia_km": 49.9,
+        "distancia_km": 40.9,
         "proximo": false
       },
       {
@@ -337,12 +362,12 @@
         "frete_rs": 584.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 04:59:28",
-          "lat": -25.8535248,
-          "lon": -48.952704
+          "referencia": "2.22 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 05:15:28",
+          "lat": -25.8455424,
+          "lon": -49.0893632
         },
-        "distancia_km": 49.9,
+        "distancia_km": 40.9,
         "proximo": false
       },
       {
@@ -357,12 +382,12 @@
         "frete_rs": 10404.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.6 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 04:59:28",
-          "lat": -25.8535248,
-          "lon": -48.952704
+          "referencia": "2.22 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 05:15:28",
+          "lat": -25.8455424,
+          "lon": -49.0893632
         },
-        "distancia_km": 49.9,
+        "distancia_km": 40.9,
         "proximo": false
       }
     ],
@@ -399,7 +424,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 05:00:48",
+          "data_hora_posicao": "11/11/2026 05:14:48",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -419,7 +444,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 05:00:48",
+          "data_hora_posicao": "11/11/2026 05:14:48",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -450,7 +475,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 05:01:04",
+          "data_hora_posicao": "11/11/2026 05:15:04",
           "lat": -24.785584,
           "lon": -48.1748736
         },
@@ -470,7 +495,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 05:01:04",
+          "data_hora_posicao": "11/11/2026 05:15:04",
           "lat": -24.785584,
           "lon": -48.1748736
         },
@@ -504,12 +529,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.95 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 05:00:36",
-          "lat": -24.7436656,
-          "lon": -48.142192
+          "referencia": "0.35 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "11/11/2026 05:14:36",
+          "lat": -24.6803568,
+          "lon": -47.9827744
         },
-        "distancia_km": 221.6,
+        "distancia_km": 204.8,
         "proximo": false
       },
       {
@@ -590,10 +615,30 @@
         "frete_rs": 2457.48,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.77 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "11/11/2026 04:59:35",
-          "lat": -29.8468928,
-          "lon": -51.2088352
+          "referencia": "0.49 km de UNIQUE RUBBER TECHNOLOGIES - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "11/11/2026 05:15:35",
+          "lat": -29.7190016,
+          "lon": -51.1735584
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044315-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 2276.71,
+        "frete_rs": 2019.83,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.01 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "11/11/2026 05:12:00",
+          "lat": -27.2765536,
+          "lon": -49.7399936
         },
         "distancia_km": null,
         "proximo": false
@@ -603,6 +648,11 @@
       "Porto Alegre": {
         "peso_kg": 1190.36,
         "frete_rs": 2457.48,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2276.71,
+        "frete_rs": 2019.83,
         "qtde": 1
       }
     }
@@ -622,7 +672,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 04:59:02",
+          "data_hora_posicao": "11/11/2026 05:15:02",
           "lat": -27.0925585,
           "lon": -52.6192031
         },
@@ -638,5 +688,56 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T05:02:45"
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "RSL044316-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5534.27,
+        "frete_rs": 5943.68,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.01 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "11/11/2026 05:12:00",
+          "lat": -27.2765536,
+          "lon": -49.7399936
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044318-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 22.6,
+        "frete_rs": 129.79,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.01 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "11/11/2026 05:12:00",
+          "lat": -27.2765536,
+          "lon": -49.7399936
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 5556.870000000001,
+        "frete_rs": 6073.47,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-11T05:17:31"
 }
