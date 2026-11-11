@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 01:30:07",
+          "data_hora_posicao": "11/11/2026 01:46:07",
           "lat": -26.8873536,
           "lon": -48.72176
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.92 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "11/11/2026 01:29:32",
-          "lat": -26.8415083333333,
-          "lon": -49.0912716666667
+          "referencia": "0.26 km de EXPRESSO LEOMAR - BLUMENAU/SC",
+          "data_hora_posicao": "11/11/2026 01:46:09",
+          "lat": -26.87012,
+          "lon": -49.223555
         },
-        "distancia_km": 68.6,
+        "distancia_km": 56.4,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 01:26:10",
-          "lat": -24.0339344,
-          "lon": -47.18424
+          "referencia": "2.15 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 01:46:10",
+          "lat": -24.1466544,
+          "lon": -47.2958944
         },
-        "distancia_km": 430.7,
+        "distancia_km": 413.9,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 01:30:07",
+          "data_hora_posicao": "11/11/2026 01:46:07",
           "lat": -26.8873536,
           "lon": -48.72176
         },
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 01:29:35",
+          "data_hora_posicao": "11/11/2026 01:45:35",
           "lat": -29.9836224,
           "lon": -51.1869024
         },
@@ -140,132 +140,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CTB013588-7",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 14223.02,
-        "frete_rs": 9728.22,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.27 km de POSTO EMIRADOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 01:29:46",
-          "lat": -23.484848,
-          "lon": -46.5391808
-        },
-        "distancia_km": 8.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024059-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 4824.77,
-        "frete_rs": 10108.31,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044307-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 30910.4,
-        "frete_rs": 19155.38,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.03 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "11/11/2026 01:29:34",
-          "lat": -24.9526832,
-          "lon": -48.3202176
-        },
-        "distancia_km": 250.3,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044313-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 28178.12,
-        "frete_rs": 27620.94,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044314-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 256.56,
-        "frete_rs": 546.9,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016393-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 9348.74,
-        "frete_rs": 14528.28,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 14223.02,
-        "frete_rs": 9728.22,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 4824.77,
-        "frete_rs": 10108.31,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 59345.08,
-        "frete_rs": 47323.22,
-        "qtde": 3
-      },
-      "Timbó": {
-        "peso_kg": 9348.74,
-        "frete_rs": 14528.28,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -281,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 01:27:41",
+          "data_hora_posicao": "11/11/2026 01:43:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -392,10 +266,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 01:26:10",
-          "lat": -24.0339344,
-          "lon": -47.18424
+          "referencia": "2.15 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 01:46:10",
+          "lat": -24.1466544,
+          "lon": -47.2958944
         },
         "distancia_km": null,
         "proximo": false
@@ -423,12 +297,12 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.74 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "11/11/2026 01:29:12",
-          "lat": -24.5688176,
-          "lon": -47.8784992
+          "referencia": "0.51 km de DELEGACIA SECCIONAL DE POLÍCIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "11/11/2026 01:45:12",
+          "lat": -24.704248,
+          "lon": -48.0114464
         },
-        "distancia_km": 178.2,
+        "distancia_km": 158.4,
         "proximo": false
       },
       {
@@ -444,9 +318,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 01:29:28",
-          "lat": -26.8873376,
-          "lon": -48.7212064
+          "data_hora_posicao": "11/11/2026 01:45:28",
+          "lat": -26.887344,
+          "lon": -48.721232
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -480,7 +354,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 01:30:52",
+          "data_hora_posicao": "11/11/2026 01:44:51",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -500,7 +374,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 01:30:52",
+          "data_hora_posicao": "11/11/2026 01:44:51",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -513,6 +387,107 @@
         "peso_kg": 8844.26,
         "frete_rs": 10049.78,
         "qtde": 2
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024059-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 4824.77,
+        "frete_rs": 10108.31,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044307-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 30910.4,
+        "frete_rs": 19155.38,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.72 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "11/11/2026 01:34:36",
+          "lat": -24.9261872,
+          "lon": -48.2667008
+        },
+        "distancia_km": 244.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044313-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 28178.12,
+        "frete_rs": 27620.94,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044314-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 256.56,
+        "frete_rs": 546.9,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016393-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 9348.74,
+        "frete_rs": 14528.28,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4824.77,
+        "frete_rs": 10108.31,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 59345.08,
+        "frete_rs": 47323.22,
+        "qtde": 3
+      },
+      "Timbó": {
+        "peso_kg": 9348.74,
+        "frete_rs": 14528.28,
+        "qtde": 1
       }
     }
   },
@@ -531,7 +506,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 01:29:35",
+          "data_hora_posicao": "11/11/2026 01:45:35",
           "lat": -29.9836224,
           "lon": -51.1869024
         },
@@ -562,7 +537,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 01:31:03",
+          "data_hora_posicao": "11/11/2026 01:43:03",
           "lat": -27.0925585,
           "lon": -52.6192031
         },
@@ -578,5 +553,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T01:32:36"
+  "_gerado_em": "2026-11-11T01:47:52"
 }
