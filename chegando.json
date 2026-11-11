@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:43:35",
+          "data_hora_posicao": "11/11/2026 13:59:54",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:43:35",
+          "data_hora_posicao": "11/11/2026 13:59:54",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.56 km de POSTO LAMBARI - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 13:44:14",
-          "lat": -24.2111632,
-          "lon": -47.3705376
+          "referencia": "3.01 km de POSTO LAMBARI - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 13:56:14",
+          "lat": -24.2247504,
+          "lon": -47.3647584
         },
-        "distancia_km": 327.0,
+        "distancia_km": 325.8,
         "proximo": false
       }
     ],
@@ -101,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 13:45:04",
+          "data_hora_posicao": "11/11/2026 13:59:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:44:43",
-          "lat": -29.1462944,
-          "lon": -51.1648512
+          "referencia": "0.15 km de CENTRAL DE POLÍCIA CIVIL - CAXIAS DO SUL - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 14:00:00",
+          "lat": -29.1522208,
+          "lon": -51.165728
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.4,
         "proximo": false
       }
     ],
@@ -202,10 +202,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.16 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 13:35:22",
-          "lat": -27.087694,
-          "lon": -52.5221146
+          "referencia": "0.13 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 13:54:00",
+          "lat": -27.0868046,
+          "lon": -52.5238181
         },
         "distancia_km": null,
         "proximo": false
@@ -219,36 +219,5 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044315-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 2276.71,
-        "frete_rs": 2019.83,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:44:43",
-          "lat": -29.1462944,
-          "lon": -51.1648512
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2276.71,
-        "frete_rs": 2019.83,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-11T13:47:34"
+  "_gerado_em": "2026-11-11T14:02:29"
 }
