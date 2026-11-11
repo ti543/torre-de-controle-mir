@@ -13,10 +13,10 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 01:16:07",
-          "lat": -26.8874176,
-          "lon": -48.7212064
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 01:30:07",
+          "lat": -26.8873536,
+          "lon": -48.72176
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.51 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "11/11/2026 01:15:32",
-          "lat": -26.7333216666667,
-          "lon": -49.06595
+          "referencia": "0.92 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
+          "data_hora_posicao": "11/11/2026 01:29:32",
+          "lat": -26.8415083333333,
+          "lon": -49.0912716666667
         },
-        "distancia_km": 78.2,
+        "distancia_km": 68.6,
         "proximo": false
       },
       {
@@ -68,12 +68,32 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.9 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "11/11/2026 01:14:10",
-          "lat": -23.9448896,
-          "lon": -47.097488
+          "referencia": "0.11 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 01:26:10",
+          "lat": -24.0339344,
+          "lon": -47.18424
         },
-        "distancia_km": 443.8,
+        "distancia_km": 430.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024060-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 813.77,
+        "frete_rs": 1194.3,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 01:30:07",
+          "lat": -26.8873536,
+          "lon": -48.72176
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -89,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 01:16:02",
+          "data_hora_posicao": "11/11/2026 01:29:35",
           "lat": -29.9836224,
           "lon": -51.1869024
         },
@@ -107,6 +127,11 @@
         "peso_kg": 26409.129999999997,
         "frete_rs": 37824.1,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 813.77,
+        "frete_rs": 1194.3,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3163.14,
@@ -129,12 +154,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.36 km de GIGA ATACADO - SAO PAULO/SP",
-          "data_hora_posicao": "11/11/2026 01:15:46",
-          "lat": -23.5113488,
-          "lon": -46.68272
+          "referencia": "0.27 km de POSTO EMIRADOS - GUARULHOS/SP",
+          "data_hora_posicao": "11/11/2026 01:29:46",
+          "lat": -23.484848,
+          "lon": -46.5391808
         },
-        "distancia_km": 22.9,
+        "distancia_km": 8.0,
         "proximo": true
       },
       {
@@ -164,12 +189,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.89 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "11/11/2026 01:12:36",
-          "lat": -24.9707088,
-          "lon": -48.4890144
+          "referencia": "1.03 km de POSTO RABI - BARRA DO TURVO/SP",
+          "data_hora_posicao": "11/11/2026 01:29:34",
+          "lat": -24.9526832,
+          "lon": -48.3202176
         },
-        "distancia_km": 264.7,
+        "distancia_km": 250.3,
         "proximo": false
       },
       {
@@ -256,7 +281,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 01:15:41",
+          "data_hora_posicao": "11/11/2026 01:27:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -275,12 +300,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.36 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "11/11/2026 01:13:04",
-          "lat": -24.3441776,
-          "lon": -47.6479456
+          "referencia": "0.04 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "11/11/2026 01:23:04",
+          "lat": -24.3622816,
+          "lon": -47.6907008
         },
-        "distancia_km": 302.6,
+        "distancia_km": 299.2,
         "proximo": false
       },
       {
@@ -321,12 +346,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.36 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "11/11/2026 01:13:04",
-          "lat": -24.3441776,
-          "lon": -47.6479456
+          "referencia": "0.04 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "11/11/2026 01:23:04",
+          "lat": -24.3622816,
+          "lon": -47.6907008
         },
-        "distancia_km": 718.0,
+        "distancia_km": 714.2,
         "proximo": false
       }
     ],
@@ -367,10 +392,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.9 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "11/11/2026 01:14:10",
-          "lat": -23.9448896,
-          "lon": -47.097488
+          "referencia": "0.11 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 01:26:10",
+          "lat": -24.0339344,
+          "lon": -47.18424
         },
         "distancia_km": null,
         "proximo": false
@@ -398,12 +423,12 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.53 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "11/11/2026 01:15:12",
-          "lat": -24.42244,
-          "lon": -47.7773824
+          "referencia": "4.74 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "11/11/2026 01:29:12",
+          "lat": -24.5688176,
+          "lon": -47.8784992
         },
-        "distancia_km": 196.3,
+        "distancia_km": 178.2,
         "proximo": false
       },
       {
@@ -418,10 +443,10 @@
         "frete_rs": 10404.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 01:15:28",
-          "lat": -26.8873888,
-          "lon": -48.7211328
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 01:29:28",
+          "lat": -26.8873376,
+          "lon": -48.7212064
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -455,7 +480,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 01:15:17",
+          "data_hora_posicao": "11/11/2026 01:30:52",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -475,7 +500,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "11/11/2026 01:15:17",
+          "data_hora_posicao": "11/11/2026 01:30:52",
           "lat": -22.8469316666667,
           "lon": -47.1247466666667
         },
@@ -506,7 +531,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "11/11/2026 01:16:02",
+          "data_hora_posicao": "11/11/2026 01:29:35",
           "lat": -29.9836224,
           "lon": -51.1869024
         },
@@ -537,7 +562,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 01:15:03",
+          "data_hora_posicao": "11/11/2026 01:31:03",
           "lat": -27.0925585,
           "lon": -52.6192031
         },
@@ -553,5 +578,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T01:17:34"
+  "_gerado_em": "2026-11-11T01:32:36"
 }
