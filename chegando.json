@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:59:35",
+          "data_hora_posicao": "11/11/2026 16:15:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:59:35",
+          "data_hora_posicao": "11/11/2026 16:15:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "11/11/2026 16:00:14",
-          "lat": -24.6110864,
-          "lon": -47.8837216
+          "referencia": "0.23 km de POSTO RECANTO DA SERRA - JACUPIRANGA/SP",
+          "data_hora_posicao": "11/11/2026 16:14:14",
+          "lat": -24.7122,
+          "lon": -48.0251488
         },
-        "distancia_km": 266.7,
+        "distancia_km": 251.7,
         "proximo": false
       }
     ],
@@ -101,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 15:59:04",
+          "data_hora_posicao": "11/11/2026 16:15:04",
           "lat": -26.903264,
           "lon": -48.6817696
         },
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.26 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "11/11/2026 16:00:00",
-          "lat": -29.4881984,
-          "lon": -51.3499552
+          "referencia": "1.02 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "11/11/2026 16:14:00",
+          "lat": -29.6172992,
+          "lon": -51.3281184
         },
-        "distancia_km": 57.3,
+        "distancia_km": 42.9,
         "proximo": false
       }
     ],
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO COOCATRANS - MARAVILHA/SC",
-          "data_hora_posicao": "11/11/2026 15:54:20",
-          "lat": -26.7710565,
-          "lon": -53.2075155
+          "referencia": "0.08 km de POSTO COOCATRANS - MARAVILHA/SC",
+          "data_hora_posicao": "11/11/2026 16:02:03",
+          "lat": -26.7710863,
+          "lon": -53.2074298
         },
         "distancia_km": null,
         "proximo": false
@@ -187,12 +187,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "11/11/2026 15:58:54",
-          "lat": -27.0965312,
-          "lon": -49.5310784
+          "referencia": "2.09 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "11/11/2026 16:14:07",
+          "lat": -27.0936704,
+          "lon": -49.4676096
         },
-        "distancia_km": 507.7,
+        "distancia_km": 503.5,
         "proximo": false
       }
     ],
@@ -204,5 +204,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T16:02:48"
+  "_gerado_em": "2026-11-11T16:17:40"
 }
