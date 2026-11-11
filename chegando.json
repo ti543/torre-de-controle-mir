@@ -13,12 +13,12 @@
         "frete_rs": 3467.79,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.51 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 08:30:49",
-          "lat": -29.1454272,
-          "lon": -51.1863648
+          "referencia": "0.07 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "11/11/2026 08:45:35",
+          "lat": -29.051104,
+          "lon": -51.192912
         },
-        "distancia_km": 263.0,
+        "distancia_km": 254.9,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
-          "data_hora_posicao": "11/11/2026 08:24:10",
-          "lat": -26.443888,
-          "lon": -48.8158272
+          "referencia": "0.81 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "11/11/2026 08:45:47",
+          "lat": -26.4846272,
+          "lon": -48.9981056
         },
-        "distancia_km": 118.4,
+        "distancia_km": 103.0,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 2488.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.51 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 08:30:49",
-          "lat": -29.1454272,
-          "lon": -51.1863648
+          "referencia": "0.07 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "11/11/2026 08:45:35",
+          "lat": -29.051104,
+          "lon": -51.192912
         },
-        "distancia_km": 263.0,
+        "distancia_km": 254.9,
         "proximo": false
       }
     ],
@@ -109,12 +109,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 08:30:19",
-          "lat": -23.4721408,
-          "lon": -46.4621728
+          "referencia": "0.14 km de AMBIPAR - GUARULHOS/SP",
+          "data_hora_posicao": "11/11/2026 08:45:08",
+          "lat": -23.465944,
+          "lon": -46.4865408
         },
-        "distancia_km": 442.6,
+        "distancia_km": 441.9,
         "proximo": false
       },
       {
@@ -129,12 +129,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.03 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "11/11/2026 08:30:52",
-          "lat": -25.8726064,
-          "lon": -48.936576
+          "referencia": "0.38 km de NELORE COUROS - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 08:45:04",
+          "lat": -26.0155568,
+          "lon": -48.8620448
         },
-        "distancia_km": 114.9,
+        "distancia_km": 98.0,
         "proximo": false
       }
     ],
@@ -160,12 +160,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.03 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "11/11/2026 08:30:52",
-          "lat": -25.8726064,
-          "lon": -48.936576
+          "referencia": "0.38 km de NELORE COUROS - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 08:45:04",
+          "lat": -26.0155568,
+          "lon": -48.8620448
         },
-        "distancia_km": 507.7,
+        "distancia_km": 496.7,
         "proximo": false
       },
       {
@@ -181,7 +181,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 08:30:00",
+          "data_hora_posicao": "11/11/2026 08:44:00",
           "lat": -27.8238144,
           "lon": -50.3625984
         },
@@ -231,11 +231,26 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
-          "data_hora_posicao": "11/11/2026 08:24:10",
-          "lat": -26.443888,
-          "lon": -48.8158272
+          "referencia": "0.81 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "11/11/2026 08:45:47",
+          "lat": -26.4846272,
+          "lon": -48.9981056
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024064-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 3586.05,
+        "frete_rs": 2697.14,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       },
@@ -261,6 +276,11 @@
         "frete_rs": 11708.2,
         "qtde": 2
       },
+      "Itajaí": {
+        "peso_kg": 3586.05,
+        "frete_rs": 2697.14,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 2602.86,
         "frete_rs": 3597.81,
@@ -282,12 +302,12 @@
         "frete_rs": 8473.07,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 08:29:04",
-          "lat": -23.888696,
-          "lon": -46.9797184
+          "referencia": "0.12 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 08:45:04",
+          "lat": -23.763272,
+          "lon": -46.9059936
         },
-        "distancia_km": 70.3,
+        "distancia_km": 55.7,
         "proximo": false
       },
       {
@@ -302,12 +322,12 @@
         "frete_rs": 12610.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 08:29:04",
-          "lat": -23.888696,
-          "lon": -46.9797184
+          "referencia": "0.12 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 08:45:04",
+          "lat": -23.763272,
+          "lon": -46.9059936
         },
-        "distancia_km": 70.3,
+        "distancia_km": 55.7,
         "proximo": false
       },
       {
@@ -337,12 +357,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 08:30:36",
-          "lat": -23.6964736,
-          "lon": -46.8651936
+          "referencia": "0.33 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 08:44:36",
+          "lat": -23.6822256,
+          "lon": -46.8588448
         },
-        "distancia_km": 48.1,
+        "distancia_km": 46.8,
         "proximo": false
       },
       {
@@ -423,10 +443,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de BPM - CENTRO - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 08:28:46",
-          "lat": -27.1010058,
-          "lon": -52.6152113
+          "referencia": "0.37 km de BPM - CENTRO - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 08:44:03",
+          "lat": -27.1009726,
+          "lon": -52.6154228
         },
         "distancia_km": null,
         "proximo": false
@@ -455,7 +475,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 08:30:00",
+          "data_hora_posicao": "11/11/2026 08:44:00",
           "lat": -27.8238144,
           "lon": -50.3625984
         },
@@ -471,5 +491,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T08:32:38"
+  "_gerado_em": "2026-11-11T08:47:34"
 }
