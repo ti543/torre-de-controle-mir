@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 12:45:35",
+          "data_hora_posicao": "11/11/2026 12:59:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -48,12 +48,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "11/11/2026 12:46:11",
-          "lat": -27.1361248,
-          "lon": -49.5434976
+          "referencia": "0.04 km de POSTO BRASILIA - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 13:00:11",
+          "lat": -27.1966976,
+          "lon": -49.6274784
         },
-        "distancia_km": 13.1,
+        "distancia_km": 2.4,
         "proximo": true
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 12:45:35",
+          "data_hora_posicao": "11/11/2026 12:59:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -109,12 +109,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "11/11/2026 12:46:14",
-          "lat": -23.8380608,
-          "lon": -46.9309088
+          "referencia": "0.56 km de POSTO 70 - JUQUITIBA/SP",
+          "data_hora_posicao": "11/11/2026 13:00:14",
+          "lat": -23.9400592,
+          "lon": -47.0444512
         },
-        "distancia_km": 383.8,
+        "distancia_km": 368.5,
         "proximo": false
       },
       {
@@ -130,7 +130,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 12:45:04",
+          "data_hora_posicao": "11/11/2026 12:59:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -161,7 +161,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 12:45:04",
+          "data_hora_posicao": "11/11/2026 12:59:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -180,12 +180,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 12:46:00",
-          "lat": -29.1480512,
-          "lon": -51.187584
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 13:00:00",
+          "lat": -29.1462944,
+          "lon": -51.1648512
         },
-        "distancia_km": 92.9,
+        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -232,7 +232,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 12:44:36",
+          "data_hora_posicao": "11/11/2026 13:00:36",
           "lat": -23.4704192,
           "lon": -46.4620544
         },
@@ -317,10 +317,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 12:34:40",
-          "lat": -27.0872676,
-          "lon": -52.5259743
+          "referencia": "0.22 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 12:57:10",
+          "lat": -27.0888192,
+          "lon": -52.5256704
         },
         "distancia_km": null,
         "proximo": false
@@ -348,10 +348,10 @@
         "frete_rs": 2019.83,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 12:46:00",
-          "lat": -29.1480512,
-          "lon": -51.187584
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 13:00:00",
+          "lat": -29.1462944,
+          "lon": -51.1648512
         },
         "distancia_km": null,
         "proximo": false
@@ -391,5 +391,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T12:48:17"
+  "_gerado_em": "2026-11-11T13:02:48"
 }
