@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:29:35",
+          "data_hora_posicao": "11/11/2026 15:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 15:29:35",
+          "data_hora_posicao": "11/11/2026 15:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.95 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "11/11/2026 15:28:14",
-          "lat": -24.3407616,
-          "lon": -47.6456768
+          "referencia": "0.42 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "11/11/2026 15:44:14",
+          "lat": -24.4471552,
+          "lon": -47.8048224
         },
-        "distancia_km": 303.0,
+        "distancia_km": 286.5,
         "proximo": false
       }
     ],
@@ -100,12 +100,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 15:29:04",
-          "lat": -26.8903904,
-          "lon": -48.7213984
+          "referencia": "0.19 km de EXOLOGISTICA TRANSPORTADORA S/A - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 15:45:04",
+          "lat": -26.8947264,
+          "lon": -48.6818336
         },
-        "distancia_km": 419.9,
+        "distancia_km": 421.8,
         "proximo": false
       },
       {
@@ -120,12 +120,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.24 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "11/11/2026 15:30:00",
-          "lat": -29.304416,
-          "lon": -51.3383328
+          "referencia": "0.8 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "11/11/2026 15:46:00",
+          "lat": -29.3621152,
+          "lon": -51.3721856
         },
-        "distancia_km": 76.9,
+        "distancia_km": 71.4,
         "proximo": false
       }
     ],
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de AUTO POSTO JUVENCIO - SAUDADES/SC",
-          "data_hora_posicao": "11/11/2026 15:30:06",
-          "lat": -26.8256156,
-          "lon": -53.087793
+          "referencia": "0.23 km de LATICÍNIOS BELA VISTA LTDA (PIRACANJUBA) - MARAVILHA/SC",
+          "data_hora_posicao": "11/11/2026 15:45:33",
+          "lat": -26.7762278,
+          "lon": -53.2014888
         },
         "distancia_km": null,
         "proximo": false
@@ -187,12 +187,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 15:30:07",
-          "lat": -27.2060576,
-          "lon": -49.6493632
+          "referencia": "0.15 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 15:46:07",
+          "lat": -27.1728576,
+          "lon": -49.5840448
         },
-        "distancia_km": 524.5,
+        "distancia_km": 517.6,
         "proximo": false
       }
     ],
@@ -204,5 +204,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T15:32:31"
+  "_gerado_em": "2026-11-11T15:47:56"
 }
