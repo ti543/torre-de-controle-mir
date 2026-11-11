@@ -13,12 +13,12 @@
         "frete_rs": 7006.7,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.49 km de RIKEL PARK ESTACIONAMENTO - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 20:45:32",
-          "lat": -23.4928183333333,
-          "lon": -46.559385
+          "referencia": "0.2 km de NITRONPLAST INDÚSTRIA E COMÉRCIO LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 20:59:42",
+          "lat": -23.4570683333333,
+          "lon": -46.477695
         },
-        "distancia_km": 10.2,
+        "distancia_km": 2.2,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.91 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "10/11/2026 20:45:46",
-          "lat": -25.1086992,
-          "lon": -48.8366688
+          "referencia": "1.33 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "10/11/2026 20:59:46",
+          "lat": -25.0998976,
+          "lon": -48.69272
         },
-        "distancia_km": 301.8,
+        "distancia_km": 289.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "10/11/2026 20:44:36",
-          "lat": -26.880992,
-          "lon": -48.8468096
+          "referencia": "0.49 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
+          "data_hora_posicao": "10/11/2026 21:00:36",
+          "lat": -26.8249088,
+          "lon": -48.688976
         },
-        "distancia_km": 448.7,
+        "distancia_km": 435.1,
         "proximo": false
       },
       {
@@ -114,12 +114,12 @@
         "frete_rs": 7558.82,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "10/11/2026 20:45:55",
-          "lat": -25.8646304,
-          "lon": -48.9341632
+          "referencia": "0.27 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "10/11/2026 21:00:07",
+          "lat": -26.0087776,
+          "lon": -48.864592
         },
-        "distancia_km": 115.7,
+        "distancia_km": 98.7,
         "proximo": false
       },
       {
@@ -135,9 +135,29 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 20:44:00",
+          "data_hora_posicao": "10/11/2026 21:00:00",
           "lat": -23.4708608,
           "lon": -46.4621504
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074495-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3662.76,
+        "frete_rs": 3959.17,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 20:57:04",
+          "lat": -23.4704784,
+          "lon": -46.4621216
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -165,9 +185,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 6897.13,
-        "frete_rs": 11390.81,
-        "qtde": 1
+        "peso_kg": 10559.89,
+        "frete_rs": 15349.98,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 498.88,
@@ -190,12 +210,12 @@
         "frete_rs": 8648.53,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "10/11/2026 20:45:55",
-          "lat": -25.8646304,
-          "lon": -48.9341632
+          "referencia": "0.27 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "10/11/2026 21:00:07",
+          "lat": -26.0087776,
+          "lon": -48.864592
         },
-        "distancia_km": 165.3,
+        "distancia_km": 154.3,
         "proximo": false
       },
       {
@@ -210,12 +230,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.8 km de BMW LANCHONETE - CAJATI/SP",
-          "data_hora_posicao": "10/11/2026 20:45:04",
-          "lat": -24.8930933333333,
-          "lon": -48.2397866666667
+          "referencia": "1.95 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "10/11/2026 20:52:36",
+          "lat": -24.9448216666667,
+          "lon": -48.3117733333333
         },
-        "distancia_km": 293.2,
+        "distancia_km": 284.7,
         "proximo": false
       },
       {
@@ -231,7 +251,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 20:45:35",
+          "data_hora_posicao": "10/11/2026 20:59:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -257,6 +277,37 @@
       }
     }
   },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU074496-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 7516.9,
+        "frete_rs": 13053.08,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "10/11/2026 20:57:04",
+          "lat": -23.4704784,
+          "lon": -46.4621216
+        },
+        "distancia_km": 862.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 7516.9,
+        "frete_rs": 13053.08,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -272,7 +323,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 20:45:35",
+          "data_hora_posicao": "10/11/2026 20:59:35",
           "lat": -29.98368,
           "lon": -51.1869248
         },
@@ -303,7 +354,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 20:42:03",
+          "data_hora_posicao": "10/11/2026 20:58:03",
           "lat": -27.092457,
           "lon": -52.6192231
         },
@@ -319,5 +370,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T20:47:33"
+  "_gerado_em": "2026-11-10T21:02:28"
 }
