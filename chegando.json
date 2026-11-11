@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:15:35",
+          "data_hora_posicao": "11/11/2026 13:29:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -48,10 +48,10 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 13:14:11",
-          "lat": -27.2057472,
-          "lon": -49.6490336
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "11/11/2026 13:30:11",
+          "lat": -27.205968,
+          "lon": -49.6489568
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 13:15:35",
+          "data_hora_posicao": "11/11/2026 13:29:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -109,12 +109,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 03) - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 13:14:14",
-          "lat": -24.0238192,
-          "lon": -47.1728896
+          "referencia": "4.58 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 13:30:47",
+          "lat": -24.1393184,
+          "lon": -47.2732576
         },
-        "distancia_km": 354.3,
+        "distancia_km": 338.4,
         "proximo": false
       },
       {
@@ -130,7 +130,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 13:15:04",
+          "data_hora_posicao": "11/11/2026 13:29:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -161,7 +161,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 13:15:04",
+          "data_hora_posicao": "11/11/2026 13:29:04",
           "lat": -26.8876,
           "lon": -48.7206944
         },
@@ -181,7 +181,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:16:00",
+          "data_hora_posicao": "11/11/2026 13:30:00",
           "lat": -29.1462944,
           "lon": -51.1648512
         },
@@ -263,9 +263,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.16 km de FRIGORÍFICO ECOFRIGO LTDA (BUGIO) - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 13:13:43",
-          "lat": -27.0876735,
-          "lon": -52.5221306
+          "data_hora_posicao": "11/11/2026 13:29:03",
+          "lat": -27.087694,
+          "lon": -52.5221146
         },
         "distancia_km": null,
         "proximo": false
@@ -294,7 +294,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 13:16:00",
+          "data_hora_posicao": "11/11/2026 13:30:00",
           "lat": -29.1462944,
           "lon": -51.1648512
         },
@@ -310,31 +310,5 @@
       }
     }
   },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "RSL044320-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 2602.86,
-        "frete_rs": 3597.81,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2602.86,
-        "frete_rs": 3597.81,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-11T13:17:45"
+  "_gerado_em": "2026-11-11T13:32:34"
 }
