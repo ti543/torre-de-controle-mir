@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 16:29:35",
+          "data_hora_posicao": "11/11/2026 16:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "11/11/2026 16:29:35",
+          "data_hora_posicao": "11/11/2026 16:45:35",
           "lat": -27.8238016,
           "lon": -50.3627168
         },
@@ -69,12 +69,12 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "11/11/2026 16:30:14",
-          "lat": -24.7792528,
-          "lon": -48.191072
+          "referencia": "1.02 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "11/11/2026 16:44:45",
+          "lat": -24.8749568,
+          "lon": -48.2222336
         },
-        "distancia_km": 240.3,
+        "distancia_km": 229.3,
         "proximo": false
       }
     ],
@@ -101,7 +101,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 16:29:35",
+          "data_hora_posicao": "11/11/2026 16:45:04",
           "lat": -26.903264,
           "lon": -48.6817696
         },
@@ -120,13 +120,13 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO PHOENIX - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "11/11/2026 16:30:00",
-          "lat": -29.705952,
-          "lon": -51.1879264
+          "referencia": "0.09 km de CGT TRANSPORTE - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "11/11/2026 16:44:00",
+          "lat": -29.8213888,
+          "lon": -51.171136
         },
-        "distancia_km": 30.8,
-        "proximo": false
+        "distancia_km": 18.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -156,10 +156,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.03 km de POLÍCIA RODOVIÁRIA FEDERAL - UNIDADE OPERACIONAL DE MARAVILHA - MARAVILHA/SC",
-          "data_hora_posicao": "11/11/2026 16:25:49",
-          "lat": -26.7561472,
-          "lon": -53.242496
+          "referencia": "6.31 km de 3ªCIA/1ºPEL/2ºGP – 2° GRUPO - FLOR DO SERTAO/SC",
+          "data_hora_posicao": "11/11/2026 16:40:50",
+          "lat": -26.822656,
+          "lon": -53.3878528
         },
         "distancia_km": null,
         "proximo": false
@@ -187,12 +187,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.02 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "11/11/2026 16:28:56",
-          "lat": -27.0997216,
-          "lon": -49.4610368
+          "referencia": "3.61 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "11/11/2026 16:44:15",
+          "lat": -27.0838368,
+          "lon": -49.4471392
         },
-        "distancia_km": 503.7,
+        "distancia_km": 501.4,
         "proximo": false
       }
     ],
@@ -204,5 +204,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T16:32:44"
+  "_gerado_em": "2026-11-11T16:47:41"
 }
