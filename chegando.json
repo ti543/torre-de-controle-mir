@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:14:07",
+          "data_hora_posicao": "11/11/2026 07:30:07",
           "lat": -27.2058368,
           "lon": -49.6488384
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:14:59",
+          "data_hora_posicao": "11/11/2026 07:28:59",
           "lat": -27.2059616666667,
           "lon": -49.6488633333333
         },
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 07:12:10",
-          "lat": -25.8532448,
-          "lon": -49.0219424
+          "referencia": "1.15 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "11/11/2026 07:23:04",
+          "lat": -25.873656,
+          "lon": -48.9361024
         },
-        "distancia_km": 162.9,
+        "distancia_km": 164.3,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "11/11/2026 07:14:07",
+          "data_hora_posicao": "11/11/2026 07:30:07",
           "lat": -27.2058368,
           "lon": -49.6488384
         },
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:15:35",
+          "data_hora_posicao": "11/11/2026 07:29:35",
           "lat": -29.1462048,
           "lon": -51.1648128
         },
@@ -155,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 07:15:41",
+          "data_hora_posicao": "11/11/2026 07:27:41",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -174,35 +174,20 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de LF TRUCK CENTER - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "11/11/2026 07:15:04",
-          "lat": -25.6175296,
-          "lon": -49.1692288
+          "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "11/11/2026 07:29:04",
+          "lat": -25.710376,
+          "lon": -49.1406368
         },
-        "distancia_km": 148.1,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074497-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 496.57,
-        "frete_rs": 933.23,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 137.4,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 11056.46,
-        "frete_rs": 16283.21,
-        "qtde": 3
+        "peso_kg": 10559.89,
+        "frete_rs": 15349.98,
+        "qtde": 2
       }
     }
   },
@@ -220,12 +205,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de LF TRUCK CENTER - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "11/11/2026 07:15:04",
-          "lat": -25.6175296,
-          "lon": -49.1692288
+          "referencia": "0.06 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "11/11/2026 07:29:04",
+          "lat": -25.710376,
+          "lon": -49.1406368
         },
-        "distancia_km": 524.4,
+        "distancia_km": 515.9,
         "proximo": false
       },
       {
@@ -240,12 +225,12 @@
         "frete_rs": 3478.46,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:14:00",
-          "lat": -27.5549952,
-          "lon": -50.3769632
+          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "11/11/2026 07:30:00",
+          "lat": -27.7115712,
+          "lon": -50.3362432
         },
-        "distancia_km": 281.3,
+        "distancia_km": 265.8,
         "proximo": false
       }
     ],
@@ -291,10 +276,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 07:12:10",
-          "lat": -25.8532448,
-          "lon": -49.0219424
+          "referencia": "1.15 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "11/11/2026 07:23:04",
+          "lat": -25.873656,
+          "lon": -48.9361024
         },
         "distancia_km": null,
         "proximo": false
@@ -322,12 +307,12 @@
         "frete_rs": 8473.07,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de CARAVAGGIO GRILL - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:15:04",
-          "lat": -24.2713344,
-          "lon": -47.4027712
+          "referencia": "0.12 km de O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:29:04",
+          "lat": -24.257736,
+          "lon": -47.3763168
         },
-        "distancia_km": 130.7,
+        "distancia_km": 127.7,
         "proximo": false
       },
       {
@@ -342,12 +327,12 @@
         "frete_rs": 12610.14,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.12 km de CARAVAGGIO GRILL - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:15:04",
-          "lat": -24.2713344,
-          "lon": -47.4027712
+          "referencia": "0.12 km de O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 07:29:04",
+          "lat": -24.257736,
+          "lon": -47.3763168
         },
-        "distancia_km": 130.7,
+        "distancia_km": 127.7,
         "proximo": false
       },
       {
@@ -377,12 +362,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.9 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 07:10:36",
-          "lat": -24.0580704,
-          "lon": -47.2250112
+          "referencia": "1.08 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "11/11/2026 07:28:36",
+          "lat": -23.9754144,
+          "lon": -47.1416832
         },
-        "distancia_km": 101.5,
+        "distancia_km": 89.1,
         "proximo": false
       },
       {
@@ -464,7 +449,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 07:15:35",
+          "data_hora_posicao": "11/11/2026 07:29:35",
           "lat": -29.1462048,
           "lon": -51.1648128
         },
@@ -483,10 +468,10 @@
         "frete_rs": 2019.83,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:14:00",
-          "lat": -27.5549952,
-          "lon": -50.3769632
+          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "11/11/2026 07:30:00",
+          "lat": -27.7115712,
+          "lon": -50.3362432
         },
         "distancia_km": null,
         "proximo": false
@@ -519,10 +504,10 @@
         "frete_rs": 4400.48,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "11/11/2026 07:15:04",
-          "lat": -27.0932485,
-          "lon": -52.6183626
+          "referencia": "0.75 km de POSTO IGUAÇU - CHAPECO/SC",
+          "data_hora_posicao": "11/11/2026 07:24:02",
+          "lat": -27.0991311,
+          "lon": -52.621248
         },
         "distancia_km": null,
         "proximo": false
@@ -550,10 +535,10 @@
         "frete_rs": 5943.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:14:00",
-          "lat": -27.5549952,
-          "lon": -50.3769632
+          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "11/11/2026 07:30:00",
+          "lat": -27.7115712,
+          "lon": -50.3362432
         },
         "distancia_km": null,
         "proximo": false
@@ -570,10 +555,10 @@
         "frete_rs": 129.79,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.05 km de POSTOS DE COMBUSTÍVEIS BR 116 - CORREIA PINTO/SC",
-          "data_hora_posicao": "11/11/2026 07:14:00",
-          "lat": -27.5549952,
-          "lon": -50.3769632
+          "referencia": "1.54 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "11/11/2026 07:30:00",
+          "lat": -27.7115712,
+          "lon": -50.3362432
         },
         "distancia_km": null,
         "proximo": false
@@ -587,5 +572,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T07:17:34"
+  "_gerado_em": "2026-11-11T07:32:30"
 }
