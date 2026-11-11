@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "10/11/2026 23:46:07",
+          "data_hora_posicao": "11/11/2026 00:00:07",
           "lat": -26.8874176,
           "lon": -48.7212128
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7220.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO FISCAL (CIDASC) GARUVA - GARUVA/SC",
-          "data_hora_posicao": "10/11/2026 23:45:16",
-          "lat": -26.05742,
-          "lon": -48.859725
+          "referencia": "0.06 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
+          "data_hora_posicao": "10/11/2026 23:59:05",
+          "lat": -26.202375,
+          "lon": -48.913585
         },
-        "distancia_km": 149.9,
+        "distancia_km": 133.4,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 15125.87,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2 km de SCANDIFLEX DO BRASIL LTDA - MAUA/SP",
-          "data_hora_posicao": "10/11/2026 23:46:10",
-          "lat": -23.7217184,
-          "lon": -46.4847744
+          "referencia": "0.99 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "11/11/2026 00:00:10",
+          "lat": -23.7803072,
+          "lon": -46.6223456
         },
-        "distancia_km": 501.0,
+        "distancia_km": 487.2,
         "proximo": false
       },
       {
@@ -89,9 +89,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 23:45:35",
-          "lat": -29.983696,
-          "lon": -51.1869312
+          "data_hora_posicao": "10/11/2026 23:59:35",
+          "lat": -29.9836064,
+          "lon": -51.1869088
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -129,12 +129,12 @@
         "frete_rs": 9728.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "4 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "10/11/2026 23:39:46",
-          "lat": -24.1452288,
-          "lon": -47.2775232
+          "referencia": "5.9 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "10/11/2026 23:50:45",
+          "lat": -24.0836608,
+          "lon": -47.2535296
         },
-        "distancia_km": 111.8,
+        "distancia_km": 105.5,
         "proximo": false
       },
       {
@@ -149,12 +149,12 @@
         "frete_rs": 19155.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de PRF - BASE BR 116 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "10/11/2026 23:44:36",
-          "lat": -25.5314256,
-          "lon": -49.1441408
+          "referencia": "1.82 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
+          "data_hora_posicao": "10/11/2026 23:58:36",
+          "lat": -25.3941504,
+          "lon": -49.0560672
         },
-        "distancia_km": 355.2,
+        "distancia_km": 338.7,
         "proximo": false
       },
       {
@@ -236,7 +236,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "10/11/2026 23:46:00",
+          "data_hora_posicao": "11/11/2026 00:00:00",
           "lat": -23.4704592,
           "lon": -46.4624256
         },
@@ -255,12 +255,12 @@
         "frete_rs": 3959.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 23:45:04",
-          "lat": -23.7965968,
-          "lon": -46.914784
+          "referencia": "1.66 km de POSTO SÃO LEOPOLDO 65 - JUQUITIBA/SP",
+          "data_hora_posicao": "10/11/2026 23:59:04",
+          "lat": -23.9310528,
+          "lon": -47.0011872
         },
-        "distancia_km": 388.7,
+        "distancia_km": 371.3,
         "proximo": false
       },
       {
@@ -277,46 +277,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044311-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3202.91,
-        "frete_rs": 3244.88,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.21 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "10/11/2026 23:45:28",
-          "lat": -26.8388352,
-          "lon": -48.7686816
-        },
-        "distancia_km": 7.2,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044312-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 30.0,
-        "frete_rs": 122.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.21 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "10/11/2026 23:45:28",
-          "lat": -26.8388352,
-          "lon": -48.7686816
-        },
-        "distancia_km": 7.2,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -324,11 +284,6 @@
         "peso_kg": 11056.46,
         "frete_rs": 16283.21,
         "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 3232.91,
-        "frete_rs": 3366.9,
-        "qtde": 2
       }
     }
   },
@@ -346,12 +301,12 @@
         "frete_rs": 13053.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 23:45:04",
-          "lat": -23.7965968,
-          "lon": -46.914784
+          "referencia": "1.66 km de POSTO SÃO LEOPOLDO 65 - JUQUITIBA/SP",
+          "data_hora_posicao": "10/11/2026 23:59:04",
+          "lat": -23.9310528,
+          "lon": -47.0011872
         },
-        "distancia_km": 807.7,
+        "distancia_km": 790.4,
         "proximo": false
       }
     ],
@@ -392,10 +347,10 @@
         "frete_rs": 2514.3,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2 km de SCANDIFLEX DO BRASIL LTDA - MAUA/SP",
-          "data_hora_posicao": "10/11/2026 23:46:10",
-          "lat": -23.7217184,
-          "lon": -46.4847744
+          "referencia": "0.99 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "11/11/2026 00:00:10",
+          "lat": -23.7803072,
+          "lon": -46.6223456
         },
         "distancia_km": null,
         "proximo": false
@@ -423,12 +378,12 @@
         "frete_rs": 5283.76,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.4 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "10/11/2026 23:45:12",
-          "lat": -23.8283056,
-          "lon": -46.9268928
+          "referencia": "0.95 km de POSTO 70 - JUQUITIBA/SP",
+          "data_hora_posicao": "10/11/2026 23:59:12",
+          "lat": -23.9402736,
+          "lon": -47.048432
         },
-        "distancia_km": 304.9,
+        "distancia_km": 287.5,
         "proximo": false
       },
       {
@@ -443,12 +398,12 @@
         "frete_rs": 10404.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.21 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "10/11/2026 23:45:28",
-          "lat": -26.8388352,
-          "lon": -48.7686816
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 00:00:13",
+          "lat": -26.8876288,
+          "lon": -48.7206272
         },
-        "distancia_km": 155.0,
+        "distancia_km": 161.7,
         "proximo": false
       }
     ],
@@ -479,10 +434,10 @@
         "frete_rs": 9518.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.79 km de JUND TRANSPORTES - JUNDIAI/SP",
-          "data_hora_posicao": "10/11/2026 23:44:53",
-          "lat": -23.2316183333333,
-          "lon": -46.8956933333333
+          "referencia": "1.55 km de POSTO SHELL - ITUPEVA - ITUPEVA/SP",
+          "data_hora_posicao": "10/11/2026 23:59:17",
+          "lat": -23.092545,
+          "lon": -47.0171466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -499,10 +454,10 @@
         "frete_rs": 531.35,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.79 km de JUND TRANSPORTES - JUNDIAI/SP",
-          "data_hora_posicao": "10/11/2026 23:44:53",
-          "lat": -23.2316183333333,
-          "lon": -46.8956933333333
+          "referencia": "1.55 km de POSTO SHELL - ITUPEVA - ITUPEVA/SP",
+          "data_hora_posicao": "10/11/2026 23:59:17",
+          "lat": -23.092545,
+          "lon": -47.0171466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -531,9 +486,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "10/11/2026 23:45:35",
-          "lat": -29.983696,
-          "lon": -51.1869312
+          "data_hora_posicao": "10/11/2026 23:59:35",
+          "lat": -29.9836064,
+          "lon": -51.1869088
         },
         "distancia_km": null,
         "proximo": false
@@ -562,9 +517,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO IGUAÇU - CHAPECO/SC",
-          "data_hora_posicao": "10/11/2026 23:39:05",
-          "lat": -27.092457,
-          "lon": -52.6192231
+          "data_hora_posicao": "10/11/2026 23:59:03",
+          "lat": -27.0925585,
+          "lon": -52.6192031
         },
         "distancia_km": null,
         "proximo": false
@@ -578,5 +533,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-10T23:47:45"
+  "_gerado_em": "2026-11-11T00:02:38"
 }
