@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:30:07",
+          "data_hora_posicao": "11/11/2026 23:44:07",
           "lat": -26.8876896,
           "lon": -48.7207424
         },
@@ -33,12 +33,12 @@
         "frete_rs": 3907.14,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "4 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "11/11/2026 23:29:12",
-          "lat": -24.4209264,
-          "lon": -47.7723456
+          "referencia": "4.11 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "11/11/2026 23:45:12",
+          "lat": -24.4121664,
+          "lon": -47.7543648
         },
-        "distancia_km": 170.0,
+        "distancia_km": 167.9,
         "proximo": false
       },
       {
@@ -53,12 +53,27 @@
         "frete_rs": 11052.36,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.45 km de NELORE COUROS - GARUVA/SC",
-          "data_hora_posicao": "11/11/2026 23:30:39",
-          "lat": -26.023075,
-          "lon": -48.8617066666667
+          "referencia": "2.06 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "11/11/2026 23:43:29",
+          "lat": -25.9215666666667,
+          "lon": -48.9168666666667
         },
-        "distancia_km": 373.2,
+        "distancia_km": 368.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024077-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 3720.74,
+        "frete_rs": 4396.55,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -74,7 +89,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:30:07",
+          "data_hora_posicao": "11/11/2026 23:44:07",
           "lat": -26.8876896,
           "lon": -48.7207424
         },
@@ -93,12 +108,12 @@
         "frete_rs": 16244.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO ZANDONÁ 6 - GARUVA/SC",
-          "data_hora_posicao": "11/11/2026 23:30:18",
-          "lat": -26.0646512,
-          "lon": -48.8591296
+          "referencia": "1.35 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 23:42:18",
+          "lat": -26.002592,
+          "lon": -48.8734624
         },
-        "distancia_km": 376.5,
+        "distancia_km": 372.2,
         "proximo": false
       },
       {
@@ -159,9 +174,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 15089.5,
-        "frete_rs": 11052.36,
-        "qtde": 1
+        "peso_kg": 18810.239999999998,
+        "frete_rs": 15448.91,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 64418.92,
@@ -190,9 +205,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:29:28",
-          "lat": -26.8873824,
-          "lon": -48.7212192
+          "data_hora_posicao": "11/11/2026 23:43:28",
+          "lat": -26.8874048,
+          "lon": -48.721232
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -209,12 +224,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 23:30:28",
-          "lat": -24.2550256,
-          "lon": -47.3756704
+          "referencia": "0.05 km de CHURRASCARIA REI DO CUPIM - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 23:44:28",
+          "lat": -24.312904,
+          "lon": -47.5172224
         },
-        "distancia_km": 399.4,
+        "distancia_km": 386.1,
         "proximo": false
       },
       {
@@ -229,12 +244,12 @@
         "frete_rs": 15339.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "11/11/2026 23:30:40",
-          "lat": -23.7816656,
-          "lon": -46.7624896
+          "referencia": "0.44 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "11/11/2026 23:45:32",
+          "lat": -23.635944,
+          "lon": -46.833808
         },
-        "distancia_km": 478.5,
+        "distancia_km": 487.4,
         "proximo": false
       },
       {
@@ -265,7 +280,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 23:29:02",
+          "data_hora_posicao": "11/11/2026 23:45:02",
           "lat": -29.1462336,
           "lon": -51.1647712
         },
@@ -306,7 +321,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:30:14",
+          "data_hora_posicao": "11/11/2026 23:44:14",
           "lat": -26.887424,
           "lon": -48.7211424
         },
@@ -325,12 +340,12 @@
         "frete_rs": 9901.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.44 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "11/11/2026 23:30:49",
-          "lat": -23.6359328,
-          "lon": -46.8338304
+          "referencia": "0.62 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 23:44:36",
+          "lat": -23.7592032,
+          "lon": -46.9035392
         },
-        "distancia_km": 408.3,
+        "distancia_km": 392.9,
         "proximo": false
       },
       {
@@ -360,13 +375,13 @@
         "frete_rs": 4334.62,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.5 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "11/11/2026 23:29:20",
-          "lat": -26.8593566666667,
-          "lon": -49.0606633333333
+          "referencia": "0.43 km de PAXÁ CONFECÇÕES LTDA - GASPAR/SC",
+          "data_hora_posicao": "11/11/2026 23:45:20",
+          "lat": -26.8936666666667,
+          "lon": -48.8927633333333
         },
-        "distancia_km": 33.8,
-        "proximo": false
+        "distancia_km": 17.0,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -397,7 +412,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:29:04",
+          "data_hora_posicao": "11/11/2026 23:45:04",
           "lat": -26.8874688,
           "lon": -48.7211424
         },
@@ -416,12 +431,12 @@
         "frete_rs": 4657.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.44 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "11/11/2026 23:30:49",
-          "lat": -23.6359328,
-          "lon": -46.8338304
+          "referencia": "0.62 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "11/11/2026 23:44:36",
+          "lat": -23.7592032,
+          "lon": -46.9035392
         },
-        "distancia_km": 827.3,
+        "distancia_km": 811.9,
         "proximo": false
       },
       {
@@ -437,7 +452,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 23:29:04",
+          "data_hora_posicao": "11/11/2026 23:45:04",
           "lat": -26.8874688,
           "lon": -48.7211424
         },
@@ -472,12 +487,12 @@
         "frete_rs": 6884.77,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.85 km de PEDAGIO - P6 (MAUA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "11/11/2026 23:29:46",
-          "lat": -23.718984,
-          "lon": -46.4720512
+          "referencia": "4.79 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "11/11/2026 23:45:46",
+          "lat": -23.791696,
+          "lon": -46.6576128
         },
-        "distancia_km": 349.1,
+        "distancia_km": 329.1,
         "proximo": false
       },
       {
@@ -492,12 +507,12 @@
         "frete_rs": 7511.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.5 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "11/11/2026 23:29:20",
-          "lat": -26.8593566666667,
-          "lon": -49.0606633333333
+          "referencia": "0.43 km de PAXÁ CONFECÇÕES LTDA - GASPAR/SC",
+          "data_hora_posicao": "11/11/2026 23:45:20",
+          "lat": -26.8936666666667,
+          "lon": -48.8927633333333
         },
-        "distancia_km": 149.9,
+        "distancia_km": 157.1,
         "proximo": false
       }
     ],
@@ -528,10 +543,10 @@
         "frete_rs": 2490.4,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de FILIAL ADORNO CAIEIRAS - CAIEIRAS/SP",
-          "data_hora_posicao": "11/11/2026 23:30:33",
-          "lat": -23.3493833333333,
-          "lon": -46.8095416666667
+          "referencia": "1.81 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "11/11/2026 23:44:33",
+          "lat": -23.2279816666667,
+          "lon": -46.9006016666667
         },
         "distancia_km": null,
         "proximo": false
@@ -548,10 +563,10 @@
         "frete_rs": 217.29,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de FILIAL ADORNO CAIEIRAS - CAIEIRAS/SP",
-          "data_hora_posicao": "11/11/2026 23:30:33",
-          "lat": -23.3493833333333,
-          "lon": -46.8095416666667
+          "referencia": "1.81 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "11/11/2026 23:44:33",
+          "lat": -23.2279816666667,
+          "lon": -46.9006016666667
         },
         "distancia_km": null,
         "proximo": false
@@ -606,7 +621,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 23:29:02",
+          "data_hora_posicao": "11/11/2026 23:45:02",
           "lat": -29.1462336,
           "lon": -51.1647712
         },
@@ -637,7 +652,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 23:28:03",
+          "data_hora_posicao": "11/11/2026 23:44:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -653,5 +668,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T23:32:29"
+  "_gerado_em": "2026-11-11T23:47:25"
 }
