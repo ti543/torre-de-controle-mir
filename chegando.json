@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:44:07",
+          "data_hora_posicao": "12/11/2026 01:00:07",
           "lat": -26.887712,
           "lon": -48.7207488
         },
@@ -33,12 +33,12 @@
         "frete_rs": 3907.14,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "4.11 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "12/11/2026 00:45:12",
-          "lat": -24.4121664,
-          "lon": -47.7543648
+          "referencia": "3.7 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "12/11/2026 01:00:50",
+          "lat": -24.4101472,
+          "lon": -47.7509216
         },
-        "distancia_km": 167.9,
+        "distancia_km": 167.5,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 11052.36,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO O CUPIM 03 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "12/11/2026 00:45:45",
-          "lat": -25.6132833333333,
-          "lon": -49.1708633333333
+          "referencia": "0.08 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 01) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "12/11/2026 00:59:13",
+          "lat": -25.492055,
+          "lon": -49.1136
         },
-        "distancia_km": 363.1,
+        "distancia_km": 350.0,
         "proximo": false
       },
       {
@@ -77,6 +77,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024079-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 8183.24,
+        "frete_rs": 9746.56,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "12/11/2026 01:00:07",
+          "lat": -26.887712,
+          "lon": -48.7207488
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
         "manif": "RSL044333-6",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -89,7 +109,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:44:07",
+          "data_hora_posicao": "12/11/2026 01:00:07",
           "lat": -26.887712,
           "lon": -48.7207488
         },
@@ -108,12 +128,12 @@
         "frete_rs": 16244.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "12/11/2026 00:44:18",
-          "lat": -25.8452208,
-          "lon": -49.0985824
+          "referencia": "0.1 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "12/11/2026 01:00:18",
+          "lat": -25.709168,
+          "lon": -49.1403424
         },
-        "distancia_km": 375.1,
+        "distancia_km": 367.8,
         "proximo": false
       },
       {
@@ -174,9 +194,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 18810.239999999998,
-        "frete_rs": 15448.91,
-        "qtde": 2
+        "peso_kg": 26993.479999999996,
+        "frete_rs": 25195.47,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 64418.92,
@@ -204,12 +224,12 @@
         "frete_rs": 4726.04,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:45:28",
-          "lat": -26.8873952,
-          "lon": -48.7211808
+          "referencia": "0.31 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "12/11/2026 01:00:39",
+          "lat": -26.8418528,
+          "lon": -48.7151296
         },
-        "distancia_km": 98.5,
+        "distancia_km": 101.0,
         "proximo": false
       },
       {
@@ -224,12 +244,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.73 km de PEDAGIO - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "12/11/2026 00:44:28",
-          "lat": -24.722408,
-          "lon": -48.055568
+          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "12/11/2026 01:00:50",
+          "lat": -24.7800224,
+          "lon": -48.1859904
         },
-        "distancia_km": 318.8,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -245,7 +265,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.17 km de PETROLEO E DERIVADOS TUPINAMBA LTDA - JUQUITIBA/SP",
-          "data_hora_posicao": "12/11/2026 00:45:04",
+          "data_hora_posicao": "12/11/2026 00:59:04",
           "lat": -23.9349216,
           "lon": -47.0271744
         },
@@ -268,6 +288,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024078-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1160.95,
+        "frete_rs": 1630.16,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.31 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "12/11/2026 01:00:39",
+          "lat": -26.8418528,
+          "lon": -48.7151296
+        },
+        "distancia_km": 101.0,
+        "proximo": false
+      },
+      {
         "manif": "POA016241-8",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -280,7 +320,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "12/11/2026 00:45:02",
+          "data_hora_posicao": "12/11/2026 00:59:02",
           "lat": -29.1462496,
           "lon": -51.1647552
         },
@@ -298,6 +338,11 @@
         "peso_kg": 41796.8,
         "frete_rs": 50610.729999999996,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 1160.95,
+        "frete_rs": 1630.16,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3233.8,
@@ -321,7 +366,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:44:34",
+          "data_hora_posicao": "12/11/2026 01:00:34",
           "lat": -26.887424,
           "lon": -48.7211424
         },
@@ -341,7 +386,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 68 JUQUITIBA - JUQUITIBA/SP",
-          "data_hora_posicao": "12/11/2026 00:44:36",
+          "data_hora_posicao": "12/11/2026 01:00:36",
           "lat": -23.9352528,
           "lon": -47.0337568
         },
@@ -387,7 +432,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:45:04",
+          "data_hora_posicao": "12/11/2026 00:59:04",
           "lat": -26.8873792,
           "lon": -48.7211296
         },
@@ -407,7 +452,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO 68 JUQUITIBA - JUQUITIBA/SP",
-          "data_hora_posicao": "12/11/2026 00:44:36",
+          "data_hora_posicao": "12/11/2026 01:00:36",
           "lat": -23.9352528,
           "lon": -47.0337568
         },
@@ -427,7 +472,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:45:04",
+          "data_hora_posicao": "12/11/2026 00:59:04",
           "lat": -26.8873792,
           "lon": -48.7211296
         },
@@ -463,7 +508,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO 65 (SÃO LEOPOLDO TUPINAMBA) - JUQUITIBA/SP",
-          "data_hora_posicao": "12/11/2026 00:45:46",
+          "data_hora_posicao": "12/11/2026 00:59:46",
           "lat": -23.9344064,
           "lon": -47.0171264
         },
@@ -483,7 +528,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "12/11/2026 00:45:21",
+          "data_hora_posicao": "12/11/2026 01:00:44",
           "lat": -26.8876433333333,
           "lon": -48.720705
         },
@@ -519,7 +564,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "12/11/2026 00:45:07",
+          "data_hora_posicao": "12/11/2026 00:59:07",
           "lat": -22.8468966666667,
           "lon": -47.12476
         },
@@ -539,7 +584,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "12/11/2026 00:45:07",
+          "data_hora_posicao": "12/11/2026 00:59:07",
           "lat": -22.8468966666667,
           "lon": -47.12476
         },
@@ -596,7 +641,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "12/11/2026 00:45:02",
+          "data_hora_posicao": "12/11/2026 00:59:02",
           "lat": -29.1462496,
           "lon": -51.1647552
         },
@@ -627,7 +672,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "12/11/2026 00:44:03",
+          "data_hora_posicao": "12/11/2026 01:00:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -643,5 +688,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-12T00:47:28"
+  "_gerado_em": "2026-11-12T01:02:31"
 }
