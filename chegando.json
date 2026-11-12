@@ -13,33 +13,13 @@
         "frete_rs": 10839.58,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.07 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 21:30:07",
-          "lat": -26.909792,
-          "lon": -48.7130816
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 21:44:07",
+          "lat": -26.8877248,
+          "lon": -48.7206496
         },
-        "distancia_km": 444.4,
+        "distancia_km": 442.7,
         "proximo": false
-      },
-      {
-        "manif": "CMP010389-6",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 6686.89,
-        "frete_rs": 11713.56,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.19 km de LOGITRAC - AUTORIZADA AUTOTRAC - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 21:30:45",
-          "lat": -23.4595833333333,
-          "lon": -46.471445
-        },
-        "distancia_km": 1.5,
-        "proximo": true
       },
       {
         "manif": "CTB013596-8",
@@ -53,12 +33,12 @@
         "frete_rs": 3907.14,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 21:30:24",
-          "lat": -25.1097312,
-          "lon": -48.7995552
+          "referencia": "1.8 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "11/11/2026 21:45:17",
+          "lat": -25.082048,
+          "lon": -48.6186816
         },
-        "distancia_km": 298.9,
+        "distancia_km": 282.6,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 3594.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 21:30:07",
-          "lat": -26.909792,
-          "lon": -48.7130816
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 21:44:07",
+          "lat": -26.8877248,
+          "lon": -48.7206496
         },
-        "distancia_km": 444.4,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -93,12 +73,12 @@
         "frete_rs": 16244.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.83 km de POSTO BOUTIQUE - ILHOTA/SC",
-          "data_hora_posicao": "11/11/2026 21:30:18",
-          "lat": -26.867424,
-          "lon": -48.8176064
+          "referencia": "0.64 km de POSTO ZANDONÁ 14 - PENHA/SC",
+          "data_hora_posicao": "11/11/2026 21:44:18",
+          "lat": -26.8345744,
+          "lon": -48.6987776
         },
-        "distancia_km": 445.9,
+        "distancia_km": 436.5,
         "proximo": false
       },
       {
@@ -121,11 +101,6 @@
       "Brusque": {
         "peso_kg": 9807.65,
         "frete_rs": 10839.58,
-        "qtde": 1
-      },
-      "Campinas": {
-        "peso_kg": 6686.89,
-        "frete_rs": 11713.56,
         "qtde": 1
       },
       "Curitiba": {
@@ -159,12 +134,12 @@
         "frete_rs": 470.17,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.07 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 21:30:07",
-          "lat": -26.909792,
-          "lon": -48.7130816
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "11/11/2026 21:44:07",
+          "lat": -26.8877248,
+          "lon": -48.7206496
         },
-        "distancia_km": 2.6,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -179,12 +154,12 @@
         "frete_rs": 4870.03,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.75 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 21:28:12",
-          "lat": -25.8565184,
-          "lon": -48.9518656
+          "referencia": "0.22 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 03) - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 21:45:52",
+          "lat": -25.9897536,
+          "lon": -48.8830048
         },
-        "distancia_km": 116.9,
+        "distancia_km": 101.1,
         "proximo": false
       },
       {
@@ -199,13 +174,13 @@
         "frete_rs": 11390.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "11/11/2026 21:30:14",
-          "lat": -26.5700048,
-          "lon": -48.7210656
+          "referencia": "1.14 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
+          "data_hora_posicao": "11/11/2026 21:44:14",
+          "lat": -26.7060416,
+          "lon": -48.7011616
         },
-        "distancia_km": 35.3,
-        "proximo": false
+        "distancia_km": 20.3,
+        "proximo": true
       },
       {
         "manif": "GRU074555-3",
@@ -220,7 +195,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 21:30:36",
+          "data_hora_posicao": "11/11/2026 21:45:27",
           "lat": -23.4705696,
           "lon": -46.4619072
         },
@@ -280,12 +255,12 @@
         "frete_rs": 4726.04,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.75 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "11/11/2026 21:28:12",
-          "lat": -25.8565184,
-          "lon": -48.9518656
+          "referencia": "0.22 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 03) - GARUVA/SC",
+          "data_hora_posicao": "11/11/2026 21:45:52",
+          "lat": -25.9897536,
+          "lon": -48.8830048
         },
-        "distancia_km": 165.3,
+        "distancia_km": 155.2,
         "proximo": false
       },
       {
@@ -300,12 +275,12 @@
         "frete_rs": 14671.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.43 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "11/11/2026 21:30:28",
-          "lat": -24.1461072,
-          "lon": -47.2931712
+          "referencia": "1.02 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
+          "data_hora_posicao": "11/11/2026 21:44:28",
+          "lat": -24.1756368,
+          "lon": -47.3456
         },
-        "distancia_km": 414.1,
+        "distancia_km": 408.4,
         "proximo": false
       },
       {
@@ -321,7 +296,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 21:31:02",
+          "data_hora_posicao": "11/11/2026 21:45:02",
           "lat": -29.1463232,
           "lon": -51.1647712
         },
@@ -362,7 +337,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 21:29:04",
+          "data_hora_posicao": "11/11/2026 21:45:04",
           "lat": -26.8874688,
           "lon": -48.7211424
         },
@@ -382,7 +357,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "11/11/2026 21:30:36",
+          "data_hora_posicao": "11/11/2026 21:45:27",
           "lat": -23.4705696,
           "lon": -46.4619072
         },
@@ -402,7 +377,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "11/11/2026 21:29:04",
+          "data_hora_posicao": "11/11/2026 21:45:04",
           "lat": -26.8874688,
           "lon": -48.7211424
         },
@@ -438,7 +413,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "11/11/2026 21:31:02",
+          "data_hora_posicao": "11/11/2026 21:45:02",
           "lat": -29.1463232,
           "lon": -51.1647712
         },
@@ -469,7 +444,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.52 km de 9ª REGIÃO DE POLÍCIA MILITAR - SAO MIGUEL DO OESTE/SC",
-          "data_hora_posicao": "11/11/2026 21:28:03",
+          "data_hora_posicao": "11/11/2026 21:44:03",
           "lat": -26.7316366,
           "lon": -53.5207635
         },
@@ -485,5 +460,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-11T21:32:35"
+  "_gerado_em": "2026-11-11T21:47:24"
 }
