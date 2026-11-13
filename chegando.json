@@ -17,6 +17,26 @@
         "proximo": false
       },
       {
+        "manif": "BRQ000762-5",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 284.5,
+        "frete_rs": 1286.24,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "13/11/2026 19:15:04",
+          "lat": -27.096416,
+          "lon": -48.9307072
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
         "manif": "CTB013608-5",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -28,12 +48,12 @@
         "frete_rs": 4717.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.94 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "13/11/2026 18:59:28",
-          "lat": -25.5689328,
-          "lon": -49.228336
+          "referencia": "0.3 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "13/11/2026 19:15:28",
+          "lat": -25.6780304,
+          "lon": -49.1497216
         },
-        "distancia_km": 155.1,
+        "distancia_km": 141.1,
         "proximo": false
       },
       {
@@ -54,9 +74,9 @@
     ],
     "por_origem": {
       "Brusque": {
-        "peso_kg": 3337.22,
-        "frete_rs": 2899.99,
-        "qtde": 1
+        "peso_kg": 3621.72,
+        "frete_rs": 4186.23,
+        "qtde": 2
       },
       "Curitiba": {
         "peso_kg": 3562.7,
@@ -73,6 +93,26 @@
   "GRU": {
     "veiculos": [
       {
+        "manif": "BRQ000763-3",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3740.39,
+        "frete_rs": 5865.24,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "13/11/2026 19:15:04",
+          "lat": -27.096416,
+          "lon": -48.9307072
+        },
+        "distancia_km": 473.4,
+        "proximo": false
+      },
+      {
         "manif": "CMP010403-5",
         "origin_unit": "CMP",
         "origin_city": "CAMPINAS/SP",
@@ -84,12 +124,12 @@
         "frete_rs": 8482.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.92 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
-          "data_hora_posicao": "13/11/2026 18:57:00",
-          "lat": -22.916395,
-          "lon": -46.9474383333333
+          "referencia": "0.82 km de CONCESSIONARIA MERCEDES BENZ - ITATIBA/SP",
+          "data_hora_posicao": "13/11/2026 19:14:22",
+          "lat": -22.9979816666667,
+          "lon": -46.7857633333333
         },
-        "distancia_km": 79.1,
+        "distancia_km": 62.1,
         "proximo": false
       },
       {
@@ -104,16 +144,21 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "13/11/2026 18:59:17",
-          "lat": -25.527616,
-          "lon": -49.2954048
+          "referencia": "0.15 km de CONCESSIONARIA MERCEDES BENZ - CURITIBA/PR",
+          "data_hora_posicao": "13/11/2026 19:15:17",
+          "lat": -25.4689312,
+          "lon": -49.2534144
         },
-        "distancia_km": 366.7,
+        "distancia_km": 359.4,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Brusque": {
+        "peso_kg": 3740.39,
+        "frete_rs": 5865.24,
+        "qtde": 1
+      },
       "Campinas": {
         "peso_kg": 3512.5,
         "frete_rs": 8482.62,
@@ -140,12 +185,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.27 km de CONCESSIONARIA VOLVO - CAMPINAS/SP",
-          "data_hora_posicao": "13/11/2026 18:59:57",
-          "lat": -22.8571008,
-          "lon": -47.14088
+          "referencia": "1.16 km de PRE - BASE SP 348 - CAMPINAS/SP",
+          "data_hora_posicao": "13/11/2026 19:15:36",
+          "lat": -23.0038432,
+          "lon": -47.0982336
         },
-        "distancia_km": 545.6,
+        "distancia_km": 533.2,
         "proximo": false
       },
       {
@@ -160,12 +205,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.94 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "13/11/2026 18:59:28",
-          "lat": -25.5689328,
-          "lon": -49.228336
+          "referencia": "0.3 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "13/11/2026 19:15:28",
+          "lat": -25.6780304,
+          "lon": -49.1497216
         },
-        "distancia_km": 186.8,
+        "distancia_km": 177.0,
         "proximo": false
       },
       {
@@ -181,7 +226,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 19:01:03",
+          "data_hora_posicao": "13/11/2026 19:13:03",
           "lat": -29.1463378,
           "lon": -51.1648433
         },
@@ -200,12 +245,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.41 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "13/11/2026 19:00:05",
-          "lat": -23.6693166666667,
-          "lon": -46.8241033333333
+          "referencia": "0.95 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "13/11/2026 19:14:05",
+          "lat": -23.652965,
+          "lon": -46.8280333333333
         },
-        "distancia_km": 484.9,
+        "distancia_km": 486.1,
         "proximo": false
       },
       {
@@ -220,12 +265,12 @@
         "frete_rs": 4996.47,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.69 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "13/11/2026 18:58:46",
-          "lat": -27.4484544,
-          "lon": -50.396064
+          "referencia": "0.08 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "13/11/2026 19:15:50",
+          "lat": -27.302512,
+          "lon": -50.4242144
         },
-        "distancia_km": 78.5,
+        "distancia_km": 77.3,
         "proximo": false
       },
       {
@@ -240,12 +285,12 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.69 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "13/11/2026 18:58:46",
-          "lat": -27.4484544,
-          "lon": -50.396064
+          "referencia": "0.08 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "13/11/2026 19:15:50",
+          "lat": -27.302512,
+          "lon": -50.4242144
         },
-        "distancia_km": 78.5,
+        "distancia_km": 77.3,
         "proximo": false
       },
       {
@@ -260,12 +305,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de CARREFOUR - CENTRO DE DISTRIBUICAO - ESTEIO/RS",
-          "data_hora_posicao": "13/11/2026 19:00:11",
-          "lat": -29.8301472,
-          "lon": -51.1762848
+          "referencia": "0.21 km de EURODIESEL OFICINA MECÂNICA E AUTO PEÇAS LTDA - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "13/11/2026 19:15:14",
+          "lat": -29.7306272,
+          "lon": -51.14952
         },
-        "distancia_km": 327.7,
+        "distancia_km": 316.7,
         "proximo": false
       },
       {
@@ -389,5 +434,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T19:02:47"
+  "_gerado_em": "2026-11-13T19:17:36"
 }
