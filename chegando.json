@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "2.17 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "13/11/2026 17:00:11",
-          "lat": -27.3456065,
-          "lon": -48.632324
+          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
+          "data_hora_posicao": "13/11/2026 17:15:38",
+          "lat": -27.1769998,
+          "lon": -48.611822
         },
-        "distancia_km": 51.7,
+        "distancia_km": 34.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.17 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "13/11/2026 17:00:11",
-          "lat": -27.3456065,
-          "lon": -48.632324
+          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
+          "data_hora_posicao": "13/11/2026 17:15:38",
+          "lat": -27.1769998,
+          "lon": -48.611822
         },
-        "distancia_km": 51.7,
+        "distancia_km": 34.0,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.17 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "13/11/2026 17:00:11",
-          "lat": -27.3456065,
-          "lon": -48.632324
+          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
+          "data_hora_posicao": "13/11/2026 17:15:38",
+          "lat": -27.1769998,
+          "lon": -48.611822
         },
-        "distancia_km": 51.7,
+        "distancia_km": 34.0,
         "proximo": false
       }
     ],
@@ -115,7 +115,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:00:00",
+          "data_hora_posicao": "13/11/2026 17:16:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -135,7 +135,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:00:00",
+          "data_hora_posicao": "13/11/2026 17:16:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -205,7 +205,7 @@
   "RSL": {
     "veiculos": [
       {
-        "manif": "GRU074668-1",
+        "manif": "GRU074670-3",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
         "dest_unit": "RSL",
@@ -216,12 +216,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 16:58:53",
-          "lat": -23.4806333333333,
-          "lon": -46.4693966666667
+          "referencia": "0.33 km de DALLA VALLE TRANSPORTES - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 17:14:53",
+          "lat": -23.5048783333333,
+          "lon": -46.4577566666667
         },
-        "distancia_km": 523.1,
+        "distancia_km": 521.7,
         "proximo": false
       },
       {
@@ -237,7 +237,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:00:00",
+          "data_hora_posicao": "13/11/2026 17:16:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -273,7 +273,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 17:00:02",
+          "data_hora_posicao": "13/11/2026 17:16:02",
           "lat": -29.14631,
           "lon": -51.1648165
         },
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T17:02:40"
+  "_gerado_em": "2026-11-13T17:17:51"
 }
