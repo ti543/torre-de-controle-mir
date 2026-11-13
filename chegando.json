@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
-          "data_hora_posicao": "13/11/2026 15:30:37",
-          "lat": -28.237259,
-          "lon": -48.7005338
+          "referencia": "0.15 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "13/11/2026 15:45:13",
+          "lat": -28.0674208,
+          "lon": -48.7148228
         },
-        "distancia_km": 150.1,
+        "distancia_km": 131.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
-          "data_hora_posicao": "13/11/2026 15:30:37",
-          "lat": -28.237259,
-          "lon": -48.7005338
+          "referencia": "0.15 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "13/11/2026 15:45:13",
+          "lat": -28.0674208,
+          "lon": -48.7148228
         },
-        "distancia_km": 150.1,
+        "distancia_km": 131.2,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
-          "data_hora_posicao": "13/11/2026 15:30:37",
-          "lat": -28.237259,
-          "lon": -48.7005338
+          "referencia": "0.15 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "13/11/2026 15:45:13",
+          "lat": -28.0674208,
+          "lon": -48.7148228
         },
-        "distancia_km": 150.1,
+        "distancia_km": 131.2,
         "proximo": false
       }
     ],
@@ -114,10 +114,10 @@
         "frete_rs": 2205.63,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:30:00",
-          "lat": -27.8081312,
-          "lon": -50.3667712
+          "referencia": "0.21 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:44:00",
+          "lat": -27.8067296,
+          "lon": -50.3665472
         },
         "distancia_km": null,
         "proximo": false
@@ -134,10 +134,10 @@
         "frete_rs": 3814.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:30:00",
-          "lat": -27.8081312,
-          "lon": -50.3667712
+          "referencia": "0.21 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:44:00",
+          "lat": -27.8067296,
+          "lon": -50.3665472
         },
         "distancia_km": null,
         "proximo": false
@@ -156,32 +156,6 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "FLN000138-4",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "OKD7820",
-        "motorista": "DANIEL BANHOLINE",
-        "peso_real_kg": 15.0,
-        "frete_rs": 253.68,
-        "grupo_origem": "FLN",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "FLN": {
-        "peso_kg": 15.0,
-        "frete_rs": 253.68,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -196,12 +170,32 @@
         "frete_rs": 22972.92,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO AGRICOPEL (MIME 08) - APIUNA/SC",
-          "data_hora_posicao": "13/11/2026 15:30:26",
-          "lat": -27.0326112,
-          "lon": -49.3856736
+          "referencia": "2.7 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "13/11/2026 15:42:26",
+          "lat": -27.08488,
+          "lon": -49.4565696
         },
-        "distancia_km": 32.5,
+        "distancia_km": 23.4,
+        "proximo": true
+      },
+      {
+        "manif": "GRU074668-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 22032.97,
+        "frete_rs": 20977.49,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 15:44:54",
+          "lat": -23.4705133333333,
+          "lon": -46.4621416666667
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -216,20 +210,20 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:30:00",
-          "lat": -27.8081312,
-          "lon": -50.3667712
+          "referencia": "0.21 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:44:00",
+          "lat": -27.8067296,
+          "lon": -50.3665472
         },
-        "distancia_km": 97.4,
+        "distancia_km": 97.3,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 21431.34,
-        "frete_rs": 22972.92,
-        "qtde": 1
+        "peso_kg": 43464.31,
+        "frete_rs": 43950.41,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 2273.0,
@@ -299,7 +293,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 15:28:02",
+          "data_hora_posicao": "13/11/2026 15:44:02",
           "lat": -29.14631,
           "lon": -51.1648165
         },
@@ -315,5 +309,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T15:32:43"
+  "_gerado_em": "2026-11-13T15:47:36"
 }
