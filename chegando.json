@@ -1,60 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000762-5",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 284.5,
-        "frete_rs": 1286.24,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 20:16:09",
-          "lat": -26.887728,
-          "lon": -48.7206944
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013608-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3562.7,
-        "frete_rs": 4717.4,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.38 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "13/11/2026 20:15:28",
-          "lat": -26.0888288,
-          "lon": -48.8628896
-        },
-        "distancia_km": 89.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 284.5,
-        "frete_rs": 1286.24,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 3562.7,
-        "frete_rs": 4717.4,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -70,9 +14,9 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 20:16:09",
-          "lat": -26.887728,
-          "lon": -48.7206944
+          "data_hora_posicao": "13/11/2026 20:29:04",
+          "lat": -26.8877184,
+          "lon": -48.7207456
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -89,12 +33,12 @@
         "frete_rs": 8482.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "13/11/2026 20:16:01",
-          "lat": -23.2919866666667,
-          "lon": -46.5789633333333
+          "referencia": "1.05 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 20:30:42",
+          "lat": -23.3688933333333,
+          "lon": -46.554735
         },
-        "distancia_km": 23.1,
+        "distancia_km": 14.7,
         "proximo": true
       },
       {
@@ -109,12 +53,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "13/11/2026 20:15:17",
-          "lat": -25.3505136,
-          "lon": -49.0603328
+          "referencia": "0.23 km de POSTO COSTA BRAVA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "13/11/2026 20:29:17",
+          "lat": -25.318472,
+          "lon": -49.0195264
         },
-        "distancia_km": 336.0,
+        "distancia_km": 330.6,
         "proximo": false
       }
     ],
@@ -150,12 +94,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.32 km de EQUINIX - BARUERI/SP",
-          "data_hora_posicao": "13/11/2026 20:15:36",
-          "lat": -23.493464,
-          "lon": -46.8124512
+          "referencia": "1.29 km de POSTO 22 - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "13/11/2026 20:28:12",
+          "lat": -23.6116224,
+          "lon": -46.8182752
         },
-        "distancia_km": 501.7,
+        "distancia_km": 490.5,
         "proximo": false
       },
       {
@@ -170,12 +114,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.38 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "13/11/2026 20:15:28",
-          "lat": -26.0888288,
-          "lon": -48.8628896
+          "referencia": "0.28 km de POSTO BAVÁRIA - JOINVILLE/SC",
+          "data_hora_posicao": "13/11/2026 20:29:28",
+          "lat": -26.2216832,
+          "lon": -48.916336
         },
-        "distancia_km": 146.8,
+        "distancia_km": 131.5,
         "proximo": false
       },
       {
@@ -190,12 +134,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "4 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "13/11/2026 20:16:12",
-          "lat": -28.9437546,
-          "lon": -51.1863695
+          "referencia": "0.09 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "13/11/2026 20:30:40",
+          "lat": -28.8724485,
+          "lon": -51.2270253
         },
-        "distancia_km": 245.1,
+        "distancia_km": 241.4,
         "proximo": false
       },
       {
@@ -210,12 +154,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "13/11/2026 20:14:18",
-          "lat": -23.6387066666667,
-          "lon": -46.8349616666667
+          "referencia": "0.25 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "13/11/2026 20:30:56",
+          "lat": -23.717395,
+          "lon": -46.8814966666667
         },
-        "distancia_km": 487.0,
+        "distancia_km": 477.2,
         "proximo": false
       },
       {
@@ -230,12 +174,12 @@
         "frete_rs": 4996.47,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO PR - POUSO REDONDO/SC",
-          "data_hora_posicao": "13/11/2026 20:16:00",
-          "lat": -27.2580352,
-          "lon": -49.9297792
+          "referencia": "2.09 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "13/11/2026 20:30:42",
+          "lat": -27.2856192,
+          "lon": -49.8048768
         },
-        "distancia_km": 28.3,
+        "distancia_km": 17.7,
         "proximo": true
       },
       {
@@ -250,12 +194,12 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO PR - POUSO REDONDO/SC",
-          "data_hora_posicao": "13/11/2026 20:16:00",
-          "lat": -27.2580352,
-          "lon": -49.9297792
+          "referencia": "2.09 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "13/11/2026 20:30:42",
+          "lat": -27.2856192,
+          "lon": -49.8048768
         },
-        "distancia_km": 28.3,
+        "distancia_km": 17.7,
         "proximo": true
       },
       {
@@ -270,12 +214,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.76 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "13/11/2026 20:16:11",
-          "lat": -29.272848,
-          "lon": -51.3369536
+          "referencia": "0.05 km de POSTO GAMBATO - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "13/11/2026 20:30:11",
+          "lat": -29.1987488,
+          "lon": -51.2615648
         },
-        "distancia_km": 283.1,
+        "distancia_km": 272.1,
         "proximo": false
       },
       {
@@ -323,6 +267,37 @@
       "Timbó": {
         "peso_kg": 7301.78,
         "frete_rs": 11291.99,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013608-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3562.7,
+        "frete_rs": 4717.4,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.28 km de POSTO BAVÁRIA - JOINVILLE/SC",
+          "data_hora_posicao": "13/11/2026 20:29:28",
+          "lat": -26.2216832,
+          "lon": -48.916336
+        },
+        "distancia_km": 76.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 3562.7,
+        "frete_rs": 4717.4,
         "qtde": 1
       }
     }
@@ -399,5 +374,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T20:17:50"
+  "_gerado_em": "2026-11-13T20:32:39"
 }
