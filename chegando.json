@@ -2,26 +2,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "ARR000252-6",
-        "origin_unit": "ARR",
-        "origin_city": "ARARANGUA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 152.27,
-        "frete_rs": 632.58,
-        "grupo_origem": "ARR",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:30:39",
-          "lat": -26.887735,
-          "lon": -48.7206343
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
         "manif": "BRQ000761-7",
         "origin_unit": "BRQ",
         "origin_city": "BRUSQUE/SC",
@@ -37,24 +17,24 @@
         "proximo": false
       },
       {
-        "manif": "CRC000397-2",
-        "origin_unit": "CRC",
-        "origin_city": "ICARA/SC",
+        "manif": "CTB013608-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
         "dest_unit": "ITJ",
         "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 67.0,
-        "frete_rs": 135.66,
-        "grupo_origem": "CRC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3562.7,
+        "frete_rs": 4717.4,
+        "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:30:39",
-          "lat": -26.887735,
-          "lon": -48.7206343
+          "referencia": "0.32 km de SERVOPA CAMINHÕES - CURITIBA/PR",
+          "data_hora_posicao": "13/11/2026 18:45:34",
+          "lat": -25.533104,
+          "lon": -49.3007616
         },
-        "distancia_km": 0.1,
-        "proximo": true
+        "distancia_km": 161.3,
+        "proximo": false
       },
       {
         "manif": "FLN000139-2",
@@ -70,52 +50,22 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "TUB000396-4",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 677.0,
-        "frete_rs": 1844.67,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:30:39",
-          "lat": -26.887735,
-          "lon": -48.7206343
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       }
     ],
     "por_origem": {
-      "ARR": {
-        "peso_kg": 152.27,
-        "frete_rs": 632.58,
-        "qtde": 1
-      },
       "Brusque": {
         "peso_kg": 3337.22,
         "frete_rs": 2899.99,
         "qtde": 1
       },
-      "CRC": {
-        "peso_kg": 67.0,
-        "frete_rs": 135.66,
+      "Curitiba": {
+        "peso_kg": 3562.7,
+        "frete_rs": 4717.4,
         "qtde": 1
       },
       "FLN": {
         "peso_kg": 12.0,
         "frete_rs": 192.3,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 677.0,
-        "frete_rs": 1844.67,
         "qtde": 1
       }
     }
@@ -134,12 +84,12 @@
         "frete_rs": 8482.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.51 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "13/11/2026 18:30:31",
-          "lat": -22.8501466666667,
-          "lon": -47.120125
+          "referencia": "1.58 km de CAI CARREFOUR VILA BRANDINA - CAMPINAS/SP - CAMPINAS/SP",
+          "data_hora_posicao": "13/11/2026 18:45:01",
+          "lat": -22.8793066666667,
+          "lon": -47.015345
         },
-        "distancia_km": 96.3,
+        "distancia_km": 86.7,
         "proximo": false
       },
       {
@@ -154,10 +104,10 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "13/11/2026 18:30:40",
-          "lat": -25.5275024,
-          "lon": -49.2955904
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "13/11/2026 18:45:41",
+          "lat": -25.527616,
+          "lon": -49.2954048
         },
         "distancia_km": 366.7,
         "proximo": false
@@ -190,12 +140,52 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "13/11/2026 18:29:36",
-          "lat": -22.8469408,
-          "lon": -47.1247872
+          "referencia": "0.54 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "13/11/2026 18:45:36",
+          "lat": -22.8501792,
+          "lon": -47.1203904
         },
-        "distancia_km": 547.4,
+        "distancia_km": 547.3,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013609-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 2880.88,
+        "frete_rs": 3564.84,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.32 km de SERVOPA CAMINHÕES - CURITIBA/PR",
+          "data_hora_posicao": "13/11/2026 18:45:34",
+          "lat": -25.533104,
+          "lon": -49.3007616
+        },
+        "distancia_km": 189.2,
+        "proximo": false
+      },
+      {
+        "manif": "CXS002243-8",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 1944.03,
+        "frete_rs": 6067.22,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "13/11/2026 18:41:08",
+          "lat": -29.146418,
+          "lon": -51.1651841
+        },
+        "distancia_km": 261.9,
         "proximo": false
       },
       {
@@ -210,12 +200,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.18 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 18:27:39",
-          "lat": -23.8070966666667,
-          "lon": -46.6859416666667
+          "referencia": "1.17 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "13/11/2026 18:45:21",
+          "lat": -23.6892583333333,
+          "lon": -46.81858
         },
-        "distancia_km": 480.9,
+        "distancia_km": 483.4,
         "proximo": false
       },
       {
@@ -230,12 +220,12 @@
         "frete_rs": 4996.47,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.62 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "13/11/2026 18:30:40",
-          "lat": -27.7032576,
-          "lon": -50.3350784
+          "referencia": "0.28 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
+          "data_hora_posicao": "13/11/2026 18:45:47",
+          "lat": -27.5666816,
+          "lon": -50.37408
         },
-        "distancia_km": 87.3,
+        "distancia_km": 82.0,
         "proximo": false
       },
       {
@@ -250,12 +240,12 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.62 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "13/11/2026 18:30:40",
-          "lat": -27.7032576,
-          "lon": -50.3350784
+          "referencia": "0.28 km de POSTOS DE COMBUSTÍVEIS - CORREIA PINTO/SC",
+          "data_hora_posicao": "13/11/2026 18:45:47",
+          "lat": -27.5666816,
+          "lon": -50.37408
         },
-        "distancia_km": 87.3,
+        "distancia_km": 82.0,
         "proximo": false
       },
       {
@@ -270,12 +260,27 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.23 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "13/11/2026 18:30:11",
-          "lat": -29.9841984,
-          "lon": -51.1844352
+          "referencia": "2.59 km de MATRIZ HB TRANSPORTES - NOVA SANTA RITA/RS",
+          "data_hora_posicao": "13/11/2026 18:44:11",
+          "lat": -29.8995744,
+          "lon": -51.2444576
         },
-        "distancia_km": 343.3,
+        "distancia_km": 337.6,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016427-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 7252.32,
+        "frete_rs": 11011.7,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -285,20 +290,30 @@
         "frete_rs": 4789.15,
         "qtde": 1
       },
-      "Guarulhos": {
-        "peso_kg": 22032.97,
-        "frete_rs": 20977.49,
+      "Curitiba": {
+        "peso_kg": 2880.88,
+        "frete_rs": 3564.84,
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
-        "peso_kg": 4661.0,
-        "frete_rs": 4996.47,
+        "peso_kg": 6605.03,
+        "frete_rs": 11063.69,
+        "qtde": 2
+      },
+      "Guarulhos": {
+        "peso_kg": 22032.97,
+        "frete_rs": 20977.49,
         "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 15233.05,
         "frete_rs": 20588.87,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 7252.32,
+        "frete_rs": 11011.7,
+        "qtde": 1
       }
     }
   },
@@ -348,5 +363,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T18:32:34"
+  "_gerado_em": "2026-11-13T18:47:36"
 }
