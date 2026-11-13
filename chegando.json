@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:14:46",
-          "lat": -26.91981,
-          "lon": -48.7089016
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:30:39",
+          "lat": -26.887735,
+          "lon": -48.7206343
         },
-        "distancia_km": 3.8,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:14:46",
-          "lat": -26.91981,
-          "lon": -48.7089016
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:30:39",
+          "lat": -26.887735,
+          "lon": -48.7206343
         },
-        "distancia_km": 3.8,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -83,12 +83,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:14:46",
-          "lat": -26.91981,
-          "lon": -48.7089016
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:30:39",
+          "lat": -26.887735,
+          "lon": -48.7206343
         },
-        "distancia_km": 3.8,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -117,6 +117,188 @@
         "peso_kg": 677.0,
         "frete_rs": 1844.67,
         "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010403-5",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 3512.5,
+        "frete_rs": 8482.62,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.51 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "13/11/2026 18:30:31",
+          "lat": -22.8501466666667,
+          "lon": -47.120125
+        },
+        "distancia_km": 96.3,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013607-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 5071.91,
+        "frete_rs": 5388.06,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "13/11/2026 18:30:40",
+          "lat": -25.5275024,
+          "lon": -49.2955904
+        },
+        "distancia_km": 366.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 3512.5,
+        "frete_rs": 8482.62,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5071.91,
+        "frete_rs": 5388.06,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CMP010404-3",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2361.36,
+        "frete_rs": 4789.15,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "13/11/2026 18:29:36",
+          "lat": -22.8469408,
+          "lon": -47.1247872
+        },
+        "distancia_km": 547.4,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074670-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 22032.97,
+        "frete_rs": 20977.49,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "5.18 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 18:27:39",
+          "lat": -23.8070966666667,
+          "lon": -46.6859416666667
+        },
+        "distancia_km": 480.9,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001612-8",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 4661.0,
+        "frete_rs": 4996.47,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.62 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "13/11/2026 18:30:40",
+          "lat": -27.7032576,
+          "lon": -50.3350784
+        },
+        "distancia_km": 87.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016246-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 2273.0,
+        "frete_rs": 2780.02,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.62 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "13/11/2026 18:30:40",
+          "lat": -27.7032576,
+          "lon": -50.3350784
+        },
+        "distancia_km": 87.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016254-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 12960.05,
+        "frete_rs": 17808.85,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.23 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "13/11/2026 18:30:11",
+          "lat": -29.9841984,
+          "lon": -51.1844352
+        },
+        "distancia_km": 343.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 2361.36,
+        "frete_rs": 4789.15,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 22032.97,
+        "frete_rs": 20977.49,
+        "qtde": 1
+      },
+      "Caxias do Sul / Lages": {
+        "peso_kg": 4661.0,
+        "frete_rs": 4996.47,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 15233.05,
+        "frete_rs": 20588.87,
+        "qtde": 2
       }
     }
   },
@@ -166,106 +348,5 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074670-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 22032.97,
-        "frete_rs": 20977.49,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.52 km de PEDAGIO - P5 (SENTIDO ANCHIETA SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "13/11/2026 18:13:39",
-          "lat": -23.7591583333333,
-          "lon": -46.5275216666667
-        },
-        "distancia_km": 495.0,
-        "proximo": false
-      },
-      {
-        "manif": "LGS001612-8",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 4661.0,
-        "frete_rs": 4996.47,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.6 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 18:14:00",
-          "lat": -27.818608,
-          "lon": -50.3667072
-        },
-        "distancia_km": 98.2,
-        "proximo": false
-      },
-      {
-        "manif": "POA016246-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 2273.0,
-        "frete_rs": 2780.02,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.6 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 18:14:00",
-          "lat": -27.818608,
-          "lon": -50.3667072
-        },
-        "distancia_km": 98.2,
-        "proximo": false
-      },
-      {
-        "manif": "POA016254-0",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 12960.05,
-        "frete_rs": 17808.85,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "13/11/2026 18:14:11",
-          "lat": -29.9839488,
-          "lon": -51.1869248
-        },
-        "distancia_km": 343.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 22032.97,
-        "frete_rs": 20977.49,
-        "qtde": 1
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 4661.0,
-        "frete_rs": 4996.47,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 15233.05,
-        "frete_rs": 20588.87,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-13T18:17:27"
+  "_gerado_em": "2026-11-13T18:32:34"
 }
