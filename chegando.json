@@ -13,48 +13,68 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.69 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "13/11/2026 09:43:47",
-          "lat": -28.8823611,
-          "lon": -49.4605521
+          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "13/11/2026 14:45:38",
+          "lat": -28.4685595,
+          "lon": -49.0190056
         },
-        "distancia_km": 233.4,
+        "distancia_km": 178.2,
         "proximo": false
       },
       {
-        "manif": "GRU074612-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
+        "manif": "CRC000397-2",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
         "dest_unit": "ITJ",
         "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 9051.65,
-        "frete_rs": 14272.23,
-        "grupo_origem": "Guarulhos",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 67.0,
+        "frete_rs": 135.66,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "13/11/2026 14:45:38",
+          "lat": -28.4685595,
+          "lon": -49.0190056
+        },
+        "distancia_km": 178.2,
+        "proximo": false
+      },
+      {
+        "manif": "FLN000137-6",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "DANIEL BANHOLINE",
+        "peso_real_kg": 987.0,
+        "frete_rs": 1495.99,
+        "grupo_origem": "FLN",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       },
       {
-        "manif": "POA016247-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
+        "manif": "TUB000396-4",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
         "dest_unit": "ITJ",
         "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 1574.09,
-        "frete_rs": 2383.16,
-        "grupo_origem": "Porto Alegre",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 677.0,
+        "frete_rs": 1844.67,
+        "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO SANTA TEREZA - NAVEGANTES/SC",
-          "data_hora_posicao": "13/11/2026 09:45:04",
-          "lat": -26.833216,
-          "lon": -48.7248032
+          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "13/11/2026 14:45:38",
+          "lat": -28.4685595,
+          "lon": -49.0190056
         },
-        "distancia_km": 6.0,
-        "proximo": true
+        "distancia_km": 178.2,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -63,45 +83,75 @@
         "frete_rs": 632.58,
         "qtde": 1
       },
-      "Guarulhos": {
-        "peso_kg": 9051.65,
-        "frete_rs": 14272.23,
+      "CRC": {
+        "peso_kg": 67.0,
+        "frete_rs": 135.66,
         "qtde": 1
       },
-      "Porto Alegre": {
-        "peso_kg": 1574.09,
-        "frete_rs": 2383.16,
+      "FLN": {
+        "peso_kg": 987.0,
+        "frete_rs": 1495.99,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 677.0,
+        "frete_rs": 1844.67,
         "qtde": 1
       }
     }
   },
-  "CTB": {
+  "LGS": {
     "veiculos": [
       {
-        "manif": "GRU074609-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1235.0,
-        "frete_rs": 1070.43,
-        "grupo_origem": "Guarulhos",
+        "manif": "CXS002242-0",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 3349.26,
+        "frete_rs": 2205.63,
+        "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.73 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "13/11/2026 09:44:31",
-          "lat": -25.5955504,
-          "lon": -49.1733728
+          "referencia": "1.1 km de PRF - CAPAO ALTO/SC",
+          "data_hora_posicao": "13/11/2026 14:42:58",
+          "lat": -28.0225024,
+          "lon": -50.5574656
         },
-        "distancia_km": 14.4,
-        "proximo": true
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016245-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5624.0,
+        "frete_rs": 3814.58,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "1.1 km de PRF - CAPAO ALTO/SC",
+          "data_hora_posicao": "13/11/2026 14:42:58",
+          "lat": -28.0225024,
+          "lon": -50.5574656
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 1235.0,
-        "frete_rs": 1070.43,
+      "Caxias do Sul / Lages": {
+        "peso_kg": 3349.26,
+        "frete_rs": 2205.63,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 5624.0,
+        "frete_rs": 3814.58,
         "qtde": 1
       }
     }
@@ -120,27 +170,12 @@
         "frete_rs": 22972.92,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.73 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "13/11/2026 09:44:31",
-          "lat": -25.5955504,
-          "lon": -49.1733728
+          "referencia": "0.52 km de POSTO IPIRANGA BR470 - BLUMENAU/SC",
+          "data_hora_posicao": "13/11/2026 14:44:26",
+          "lat": -26.8836576,
+          "lon": -49.1451136
         },
-        "distancia_km": 185.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074611-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 8088.88,
-        "frete_rs": 16984.13,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 61.5,
         "proximo": false
       },
       {
@@ -155,20 +190,20 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.24 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 09:44:00",
-          "lat": -29.1483488,
-          "lon": -51.1655968
+          "referencia": "1.1 km de PRF - CAPAO ALTO/SC",
+          "data_hora_posicao": "13/11/2026 14:42:58",
+          "lat": -28.0225024,
+          "lon": -50.5574656
         },
-        "distancia_km": 262.1,
+        "distancia_km": 127.4,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 29520.22,
-        "frete_rs": 39957.05,
-        "qtde": 2
+        "peso_kg": 21431.34,
+        "frete_rs": 22972.92,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 2273.0,
@@ -195,16 +230,16 @@
         "proximo": false
       },
       {
-        "manif": "RSL044371-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
+        "manif": "ITJ024103-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
         "dest_unit": "TBO",
         "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3913.11,
-        "frete_rs": 3504.51,
-        "grupo_origem": "Rio do Sul",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2977.32,
+        "frete_rs": 4005.0,
+        "grupo_origem": "Itajaí",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -216,212 +251,9 @@
         "frete_rs": 9184.3,
         "qtde": 1
       },
-      "Rio do Sul": {
-        "peso_kg": 3913.11,
-        "frete_rs": 3504.51,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024091-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 14308.01,
-        "frete_rs": 12800.09,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.08 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "13/11/2026 09:42:18",
-          "lat": -23.7864144,
-          "lon": -46.9137152
-        },
-        "distancia_km": 57.9,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024092-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 27693.85,
-        "frete_rs": 31867.08,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "2.2 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 09:44:36",
-          "lat": -24.1466768,
-          "lon": -47.2953536
-        },
-        "distancia_km": 113.3,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044358-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 29959.37,
-        "frete_rs": 16154.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.22 km de INFOTEL - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 09:44:29",
-          "lat": -23.5092016,
-          "lon": -46.7193664
-        },
-        "distancia_km": 26.6,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044363-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 14883.77,
-        "frete_rs": 21777.98,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044364-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12649.72,
-        "frete_rs": 8149.73,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016415-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 3004.9,
-        "frete_rs": 3835.21,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016416-0",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 18685.61,
-        "frete_rs": 29602.59,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
       "Itajaí": {
-        "peso_kg": 42001.86,
-        "frete_rs": 44667.17,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 57492.86,
-        "frete_rs": 46082.03999999999,
-        "qtde": 3
-      },
-      "Timbó": {
-        "peso_kg": 21690.510000000002,
-        "frete_rs": 33437.8,
-        "qtde": 2
-      }
-    }
-  },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024095-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2967.17,
-        "frete_rs": 2453.12,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.69 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "13/11/2026 09:43:47",
-          "lat": -28.8823611,
-          "lon": -49.4605521
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2967.17,
-        "frete_rs": 2453.12,
-        "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "POA016245-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 5624.0,
-        "frete_rs": 3814.58,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.24 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 09:44:00",
-          "lat": -29.1483488,
-          "lon": -51.1655968
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 5624.0,
-        "frete_rs": 3814.58,
+        "peso_kg": 2977.32,
+        "frete_rs": 4005.0,
         "qtde": 1
       }
     }
@@ -440,10 +272,10 @@
         "frete_rs": 2565.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO RODOIL - VACARIA - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 09:44:17",
-          "lat": -28.2789333,
-          "lon": -50.7992375
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "13/11/2026 14:44:02",
+          "lat": -29.14631,
+          "lon": -51.1648165
         },
         "distancia_km": null,
         "proximo": false
@@ -457,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T09:47:05"
+  "_gerado_em": "2026-11-13T14:47:54"
 }
