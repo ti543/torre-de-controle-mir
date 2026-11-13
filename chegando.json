@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
-          "data_hora_posicao": "13/11/2026 17:45:28",
-          "lat": -27.0233795,
-          "lon": -48.6077588
+          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:01:11",
+          "lat": -26.9447358,
+          "lon": -48.6890371
         },
-        "distancia_km": 18.8,
+        "distancia_km": 7.1,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
-          "data_hora_posicao": "13/11/2026 17:45:28",
-          "lat": -27.0233795,
-          "lon": -48.6077588
+          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:01:11",
+          "lat": -26.9447358,
+          "lon": -48.6890371
         },
-        "distancia_km": 18.8,
+        "distancia_km": 7.1,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
-          "data_hora_posicao": "13/11/2026 17:45:28",
-          "lat": -27.0233795,
-          "lon": -48.6077588
+          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:01:11",
+          "lat": -26.9447358,
+          "lon": -48.6890371
         },
-        "distancia_km": 18.8,
+        "distancia_km": 7.1,
         "proximo": true
       }
     ],
@@ -160,12 +160,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de CARREFOUR HIPERMERCADO PÊSSEGO - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 17:44:52",
-          "lat": -23.5712966666667,
-          "lon": -46.44678
+          "referencia": "0.13 km de POLICIA MILITAR - MAUA/SP",
+          "data_hora_posicao": "13/11/2026 17:59:57",
+          "lat": -23.6680833333333,
+          "lon": -46.46909
         },
-        "distancia_km": 516.5,
+        "distancia_km": 506.7,
         "proximo": false
       },
       {
@@ -181,7 +181,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:46:00",
+          "data_hora_posicao": "13/11/2026 18:00:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -202,5 +202,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T17:47:45"
+  "_gerado_em": "2026-11-13T18:03:09"
 }
