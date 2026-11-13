@@ -13,13 +13,28 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:01:11",
-          "lat": -26.9447358,
-          "lon": -48.6890371
+          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:14:46",
+          "lat": -26.91981,
+          "lon": -48.7089016
         },
-        "distancia_km": 7.1,
+        "distancia_km": 3.8,
         "proximo": true
+      },
+      {
+        "manif": "BRQ000761-7",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "DANIEL BANHOLINE",
+        "peso_real_kg": 3337.22,
+        "frete_rs": 2899.99,
+        "grupo_origem": "Brusque",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "CRC000397-2",
@@ -33,12 +48,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:01:11",
-          "lat": -26.9447358,
-          "lon": -48.6890371
+          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:14:46",
+          "lat": -26.91981,
+          "lon": -48.7089016
         },
-        "distancia_km": 7.1,
+        "distancia_km": 3.8,
         "proximo": true
       },
       {
@@ -68,12 +83,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO DUBAI - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 18:01:11",
-          "lat": -26.9447358,
-          "lon": -48.6890371
+          "referencia": "0.25 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 18:14:46",
+          "lat": -26.91981,
+          "lon": -48.7089016
         },
-        "distancia_km": 7.1,
+        "distancia_km": 3.8,
         "proximo": true
       }
     ],
@@ -81,6 +96,11 @@
       "ARR": {
         "peso_kg": 152.27,
         "frete_rs": 632.58,
+        "qtde": 1
+      },
+      "Brusque": {
+        "peso_kg": 3337.22,
+        "frete_rs": 2899.99,
         "qtde": 1
       },
       "CRC": {
@@ -160,12 +180,32 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de POLICIA MILITAR - MAUA/SP",
-          "data_hora_posicao": "13/11/2026 17:59:57",
-          "lat": -23.6680833333333,
-          "lon": -46.46909
+          "referencia": "1.52 km de PEDAGIO - P5 (SENTIDO ANCHIETA SP) - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "13/11/2026 18:13:39",
+          "lat": -23.7591583333333,
+          "lon": -46.5275216666667
         },
-        "distancia_km": 506.7,
+        "distancia_km": 495.0,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001612-8",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 4661.0,
+        "frete_rs": 4996.47,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.6 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 18:14:00",
+          "lat": -27.818608,
+          "lon": -50.3667072
+        },
+        "distancia_km": 98.2,
         "proximo": false
       },
       {
@@ -180,12 +220,32 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 18:00:00",
-          "lat": -27.8238272,
-          "lon": -50.3625728
+          "referencia": "0.6 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 18:14:00",
+          "lat": -27.818608,
+          "lon": -50.3667072
         },
-        "distancia_km": 98.3,
+        "distancia_km": 98.2,
+        "proximo": false
+      },
+      {
+        "manif": "POA016254-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 12960.05,
+        "frete_rs": 17808.85,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "13/11/2026 18:14:11",
+          "lat": -29.9839488,
+          "lon": -51.1869248
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -195,12 +255,17 @@
         "frete_rs": 20977.49,
         "qtde": 1
       },
-      "Porto Alegre": {
-        "peso_kg": 2273.0,
-        "frete_rs": 2780.02,
+      "Caxias do Sul / Lages": {
+        "peso_kg": 4661.0,
+        "frete_rs": 4996.47,
         "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 15233.05,
+        "frete_rs": 20588.87,
+        "qtde": 2
       }
     }
   },
-  "_gerado_em": "2026-11-13T18:03:09"
+  "_gerado_em": "2026-11-13T18:17:27"
 }
