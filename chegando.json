@@ -13,13 +13,13 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
-          "data_hora_posicao": "13/11/2026 17:15:38",
-          "lat": -27.1769998,
-          "lon": -48.611822
+          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
+          "data_hora_posicao": "13/11/2026 17:29:37",
+          "lat": -27.1020363,
+          "lon": -48.6176393
         },
-        "distancia_km": 34.0,
-        "proximo": false
+        "distancia_km": 26.0,
+        "proximo": true
       },
       {
         "manif": "CRC000397-2",
@@ -33,13 +33,13 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
-          "data_hora_posicao": "13/11/2026 17:15:38",
-          "lat": -27.1769998,
-          "lon": -48.611822
+          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
+          "data_hora_posicao": "13/11/2026 17:29:37",
+          "lat": -27.1020363,
+          "lon": -48.6176393
         },
-        "distancia_km": 34.0,
-        "proximo": false
+        "distancia_km": 26.0,
+        "proximo": true
       },
       {
         "manif": "FLN000139-2",
@@ -68,13 +68,13 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.26 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
-          "data_hora_posicao": "13/11/2026 17:15:38",
-          "lat": -27.1769998,
-          "lon": -48.611822
+          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
+          "data_hora_posicao": "13/11/2026 17:29:37",
+          "lat": -27.1020363,
+          "lon": -48.6176393
         },
-        "distancia_km": 34.0,
-        "proximo": false
+        "distancia_km": 26.0,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -96,62 +96,6 @@
       "TUB": {
         "peso_kg": 677.0,
         "frete_rs": 1844.67,
-        "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002242-0",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 3349.26,
-        "frete_rs": 2205.63,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:16:00",
-          "lat": -27.8238272,
-          "lon": -50.3625728
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016245-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 5624.0,
-        "frete_rs": 3814.58,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:16:00",
-          "lat": -27.8238272,
-          "lon": -50.3625728
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 3349.26,
-        "frete_rs": 2205.63,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 5624.0,
-        "frete_rs": 3814.58,
         "qtde": 1
       }
     }
@@ -216,12 +160,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de DALLA VALLE TRANSPORTES - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 17:14:53",
-          "lat": -23.5048783333333,
-          "lon": -46.4577566666667
+          "referencia": "0.39 km de FUTURA LOCAÇÕES LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 17:30:09",
+          "lat": -23.539865,
+          "lon": -46.4500433333333
         },
-        "distancia_km": 521.7,
+        "distancia_km": 519.1,
         "proximo": false
       },
       {
@@ -237,7 +181,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:16:00",
+          "data_hora_posicao": "13/11/2026 17:30:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -273,7 +217,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 17:16:02",
+          "data_hora_posicao": "13/11/2026 17:28:02",
           "lat": -29.14631,
           "lon": -51.1648165
         },
@@ -289,5 +233,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T17:17:51"
+  "_gerado_em": "2026-11-13T17:32:42"
 }
