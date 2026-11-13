@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
-          "data_hora_posicao": "13/11/2026 17:29:37",
-          "lat": -27.1020363,
-          "lon": -48.6176393
+          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
+          "data_hora_posicao": "13/11/2026 17:45:28",
+          "lat": -27.0233795,
+          "lon": -48.6077588
         },
-        "distancia_km": 26.0,
+        "distancia_km": 18.8,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
-          "data_hora_posicao": "13/11/2026 17:29:37",
-          "lat": -27.1020363,
-          "lon": -48.6176393
+          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
+          "data_hora_posicao": "13/11/2026 17:45:28",
+          "lat": -27.0233795,
+          "lon": -48.6077588
         },
-        "distancia_km": 26.0,
+        "distancia_km": 18.8,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO BRAVA - ITAPEMA/SC",
-          "data_hora_posicao": "13/11/2026 17:29:37",
-          "lat": -27.1020363,
-          "lon": -48.6176393
+          "referencia": "0.13 km de FILIAL HB TRANSPORTES - CAMBORIU/SC",
+          "data_hora_posicao": "13/11/2026 17:45:28",
+          "lat": -27.0233795,
+          "lon": -48.6077588
         },
-        "distancia_km": 26.0,
+        "distancia_km": 18.8,
         "proximo": true
       }
     ],
@@ -160,12 +160,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de FUTURA LOCAÇÕES LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 17:30:09",
-          "lat": -23.539865,
-          "lon": -46.4500433333333
+          "referencia": "0.26 km de CARREFOUR HIPERMERCADO PÊSSEGO - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 17:44:52",
+          "lat": -23.5712966666667,
+          "lon": -46.44678
         },
-        "distancia_km": 519.1,
+        "distancia_km": 516.5,
         "proximo": false
       },
       {
@@ -181,7 +181,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 17:30:00",
+          "data_hora_posicao": "13/11/2026 17:46:00",
           "lat": -27.8238272,
           "lon": -50.3625728
         },
@@ -202,36 +202,5 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044367-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 2245.12,
-        "frete_rs": 2565.77,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 17:28:02",
-          "lat": -29.14631,
-          "lon": -51.1648165
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2245.12,
-        "frete_rs": 2565.77,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-13T17:32:42"
+  "_gerado_em": "2026-11-13T17:47:45"
 }
