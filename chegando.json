@@ -13,12 +13,12 @@
         "frete_rs": 632.58,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO GIRASSOL LAGUNA - LAGUNA/SC",
-          "data_hora_posicao": "13/11/2026 15:14:42",
-          "lat": -28.3982856,
-          "lon": -48.7840468
+          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "13/11/2026 15:30:37",
+          "lat": -28.237259,
+          "lon": -48.7005338
         },
-        "distancia_km": 168.1,
+        "distancia_km": 150.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 135.66,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO GIRASSOL LAGUNA - LAGUNA/SC",
-          "data_hora_posicao": "13/11/2026 15:14:42",
-          "lat": -28.3982856,
-          "lon": -48.7840468
+          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "13/11/2026 15:30:37",
+          "lat": -28.237259,
+          "lon": -48.7005338
         },
-        "distancia_km": 168.1,
+        "distancia_km": 150.1,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 1844.67,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO GIRASSOL LAGUNA - LAGUNA/SC",
-          "data_hora_posicao": "13/11/2026 15:14:42",
-          "lat": -28.3982856,
-          "lon": -48.7840468
+          "referencia": "2.38 km de POSTO SIM PARADOURO IMBITUBA - IMBITUBA/SC",
+          "data_hora_posicao": "13/11/2026 15:30:37",
+          "lat": -28.237259,
+          "lon": -48.7005338
         },
-        "distancia_km": 168.1,
+        "distancia_km": 150.1,
         "proximo": false
       }
     ],
@@ -114,10 +114,10 @@
         "frete_rs": 2205.63,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:12:58",
-          "lat": -27.867392,
-          "lon": -50.3955712
+          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:30:00",
+          "lat": -27.8081312,
+          "lon": -50.3667712
         },
         "distancia_km": null,
         "proximo": false
@@ -134,10 +134,10 @@
         "frete_rs": 3814.58,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:12:58",
-          "lat": -27.867392,
-          "lon": -50.3955712
+          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:30:00",
+          "lat": -27.8081312,
+          "lon": -50.3667712
         },
         "distancia_km": null,
         "proximo": false
@@ -196,12 +196,12 @@
         "frete_rs": 22972.92,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.33 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "13/11/2026 15:10:26",
-          "lat": -26.9479232,
-          "lon": -49.2964544
+          "referencia": "0.1 km de POSTO AGRICOPEL (MIME 08) - APIUNA/SC",
+          "data_hora_posicao": "13/11/2026 15:30:26",
+          "lat": -27.0326112,
+          "lon": -49.3856736
         },
-        "distancia_km": 45.2,
+        "distancia_km": 32.5,
         "proximo": false
       },
       {
@@ -216,12 +216,12 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 15:12:58",
-          "lat": -27.867392,
-          "lon": -50.3955712
+          "referencia": "0.28 km de KLABIN S/A - UNIDADE LAGES 01 - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 15:30:00",
+          "lat": -27.8081312,
+          "lon": -50.3667712
         },
-        "distancia_km": 104.0,
+        "distancia_km": 97.4,
         "proximo": false
       }
     ],
@@ -299,7 +299,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 15:12:02",
+          "data_hora_posicao": "13/11/2026 15:28:02",
           "lat": -29.14631,
           "lon": -51.1648165
         },
@@ -315,5 +315,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T15:17:31"
+  "_gerado_em": "2026-11-13T15:32:43"
 }
