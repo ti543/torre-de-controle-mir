@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 07:29:04",
+          "data_hora_posicao": "14/11/2026 07:45:04",
           "lat": -26.887568,
           "lon": -48.721248
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 07:29:04",
+          "data_hora_posicao": "14/11/2026 07:45:04",
           "lat": -26.887568,
           "lon": -48.721248
         },
@@ -124,52 +124,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "14/11/2026 07:30:37",
-          "lat": -27.1355104,
-          "lon": -49.543216
+          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "14/11/2026 07:45:36",
+          "lat": -27.135744,
+          "lon": -49.5435328
         },
         "distancia_km": 13.1,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013609-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 2880.88,
-        "frete_rs": 3564.84,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 07:29:28",
-          "lat": -27.2061408,
-          "lon": -49.6493952
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "CXS002243-8",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 1944.03,
-        "frete_rs": 6067.22,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 07:23:35",
-          "lat": -27.206112,
-          "lon": -49.6494751
-        },
-        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -184,12 +144,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.43 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "14/11/2026 07:31:02",
-          "lat": -27.1123466666667,
-          "lon": -49.5280716666667
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "14/11/2026 07:45:37",
+          "lat": -27.13571,
+          "lon": -49.54359
         },
-        "distancia_km": 15.9,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -204,12 +164,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "14/11/2026 07:30:07",
-          "lat": -24.779632,
-          "lon": -48.18632
+          "referencia": "0.83 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "14/11/2026 07:40:54",
+          "lat": -24.7875632,
+          "lon": -48.2084896
         },
-        "distancia_km": 306.9,
+        "distancia_km": 305.1,
         "proximo": false
       },
       {
@@ -241,66 +201,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024105-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 4093.11,
-        "frete_rs": 5998.4,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 07:29:28",
-          "lat": -27.2061408,
-          "lon": -49.6493952
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024106-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 10.0,
-        "frete_rs": 139.12,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 07:29:28",
-          "lat": -27.2061408,
-          "lon": -49.6493952
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "POA016254-0",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 12960.05,
-        "frete_rs": 17808.85,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 07:30:11",
-          "lat": -27.2060512,
-          "lon": -49.6492832
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -309,30 +209,10 @@
         "frete_rs": 4789.15,
         "qtde": 1
       },
-      "Curitiba": {
-        "peso_kg": 2880.88,
-        "frete_rs": 3564.84,
-        "qtde": 1
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 1944.03,
-        "frete_rs": 6067.22,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 49879.450000000004,
         "frete_rs": 56122.91,
         "qtde": 4
-      },
-      "Itajaí": {
-        "peso_kg": 4103.110000000001,
-        "frete_rs": 6137.5199999999995,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 12960.05,
-        "frete_rs": 17808.85,
-        "qtde": 1
       }
     }
   },
@@ -366,7 +246,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 07:29:44",
+          "data_hora_posicao": "14/11/2026 07:45:44",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -386,7 +266,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 07:29:44",
+          "data_hora_posicao": "14/11/2026 07:45:44",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -416,12 +296,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "14/11/2026 07:29:45",
-          "lat": -24.7798576,
-          "lon": -48.1866432
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "14/11/2026 07:36:32",
+          "lat": -24.7935216,
+          "lon": -48.2111104
         },
-        "distancia_km": 240.4,
+        "distancia_km": 238.4,
         "proximo": false
       },
       {
@@ -436,12 +316,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "14/11/2026 07:30:29",
-          "lat": -24.7798272,
-          "lon": -48.1863584
+          "referencia": "0.29 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "14/11/2026 07:36:53",
+          "lat": -24.7958272,
+          "lon": -48.2147296
         },
-        "distancia_km": 240.4,
+        "distancia_km": 238.0,
         "proximo": false
       }
     ],
@@ -467,12 +347,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "14/11/2026 07:29:45",
-          "lat": -24.7798576,
-          "lon": -48.1866432
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "14/11/2026 07:36:32",
+          "lat": -24.7935216,
+          "lon": -48.2111104
         },
-        "distancia_km": 649.9,
+        "distancia_km": 647.5,
         "proximo": false
       }
     ],
@@ -510,5 +390,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T07:32:36"
+  "_gerado_em": "2026-11-14T07:47:32"
 }
