@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 20:45:04",
+          "data_hora_posicao": "13/11/2026 20:59:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,12 @@
         "frete_rs": 8482.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.17 km de TVR TRANSPORTES - TOP FLORIPA TRANSPORTES E LOGÍSTICA LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 20:45:17",
-          "lat": -23.48348,
-          "lon": -46.55989
+          "referencia": "0.16 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 20:59:36",
+          "lat": -23.4645383333333,
+          "lon": -46.4682883333333
         },
-        "distancia_km": 10.1,
+        "distancia_km": 0.9,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.11 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "13/11/2026 20:45:39",
-          "lat": -25.2002944,
-          "lon": -48.8952736
+          "referencia": "0.66 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "13/11/2026 21:00:10",
+          "lat": -25.1097264,
+          "lon": -48.79976
         },
-        "distancia_km": 312.6,
+        "distancia_km": 298.9,
         "proximo": false
       }
     ],
@@ -94,12 +94,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.19 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "13/11/2026 20:45:36",
-          "lat": -23.7471216,
-          "lon": -46.9005408
+          "referencia": "2.13 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "13/11/2026 21:00:04",
+          "lat": -23.871056,
+          "lon": -46.9606208
         },
-        "distancia_km": 473.3,
+        "distancia_km": 458.6,
         "proximo": false
       },
       {
@@ -114,10 +114,10 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.07 km de SERAFIM TRANSPORTES - JOINVILLE/SC",
-          "data_hora_posicao": "13/11/2026 20:45:28",
-          "lat": -26.3779568,
-          "lon": -48.8523936
+          "referencia": "0.04 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "13/11/2026 20:59:28",
+          "lat": -26.4683872,
+          "lon": -48.7470752
         },
         "distancia_km": 121.4,
         "proximo": false
@@ -134,12 +134,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "13/11/2026 20:39:49",
-          "lat": -28.8152931,
-          "lon": -51.2667028
+          "referencia": "0.58 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
+          "data_hora_posicao": "13/11/2026 20:58:59",
+          "lat": -28.666709,
+          "lon": -51.1783558
         },
-        "distancia_km": 239.2,
+        "distancia_km": 221.2,
         "proximo": false
       },
       {
@@ -154,12 +154,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de NOSSO POSTO SÃO LOURENÇO - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 20:45:14",
-          "lat": -23.8470033333333,
-          "lon": -46.937795
+          "referencia": "1.06 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "13/11/2026 20:59:59",
+          "lat": -23.9400816666667,
+          "lon": -47.0596683333333
         },
-        "distancia_km": 462.1,
+        "distancia_km": 446.5,
         "proximo": false
       },
       {
@@ -175,7 +175,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 20:44:34",
+          "data_hora_posicao": "13/11/2026 21:00:00",
           "lat": -27.2427072,
           "lon": -49.6880576
         },
@@ -195,7 +195,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 20:44:34",
+          "data_hora_posicao": "13/11/2026 21:00:00",
           "lat": -27.2427072,
           "lon": -49.6880576
         },
@@ -214,27 +214,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "13/11/2026 20:44:11",
-          "lat": -29.1350944,
-          "lon": -51.1933696
+          "referencia": "0.8 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "13/11/2026 21:00:54",
+          "lat": -29.0572672,
+          "lon": -51.1903168
         },
-        "distancia_km": 262.5,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016428-3",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 7301.78,
-        "frete_rs": 11291.99,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 255.3,
         "proximo": false
       }
     ],
@@ -263,11 +248,6 @@
         "peso_kg": 15233.05,
         "frete_rs": 20588.87,
         "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 7301.78,
-        "frete_rs": 11291.99,
-        "qtde": 1
       }
     }
   },
@@ -285,12 +265,12 @@
         "frete_rs": 4717.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.07 km de SERAFIM TRANSPORTES - JOINVILLE/SC",
-          "data_hora_posicao": "13/11/2026 20:45:28",
-          "lat": -26.3779568,
-          "lon": -48.8523936
+          "referencia": "0.04 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "13/11/2026 20:59:28",
+          "lat": -26.4683872,
+          "lon": -48.7470752
         },
-        "distancia_km": 58.1,
+        "distancia_km": 46.7,
         "proximo": false
       }
     ],
@@ -374,5 +354,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T20:47:37"
+  "_gerado_em": "2026-11-13T21:02:36"
 }
