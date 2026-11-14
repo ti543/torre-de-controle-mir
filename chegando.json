@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 03:29:04",
+          "data_hora_posicao": "14/11/2026 03:45:04",
           "lat": -26.8875392,
           "lon": -48.7212576
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "14/11/2026 03:30:05",
+          "data_hora_posicao": "14/11/2026 03:45:17",
           "lat": -23.4709056,
           "lon": -46.4613632
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 03:29:04",
+          "data_hora_posicao": "14/11/2026 03:45:04",
           "lat": -26.8875392,
           "lon": -48.7212576
         },
@@ -149,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.34 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 03:29:36",
-          "lat": -25.8143584,
-          "lon": -49.1315648
+          "referencia": "0.2 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
+          "data_hora_posicao": "14/11/2026 03:45:36",
+          "lat": -25.8527408,
+          "lon": -48.9753152
         },
-        "distancia_km": 163.1,
+        "distancia_km": 164.8,
         "proximo": false
       },
       {
@@ -169,13 +169,13 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO ZANDONA 9 - ASCURRA/SC",
-          "data_hora_posicao": "14/11/2026 03:30:27",
-          "lat": -26.9607264,
-          "lon": -49.37448
+          "referencia": "2.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "14/11/2026 03:45:39",
+          "lat": -27.0632384,
+          "lon": -49.415824
         },
-        "distancia_km": 38.6,
-        "proximo": false
+        "distancia_km": 28.1,
+        "proximo": true
       },
       {
         "manif": "CXS002243-8",
@@ -190,7 +190,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 03:27:03",
+          "data_hora_posicao": "14/11/2026 03:43:03",
           "lat": -27.243,
           "lon": -49.6884485
         },
@@ -209,12 +209,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 03:30:19",
-          "lat": -25.8256683333333,
-          "lon": -49.1224616666667
+          "referencia": "0.22 km de PRF - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 03:44:55",
+          "lat": -25.85329,
+          "lon": -48.97963
         },
-        "distancia_km": 162.2,
+        "distancia_km": 164.5,
         "proximo": false
       },
       {
@@ -230,7 +230,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.22 km de PETROLEO E DERIVADOS TUPINAMBA LTDA - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 03:30:07",
+          "data_hora_posicao": "14/11/2026 03:44:07",
           "lat": -23.9349168,
           "lon": -47.023552
         },
@@ -279,13 +279,13 @@
         "frete_rs": 5998.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO ZANDONA 9 - ASCURRA/SC",
-          "data_hora_posicao": "14/11/2026 03:30:27",
-          "lat": -26.9607264,
-          "lon": -49.37448
+          "referencia": "2.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "14/11/2026 03:45:39",
+          "lat": -27.0632384,
+          "lon": -49.415824
         },
-        "distancia_km": 38.6,
-        "proximo": false
+        "distancia_km": 28.1,
+        "proximo": true
       },
       {
         "manif": "ITJ024106-7",
@@ -299,13 +299,13 @@
         "frete_rs": 139.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO ZANDONA 9 - ASCURRA/SC",
-          "data_hora_posicao": "14/11/2026 03:30:27",
-          "lat": -26.9607264,
-          "lon": -49.37448
+          "referencia": "2.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "14/11/2026 03:45:39",
+          "lat": -27.0632384,
+          "lon": -49.415824
         },
-        "distancia_km": 38.6,
-        "proximo": false
+        "distancia_km": 28.1,
+        "proximo": true
       },
       {
         "manif": "POA016254-0",
@@ -319,12 +319,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 03:22:11",
-          "lat": -27.3031072,
-          "lon": -50.41672
+          "referencia": "6.61 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "14/11/2026 03:45:57",
+          "lat": -27.2895232,
+          "lon": -50.169856
         },
-        "distancia_km": 76.6,
+        "distancia_km": 52.3,
         "proximo": false
       }
     ],
@@ -391,7 +391,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 03:29:48",
+          "data_hora_posicao": "14/11/2026 03:45:48",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -411,7 +411,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 03:29:48",
+          "data_hora_posicao": "14/11/2026 03:45:48",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -442,7 +442,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.89 km de POSTO SÃO LEOPOLDO 65 - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 03:29:45",
+          "data_hora_posicao": "14/11/2026 03:45:45",
           "lat": -23.9305424,
           "lon": -46.9989952
         },
@@ -462,7 +462,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.2 km de PETROLEO E DERIVADOS TUPINAMBA LTDA - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 03:30:29",
+          "data_hora_posicao": "14/11/2026 03:44:29",
           "lat": -23.9349312,
           "lon": -47.0237568
         },
@@ -493,7 +493,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.89 km de POSTO SÃO LEOPOLDO 65 - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 03:29:45",
+          "data_hora_posicao": "14/11/2026 03:45:45",
           "lat": -23.9305424,
           "lon": -46.9989952
         },
@@ -535,5 +535,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T03:32:39"
+  "_gerado_em": "2026-11-14T03:47:48"
 }
