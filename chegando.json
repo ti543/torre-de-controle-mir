@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 23:29:04",
+          "data_hora_posicao": "13/11/2026 23:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 23:29:17",
-          "lat": -24.7849584,
-          "lon": -48.174576
+          "referencia": "0.13 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
+          "data_hora_posicao": "13/11/2026 23:45:17",
+          "lat": -24.6953296,
+          "lon": -47.998768
         },
-        "distancia_km": 227.1,
+        "distancia_km": 207.1,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 23:29:04",
+          "data_hora_posicao": "13/11/2026 23:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -149,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.74 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 23:27:36",
-          "lat": -24.7443584,
-          "lon": -48.1442112
+          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "13/11/2026 23:45:57",
+          "lat": -24.7800144,
+          "lon": -48.1861312
         },
-        "distancia_km": 312.4,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -170,9 +170,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 23:29:28",
-          "lat": -26.8874048,
-          "lon": -48.7212192
+          "data_hora_posicao": "13/11/2026 23:45:28",
+          "lat": -26.8874176,
+          "lon": -48.7212128
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -189,12 +189,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.75 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
-          "data_hora_posicao": "13/11/2026 23:28:22",
-          "lat": -27.6812715,
-          "lon": -50.3353306
+          "referencia": "3.05 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "13/11/2026 23:45:24",
+          "lat": -27.5200871,
+          "lon": -50.3636256
         },
-        "distancia_km": 85.8,
+        "distancia_km": 78.7,
         "proximo": false
       },
       {
@@ -209,12 +209,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "13/11/2026 23:30:41",
-          "lat": -24.6499,
-          "lon": -47.9357616666667
+          "referencia": "0.08 km de PEDAGIO - CAJATI - CAJATI/SP",
+          "data_hora_posicao": "13/11/2026 23:44:47",
+          "lat": -24.7219216666667,
+          "lon": -48.08194
         },
-        "distancia_km": 331.9,
+        "distancia_km": 317.6,
         "proximo": false
       },
       {
@@ -229,12 +229,42 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de PRE - BASE 02 - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:30:07",
-          "lat": -23.4739072,
-          "lon": -46.4861184
+          "referencia": "0.34 km de ESTACIONAMENTO  - COOPARK - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 23:46:07",
+          "lat": -23.5184016,
+          "lon": -46.6183712
         },
-        "distancia_km": 522.7,
+        "distancia_km": 510.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074685-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 11353.94,
+        "frete_rs": 17610.5,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074686-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 12.0,
+        "frete_rs": 126.42,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -249,12 +279,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "7.92 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 23:30:11",
-          "lat": -28.348432,
-          "lon": -50.8227296
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 23:44:11",
+          "lat": -28.2664512,
+          "lon": -50.7879616
         },
-        "distancia_km": 171.6,
+        "distancia_km": 162.6,
         "proximo": false
       }
     ],
@@ -275,9 +305,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 38513.51,
-        "frete_rs": 38385.990000000005,
-        "qtde": 2
+        "peso_kg": 49879.450000000004,
+        "frete_rs": 56122.91,
+        "qtde": 4
       },
       "Porto Alegre": {
         "peso_kg": 12960.05,
@@ -315,10 +345,10 @@
         "frete_rs": 12985.21,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:30:17",
-          "lat": -23.4789983333333,
-          "lon": -46.4667933333333
+          "referencia": "0.15 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (VILA MARIA) - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 23:44:44",
+          "lat": -23.5258216666667,
+          "lon": -46.5734133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -335,10 +365,10 @@
         "frete_rs": 1710.96,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:30:17",
-          "lat": -23.4789983333333,
-          "lon": -46.4667933333333
+          "referencia": "0.15 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (VILA MARIA) - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 23:44:44",
+          "lat": -23.5258216666667,
+          "lon": -46.5734133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -366,12 +396,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.44 km de ZARAPLAST SA - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 23:30:18",
-          "lat": -23.4405568,
-          "lon": -46.439088
+          "referencia": "0.95 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
+          "data_hora_posicao": "13/11/2026 23:44:18",
+          "lat": -23.4831216,
+          "lon": -46.3304
         },
-        "distancia_km": 446.8,
+        "distancia_km": 448.5,
         "proximo": false
       },
       {
@@ -386,12 +416,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de PRE - BASE 02 - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:30:29",
-          "lat": -23.4735008,
-          "lon": -46.4905056
+          "referencia": "0.07 km de AUTO POSTO RODOVIAS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "13/11/2026 23:44:29",
+          "lat": -23.5221808,
+          "lon": -46.6057472
         },
-        "distancia_km": 441.0,
+        "distancia_km": 430.5,
         "proximo": false
       }
     ],
@@ -417,12 +447,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.44 km de ZARAPLAST SA - SAO PAULO/SP",
-          "data_hora_posicao": "13/11/2026 23:30:18",
-          "lat": -23.4405568,
-          "lon": -46.439088
+          "referencia": "0.95 km de BASE SAU 04 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAQUAQUECETUBA/SP",
+          "data_hora_posicao": "13/11/2026 23:44:18",
+          "lat": -23.4831216,
+          "lon": -46.3304
         },
-        "distancia_km": 866.7,
+        "distancia_km": 868.6,
         "proximo": false
       }
     ],
@@ -460,5 +490,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T23:32:27"
+  "_gerado_em": "2026-11-13T23:47:43"
 }
