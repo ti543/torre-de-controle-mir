@@ -14,32 +14,12 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 20:59:04",
+          "data_hora_posicao": "13/11/2026 21:15:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
         "distancia_km": 442.7,
         "proximo": false
-      },
-      {
-        "manif": "CMP010403-5",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 3512.5,
-        "frete_rs": 8482.62,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.16 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 20:59:36",
-          "lat": -23.4645383333333,
-          "lon": -46.4682883333333
-        },
-        "distancia_km": 0.9,
-        "proximo": true
       },
       {
         "manif": "CTB013607-7",
@@ -53,12 +33,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.66 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "13/11/2026 21:00:10",
-          "lat": -25.1097264,
-          "lon": -48.79976
+          "referencia": "0.74 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "13/11/2026 21:11:17",
+          "lat": -25.0974448,
+          "lon": -48.667968
         },
-        "distancia_km": 298.9,
+        "distancia_km": 287.6,
         "proximo": false
       }
     ],
@@ -66,11 +46,6 @@
       "Brusque": {
         "peso_kg": 3740.39,
         "frete_rs": 5865.24,
-        "qtde": 1
-      },
-      "Campinas": {
-        "peso_kg": 3512.5,
-        "frete_rs": 8482.62,
         "qtde": 1
       },
       "Curitiba": {
@@ -94,12 +69,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.13 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "13/11/2026 21:00:04",
-          "lat": -23.871056,
-          "lon": -46.9606208
+          "referencia": "3.77 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "13/11/2026 21:15:36",
+          "lat": -23.9517712,
+          "lon": -47.103392
         },
-        "distancia_km": 458.6,
+        "distancia_km": 442.9,
         "proximo": false
       },
       {
@@ -114,12 +89,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "13/11/2026 20:59:28",
-          "lat": -26.4683872,
-          "lon": -48.7470752
+          "referencia": "1.23 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "13/11/2026 21:15:28",
+          "lat": -26.5798816,
+          "lon": -48.7223904
         },
-        "distancia_km": 121.4,
+        "distancia_km": 115.3,
         "proximo": false
       },
       {
@@ -134,12 +109,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.58 km de RESTAURANTE E LANCHERIA SANDI - IPE/RS",
-          "data_hora_posicao": "13/11/2026 20:58:59",
-          "lat": -28.666709,
-          "lon": -51.1783558
+          "referencia": "6.99 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 21:14:41",
+          "lat": -28.6132898,
+          "lon": -51.0431768
         },
-        "distancia_km": 221.2,
+        "distancia_km": 207.9,
         "proximo": false
       },
       {
@@ -154,12 +129,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.06 km de POLICIA MILITAR - JUQUITIBA/SP",
-          "data_hora_posicao": "13/11/2026 20:59:59",
-          "lat": -23.9400816666667,
-          "lon": -47.0596683333333
+          "referencia": "0.21 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 21:14:57",
+          "lat": -24.032315,
+          "lon": -47.181605
         },
-        "distancia_km": 446.5,
+        "distancia_km": 431.0,
         "proximo": false
       },
       {
@@ -174,12 +149,12 @@
         "frete_rs": 4996.47,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 21:00:00",
-          "lat": -27.2427072,
-          "lon": -49.6880576
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "13/11/2026 21:16:00",
+          "lat": -27.2057376,
+          "lon": -49.6489984
         },
-        "distancia_km": 5.6,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -194,12 +169,12 @@
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 21:00:00",
-          "lat": -27.2427072,
-          "lon": -49.6880576
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "13/11/2026 21:16:00",
+          "lat": -27.2057376,
+          "lon": -49.6489984
         },
-        "distancia_km": 5.6,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -214,12 +189,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.8 km de POSTO SIM | FLORES PÉROLA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "13/11/2026 21:00:54",
-          "lat": -29.0572672,
-          "lon": -51.1903168
+          "referencia": "4.11 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "13/11/2026 21:15:56",
+          "lat": -28.9594656,
+          "lon": -51.17392
         },
-        "distancia_km": 255.3,
+        "distancia_km": 245.7,
         "proximo": false
       }
     ],
@@ -265,12 +240,12 @@
         "frete_rs": 4717.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "13/11/2026 20:59:28",
-          "lat": -26.4683872,
-          "lon": -48.7470752
+          "referencia": "1.23 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "13/11/2026 21:15:28",
+          "lat": -26.5798816,
+          "lon": -48.7223904
         },
-        "distancia_km": 46.7,
+        "distancia_km": 34.2,
         "proximo": false
       }
     ],
@@ -354,5 +329,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T21:02:36"
+  "_gerado_em": "2026-11-13T21:17:36"
 }
