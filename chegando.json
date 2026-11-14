@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 04:59:04",
+          "data_hora_posicao": "14/11/2026 05:15:04",
           "lat": -26.8875936,
           "lon": -48.7212448
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 04:59:04",
+          "data_hora_posicao": "14/11/2026 05:15:04",
           "lat": -26.8875936,
           "lon": -48.7212448
         },
@@ -124,12 +124,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.02 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
-          "data_hora_posicao": "14/11/2026 05:00:24",
-          "lat": -26.4675696,
-          "lon": -48.9619392
+          "referencia": "0.58 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "14/11/2026 05:15:36",
+          "lat": -26.4799168,
+          "lon": -49.0009696
         },
-        "distancia_km": 106.8,
+        "distancia_km": 103.3,
         "proximo": false
       },
       {
@@ -145,9 +145,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 04:59:28",
-          "lat": -27.20592,
-          "lon": -49.6488576
+          "data_hora_posicao": "14/11/2026 05:15:28",
+          "lat": -27.2059296,
+          "lon": -49.648864
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -165,7 +165,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 04:59:03",
+          "data_hora_posicao": "14/11/2026 05:14:13",
           "lat": -27.243,
           "lon": -49.6884485
         },
@@ -184,12 +184,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.56 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
-          "data_hora_posicao": "14/11/2026 04:59:02",
-          "lat": -26.461265,
-          "lon": -48.9443266666667
+          "referencia": "0.58 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "14/11/2026 05:14:40",
+          "lat": -26.4798316666667,
+          "lon": -49.0010333333333
         },
-        "distancia_km": 108.4,
+        "distancia_km": 103.3,
         "proximo": false
       },
       {
@@ -204,12 +204,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO VALE DO RIBEIRA - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 05:00:07",
-          "lat": -24.2853504,
-          "lon": -47.4418304
+          "referencia": "0.55 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "14/11/2026 05:14:07",
+          "lat": -24.3296368,
+          "lon": -47.6180576
         },
-        "distancia_km": 392.9,
+        "distancia_km": 379.0,
         "proximo": false
       },
       {
@@ -255,9 +255,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 04:59:28",
-          "lat": -27.20592,
-          "lon": -49.6488576
+          "data_hora_posicao": "14/11/2026 05:15:28",
+          "lat": -27.2059296,
+          "lon": -49.648864
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -275,9 +275,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 04:59:28",
-          "lat": -27.20592,
-          "lon": -49.6488576
+          "data_hora_posicao": "14/11/2026 05:15:28",
+          "lat": -27.2059296,
+          "lon": -49.648864
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -294,10 +294,10 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 05:00:11",
-          "lat": -27.2426976,
-          "lon": -49.6882592
+          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "14/11/2026 05:14:11",
+          "lat": -27.2425664,
+          "lon": -49.6880544
         },
         "distancia_km": 5.6,
         "proximo": true
@@ -366,7 +366,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 04:59:47",
+          "data_hora_posicao": "14/11/2026 05:15:46",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -386,7 +386,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 04:59:47",
+          "data_hora_posicao": "14/11/2026 05:15:46",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -416,12 +416,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.81 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 04:59:45",
-          "lat": -24.082952,
-          "lon": -47.2530336
+          "referencia": "0.01 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 05:15:45",
+          "lat": -24.1815152,
+          "lon": -47.3534016
         },
-        "distancia_km": 344.9,
+        "distancia_km": 330.7,
         "proximo": false
       },
       {
@@ -436,12 +436,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO BREDA - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 05:00:29",
-          "lat": -24.2863808,
-          "lon": -47.4472608
+          "referencia": "0.09 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "14/11/2026 05:14:29",
+          "lat": -24.3298192,
+          "lon": -47.6231296
         },
-        "distancia_km": 316.2,
+        "distancia_km": 305.0,
         "proximo": false
       }
     ],
@@ -467,12 +467,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.81 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 04:59:45",
-          "lat": -24.082952,
-          "lon": -47.2530336
+          "referencia": "0.01 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 05:15:45",
+          "lat": -24.1815152,
+          "lon": -47.3534016
         },
-        "distancia_km": 762.9,
+        "distancia_km": 748.3,
         "proximo": false
       }
     ],
@@ -510,5 +510,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T05:02:35"
+  "_gerado_em": "2026-11-14T05:17:34"
 }
