@@ -14,9 +14,9 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 09:45:04",
-          "lat": -26.8875008,
-          "lon": -48.7213088
+          "data_hora_posicao": "14/11/2026 09:59:04",
+          "lat": -26.8875584,
+          "lon": -48.721232
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 09:45:04",
-          "lat": -26.8875008,
-          "lon": -48.7213088
+          "data_hora_posicao": "14/11/2026 09:59:04",
+          "lat": -26.8875584,
+          "lon": -48.721232
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 09:43:43",
+          "data_hora_posicao": "14/11/2026 09:59:42",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 09:43:43",
+          "data_hora_posicao": "14/11/2026 09:59:42",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -190,12 +190,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de TRANS LOVATO - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "14/11/2026 09:43:45",
-          "lat": -25.517952,
-          "lon": -49.1328544
+          "referencia": "0.65 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "14/11/2026 09:59:45",
+          "lat": -25.6199872,
+          "lon": -49.1681824
         },
-        "distancia_km": 157.7,
+        "distancia_km": 147.8,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.51 km de PRF - BASE BR 116 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "14/11/2026 09:44:29",
-          "lat": -25.5304176,
-          "lon": -49.1435584
+          "referencia": "0.18 km de POSTO POTENCIAL - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "14/11/2026 10:00:29",
+          "lat": -25.6426672,
+          "lon": -49.159552
         },
-        "distancia_km": 156.7,
+        "distancia_km": 145.2,
         "proximo": false
       }
     ],
@@ -241,12 +241,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de TRANS LOVATO - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "14/11/2026 09:43:45",
-          "lat": -25.517952,
-          "lon": -49.1328544
+          "referencia": "0.65 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "14/11/2026 09:59:45",
+          "lat": -25.6199872,
+          "lon": -49.1681824
         },
-        "distancia_km": 536.0,
+        "distancia_km": 524.2,
         "proximo": false
       }
     ],
@@ -272,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de AIZT TRANSPORTADORA E LOCADORA DE VEÍCULOS LTDA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 09:44:07",
-          "lat": -25.3461376,
-          "lon": -49.044352
+          "referencia": "1.01 km de VOLVO DO BRASIL LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "14/11/2026 10:00:07",
+          "lat": -25.5033152,
+          "lon": -49.1221088
         },
-        "distancia_km": 215.4,
+        "distancia_km": 196.5,
         "proximo": false
       },
       {
@@ -345,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T09:47:37"
+  "_gerado_em": "2026-11-14T10:02:32"
 }
