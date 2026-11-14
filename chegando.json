@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:59:04",
+          "data_hora_posicao": "13/11/2026 23:15:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 23:00:26",
+          "data_hora_posicao": "13/11/2026 23:15:17",
           "lat": -24.7858624,
           "lon": -48.1749664
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:59:04",
+          "data_hora_posicao": "13/11/2026 23:15:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -149,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
-          "data_hora_posicao": "13/11/2026 22:55:36",
-          "lat": -24.5291744,
-          "lon": -47.8564672
+          "referencia": "0.13 km de POSTO JACUPIRANGA (477) - JACUPIRANGA/SP",
+          "data_hora_posicao": "13/11/2026 23:15:36",
+          "lat": -24.6985504,
+          "lon": -48.0036288
         },
-        "distancia_km": 347.5,
+        "distancia_km": 323.8,
         "proximo": false
       },
       {
@@ -170,11 +170,11 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:59:28",
-          "lat": -26.887328,
-          "lon": -48.721168
+          "data_hora_posicao": "13/11/2026 23:15:28",
+          "lat": -26.887376,
+          "lon": -48.7212096
         },
-        "distancia_km": 98.6,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -189,12 +189,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.56 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "13/11/2026 22:59:41",
-          "lat": -27.8898688,
-          "lon": -50.4192256
+          "referencia": "1.63 km de ETESUL PLANALTO INSPEÇÃO VEICULAR LTDA - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 23:14:25",
+          "lat": -27.7780655,
+          "lon": -50.3407016
         },
-        "distancia_km": 107.4,
+        "distancia_km": 93.2,
         "proximo": false
       },
       {
@@ -209,12 +209,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO ESTRELA AZUL - JUQUIA/SP",
-          "data_hora_posicao": "13/11/2026 22:56:13",
-          "lat": -24.3625866666667,
-          "lon": -47.69104
+          "referencia": "0.1 km de POSTO IPIRANGA SASSAKI - REGISTRO/SP",
+          "data_hora_posicao": "13/11/2026 23:14:42",
+          "lat": -24.5007033333333,
+          "lon": -47.8453233333333
         },
-        "distancia_km": 372.0,
+        "distancia_km": 350.8,
         "proximo": false
       },
       {
@@ -230,9 +230,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:00:07",
-          "lat": -23.470592,
-          "lon": -46.4619296
+          "data_hora_posicao": "13/11/2026 23:14:07",
+          "lat": -23.4706592,
+          "lon": -46.462336
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -249,12 +249,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 23:00:11",
-          "lat": -28.5658144,
-          "lon": -50.995888
+          "referencia": "0.12 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 23:14:11",
+          "lat": -28.4937696,
+          "lon": -50.9121984
         },
-        "distancia_km": 200.9,
+        "distancia_km": 189.5,
         "proximo": false
       }
     ],
@@ -326,10 +326,30 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:00:18",
-          "lat": -23.4706576,
-          "lon": -46.4621952
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 23:14:41",
+          "lat": -23.4703312,
+          "lon": -46.462128
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074681-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 11952.83,
+        "frete_rs": 16980.13,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 23:14:29",
+          "lat": -23.4706368,
+          "lon": -46.462368
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -337,9 +357,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 8508.06,
-        "frete_rs": 7658.17,
-        "qtde": 1
+        "peso_kg": 20460.89,
+        "frete_rs": 24638.300000000003,
+        "qtde": 2
       }
     }
   },
@@ -357,12 +377,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 23:00:18",
-          "lat": -23.4706576,
-          "lon": -46.4621952
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 23:14:41",
+          "lat": -23.4703312,
+          "lon": -46.462128
         },
-        "distancia_km": 862.6,
+        "distancia_km": 862.7,
         "proximo": false
       }
     ],
@@ -400,5 +420,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T23:02:40"
+  "_gerado_em": "2026-11-13T23:17:40"
 }
