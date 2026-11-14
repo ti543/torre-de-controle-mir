@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:45:04",
+          "data_hora_posicao": "13/11/2026 22:59:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 22:45:17",
+          "data_hora_posicao": "13/11/2026 23:00:26",
           "lat": -24.7858624,
           "lon": -48.1749664
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:45:04",
+          "data_hora_posicao": "13/11/2026 22:59:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -149,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "2.06 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "13/11/2026 22:45:36",
-          "lat": -24.4315584,
-          "lon": -47.7878688
+          "referencia": "0.17 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
+          "data_hora_posicao": "13/11/2026 22:55:36",
+          "lat": -24.5291744,
+          "lon": -47.8564672
         },
-        "distancia_km": 360.4,
+        "distancia_km": 347.5,
         "proximo": false
       },
       {
@@ -169,10 +169,10 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:45:28",
-          "lat": -26.887408,
-          "lon": -48.7209088
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 22:59:28",
+          "lat": -26.887328,
+          "lon": -48.721168
         },
         "distancia_km": 98.6,
         "proximo": false
@@ -189,12 +189,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.3 km de QUEIJO & CIA - CAPAO ALTO/SC",
-          "data_hora_posicao": "13/11/2026 22:44:43",
-          "lat": -28.0081408,
-          "lon": -50.5430784
+          "referencia": "2.56 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "13/11/2026 22:59:41",
+          "lat": -27.8898688,
+          "lon": -50.4192256
         },
-        "distancia_km": 125.3,
+        "distancia_km": 107.4,
         "proximo": false
       },
       {
@@ -210,8 +210,8 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO ESTRELA AZUL - JUQUIA/SP",
-          "data_hora_posicao": "13/11/2026 22:36:18",
-          "lat": -24.36256,
+          "data_hora_posicao": "13/11/2026 22:56:13",
+          "lat": -24.3625866666667,
           "lon": -47.69104
         },
         "distancia_km": 372.0,
@@ -230,7 +230,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 22:44:07",
+          "data_hora_posicao": "13/11/2026 23:00:07",
           "lat": -23.470592,
           "lon": -46.4619296
         },
@@ -249,12 +249,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.79 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "13/11/2026 22:45:18",
-          "lat": -28.6212288,
-          "lon": -51.069168
+          "referencia": "0.04 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 23:00:11",
+          "lat": -28.5658144,
+          "lon": -50.995888
         },
-        "distancia_km": 210.3,
+        "distancia_km": 200.9,
         "proximo": false
       }
     ],
@@ -327,9 +327,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 22:44:18",
-          "lat": -23.4706896,
-          "lon": -46.4621568
+          "data_hora_posicao": "13/11/2026 23:00:18",
+          "lat": -23.4706576,
+          "lon": -46.4621952
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -358,9 +358,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 22:44:18",
-          "lat": -23.4706896,
-          "lon": -46.4621568
+          "data_hora_posicao": "13/11/2026 23:00:18",
+          "lat": -23.4706576,
+          "lon": -46.4621952
         },
         "distancia_km": 862.6,
         "proximo": false
@@ -374,5 +374,31 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T22:47:39"
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074679-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 15143.46,
+        "frete_rs": 17920.56,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 15143.46,
+        "frete_rs": 17920.56,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-13T23:02:40"
 }
