@@ -14,9 +14,9 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 08:31:04",
-          "lat": -26.887568,
-          "lon": -48.721248
+          "data_hora_posicao": "14/11/2026 08:45:04",
+          "lat": -26.8875008,
+          "lon": -48.7213088
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 08:31:04",
-          "lat": -26.887568,
-          "lon": -48.721248
+          "data_hora_posicao": "14/11/2026 08:45:04",
+          "lat": -26.8875008,
+          "lon": -48.7213088
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -110,48 +110,156 @@
       }
     }
   },
-  "RSL": {
+  "CMP": {
     "veiculos": [
       {
-        "manif": "CMP010404-3",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 2361.36,
-        "frete_rs": 4789.15,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 08:29:36",
-          "lat": -27.2058752,
-          "lon": -49.649312
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074670-3",
+        "manif": "GRU074671-1",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 22032.97,
-        "frete_rs": 20977.49,
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 195.0,
+        "frete_rs": 1113.67,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074683-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 10356.24,
+        "frete_rs": 12985.21,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 08:29:43",
-          "lat": -27.205955,
-          "lon": -49.6489666666667
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "14/11/2026 08:45:43",
+          "lat": -22.8469016666667,
+          "lon": -47.124795
         },
-        "distancia_km": 0.1,
-        "proximo": true
+        "distancia_km": null,
+        "proximo": false
       },
+      {
+        "manif": "GRU074684-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 1387.0,
+        "frete_rs": 1710.96,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "14/11/2026 08:45:43",
+          "lat": -22.8469016666667,
+          "lon": -47.124795
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 11938.24,
+        "frete_rs": 15809.84,
+        "qtde": 3
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074676-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 8508.06,
+        "frete_rs": 7658.17,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.13 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "14/11/2026 08:45:45",
+          "lat": -25.1024816,
+          "lon": -48.73552
+        },
+        "distancia_km": 198.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074681-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 11952.83,
+        "frete_rs": 16980.13,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.08 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "14/11/2026 08:44:29",
+          "lat": -25.1020176,
+          "lon": -48.7244448
+        },
+        "distancia_km": 198.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 20460.89,
+        "frete_rs": 24638.300000000003,
+        "qtde": 2
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU074677-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.13 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "14/11/2026 08:45:45",
+          "lat": -25.1024816,
+          "lon": -48.73552
+        },
+        "distancia_km": 594.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
       {
         "manif": "GRU074678-9",
         "origin_unit": "GRU",
@@ -164,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "14/11/2026 08:28:07",
-          "lat": -24.9818384,
-          "lon": -48.506496
+          "referencia": "1.26 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 08:44:07",
+          "lat": -25.0824112,
+          "lon": -48.6132672
         },
-        "distancia_km": 272.4,
+        "distancia_km": 257.8,
         "proximo": false
       },
       {
@@ -204,163 +312,10 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 2361.36,
-        "frete_rs": 4789.15,
-        "qtde": 1
-      },
       "Guarulhos": {
-        "peso_kg": 49879.450000000004,
-        "frete_rs": 56122.91,
-        "qtde": 4
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074671-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 195.0,
-        "frete_rs": 1113.67,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074683-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 10356.24,
-        "frete_rs": 12985.21,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 08:29:44",
-          "lat": -22.8469016666667,
-          "lon": -47.124795
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074684-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 1387.0,
-        "frete_rs": 1710.96,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 08:29:44",
-          "lat": -22.8469016666667,
-          "lon": -47.124795
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 11938.24,
-        "frete_rs": 15809.84,
+        "peso_kg": 27846.480000000003,
+        "frete_rs": 35145.42,
         "qtde": 3
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074676-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 8508.06,
-        "frete_rs": 7658.17,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.37 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "14/11/2026 08:19:45",
-          "lat": -24.9829712,
-          "lon": -48.5067648
-        },
-        "distancia_km": 212.9,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074681-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 11952.83,
-        "frete_rs": 16980.13,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.61 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "14/11/2026 08:21:02",
-          "lat": -24.9992448,
-          "lon": -48.5091584
-        },
-        "distancia_km": 211.0,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 20460.89,
-        "frete_rs": 24638.300000000003,
-        "qtde": 2
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074677-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.37 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "14/11/2026 08:19:45",
-          "lat": -24.9829712,
-          "lon": -48.5067648
-        },
-        "distancia_km": 615.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "qtde": 1
       }
     }
   },
@@ -390,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T08:32:46"
+  "_gerado_em": "2026-11-14T08:47:47"
 }
