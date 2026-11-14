@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:15:04",
+          "data_hora_posicao": "13/11/2026 22:31:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.78 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 22:15:17",
-          "lat": -24.7884736,
-          "lon": -48.1825248
+          "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "13/11/2026 22:30:33",
+          "lat": -24.7858624,
+          "lon": -48.1749664
         },
-        "distancia_km": 227.9,
+        "distancia_km": 227.2,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:15:04",
+          "data_hora_posicao": "13/11/2026 22:31:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -90,6 +90,21 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "TBO016429-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 13219.22,
+        "frete_rs": 22010.35,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -112,6 +127,11 @@
         "peso_kg": 28202.46,
         "frete_rs": 28752.309999999998,
         "qtde": 2
+      },
+      "Timbó": {
+        "peso_kg": 13219.22,
+        "frete_rs": 22010.35,
+        "qtde": 1
       }
     }
   },
@@ -129,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.31 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 22:15:36",
-          "lat": -24.2883456,
-          "lon": -47.4599968
+          "referencia": "0.28 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "13/11/2026 22:29:36",
+          "lat": -24.3304672,
+          "lon": -47.627088
         },
-        "distancia_km": 391.6,
+        "distancia_km": 378.5,
         "proximo": false
       },
       {
@@ -150,8 +170,8 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:15:28",
-          "lat": -26.887376,
+          "data_hora_posicao": "13/11/2026 22:29:28",
+          "lat": -26.8873504,
           "lon": -48.7208736
         },
         "distancia_km": 98.6,
@@ -169,12 +189,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 22:06:12",
-          "lat": -28.2587943,
-          "lon": -50.783813
+          "referencia": "5.42 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "13/11/2026 22:22:15",
+          "lat": -28.1848486,
+          "lon": -50.7086505
         },
-        "distancia_km": 161.7,
+        "distancia_km": 150.7,
         "proximo": false
       },
       {
@@ -189,12 +209,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.35 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "13/11/2026 22:13:57",
-          "lat": -24.34402,
-          "lon": -47.6479
+          "referencia": "0.09 km de POSTO ESTRELA AZUL - JUQUIA/SP",
+          "data_hora_posicao": "13/11/2026 22:26:18",
+          "lat": -24.36256,
+          "lon": -47.69104
         },
-        "distancia_km": 376.1,
+        "distancia_km": 372.0,
         "proximo": false
       },
       {
@@ -209,12 +229,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.22 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "13/11/2026 22:11:54",
-          "lat": -28.8143104,
-          "lon": -51.2672576
+          "referencia": "7.23 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "13/11/2026 22:22:34",
+          "lat": -28.7266048,
+          "lon": -51.250816
         },
-        "distancia_km": 239.1,
+        "distancia_km": 230.9,
         "proximo": false
       }
     ],
@@ -272,67 +292,5 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074673-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 6924.03,
-        "frete_rs": 5648.46,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 22:14:18",
-          "lat": -23.4706896,
-          "lon": -46.4621568
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6924.03,
-        "frete_rs": 5648.46,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074675-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "13/11/2026 22:14:18",
-          "lat": -23.4706896,
-          "lon": -46.4621568
-        },
-        "distancia_km": 862.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-13T22:17:34"
+  "_gerado_em": "2026-11-13T22:32:43"
 }
