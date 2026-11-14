@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 08:59:04",
+          "data_hora_posicao": "14/11/2026 09:15:04",
           "lat": -26.8875008,
           "lon": -48.7213088
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 08:59:04",
+          "data_hora_posicao": "14/11/2026 09:15:04",
           "lat": -26.8875008,
           "lon": -48.7213088
         },
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 08:59:43",
+          "data_hora_posicao": "14/11/2026 09:15:43",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 08:59:43",
+          "data_hora_posicao": "14/11/2026 09:15:43",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -190,12 +190,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 08:55:45",
-          "lat": -25.1051648,
-          "lon": -48.8415552
+          "referencia": "0.52 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 09:15:45",
+          "lat": -25.2937952,
+          "lon": -48.9352864
         },
-        "distancia_km": 198.5,
+        "distancia_km": 178.5,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.98 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "14/11/2026 09:00:29",
-          "lat": -25.152776,
-          "lon": -48.8603584
+          "referencia": "0.58 km de PRF - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 09:14:29",
+          "lat": -25.2844128,
+          "lon": -48.92992
         },
-        "distancia_km": 193.4,
+        "distancia_km": 179.5,
         "proximo": false
       }
     ],
@@ -241,12 +241,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 08:55:45",
-          "lat": -25.1051648,
-          "lon": -48.8415552
+          "referencia": "0.52 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 09:15:45",
+          "lat": -25.2937952,
+          "lon": -48.9352864
         },
-        "distancia_km": 589.6,
+        "distancia_km": 566.6,
         "proximo": false
       }
     ],
@@ -272,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 09:00:07",
-          "lat": -25.1070848,
-          "lon": -48.7885888
+          "referencia": "0.41 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "14/11/2026 09:14:07",
+          "lat": -25.1836112,
+          "lon": -48.8856096
         },
-        "distancia_km": 248.7,
+        "distancia_km": 237.5,
         "proximo": false
       },
       {
@@ -345,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T09:02:34"
+  "_gerado_em": "2026-11-14T09:17:33"
 }
