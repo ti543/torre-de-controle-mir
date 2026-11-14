@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:31:04",
+          "data_hora_posicao": "13/11/2026 22:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "13/11/2026 22:30:33",
+          "data_hora_posicao": "13/11/2026 22:45:17",
           "lat": -24.7858624,
           "lon": -48.1749664
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:31:04",
+          "data_hora_posicao": "13/11/2026 22:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -149,12 +149,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "13/11/2026 22:29:36",
-          "lat": -24.3304672,
-          "lon": -47.627088
+          "referencia": "2.06 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "13/11/2026 22:45:36",
+          "lat": -24.4315584,
+          "lon": -47.7878688
         },
-        "distancia_km": 378.5,
+        "distancia_km": 360.4,
         "proximo": false
       },
       {
@@ -170,9 +170,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 22:29:28",
-          "lat": -26.8873504,
-          "lon": -48.7208736
+          "data_hora_posicao": "13/11/2026 22:45:28",
+          "lat": -26.887408,
+          "lon": -48.7209088
         },
         "distancia_km": 98.6,
         "proximo": false
@@ -189,12 +189,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.42 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "13/11/2026 22:22:15",
-          "lat": -28.1848486,
-          "lon": -50.7086505
+          "referencia": "0.3 km de QUEIJO & CIA - CAPAO ALTO/SC",
+          "data_hora_posicao": "13/11/2026 22:44:43",
+          "lat": -28.0081408,
+          "lon": -50.5430784
         },
-        "distancia_km": 150.7,
+        "distancia_km": 125.3,
         "proximo": false
       },
       {
@@ -210,11 +210,31 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO ESTRELA AZUL - JUQUIA/SP",
-          "data_hora_posicao": "13/11/2026 22:26:18",
+          "data_hora_posicao": "13/11/2026 22:36:18",
           "lat": -24.36256,
           "lon": -47.69104
         },
         "distancia_km": 372.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074678-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 16480.54,
+        "frete_rs": 17408.5,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 22:44:07",
+          "lat": -23.470592,
+          "lon": -46.4619296
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -229,12 +249,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "7.23 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "13/11/2026 22:22:34",
-          "lat": -28.7266048,
-          "lon": -51.250816
+          "referencia": "4.79 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "13/11/2026 22:45:18",
+          "lat": -28.6212288,
+          "lon": -51.069168
         },
-        "distancia_km": 230.9,
+        "distancia_km": 210.3,
         "proximo": false
       }
     ],
@@ -255,9 +275,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 22032.97,
-        "frete_rs": 20977.49,
-        "qtde": 1
+        "peso_kg": 38513.51,
+        "frete_rs": 38385.990000000005,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 12960.05,
@@ -292,5 +312,67 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T22:32:43"
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074676-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 8508.06,
+        "frete_rs": 7658.17,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 22:44:18",
+          "lat": -23.4706896,
+          "lon": -46.4621568
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8508.06,
+        "frete_rs": 7658.17,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU074677-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 22:44:18",
+          "lat": -23.4706896,
+          "lon": -46.4621568
+        },
+        "distancia_km": 862.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-13T22:47:39"
 }
