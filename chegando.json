@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 10:45:04",
+          "data_hora_posicao": "14/11/2026 10:59:04",
           "lat": -26.8875584,
           "lon": -48.721232
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 10:45:04",
+          "data_hora_posicao": "14/11/2026 10:59:04",
           "lat": -26.8875584,
           "lon": -48.721232
         },
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 10:45:42",
+          "data_hora_posicao": "14/11/2026 10:59:41",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 10:45:42",
+          "data_hora_posicao": "14/11/2026 10:59:41",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -190,12 +190,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.54 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
-          "data_hora_posicao": "14/11/2026 10:45:45",
-          "lat": -25.94368,
-          "lon": -48.9082208
+          "referencia": "1.3 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "14/11/2026 10:59:45",
+          "lat": -26.0895216,
+          "lon": -48.8632704
         },
-        "distancia_km": 106.6,
+        "distancia_km": 89.8,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
-          "data_hora_posicao": "14/11/2026 10:44:29",
-          "lat": -25.9384224,
-          "lon": -48.9099296
+          "referencia": "0.88 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "14/11/2026 11:00:29",
+          "lat": -26.107216,
+          "lon": -48.872608
         },
-        "distancia_km": 107.2,
+        "distancia_km": 88.1,
         "proximo": false
       }
     ],
@@ -241,12 +241,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.54 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
-          "data_hora_posicao": "14/11/2026 10:45:45",
-          "lat": -25.94368,
-          "lon": -48.9082208
+          "referencia": "1.3 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "14/11/2026 10:59:45",
+          "lat": -26.0895216,
+          "lon": -48.8632704
         },
-        "distancia_km": 501.8,
+        "distancia_km": 489.3,
         "proximo": false
       }
     ],
@@ -272,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.56 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "14/11/2026 10:45:14",
-          "lat": -25.8495504,
-          "lon": -49.0358112
+          "referencia": "0.62 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "14/11/2026 11:00:07",
+          "lat": -25.9090736,
+          "lon": -48.9206016
         },
-        "distancia_km": 162.7,
+        "distancia_km": 161.4,
         "proximo": false
       },
       {
@@ -345,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T10:47:35"
+  "_gerado_em": "2026-11-14T11:02:38"
 }
