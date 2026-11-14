@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:59:04",
+          "data_hora_posicao": "13/11/2026 22:15:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "13/11/2026 21:53:17",
-          "lat": -24.927696,
-          "lon": -48.26976
+          "referencia": "0.78 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "13/11/2026 22:15:17",
+          "lat": -24.7884736,
+          "lon": -48.1825248
         },
-        "distancia_km": 244.7,
+        "distancia_km": 227.9,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:59:04",
+          "data_hora_posicao": "13/11/2026 22:15:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -129,12 +129,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.44 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 21:59:36",
-          "lat": -24.2515584,
-          "lon": -47.3733888
+          "referencia": "0.31 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 22:15:36",
+          "lat": -24.2883456,
+          "lon": -47.4599968
         },
-        "distancia_km": 399.9,
+        "distancia_km": 391.6,
         "proximo": false
       },
       {
@@ -149,12 +149,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:59:33",
-          "lat": -26.887296,
-          "lon": -48.7220064
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 22:15:28",
+          "lat": -26.887376,
+          "lon": -48.7208736
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -169,12 +169,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 22:00:17",
-          "lat": -28.2671983,
-          "lon": -50.7891726
+          "referencia": "0.89 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 22:06:12",
+          "lat": -28.2587943,
+          "lon": -50.783813
         },
-        "distancia_km": 162.8,
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -189,12 +189,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.55 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 21:59:07",
-          "lat": -24.293015,
-          "lon": -47.4759716666667
+          "referencia": "2.35 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "13/11/2026 22:13:57",
+          "lat": -24.34402,
+          "lon": -47.6479
         },
-        "distancia_km": 390.3,
+        "distancia_km": 376.1,
         "proximo": false
       },
       {
@@ -209,12 +209,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.18 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "13/11/2026 22:00:11",
-          "lat": -28.8715488,
-          "lon": -51.2275328
+          "referencia": "1.22 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "13/11/2026 22:11:54",
+          "lat": -28.8143104,
+          "lon": -51.2672576
         },
-        "distancia_km": 241.4,
+        "distancia_km": 239.1,
         "proximo": false
       }
     ],
@@ -246,83 +246,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013608-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3562.7,
-        "frete_rs": 4717.4,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.1 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:59:33",
-          "lat": -26.887296,
-          "lon": -48.7220064
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 3562.7,
-        "frete_rs": 4717.4,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074613-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6130.64,
-        "frete_rs": 9184.3,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024103-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 2977.32,
-        "frete_rs": 4005.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 6130.64,
-        "frete_rs": 9184.3,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 2977.32,
-        "frete_rs": 4005.0,
-        "qtde": 1
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
       {
@@ -349,5 +272,67 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T22:02:34"
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074673-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 6924.03,
+        "frete_rs": 5648.46,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 22:14:18",
+          "lat": -23.4706896,
+          "lon": -46.4621568
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 6924.03,
+        "frete_rs": 5648.46,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU074675-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "13/11/2026 22:14:18",
+          "lat": -23.4706896,
+          "lon": -46.4621568
+        },
+        "distancia_km": 862.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3579.75,
+        "frete_rs": 13396.23,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-13T22:17:34"
 }
