@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 11:45:04",
+          "data_hora_posicao": "14/11/2026 11:59:04",
           "lat": -26.8874688,
           "lon": -48.721264
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 11:45:04",
+          "data_hora_posicao": "14/11/2026 11:59:04",
           "lat": -26.8874688,
           "lon": -48.721264
         },
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 11:45:41",
+          "data_hora_posicao": "14/11/2026 11:59:41",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 11:45:41",
+          "data_hora_posicao": "14/11/2026 11:59:41",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -190,12 +190,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 11:45:45",
-          "lat": -26.53684,
-          "lon": -48.7129312
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 11:59:45",
+          "lat": -26.5537888,
+          "lon": -48.719712
         },
-        "distancia_km": 39.0,
+        "distancia_km": 37.1,
         "proximo": false
       },
       {
@@ -210,12 +210,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 11:44:29",
-          "lat": -26.5291936,
-          "lon": -48.714928
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 12:00:29",
+          "lat": -26.5537536,
+          "lon": -48.7197312
         },
-        "distancia_km": 39.8,
+        "distancia_km": 37.1,
         "proximo": false
       }
     ],
@@ -241,12 +241,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 11:45:45",
-          "lat": -26.53684,
-          "lon": -48.7129312
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 11:59:45",
+          "lat": -26.5537888,
+          "lon": -48.719712
         },
-        "distancia_km": 453.4,
+        "distancia_km": 451.4,
         "proximo": false
       }
     ],
@@ -272,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 10 - JOINVILLE/SC",
-          "data_hora_posicao": "14/11/2026 11:44:07",
-          "lat": -26.3273072,
-          "lon": -48.8646368
+          "referencia": "0.85 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 12:00:07",
+          "lat": -26.4742368,
+          "lon": -48.7421408
         },
-        "distancia_km": 125.0,
+        "distancia_km": 121.4,
         "proximo": false
       },
       {
@@ -345,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T11:47:32"
+  "_gerado_em": "2026-11-14T12:02:43"
 }
