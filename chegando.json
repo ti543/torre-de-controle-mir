@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:29:04",
+          "data_hora_posicao": "13/11/2026 21:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,12 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.21 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "13/11/2026 21:19:17",
-          "lat": -25.0675808,
-          "lon": -48.5819712
+          "referencia": "2.9 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "13/11/2026 21:43:22",
+          "lat": -24.9688832,
+          "lon": -48.3836416
         },
-        "distancia_km": 278.7,
+        "distancia_km": 256.4,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:29:04",
+          "data_hora_posicao": "13/11/2026 21:45:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -129,12 +129,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO SERRAS 90 - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 21:27:21",
-          "lat": -24.0404544,
-          "lon": -47.1931296
+          "referencia": "1.88 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 21:45:36",
+          "lat": -24.1471328,
+          "lon": -47.298448
         },
-        "distancia_km": 429.6,
+        "distancia_km": 413.8,
         "proximo": false
       },
       {
@@ -149,12 +149,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
-          "data_hora_posicao": "13/11/2026 21:30:27",
-          "lat": -26.6378176,
-          "lon": -48.695808
+          "referencia": "0.07 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "13/11/2026 21:45:28",
+          "lat": -26.7750752,
+          "lon": -48.6858528
         },
-        "distancia_km": 113.7,
+        "distancia_km": 106.9,
         "proximo": false
       },
       {
@@ -169,12 +169,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.36 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 21:29:27",
-          "lat": -28.5280501,
-          "lon": -50.9500801
+          "referencia": "5.8 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 21:44:11",
+          "lat": -28.4226271,
+          "lon": -50.8659106
         },
-        "distancia_km": 194.8,
+        "distancia_km": 180.6,
         "proximo": false
       },
       {
@@ -189,42 +189,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "6.17 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 21:29:18",
-          "lat": -24.1168,
-          "lon": -47.26896
+          "referencia": "2.68 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 21:45:07",
+          "lat": -24.2344616666667,
+          "lon": -47.360515
         },
-        "distancia_km": 418.2,
-        "proximo": false
-      },
-      {
-        "manif": "LGS001612-8",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 4661.0,
-        "frete_rs": 4996.47,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016246-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 2273.0,
-        "frete_rs": 2780.02,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 402.2,
         "proximo": false
       },
       {
@@ -239,12 +209,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.24 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "13/11/2026 21:28:19",
-          "lat": -28.9180256,
-          "lon": -51.1873024
+          "referencia": "0.08 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "13/11/2026 21:39:06",
+          "lat": -28.9083392,
+          "lon": -51.1929088
         },
-        "distancia_km": 242.9,
+        "distancia_km": 242.4,
         "proximo": false
       }
     ],
@@ -260,9 +230,9 @@
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
-        "peso_kg": 6605.03,
-        "frete_rs": 11063.69,
-        "qtde": 2
+        "peso_kg": 1944.03,
+        "frete_rs": 6067.22,
+        "qtde": 1
       },
       "Guarulhos": {
         "peso_kg": 22032.97,
@@ -270,9 +240,9 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 15233.05,
-        "frete_rs": 20588.87,
-        "qtde": 2
+        "peso_kg": 12960.05,
+        "frete_rs": 17808.85,
+        "qtde": 1
       }
     }
   },
@@ -290,12 +260,12 @@
         "frete_rs": 4717.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
-          "data_hora_posicao": "13/11/2026 21:30:27",
-          "lat": -26.6378176,
-          "lon": -48.695808
+          "referencia": "0.07 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "13/11/2026 21:45:28",
+          "lat": -26.7750752,
+          "lon": -48.6858528
         },
-        "distancia_km": 27.9,
+        "distancia_km": 13.0,
         "proximo": true
       }
     ],
@@ -379,5 +349,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T21:32:34"
+  "_gerado_em": "2026-11-13T21:47:41"
 }
