@@ -14,32 +14,12 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 04:29:04",
+          "data_hora_posicao": "14/11/2026 04:45:04",
           "lat": -26.8875552,
           "lon": -48.7211488
         },
         "distancia_km": 442.7,
         "proximo": false
-      },
-      {
-        "manif": "CTB013607-7",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 5071.91,
-        "frete_rs": 5388.06,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "14/11/2026 04:29:17",
-          "lat": -23.4709056,
-          "lon": -46.4613632
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "ITJ024104-1",
@@ -54,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 04:29:04",
+          "data_hora_posicao": "14/11/2026 04:45:04",
           "lat": -26.8875552,
           "lon": -48.7211488
         },
@@ -113,11 +93,6 @@
         "frete_rs": 5865.24,
         "qtde": 1
       },
-      "Curitiba": {
-        "peso_kg": 5071.91,
-        "frete_rs": 5388.06,
-        "qtde": 1
-      },
       "Itajaí": {
         "peso_kg": 6146.9,
         "frete_rs": 9337.1,
@@ -149,12 +124,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.22 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
-          "data_hora_posicao": "14/11/2026 04:29:36",
-          "lat": -26.278384,
-          "lon": -48.8918816
+          "referencia": "0.44 km de CONCESSIONARIA VOLVO - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 04:45:36",
+          "lat": -26.440136,
+          "lon": -48.807568
         },
-        "distancia_km": 127.7,
+        "distancia_km": 119.3,
         "proximo": false
       },
       {
@@ -169,12 +144,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "14/11/2026 04:29:50",
-          "lat": -27.1366496,
-          "lon": -49.5432736
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "14/11/2026 04:45:28",
+          "lat": -27.2069664,
+          "lon": -49.649216
         },
-        "distancia_km": 13.1,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -190,7 +165,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "14/11/2026 04:27:03",
+          "data_hora_posicao": "14/11/2026 04:43:03",
           "lat": -27.243,
           "lon": -49.6884485
         },
@@ -209,12 +184,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.48 km de FORD CONCESSIONÁRIA - JOINVILLE/SC",
-          "data_hora_posicao": "14/11/2026 04:30:44",
-          "lat": -26.2911566666667,
-          "lon": -48.8849516666667
+          "referencia": "0.07 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "14/11/2026 04:44:43",
+          "lat": -26.4356366666667,
+          "lon": -48.813965
         },
-        "distancia_km": 126.9,
+        "distancia_km": 119.2,
         "proximo": false
       },
       {
@@ -229,12 +204,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.08 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 04:30:07",
-          "lat": -24.064808,
-          "lon": -47.2342144
+          "referencia": "0.04 km de PEDAGIO - MIRACATU - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 04:44:07",
+          "lat": -24.1576048,
+          "lon": -47.3264992
         },
-        "distancia_km": 425.0,
+        "distancia_km": 411.2,
         "proximo": false
       },
       {
@@ -279,12 +254,12 @@
         "frete_rs": 5998.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "14/11/2026 04:29:50",
-          "lat": -27.1366496,
-          "lon": -49.5432736
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "14/11/2026 04:45:28",
+          "lat": -27.2069664,
+          "lon": -49.649216
         },
-        "distancia_km": 13.1,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -299,12 +274,12 @@
         "frete_rs": 139.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "14/11/2026 04:29:50",
-          "lat": -27.1366496,
-          "lon": -49.5432736
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "14/11/2026 04:45:28",
+          "lat": -27.2069664,
+          "lon": -49.649216
         },
-        "distancia_km": 13.1,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -319,12 +294,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.06 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "14/11/2026 04:30:12",
-          "lat": -27.2836736,
-          "lon": -49.8135136
+          "referencia": "1.1 km de 1ºPEL/1ºGP - 1º GRUPO - AGRONOMICA/SC",
+          "data_hora_posicao": "14/11/2026 04:44:11",
+          "lat": -27.2561568,
+          "lon": -49.7099008
         },
-        "distancia_km": 18.3,
+        "distancia_km": 8.2,
         "proximo": true
       }
     ],
@@ -391,7 +366,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 04:29:47",
+          "data_hora_posicao": "14/11/2026 04:45:47",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -411,7 +386,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 04:29:47",
+          "data_hora_posicao": "14/11/2026 04:45:47",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -441,12 +416,12 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO PRESIDENTE 67 (COLORADO) - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 04:29:45",
-          "lat": -23.9348944,
-          "lon": -47.0292288
+          "referencia": "1.52 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 04:45:45",
+          "lat": -24.009624,
+          "lon": -47.1623232
         },
-        "distancia_km": 369.7,
+        "distancia_km": 356.2,
         "proximo": false
       },
       {
@@ -461,12 +436,12 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de AUTO POSTO RUFF - MIRACATU/SP",
-          "data_hora_posicao": "14/11/2026 04:24:57",
-          "lat": -24.0390848,
-          "lon": -47.1929632
+          "referencia": "1.67 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 04:45:49",
+          "lat": -24.171632,
+          "lon": -47.3408448
         },
-        "distancia_km": 351.9,
+        "distancia_km": 332.2,
         "proximo": false
       }
     ],
@@ -492,12 +467,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO PRESIDENTE 67 (COLORADO) - JUQUITIBA/SP",
-          "data_hora_posicao": "14/11/2026 04:29:45",
-          "lat": -23.9348944,
-          "lon": -47.0292288
+          "referencia": "1.52 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
+          "data_hora_posicao": "14/11/2026 04:45:45",
+          "lat": -24.009624,
+          "lon": -47.1623232
         },
-        "distancia_km": 788.6,
+        "distancia_km": 774.6,
         "proximo": false
       }
     ],
@@ -535,5 +510,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T04:32:31"
+  "_gerado_em": "2026-11-14T04:47:32"
 }
