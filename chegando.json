@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 12:29:04",
+          "data_hora_posicao": "14/11/2026 12:45:04",
           "lat": -26.8874688,
           "lon": -48.721264
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "14/11/2026 12:29:04",
+          "data_hora_posicao": "14/11/2026 12:45:04",
           "lat": -26.8874688,
           "lon": -48.721264
         },
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 12:29:40",
+          "data_hora_posicao": "14/11/2026 12:44:51",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "14/11/2026 12:29:40",
+          "data_hora_posicao": "14/11/2026 12:44:51",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -190,13 +190,13 @@
         "frete_rs": 7658.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 12:29:57",
-          "lat": -26.555288,
-          "lon": -48.7204768
+          "referencia": "1.18 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
+          "data_hora_posicao": "14/11/2026 12:45:45",
+          "lat": -26.7056432,
+          "lon": -48.7010528
         },
-        "distancia_km": 36.9,
-        "proximo": false
+        "distancia_km": 20.3,
+        "proximo": true
       },
       {
         "manif": "GRU074681-9",
@@ -210,13 +210,13 @@
         "frete_rs": 16980.13,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 12:30:29",
-          "lat": -26.5683264,
-          "lon": -48.720304
+          "referencia": "0.96 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
+          "data_hora_posicao": "14/11/2026 12:44:29",
+          "lat": -26.7075232,
+          "lon": -48.7017664
         },
-        "distancia_km": 35.5,
-        "proximo": false
+        "distancia_km": 20.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -241,12 +241,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 12:29:57",
-          "lat": -26.555288,
-          "lon": -48.7204768
+          "referencia": "1.18 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
+          "data_hora_posicao": "14/11/2026 12:45:45",
+          "lat": -26.7056432,
+          "lon": -48.7010528
         },
-        "distancia_km": 451.2,
+        "distancia_km": 438.1,
         "proximo": false
       }
     ],
@@ -272,12 +272,12 @@
         "frete_rs": 17408.5,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "14/11/2026 12:30:07",
-          "lat": -26.556232,
-          "lon": -48.7207168
+          "referencia": "0.74 km de VIEROMAR TRANSPORTES COMÉRCIO E LOGÍSTICA - BARRA VELHA/SC",
+          "data_hora_posicao": "14/11/2026 12:46:07",
+          "lat": -26.709392,
+          "lon": -48.7024864
         },
-        "distancia_km": 117.1,
+        "distancia_km": 108.9,
         "proximo": false
       },
       {
@@ -345,5 +345,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-14T12:32:37"
+  "_gerado_em": "2026-11-14T12:47:55"
 }
