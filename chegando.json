@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "13/11/2026 21:15:04",
+          "data_hora_posicao": "13/11/2026 21:29:04",
           "lat": -26.8877184,
           "lon": -48.7207456
         },
@@ -33,12 +33,62 @@
         "frete_rs": 5388.06,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.74 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "13/11/2026 21:11:17",
-          "lat": -25.0974448,
-          "lon": -48.667968
+          "referencia": "2.21 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "13/11/2026 21:19:17",
+          "lat": -25.0675808,
+          "lon": -48.5819712
         },
-        "distancia_km": 287.6,
+        "distancia_km": 278.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024104-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 6146.9,
+        "frete_rs": 9337.1,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "13/11/2026 21:29:04",
+          "lat": -26.8877184,
+          "lon": -48.7207456
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044387-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 8934.26,
+        "frete_rs": 15279.93,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044388-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 19268.2,
+        "frete_rs": 13472.38,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -52,6 +102,16 @@
         "peso_kg": 5071.91,
         "frete_rs": 5388.06,
         "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 6146.9,
+        "frete_rs": 9337.1,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 28202.46,
+        "frete_rs": 28752.309999999998,
+        "qtde": 2
       }
     }
   },
@@ -69,12 +129,12 @@
         "frete_rs": 4789.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "3.77 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "13/11/2026 21:15:36",
-          "lat": -23.9517712,
-          "lon": -47.103392
+          "referencia": "0.46 km de POSTO SERRAS 90 - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 21:27:21",
+          "lat": -24.0404544,
+          "lon": -47.1931296
         },
-        "distancia_km": 442.9,
+        "distancia_km": 429.6,
         "proximo": false
       },
       {
@@ -89,12 +149,12 @@
         "frete_rs": 3564.84,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.23 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "13/11/2026 21:15:28",
-          "lat": -26.5798816,
-          "lon": -48.7223904
+          "referencia": "0.15 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
+          "data_hora_posicao": "13/11/2026 21:30:27",
+          "lat": -26.6378176,
+          "lon": -48.695808
         },
-        "distancia_km": 115.3,
+        "distancia_km": 113.7,
         "proximo": false
       },
       {
@@ -109,12 +169,12 @@
         "frete_rs": 6067.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.99 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "13/11/2026 21:14:41",
-          "lat": -28.6132898,
-          "lon": -51.0431768
+          "referencia": "0.36 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "13/11/2026 21:29:27",
+          "lat": -28.5280501,
+          "lon": -50.9500801
         },
-        "distancia_km": 207.9,
+        "distancia_km": 194.8,
         "proximo": false
       },
       {
@@ -129,12 +189,12 @@
         "frete_rs": 20977.49,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "13/11/2026 21:14:57",
-          "lat": -24.032315,
-          "lon": -47.181605
+          "referencia": "6.17 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "13/11/2026 21:29:18",
+          "lat": -24.1168,
+          "lon": -47.26896
         },
-        "distancia_km": 431.0,
+        "distancia_km": 418.2,
         "proximo": false
       },
       {
@@ -148,14 +208,9 @@
         "peso_real_kg": 4661.0,
         "frete_rs": 4996.47,
         "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 21:16:00",
-          "lat": -27.2057376,
-          "lon": -49.6489984
-        },
-        "distancia_km": 0.1,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "POA016246-9",
@@ -168,14 +223,9 @@
         "peso_real_kg": 2273.0,
         "frete_rs": 2780.02,
         "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "13/11/2026 21:16:00",
-          "lat": -27.2057376,
-          "lon": -49.6489984
-        },
-        "distancia_km": 0.1,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "POA016254-0",
@@ -189,12 +239,12 @@
         "frete_rs": 17808.85,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.11 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "13/11/2026 21:15:56",
-          "lat": -28.9594656,
-          "lon": -51.17392
+          "referencia": "1.24 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "13/11/2026 21:28:19",
+          "lat": -28.9180256,
+          "lon": -51.1873024
         },
-        "distancia_km": 245.7,
+        "distancia_km": 242.9,
         "proximo": false
       }
     ],
@@ -240,13 +290,13 @@
         "frete_rs": 4717.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.23 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "13/11/2026 21:15:28",
-          "lat": -26.5798816,
-          "lon": -48.7223904
+          "referencia": "0.15 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
+          "data_hora_posicao": "13/11/2026 21:30:27",
+          "lat": -26.6378176,
+          "lon": -48.695808
         },
-        "distancia_km": 34.2,
-        "proximo": false
+        "distancia_km": 27.9,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -329,5 +379,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-13T21:17:36"
+  "_gerado_em": "2026-11-13T21:32:34"
 }
