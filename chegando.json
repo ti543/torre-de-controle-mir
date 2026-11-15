@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 04:45:04",
+          "data_hora_posicao": "15/11/2026 04:59:04",
           "lat": -26.887504,
           "lon": -48.7212032
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 04:45:04",
+          "data_hora_posicao": "15/11/2026 04:59:04",
           "lat": -26.887504,
           "lon": -48.7212032
         },
@@ -140,7 +140,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 04:45:26",
+          "data_hora_posicao": "15/11/2026 04:59:26",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 04:45:26",
+          "data_hora_posicao": "15/11/2026 04:59:26",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -191,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 04:42:09",
+          "data_hora_posicao": "15/11/2026 04:58:09",
           "lat": -26.888032,
           "lon": -48.7231648
         },
@@ -211,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 04:44:29",
+          "data_hora_posicao": "15/11/2026 05:00:29",
           "lat": -26.8879712,
           "lon": -48.7230752
         },
@@ -242,11 +242,31 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 04:42:09",
+          "data_hora_posicao": "15/11/2026 04:58:09",
           "lat": -26.888032,
           "lon": -48.7231648
         },
         "distancia_km": 420.1,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044407-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 9400.15,
+        "frete_rs": 7280.76,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 04:59:28",
+          "lat": -27.2061248,
+          "lon": -49.649376
+        },
+        "distancia_km": 343.3,
         "proximo": false
       }
     ],
@@ -254,6 +274,11 @@
       "Guarulhos": {
         "peso_kg": 3579.75,
         "frete_rs": 13396.23,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 9400.15,
+        "frete_rs": 7280.76,
         "qtde": 1
       }
     }
@@ -273,7 +298,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 04:44:07",
+          "data_hora_posicao": "15/11/2026 05:00:07",
           "lat": -27.2058624,
           "lon": -49.6489824
         },
@@ -345,5 +370,87 @@
       }
     }
   },
-  "_gerado_em": "2026-11-15T04:47:27"
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044405-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3231.9,
+        "frete_rs": 2706.09,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 04:59:28",
+          "lat": -27.2061248,
+          "lon": -49.649376
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 3231.9,
+        "frete_rs": 2706.09,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "RSL044406-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1035.56,
+        "frete_rs": 2389.68,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 04:59:28",
+          "lat": -27.2061248,
+          "lon": -49.649376
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044411-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1140.9,
+        "frete_rs": 1496.04,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 04:59:28",
+          "lat": -27.2061248,
+          "lon": -49.649376
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2176.46,
+        "frete_rs": 3885.72,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-15T05:02:24"
 }
