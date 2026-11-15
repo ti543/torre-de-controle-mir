@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 07:59:04",
+          "data_hora_posicao": "15/11/2026 08:15:04",
           "lat": -26.8875008,
           "lon": -48.7212
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 07:59:04",
+          "data_hora_posicao": "15/11/2026 08:15:04",
           "lat": -26.8875008,
           "lon": -48.7212
         },
@@ -72,6 +72,46 @@
         "proximo": false
       },
       {
+        "manif": "RSL044391-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 4651.0,
+        "frete_rs": 6152.43,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.37 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "15/11/2026 08:15:04",
+          "lat": -27.146496,
+          "lon": -49.5501248
+        },
+        "distancia_km": 513.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044392-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 25432.1,
+        "frete_rs": 14123.24,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.37 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "15/11/2026 08:15:04",
+          "lat": -27.146496,
+          "lon": -49.5501248
+        },
+        "distancia_km": 513.2,
+        "proximo": false
+      },
+      {
         "manif": "TBO016429-1",
         "origin_unit": "TBO",
         "origin_city": "TIMBO/SC",
@@ -99,9 +139,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 28202.46,
-        "frete_rs": 28752.309999999998,
-        "qtde": 2
+        "peso_kg": 58285.56,
+        "frete_rs": 49027.979999999996,
+        "qtde": 4
       },
       "Timbó": {
         "peso_kg": 13219.22,
@@ -140,7 +180,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 07:59:23",
+          "data_hora_posicao": "15/11/2026 08:15:23",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -160,9 +200,29 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 07:59:23",
+          "data_hora_posicao": "15/11/2026 08:15:23",
           "lat": -22.8469016666667,
           "lon": -47.124795
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044412-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 14591.96,
+        "frete_rs": 23939.64,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.33 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 08:14:26",
+          "lat": -27.1919616,
+          "lon": -49.6217504
         },
         "distancia_km": null,
         "proximo": false
@@ -173,6 +233,11 @@
         "peso_kg": 11938.24,
         "frete_rs": 15809.84,
         "qtde": 3
+      },
+      "Rio do Sul": {
+        "peso_kg": 14591.96,
+        "frete_rs": 23939.64,
+        "qtde": 1
       }
     }
   },
@@ -191,7 +256,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 07:58:09",
+          "data_hora_posicao": "15/11/2026 08:14:09",
           "lat": -26.8879744,
           "lon": -48.7230848
         },
@@ -211,7 +276,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 08:00:29",
+          "data_hora_posicao": "15/11/2026 08:14:29",
           "lat": -26.8878912,
           "lon": -48.7231296
         },
@@ -242,7 +307,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.12 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 07:58:09",
+          "data_hora_posicao": "15/11/2026 08:14:09",
           "lat": -26.8879744,
           "lon": -48.7230848
         },
@@ -262,9 +327,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 07:59:28",
-          "lat": -27.2061056,
-          "lon": -49.6494016
+          "data_hora_posicao": "15/11/2026 08:15:28",
+          "lat": -27.2061152,
+          "lon": -49.6494176
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -298,7 +363,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 08:00:07",
+          "data_hora_posicao": "15/11/2026 08:14:07",
           "lat": -27.2058336,
           "lon": -49.6489536
         },
@@ -385,7 +450,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 07:57:03",
+          "data_hora_posicao": "15/11/2026 08:13:03",
           "lat": -27.2060991,
           "lon": -49.649375
         },
@@ -416,9 +481,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 07:59:28",
-          "lat": -27.2061056,
-          "lon": -49.6494016
+          "data_hora_posicao": "15/11/2026 08:15:28",
+          "lat": -27.2061152,
+          "lon": -49.6494176
         },
         "distancia_km": null,
         "proximo": false
@@ -447,9 +512,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 07:59:28",
-          "lat": -27.2061056,
-          "lon": -49.6494016
+          "data_hora_posicao": "15/11/2026 08:15:28",
+          "lat": -27.2061152,
+          "lon": -49.6494176
         },
         "distancia_km": null,
         "proximo": false
@@ -467,9 +532,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 07:59:28",
-          "lat": -27.2061056,
-          "lon": -49.6494016
+          "data_hora_posicao": "15/11/2026 08:15:28",
+          "lat": -27.2061152,
+          "lon": -49.6494176
         },
         "distancia_km": null,
         "proximo": false
@@ -483,5 +548,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-15T08:02:31"
+  "_gerado_em": "2026-11-15T08:17:36"
 }
