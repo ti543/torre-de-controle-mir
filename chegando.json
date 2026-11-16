@@ -13,12 +13,12 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.04 km de GARAGEM CLIENTE PARIZOTTO TRANSPORTES - ATIBAIA/SP",
-          "data_hora_posicao": "16/11/2026 12:00:26",
-          "lat": -23.1388096,
-          "lon": -46.5757632
+          "referencia": "0.17 km de PRF - ATIBAIA/SP",
+          "data_hora_posicao": "16/11/2026 12:14:26",
+          "lat": -23.1924528,
+          "lon": -46.585488
         },
-        "distancia_km": 38.7,
+        "distancia_km": 33.4,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 12:00:52",
+          "data_hora_posicao": "16/11/2026 12:14:52",
           "lat": -23.4707056,
           "lon": -46.4622496
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 12:00:52",
+          "data_hora_posicao": "16/11/2026 12:14:52",
           "lat": -23.4707056,
           "lon": -46.4622496
         },
@@ -90,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 11:59:59",
+          "data_hora_posicao": "16/11/2026 12:13:59",
           "lat": -26.887632,
           "lon": -48.7207232
         },
@@ -109,12 +109,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.04 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "16/11/2026 12:00:36",
-          "lat": -28.9336096,
-          "lon": -51.1818336
+          "referencia": "0.5 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "16/11/2026 12:15:28",
+          "lat": -28.9912736,
+          "lon": -51.1823424
         },
-        "distancia_km": 116.7,
+        "distancia_km": 110.3,
         "proximo": false
       }
     ],
@@ -192,7 +192,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.99 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 12:00:47",
+          "data_hora_posicao": "16/11/2026 12:14:33",
           "lat": -27.6744028,
           "lon": -48.6978711
         },
@@ -222,12 +222,12 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO COELHO - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "16/11/2026 11:58:30",
-          "lat": -27.39069,
-          "lon": -51.2151763
+          "referencia": "3.69 km de PRF BR 470 - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "16/11/2026 12:14:13",
+          "lat": -27.376,
+          "lon": -51.0774784
         },
-        "distancia_km": 156.0,
+        "distancia_km": 142.3,
         "proximo": false
       }
     ],
@@ -254,7 +254,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 11:59:36",
+          "data_hora_posicao": "16/11/2026 12:15:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -284,10 +284,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.04 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "16/11/2026 12:00:36",
-          "lat": -28.9336096,
-          "lon": -51.1818336
+          "referencia": "0.5 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "16/11/2026 12:15:28",
+          "lat": -28.9912736,
+          "lon": -51.1823424
         },
         "distancia_km": null,
         "proximo": false
@@ -301,5 +301,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T12:02:37"
+  "_gerado_em": "2026-11-16T12:17:28"
 }
