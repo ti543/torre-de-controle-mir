@@ -13,12 +13,12 @@
         "frete_rs": 1050.01,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.52 km de TOYO TRANSPORTES PREMIUM LTD - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "16/11/2026 15:45:29",
-          "lat": -27.0092281,
-          "lon": -48.6156033
+          "referencia": "0.55 km de PRF - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 16:00:02",
+          "lat": -26.9378611,
+          "lon": -48.6973685
         },
-        "distancia_km": 17.1,
+        "distancia_km": 6.1,
         "proximo": true
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.28 km de PRF - PAULO LOPES/SC",
-          "data_hora_posicao": "16/11/2026 15:45:59",
-          "lat": -28.0884928,
-          "lon": -48.7105472
+          "referencia": "1.68 km de POSTO MIRIM - IMBITUBA/SC",
+          "data_hora_posicao": "16/11/2026 15:59:59",
+          "lat": -28.2476896,
+          "lon": -48.7005504
         },
-        "distancia_km": 319.9,
+        "distancia_km": 309.1,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.28 km de PRF - PAULO LOPES/SC",
-          "data_hora_posicao": "16/11/2026 15:45:59",
-          "lat": -28.0884928,
-          "lon": -48.7105472
+          "referencia": "1.68 km de POSTO MIRIM - IMBITUBA/SC",
+          "data_hora_posicao": "16/11/2026 15:59:59",
+          "lat": -28.2476896,
+          "lon": -48.7005504
         },
-        "distancia_km": 319.9,
+        "distancia_km": 309.1,
         "proximo": false
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de UNIQUE RUBBER TECHNOLOGIES - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "16/11/2026 15:45:28",
-          "lat": -29.7194656,
-          "lon": -51.1732096
+          "referencia": "0.34 km de MEGA CENTRO LOGÍSTICO - ESTEIO - ESTEIO/RS",
+          "data_hora_posicao": "16/11/2026 15:59:28",
+          "lat": -29.8357536,
+          "lon": -51.1823488
         },
-        "distancia_km": 29.4,
+        "distancia_km": 16.4,
         "proximo": true
       }
     ],
@@ -157,36 +157,5 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "JCB000017-5",
-        "origin_unit": "JCB",
-        "origin_city": "JOACABA/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXU6I96",
-        "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 161.83,
-        "frete_rs": 796.56,
-        "grupo_origem": "JCB",
-        "posicao_raster": {
-          "referencia": "0.58 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 15:45:05",
-          "lat": -27.2369005,
-          "lon": -49.6817175
-        },
-        "distancia_km": 4.7,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "JCB": {
-        "peso_kg": 161.83,
-        "frete_rs": 796.56,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-16T15:48:07"
+  "_gerado_em": "2026-11-16T16:02:48"
 }
