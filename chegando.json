@@ -1,4 +1,80 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010411-6",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1318.2,
+        "frete_rs": 4723.28,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.47 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
+          "data_hora_posicao": "16/11/2026 11:00:26",
+          "lat": -22.842832,
+          "lon": -47.0601184
+        },
+        "distancia_km": 92.8,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024107-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3486.81,
+        "frete_rs": 6280.51,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.25 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 10:58:52",
+          "lat": -23.5096096,
+          "lon": -46.7200128
+        },
+        "distancia_km": 26.6,
+        "proximo": true
+      },
+      {
+        "manif": "ITJ024108-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10636.41,
+        "frete_rs": 11963.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.25 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 10:58:52",
+          "lat": -23.5096096,
+          "lon": -46.7200128
+        },
+        "distancia_km": 26.6,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 1318.2,
+        "frete_rs": 4723.28,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 14123.22,
+        "frete_rs": 18243.54,
+        "qtde": 2
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -14,9 +90,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 10:43:59",
-          "lat": -26.8876832,
-          "lon": -48.7207616
+          "data_hora_posicao": "16/11/2026 10:59:59",
+          "lat": -26.887632,
+          "lon": -48.7207232
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -33,12 +109,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.62 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:45:28",
-          "lat": -28.5775232,
-          "lon": -51.0195168
+          "referencia": "0.4 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "16/11/2026 11:00:43",
+          "lat": -28.6586048,
+          "lon": -51.0999744
         },
-        "distancia_km": 157.2,
+        "distancia_km": 147.5,
         "proximo": false
       }
     ],
@@ -101,57 +177,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024107-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 3486.81,
-        "frete_rs": 6280.51,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de GT - PRE - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 10:44:52",
-          "lat": -23.5182368,
-          "lon": -46.7432544
-        },
-        "distancia_km": 29.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024108-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10636.41,
-        "frete_rs": 11963.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de GT - PRE - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 10:44:52",
-          "lat": -23.5182368,
-          "lon": -46.7432544
-        },
-        "distancia_km": 29.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 14123.22,
-        "frete_rs": 18243.54,
-        "qtde": 2
-      }
-    }
-  },
   "FLN": {
     "veiculos": [
       {
@@ -166,10 +191,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.75 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "16/11/2026 10:45:08",
-          "lat": -27.1336443,
-          "lon": -48.6117033
+          "referencia": "1 km de POSTO GRAAL GP SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "16/11/2026 10:59:36",
+          "lat": -27.1644326,
+          "lon": -48.6113375
         },
         "distancia_km": null,
         "proximo": false
@@ -197,10 +222,10 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 10:45:03",
-          "lat": -27.1846426,
-          "lon": -51.519855
+          "referencia": "0.08 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
+          "data_hora_posicao": "16/11/2026 10:57:28",
+          "lat": -27.1835025,
+          "lon": -51.5200083
         },
         "distancia_km": 185.0,
         "proximo": false
@@ -228,13 +253,13 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.18 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 10:45:36",
-          "lat": -26.8602912,
-          "lon": -49.064144
+          "referencia": "0.15 km de TRANSPORTES TRANSLOVATO - GASPAR/SC",
+          "data_hora_posicao": "16/11/2026 11:00:01",
+          "lat": -26.9007648,
+          "lon": -48.929856
         },
-        "distancia_km": 34.2,
-        "proximo": false
+        "distancia_km": 20.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -259,10 +284,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.62 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:45:28",
-          "lat": -28.5775232,
-          "lon": -51.0195168
+          "referencia": "0.4 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "16/11/2026 11:00:43",
+          "lat": -28.6586048,
+          "lon": -51.0999744
         },
         "distancia_km": null,
         "proximo": false
@@ -276,5 +301,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T10:47:40"
+  "_gerado_em": "2026-11-16T11:02:37"
 }
