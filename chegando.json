@@ -13,12 +13,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO SIMON 01 - MARACAJA/SC",
-          "data_hora_posicao": "16/11/2026 17:29:59",
-          "lat": -28.8687616,
-          "lon": -49.4502336
+          "referencia": "0.93 km de POSTO ROTA 101 - ARARANGUA/SC",
+          "data_hora_posicao": "16/11/2026 17:45:59",
+          "lat": -28.9895456,
+          "lon": -49.5464768
         },
-        "distancia_km": 208.9,
+        "distancia_km": 193.4,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO SIMON 01 - MARACAJA/SC",
-          "data_hora_posicao": "16/11/2026 17:29:59",
-          "lat": -28.8687616,
-          "lon": -49.4502336
+          "referencia": "0.93 km de POSTO ROTA 101 - ARARANGUA/SC",
+          "data_hora_posicao": "16/11/2026 17:45:59",
+          "lat": -28.9895456,
+          "lon": -49.5464768
         },
-        "distancia_km": 208.9,
+        "distancia_km": 193.4,
         "proximo": false
       }
     ],
@@ -81,5 +81,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T17:32:49"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044428-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 31172.3,
+        "frete_rs": 16778.72,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 17:45:30",
+          "lat": -27.2060064,
+          "lon": -49.6489536
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 31172.3,
+        "frete_rs": 16778.72,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-16T17:47:40"
 }
