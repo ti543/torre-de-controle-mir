@@ -29,7 +29,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 04:59:04",
+          "data_hora_posicao": "16/11/2026 05:15:42",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -49,7 +49,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 04:59:04",
+          "data_hora_posicao": "16/11/2026 05:15:42",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -68,10 +68,10 @@
         "frete_rs": 23939.64,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.09 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 05:00:26",
-          "lat": -22.8465392,
-          "lon": -47.1248448
+          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "16/11/2026 05:14:26",
+          "lat": -22.8465696,
+          "lon": -47.124752
         },
         "distancia_km": null,
         "proximo": false
@@ -105,18 +105,43 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 04:59:21",
+          "data_hora_posicao": "16/11/2026 05:15:21",
           "lat": -26.8873856,
           "lon": -48.7213184
         },
         "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "RSL044403-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 7143.91,
+        "frete_rs": 5787.75,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.23 km de POSTO BRASILIA - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 05:15:42",
+          "lat": -27.1954272,
+          "lon": -49.6258464
+        },
+        "distancia_km": 95.9,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 8508.06,
         "frete_rs": 7658.17,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 7143.91,
+        "frete_rs": 5787.75,
         "qtde": 1
       }
     }
@@ -136,7 +161,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 04:59:21",
+          "data_hora_posicao": "16/11/2026 05:15:21",
           "lat": -26.8873856,
           "lon": -48.7213184
         },
@@ -155,12 +180,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:59:28",
-          "lat": -27.238848,
-          "lon": -49.6839232
+          "referencia": "4.33 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "16/11/2026 05:13:28",
+          "lat": -27.2788928,
+          "lon": -49.8281792
         },
-        "distancia_km": 338.6,
+        "distancia_km": 328.6,
         "proximo": false
       }
     ],
@@ -192,9 +217,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 05:00:08",
-          "lat": -27.2058272,
-          "lon": -49.6489856
+          "data_hora_posicao": "16/11/2026 05:14:08",
+          "lat": -27.2059072,
+          "lon": -49.6489376
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -254,6 +279,46 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044404-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4467.87,
+        "frete_rs": 2360.03,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.23 km de POSTO BRASILIA - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 05:15:42",
+          "lat": -27.1954272,
+          "lon": -49.6258464
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044408-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 77.26,
+        "frete_rs": 1170.54,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.23 km de POSTO BRASILIA - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 05:15:42",
+          "lat": -27.1954272,
+          "lon": -49.6258464
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -261,6 +326,11 @@
         "peso_kg": 15143.46,
         "frete_rs": 17920.56,
         "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 4545.13,
+        "frete_rs": 3530.57,
+        "qtde": 2
       }
     }
   },
@@ -279,7 +349,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 04:59:46",
+          "data_hora_posicao": "16/11/2026 05:15:46",
           "lat": -25.527624,
           "lon": -49.295344
         },
@@ -299,7 +369,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 04:59:18",
+          "data_hora_posicao": "16/11/2026 05:15:24",
           "lat": -25.5277766666667,
           "lon": -49.294795
         },
@@ -334,12 +404,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.93 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 05:00:58",
-          "lat": -25.0733504,
-          "lon": -48.586304
+          "referencia": "1.71 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "16/11/2026 05:14:36",
+          "lat": -24.9718272,
+          "lon": -48.4902912
         },
-        "distancia_km": 279.5,
+        "distancia_km": 264.9,
         "proximo": false
       },
       {
@@ -354,12 +424,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.93 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 05:00:58",
-          "lat": -25.0733504,
-          "lon": -48.586304
+          "referencia": "1.71 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "16/11/2026 05:14:36",
+          "lat": -24.9718272,
+          "lon": -48.4902912
         },
-        "distancia_km": 279.5,
+        "distancia_km": 264.9,
         "proximo": false
       }
     ],
@@ -385,10 +455,10 @@
         "frete_rs": 7622.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:57:02",
-          "lat": -27.2060991,
-          "lon": -49.649375
+          "referencia": "1.44 km de 1ºPEL/1ºGP - 1º GRUPO - AGRONOMICA/SC",
+          "data_hora_posicao": "16/11/2026 05:15:43",
+          "lat": -27.254089,
+          "lon": -49.7049268
         },
         "distancia_km": null,
         "proximo": false
@@ -416,10 +486,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:59:28",
-          "lat": -27.238848,
-          "lon": -49.6839232
+          "referencia": "4.33 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "16/11/2026 05:13:28",
+          "lat": -27.2788928,
+          "lon": -49.8281792
         },
         "distancia_km": null,
         "proximo": false
@@ -447,10 +517,10 @@
         "frete_rs": 2389.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:59:28",
-          "lat": -27.238848,
-          "lon": -49.6839232
+          "referencia": "4.33 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "16/11/2026 05:13:28",
+          "lat": -27.2788928,
+          "lon": -49.8281792
         },
         "distancia_km": null,
         "proximo": false
@@ -467,10 +537,10 @@
         "frete_rs": 1496.04,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:59:28",
-          "lat": -27.238848,
-          "lon": -49.6839232
+          "referencia": "4.33 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "16/11/2026 05:13:28",
+          "lat": -27.2788928,
+          "lon": -49.8281792
         },
         "distancia_km": null,
         "proximo": false
@@ -484,5 +554,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T05:02:36"
+  "_gerado_em": "2026-11-16T05:17:34"
 }
