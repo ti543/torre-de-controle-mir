@@ -1,4 +1,80 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000764-1",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 8848.83,
+        "frete_rs": 16270.19,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "16/11/2026 20:29:36",
+          "lat": -27.0965376,
+          "lon": -48.9307168
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013616-6",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 1924.82,
+        "frete_rs": 2172.79,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.62 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "16/11/2026 20:30:27",
+          "lat": -26.0465183333333,
+          "lon": -48.859625
+        },
+        "distancia_km": 94.5,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016446-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 163.2,
+        "frete_rs": 175.95,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 8848.83,
+        "frete_rs": 16270.19,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 1924.82,
+        "frete_rs": 2172.79,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 163.2,
+        "frete_rs": 175.95,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -13,12 +89,12 @@
         "frete_rs": 12155.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.4 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
-          "data_hora_posicao": "16/11/2026 20:14:04",
-          "lat": -23.252125,
-          "lon": -46.5947566666667
+          "referencia": "1.19 km de TOLIMAN ARMAZEM DE COLETA GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 20:30:52",
+          "lat": -23.34996,
+          "lon": -46.5580283333333
         },
-        "distancia_km": 27.8,
+        "distancia_km": 16.6,
         "proximo": true
       },
       {
@@ -33,12 +109,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 20:15:46",
-          "lat": -25.3505648,
-          "lon": -49.060272
+          "referencia": "0.78 km de POSTO E CHURRASCARIA O CUPIM 1 - QUATRO BARRAS/PR",
+          "data_hora_posicao": "16/11/2026 20:29:46",
+          "lat": -25.3106688,
+          "lon": -49.0132288
         },
-        "distancia_km": 336.0,
+        "distancia_km": 329.5,
         "proximo": false
       },
       {
@@ -53,12 +129,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "16/11/2026 20:14:26",
-          "lat": -26.8349968,
-          "lon": -48.7060448
+          "referencia": "1.46 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "16/11/2026 20:30:26",
+          "lat": -26.6760768,
+          "lon": -48.6912608
         },
-        "distancia_km": 437.0,
+        "distancia_km": 421.2,
         "proximo": false
       },
       {
@@ -100,57 +176,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013616-6",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 1924.82,
-        "frete_rs": 2172.79,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.11 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
-          "data_hora_posicao": "16/11/2026 20:14:09",
-          "lat": -25.8825533333333,
-          "lon": -48.9343316666667
-        },
-        "distancia_km": 113.7,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016446-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 163.2,
-        "frete_rs": 175.95,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 1924.82,
-        "frete_rs": 2172.79,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 163.2,
-        "frete_rs": 175.95,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -165,12 +190,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.11 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
-          "data_hora_posicao": "16/11/2026 20:14:09",
-          "lat": -25.8825533333333,
-          "lon": -48.9343316666667
+          "referencia": "0.62 km de RESTAURANTE MERLO - GARUVA/SC",
+          "data_hora_posicao": "16/11/2026 20:30:27",
+          "lat": -26.0465183333333,
+          "lon": -48.859625
         },
-        "distancia_km": 163.5,
+        "distancia_km": 151.0,
         "proximo": false
       },
       {
@@ -185,10 +210,10 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:15:28",
-          "lat": -29.9833952,
-          "lon": -51.1868224
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 20:29:28",
+          "lat": -29.9833664,
+          "lon": -51.1867776
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -221,12 +246,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de LANCHERIA E RESTAURANTE DOIS IRMÃOS - OSORIO/RS",
-          "data_hora_posicao": "16/11/2026 20:13:59",
-          "lat": -29.8293248,
-          "lon": -50.2475136
+          "referencia": "3.4 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "16/11/2026 20:29:59",
+          "lat": -29.8741248,
+          "lon": -50.3970144
         },
-        "distancia_km": 92.1,
+        "distancia_km": 77.1,
         "proximo": false
       },
       {
@@ -241,12 +266,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.68 km de LANCHERIA E RESTAURANTE DOIS IRMÃOS - OSORIO/RS",
-          "data_hora_posicao": "16/11/2026 20:13:59",
-          "lat": -29.8293248,
-          "lon": -50.2475136
+          "referencia": "3.4 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "16/11/2026 20:29:59",
+          "lat": -29.8741248,
+          "lon": -50.3970144
         },
-        "distancia_km": 92.1,
+        "distancia_km": 77.1,
         "proximo": false
       }
     ],
@@ -303,10 +328,10 @@
         "frete_rs": 311.98,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:15:28",
-          "lat": -29.9833952,
-          "lon": -51.1868224
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 20:29:28",
+          "lat": -29.9833664,
+          "lon": -51.1867776
         },
         "distancia_km": null,
         "proximo": false
@@ -334,10 +359,10 @@
         "frete_rs": 4476.14,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:15:28",
-          "lat": -29.9833952,
-          "lon": -51.1868224
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 20:29:28",
+          "lat": -29.9833664,
+          "lon": -51.1867776
         },
         "distancia_km": null,
         "proximo": false
@@ -351,5 +376,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T20:17:34"
+  "_gerado_em": "2026-11-16T20:32:44"
 }
