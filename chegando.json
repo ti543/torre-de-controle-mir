@@ -13,12 +13,12 @@
         "frete_rs": 1050.01,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.27 km de BAUER CAMINHOES - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 16:14:44",
-          "lat": -26.8978728,
-          "lon": -48.7180645
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 16:29:40",
+          "lat": -26.887753,
+          "lon": -48.7206461
         },
-        "distancia_km": 1.2,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.23 km de POSTO SIM CAMARÃO - LAGUNA/SC",
-          "data_hora_posicao": "16/11/2026 16:15:59",
-          "lat": -28.4043232,
-          "lon": -48.7898688
+          "referencia": "2.69 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "16/11/2026 16:29:59",
+          "lat": -28.424432,
+          "lon": -48.937104
         },
-        "distancia_km": 291.5,
+        "distancia_km": 278.8,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.23 km de POSTO SIM CAMARÃO - LAGUNA/SC",
-          "data_hora_posicao": "16/11/2026 16:15:59",
-          "lat": -28.4043232,
-          "lon": -48.7898688
+          "referencia": "2.69 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "16/11/2026 16:29:59",
+          "lat": -28.424432,
+          "lon": -48.937104
         },
-        "distancia_km": 291.5,
+        "distancia_km": 278.8,
         "proximo": false
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de GLOBB - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 16:15:50",
-          "lat": -29.9752128,
-          "lon": -51.1984928
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 16:30:04",
+          "lat": -29.9837984,
+          "lon": -51.1869728
         },
-        "distancia_km": 1.5,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -157,5 +157,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T16:17:53"
+  "_gerado_em": "2026-11-16T16:32:47"
 }
