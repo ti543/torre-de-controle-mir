@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 09:13:59",
+          "data_hora_posicao": "16/11/2026 09:29:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.32 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:39:28",
-          "lat": -27.8816448,
-          "lon": -50.4106912
+          "referencia": "6.64 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "16/11/2026 09:19:49",
+          "lat": -28.1768544,
+          "lon": -50.699424
         },
-        "distancia_km": 245.6,
+        "distancia_km": 206.4,
         "proximo": false
       }
     ],
@@ -71,12 +71,32 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044416-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 849.57,
+        "frete_rs": 1302.19,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 15143.46,
         "frete_rs": 17920.56,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 849.57,
+        "frete_rs": 1302.19,
         "qtde": 1
       }
     }
@@ -95,12 +115,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.53 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "16/11/2026 09:14:52",
-          "lat": -23.9733392,
-          "lon": -47.1370496
+          "referencia": "0.3 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 09:30:52",
+          "lat": -23.8921696,
+          "lon": -46.9835424
         },
-        "distancia_km": 88.6,
+        "distancia_km": 70.8,
         "proximo": false
       },
       {
@@ -115,12 +135,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.53 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "16/11/2026 09:14:52",
-          "lat": -23.9733392,
-          "lon": -47.1370496
+          "referencia": "0.3 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 09:30:52",
+          "lat": -23.8921696,
+          "lon": -46.9835424
         },
-        "distancia_km": 88.6,
+        "distancia_km": 70.8,
         "proximo": false
       }
     ],
@@ -146,10 +166,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO IRMAOS DALÇÓQUIO REDESIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 09:14:44",
-          "lat": -26.8906025,
-          "lon": -48.7244328
+          "referencia": "0.27 km de ALFA TRANSPORTES ITAJAÍ - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 09:31:02",
+          "lat": -26.9029538,
+          "lon": -48.7163913
         },
         "distancia_km": null,
         "proximo": false
@@ -178,9 +198,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 09:13:35",
-          "lat": -27.1846323,
-          "lon": -51.5197618
+          "data_hora_posicao": "16/11/2026 09:29:03",
+          "lat": -27.1846426,
+          "lon": -51.519855
         },
         "distancia_km": null,
         "proximo": false
@@ -208,12 +228,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de AUTO POSTO BLUMENAU - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 09:15:36",
-          "lat": -26.8824704,
-          "lon": -49.1403072
+          "referencia": "0.24 km de POSTO ZANDONÁ 12 - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 09:29:36",
+          "lat": -26.8504,
+          "lon": -49.08784
         },
-        "distancia_km": 41.6,
+        "distancia_km": 36.6,
         "proximo": false
       }
     ],
@@ -239,10 +259,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.32 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:39:28",
-          "lat": -27.8816448,
-          "lon": -50.4106912
+          "referencia": "6.64 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "16/11/2026 09:19:49",
+          "lat": -28.1768544,
+          "lon": -50.699424
         },
         "distancia_km": null,
         "proximo": false
@@ -256,5 +276,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T09:17:49"
+  "_gerado_em": "2026-11-16T09:32:40"
 }
