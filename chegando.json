@@ -13,10 +13,10 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 10:29:59",
-          "lat": -26.8876608,
-          "lon": -48.7206624
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 10:43:59",
+          "lat": -26.8876832,
+          "lon": -48.7207616
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:29:28",
-          "lat": -28.5255648,
-          "lon": -50.9488448
+          "referencia": "2.62 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 10:45:28",
+          "lat": -28.5775232,
+          "lon": -51.0195168
         },
-        "distancia_km": 163.7,
+        "distancia_km": 157.2,
         "proximo": false
       }
     ],
@@ -115,13 +115,13 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de 3º DISTRITO POLICIAL - OSASCO/SP",
-          "data_hora_posicao": "16/11/2026 10:30:52",
-          "lat": -23.5207424,
-          "lon": -46.775792
+          "referencia": "0.05 km de GT - PRE - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 10:44:52",
+          "lat": -23.5182368,
+          "lon": -46.7432544
         },
-        "distancia_km": 32.5,
-        "proximo": false
+        "distancia_km": 29.1,
+        "proximo": true
       },
       {
         "manif": "ITJ024108-3",
@@ -135,13 +135,13 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de 3º DISTRITO POLICIAL - OSASCO/SP",
-          "data_hora_posicao": "16/11/2026 10:30:52",
-          "lat": -23.5207424,
-          "lon": -46.775792
+          "referencia": "0.05 km de GT - PRE - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 10:44:52",
+          "lat": -23.5182368,
+          "lon": -46.7432544
         },
-        "distancia_km": 32.5,
-        "proximo": false
+        "distancia_km": 29.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -166,10 +166,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.71 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "16/11/2026 10:28:59",
-          "lat": -27.1331538,
-          "lon": -48.6122475
+          "referencia": "0.75 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "16/11/2026 10:45:08",
+          "lat": -27.1336443,
+          "lon": -48.6117033
         },
         "distancia_km": null,
         "proximo": false
@@ -183,33 +183,33 @@
       }
     }
   },
-  "JCB": {
+  "RSL": {
     "veiculos": [
       {
-        "manif": "RSL044401-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
+        "manif": "JCB000017-5",
+        "origin_unit": "JCB",
+        "origin_city": "JOACABA/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
         "placa": "RXU6I96",
         "motorista": "RENATO REIS RIBEIRO",
-        "peso_real_kg": 9301.07,
-        "frete_rs": 7622.66,
-        "grupo_origem": "Rio do Sul",
+        "peso_real_kg": 161.83,
+        "frete_rs": 796.56,
+        "grupo_origem": "JCB",
         "posicao_raster": {
           "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 10:29:03",
+          "data_hora_posicao": "16/11/2026 10:45:03",
           "lat": -27.1846426,
           "lon": -51.519855
         },
-        "distancia_km": null,
+        "distancia_km": 185.0,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 9301.07,
-        "frete_rs": 7622.66,
+      "JCB": {
+        "peso_kg": 161.83,
+        "frete_rs": 796.56,
         "qtde": 1
       }
     }
@@ -228,12 +228,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.12 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 10:29:36",
-          "lat": -26.7841696,
-          "lon": -49.0833856
+          "referencia": "2.18 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 10:45:36",
+          "lat": -26.8602912,
+          "lon": -49.064144
         },
-        "distancia_km": 37.7,
+        "distancia_km": 34.2,
         "proximo": false
       }
     ],
@@ -259,10 +259,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:29:28",
-          "lat": -28.5255648,
-          "lon": -50.9488448
+          "referencia": "2.62 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 10:45:28",
+          "lat": -28.5775232,
+          "lon": -51.0195168
         },
         "distancia_km": null,
         "proximo": false
@@ -276,5 +276,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T10:32:39"
+  "_gerado_em": "2026-11-16T10:47:40"
 }
