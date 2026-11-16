@@ -1,195 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "BRQ000763-3",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3740.39,
-        "frete_rs": 5865.24,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:04",
-          "lat": -23.470696,
-          "lon": -46.4621664
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024104-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 6146.9,
-        "frete_rs": 9337.1,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:04",
-          "lat": -23.470696,
-          "lon": -46.4621664
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024107-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 3486.81,
-        "frete_rs": 6280.51,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.56 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "16/11/2026 04:45:50",
-          "lat": -25.1112464,
-          "lon": -48.751552
-        },
-        "distancia_km": 295.1,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024108-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10636.41,
-        "frete_rs": 11963.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.56 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "16/11/2026 04:45:50",
-          "lat": -25.1112464,
-          "lon": -48.751552
-        },
-        "distancia_km": 295.1,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044387-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 8934.26,
-        "frete_rs": 15279.93,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044388-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 19268.2,
-        "frete_rs": 13472.38,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044391-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 4651.0,
-        "frete_rs": 6152.43,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:04",
-          "lat": -23.4706976,
-          "lon": -46.4622112
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044392-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 25432.1,
-        "frete_rs": 14123.24,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:04",
-          "lat": -23.4706976,
-          "lon": -46.4622112
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "TBO016429-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13219.22,
-        "frete_rs": 22010.35,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 3740.39,
-        "frete_rs": 5865.24,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 20270.12,
-        "frete_rs": 27580.64,
-        "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 58285.56,
-        "frete_rs": 49027.979999999996,
-        "qtde": 4
-      },
-      "Timbó": {
-        "peso_kg": 13219.22,
-        "frete_rs": 22010.35,
-        "qtde": 1
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
       {
@@ -220,7 +29,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:05",
+          "data_hora_posicao": "16/11/2026 04:59:04",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -240,7 +49,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 04:45:05",
+          "data_hora_posicao": "16/11/2026 04:59:04",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -260,7 +69,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.09 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 04:44:26",
+          "data_hora_posicao": "16/11/2026 05:00:26",
           "lat": -22.8465392,
           "lon": -47.1248448
         },
@@ -296,7 +105,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 04:43:21",
+          "data_hora_posicao": "16/11/2026 04:59:21",
           "lat": -26.8873856,
           "lon": -48.7213184
         },
@@ -327,7 +136,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 04:43:21",
+          "data_hora_posicao": "16/11/2026 04:59:21",
           "lat": -26.8873856,
           "lon": -48.7213184
         },
@@ -346,12 +155,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:45:28",
-          "lat": -27.206144,
-          "lon": -49.6493728
+          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 04:59:28",
+          "lat": -27.238848,
+          "lon": -49.6839232
         },
-        "distancia_km": 343.3,
+        "distancia_km": 338.6,
         "proximo": false
       }
     ],
@@ -383,7 +192,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:44:08",
+          "data_hora_posicao": "16/11/2026 05:00:08",
           "lat": -27.2058272,
           "lon": -49.6489856
         },
@@ -470,7 +279,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 04:45:46",
+          "data_hora_posicao": "16/11/2026 04:59:46",
           "lat": -25.527624,
           "lon": -49.295344
         },
@@ -490,7 +299,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 04:45:18",
+          "data_hora_posicao": "16/11/2026 04:59:18",
           "lat": -25.5277766666667,
           "lon": -49.294795
         },
@@ -511,6 +320,57 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024107-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3486.81,
+        "frete_rs": 6280.51,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "1.93 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "16/11/2026 05:00:58",
+          "lat": -25.0733504,
+          "lon": -48.586304
+        },
+        "distancia_km": 279.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024108-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10636.41,
+        "frete_rs": 11963.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "1.93 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "16/11/2026 05:00:58",
+          "lat": -25.0733504,
+          "lon": -48.586304
+        },
+        "distancia_km": 279.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 14123.22,
+        "frete_rs": 18243.54,
+        "qtde": 2
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -526,7 +386,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:45:02",
+          "data_hora_posicao": "16/11/2026 04:57:02",
           "lat": -27.2060991,
           "lon": -49.649375
         },
@@ -556,10 +416,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:45:28",
-          "lat": -27.206144,
-          "lon": -49.6493728
+          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 04:59:28",
+          "lat": -27.238848,
+          "lon": -49.6839232
         },
         "distancia_km": null,
         "proximo": false
@@ -587,10 +447,10 @@
         "frete_rs": 2389.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:45:28",
-          "lat": -27.206144,
-          "lon": -49.6493728
+          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 04:59:28",
+          "lat": -27.238848,
+          "lon": -49.6839232
         },
         "distancia_km": null,
         "proximo": false
@@ -607,10 +467,10 @@
         "frete_rs": 1496.04,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 04:45:28",
-          "lat": -27.206144,
-          "lon": -49.6493728
+          "referencia": "0.29 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 04:59:28",
+          "lat": -27.238848,
+          "lon": -49.6839232
         },
         "distancia_km": null,
         "proximo": false
@@ -624,5 +484,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T04:47:38"
+  "_gerado_em": "2026-11-16T05:02:36"
 }
