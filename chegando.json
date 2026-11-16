@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 07:59:59",
+          "data_hora_posicao": "16/11/2026 08:13:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -33,12 +33,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "16/11/2026 08:00:28",
-          "lat": -26.8428576,
-          "lon": -49.2734912
+          "referencia": "0.52 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
+          "data_hora_posicao": "16/11/2026 08:15:42",
+          "lat": -26.8832128,
+          "lon": -49.2471168
         },
-        "distancia_km": 55.0,
+        "distancia_km": 52.2,
         "proximo": false
       }
     ],
@@ -70,7 +70,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 07:59:59",
+          "data_hora_posicao": "16/11/2026 08:13:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -90,9 +90,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 07:59:28",
-          "lat": -27.8237888,
-          "lon": -50.3628512
+          "data_hora_posicao": "16/11/2026 08:15:28",
+          "lat": -27.8237792,
+          "lon": -50.362784
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -127,46 +127,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044404-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4467.87,
-        "frete_rs": 2360.03,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "16/11/2026 08:00:28",
-          "lat": -26.8428576,
-          "lon": -49.2734912
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044408-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 77.26,
-        "frete_rs": 1170.54,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "16/11/2026 08:00:28",
-          "lat": -26.8428576,
-          "lon": -49.2734912
-        },
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -174,11 +134,6 @@
         "peso_kg": 15143.46,
         "frete_rs": 17920.56,
         "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 4545.13,
-        "frete_rs": 3530.57,
-        "qtde": 2
       }
     }
   },
@@ -237,12 +192,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "16/11/2026 07:58:52",
-          "lat": -24.3780352,
-          "lon": -47.710736
+          "referencia": "1.46 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:14:52",
+          "lat": -24.3286672,
+          "lon": -47.5753888
         },
-        "distancia_km": 162.1,
+        "distancia_km": 148.0,
         "proximo": false
       },
       {
@@ -257,12 +212,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
-          "data_hora_posicao": "16/11/2026 07:58:52",
-          "lat": -24.3780352,
-          "lon": -47.710736
+          "referencia": "1.46 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:14:52",
+          "lat": -24.3286672,
+          "lon": -47.5753888
         },
-        "distancia_km": 162.1,
+        "distancia_km": 148.0,
         "proximo": false
       }
     ],
@@ -288,10 +243,10 @@
         "frete_rs": 7622.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.58 km de BORACHARIA DO HACK - BRUNOPOLIS/SC",
-          "data_hora_posicao": "16/11/2026 07:57:10",
-          "lat": -27.3492992,
-          "lon": -51.0126336
+          "referencia": "1.23 km de QUIOSQUE ESTAÇÃO X LANCHES - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "16/11/2026 08:09:20",
+          "lat": -27.3909888,
+          "lon": -51.1282231
         },
         "distancia_km": null,
         "proximo": false
@@ -320,9 +275,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 07:59:28",
-          "lat": -27.8237888,
-          "lon": -50.3628512
+          "data_hora_posicao": "16/11/2026 08:15:28",
+          "lat": -27.8237792,
+          "lon": -50.362784
         },
         "distancia_km": null,
         "proximo": false
@@ -351,9 +306,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 07:59:28",
-          "lat": -27.8237888,
-          "lon": -50.3628512
+          "data_hora_posicao": "16/11/2026 08:15:28",
+          "lat": -27.8237792,
+          "lon": -50.362784
         },
         "distancia_km": null,
         "proximo": false
@@ -371,9 +326,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 07:59:28",
-          "lat": -27.8237888,
-          "lon": -50.3628512
+          "data_hora_posicao": "16/11/2026 08:15:28",
+          "lat": -27.8237792,
+          "lon": -50.362784
         },
         "distancia_km": null,
         "proximo": false
@@ -387,5 +342,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T08:02:39"
+  "_gerado_em": "2026-11-16T08:17:38"
 }
