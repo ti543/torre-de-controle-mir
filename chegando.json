@@ -13,12 +13,12 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.16 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 13:14:26",
-          "lat": -23.4638048,
-          "lon": -46.4687872
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 13:30:26",
+          "lat": -23.4705264,
+          "lon": -46.4624288
         },
-        "distancia_km": 1.0,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.62 km de POLO PNEUS - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 13:13:59",
-          "lat": -26.9628704,
-          "lon": -48.6827392
+          "referencia": "0.86 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "16/11/2026 13:29:59",
+          "lat": -27.00384,
+          "lon": -48.6307136
         },
-        "distancia_km": 415.5,
+        "distancia_km": 414.9,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.62 km de POLO PNEUS - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 13:13:59",
-          "lat": -26.9628704,
-          "lon": -48.6827392
+          "referencia": "0.86 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "16/11/2026 13:29:59",
+          "lat": -27.00384,
+          "lon": -48.6307136
         },
-        "distancia_km": 415.5,
+        "distancia_km": 414.9,
         "proximo": false
       },
       {
@@ -85,9 +85,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "16/11/2026 13:15:28",
-          "lat": -29.146336,
-          "lon": -51.164848
+          "data_hora_posicao": "16/11/2026 13:29:28",
+          "lat": -29.1463584,
+          "lon": -51.1648704
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -171,10 +171,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 13:12:43",
-          "lat": -27.6744303,
-          "lon": -48.6978871
+          "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
+          "data_hora_posicao": "16/11/2026 13:30:34",
+          "lat": -27.674273,
+          "lon": -48.6979245
         },
         "distancia_km": null,
         "proximo": false
@@ -202,12 +202,12 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "1.38 km de POSTO DELTA - BRUNOPOLIS - BRUNOPOLIS/SC",
-          "data_hora_posicao": "16/11/2026 13:15:28",
-          "lat": -27.3300325,
-          "lon": -50.8228781
+          "referencia": "2.64 km de CALDO DE CANA E PASTEL DA LHU?? - BRUNOPOLIS/SC",
+          "data_hora_posicao": "16/11/2026 13:30:29",
+          "lat": -27.3181776,
+          "lon": -50.7706256
         },
-        "distancia_km": 116.8,
+        "distancia_km": 111.5,
         "proximo": false
       }
     ],
@@ -234,7 +234,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 13:15:36",
+          "data_hora_posicao": "16/11/2026 13:29:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -265,9 +265,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "16/11/2026 13:15:28",
-          "lat": -29.146336,
-          "lon": -51.164848
+          "data_hora_posicao": "16/11/2026 13:29:28",
+          "lat": -29.1463584,
+          "lon": -51.1648704
         },
         "distancia_km": null,
         "proximo": false
@@ -281,5 +281,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T13:17:35"
+  "_gerado_em": "2026-11-16T13:32:35"
 }
