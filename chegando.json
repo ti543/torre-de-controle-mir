@@ -1,60 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074676-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 8508.06,
-        "frete_rs": 7658.17,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 08:29:59",
-          "lat": -26.8876608,
-          "lon": -48.7206624
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044403-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 7143.91,
-        "frete_rs": 5787.75,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - INDAIAL/SC",
-          "data_hora_posicao": "16/11/2026 08:29:36",
-          "lat": -26.8706112,
-          "lon": -49.2280928
-        },
-        "distancia_km": 50.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8508.06,
-        "frete_rs": 7658.17,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 7143.91,
-        "frete_rs": 5787.75,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -70,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 08:29:59",
+          "data_hora_posicao": "16/11/2026 08:45:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -89,12 +33,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:29:43",
-          "lat": -27.818784,
-          "lon": -50.3623552
+          "referencia": "1.32 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "16/11/2026 08:39:28",
+          "lat": -27.8816448,
+          "lon": -50.4106912
         },
-        "distancia_km": 253.7,
+        "distancia_km": 245.6,
         "proximo": false
       }
     ],
@@ -137,47 +81,6 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074685-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 11353.94,
-        "frete_rs": 17610.5,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074686-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12.0,
-        "frete_rs": 126.42,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 11365.94,
-        "frete_rs": 17736.92,
-        "qtde": 2
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -192,12 +95,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:30:52",
-          "lat": -24.2665152,
-          "lon": -47.391072
+          "referencia": "0.79 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:44:52",
+          "lat": -24.1495648,
+          "lon": -47.30888
         },
-        "distancia_km": 129.4,
+        "distancia_km": 114.5,
         "proximo": false
       },
       {
@@ -212,12 +115,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:30:52",
-          "lat": -24.2665152,
-          "lon": -47.391072
+          "referencia": "0.79 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:44:52",
+          "lat": -24.1495648,
+          "lon": -47.30888
         },
-        "distancia_km": 129.4,
+        "distancia_km": 114.5,
         "proximo": false
       }
     ],
@@ -243,10 +146,10 @@
         "frete_rs": 7622.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.05 km de BRF UNIDADE DE CAMPOS NOVOS - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "16/11/2026 08:30:00",
-          "lat": -27.3569395,
-          "lon": -51.3312231
+          "referencia": "1.86 km de 10ªRPM/26ºBPM/1ªCIA/3ºPEL/1ªGP – 1°GRUPO - ERVAL VELHO/SC",
+          "data_hora_posicao": "16/11/2026 08:45:24",
+          "lat": -27.2667273,
+          "lon": -51.4439961
         },
         "distancia_km": null,
         "proximo": false
@@ -256,6 +159,37 @@
       "Rio do Sul": {
         "peso_kg": 9301.07,
         "frete_rs": 7622.66,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "RSL044403-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 7143.91,
+        "frete_rs": 5787.75,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.4 km de MAGGIOR TEXTIL - INDAIAL/SC",
+          "data_hora_posicao": "16/11/2026 08:45:36",
+          "lat": -26.8702912,
+          "lon": -49.2108928
+        },
+        "distancia_km": 48.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 7143.91,
+        "frete_rs": 5787.75,
         "qtde": 1
       }
     }
@@ -274,10 +208,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:29:43",
-          "lat": -27.818784,
-          "lon": -50.3623552
+          "referencia": "1.32 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "16/11/2026 08:39:28",
+          "lat": -27.8816448,
+          "lon": -50.4106912
         },
         "distancia_km": null,
         "proximo": false
@@ -291,56 +225,5 @@
       }
     }
   },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "RSL044406-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 1035.56,
-        "frete_rs": 2389.68,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:29:43",
-          "lat": -27.818784,
-          "lon": -50.3623552
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044411-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 1140.9,
-        "frete_rs": 1496.04,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "16/11/2026 08:29:43",
-          "lat": -27.818784,
-          "lon": -50.3623552
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2176.46,
-        "frete_rs": 3885.72,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-16T08:32:50"
+  "_gerado_em": "2026-11-16T08:47:57"
 }
