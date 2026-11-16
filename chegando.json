@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 10:13:59",
+          "data_hora_posicao": "16/11/2026 10:29:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -34,9 +34,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:15:28",
-          "lat": -28.525632,
-          "lon": -50.9488096
+          "data_hora_posicao": "16/11/2026 10:29:28",
+          "lat": -28.5255648,
+          "lon": -50.9488448
         },
         "distancia_km": 163.7,
         "proximo": false
@@ -115,12 +115,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.71 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
-          "data_hora_posicao": "16/11/2026 10:14:52",
-          "lat": -23.511472,
-          "lon": -46.8083776
+          "referencia": "0.5 km de 3º DISTRITO POLICIAL - OSASCO/SP",
+          "data_hora_posicao": "16/11/2026 10:30:52",
+          "lat": -23.5207424,
+          "lon": -46.775792
         },
-        "distancia_km": 35.6,
+        "distancia_km": 32.5,
         "proximo": false
       },
       {
@@ -135,12 +135,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.71 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
-          "data_hora_posicao": "16/11/2026 10:14:52",
-          "lat": -23.511472,
-          "lon": -46.8083776
+          "referencia": "0.5 km de 3º DISTRITO POLICIAL - OSASCO/SP",
+          "data_hora_posicao": "16/11/2026 10:30:52",
+          "lat": -23.5207424,
+          "lon": -46.775792
         },
-        "distancia_km": 35.6,
+        "distancia_km": 32.5,
         "proximo": false
       }
     ],
@@ -167,9 +167,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.71 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "16/11/2026 10:12:59",
-          "lat": -27.133206,
-          "lon": -48.6120541
+          "data_hora_posicao": "16/11/2026 10:28:59",
+          "lat": -27.1331538,
+          "lon": -48.6122475
         },
         "distancia_km": null,
         "proximo": false
@@ -198,7 +198,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 10:13:03",
+          "data_hora_posicao": "16/11/2026 10:29:03",
           "lat": -27.1846426,
           "lon": -51.519855
         },
@@ -228,12 +228,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 10:15:36",
-          "lat": -26.7657408,
-          "lon": -49.0785344
+          "referencia": "1.12 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 10:29:36",
+          "lat": -26.7841696,
+          "lon": -49.0833856
         },
-        "distancia_km": 38.0,
+        "distancia_km": 37.7,
         "proximo": false
       }
     ],
@@ -260,9 +260,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 10:15:28",
-          "lat": -28.525632,
-          "lon": -50.9488096
+          "data_hora_posicao": "16/11/2026 10:29:28",
+          "lat": -28.5255648,
+          "lon": -50.9488448
         },
         "distancia_km": null,
         "proximo": false
@@ -276,5 +276,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T10:17:40"
+  "_gerado_em": "2026-11-16T10:32:39"
 }
