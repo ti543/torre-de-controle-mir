@@ -13,12 +13,12 @@
         "frete_rs": 1050.01,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "16/11/2026 15:15:38",
-          "lat": -27.1967153,
-          "lon": -48.603896
+          "referencia": "1.94 km de POSTO GRAAL GP SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "16/11/2026 15:30:11",
+          "lat": -27.1559493,
+          "lon": -48.6108301
         },
-        "distancia_km": 36.3,
+        "distancia_km": 31.8,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 15:15:36",
+          "data_hora_posicao": "16/11/2026 15:29:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -69,12 +69,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.86 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 15:15:59",
-          "lat": -27.7926816,
-          "lon": -48.6383808
+          "referencia": "1.19 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "16/11/2026 15:29:59",
+          "lat": -27.9316768,
+          "lon": -48.6612576
         },
-        "distancia_km": 347.7,
+        "distancia_km": 335.3,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.86 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 15:15:59",
-          "lat": -27.7926816,
-          "lon": -48.6383808
+          "referencia": "1.19 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "16/11/2026 15:29:59",
+          "lat": -27.9316768,
+          "lon": -48.6612576
         },
-        "distancia_km": 347.7,
+        "distancia_km": 335.3,
         "proximo": false
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "16/11/2026 15:15:28",
-          "lat": -29.4760576,
-          "lon": -51.352608
+          "referencia": "0.74 km de POSTO VALE DO CAÍ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "16/11/2026 15:29:28",
+          "lat": -29.6184416,
+          "lon": -51.3256032
         },
-        "distancia_km": 58.6,
+        "distancia_km": 42.7,
         "proximo": false
       }
     ],
@@ -196,12 +196,12 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "1.44 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
-          "data_hora_posicao": "16/11/2026 15:15:31",
-          "lat": -27.2747448,
-          "lon": -49.8554003
+          "referencia": "0.05 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 15:31:01",
+          "lat": -27.2427258,
+          "lon": -49.6886251
         },
-        "distancia_km": 21.7,
+        "distancia_km": 5.6,
         "proximo": true
       }
     ],
@@ -213,5 +213,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T15:18:14"
+  "_gerado_em": "2026-11-16T15:32:52"
 }
