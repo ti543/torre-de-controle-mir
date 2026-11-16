@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 08:45:59",
+          "data_hora_posicao": "16/11/2026 08:59:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -95,12 +95,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.79 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:44:52",
-          "lat": -24.1495648,
-          "lon": -47.30888
+          "referencia": "4.33 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:58:22",
+          "lat": -24.0700672,
+          "lon": -47.245056
         },
-        "distancia_km": 114.5,
+        "distancia_km": 103.9,
         "proximo": false
       },
       {
@@ -115,12 +115,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.79 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:44:52",
-          "lat": -24.1495648,
-          "lon": -47.30888
+          "referencia": "4.33 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 08:58:22",
+          "lat": -24.0700672,
+          "lon": -47.245056
         },
-        "distancia_km": 114.5,
+        "distancia_km": 103.9,
         "proximo": false
       }
     ],
@@ -146,10 +146,10 @@
         "frete_rs": 7622.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.86 km de 10ªRPM/26ºBPM/1ªCIA/3ºPEL/1ªGP – 1°GRUPO - ERVAL VELHO/SC",
-          "data_hora_posicao": "16/11/2026 08:45:24",
-          "lat": -27.2667273,
-          "lon": -51.4439961
+          "referencia": "0.62 km de POSTO AMIGÃO - JOACABA/SC",
+          "data_hora_posicao": "16/11/2026 08:59:49",
+          "lat": -27.2037946,
+          "lon": -51.514624
         },
         "distancia_km": null,
         "proximo": false
@@ -177,12 +177,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "16/11/2026 08:45:36",
-          "lat": -26.8702912,
-          "lon": -49.2108928
+          "referencia": "0.67 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "16/11/2026 08:59:36",
+          "lat": -26.8723904,
+          "lon": -49.1922976
         },
-        "distancia_km": 48.6,
+        "distancia_km": 46.8,
         "proximo": false
       }
     ],
@@ -225,5 +225,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T08:47:57"
+  "_gerado_em": "2026-11-16T09:02:58"
 }
