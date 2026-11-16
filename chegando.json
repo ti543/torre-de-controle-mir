@@ -1,35 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010411-6",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1318.2,
-        "frete_rs": 4723.28,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 13:30:26",
-          "lat": -23.4705264,
-          "lon": -46.4624288
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1318.2,
-        "frete_rs": 4723.28,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -44,12 +13,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.86 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "16/11/2026 13:29:59",
-          "lat": -27.00384,
-          "lon": -48.6307136
+          "referencia": "0.32 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "16/11/2026 13:45:59",
+          "lat": -27.0280928,
+          "lon": -48.6054624
         },
-        "distancia_km": 414.9,
+        "distancia_km": 414.2,
         "proximo": false
       },
       {
@@ -64,12 +33,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.86 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "16/11/2026 13:29:59",
-          "lat": -27.00384,
-          "lon": -48.6307136
+          "referencia": "0.32 km de POSTO MIME EXPOCENTRO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "16/11/2026 13:45:59",
+          "lat": -27.0280928,
+          "lon": -48.6054624
         },
-        "distancia_km": 414.9,
+        "distancia_km": 414.2,
         "proximo": false
       },
       {
@@ -84,12 +53,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "16/11/2026 13:29:28",
-          "lat": -29.1463584,
-          "lon": -51.1648704
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "16/11/2026 13:45:28",
+          "lat": -29.1469024,
+          "lon": -51.1647392
         },
-        "distancia_km": 93.1,
+        "distancia_km": 93.0,
         "proximo": false
       }
     ],
@@ -172,7 +141,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 13:30:34",
+          "data_hora_posicao": "16/11/2026 13:42:31",
           "lat": -27.674273,
           "lon": -48.6979245
         },
@@ -202,12 +171,12 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "2.64 km de CALDO DE CANA E PASTEL DA LHU?? - BRUNOPOLIS/SC",
-          "data_hora_posicao": "16/11/2026 13:30:29",
-          "lat": -27.3181776,
-          "lon": -50.7706256
+          "referencia": "0.11 km de POSTO REAL PARAISO (PROIBIDO PERNOITE) - CURITIBANOS/SC",
+          "data_hora_posicao": "16/11/2026 13:45:56",
+          "lat": -27.3120236,
+          "lon": -50.5882828
         },
-        "distancia_km": 111.5,
+        "distancia_km": 93.5,
         "proximo": false
       }
     ],
@@ -234,7 +203,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 13:29:36",
+          "data_hora_posicao": "16/11/2026 13:45:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -250,36 +219,5 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044405-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3231.9,
-        "frete_rs": 2706.09,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "16/11/2026 13:29:28",
-          "lat": -29.1463584,
-          "lon": -51.1648704
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 3231.9,
-        "frete_rs": 2706.09,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-16T13:32:35"
+  "_gerado_em": "2026-11-16T13:47:45"
 }
