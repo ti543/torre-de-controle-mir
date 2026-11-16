@@ -1,4 +1,60 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010412-4",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 6057.24,
+        "frete_rs": 12155.15,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "16/11/2026 18:22:54",
+          "lat": -22.8470016666667,
+          "lon": -47.124725
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044428-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 31172.3,
+        "frete_rs": 16778.72,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "16/11/2026 18:29:28",
+          "lat": -27.0997152,
+          "lon": -49.460912
+        },
+        "distancia_km": 503.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 6057.24,
+        "frete_rs": 12155.15,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 31172.3,
+        "frete_rs": 16778.72,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -13,12 +69,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.52 km de POSTO CANYONS BEACH - SAO JOAO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 18:13:59",
-          "lat": -29.213504,
-          "lon": -49.758256
+          "referencia": "0.08 km de POSTO FISCAL - TORRES - TORRES/RS",
+          "data_hora_posicao": "16/11/2026 18:29:59",
+          "lat": -29.3059776,
+          "lon": -49.7728576
         },
-        "distancia_km": 162.5,
+        "distancia_km": 156.0,
         "proximo": false
       },
       {
@@ -33,12 +89,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.52 km de POSTO CANYONS BEACH - SAO JOAO DO SUL/SC",
-          "data_hora_posicao": "16/11/2026 18:13:59",
-          "lat": -29.213504,
-          "lon": -49.758256
+          "referencia": "0.08 km de POSTO FISCAL - TORRES - TORRES/RS",
+          "data_hora_posicao": "16/11/2026 18:29:59",
+          "lat": -29.3059776,
+          "lon": -49.7728576
         },
-        "distancia_km": 162.5,
+        "distancia_km": 156.0,
         "proximo": false
       }
     ],
@@ -81,36 +137,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044428-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 31172.3,
-        "frete_rs": 16778.72,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.47 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "16/11/2026 18:14:26",
-          "lat": -27.133344,
-          "lon": -49.5395328
-        },
-        "distancia_km": 511.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 31172.3,
-        "frete_rs": 16778.72,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-16T18:17:29"
+  "_gerado_em": "2026-11-16T18:32:37"
 }
