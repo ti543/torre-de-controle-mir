@@ -14,9 +14,9 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 18:22:54",
-          "lat": -22.8470016666667,
-          "lon": -47.124725
+          "data_hora_posicao": "16/11/2026 18:43:57",
+          "lat": -22.8469616666667,
+          "lon": -47.12468
         },
         "distancia_km": 96.9,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "16/11/2026 18:29:28",
-          "lat": -27.0997152,
-          "lon": -49.460912
+          "referencia": "0.21 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
+          "data_hora_posicao": "16/11/2026 18:44:26",
+          "lat": -27.0361152,
+          "lon": -49.3906368
         },
-        "distancia_km": 503.7,
+        "distancia_km": 493.8,
         "proximo": false
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "16/11/2026 18:29:59",
-          "lat": -29.3059776,
-          "lon": -49.7728576
+          "referencia": "0.06 km de POSTO ROTA 101 PARADOURO - DOM PEDRO DE ALCANTARA/RS",
+          "data_hora_posicao": "16/11/2026 18:43:59",
+          "lat": -29.393296,
+          "lon": -49.845024
         },
-        "distancia_km": 156.0,
+        "distancia_km": 145.3,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "16/11/2026 18:29:59",
-          "lat": -29.3059776,
-          "lon": -49.7728576
+          "referencia": "0.06 km de POSTO ROTA 101 PARADOURO - DOM PEDRO DE ALCANTARA/RS",
+          "data_hora_posicao": "16/11/2026 18:43:59",
+          "lat": -29.393296,
+          "lon": -49.845024
         },
-        "distancia_km": 156.0,
+        "distancia_km": 145.3,
         "proximo": false
       }
     ],
@@ -137,5 +137,118 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T18:32:37"
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016257-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 105.0,
+        "frete_rs": 311.98,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 18:45:28",
+          "lat": -29.983472,
+          "lon": -51.1867296
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 105.0,
+        "frete_rs": 311.98,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "POA016258-2",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 5833.48,
+        "frete_rs": 4476.14,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 18:45:28",
+          "lat": -29.983472,
+          "lon": -51.1867296
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 5833.48,
+        "frete_rs": 4476.14,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "POA016259-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 7306.12,
+        "frete_rs": 6764.92,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 18:45:28",
+          "lat": -29.983472,
+          "lon": -51.1867296
+        },
+        "distancia_km": 343.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016444-5",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1770.97,
+        "frete_rs": 2385.35,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 7306.12,
+        "frete_rs": 6764.92,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 1770.97,
+        "frete_rs": 2385.35,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-16T18:47:38"
 }
