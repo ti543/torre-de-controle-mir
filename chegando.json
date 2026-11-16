@@ -13,12 +13,12 @@
         "frete_rs": 1050.01,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTINHO BR - TIJUCAS/SC",
-          "data_hora_posicao": "16/11/2026 14:45:32",
-          "lat": -27.326405,
-          "lon": -48.626853
+          "referencia": "1.01 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "16/11/2026 15:00:54",
+          "lat": -27.1967941,
+          "lon": -48.603799
         },
-        "distancia_km": 49.7,
+        "distancia_km": 36.3,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 14:45:36",
+          "data_hora_posicao": "16/11/2026 14:59:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -69,12 +69,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.32 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
-          "data_hora_posicao": "16/11/2026 14:45:59",
-          "lat": -27.5505152,
-          "lon": -48.6196224
+          "referencia": "0.14 km de HUB  PALHOÇA - FLN - PALHOCA/SC",
+          "data_hora_posicao": "16/11/2026 14:59:59",
+          "lat": -27.6307616,
+          "lon": -48.6598368
         },
-        "distancia_km": 368.5,
+        "distancia_km": 359.2,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.32 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
-          "data_hora_posicao": "16/11/2026 14:45:59",
-          "lat": -27.5505152,
-          "lon": -48.6196224
+          "referencia": "0.14 km de HUB  PALHOÇA - FLN - PALHOCA/SC",
+          "data_hora_posicao": "16/11/2026 14:59:59",
+          "lat": -27.6307616,
+          "lon": -48.6598368
         },
-        "distancia_km": 368.5,
+        "distancia_km": 359.2,
         "proximo": false
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO TREVISO - FARROUPILHA/RS",
-          "data_hora_posicao": "16/11/2026 14:45:28",
-          "lat": -29.2266688,
-          "lon": -51.3326144
+          "referencia": "5.93 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "16/11/2026 14:58:09",
+          "lat": -29.3195584,
+          "lon": -51.3387936
         },
-        "distancia_km": 85.3,
+        "distancia_km": 75.3,
         "proximo": false
       }
     ],
@@ -196,12 +196,12 @@
         "frete_rs": 796.56,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "10 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "16/11/2026 14:45:45",
-          "lat": -27.2965658,
-          "lon": -50.0751285
+          "referencia": "0.28 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "16/11/2026 14:59:41",
+          "lat": -27.2492845,
+          "lon": -49.9862633
         },
-        "distancia_km": 43.2,
+        "distancia_km": 33.6,
         "proximo": false
       }
     ],
@@ -213,5 +213,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T14:48:08"
+  "_gerado_em": "2026-11-16T15:02:48"
 }
