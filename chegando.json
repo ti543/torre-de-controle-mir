@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 09:29:59",
+          "data_hora_posicao": "16/11/2026 09:45:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.64 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "16/11/2026 09:19:49",
-          "lat": -28.1768544,
-          "lon": -50.699424
+          "referencia": "4.78 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 09:45:28",
+          "lat": -28.3227552,
+          "lon": -50.8055968
         },
-        "distancia_km": 206.4,
+        "distancia_km": 188.3,
         "proximo": false
       }
     ],
@@ -115,12 +115,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 09:30:52",
-          "lat": -23.8921696,
-          "lon": -46.9835424
+          "referencia": "1.05 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 09:45:44",
+          "lat": -23.777272,
+          "lon": -46.9154144
         },
-        "distancia_km": 70.8,
+        "distancia_km": 57.4,
         "proximo": false
       },
       {
@@ -135,12 +135,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 09:30:52",
-          "lat": -23.8921696,
-          "lon": -46.9835424
+          "referencia": "1.05 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 09:45:44",
+          "lat": -23.777272,
+          "lon": -46.9154144
         },
-        "distancia_km": 70.8,
+        "distancia_km": 57.4,
         "proximo": false
       }
     ],
@@ -166,10 +166,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de ALFA TRANSPORTES ITAJAÍ - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 09:31:02",
-          "lat": -26.9029538,
-          "lon": -48.7163913
+          "referencia": "0.1 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
+          "data_hora_posicao": "16/11/2026 09:44:23",
+          "lat": -26.9821803,
+          "lon": -48.6750096
         },
         "distancia_km": null,
         "proximo": false
@@ -198,7 +198,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 09:29:03",
+          "data_hora_posicao": "16/11/2026 09:45:03",
           "lat": -27.1846426,
           "lon": -51.519855
         },
@@ -228,12 +228,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO ZANDONÁ 12 - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 09:29:36",
-          "lat": -26.8504,
-          "lon": -49.08784
+          "referencia": "0.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 09:45:36",
+          "lat": -26.7662144,
+          "lon": -49.0770368
         },
-        "distancia_km": 36.6,
+        "distancia_km": 37.8,
         "proximo": false
       }
     ],
@@ -259,10 +259,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.64 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "16/11/2026 09:19:49",
-          "lat": -28.1768544,
-          "lon": -50.699424
+          "referencia": "4.78 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 09:45:28",
+          "lat": -28.3227552,
+          "lon": -50.8055968
         },
         "distancia_km": null,
         "proximo": false
@@ -276,5 +276,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T09:32:40"
+  "_gerado_em": "2026-11-16T09:47:46"
 }
