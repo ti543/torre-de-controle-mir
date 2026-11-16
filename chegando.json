@@ -13,13 +13,13 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.17 km de PRF - ATIBAIA/SP",
-          "data_hora_posicao": "16/11/2026 12:14:26",
-          "lat": -23.1924528,
-          "lon": -46.585488
+          "referencia": "1.31 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
+          "data_hora_posicao": "16/11/2026 12:30:55",
+          "lat": -23.2531248,
+          "lon": -46.5948448
         },
-        "distancia_km": 33.4,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024107-5",
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 12:14:52",
+          "data_hora_posicao": "16/11/2026 12:30:52",
           "lat": -23.4707056,
           "lon": -46.4622496
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 12:14:52",
+          "data_hora_posicao": "16/11/2026 12:30:52",
           "lat": -23.4707056,
           "lon": -46.4622496
         },
@@ -90,7 +90,27 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 12:13:59",
+          "data_hora_posicao": "16/11/2026 12:29:59",
+          "lat": -26.887632,
+          "lon": -48.7207232
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024116-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 11365.77,
+        "frete_rs": 15632.18,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 12:29:59",
           "lat": -26.887632,
           "lon": -48.7207232
         },
@@ -109,12 +129,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "16/11/2026 12:15:28",
-          "lat": -28.9912736,
-          "lon": -51.1823424
+          "referencia": "0.36 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "16/11/2026 12:27:28",
+          "lat": -29.0675616,
+          "lon": -51.1870432
         },
-        "distancia_km": 110.3,
+        "distancia_km": 101.8,
         "proximo": false
       }
     ],
@@ -122,6 +142,11 @@
       "Guarulhos": {
         "peso_kg": 3579.75,
         "frete_rs": 13396.23,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 11365.77,
+        "frete_rs": 15632.18,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -192,7 +217,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.99 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "16/11/2026 12:14:33",
+          "data_hora_posicao": "16/11/2026 12:28:43",
           "lat": -27.6744028,
           "lon": -48.6978711
         },
@@ -254,7 +279,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 12:15:36",
+          "data_hora_posicao": "16/11/2026 12:29:36",
           "lat": -26.887536,
           "lon": -48.720736
         },
@@ -284,10 +309,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.5 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "16/11/2026 12:15:28",
-          "lat": -28.9912736,
-          "lon": -51.1823424
+          "referencia": "0.36 km de PANIZZON INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "16/11/2026 12:27:28",
+          "lat": -29.0675616,
+          "lon": -51.1870432
         },
         "distancia_km": null,
         "proximo": false
@@ -301,5 +326,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T12:17:28"
+  "_gerado_em": "2026-11-16T12:32:36"
 }
