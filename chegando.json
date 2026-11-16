@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 08:59:59",
+          "data_hora_posicao": "16/11/2026 09:13:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -95,12 +95,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.33 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:58:22",
-          "lat": -24.0700672,
-          "lon": -47.245056
+          "referencia": "1.53 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "16/11/2026 09:14:52",
+          "lat": -23.9733392,
+          "lon": -47.1370496
         },
-        "distancia_km": 103.9,
+        "distancia_km": 88.6,
         "proximo": false
       },
       {
@@ -115,12 +115,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.33 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 08:58:22",
-          "lat": -24.0700672,
-          "lon": -47.245056
+          "referencia": "1.53 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "16/11/2026 09:14:52",
+          "lat": -23.9733392,
+          "lon": -47.1370496
         },
-        "distancia_km": 103.9,
+        "distancia_km": 88.6,
         "proximo": false
       }
     ],
@@ -129,6 +129,37 @@
         "peso_kg": 14123.22,
         "frete_rs": 18243.54,
         "qtde": 2
+      }
+    }
+  },
+  "FLN": {
+    "veiculos": [
+      {
+        "manif": "ITJ024114-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "FLN",
+        "dest_city": "PALHOCA/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3359.7,
+        "frete_rs": 2867.47,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de POSTO IRMAOS DALÇÓQUIO REDESIM - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 09:14:44",
+          "lat": -26.8906025,
+          "lon": -48.7244328
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 3359.7,
+        "frete_rs": 2867.47,
+        "qtde": 1
       }
     }
   },
@@ -146,10 +177,10 @@
         "frete_rs": 7622.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO AMIGÃO - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 08:59:49",
-          "lat": -27.2037946,
-          "lon": -51.514624
+          "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
+          "data_hora_posicao": "16/11/2026 09:13:35",
+          "lat": -27.1846323,
+          "lon": -51.5197618
         },
         "distancia_km": null,
         "proximo": false
@@ -177,12 +208,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "16/11/2026 08:59:36",
-          "lat": -26.8723904,
-          "lon": -49.1922976
+          "referencia": "0.06 km de AUTO POSTO BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 09:15:36",
+          "lat": -26.8824704,
+          "lon": -49.1403072
         },
-        "distancia_km": 46.8,
+        "distancia_km": 41.6,
         "proximo": false
       }
     ],
@@ -225,5 +256,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T09:02:58"
+  "_gerado_em": "2026-11-16T09:17:49"
 }
