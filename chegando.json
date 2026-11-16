@@ -13,12 +13,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de SUL CONTINENTAL - ICARA/SC",
-          "data_hora_posicao": "16/11/2026 17:13:59",
-          "lat": -28.7579264,
-          "lon": -49.2825504
+          "referencia": "0.1 km de POSTO SIMON 01 - MARACAJA/SC",
+          "data_hora_posicao": "16/11/2026 17:29:59",
+          "lat": -28.8687616,
+          "lon": -49.4502336
         },
-        "distancia_km": 229.4,
+        "distancia_km": 208.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de SUL CONTINENTAL - ICARA/SC",
-          "data_hora_posicao": "16/11/2026 17:13:59",
-          "lat": -28.7579264,
-          "lon": -49.2825504
+          "referencia": "0.1 km de POSTO SIMON 01 - MARACAJA/SC",
+          "data_hora_posicao": "16/11/2026 17:29:59",
+          "lat": -28.8687616,
+          "lon": -49.4502336
         },
-        "distancia_km": 229.4,
+        "distancia_km": 208.9,
         "proximo": false
       }
     ],
@@ -55,36 +55,31 @@
       }
     }
   },
-  "BRQ": {
+  "CMP": {
     "veiculos": [
       {
-        "manif": "ITJ024117-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 5341.08,
-        "frete_rs": 4348.9,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "3.92 km de QFAZ SERVIÇOS LOGISTICOS (EMBRAST INDSUTRIA E COM) - BRUSQUE/SC",
-          "data_hora_posicao": "16/11/2026 17:15:36",
-          "lat": -27.003104,
-          "lon": -48.8205504
-        },
+        "manif": "GRU074737-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 368.04,
+        "frete_rs": 1285.19,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5341.08,
-        "frete_rs": 4348.9,
+      "Guarulhos": {
+        "peso_kg": 368.04,
+        "frete_rs": 1285.19,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-16T17:17:36"
+  "_gerado_em": "2026-11-16T17:32:49"
 }
