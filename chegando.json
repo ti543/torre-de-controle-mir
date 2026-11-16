@@ -13,12 +13,12 @@
         "frete_rs": 1050.01,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.55 km de PRF - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 16:00:02",
-          "lat": -26.9378611,
-          "lon": -48.6973685
+          "referencia": "0.27 km de BAUER CAMINHOES - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 16:14:44",
+          "lat": -26.8978728,
+          "lon": -48.7180645
         },
-        "distancia_km": 6.1,
+        "distancia_km": 1.2,
         "proximo": true
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.68 km de POSTO MIRIM - IMBITUBA/SC",
-          "data_hora_posicao": "16/11/2026 15:59:59",
-          "lat": -28.2476896,
-          "lon": -48.7005504
+          "referencia": "2.23 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "16/11/2026 16:15:59",
+          "lat": -28.4043232,
+          "lon": -48.7898688
         },
-        "distancia_km": 309.1,
+        "distancia_km": 291.5,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.68 km de POSTO MIRIM - IMBITUBA/SC",
-          "data_hora_posicao": "16/11/2026 15:59:59",
-          "lat": -28.2476896,
-          "lon": -48.7005504
+          "referencia": "2.23 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "16/11/2026 16:15:59",
+          "lat": -28.4043232,
+          "lon": -48.7898688
         },
-        "distancia_km": 309.1,
+        "distancia_km": 291.5,
         "proximo": false
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de MEGA CENTRO LOGÍSTICO - ESTEIO - ESTEIO/RS",
-          "data_hora_posicao": "16/11/2026 15:59:28",
-          "lat": -29.8357536,
-          "lon": -51.1823488
+          "referencia": "0.55 km de GLOBB - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 16:15:50",
+          "lat": -29.9752128,
+          "lon": -51.1984928
         },
-        "distancia_km": 16.4,
+        "distancia_km": 1.5,
         "proximo": true
       }
     ],
@@ -157,5 +157,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T16:02:48"
+  "_gerado_em": "2026-11-16T16:17:53"
 }
