@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 09:45:59",
+          "data_hora_posicao": "16/11/2026 09:59:59",
           "lat": -26.8876608,
           "lon": -48.7206624
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.78 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 09:45:28",
-          "lat": -28.3227552,
-          "lon": -50.8055968
+          "referencia": "6.88 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 09:55:28",
+          "lat": -28.4139296,
+          "lon": -50.860912
         },
-        "distancia_km": 188.3,
+        "distancia_km": 177.4,
         "proximo": false
       }
     ],
@@ -115,12 +115,12 @@
         "frete_rs": 6280.51,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.05 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 09:45:44",
-          "lat": -23.777272,
-          "lon": -46.9154144
+          "referencia": "0.24 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 10:00:52",
+          "lat": -23.6833232,
+          "lon": -46.8590112
         },
-        "distancia_km": 57.4,
+        "distancia_km": 46.8,
         "proximo": false
       },
       {
@@ -135,12 +135,12 @@
         "frete_rs": 11963.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.05 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 09:45:44",
-          "lat": -23.777272,
-          "lon": -46.9154144
+          "referencia": "0.24 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 10:00:52",
+          "lat": -23.6833232,
+          "lon": -46.8590112
         },
-        "distancia_km": 57.4,
+        "distancia_km": 46.8,
         "proximo": false
       }
     ],
@@ -166,10 +166,10 @@
         "frete_rs": 2867.47,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
-          "data_hora_posicao": "16/11/2026 09:44:23",
-          "lat": -26.9821803,
-          "lon": -48.6750096
+          "referencia": "0.3 km de PRF - ITAPEMA/SC",
+          "data_hora_posicao": "16/11/2026 09:59:14",
+          "lat": -27.063321,
+          "lon": -48.5961035
         },
         "distancia_km": null,
         "proximo": false
@@ -198,7 +198,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de REUNIDAS TURISMO S/A - JB1 - JOACABA/SC",
-          "data_hora_posicao": "16/11/2026 09:45:03",
+          "data_hora_posicao": "16/11/2026 09:57:03",
           "lat": -27.1846426,
           "lon": -51.519855
         },
@@ -228,12 +228,12 @@
         "frete_rs": 5787.75,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "16/11/2026 09:45:36",
-          "lat": -26.7662144,
-          "lon": -49.0770368
+          "referencia": "0.31 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 09:59:36",
+          "lat": -26.7657408,
+          "lon": -49.0785344
         },
-        "distancia_km": 37.8,
+        "distancia_km": 38.0,
         "proximo": false
       }
     ],
@@ -259,10 +259,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.78 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "16/11/2026 09:45:28",
-          "lat": -28.3227552,
-          "lon": -50.8055968
+          "referencia": "6.88 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "16/11/2026 09:55:28",
+          "lat": -28.4139296,
+          "lon": -50.860912
         },
         "distancia_km": null,
         "proximo": false
@@ -276,5 +276,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T09:47:46"
+  "_gerado_em": "2026-11-16T10:02:40"
 }
