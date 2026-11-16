@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "15/11/2026 23:01:04",
+          "data_hora_posicao": "15/11/2026 23:15:04",
           "lat": -23.470696,
           "lon": -46.4621664
         },
@@ -34,12 +34,52 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "15/11/2026 23:01:04",
+          "data_hora_posicao": "15/11/2026 23:15:04",
           "lat": -23.470696,
           "lon": -46.4621664
         },
         "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "ITJ024107-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3486.81,
+        "frete_rs": 6280.51,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "15/11/2026 23:14:52",
+          "lat": -26.8874432,
+          "lon": -48.721152
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024108-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10636.41,
+        "frete_rs": 11963.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "15/11/2026 23:14:52",
+          "lat": -26.8874432,
+          "lon": -48.721152
+        },
+        "distancia_km": 442.7,
+        "proximo": false
       },
       {
         "manif": "RSL044387-5",
@@ -84,7 +124,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "15/11/2026 23:01:04",
+          "data_hora_posicao": "15/11/2026 23:15:04",
           "lat": -23.4707568,
           "lon": -46.4621632
         },
@@ -104,7 +144,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "15/11/2026 23:01:04",
+          "data_hora_posicao": "15/11/2026 23:15:04",
           "lat": -23.4707568,
           "lon": -46.4621632
         },
@@ -134,9 +174,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 6146.9,
-        "frete_rs": 9337.1,
-        "qtde": 1
+        "peso_kg": 20270.12,
+        "frete_rs": 27580.64,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 58285.56,
@@ -180,7 +220,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 23:00:09",
+          "data_hora_posicao": "15/11/2026 23:14:09",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -200,7 +240,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 23:00:09",
+          "data_hora_posicao": "15/11/2026 23:14:09",
           "lat": -22.8469016666667,
           "lon": -47.124795
         },
@@ -220,7 +260,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "15/11/2026 23:00:26",
+          "data_hora_posicao": "15/11/2026 23:14:26",
           "lat": -22.8465712,
           "lon": -47.1248064
         },
@@ -256,7 +296,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 23:01:13",
+          "data_hora_posicao": "15/11/2026 23:15:13",
           "lat": -26.8874176,
           "lon": -48.7212224
         },
@@ -287,7 +327,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 23:01:13",
+          "data_hora_posicao": "15/11/2026 23:15:13",
           "lat": -26.8874176,
           "lon": -48.7212224
         },
@@ -306,10 +346,10 @@
         "frete_rs": 7280.76,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 22:59:28",
-          "lat": -27.2060768,
-          "lon": -49.6493728
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 23:15:28",
+          "lat": -27.20608,
+          "lon": -49.6494144
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -343,7 +383,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 23:00:08",
+          "data_hora_posicao": "15/11/2026 23:14:08",
           "lat": -27.2059392,
           "lon": -49.64896
         },
@@ -429,12 +469,12 @@
         "frete_rs": 6488.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
-          "data_hora_posicao": "15/11/2026 22:59:46",
-          "lat": -24.2880592,
-          "lon": -47.4591776
+          "referencia": "0.27 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "15/11/2026 23:13:46",
+          "lat": -24.3313696,
+          "lon": -47.6325312
         },
-        "distancia_km": 230.9,
+        "distancia_km": 214.0,
         "proximo": false
       },
       {
@@ -450,7 +490,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "15/11/2026 22:59:23",
+          "data_hora_posicao": "15/11/2026 23:15:23",
           "lat": -26.8874066666667,
           "lon": -48.721155
         },
@@ -486,7 +526,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 23:01:02",
+          "data_hora_posicao": "15/11/2026 23:13:02",
           "lat": -27.2060991,
           "lon": -49.649375
         },
@@ -516,10 +556,10 @@
         "frete_rs": 2706.09,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 22:59:28",
-          "lat": -27.2060768,
-          "lon": -49.6493728
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 23:15:28",
+          "lat": -27.20608,
+          "lon": -49.6494144
         },
         "distancia_km": null,
         "proximo": false
@@ -547,10 +587,10 @@
         "frete_rs": 2389.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 22:59:28",
-          "lat": -27.2060768,
-          "lon": -49.6493728
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 23:15:28",
+          "lat": -27.20608,
+          "lon": -49.6494144
         },
         "distancia_km": null,
         "proximo": false
@@ -567,10 +607,10 @@
         "frete_rs": 1496.04,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "15/11/2026 22:59:28",
-          "lat": -27.2060768,
-          "lon": -49.6493728
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "15/11/2026 23:15:28",
+          "lat": -27.20608,
+          "lon": -49.6494144
         },
         "distancia_km": null,
         "proximo": false
@@ -584,5 +624,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-15T23:02:52"
+  "_gerado_em": "2026-11-15T23:17:39"
 }
