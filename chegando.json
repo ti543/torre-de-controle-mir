@@ -13,12 +13,12 @@
         "frete_rs": 12155.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.8 km de DISTRIBUIDORA TENDAS ATACADO - CAMPINAS/SP - CAMPINAS/SP",
-          "data_hora_posicao": "16/11/2026 18:59:57",
-          "lat": -22.8504883333333,
-          "lon": -47.106845
+          "referencia": "1.33 km de POSTO DOM PEDRO I - VALINHOS/SP",
+          "data_hora_posicao": "16/11/2026 19:15:01",
+          "lat": -22.9027033333333,
+          "lon": -46.9821416666667
         },
-        "distancia_km": 95.4,
+        "distancia_km": 82.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 18:59:46",
-          "lat": -25.5278192,
-          "lon": -49.2955136
+          "referencia": "0.5 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
+          "data_hora_posicao": "16/11/2026 19:15:46",
+          "lat": -25.49804,
+          "lon": -49.2769472
         },
-        "distancia_km": 366.7,
+        "distancia_km": 363.2,
         "proximo": false
       },
       {
@@ -53,12 +53,27 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.8 km de 7ªRPM/GEIN/1ªCIA/3ºPEL/2ºGP – 2º GRUPO - ASCURRA/SC",
-          "data_hora_posicao": "16/11/2026 18:58:26",
-          "lat": -26.9530304,
-          "lon": -49.353184
+          "referencia": "0.45 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
+          "data_hora_posicao": "16/11/2026 19:14:26",
+          "lat": -26.8830944,
+          "lon": -49.2462336
         },
-        "distancia_km": 484.2,
+        "distancia_km": 471.6,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016445-3",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 4838.56,
+        "frete_rs": 11326.17,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -77,6 +92,11 @@
         "peso_kg": 31172.3,
         "frete_rs": 16778.72,
         "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 4838.56,
+        "frete_rs": 11326.17,
+        "qtde": 1
       }
     }
   },
@@ -94,12 +114,27 @@
         "frete_rs": 2172.79,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 19:01:00",
-          "lat": -25.5277266666667,
-          "lon": -49.2954316666667
+          "referencia": "0.1 km de CHAPECÓ LOGÍSTICA E CARGAS - CURITIBA/PR",
+          "data_hora_posicao": "16/11/2026 19:15:36",
+          "lat": -25.532015,
+          "lon": -49.29707
         },
-        "distancia_km": 161.7,
+        "distancia_km": 161.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016446-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 163.2,
+        "frete_rs": 175.95,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -107,6 +142,11 @@
       "Curitiba": {
         "peso_kg": 1924.82,
         "frete_rs": 2172.79,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 163.2,
+        "frete_rs": 175.95,
         "qtde": 1
       }
     }
@@ -125,12 +165,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "16/11/2026 19:01:00",
-          "lat": -25.5277266666667,
-          "lon": -49.2954316666667
+          "referencia": "0.1 km de CHAPECÓ LOGÍSTICA E CARGAS - CURITIBA/PR",
+          "data_hora_posicao": "16/11/2026 19:15:36",
+          "lat": -25.532015,
+          "lon": -49.29707
         },
-        "distancia_km": 189.9,
+        "distancia_km": 189.4,
         "proximo": false
       },
       {
@@ -146,9 +186,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 18:59:28",
+          "data_hora_posicao": "16/11/2026 19:15:28",
           "lat": -29.9833632,
-          "lon": -51.1868672
+          "lon": -51.1868256
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -202,7 +242,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO ROTA 101 PARADOURO - DOM PEDRO DE ALCANTARA/RS",
-          "data_hora_posicao": "16/11/2026 18:59:59",
+          "data_hora_posicao": "16/11/2026 19:13:59",
           "lat": -29.393296,
           "lon": -49.845024
         },
@@ -222,7 +262,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO ROTA 101 PARADOURO - DOM PEDRO DE ALCANTARA/RS",
-          "data_hora_posicao": "16/11/2026 18:59:59",
+          "data_hora_posicao": "16/11/2026 19:13:59",
           "lat": -29.393296,
           "lon": -49.845024
         },
@@ -284,9 +324,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 18:59:28",
+          "data_hora_posicao": "16/11/2026 19:15:28",
           "lat": -29.9833632,
-          "lon": -51.1868672
+          "lon": -51.1868256
         },
         "distancia_km": null,
         "proximo": false
@@ -315,9 +355,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 18:59:28",
+          "data_hora_posicao": "16/11/2026 19:15:28",
           "lat": -29.9833632,
-          "lon": -51.1868672
+          "lon": -51.1868256
         },
         "distancia_km": null,
         "proximo": false
@@ -331,5 +371,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T19:02:37"
+  "_gerado_em": "2026-11-16T19:17:37"
 }
