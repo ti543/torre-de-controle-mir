@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "2.5 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 12:30:26",
+          "data_hora_posicao": "17/11/2026 12:58:26",
           "lat": -28.6238008,
           "lon": -49.0801441
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 12:29:04",
+          "data_hora_posicao": "17/11/2026 12:59:04",
           "lat": -26.8873504,
           "lon": -48.721488
         },
@@ -145,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (CD/ATACADO) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "17/11/2026 12:28:36",
-          "lat": -25.5652912,
-          "lon": -49.1622368
+          "referencia": "0.98 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 13:00:36",
+          "lat": -25.8424016,
+          "lon": -49.056736
         },
-        "distancia_km": 188.8,
+        "distancia_km": 162.7,
         "proximo": false
       },
       {
@@ -222,7 +222,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 12:29:06",
+          "data_hora_posicao": "17/11/2026 12:59:06",
           "lat": -26.8875168,
           "lon": -48.7206944
         },
@@ -308,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "2.5 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 12:30:26",
+          "data_hora_posicao": "17/11/2026 12:58:26",
           "lat": -28.6238008,
           "lon": -49.0801441
         },
@@ -434,12 +434,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:28:54",
-          "lat": -28.9180083333333,
-          "lon": -51.1827483333333
+          "referencia": "0.47 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:00:40",
+          "lat": -29.093215,
+          "lon": -51.184095
         },
-        "distancia_km": 118.5,
+        "distancia_km": 99.0,
         "proximo": false
       },
       {
@@ -454,12 +454,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:28:54",
-          "lat": -28.9180083333333,
-          "lon": -51.1827483333333
+          "referencia": "0.47 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:00:40",
+          "lat": -29.093215,
+          "lon": -51.184095
         },
-        "distancia_km": 118.5,
+        "distancia_km": 99.0,
         "proximo": false
       }
     ],
@@ -490,10 +490,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:28:54",
-          "lat": -28.9180083333333,
-          "lon": -51.1827483333333
+          "referencia": "0.47 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:00:40",
+          "lat": -29.093215,
+          "lon": -51.184095
         },
         "distancia_km": null,
         "proximo": false
@@ -507,5 +507,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T12:32:37"
+  "_gerado_em": "2026-11-17T13:02:50"
 }
