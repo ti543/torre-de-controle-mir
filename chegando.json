@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "17/11/2026 15:30:38",
-          "lat": -28.3872818,
-          "lon": -48.7737653
+          "referencia": "2.14 km de POSTO MIRIM - IMBITUBA/SC",
+          "data_hora_posicao": "17/11/2026 15:45:09",
+          "lat": -28.2435888,
+          "lon": -48.6997565
         },
-        "distancia_km": 166.9,
+        "distancia_km": 150.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO DOM SIMON - LAGUNA/SC",
-          "data_hora_posicao": "17/11/2026 15:30:38",
-          "lat": -28.3872818,
-          "lon": -48.7737653
+          "referencia": "2.14 km de POSTO MIRIM - IMBITUBA/SC",
+          "data_hora_posicao": "17/11/2026 15:45:09",
+          "lat": -28.2435888,
+          "lon": -48.6997565
         },
-        "distancia_km": 166.9,
+        "distancia_km": 150.8,
         "proximo": false
       }
     ],
@@ -70,8 +70,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 15:29:28",
-          "lat": -27.8238016,
+          "data_hora_posicao": "17/11/2026 15:45:28",
+          "lat": -27.8237888,
           "lon": -50.3627808
         },
         "distancia_km": 98.3,
@@ -89,12 +89,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 15:30:36",
-          "lat": -26.818096,
-          "lon": -49.0893376
+          "referencia": "0.19 km de BEBIDAS HESS & TRANSPORTES - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 15:44:36",
+          "lat": -26.862048,
+          "lon": -49.094832
         },
-        "distancia_km": 70.3,
+        "distancia_km": 67.0,
         "proximo": false
       },
       {
@@ -110,8 +110,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 15:29:28",
-          "lat": -27.8238016,
+          "data_hora_posicao": "17/11/2026 15:45:28",
+          "lat": -27.8237888,
           "lon": -50.3627808
         },
         "distancia_km": 98.3,
@@ -151,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 15:31:06",
+          "data_hora_posicao": "17/11/2026 15:45:06",
           "lat": -26.90344,
           "lon": -48.6824448
         },
@@ -216,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.64 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 15:29:55",
-          "lat": -29.1324516666667,
-          "lon": -51.189695
+          "referencia": "0.23 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:45:31",
+          "lat": -29.1368216666667,
+          "lon": -51.1997983333333
         },
-        "distancia_km": 94.6,
+        "distancia_km": 94.1,
         "proximo": false
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 15:29:55",
-          "lat": -29.1324516666667,
-          "lon": -51.189695
+          "referencia": "0.23 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:45:31",
+          "lat": -29.1368216666667,
+          "lon": -51.1997983333333
         },
-        "distancia_km": 94.6,
+        "distancia_km": 94.1,
         "proximo": false
       }
     ],
@@ -258,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T15:32:47"
+  "_gerado_em": "2026-11-17T15:47:41"
 }
