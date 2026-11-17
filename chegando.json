@@ -13,13 +13,13 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.17 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "17/11/2026 01:45:00",
-          "lat": -26.9842183333333,
-          "lon": -49.3725333333333
+          "referencia": "4.88 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "17/11/2026 01:59:00",
+          "lat": -27.0788516666667,
+          "lon": -49.4343366666667
         },
-        "distancia_km": 36.9,
-        "proximo": false
+        "distancia_km": 25.6,
+        "proximo": true
       },
       {
         "manif": "GRU074742-4",
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "4.57 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "17/11/2026 01:44:36",
-          "lat": -24.1391664,
-          "lon": -47.2734336
+          "data_hora_posicao": "17/11/2026 02:00:36",
+          "lat": -24.1392224,
+          "lon": -47.2733568
         },
         "distancia_km": 415.9,
         "proximo": false
@@ -68,13 +68,13 @@
         "frete_rs": 3587.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.17 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "17/11/2026 01:45:00",
-          "lat": -26.9842183333333,
-          "lon": -49.3725333333333
+          "referencia": "4.88 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "17/11/2026 01:59:00",
+          "lat": -27.0788516666667,
+          "lon": -49.4343366666667
         },
-        "distancia_km": 36.9,
-        "proximo": false
+        "distancia_km": 25.6,
+        "proximo": true
       },
       {
         "manif": "POA016259-1",
@@ -88,10 +88,10 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 01:45:28",
-          "lat": -29.9833376,
-          "lon": -51.186832
+          "referencia": "0.07 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 01:59:28",
+          "lat": -29.983216,
+          "lon": -51.1867072
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -150,7 +150,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "17/11/2026 01:45:51",
+          "data_hora_posicao": "17/11/2026 01:59:51",
           "lat": -22.846905,
           "lon": -47.1247916666667
         },
@@ -170,7 +170,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "17/11/2026 01:45:51",
+          "data_hora_posicao": "17/11/2026 01:59:51",
           "lat": -22.846905,
           "lon": -47.1247916666667
         },
@@ -200,12 +200,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.91 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 01:45:38",
-          "lat": -25.0631936,
-          "lon": -48.5700608
+          "referencia": "0.84 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 01:59:04",
+          "lat": -25.1044672,
+          "lon": -48.7136256
         },
-        "distancia_km": 203.4,
+        "distancia_km": 198.3,
         "proximo": false
       },
       {
@@ -220,12 +220,12 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.94 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "17/11/2026 01:45:06",
-          "lat": -24.5908032,
-          "lon": -47.8803328
+          "referencia": "0.11 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
+          "data_hora_posicao": "17/11/2026 01:59:06",
+          "lat": -24.700576,
+          "lon": -48.006368
         },
-        "distancia_km": 268.9,
+        "distancia_km": 253.5,
         "proximo": false
       },
       {
@@ -266,10 +266,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.94 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "17/11/2026 01:45:06",
-          "lat": -24.5908032,
-          "lon": -47.8803328
+          "referencia": "0.11 km de LAVADOR NAVARRO - JACUPIRANGA/SP",
+          "data_hora_posicao": "17/11/2026 01:59:06",
+          "lat": -24.700576,
+          "lon": -48.006368
         },
         "distancia_km": null,
         "proximo": false
@@ -312,12 +312,12 @@
         "frete_rs": 2886.54,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.03 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "17/11/2026 01:45:17",
-          "lat": -24.4206848,
-          "lon": -47.77224
+          "referencia": "1.59 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "17/11/2026 01:57:17",
+          "lat": -24.544616,
+          "lon": -47.8617568
         },
-        "distancia_km": 196.8,
+        "distancia_km": 181.1,
         "proximo": false
       },
       {
@@ -332,12 +332,12 @@
         "frete_rs": 3080.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.66 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "17/11/2026 01:44:11",
-          "lat": -26.8437184,
-          "lon": -48.718528
+          "referencia": "0.42 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "17/11/2026 02:00:11",
+          "lat": -26.6920432,
+          "lon": -48.6972928
         },
-        "distancia_km": 157.3,
+        "distancia_km": 142.6,
         "proximo": false
       },
       {
@@ -352,12 +352,12 @@
         "frete_rs": 197.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.66 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "17/11/2026 01:44:11",
-          "lat": -26.8437184,
-          "lon": -48.718528
+          "referencia": "0.42 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "17/11/2026 02:00:11",
+          "lat": -26.6920432,
+          "lon": -48.6972928
         },
-        "distancia_km": 157.3,
+        "distancia_km": 142.6,
         "proximo": false
       },
       {
@@ -372,12 +372,12 @@
         "frete_rs": 2607.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.66 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "17/11/2026 01:44:11",
-          "lat": -26.8437184,
-          "lon": -48.718528
+          "referencia": "0.42 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "17/11/2026 02:00:11",
+          "lat": -26.6920432,
+          "lon": -48.6972928
         },
-        "distancia_km": 157.3,
+        "distancia_km": 142.6,
         "proximo": false
       }
     ],
@@ -414,7 +414,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 01:44:33",
+          "data_hora_posicao": "17/11/2026 02:00:33",
           "lat": -29.9834208,
           "lon": -51.1866784
         },
@@ -444,10 +444,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
-          "data_hora_posicao": "17/11/2026 01:44:57",
-          "lat": -26.9801656,
-          "lon": -48.679937
+          "referencia": "0.06 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "17/11/2026 01:59:50",
+          "lat": -27.0824026,
+          "lon": -48.6023385
         },
         "distancia_km": null,
         "proximo": false
@@ -475,10 +475,10 @@
         "frete_rs": 4918.99,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
-          "data_hora_posicao": "17/11/2026 01:44:57",
-          "lat": -26.9801656,
-          "lon": -48.679937
+          "referencia": "0.06 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "17/11/2026 01:59:50",
+          "lat": -27.0824026,
+          "lon": -48.6023385
         },
         "distancia_km": null,
         "proximo": false
@@ -506,10 +506,10 @@
         "frete_rs": 3921.28,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
-          "data_hora_posicao": "17/11/2026 01:44:57",
-          "lat": -26.9801656,
-          "lon": -48.679937
+          "referencia": "0.06 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "17/11/2026 01:59:50",
+          "lat": -27.0824026,
+          "lon": -48.6023385
         },
         "distancia_km": null,
         "proximo": false
@@ -537,10 +537,10 @@
         "frete_rs": 311.98,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 01:45:28",
-          "lat": -29.9833376,
-          "lon": -51.186832
+          "referencia": "0.07 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 01:59:28",
+          "lat": -29.983216,
+          "lon": -51.1867072
         },
         "distancia_km": null,
         "proximo": false
@@ -568,10 +568,10 @@
         "frete_rs": 4476.14,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 01:45:28",
-          "lat": -29.9833376,
-          "lon": -51.186832
+          "referencia": "0.07 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 01:59:28",
+          "lat": -29.983216,
+          "lon": -51.1867072
         },
         "distancia_km": null,
         "proximo": false
@@ -599,12 +599,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.01 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "17/11/2026 01:38:26",
-          "lat": -24.9181168,
-          "lon": -48.2574144
+          "referencia": "1.61 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "17/11/2026 01:58:32",
+          "lat": -24.7804944,
+          "lon": -48.2037024
         },
-        "distancia_km": 243.0,
+        "distancia_km": 229.0,
         "proximo": false
       },
       {
@@ -666,5 +666,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T01:47:37"
+  "_gerado_em": "2026-11-17T02:02:28"
 }
