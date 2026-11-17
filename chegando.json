@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.14 km de POSTO MIRIM - IMBITUBA/SC",
-          "data_hora_posicao": "17/11/2026 15:45:09",
-          "lat": -28.2435888,
-          "lon": -48.6997565
+          "referencia": "1.23 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "17/11/2026 15:57:47",
+          "lat": -28.0936423,
+          "lon": -48.7092033
         },
-        "distancia_km": 150.8,
+        "distancia_km": 134.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.14 km de POSTO MIRIM - IMBITUBA/SC",
-          "data_hora_posicao": "17/11/2026 15:45:09",
-          "lat": -28.2435888,
-          "lon": -48.6997565
+          "referencia": "1.23 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "17/11/2026 15:57:47",
+          "lat": -28.0936423,
+          "lon": -48.7092033
         },
-        "distancia_km": 150.8,
+        "distancia_km": 134.1,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 15:45:28",
-          "lat": -27.8237888,
-          "lon": -50.3627808
+          "data_hora_posicao": "17/11/2026 15:57:28",
+          "lat": -27.8238048,
+          "lon": -50.3627648
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,12 +89,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de BEBIDAS HESS & TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 15:44:36",
-          "lat": -26.862048,
-          "lon": -49.094832
+          "referencia": "0.52 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 15:56:36",
+          "lat": -26.8837792,
+          "lon": -49.1455488
         },
-        "distancia_km": 67.0,
+        "distancia_km": 61.5,
         "proximo": false
       },
       {
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 15:45:28",
-          "lat": -27.8237888,
-          "lon": -50.3627808
+          "data_hora_posicao": "17/11/2026 15:57:28",
+          "lat": -27.8238048,
+          "lon": -50.3627648
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -150,10 +150,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 15:45:06",
-          "lat": -26.90344,
-          "lon": -48.6824448
+          "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 15:57:06",
+          "lat": -26.9033504,
+          "lon": -48.682464
         },
         "distancia_km": null,
         "proximo": false
@@ -216,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.23 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 15:45:31",
-          "lat": -29.1368216666667,
-          "lon": -51.1997983333333
+          "referencia": "1.21 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:57:03",
+          "lat": -29.151095,
+          "lon": -51.23815
         },
-        "distancia_km": 94.1,
+        "distancia_km": 92.7,
         "proximo": false
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.23 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 15:45:31",
-          "lat": -29.1368216666667,
-          "lon": -51.1997983333333
+          "referencia": "1.21 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:57:03",
+          "lat": -29.151095,
+          "lon": -51.23815
         },
-        "distancia_km": 94.1,
+        "distancia_km": 92.7,
         "proximo": false
       }
     ],
@@ -258,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T15:47:41"
+  "_gerado_em": "2026-11-17T16:02:50"
 }
