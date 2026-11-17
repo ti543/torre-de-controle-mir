@@ -13,12 +13,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.54 km de BORRACHARIA DO PASSARINHO - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 23:29:46",
-          "lat": -24.1786016,
-          "lon": -47.3491168
+          "referencia": "3.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 23:35:46",
+          "lat": -24.144792,
+          "lon": -47.2794272
         },
-        "distancia_km": 119.7,
+        "distancia_km": 111.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de SCANIA CONCESSIONÁRIA - SÃO JOSÉ DOS PINHAIS - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "16/11/2026 23:30:26",
-          "lat": -25.56924,
-          "lon": -49.178784
+          "referencia": "2.24 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
+          "data_hora_posicao": "16/11/2026 23:45:13",
+          "lat": -25.440416,
+          "lon": -49.0921664
         },
-        "distancia_km": 360.5,
+        "distancia_km": 344.7,
         "proximo": false
       },
       {
@@ -119,12 +119,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 23:29:02",
-          "lat": -26.8874333333333,
-          "lon": -48.7212266666667
+          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:45:02",
+          "lat": -26.8632833333333,
+          "lon": -48.7287833333333
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.9,
         "proximo": false
       },
       {
@@ -139,12 +139,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.96 km de PEDAGIO - P5 (SENTIDO ANCHIETA SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "16/11/2026 23:30:36",
-          "lat": -23.764032,
-          "lon": -46.537376
+          "referencia": "4.83 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 23:44:36",
+          "lat": -23.8062208,
+          "lon": -46.69024
         },
-        "distancia_km": 494.0,
+        "distancia_km": 480.7,
         "proximo": false
       },
       {
@@ -163,6 +163,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024121-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 1828.11,
+        "frete_rs": 3587.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:45:02",
+          "lat": -26.8632833333333,
+          "lon": -48.7287833333333
+        },
+        "distancia_km": 98.9,
+        "proximo": false
+      },
+      {
         "manif": "POA016259-1",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -175,9 +195,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:29:28",
+          "data_hora_posicao": "16/11/2026 23:45:28",
           "lat": -29.9833824,
-          "lon": -51.1869152
+          "lon": -51.1868768
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -193,6 +213,11 @@
         "peso_kg": 16682.199999999997,
         "frete_rs": 28131.54,
         "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 1828.11,
+        "frete_rs": 3587.89,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 7306.12,
@@ -215,10 +240,10 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:29:59",
-          "lat": -29.9834432,
-          "lon": -51.1867072
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 23:43:59",
+          "lat": -29.983376,
+          "lon": -51.1867744
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -235,10 +260,10 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:29:59",
-          "lat": -29.9834432,
-          "lon": -51.1867072
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 23:43:59",
+          "lat": -29.983376,
+          "lon": -51.1867744
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -286,10 +311,10 @@
         "frete_rs": 8822.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de H GOLD LOG TRANSPORTES - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 23:30:50",
-          "lat": -23.5256633333333,
-          "lon": -46.5755866666667
+          "referencia": "0.16 km de EDITORA ABRIL - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 23:44:49",
+          "lat": -23.5074683333333,
+          "lon": -46.697925
         },
         "distancia_km": null,
         "proximo": false
@@ -306,10 +331,10 @@
         "frete_rs": 552.88,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de H GOLD LOG TRANSPORTES - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 23:30:50",
-          "lat": -23.5256633333333,
-          "lon": -46.5755866666667
+          "referencia": "0.16 km de EDITORA ABRIL - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 23:44:49",
+          "lat": -23.5074683333333,
+          "lon": -46.697925
         },
         "distancia_km": null,
         "proximo": false
@@ -337,12 +362,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.15 km de BALANÇA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 23:29:04",
-          "lat": -24.2685456,
-          "lon": -47.3964832
+          "referencia": "0.53 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
+          "data_hora_posicao": "16/11/2026 23:45:04",
+          "lat": -24.3323696,
+          "lon": -47.5872128
         },
-        "distancia_km": 320.1,
+        "distancia_km": 306.0,
         "proximo": false
       },
       {
@@ -357,12 +382,12 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "16/11/2026 23:30:13",
-          "lat": -23.6356064,
-          "lon": -46.8301536
+          "referencia": "0.17 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 23:45:05",
+          "lat": -23.76664,
+          "lon": -46.908656
         },
-        "distancia_km": 408.5,
+        "distancia_km": 391.9,
         "proximo": false
       },
       {
@@ -392,12 +417,12 @@
         "frete_rs": 2983.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.62 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "16/11/2026 23:28:11",
-          "lat": -26.8818496,
-          "lon": -48.857072
+          "referencia": "0.47 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:44:11",
+          "lat": -26.8548768,
+          "lon": -48.727264
         },
-        "distancia_km": 13.5,
+        "distancia_km": 3.7,
         "proximo": true
       }
     ],
@@ -428,10 +453,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "16/11/2026 23:30:13",
-          "lat": -23.6356064,
-          "lon": -46.8301536
+          "referencia": "0.17 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 23:45:05",
+          "lat": -23.76664,
+          "lon": -46.908656
         },
         "distancia_km": null,
         "proximo": false
@@ -474,12 +499,12 @@
         "frete_rs": 2886.54,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.48 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "16/11/2026 23:29:17",
-          "lat": -23.7869696,
-          "lon": -46.6350624
+          "referencia": "1.44 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 23:45:17",
+          "lat": -23.7450016,
+          "lon": -46.8117088
         },
-        "distancia_km": 331.3,
+        "distancia_km": 319.9,
         "proximo": false
       },
       {
@@ -494,12 +519,12 @@
         "frete_rs": 2607.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.62 km de CAPIM BRANCO TRANSPORTE - ILHOTA/SC",
-          "data_hora_posicao": "16/11/2026 23:28:11",
-          "lat": -26.8818496,
-          "lon": -48.857072
+          "referencia": "0.47 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:44:11",
+          "lat": -26.8548768,
+          "lon": -48.727264
         },
-        "distancia_km": 156.8,
+        "distancia_km": 158.1,
         "proximo": false
       }
     ],
@@ -531,9 +556,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:29:28",
+          "data_hora_posicao": "16/11/2026 23:45:28",
           "lat": -29.9833824,
-          "lon": -51.1869152
+          "lon": -51.1868768
         },
         "distancia_km": null,
         "proximo": false
@@ -562,9 +587,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:29:28",
+          "data_hora_posicao": "16/11/2026 23:45:28",
           "lat": -29.9833824,
-          "lon": -51.1869152
+          "lon": -51.1868768
         },
         "distancia_km": null,
         "proximo": false
@@ -578,5 +603,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T23:32:41"
+  "_gerado_em": "2026-11-16T23:47:30"
 }
