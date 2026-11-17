@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "17/11/2026 18:00:50",
-          "lat": -26.9846651,
-          "lon": -48.6682545
+          "referencia": "0.29 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:15:54",
+          "lat": -26.9194048,
+          "lon": -48.7089273
         },
-        "distancia_km": 12.0,
+        "distancia_km": 3.7,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
-          "data_hora_posicao": "17/11/2026 18:00:50",
-          "lat": -26.9846651,
-          "lon": -48.6682545
+          "referencia": "0.29 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:15:54",
+          "lat": -26.9194048,
+          "lon": -48.7089273
         },
-        "distancia_km": 12.0,
+        "distancia_km": 3.7,
         "proximo": true
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 18:00:15",
-          "lat": -27.8177024,
-          "lon": -50.372672
+          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:16:00",
+          "lat": -27.685184,
+          "lon": -50.3349408
         },
-        "distancia_km": 98.5,
+        "distancia_km": 86.1,
         "proximo": false
       },
       {
@@ -88,14 +88,9 @@
         "peso_real_kg": 6849.23,
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.18 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 18:00:36",
-          "lat": -27.1932672,
-          "lon": -49.62336
-        },
-        "distancia_km": 3.0,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "LGS001614-4",
@@ -109,12 +104,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 18:00:15",
-          "lat": -27.8177024,
-          "lon": -50.372672
+          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:16:00",
+          "lat": -27.685184,
+          "lon": -50.3349408
         },
-        "distancia_km": 98.5,
+        "distancia_km": 86.1,
         "proximo": false
       },
       {
@@ -129,12 +124,32 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 18:00:15",
-          "lat": -27.8177024,
-          "lon": -50.372672
+          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:16:00",
+          "lat": -27.685184,
+          "lon": -50.3349408
         },
-        "distancia_km": 98.5,
+        "distancia_km": 86.1,
+        "proximo": false
+      },
+      {
+        "manif": "POA016266-3",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 3252.82,
+        "frete_rs": 4461.25,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:15:30",
+          "lat": -29.98352,
+          "lon": -51.1869056
+        },
+        "distancia_km": 343.4,
         "proximo": false
       },
       {
@@ -165,9 +180,9 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 7306.12,
-        "frete_rs": 6764.92,
-        "qtde": 1
+        "peso_kg": 10558.94,
+        "frete_rs": 11226.17,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 2466.97,
@@ -190,10 +205,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 17:59:06",
-          "lat": -26.9032704,
-          "lon": -48.6825088
+          "referencia": "0.27 km de EXOLOGISTICA TRANSPORTADORA S/A - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:16:06",
+          "lat": -26.8939712,
+          "lon": -48.6817792
         },
         "distancia_km": null,
         "proximo": false
@@ -256,12 +271,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:00:02",
-          "lat": -29.983945,
-          "lon": -51.1869883333333
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:15:35",
+          "lat": -29.9834583333333,
+          "lon": -51.1866833333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -276,12 +291,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:00:02",
-          "lat": -29.983945,
-          "lon": -51.1869883333333
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:15:35",
+          "lat": -29.9834583333333,
+          "lon": -51.1866833333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -294,6 +309,68 @@
       "Rio do Sul": {
         "peso_kg": 1465.45,
         "frete_rs": 1709.2,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016264-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 532.4,
+        "frete_rs": 1655.34,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:15:30",
+          "lat": -29.98352,
+          "lon": -51.1869056
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 532.4,
+        "frete_rs": 1655.34,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "POA016265-5",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 276.24,
+        "frete_rs": 287.88,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:15:30",
+          "lat": -29.98352,
+          "lon": -51.1869056
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 276.24,
+        "frete_rs": 287.88,
         "qtde": 1
       }
     }
@@ -312,12 +389,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 17:59:04",
-          "lat": -27.2057632,
-          "lon": -49.6492448
+          "referencia": "0.3 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 18:15:04",
+          "lat": -27.205056,
+          "lon": -49.6412
         },
-        "distancia_km": 524.4,
+        "distancia_km": 523.9,
         "proximo": false
       },
       {
@@ -332,12 +409,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 17:59:04",
-          "lat": -27.2057632,
-          "lon": -49.6492448
+          "referencia": "0.3 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 18:15:04",
+          "lat": -27.205056,
+          "lon": -49.6412
         },
-        "distancia_km": 524.4,
+        "distancia_km": 523.9,
         "proximo": false
       }
     ],
@@ -349,5 +426,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T18:02:46"
+  "_gerado_em": "2026-11-17T18:17:53"
 }
