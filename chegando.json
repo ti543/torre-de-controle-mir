@@ -13,13 +13,13 @@
         "frete_rs": 16270.19,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "1.01 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "16/11/2026 20:59:36",
-          "lat": -27.1076704,
-          "lon": -48.9249568
+          "referencia": "0.65 km de FH LOG - BRUSQUE - BRUSQUE/SC",
+          "data_hora_posicao": "16/11/2026 21:15:36",
+          "lat": -27.0610336,
+          "lon": -48.8767904
         },
-        "distancia_km": 31.7,
-        "proximo": false
+        "distancia_km": 24.7,
+        "proximo": true
       },
       {
         "manif": "CTB013616-6",
@@ -33,12 +33,12 @@
         "frete_rs": 2172.79,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.24 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "16/11/2026 20:59:04",
-          "lat": -26.3486333333333,
-          "lon": -48.857335
+          "referencia": "1.18 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "16/11/2026 21:15:04",
+          "lat": -26.47662,
+          "lon": -48.740215
         },
-        "distancia_km": 61.4,
+        "distancia_km": 45.7,
         "proximo": false
       },
       {
@@ -53,10 +53,30 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 20:59:04",
-          "lat": -23.47056,
-          "lon": -46.4621152
+          "referencia": "0.16 km de FILIAL EXCELLENCE - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:15:04",
+          "lat": -23.4787056,
+          "lon": -46.4634528
+        },
+        "distancia_km": 441.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074740-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 4189.1,
+        "frete_rs": 3238.06,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:15:05",
+          "lat": -23.4706592,
+          "lon": -46.4621312
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -89,9 +109,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 4788.5,
-        "frete_rs": 9335.33,
-        "qtde": 1
+        "peso_kg": 8977.6,
+        "frete_rs": 12573.39,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 163.2,
@@ -114,12 +134,12 @@
         "frete_rs": 12155.15,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.28 km de 1ª DELEGACIA PRF - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 20:59:17",
-          "lat": -23.47073,
-          "lon": -46.5156633333333
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:14:34",
+          "lat": -23.4707483333333,
+          "lon": -46.4621883333333
         },
-        "distancia_km": 5.4,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -134,12 +154,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.66 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 20:59:53",
-          "lat": -25.108024,
-          "lon": -48.7873472
+          "referencia": "1.25 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "16/11/2026 21:15:46",
+          "lat": -25.076016,
+          "lon": -48.5930304
         },
-        "distancia_km": 297.8,
+        "distancia_km": 280.2,
         "proximo": false
       },
       {
@@ -155,9 +175,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO MIME TREVO NORTE - ARAQUARI/SC",
-          "data_hora_posicao": "16/11/2026 21:00:26",
-          "lat": -26.436272,
-          "lon": -48.8106656
+          "data_hora_posicao": "16/11/2026 21:14:26",
+          "lat": -26.436304,
+          "lon": -48.810672
         },
         "distancia_km": 405.9,
         "proximo": false
@@ -215,12 +235,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.24 km de CORDAVILLE - INDUSTRIA DE CORDAS JOINVILLE LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "16/11/2026 20:59:04",
-          "lat": -26.3486333333333,
-          "lon": -48.857335
+          "referencia": "1.18 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "16/11/2026 21:15:04",
+          "lat": -26.47662,
+          "lon": -48.740215
         },
-        "distancia_km": 123.6,
+        "distancia_km": 121.3,
         "proximo": false
       },
       {
@@ -236,9 +256,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:59:28",
-          "lat": -29.983344,
-          "lon": -51.1867904
+          "data_hora_posicao": "16/11/2026 21:15:28",
+          "lat": -29.9833856,
+          "lon": -51.1867456
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -271,13 +291,13 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.7 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
-          "data_hora_posicao": "16/11/2026 20:59:59",
-          "lat": -29.9123584,
-          "lon": -50.79208
+          "referencia": "1.05 km de ASTÓRIA PAPÉIS LTDA - GRAVATAI/RS",
+          "data_hora_posicao": "16/11/2026 21:13:59",
+          "lat": -29.9524224,
+          "lon": -50.9704704
         },
-        "distancia_km": 38.8,
-        "proximo": false
+        "distancia_km": 21.1,
+        "proximo": true
       },
       {
         "manif": "ITJ024116-4",
@@ -291,13 +311,13 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.7 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
-          "data_hora_posicao": "16/11/2026 20:59:59",
-          "lat": -29.9123584,
-          "lon": -50.79208
+          "referencia": "1.05 km de ASTÓRIA PAPÉIS LTDA - GRAVATAI/RS",
+          "data_hora_posicao": "16/11/2026 21:13:59",
+          "lat": -29.9524224,
+          "lon": -50.9704704
         },
-        "distancia_km": 38.8,
-        "proximo": false
+        "distancia_km": 21.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -339,6 +359,37 @@
       }
     }
   },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074741-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3193.48,
+        "frete_rs": 3774.09,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:15:05",
+          "lat": -23.4706592,
+          "lon": -46.4621312
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 3193.48,
+        "frete_rs": 3774.09,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -354,9 +405,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:59:28",
-          "lat": -29.983344,
-          "lon": -51.1867904
+          "data_hora_posicao": "16/11/2026 21:15:28",
+          "lat": -29.9833856,
+          "lon": -51.1867456
         },
         "distancia_km": null,
         "proximo": false
@@ -385,9 +436,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 20:59:28",
-          "lat": -29.983344,
-          "lon": -51.1867904
+          "data_hora_posicao": "16/11/2026 21:15:28",
+          "lat": -29.9833856,
+          "lon": -51.1867456
         },
         "distancia_km": null,
         "proximo": false
@@ -401,5 +452,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T21:02:32"
+  "_gerado_em": "2026-11-16T21:17:34"
 }
