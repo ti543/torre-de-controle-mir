@@ -1,4 +1,201 @@
 {
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002244-6",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 172.0,
+        "frete_rs": 247.17,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 08:29:28",
+          "lat": -29.1469088,
+          "lon": -51.1647552
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016258-2",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 5833.48,
+        "frete_rs": 4476.14,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 08:29:28",
+          "lat": -29.1469088,
+          "lon": -51.1647552
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044434-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 4469.49,
+        "frete_rs": 4480.33,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 08:30:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044436-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 238.1,
+        "frete_rs": 74.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 08:30:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 172.0,
+        "frete_rs": 247.17,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 5833.48,
+        "frete_rs": 4476.14,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 4707.59,
+        "frete_rs": 4554.65,
+        "qtde": 2
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CXS002245-4",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 2011.48,
+        "frete_rs": 3443.81,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 08:29:28",
+          "lat": -29.1469088,
+          "lon": -51.1647552
+        },
+        "distancia_km": 262.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074742-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 6849.23,
+        "frete_rs": 10112.28,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.12 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
+          "data_hora_posicao": "17/11/2026 08:30:36",
+          "lat": -24.329704,
+          "lon": -47.6225024
+        },
+        "distancia_km": 378.8,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074746-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 9832.97,
+        "frete_rs": 18019.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016259-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 7306.12,
+        "frete_rs": 6764.92,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 08:29:28",
+          "lat": -29.1469088,
+          "lon": -51.1647552
+        },
+        "distancia_km": 262.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 2011.48,
+        "frete_rs": 3443.81,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 16682.199999999997,
+        "frete_rs": 28131.54,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 7306.12,
+        "frete_rs": 6764.92,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -14,7 +211,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 07:59:04",
+          "data_hora_posicao": "17/11/2026 08:29:04",
           "lat": -26.8876576,
           "lon": -48.720688
         },
@@ -33,13 +230,13 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 07:59:06",
-          "lat": -26.5550176,
-          "lon": -48.7207232
+          "referencia": "0.02 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "17/11/2026 08:29:06",
+          "lat": -26.774552,
+          "lon": -48.6859296
         },
-        "distancia_km": 37.0,
-        "proximo": false
+        "distancia_km": 13.0,
+        "proximo": true
       },
       {
         "manif": "GRU074744-1",
@@ -79,10 +276,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 07:59:06",
-          "lat": -26.5550176,
-          "lon": -48.7207232
+          "referencia": "0.02 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "17/11/2026 08:29:06",
+          "lat": -26.774552,
+          "lon": -48.6859296
         },
         "distancia_km": null,
         "proximo": false
@@ -131,77 +328,6 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074742-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 6849.23,
-        "frete_rs": 10112.28,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.08 km de O FAZENDEIRO - MIRACATU/SP",
-          "data_hora_posicao": "17/11/2026 07:58:36",
-          "lat": -24.257832,
-          "lon": -47.3780128
-        },
-        "distancia_km": 399.0,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074746-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 9832.97,
-        "frete_rs": 18019.26,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016259-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 7306.12,
-        "frete_rs": 6764.92,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:59:28",
-          "lat": -29.1463712,
-          "lon": -51.1648672
-        },
-        "distancia_km": 261.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 16682.199999999997,
-        "frete_rs": 28131.54,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 7306.12,
-        "frete_rs": 6764.92,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -216,10 +342,10 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 07:56:33",
-          "lat": -29.9834176,
-          "lon": -51.1866784
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 08:28:33",
+          "lat": -29.9833408,
+          "lon": -51.186736
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -237,7 +363,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:58:44",
+          "data_hora_posicao": "17/11/2026 08:30:44",
           "lat": -27.82383,
           "lon": -50.3627683333333
         },
@@ -272,10 +398,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "17/11/2026 07:59:42",
-          "lat": -28.8804958,
-          "lon": -49.459377
+          "referencia": "0.32 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "17/11/2026 08:28:34",
+          "lat": -28.9753558,
+          "lon": -49.5331811
         },
         "distancia_km": null,
         "proximo": false
@@ -303,10 +429,10 @@
         "frete_rs": 4918.99,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
-          "data_hora_posicao": "17/11/2026 07:59:42",
-          "lat": -28.8804958,
-          "lon": -49.459377
+          "referencia": "0.32 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
+          "data_hora_posicao": "17/11/2026 08:28:34",
+          "lat": -28.9753558,
+          "lon": -49.5331811
         },
         "distancia_km": null,
         "proximo": false
@@ -349,12 +475,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "17/11/2026 07:58:26",
-          "lat": -23.738832,
-          "lon": -46.8136224
+          "referencia": "2.79 km de SHERWIN WILLIAMS BRASIL INDÚSTRIA COMÉRCIO LTDA - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "17/11/2026 08:30:26",
+          "lat": -23.7541936,
+          "lon": -46.5047488
         },
-        "distancia_km": 46.6,
+        "distancia_km": 31.8,
         "proximo": false
       },
       {
@@ -424,26 +550,6 @@
   "CXS": {
     "veiculos": [
       {
-        "manif": "POA016257-4",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 105.0,
-        "frete_rs": 311.98,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:59:28",
-          "lat": -29.1463712,
-          "lon": -51.1648672
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "RSL044433-2",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -456,7 +562,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:58:44",
+          "data_hora_posicao": "17/11/2026 08:30:44",
           "lat": -27.82383,
           "lon": -50.3627683333333
         },
@@ -465,11 +571,6 @@
       }
     ],
     "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 105.0,
-        "frete_rs": 311.98,
-        "qtde": 1
-      },
       "Rio do Sul": {
         "peso_kg": 5230.97,
         "frete_rs": 5445.59,
@@ -477,81 +578,5 @@
       }
     }
   },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "POA016258-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 5833.48,
-        "frete_rs": 4476.14,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:59:28",
-          "lat": -29.1463712,
-          "lon": -51.1648672
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044434-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 4469.49,
-        "frete_rs": 4480.33,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:58:44",
-          "lat": -27.82383,
-          "lon": -50.3627683333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044436-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 238.1,
-        "frete_rs": 74.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:58:44",
-          "lat": -27.82383,
-          "lon": -50.3627683333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 5833.48,
-        "frete_rs": 4476.14,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 4707.59,
-        "frete_rs": 4554.65,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-17T08:02:41"
+  "_gerado_em": "2026-11-17T08:32:40"
 }
