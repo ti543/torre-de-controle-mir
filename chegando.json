@@ -1,4 +1,60 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CRC000398-1",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 471.3,
+        "frete_rs": 881.03,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "0.25 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "17/11/2026 11:15:51",
+          "lat": -28.6896736,
+          "lon": -49.3157228
+        },
+        "distancia_km": 208.8,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074739-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 4788.5,
+        "frete_rs": 9335.33,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 11:15:04",
+          "lat": -26.8876576,
+          "lon": -48.720688
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "CRC": {
+        "peso_kg": 471.3,
+        "frete_rs": 881.03,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 4788.5,
+        "frete_rs": 9335.33,
+        "qtde": 1
+      }
+    }
+  },
   "LGS": {
     "veiculos": [
       {
@@ -13,10 +69,10 @@
         "frete_rs": 247.17,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de PRF - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 10:59:28",
-          "lat": -28.4941152,
-          "lon": -50.9126368
+          "referencia": "8.66 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:15:28",
+          "lat": -28.354032,
+          "lon": -50.8276224
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +89,10 @@
         "frete_rs": 4476.14,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de PRF - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 10:59:28",
-          "lat": -28.4941152,
-          "lon": -50.9126368
+          "referencia": "8.66 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:15:28",
+          "lat": -28.354032,
+          "lon": -50.8276224
         },
         "distancia_km": null,
         "proximo": false
@@ -69,12 +125,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de PRF - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 10:59:28",
-          "lat": -28.4941152,
-          "lon": -50.9126368
+          "referencia": "8.66 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:15:28",
+          "lat": -28.354032,
+          "lon": -50.8276224
         },
-        "distancia_km": 189.6,
+        "distancia_km": 172.4,
         "proximo": false
       },
       {
@@ -89,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.03 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "17/11/2026 11:00:36",
-          "lat": -24.9723872,
-          "lon": -48.5015744
+          "referencia": "1.27 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 11:14:36",
+          "lat": -25.075792,
+          "lon": -48.5930976
         },
-        "distancia_km": 273.6,
+        "distancia_km": 259.3,
         "proximo": false
       },
       {
@@ -124,12 +180,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de PRF - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 10:59:28",
-          "lat": -28.4941152,
-          "lon": -50.9126368
+          "referencia": "8.66 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:15:28",
+          "lat": -28.354032,
+          "lon": -50.8276224
         },
-        "distancia_km": 189.6,
+        "distancia_km": 172.4,
         "proximo": false
       }
     ],
@@ -151,57 +207,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074739-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 4788.5,
-        "frete_rs": 9335.33,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 10:59:04",
-          "lat": -26.8876576,
-          "lon": -48.720688
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074740-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 4189.1,
-        "frete_rs": 3238.06,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 10:59:06",
-          "lat": -26.8875168,
-          "lon": -48.7206944
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8977.6,
-        "frete_rs": 12573.39,
-        "qtde": 2
-      }
-    }
-  },
   "TBO": {
     "veiculos": [
       {
@@ -217,7 +222,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 10:59:06",
+          "data_hora_posicao": "17/11/2026 11:15:06",
           "lat": -26.8875168,
           "lon": -48.7206944
         },
@@ -282,10 +287,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "17/11/2026 10:59:31",
-          "lat": -28.6901071,
-          "lon": -49.3156106
+          "referencia": "0.25 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "17/11/2026 11:15:51",
+          "lat": -28.6896736,
+          "lon": -49.3157228
         },
         "distancia_km": null,
         "proximo": false
@@ -295,37 +300,6 @@
       "Itajaí": {
         "peso_kg": 743.25,
         "frete_rs": 2141.22,
-        "qtde": 1
-      }
-    }
-  },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024119-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 5247.87,
-        "frete_rs": 4918.99,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.2 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "17/11/2026 10:59:31",
-          "lat": -28.6901071,
-          "lon": -49.3156106
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5247.87,
-        "frete_rs": 4918.99,
         "qtde": 1
       }
     }
@@ -440,12 +414,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.13 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 11:00:20",
-          "lat": -28.3879716666667,
-          "lon": -50.8457716666667
+          "referencia": "0.21 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:14:20",
+          "lat": -28.5093416666667,
+          "lon": -50.9294683333333
         },
-        "distancia_km": 180.5,
+        "distancia_km": 165.8,
         "proximo": false
       },
       {
@@ -460,12 +434,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.13 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 11:00:20",
-          "lat": -28.3879716666667,
-          "lon": -50.8457716666667
+          "referencia": "0.21 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:14:20",
+          "lat": -28.5093416666667,
+          "lon": -50.9294683333333
         },
-        "distancia_km": 180.5,
+        "distancia_km": 165.8,
         "proximo": false
       }
     ],
@@ -496,10 +470,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.13 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "17/11/2026 11:00:20",
-          "lat": -28.3879716666667,
-          "lon": -50.8457716666667
+          "referencia": "0.21 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "17/11/2026 11:14:20",
+          "lat": -28.5093416666667,
+          "lon": -50.9294683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -513,5 +487,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T11:02:45"
+  "_gerado_em": "2026-11-17T11:17:46"
 }
