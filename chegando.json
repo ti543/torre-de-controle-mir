@@ -28,12 +28,12 @@
         "frete_rs": 1354.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RICHTER - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 20:30:11",
-          "lat": -26.1786704,
-          "lon": -48.9087968
+          "referencia": "0.3 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
+          "data_hora_posicao": "17/11/2026 20:44:11",
+          "lat": -26.3203024,
+          "lon": -48.8704832
         },
-        "distancia_km": 81.0,
+        "distancia_km": 64.8,
         "proximo": false
       }
     ],
@@ -64,12 +64,12 @@
         "frete_rs": 6036.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.9 km de PEDAGIO - ATIBAIA - ATIBAIA/SP",
-          "data_hora_posicao": "17/11/2026 20:29:20",
-          "lat": -23.0798366666667,
-          "lon": -46.6358716666667
+          "referencia": "0.12 km de PRF - 3ª DELEGACIA - ATIBAIA/SP",
+          "data_hora_posicao": "17/11/2026 20:44:12",
+          "lat": -23.1903483333333,
+          "lon": -46.58452
         },
-        "distancia_km": 46.9,
+        "distancia_km": 33.6,
         "proximo": false
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 8632.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.9 km de PEDAGIO - ATIBAIA - ATIBAIA/SP",
-          "data_hora_posicao": "17/11/2026 20:29:20",
-          "lat": -23.0798366666667,
-          "lon": -46.6358716666667
+          "referencia": "0.12 km de PRF - 3ª DELEGACIA - ATIBAIA/SP",
+          "data_hora_posicao": "17/11/2026 20:44:12",
+          "lat": -23.1903483333333,
+          "lon": -46.58452
         },
-        "distancia_km": 46.9,
+        "distancia_km": 33.6,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 4877.29,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.09 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 20:30:33",
-          "lat": -25.2888208,
-          "lon": -48.933104
+          "referencia": "3.02 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 20:45:31",
+          "lat": -25.148576,
+          "lon": -48.8591232
         },
-        "distancia_km": 321.7,
+        "distancia_km": 306.3,
         "proximo": false
       },
       {
@@ -124,12 +124,52 @@
         "frete_rs": 531.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.09 km de PEDAGIO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 20:30:33",
-          "lat": -25.2888208,
-          "lon": -48.933104
+          "referencia": "3.02 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 20:45:31",
+          "lat": -25.148576,
+          "lon": -48.8591232
         },
-        "distancia_km": 321.7,
+        "distancia_km": 306.3,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024132-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 9862.26,
+        "frete_rs": 9934.77,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 20:45:05",
+          "lat": -26.8874752,
+          "lon": -48.721264
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024133-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 3866.0,
+        "frete_rs": 9814.7,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 20:45:05",
+          "lat": -26.8874752,
+          "lon": -48.721264
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -144,12 +184,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.33 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 20:29:55",
-          "lat": -26.7922656,
-          "lon": -49.08704
+          "referencia": "6.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 20:45:04",
+          "lat": -26.7095696,
+          "lon": -49.0553664
         },
-        "distancia_km": 454.1,
+        "distancia_km": 444.8,
         "proximo": false
       },
       {
@@ -164,12 +204,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.33 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 20:29:55",
-          "lat": -26.7922656,
-          "lon": -49.08704
+          "referencia": "6.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 20:45:04",
+          "lat": -26.7095696,
+          "lon": -49.0553664
         },
-        "distancia_km": 454.1,
+        "distancia_km": 444.8,
         "proximo": false
       },
       {
@@ -184,12 +224,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.61 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "17/11/2026 20:30:22",
-          "lat": -27.0770688,
-          "lon": -49.4297472
+          "referencia": "0.15 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "17/11/2026 20:44:08",
+          "lat": -27.0130304,
+          "lon": -49.3717952
         },
-        "distancia_km": 499.8,
+        "distancia_km": 490.7,
         "proximo": false
       },
       {
@@ -219,6 +259,11 @@
         "frete_rs": 5409.27,
         "qtde": 2
       },
+      "Itajaí": {
+        "peso_kg": 13728.26,
+        "frete_rs": 19749.47,
+        "qtde": 2
+      },
       "Rio do Sul": {
         "peso_kg": 48829.53,
         "frete_rs": 29389.469999999998,
@@ -245,12 +290,12 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RICHTER - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 20:30:11",
-          "lat": -26.1786704,
-          "lon": -48.9087968
+          "referencia": "0.3 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
+          "data_hora_posicao": "17/11/2026 20:44:11",
+          "lat": -26.3203024,
+          "lon": -48.8704832
         },
-        "distancia_km": 135.9,
+        "distancia_km": 125.2,
         "proximo": false
       },
       {
@@ -265,12 +310,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.45 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "17/11/2026 20:26:28",
-          "lat": -27.2859328,
-          "lon": -49.7882496
+          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 20:45:28",
+          "lat": -27.2430848,
+          "lon": -49.68824
         },
-        "distancia_km": 16.3,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -285,12 +330,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.45 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "17/11/2026 20:26:28",
-          "lat": -27.2859328,
-          "lon": -49.7882496
+          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 20:45:28",
+          "lat": -27.2430848,
+          "lon": -49.68824
         },
-        "distancia_km": 16.3,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -305,12 +350,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.45 km de METALBO 5,0·2 CO - TROMBUDO CENTRAL/SC",
-          "data_hora_posicao": "17/11/2026 20:26:28",
-          "lat": -27.2859328,
-          "lon": -49.7882496
+          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 20:45:28",
+          "lat": -27.2430848,
+          "lon": -49.68824
         },
-        "distancia_km": 16.3,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -326,7 +371,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:29:30",
+          "data_hora_posicao": "17/11/2026 20:45:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -367,7 +412,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 20:29:06",
+          "data_hora_posicao": "17/11/2026 20:45:06",
           "lat": -26.8876864,
           "lon": -48.720672
         },
@@ -424,7 +469,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:29:27",
+          "data_hora_posicao": "17/11/2026 20:45:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -444,7 +489,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:29:27",
+          "data_hora_posicao": "17/11/2026 20:45:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -480,7 +525,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:29:30",
+          "data_hora_posicao": "17/11/2026 20:45:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -511,7 +556,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:29:30",
+          "data_hora_posicao": "17/11/2026 20:45:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -527,5 +572,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T20:32:25"
+  "_gerado_em": "2026-11-17T20:47:36"
 }
