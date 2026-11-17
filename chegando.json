@@ -13,12 +13,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.82 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "16/11/2026 23:35:46",
-          "lat": -24.144792,
-          "lon": -47.2794272
+          "referencia": "0.22 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "16/11/2026 23:59:59",
+          "lat": -23.982208,
+          "lon": -47.1459456
         },
-        "distancia_km": 111.9,
+        "distancia_km": 89.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.24 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
-          "data_hora_posicao": "16/11/2026 23:45:13",
-          "lat": -25.440416,
-          "lon": -49.0921664
+          "referencia": "0.48 km de POSTO E CHURRASCARIA O CUPIM 1 - QUATRO BARRAS/PR",
+          "data_hora_posicao": "16/11/2026 23:58:26",
+          "lat": -25.3121168,
+          "lon": -49.0159424
         },
-        "distancia_km": 344.7,
+        "distancia_km": 329.9,
         "proximo": false
       },
       {
@@ -119,12 +119,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 23:45:02",
-          "lat": -26.8632833333333,
-          "lon": -48.7287833333333
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:59:02",
+          "lat": -26.8595316666667,
+          "lon": -48.727625
         },
-        "distancia_km": 98.9,
+        "distancia_km": 99.1,
         "proximo": false
       },
       {
@@ -139,12 +139,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.83 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 23:44:36",
-          "lat": -23.8062208,
-          "lon": -46.69024
+          "referencia": "1.99 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "17/11/2026 00:00:36",
+          "lat": -23.70684,
+          "lon": -46.8108096
         },
-        "distancia_km": 480.7,
+        "distancia_km": 482.3,
         "proximo": false
       },
       {
@@ -174,12 +174,12 @@
         "frete_rs": 3587.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 23:45:02",
-          "lat": -26.8632833333333,
-          "lon": -48.7287833333333
+          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "16/11/2026 23:59:02",
+          "lat": -26.8595316666667,
+          "lon": -48.727625
         },
-        "distancia_km": 98.9,
+        "distancia_km": 99.1,
         "proximo": false
       },
       {
@@ -195,9 +195,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:45:28",
-          "lat": -29.9833824,
-          "lon": -51.1868768
+          "data_hora_posicao": "16/11/2026 23:59:28",
+          "lat": -29.9833856,
+          "lon": -51.1868672
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -222,62 +222,6 @@
       "Porto Alegre": {
         "peso_kg": 7306.12,
         "frete_rs": 6764.92,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074677-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:43:59",
-          "lat": -29.983376,
-          "lon": -51.1867744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024116-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 11365.77,
-        "frete_rs": 15632.18,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:43:59",
-          "lat": -29.983376,
-          "lon": -51.1867744
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3579.75,
-        "frete_rs": 13396.23,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 11365.77,
-        "frete_rs": 15632.18,
         "qtde": 1
       }
     }
@@ -311,10 +255,10 @@
         "frete_rs": 8822.73,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de EDITORA ABRIL - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 23:44:49",
-          "lat": -23.5074683333333,
-          "lon": -46.697925
+          "referencia": "1.38 km de PEDAGIO - PRACA 03 (BANDEIRANTES EXTERNA) - SAO PAULO/SP",
+          "data_hora_posicao": "17/11/2026 00:00:49",
+          "lat": -23.4153816666667,
+          "lon": -46.7650283333333
         },
         "distancia_km": null,
         "proximo": false
@@ -331,10 +275,10 @@
         "frete_rs": 552.88,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de EDITORA ABRIL - SAO PAULO/SP",
-          "data_hora_posicao": "16/11/2026 23:44:49",
-          "lat": -23.5074683333333,
-          "lon": -46.697925
+          "referencia": "1.38 km de PEDAGIO - PRACA 03 (BANDEIRANTES EXTERNA) - SAO PAULO/SP",
+          "data_hora_posicao": "17/11/2026 00:00:49",
+          "lat": -23.4153816666667,
+          "lon": -46.7650283333333
         },
         "distancia_km": null,
         "proximo": false
@@ -362,12 +306,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
-          "data_hora_posicao": "16/11/2026 23:45:04",
-          "lat": -24.3323696,
-          "lon": -47.5872128
+          "referencia": "1.07 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "16/11/2026 23:59:04",
+          "lat": -24.3968064,
+          "lon": -47.7290336
         },
-        "distancia_km": 306.0,
+        "distancia_km": 294.3,
         "proximo": false
       },
       {
@@ -382,12 +326,12 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de BALANÇA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 23:45:05",
-          "lat": -23.76664,
-          "lon": -46.908656
+          "referencia": "0.09 km de POSTO 60 (BRAZÃO) - JUQUITIBA/SP",
+          "data_hora_posicao": "16/11/2026 23:59:05",
+          "lat": -23.8956256,
+          "lon": -46.9858144
         },
-        "distancia_km": 391.9,
+        "distancia_km": 375.6,
         "proximo": false
       },
       {
@@ -404,26 +348,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044432-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 1956.24,
-        "frete_rs": 2983.26,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.47 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 23:44:11",
-          "lat": -26.8548768,
-          "lon": -48.727264
-        },
-        "distancia_km": 3.7,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -431,11 +355,6 @@
         "peso_kg": 23479.47,
         "frete_rs": 22819.58,
         "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 1956.24,
-        "frete_rs": 2983.26,
-        "qtde": 1
       }
     }
   },
@@ -453,10 +372,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de BALANÇA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 23:45:05",
-          "lat": -23.76664,
-          "lon": -46.908656
+          "referencia": "0.09 km de POSTO 60 (BRAZÃO) - JUQUITIBA/SP",
+          "data_hora_posicao": "16/11/2026 23:59:05",
+          "lat": -23.8956256,
+          "lon": -46.9858144
         },
         "distancia_km": null,
         "proximo": false
@@ -499,12 +418,12 @@
         "frete_rs": 2886.54,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.44 km de 8º BATALHÃO DA POLÍCIA MILITAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 23:45:17",
-          "lat": -23.7450016,
-          "lon": -46.8117088
+          "referencia": "0.12 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "16/11/2026 23:59:17",
+          "lat": -23.669912,
+          "lon": -46.8561376
         },
-        "distancia_km": 319.9,
+        "distancia_km": 321.7,
         "proximo": false
       },
       {
@@ -519,12 +438,12 @@
         "frete_rs": 2607.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.47 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 23:44:11",
-          "lat": -26.8548768,
-          "lon": -48.727264
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 00:00:32",
+          "lat": -26.8873472,
+          "lon": -48.7211968
         },
-        "distancia_km": 158.1,
+        "distancia_km": 161.7,
         "proximo": false
       }
     ],
@@ -537,6 +456,37 @@
       "Rio do Sul": {
         "peso_kg": 4253.47,
         "frete_rs": 2607.78,
+        "qtde": 1
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "ITJ024116-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 11365.77,
+        "frete_rs": 15632.18,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 00:00:33",
+          "lat": -29.983376,
+          "lon": -51.1867744
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 11365.77,
+        "frete_rs": 15632.18,
         "qtde": 1
       }
     }
@@ -556,9 +506,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:45:28",
-          "lat": -29.9833824,
-          "lon": -51.1868768
+          "data_hora_posicao": "16/11/2026 23:59:28",
+          "lat": -29.9833856,
+          "lon": -51.1868672
         },
         "distancia_km": null,
         "proximo": false
@@ -587,9 +537,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 23:45:28",
-          "lat": -29.9833824,
-          "lon": -51.1868768
+          "data_hora_posicao": "16/11/2026 23:59:28",
+          "lat": -29.9833856,
+          "lon": -51.1868672
         },
         "distancia_km": null,
         "proximo": false
@@ -603,5 +553,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T23:47:30"
+  "_gerado_em": "2026-11-17T00:02:37"
 }
