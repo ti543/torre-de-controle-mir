@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO VITÓRIA - ITAPEMA/SC",
-          "data_hora_posicao": "17/11/2026 17:44:13",
-          "lat": -27.1118133,
-          "lon": -48.6109148
+          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "17/11/2026 18:00:50",
+          "lat": -26.9846651,
+          "lon": -48.6682545
         },
-        "distancia_km": 27.2,
+        "distancia_km": 12.0,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO VITÓRIA - ITAPEMA/SC",
-          "data_hora_posicao": "17/11/2026 17:44:13",
-          "lat": -27.1118133,
-          "lon": -48.6109148
+          "referencia": "0.32 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "17/11/2026 18:00:50",
+          "lat": -26.9846651,
+          "lon": -48.6682545
         },
-        "distancia_km": 27.2,
+        "distancia_km": 12.0,
         "proximo": true
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:45:28",
-          "lat": -27.82384,
-          "lon": -50.3627776
+          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 18:00:15",
+          "lat": -27.8177024,
+          "lon": -50.372672
         },
-        "distancia_km": 98.3,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -89,13 +89,33 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "17/11/2026 17:44:36",
-          "lat": -27.1356064,
-          "lon": -49.5435968
+          "referencia": "0.18 km de CD RIO DO SUL (NOVO) - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 18:00:36",
+          "lat": -27.1932672,
+          "lon": -49.62336
         },
-        "distancia_km": 13.1,
+        "distancia_km": 3.0,
         "proximo": true
+      },
+      {
+        "manif": "LGS001614-4",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 2489.03,
+        "frete_rs": 2735.61,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 18:00:15",
+          "lat": -27.8177024,
+          "lon": -50.372672
+        },
+        "distancia_km": 98.5,
+        "proximo": false
       },
       {
         "manif": "POA016259-1",
@@ -109,20 +129,35 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:45:28",
-          "lat": -27.82384,
-          "lon": -50.3627776
+          "referencia": "0.19 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 18:00:15",
+          "lat": -27.8177024,
+          "lon": -50.372672
         },
-        "distancia_km": 98.3,
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016453-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 2466.97,
+        "frete_rs": 2431.33,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 2011.48,
-        "frete_rs": 3443.81,
-        "qtde": 1
+        "peso_kg": 4500.51,
+        "frete_rs": 6179.42,
+        "qtde": 2
       },
       "Guarulhos": {
         "peso_kg": 6849.23,
@@ -132,6 +167,11 @@
       "Porto Alegre": {
         "peso_kg": 7306.12,
         "frete_rs": 6764.92,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 2466.97,
+        "frete_rs": 2431.33,
         "qtde": 1
       }
     }
@@ -151,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 17:45:06",
+          "data_hora_posicao": "17/11/2026 17:59:06",
           "lat": -26.9032704,
           "lon": -48.6825088
         },
@@ -216,12 +256,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.54 km de COMERCIAL ZAFFARI - LOJA 54 - CANOAS/RS",
-          "data_hora_posicao": "17/11/2026 17:43:34",
-          "lat": -29.9355066666667,
-          "lon": -51.2091983333333
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:00:02",
+          "lat": -29.983945,
+          "lon": -51.1869883333333
         },
-        "distancia_km": 5.7,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -236,12 +276,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.54 km de COMERCIAL ZAFFARI - LOJA 54 - CANOAS/RS",
-          "data_hora_posicao": "17/11/2026 17:43:34",
-          "lat": -29.9355066666667,
-          "lon": -51.2091983333333
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "17/11/2026 18:00:02",
+          "lat": -29.983945,
+          "lon": -51.1869883333333
         },
-        "distancia_km": 5.7,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -273,7 +313,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 17:45:04",
+          "data_hora_posicao": "17/11/2026 17:59:04",
           "lat": -27.2057632,
           "lon": -49.6492448
         },
@@ -293,7 +333,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 17:45:04",
+          "data_hora_posicao": "17/11/2026 17:59:04",
           "lat": -27.2057632,
           "lon": -49.6492448
         },
@@ -309,5 +349,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T17:47:40"
+  "_gerado_em": "2026-11-17T18:02:46"
 }
