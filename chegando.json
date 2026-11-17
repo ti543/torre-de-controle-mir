@@ -13,12 +13,12 @@
         "frete_rs": 16270.19,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.65 km de FH LOG - BRUSQUE - BRUSQUE/SC",
-          "data_hora_posicao": "16/11/2026 21:15:36",
-          "lat": -27.0610336,
-          "lon": -48.8767904
+          "referencia": "4.72 km de VALLE DORO - ILHOTA/SC",
+          "data_hora_posicao": "16/11/2026 21:28:02",
+          "lat": -26.9879904,
+          "lon": -48.8087456
         },
-        "distancia_km": 24.7,
+        "distancia_km": 14.2,
         "proximo": true
       },
       {
@@ -33,13 +33,13 @@
         "frete_rs": 2172.79,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.18 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "16/11/2026 21:15:04",
-          "lat": -26.47662,
-          "lon": -48.740215
+          "referencia": "0.08 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
+          "data_hora_posicao": "16/11/2026 21:31:04",
+          "lat": -26.6401933333333,
+          "lon": -48.6924633333333
         },
-        "distancia_km": 45.7,
-        "proximo": false
+        "distancia_km": 27.6,
+        "proximo": true
       },
       {
         "manif": "GRU074739-4",
@@ -53,12 +53,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de FILIAL EXCELLENCE - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 21:15:04",
-          "lat": -23.4787056,
-          "lon": -46.4634528
+          "referencia": "0.39 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "16/11/2026 21:31:04",
+          "lat": -23.5258656,
+          "lon": -46.5980864
         },
-        "distancia_km": 441.9,
+        "distancia_km": 430.5,
         "proximo": false
       },
       {
@@ -73,12 +73,32 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 21:15:05",
-          "lat": -23.4706592,
-          "lon": -46.4621312
+          "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:31:05",
+          "lat": -23.4703024,
+          "lon": -46.4618304
         },
-        "distancia_km": 442.7,
+        "distancia_km": 442.8,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044432-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 1956.24,
+        "frete_rs": 2983.26,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 21:30:11",
+          "lat": -27.2062368,
+          "lon": -49.649408
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -113,6 +133,11 @@
         "frete_rs": 12573.39,
         "qtde": 2
       },
+      "Rio do Sul": {
+        "peso_kg": 1956.24,
+        "frete_rs": 2983.26,
+        "qtde": 1
+      },
       "Timbó": {
         "peso_kg": 163.2,
         "frete_rs": 175.95,
@@ -122,26 +147,6 @@
   },
   "GRU": {
     "veiculos": [
-      {
-        "manif": "CMP010412-4",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 6057.24,
-        "frete_rs": 12155.15,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 21:14:34",
-          "lat": -23.4707483333333,
-          "lon": -46.4621883333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
       {
         "manif": "CTB013615-8",
         "origin_unit": "CTB",
@@ -154,12 +159,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.25 km de POSTO JUNINHO - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 21:15:46",
-          "lat": -25.076016,
-          "lon": -48.5930304
+          "referencia": "1.45 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "16/11/2026 21:19:46",
+          "lat": -25.0520064,
+          "lon": -48.550336
         },
-        "distancia_km": 280.2,
+        "distancia_km": 275.2,
         "proximo": false
       },
       {
@@ -174,12 +179,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO MIME TREVO NORTE - ARAQUARI/SC",
-          "data_hora_posicao": "16/11/2026 21:14:26",
-          "lat": -26.436304,
-          "lon": -48.810672
+          "referencia": "0.11 km de POSTO MIME TREVO NORTE - ARAQUARI/SC",
+          "data_hora_posicao": "16/11/2026 21:30:26",
+          "lat": -26.4360016,
+          "lon": -48.8117024
         },
-        "distancia_km": 405.9,
+        "distancia_km": 406.0,
         "proximo": false
       },
       {
@@ -199,11 +204,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 6057.24,
-        "frete_rs": 12155.15,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 3281.96,
         "frete_rs": 4406.31,
@@ -235,12 +235,12 @@
         "frete_rs": 1493.77,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.18 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "16/11/2026 21:15:04",
-          "lat": -26.47662,
-          "lon": -48.740215
+          "referencia": "0.08 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
+          "data_hora_posicao": "16/11/2026 21:31:04",
+          "lat": -26.6401933333333,
+          "lon": -48.6924633333333
         },
-        "distancia_km": 121.3,
+        "distancia_km": 113.9,
         "proximo": false
       },
       {
@@ -256,9 +256,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 21:15:28",
-          "lat": -29.9833856,
-          "lon": -51.1867456
+          "data_hora_posicao": "16/11/2026 21:29:28",
+          "lat": -29.9833248,
+          "lon": -51.1868288
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -291,12 +291,12 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.05 km de ASTÓRIA PAPÉIS LTDA - GRAVATAI/RS",
-          "data_hora_posicao": "16/11/2026 21:13:59",
-          "lat": -29.9524224,
-          "lon": -50.9704704
+          "referencia": "0.31 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
+          "data_hora_posicao": "16/11/2026 21:30:47",
+          "lat": -29.9639584,
+          "lon": -51.176288
         },
-        "distancia_km": 21.1,
+        "distancia_km": 2.4,
         "proximo": true
       },
       {
@@ -311,12 +311,12 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.05 km de ASTÓRIA PAPÉIS LTDA - GRAVATAI/RS",
-          "data_hora_posicao": "16/11/2026 21:13:59",
-          "lat": -29.9524224,
-          "lon": -50.9704704
+          "referencia": "0.31 km de CASA DO CARDAN SERVIÇOS E PEÇAS - CANOAS/RS",
+          "data_hora_posicao": "16/11/2026 21:30:47",
+          "lat": -29.9639584,
+          "lon": -51.176288
         },
-        "distancia_km": 21.1,
+        "distancia_km": 2.4,
         "proximo": true
       }
     ],
@@ -373,10 +373,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 21:15:05",
-          "lat": -23.4706592,
-          "lon": -46.4621312
+          "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 21:31:05",
+          "lat": -23.4703024,
+          "lon": -46.4618304
         },
         "distancia_km": null,
         "proximo": false
@@ -405,9 +405,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 21:15:28",
-          "lat": -29.9833856,
-          "lon": -51.1867456
+          "data_hora_posicao": "16/11/2026 21:29:28",
+          "lat": -29.9833248,
+          "lon": -51.1868288
         },
         "distancia_km": null,
         "proximo": false
@@ -436,9 +436,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 21:15:28",
-          "lat": -29.9833856,
-          "lon": -51.1867456
+          "data_hora_posicao": "16/11/2026 21:29:28",
+          "lat": -29.9833248,
+          "lon": -51.1868288
         },
         "distancia_km": null,
         "proximo": false
@@ -452,5 +452,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T21:17:34"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044431-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 4253.47,
+        "frete_rs": 2607.78,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "16/11/2026 21:30:11",
+          "lat": -27.2062368,
+          "lon": -49.649408
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 4253.47,
+        "frete_rs": 2607.78,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-16T21:32:43"
 }
