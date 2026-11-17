@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.97 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "17/11/2026 16:02:18",
-          "lat": -28.048597,
-          "lon": -48.715331
+          "referencia": "0.8 km de POSTO BELA VISTA - PAULO LOPES/SC",
+          "data_hora_posicao": "17/11/2026 16:09:52",
+          "lat": -27.9868858,
+          "lon": -48.6790331
         },
-        "distancia_km": 129.1,
+        "distancia_km": 122.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.97 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "17/11/2026 16:02:18",
-          "lat": -28.048597,
-          "lon": -48.715331
+          "referencia": "0.8 km de POSTO BELA VISTA - PAULO LOPES/SC",
+          "data_hora_posicao": "17/11/2026 16:09:52",
+          "lat": -27.9868858,
+          "lon": -48.6790331
         },
-        "distancia_km": 129.1,
+        "distancia_km": 122.3,
         "proximo": false
       }
     ],
@@ -70,8 +70,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 16:03:28",
-          "lat": -27.8238208,
+          "data_hora_posicao": "17/11/2026 16:07:28",
+          "lat": -27.8238176,
           "lon": -50.3627616
         },
         "distancia_km": 98.3,
@@ -89,12 +89,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 16:02:36",
-          "lat": -26.8838592,
-          "lon": -49.1513824
+          "referencia": "0.23 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 16:10:36",
+          "lat": -26.8811232,
+          "lon": -49.1653024
         },
-        "distancia_km": 61.0,
+        "distancia_km": 60.1,
         "proximo": false
       },
       {
@@ -110,8 +110,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 16:03:28",
-          "lat": -27.8238208,
+          "data_hora_posicao": "17/11/2026 16:07:28",
+          "lat": -27.8238176,
           "lon": -50.3627616
         },
         "distancia_km": 98.3,
@@ -151,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 16:03:06",
+          "data_hora_posicao": "17/11/2026 16:09:06",
           "lat": -26.9033504,
           "lon": -48.682464
         },
@@ -216,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.31 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 16:03:03",
-          "lat": -29.1692883333333,
-          "lon": -51.244955
+          "referencia": "0.64 km de PLÁSTICOS ITÁLIA LTDA - FARROUPILHA/RS",
+          "data_hora_posicao": "17/11/2026 16:11:30",
+          "lat": -29.21337,
+          "lon": -51.3067883333333
         },
-        "distancia_km": 90.7,
+        "distancia_km": 86.4,
         "proximo": false
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 16:03:03",
-          "lat": -29.1692883333333,
-          "lon": -51.244955
+          "referencia": "0.64 km de PLÁSTICOS ITÁLIA LTDA - FARROUPILHA/RS",
+          "data_hora_posicao": "17/11/2026 16:11:30",
+          "lat": -29.21337,
+          "lon": -51.3067883333333
         },
-        "distancia_km": 90.7,
+        "distancia_km": 86.4,
         "proximo": false
       }
     ],
@@ -258,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T16:17:52"
+  "_gerado_em": "2026-11-17T16:32:46"
 }
