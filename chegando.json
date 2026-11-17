@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.39 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "17/11/2026 17:02:47",
-          "lat": -27.4729965,
-          "lon": -48.7227515
+          "referencia": "0.4 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
+          "data_hora_posicao": "17/11/2026 17:28:13",
+          "lat": -27.2155728,
+          "lon": -48.6235203
         },
-        "distancia_km": 65.1,
+        "distancia_km": 37.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.39 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "17/11/2026 17:02:47",
-          "lat": -27.4729965,
-          "lon": -48.7227515
+          "referencia": "0.4 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
+          "data_hora_posicao": "17/11/2026 17:28:13",
+          "lat": -27.2155728,
+          "lon": -48.6235203
         },
-        "distancia_km": 65.1,
+        "distancia_km": 37.7,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:02:46",
-          "lat": -27.8238272,
-          "lon": -50.3627808
+          "data_hora_posicao": "17/11/2026 17:29:28",
+          "lat": -27.82384,
+          "lon": -50.3627712
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,12 +89,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.32 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "17/11/2026 17:02:36",
-          "lat": -27.061104,
-          "lon": -49.4127776
+          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "17/11/2026 17:28:58",
+          "lat": -27.1356064,
+          "lon": -49.5435968
         },
-        "distancia_km": 28.5,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:02:46",
-          "lat": -27.8238272,
-          "lon": -50.3627808
+          "data_hora_posicao": "17/11/2026 17:29:28",
+          "lat": -27.82384,
+          "lon": -50.3627712
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -151,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 17:01:06",
+          "data_hora_posicao": "17/11/2026 17:29:06",
           "lat": -26.9032704,
           "lon": -48.6825088
         },
@@ -216,13 +216,13 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.01 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "17/11/2026 17:01:27",
-          "lat": -29.6102333333333,
-          "lon": -51.34669
+          "referencia": "0.15 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 17:29:18",
+          "lat": -29.8146733333333,
+          "lon": -51.16924
         },
-        "distancia_km": 44.3,
-        "proximo": false
+        "distancia_km": 18.8,
+        "proximo": true
       },
       {
         "manif": "RSL044435-9",
@@ -236,13 +236,13 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.01 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "17/11/2026 17:01:27",
-          "lat": -29.6102333333333,
-          "lon": -51.34669
+          "referencia": "0.15 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 17:29:18",
+          "lat": -29.8146733333333,
+          "lon": -51.16924
         },
-        "distancia_km": 44.3,
-        "proximo": false
+        "distancia_km": 18.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -258,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T17:17:44"
+  "_gerado_em": "2026-11-17T17:32:47"
 }
