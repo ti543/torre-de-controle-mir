@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 22:15:36",
+          "data_hora_posicao": "16/11/2026 22:29:36",
           "lat": -26.8876128,
           "lon": -48.720704
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 22:14:46",
+          "data_hora_posicao": "16/11/2026 22:30:46",
           "lat": -26.8874333333333,
           "lon": -48.7212266666667
         },
@@ -53,12 +53,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de CHURRASCARIA CAMINHO DO SUL - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "16/11/2026 22:15:04",
-          "lat": -23.707152,
-          "lon": -46.8747744
+          "referencia": "0.75 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "16/11/2026 22:29:04",
+          "lat": -23.8446048,
+          "lon": -46.936352
         },
-        "distancia_km": 399.4,
+        "distancia_km": 382.9,
         "proximo": false
       },
       {
@@ -73,12 +73,27 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - P10 (SENTIDO RODOVIA PRESIDENTE DUTRA) - ARUJA/SP",
-          "data_hora_posicao": "16/11/2026 22:15:05",
-          "lat": -23.4265056,
-          "lon": -46.358144
+          "referencia": "0.91 km de BORRACHARIA - SUZANO/SP",
+          "data_hora_posicao": "16/11/2026 22:29:05",
+          "lat": -23.5765232,
+          "lon": -46.3468384
         },
-        "distancia_km": 452.4,
+        "distancia_km": 438.8,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074744-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 14501.87,
+        "frete_rs": 10246.19,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -93,12 +108,12 @@
         "frete_rs": 2983.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.59 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "16/11/2026 22:14:11",
-          "lat": -27.0770272,
-          "lon": -49.429568
+          "referencia": "0.34 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "16/11/2026 22:26:11",
+          "lat": -27.0148512,
+          "lon": -49.3712192
         },
-        "distancia_km": 73.3,
+        "distancia_km": 66.0,
         "proximo": false
       },
       {
@@ -129,9 +144,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 8977.6,
-        "frete_rs": 12573.39,
-        "qtde": 2
+        "peso_kg": 23479.47,
+        "frete_rs": 22819.58,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 1956.24,
@@ -159,12 +174,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.66 km de AUTO POSTO VITORIA - CAJATI/SP",
-          "data_hora_posicao": "16/11/2026 22:15:46",
-          "lat": -24.7309168,
-          "lon": -48.0978304
+          "referencia": "1.35 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
+          "data_hora_posicao": "16/11/2026 22:29:46",
+          "lat": -24.648952,
+          "lon": -47.92872
         },
-        "distancia_km": 217.3,
+        "distancia_km": 198.3,
         "proximo": false
       },
       {
@@ -179,12 +194,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.85 km de 8ºBPM 2ºGP - 2º GRUPO - GARUVA/SC",
-          "data_hora_posicao": "16/11/2026 22:14:26",
-          "lat": -26.040504,
-          "lon": -48.8596
+          "referencia": "1.26 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "16/11/2026 22:18:26",
+          "lat": -26.0031808,
+          "lon": -48.8728224
         },
-        "distancia_km": 374.5,
+        "distancia_km": 372.2,
         "proximo": false
       },
       {
@@ -236,7 +251,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 22:14:46",
+          "data_hora_posicao": "16/11/2026 22:30:46",
           "lat": -26.8874333333333,
           "lon": -48.7212266666667
         },
@@ -255,12 +270,27 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 22:14:36",
-          "lat": -23.470464,
-          "lon": -46.4619968
+          "referencia": "0.1 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 22:30:55",
+          "lat": -23.4711168,
+          "lon": -46.461264
         },
         "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074746-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 9832.97,
+        "frete_rs": 18019.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -276,9 +306,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:15:28",
-          "lat": -29.9833536,
-          "lon": -51.1868448
+          "data_hora_posicao": "16/11/2026 22:29:28",
+          "lat": -29.9833888,
+          "lon": -51.1868704
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -291,9 +321,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 6849.23,
-        "frete_rs": 10112.28,
-        "qtde": 1
+        "peso_kg": 16682.199999999997,
+        "frete_rs": 28131.54,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 7306.12,
@@ -316,10 +346,10 @@
         "frete_rs": 13396.23,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:13:59",
-          "lat": -29.9834976,
-          "lon": -51.1867968
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 22:29:59",
+          "lat": -29.9834432,
+          "lon": -51.1867072
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -336,10 +366,10 @@
         "frete_rs": 15632.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:13:59",
-          "lat": -29.9834976,
-          "lon": -51.1867968
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "16/11/2026 22:29:59",
+          "lat": -29.9834432,
+          "lon": -51.1867072
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -398,20 +428,35 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - P10 (SENTIDO RODOVIA PRESIDENTE DUTRA) - ARUJA/SP",
-          "data_hora_posicao": "16/11/2026 22:15:05",
-          "lat": -23.4265056,
-          "lon": -46.358144
+          "referencia": "0.91 km de BORRACHARIA - SUZANO/SP",
+          "data_hora_posicao": "16/11/2026 22:29:05",
+          "lat": -23.5765232,
+          "lon": -46.3468384
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074745-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 4853.15,
+        "frete_rs": 10794.12,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 3193.48,
-        "frete_rs": 3774.09,
-        "qtde": 1
+        "peso_kg": 8046.629999999999,
+        "frete_rs": 14568.210000000001,
+        "qtde": 2
       }
     }
   },
@@ -429,12 +474,12 @@
         "frete_rs": 2886.54,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 22:15:17",
-          "lat": -23.4709808,
-          "lon": -46.46128
+          "referencia": "0.2 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 22:30:54",
+          "lat": -23.4687712,
+          "lon": -46.4656192
         },
-        "distancia_km": 366.8,
+        "distancia_km": 366.6,
         "proximo": false
       },
       {
@@ -449,12 +494,12 @@
         "frete_rs": 2607.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.59 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "16/11/2026 22:14:11",
-          "lat": -27.0770272,
-          "lon": -49.429568
+          "referencia": "0.34 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "16/11/2026 22:26:11",
+          "lat": -27.0148512,
+          "lon": -49.3712192
         },
-        "distancia_km": 172.8,
+        "distancia_km": 165.5,
         "proximo": false
       }
     ],
@@ -486,9 +531,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:15:28",
-          "lat": -29.9833536,
-          "lon": -51.1868448
+          "data_hora_posicao": "16/11/2026 22:29:28",
+          "lat": -29.9833888,
+          "lon": -51.1868704
         },
         "distancia_km": null,
         "proximo": false
@@ -517,9 +562,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:15:28",
-          "lat": -29.9833536,
-          "lon": -51.1868448
+          "data_hora_posicao": "16/11/2026 22:29:28",
+          "lat": -29.9833888,
+          "lon": -51.1868704
         },
         "distancia_km": null,
         "proximo": false
@@ -533,5 +578,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T22:17:29"
+  "_gerado_em": "2026-11-16T22:32:35"
 }
