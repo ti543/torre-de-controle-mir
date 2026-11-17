@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "2.46 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 13:15:20",
+          "data_hora_posicao": "17/11/2026 13:27:20",
           "lat": -28.6233258,
           "lon": -49.0800516
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 13:15:04",
+          "data_hora_posicao": "17/11/2026 13:29:04",
           "lat": -26.8873504,
           "lon": -48.721488
         },
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "3.29 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "17/11/2026 13:14:24",
+          "data_hora_posicao": "17/11/2026 13:21:28",
           "lat": -27.9576352,
-          "lon": -50.4861536
+          "lon": -50.4861408
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "3.29 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "17/11/2026 13:14:24",
+          "data_hora_posicao": "17/11/2026 13:21:28",
           "lat": -27.9576352,
-          "lon": -50.4861536
+          "lon": -50.4861408
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "3.29 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "17/11/2026 13:14:24",
+          "data_hora_posicao": "17/11/2026 13:21:28",
           "lat": -27.9576352,
-          "lon": -50.4861536
+          "lon": -50.4861408
         },
         "distancia_km": 117.4,
         "proximo": false
@@ -145,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "17/11/2026 13:15:30",
-          "lat": -25.8723408,
-          "lon": -48.936896
+          "referencia": "0.51 km de POSTO CONSUL DIVISA - GUARATUBA/PR",
+          "data_hora_posicao": "17/11/2026 13:26:36",
+          "lat": -25.9760736,
+          "lon": -48.8892352
         },
-        "distancia_km": 164.4,
+        "distancia_km": 156.3,
         "proximo": false
       },
       {
@@ -181,9 +181,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "3.29 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
-          "data_hora_posicao": "17/11/2026 13:14:24",
+          "data_hora_posicao": "17/11/2026 13:21:28",
           "lat": -27.9576352,
-          "lon": -50.4861536
+          "lon": -50.4861408
         },
         "distancia_km": 117.4,
         "proximo": false
@@ -222,7 +222,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 13:15:06",
+          "data_hora_posicao": "17/11/2026 13:29:06",
           "lat": -26.8875168,
           "lon": -48.7206944
         },
@@ -258,21 +258,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044440-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3962.5,
-        "frete_rs": 1160.41,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -284,11 +269,6 @@
       "Itajaí": {
         "peso_kg": 4739.6,
         "frete_rs": 5146.12,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 3962.5,
-        "frete_rs": 1160.41,
         "qtde": 1
       }
     }
@@ -308,7 +288,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "2.46 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 13:15:20",
+          "data_hora_posicao": "17/11/2026 13:27:20",
           "lat": -28.6233258,
           "lon": -49.0800516
         },
@@ -384,12 +364,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.14 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 13:13:58",
-          "lat": -29.149445,
-          "lon": -51.1797916666667
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:29:46",
+          "lat": -29.146365,
+          "lon": -51.1648066666667
         },
-        "distancia_km": 92.7,
+        "distancia_km": 93.1,
         "proximo": false
       },
       {
@@ -404,12 +384,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 13:13:58",
-          "lat": -29.149445,
-          "lon": -51.1797916666667
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:29:46",
+          "lat": -29.146365,
+          "lon": -51.1648066666667
         },
-        "distancia_km": 92.7,
+        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -440,10 +420,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de BEMAUTOPERASRAXIAS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 13:13:58",
-          "lat": -29.149445,
-          "lon": -51.1797916666667
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 13:29:46",
+          "lat": -29.146365,
+          "lon": -51.1648066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -457,5 +437,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T13:17:38"
+  "_gerado_em": "2026-11-17T13:32:41"
 }
