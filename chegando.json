@@ -13,12 +13,32 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "17/11/2026 14:29:34",
-          "lat": -28.4685481,
-          "lon": -49.0190421
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "17/11/2026 14:45:34",
+          "lat": -28.4687005,
+          "lon": -49.018863
         },
-        "distancia_km": 178.2,
+        "distancia_km": 178.3,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000397-2",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2312.85,
+        "frete_rs": 5692.21,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "17/11/2026 14:45:34",
+          "lat": -28.4687005,
+          "lon": -49.018863
+        },
+        "distancia_km": 178.3,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "CRC": {
         "peso_kg": 471.3,
         "frete_rs": 881.03,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 2312.85,
+        "frete_rs": 5692.21,
         "qtde": 1
       }
     }
@@ -45,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:29:28",
-          "lat": -27.8238528,
-          "lon": -50.3629152
+          "data_hora_posicao": "17/11/2026 14:45:28",
+          "lat": -27.8238592,
+          "lon": -50.3629696
         },
         "distancia_km": null,
         "proximo": false
@@ -65,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:29:28",
-          "lat": -27.8238528,
-          "lon": -50.3629152
+          "data_hora_posicao": "17/11/2026 14:45:28",
+          "lat": -27.8238592,
+          "lon": -50.3629696
         },
         "distancia_km": null,
         "proximo": false
@@ -101,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:29:28",
-          "lat": -27.8238528,
-          "lon": -50.3629152
+          "data_hora_posicao": "17/11/2026 14:45:28",
+          "lat": -27.8238592,
+          "lon": -50.3629696
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -120,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.76 km de BASE LUDVIG ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 14:30:36",
-          "lat": -26.451424,
-          "lon": -48.8852384
+          "referencia": "1.86 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "17/11/2026 14:45:49",
+          "lat": -26.4935968,
+          "lon": -49.0012704
         },
-        "distancia_km": 113.1,
+        "distancia_km": 102.1,
         "proximo": false
       },
       {
@@ -141,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:29:28",
-          "lat": -27.8238528,
-          "lon": -50.3629152
+          "data_hora_posicao": "17/11/2026 14:45:28",
+          "lat": -27.8238592,
+          "lon": -50.3629696
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -181,10 +206,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 14:29:06",
-          "lat": -26.9032928,
-          "lon": -48.6823776
+          "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 14:45:06",
+          "lat": -26.9033504,
+          "lon": -48.682448
         },
         "distancia_km": null,
         "proximo": false
@@ -248,7 +273,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 14:29:32",
+          "data_hora_posicao": "17/11/2026 14:45:32",
           "lat": -29.146365,
           "lon": -51.1648066666667
         },
@@ -268,7 +293,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 14:29:32",
+          "data_hora_posicao": "17/11/2026 14:45:32",
           "lat": -29.146365,
           "lon": -51.1648066666667
         },
@@ -289,5 +314,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T14:32:44"
+  "_gerado_em": "2026-11-17T14:47:43"
 }
