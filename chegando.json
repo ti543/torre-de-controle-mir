@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.26 km de RESTAURANTE BICA DÁGUA - PALHOCA/SC",
-          "data_hora_posicao": "17/11/2026 16:33:08",
-          "lat": -27.7376075,
-          "lon": -48.639429
+          "referencia": "2.39 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "17/11/2026 17:02:47",
+          "lat": -27.4729965,
+          "lon": -48.7227515
         },
-        "distancia_km": 94.9,
+        "distancia_km": 65.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.26 km de RESTAURANTE BICA DÁGUA - PALHOCA/SC",
-          "data_hora_posicao": "17/11/2026 16:33:08",
-          "lat": -27.7376075,
-          "lon": -48.639429
+          "referencia": "2.39 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "17/11/2026 17:02:47",
+          "lat": -27.4729965,
+          "lon": -48.7227515
         },
-        "distancia_km": 94.9,
+        "distancia_km": 65.1,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 16:30:42",
+          "data_hora_posicao": "17/11/2026 17:02:46",
           "lat": -27.8238272,
-          "lon": -50.3627776
+          "lon": -50.3627808
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,13 +89,13 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.98 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "17/11/2026 16:33:02",
-          "lat": -26.963264,
-          "lon": -49.3314016
+          "referencia": "2.32 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "17/11/2026 17:02:36",
+          "lat": -27.061104,
+          "lon": -49.4127776
         },
-        "distancia_km": 41.5,
-        "proximo": false
+        "distancia_km": 28.5,
+        "proximo": true
       },
       {
         "manif": "POA016259-1",
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 16:30:42",
+          "data_hora_posicao": "17/11/2026 17:02:46",
           "lat": -27.8238272,
-          "lon": -50.3627776
+          "lon": -50.3627808
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -151,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 16:33:06",
+          "data_hora_posicao": "17/11/2026 17:01:06",
           "lat": -26.9032704,
           "lon": -48.6825088
         },
@@ -216,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.47 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "17/11/2026 16:31:10",
-          "lat": -29.3153333333333,
-          "lon": -51.3429016666667
+          "referencia": "3.01 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "17/11/2026 17:01:27",
+          "lat": -29.6102333333333,
+          "lon": -51.34669
         },
-        "distancia_km": 75.8,
+        "distancia_km": 44.3,
         "proximo": false
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.47 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "17/11/2026 16:31:10",
-          "lat": -29.3153333333333,
-          "lon": -51.3429016666667
+          "referencia": "3.01 km de POSTO RODOIL - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "17/11/2026 17:01:27",
+          "lat": -29.6102333333333,
+          "lon": -51.34669
         },
-        "distancia_km": 75.8,
+        "distancia_km": 44.3,
         "proximo": false
       }
     ],
@@ -258,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T17:03:14"
+  "_gerado_em": "2026-11-17T17:17:44"
 }
