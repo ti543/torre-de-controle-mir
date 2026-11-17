@@ -13,13 +13,13 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.4 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
-          "data_hora_posicao": "17/11/2026 17:28:13",
-          "lat": -27.2155728,
-          "lon": -48.6235203
+          "referencia": "0.18 km de POSTO VITÓRIA - ITAPEMA/SC",
+          "data_hora_posicao": "17/11/2026 17:44:13",
+          "lat": -27.1118133,
+          "lon": -48.6109148
         },
-        "distancia_km": 37.7,
-        "proximo": false
+        "distancia_km": 27.2,
+        "proximo": true
       },
       {
         "manif": "TUB000397-2",
@@ -33,13 +33,13 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.4 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
-          "data_hora_posicao": "17/11/2026 17:28:13",
-          "lat": -27.2155728,
-          "lon": -48.6235203
+          "referencia": "0.18 km de POSTO VITÓRIA - ITAPEMA/SC",
+          "data_hora_posicao": "17/11/2026 17:44:13",
+          "lat": -27.1118133,
+          "lon": -48.6109148
         },
-        "distancia_km": 37.7,
-        "proximo": false
+        "distancia_km": 27.2,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:29:28",
+          "data_hora_posicao": "17/11/2026 17:45:28",
           "lat": -27.82384,
-          "lon": -50.3627712
+          "lon": -50.3627776
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -90,7 +90,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "17/11/2026 17:28:58",
+          "data_hora_posicao": "17/11/2026 17:44:36",
           "lat": -27.1356064,
           "lon": -49.5435968
         },
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 17:29:28",
+          "data_hora_posicao": "17/11/2026 17:45:28",
           "lat": -27.82384,
-          "lon": -50.3627712
+          "lon": -50.3627776
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -151,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 17:29:06",
+          "data_hora_posicao": "17/11/2026 17:45:06",
           "lat": -26.9032704,
           "lon": -48.6825088
         },
@@ -216,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.15 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 17:29:18",
-          "lat": -29.8146733333333,
-          "lon": -51.16924
+          "referencia": "1.54 km de COMERCIAL ZAFFARI - LOJA 54 - CANOAS/RS",
+          "data_hora_posicao": "17/11/2026 17:43:34",
+          "lat": -29.9355066666667,
+          "lon": -51.2091983333333
         },
-        "distancia_km": 18.8,
+        "distancia_km": 5.7,
         "proximo": true
       },
       {
@@ -236,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de CIA DE BEBIDAS DAS AMERICAS - AMBEV - SAPUCAIA DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 17:29:18",
-          "lat": -29.8146733333333,
-          "lon": -51.16924
+          "referencia": "1.54 km de COMERCIAL ZAFFARI - LOJA 54 - CANOAS/RS",
+          "data_hora_posicao": "17/11/2026 17:43:34",
+          "lat": -29.9355066666667,
+          "lon": -51.2091983333333
         },
-        "distancia_km": 18.8,
+        "distancia_km": 5.7,
         "proximo": true
       }
     ],
@@ -258,5 +258,56 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T17:32:47"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044458-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 9690.17,
+        "frete_rs": 6052.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 17:45:04",
+          "lat": -27.2057632,
+          "lon": -49.6492448
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044459-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6060.56,
+        "frete_rs": 5056.42,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 17:45:04",
+          "lat": -27.2057632,
+          "lon": -49.6492448
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 15750.73,
+        "frete_rs": 11109.029999999999,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-17T17:47:40"
 }
