@@ -2,6 +2,46 @@
   "GRU": {
     "veiculos": [
       {
+        "manif": "CMP010420-5",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 1682.55,
+        "frete_rs": 6036.55,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "17/11/2026 19:14:55",
+          "lat": -22.8469683333333,
+          "lon": -47.1247183333333
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "CMP010421-3",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 4266.4,
+        "frete_rs": 8632.35,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "17/11/2026 19:14:55",
+          "lat": -22.8469683333333,
+          "lon": -47.1247183333333
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
         "manif": "CTB013623-9",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -13,12 +53,12 @@
         "frete_rs": 4877.29,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.19 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 19:00:53",
-          "lat": -25.5269056,
-          "lon": -49.297536
+          "referencia": "0.46 km de SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO PARANÁ - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 19:15:17",
+          "lat": -25.4557312,
+          "lon": -49.2482976
         },
-        "distancia_km": 366.8,
+        "distancia_km": 358.1,
         "proximo": false
       },
       {
@@ -33,12 +73,12 @@
         "frete_rs": 531.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.19 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 19:00:53",
-          "lat": -25.5269056,
-          "lon": -49.297536
+          "referencia": "0.46 km de SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO PARANÁ - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 19:15:17",
+          "lat": -25.4557312,
+          "lon": -49.2482976
         },
-        "distancia_km": 366.8,
+        "distancia_km": 358.1,
         "proximo": false
       },
       {
@@ -53,12 +93,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "17/11/2026 18:59:04",
-          "lat": -27.1224416,
-          "lon": -49.5359968
+          "referencia": "1.68 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "17/11/2026 19:15:04",
+          "lat": -27.0908864,
+          "lon": -49.4703232
         },
-        "distancia_km": 510.2,
+        "distancia_km": 503.5,
         "proximo": false
       },
       {
@@ -73,12 +113,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "17/11/2026 18:59:04",
-          "lat": -27.1224416,
-          "lon": -49.5359968
+          "referencia": "1.68 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "17/11/2026 19:15:04",
+          "lat": -27.0908864,
+          "lon": -49.4703232
         },
-        "distancia_km": 510.2,
+        "distancia_km": 503.5,
         "proximo": false
       },
       {
@@ -94,15 +134,35 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 19:00:08",
+          "data_hora_posicao": "17/11/2026 19:14:08",
           "lat": -27.2058816,
           "lon": -49.6489984
         },
         "distancia_km": 524.4,
         "proximo": false
+      },
+      {
+        "manif": "TBO016457-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 13769.83,
+        "frete_rs": 14157.98,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
+      "Campinas": {
+        "peso_kg": 5948.95,
+        "frete_rs": 14668.900000000001,
+        "qtde": 2
+      },
       "Curitiba": {
         "peso_kg": 2920.55,
         "frete_rs": 5409.27,
@@ -112,6 +172,11 @@
         "peso_kg": 48829.53,
         "frete_rs": 29389.469999999998,
         "qtde": 3
+      },
+      "Timbó": {
+        "peso_kg": 13769.83,
+        "frete_rs": 14157.98,
+        "qtde": 1
       }
     }
   },
@@ -129,12 +194,12 @@
         "frete_rs": 1354.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de PRTRAC - AUTORIZADA AUTOTRAC - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 19:00:11",
-          "lat": -25.553248,
-          "lon": -49.2769696
+          "referencia": "0.17 km de POSTO O CUPIM 02 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "17/11/2026 19:14:11",
+          "lat": -25.6086272,
+          "lon": -49.1721984
         },
-        "distancia_km": 158.4,
+        "distancia_km": 149.1,
         "proximo": false
       }
     ],
@@ -160,12 +225,12 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de PRTRAC - AUTORIZADA AUTOTRAC - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 19:00:11",
-          "lat": -25.553248,
-          "lon": -49.2769696
+          "referencia": "0.17 km de POSTO O CUPIM 02 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "17/11/2026 19:14:11",
+          "lat": -25.6086272,
+          "lon": -49.1721984
         },
-        "distancia_km": 187.5,
+        "distancia_km": 183.9,
         "proximo": false
       },
       {
@@ -180,12 +245,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 19:00:49",
-          "lat": -27.3013312,
-          "lon": -50.424752
+          "referencia": "2.4 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 19:03:28",
+          "lat": -27.3050848,
+          "lon": -50.3978592
         },
-        "distancia_km": 77.3,
+        "distancia_km": 74.8,
         "proximo": false
       },
       {
@@ -215,12 +280,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 19:00:49",
-          "lat": -27.3013312,
-          "lon": -50.424752
+          "referencia": "2.4 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 19:03:28",
+          "lat": -27.3050848,
+          "lon": -50.3978592
         },
-        "distancia_km": 77.3,
+        "distancia_km": 74.8,
         "proximo": false
       },
       {
@@ -235,12 +300,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 19:00:49",
-          "lat": -27.3013312,
-          "lon": -50.424752
+          "referencia": "2.4 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 19:03:28",
+          "lat": -27.3050848,
+          "lon": -50.3978592
         },
-        "distancia_km": 77.3,
+        "distancia_km": 74.8,
         "proximo": false
       },
       {
@@ -256,7 +321,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:59:30",
+          "data_hora_posicao": "17/11/2026 19:15:30",
           "lat": -29.9834304,
           "lon": -51.1869472
         },
@@ -322,7 +387,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 18:59:06",
+          "data_hora_posicao": "17/11/2026 19:15:06",
           "lat": -26.8876864,
           "lon": -48.720672
         },
@@ -379,7 +444,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:59:28",
+          "data_hora_posicao": "17/11/2026 19:15:28",
           "lat": -29.9834583333333,
           "lon": -51.1866833333333
         },
@@ -399,7 +464,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:59:28",
+          "data_hora_posicao": "17/11/2026 19:15:28",
           "lat": -29.9834583333333,
           "lon": -51.1866833333333
         },
@@ -435,7 +500,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:59:30",
+          "data_hora_posicao": "17/11/2026 19:15:30",
           "lat": -29.9834304,
           "lon": -51.1869472
         },
@@ -466,7 +531,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:59:30",
+          "data_hora_posicao": "17/11/2026 19:15:30",
           "lat": -29.9834304,
           "lon": -51.1869472
         },
@@ -482,5 +547,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T19:02:37"
+  "_gerado_em": "2026-11-17T19:17:39"
 }
