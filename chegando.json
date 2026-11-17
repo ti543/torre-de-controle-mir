@@ -13,13 +13,33 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 18:15:54",
-          "lat": -26.9194048,
-          "lon": -48.7089273
+          "referencia": "0.07 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:30:15",
+          "lat": -26.9096248,
+          "lon": -48.7131375
         },
-        "distancia_km": 3.7,
+        "distancia_km": 2.6,
         "proximo": true
+      },
+      {
+        "manif": "CTB013625-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 1022.84,
+        "frete_rs": 1354.22,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 18:30:11",
+          "lat": -25.527744,
+          "lon": -49.2954784
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "TUB000397-2",
@@ -33,12 +53,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 18:15:54",
-          "lat": -26.9194048,
-          "lon": -48.7089273
+          "referencia": "0.07 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:30:15",
+          "lat": -26.9096248,
+          "lon": -48.7131375
         },
-        "distancia_km": 3.7,
+        "distancia_km": 2.6,
         "proximo": true
       }
     ],
@@ -48,6 +68,11 @@
         "frete_rs": 881.03,
         "qtde": 1
       },
+      "Curitiba": {
+        "peso_kg": 1022.84,
+        "frete_rs": 1354.22,
+        "qtde": 1
+      },
       "TUB": {
         "peso_kg": 2312.85,
         "frete_rs": 5692.21,
@@ -55,8 +80,124 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CTB013623-9",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 2770.55,
+        "frete_rs": 4877.29,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 18:29:17",
+          "lat": -25.5277696,
+          "lon": -49.2954784
+        },
+        "distancia_km": 366.7,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013624-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 150.0,
+        "frete_rs": 531.98,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 18:29:17",
+          "lat": -25.5277696,
+          "lon": -49.2954784
+        },
+        "distancia_km": 366.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044458-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 9690.17,
+        "frete_rs": 6052.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.16 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 18:29:04",
+          "lat": -27.1716672,
+          "lon": -49.5796576
+        },
+        "distancia_km": 517.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044459-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6060.56,
+        "frete_rs": 5056.42,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.16 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 18:29:04",
+          "lat": -27.1716672,
+          "lon": -49.5796576
+        },
+        "distancia_km": 517.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 2920.55,
+        "frete_rs": 5409.27,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 15750.73,
+        "frete_rs": 11109.029999999999,
+        "qtde": 2
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013626-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 4220.86,
+        "frete_rs": 4095.49,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "17/11/2026 18:30:11",
+          "lat": -25.527744,
+          "lon": -49.2954784
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002245-4",
         "origin_unit": "CXS",
@@ -69,12 +210,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
-          "data_hora_posicao": "17/11/2026 18:16:00",
-          "lat": -27.685184,
-          "lon": -50.3349408
+          "referencia": "1.68 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:30:48",
+          "lat": -27.5364576,
+          "lon": -50.3757408
         },
-        "distancia_km": 86.1,
+        "distancia_km": 80.6,
         "proximo": false
       },
       {
@@ -104,12 +245,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
-          "data_hora_posicao": "17/11/2026 18:16:00",
-          "lat": -27.685184,
-          "lon": -50.3349408
+          "referencia": "1.68 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:30:48",
+          "lat": -27.5364576,
+          "lon": -50.3757408
         },
-        "distancia_km": 86.1,
+        "distancia_km": 80.6,
         "proximo": false
       },
       {
@@ -124,12 +265,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.32 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 08) - CORREIA PINTO/SC",
-          "data_hora_posicao": "17/11/2026 18:16:00",
-          "lat": -27.685184,
-          "lon": -50.3349408
+          "referencia": "1.68 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "17/11/2026 18:30:48",
+          "lat": -27.5364576,
+          "lon": -50.3757408
         },
-        "distancia_km": 86.1,
+        "distancia_km": 80.6,
         "proximo": false
       },
       {
@@ -145,7 +286,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:15:30",
+          "data_hora_posicao": "17/11/2026 18:29:30",
           "lat": -29.98352,
           "lon": -51.1869056
         },
@@ -169,6 +310,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4220.86,
+        "frete_rs": 4095.49,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 4500.51,
         "frete_rs": 6179.42,
@@ -205,54 +351,19 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.27 km de EXOLOGISTICA TRANSPORTADORA S/A - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 18:16:06",
-          "lat": -26.8939712,
-          "lon": -48.6817792
+          "referencia": "0.46 km de KLABIN S/A - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 18:29:06",
+          "lat": -26.8881088,
+          "lon": -48.7066656
         },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074745-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 4853.15,
-        "frete_rs": 10794.12,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024130-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 4739.6,
-        "frete_rs": 5146.12,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 8046.629999999999,
-        "frete_rs": 14568.210000000001,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 4739.6,
-        "frete_rs": 5146.12,
+        "peso_kg": 3193.48,
+        "frete_rs": 3774.09,
         "qtde": 1
       }
     }
@@ -272,7 +383,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:15:35",
+          "data_hora_posicao": "17/11/2026 18:29:35",
           "lat": -29.9834583333333,
           "lon": -51.1866833333333
         },
@@ -292,7 +403,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:15:35",
+          "data_hora_posicao": "17/11/2026 18:29:35",
           "lat": -29.9834583333333,
           "lon": -51.1866833333333
         },
@@ -328,7 +439,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:15:30",
+          "data_hora_posicao": "17/11/2026 18:29:30",
           "lat": -29.98352,
           "lon": -51.1869056
         },
@@ -359,7 +470,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 18:15:30",
+          "data_hora_posicao": "17/11/2026 18:29:30",
           "lat": -29.98352,
           "lon": -51.1869056
         },
@@ -375,56 +486,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044458-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 9690.17,
-        "frete_rs": 6052.61,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 18:15:04",
-          "lat": -27.205056,
-          "lon": -49.6412
-        },
-        "distancia_km": 523.9,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044459-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6060.56,
-        "frete_rs": 5056.42,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.3 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 18:15:04",
-          "lat": -27.205056,
-          "lon": -49.6412
-        },
-        "distancia_km": 523.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 15750.73,
-        "frete_rs": 11109.029999999999,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-17T18:17:53"
+  "_gerado_em": "2026-11-17T18:32:35"
 }
