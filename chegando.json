@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:28:56",
+          "data_hora_posicao": "17/11/2026 06:44:56",
           "lat": -27.2059583333333,
           "lon": -49.64886
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de O FAZENDEIRO - MIRACATU/SP",
-          "data_hora_posicao": "17/11/2026 06:30:36",
+          "data_hora_posicao": "17/11/2026 06:44:36",
           "lat": -24.257832,
           "lon": -47.3780128
         },
@@ -69,7 +69,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:28:56",
+          "data_hora_posicao": "17/11/2026 06:44:56",
           "lat": -27.2059583333333,
           "lon": -49.64886
         },
@@ -89,9 +89,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 06:29:28",
-          "lat": -29.146896,
-          "lon": -51.1647744
+          "data_hora_posicao": "17/11/2026 06:45:28",
+          "lat": -29.146928,
+          "lon": -51.1647616
         },
         "distancia_km": 262.0,
         "proximo": false
@@ -120,72 +120,6 @@
       }
     }
   },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074737-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 368.04,
-        "frete_rs": 1285.19,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074747-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 6560.57,
-        "frete_rs": 8822.73,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "17/11/2026 06:30:44",
-          "lat": -22.846905,
-          "lon": -47.1247916666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074748-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 322.1,
-        "frete_rs": 552.88,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "17/11/2026 06:30:44",
-          "lat": -22.846905,
-          "lon": -47.1247916666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 7250.71,
-        "frete_rs": 10660.8,
-        "qtde": 3
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -201,7 +135,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 06:29:42",
+          "data_hora_posicao": "17/11/2026 06:45:04",
           "lat": -26.8876576,
           "lon": -48.720688
         },
@@ -220,12 +154,12 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de CONCESSIONARIA SCANIA - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 06:29:06",
-          "lat": -26.2833456,
-          "lon": -48.8889984
+          "referencia": "0.8 km de CONCESSIONARIA VOLVO - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 06:45:06",
+          "lat": -26.4387888,
+          "lon": -48.8028384
         },
-        "distancia_km": 69.2,
+        "distancia_km": 50.5,
         "proximo": false
       },
       {
@@ -266,10 +200,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de CONCESSIONARIA SCANIA - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 06:29:06",
-          "lat": -26.2833456,
-          "lon": -48.8889984
+          "referencia": "0.8 km de CONCESSIONARIA VOLVO - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 06:45:06",
+          "lat": -26.4387888,
+          "lon": -48.8028384
         },
         "distancia_km": null,
         "proximo": false
@@ -298,107 +232,6 @@
       }
     }
   },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074743-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 2380.91,
-        "frete_rs": 2886.54,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 06:30:18",
-          "lat": -25.5275456,
-          "lon": -49.29552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024122-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 2169.18,
-        "frete_rs": 3080.72,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 06:30:11",
-          "lat": -25.5277008,
-          "lon": -49.2954784
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024123-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 276.38,
-        "frete_rs": 197.63,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 06:30:11",
-          "lat": -25.5277008,
-          "lon": -49.2954784
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044431-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 4253.47,
-        "frete_rs": 2607.78,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "17/11/2026 06:30:11",
-          "lat": -25.5277008,
-          "lon": -49.2954784
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 2380.91,
-        "frete_rs": 2886.54,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 2445.56,
-        "frete_rs": 3278.35,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 4253.47,
-        "frete_rs": 2607.78,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -414,7 +247,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 06:28:33",
+          "data_hora_posicao": "17/11/2026 06:44:33",
           "lat": -29.9834176,
           "lon": -51.1866784
         },
@@ -434,7 +267,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:25:29",
+          "data_hora_posicao": "17/11/2026 06:36:03",
           "lat": -27.3011466666667,
           "lon": -50.42352
         },
@@ -470,7 +303,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "17/11/2026 06:30:23",
+          "data_hora_posicao": "17/11/2026 06:42:23",
           "lat": -28.4685623,
           "lon": -49.0189468
         },
@@ -501,7 +334,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "17/11/2026 06:30:23",
+          "data_hora_posicao": "17/11/2026 06:42:23",
           "lat": -28.4685623,
           "lon": -49.0189468
         },
@@ -532,7 +365,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "17/11/2026 06:30:23",
+          "data_hora_posicao": "17/11/2026 06:42:23",
           "lat": -28.4685623,
           "lon": -49.0189468
         },
@@ -577,12 +410,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.81 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "17/11/2026 06:30:41",
-          "lat": -24.0082624,
-          "lon": -47.1598176
+          "referencia": "0.41 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "17/11/2026 06:44:26",
+          "lat": -23.9368976,
+          "lon": -47.0658144
         },
-        "distancia_km": 92.8,
+        "distancia_km": 80.4,
         "proximo": false
       },
       {
@@ -664,9 +497,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 06:29:28",
-          "lat": -29.146896,
-          "lon": -51.1647744
+          "data_hora_posicao": "17/11/2026 06:45:28",
+          "lat": -29.146928,
+          "lon": -51.1647616
         },
         "distancia_km": null,
         "proximo": false
@@ -684,7 +517,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:25:29",
+          "data_hora_posicao": "17/11/2026 06:36:03",
           "lat": -27.3011466666667,
           "lon": -50.42352
         },
@@ -720,9 +553,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 06:29:28",
-          "lat": -29.146896,
-          "lon": -51.1647744
+          "data_hora_posicao": "17/11/2026 06:45:28",
+          "lat": -29.146928,
+          "lon": -51.1647616
         },
         "distancia_km": null,
         "proximo": false
@@ -740,7 +573,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:25:29",
+          "data_hora_posicao": "17/11/2026 06:36:03",
           "lat": -27.3011466666667,
           "lon": -50.42352
         },
@@ -760,7 +593,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 06:25:29",
+          "data_hora_posicao": "17/11/2026 06:36:03",
           "lat": -27.3011466666667,
           "lon": -50.42352
         },
@@ -781,5 +614,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T06:32:43"
+  "_gerado_em": "2026-11-17T06:47:41"
 }
