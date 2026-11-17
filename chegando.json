@@ -13,12 +13,12 @@
         "frete_rs": 4406.31,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.61 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "16/11/2026 22:33:46",
-          "lat": -24.6124624,
-          "lon": -47.8848864
+          "referencia": "0.96 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
+          "data_hora_posicao": "16/11/2026 22:57:46",
+          "lat": -24.3704832,
+          "lon": -47.7008064
         },
-        "distancia_km": 192.3,
+        "distancia_km": 160.8,
         "proximo": false
       },
       {
@@ -33,12 +33,42 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "16/11/2026 22:45:16",
-          "lat": -25.8533936,
-          "lon": -48.9547616
+          "referencia": "2.06 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "16/11/2026 23:00:38",
+          "lat": -25.8461616,
+          "lon": -49.0914528
         },
-        "distancia_km": 365.6,
+        "distancia_km": 374.6,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044437-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 9725.44,
+        "frete_rs": 17936.68,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044438-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 18314.1,
+        "frete_rs": 13264.3,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -64,9 +94,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 31172.3,
-        "frete_rs": 16778.72,
-        "qtde": 1
+        "peso_kg": 59211.84,
+        "frete_rs": 47979.7,
+        "qtde": 3
       },
       "Timbó": {
         "peso_kg": 4838.56,
@@ -90,7 +120,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "16/11/2026 22:45:03",
+          "data_hora_posicao": "16/11/2026 22:59:03",
           "lat": -26.8874333333333,
           "lon": -48.7212266666667
         },
@@ -109,12 +139,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO SAKAMOTO 02 - GUARULHOS/SP",
-          "data_hora_posicao": "16/11/2026 22:44:36",
-          "lat": -23.4307664,
-          "lon": -46.4156672
+          "referencia": "0.4 km de POSTO SHELL - SUZANO - SUZANO/SP",
+          "data_hora_posicao": "16/11/2026 23:00:36",
+          "lat": -23.5251984,
+          "lon": -46.3285856
         },
-        "distancia_km": 530.9,
+        "distancia_km": 528.0,
         "proximo": false
       },
       {
@@ -145,9 +175,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:45:28",
-          "lat": -29.9833632,
-          "lon": -51.1868864
+          "data_hora_posicao": "16/11/2026 22:59:28",
+          "lat": -29.9833312,
+          "lon": -51.1869056
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -186,7 +216,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:45:59",
+          "data_hora_posicao": "16/11/2026 22:59:59",
           "lat": -29.9834432,
           "lon": -51.1867072
         },
@@ -206,7 +236,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:45:59",
+          "data_hora_posicao": "16/11/2026 22:59:59",
           "lat": -29.9834432,
           "lon": -51.1867072
         },
@@ -243,13 +273,53 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "GRU074747-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 6560.57,
+        "frete_rs": 8822.73,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 23:00:50",
+          "lat": -23.4707083333333,
+          "lon": -46.462145
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074748-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 322.1,
+        "frete_rs": 552.88,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "16/11/2026 23:00:50",
+          "lat": -23.4707083333333,
+          "lon": -46.462145
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 368.04,
-        "frete_rs": 1285.19,
-        "qtde": 1
+        "peso_kg": 7250.71,
+        "frete_rs": 10660.8,
+        "qtde": 3
       }
     }
   },
@@ -267,12 +337,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.27 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "16/11/2026 22:45:04",
-          "lat": -23.9378896,
-          "lon": -47.083104
+          "referencia": "0.38 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "16/11/2026 22:58:00",
+          "lat": -24.0391552,
+          "lon": -47.1929696
         },
-        "distancia_km": 366.9,
+        "distancia_km": 351.9,
         "proximo": false
       },
       {
@@ -287,12 +357,12 @@
         "frete_rs": 3238.06,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de PEDAGIO - P6 (MAUA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "16/11/2026 22:45:05",
-          "lat": -23.7157168,
-          "lon": -46.4647712
+          "referencia": "0.33 km de PRE - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "16/11/2026 22:59:05",
+          "lat": -23.7742848,
+          "lon": -46.6108896
         },
-        "distancia_km": 419.3,
+        "distancia_km": 405.9,
         "proximo": false
       },
       {
@@ -322,12 +392,12 @@
         "frete_rs": 2983.26,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.63 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "16/11/2026 22:44:11",
-          "lat": -26.914768,
-          "lon": -49.2801536
+          "referencia": "0.39 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 23:00:11",
+          "lat": -26.8765664,
+          "lon": -49.1263872
         },
-        "distancia_km": 55.5,
+        "distancia_km": 40.2,
         "proximo": false
       }
     ],
@@ -358,10 +428,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de PEDAGIO - P6 (MAUA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "16/11/2026 22:45:05",
-          "lat": -23.7157168,
-          "lon": -46.4647712
+          "referencia": "0.33 km de PRE - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "16/11/2026 22:59:05",
+          "lat": -23.7742848,
+          "lon": -46.6108896
         },
         "distancia_km": null,
         "proximo": false
@@ -404,12 +474,12 @@
         "frete_rs": 2886.54,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.77 km de PEDAGIO - P10 (SENTIDO RODOVIA PRESIDENTE DUTRA) - ARUJA/SP",
-          "data_hora_posicao": "16/11/2026 22:45:17",
-          "lat": -23.431616,
-          "lon": -46.355424
+          "referencia": "0.75 km de RODOBOX TRANSPORTES DE CARGAS LTDA - SUZANO/SP",
+          "data_hora_posicao": "16/11/2026 22:59:17",
+          "lat": -23.5914064,
+          "lon": -46.3485184
         },
-        "distancia_km": 377.9,
+        "distancia_km": 367.6,
         "proximo": false
       },
       {
@@ -424,12 +494,12 @@
         "frete_rs": 2607.78,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.63 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "16/11/2026 22:44:11",
-          "lat": -26.914768,
-          "lon": -49.2801536
+          "referencia": "0.39 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
+          "data_hora_posicao": "16/11/2026 23:00:11",
+          "lat": -26.8765664,
+          "lon": -49.1263872
         },
-        "distancia_km": 154.2,
+        "distancia_km": 150.9,
         "proximo": false
       }
     ],
@@ -461,9 +531,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:45:28",
-          "lat": -29.9833632,
-          "lon": -51.1868864
+          "data_hora_posicao": "16/11/2026 22:59:28",
+          "lat": -29.9833312,
+          "lon": -51.1869056
         },
         "distancia_km": null,
         "proximo": false
@@ -492,9 +562,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "16/11/2026 22:45:28",
-          "lat": -29.9833632,
-          "lon": -51.1868864
+          "data_hora_posicao": "16/11/2026 22:59:28",
+          "lat": -29.9833312,
+          "lon": -51.1869056
         },
         "distancia_km": null,
         "proximo": false
@@ -508,5 +578,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-16T22:47:37"
+  "_gerado_em": "2026-11-16T23:02:41"
 }
