@@ -13,10 +13,10 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.49 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 12:14:26",
-          "lat": -28.6237961,
-          "lon": -49.0800786
+          "referencia": "2.5 km de POSTO NAPOLI - JAGUARUNA/SC",
+          "data_hora_posicao": "17/11/2026 12:30:26",
+          "lat": -28.6238008,
+          "lon": -49.0801441
         },
         "distancia_km": 196.3,
         "proximo": false
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 12:15:04",
+          "data_hora_posicao": "17/11/2026 12:29:04",
           "lat": -26.8873504,
           "lon": -48.721488
         },
@@ -145,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.41 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "17/11/2026 12:14:36",
-          "lat": -25.4281488,
-          "lon": -49.0803808
+          "referencia": "0.18 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA (CD/ATACADO) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "17/11/2026 12:28:36",
+          "lat": -25.5652912,
+          "lon": -49.1622368
         },
-        "distancia_km": 205.7,
+        "distancia_km": 188.8,
         "proximo": false
       },
       {
@@ -222,7 +222,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 12:15:06",
+          "data_hora_posicao": "17/11/2026 12:29:06",
           "lat": -26.8875168,
           "lon": -48.7206944
         },
@@ -307,10 +307,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.49 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "17/11/2026 12:14:26",
-          "lat": -28.6237961,
-          "lon": -49.0800786
+          "referencia": "2.5 km de POSTO NAPOLI - JAGUARUNA/SC",
+          "data_hora_posicao": "17/11/2026 12:30:26",
+          "lat": -28.6238008,
+          "lon": -49.0801441
         },
         "distancia_km": null,
         "proximo": false
@@ -434,12 +434,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.22 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:12:04",
-          "lat": -28.8479116666667,
-          "lon": -51.2583183333333
+          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "17/11/2026 12:28:54",
+          "lat": -28.9180083333333,
+          "lon": -51.1827483333333
         },
-        "distancia_km": 126.4,
+        "distancia_km": 118.5,
         "proximo": false
       },
       {
@@ -454,12 +454,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.22 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:12:04",
-          "lat": -28.8479116666667,
-          "lon": -51.2583183333333
+          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "17/11/2026 12:28:54",
+          "lat": -28.9180083333333,
+          "lon": -51.1827483333333
         },
-        "distancia_km": 126.4,
+        "distancia_km": 118.5,
         "proximo": false
       }
     ],
@@ -490,10 +490,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.22 km de MECÂNICA VENTOR LTDA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "17/11/2026 12:12:04",
-          "lat": -28.8479116666667,
-          "lon": -51.2583183333333
+          "referencia": "1.51 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "17/11/2026 12:28:54",
+          "lat": -28.9180083333333,
+          "lon": -51.1827483333333
         },
         "distancia_km": null,
         "proximo": false
@@ -507,5 +507,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T12:17:40"
+  "_gerado_em": "2026-11-17T12:32:37"
 }
