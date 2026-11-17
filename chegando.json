@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.77 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "17/11/2026 15:00:07",
-          "lat": -28.4282483,
-          "lon": -48.9133558
+          "referencia": "0.01 km de POSTO SIM PARADOURO CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "17/11/2026 15:15:15",
+          "lat": -28.4231783,
+          "lon": -48.7981196
         },
-        "distancia_km": 172.4,
+        "distancia_km": 170.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 5692.21,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.77 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "17/11/2026 15:00:07",
-          "lat": -28.4282483,
-          "lon": -48.9133558
+          "referencia": "0.01 km de POSTO SIM PARADOURO CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "17/11/2026 15:15:15",
+          "lat": -28.4231783,
+          "lon": -48.7981196
         },
-        "distancia_km": 172.4,
+        "distancia_km": 170.9,
         "proximo": false
       }
     ],
@@ -51,62 +51,6 @@
       "TUB": {
         "peso_kg": 2312.85,
         "frete_rs": 5692.21,
-        "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002244-6",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 172.0,
-        "frete_rs": 247.17,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:59:28",
-          "lat": -27.82384,
-          "lon": -50.3629792
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016258-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 5833.48,
-        "frete_rs": 4476.14,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:59:28",
-          "lat": -27.82384,
-          "lon": -50.3629792
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 172.0,
-        "frete_rs": 247.17,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 5833.48,
-        "frete_rs": 4476.14,
         "qtde": 1
       }
     }
@@ -125,10 +69,10 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:59:28",
-          "lat": -27.82384,
-          "lon": -50.3629792
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 15:15:28",
+          "lat": -27.8238176,
+          "lon": -50.3628096
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +89,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.7 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
-          "data_hora_posicao": "17/11/2026 14:56:54",
-          "lat": -26.5712896,
-          "lon": -48.977792
+          "referencia": "5.33 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "17/11/2026 15:15:26",
+          "lat": -26.718288,
+          "lon": -49.0585664
         },
-        "distancia_km": 97.1,
+        "distancia_km": 79.8,
         "proximo": false
       },
       {
@@ -165,10 +109,10 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 14:59:28",
-          "lat": -27.82384,
-          "lon": -50.3629792
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 15:15:28",
+          "lat": -27.8238176,
+          "lon": -50.3628096
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -207,7 +151,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 14:59:06",
+          "data_hora_posicao": "17/11/2026 15:15:06",
           "lat": -26.90344,
           "lon": -48.6824448
         },
@@ -272,12 +216,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 14:59:32",
-          "lat": -29.146365,
-          "lon": -51.1648066666667
+          "referencia": "0.15 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:14:06",
+          "lat": -29.1493683333333,
+          "lon": -51.1824216666667
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.7,
         "proximo": false
       },
       {
@@ -292,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 14:59:32",
-          "lat": -29.146365,
-          "lon": -51.1648066666667
+          "referencia": "0.15 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "17/11/2026 15:14:06",
+          "lat": -29.1493683333333,
+          "lon": -51.1824216666667
         },
-        "distancia_km": 93.1,
+        "distancia_km": 92.7,
         "proximo": false
       }
     ],
@@ -314,5 +258,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T15:02:41"
+  "_gerado_em": "2026-11-17T15:17:38"
 }
