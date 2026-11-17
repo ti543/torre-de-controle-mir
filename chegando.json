@@ -13,12 +13,12 @@
         "frete_rs": 881.03,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.7 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "17/11/2026 11:44:48",
-          "lat": -28.6812775,
-          "lon": -49.144203
+          "referencia": "2.49 km de POSTO NAPOLI - JAGUARUNA/SC",
+          "data_hora_posicao": "17/11/2026 11:58:26",
+          "lat": -28.6237961,
+          "lon": -49.0800786
         },
-        "distancia_km": 203.8,
+        "distancia_km": 196.3,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 11:45:04",
+          "data_hora_posicao": "17/11/2026 11:59:04",
           "lat": -26.8873504,
           "lon": -48.721488
         },
@@ -145,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.46 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 11:45:31",
-          "lat": -25.1857872,
-          "lon": -48.8859648
+          "referencia": "2.23 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "17/11/2026 12:00:36",
+          "lat": -25.3078848,
+          "lon": -48.9822528
         },
-        "distancia_km": 237.2,
+        "distancia_km": 221.3,
         "proximo": false
       },
       {
@@ -222,7 +222,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 11:45:06",
+          "data_hora_posicao": "17/11/2026 11:59:06",
           "lat": -26.8875168,
           "lon": -48.7206944
         },
@@ -307,10 +307,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.7 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "17/11/2026 11:44:48",
-          "lat": -28.6812775,
-          "lon": -49.144203
+          "referencia": "2.49 km de POSTO NAPOLI - JAGUARUNA/SC",
+          "data_hora_posicao": "17/11/2026 11:58:26",
+          "lat": -28.6237961,
+          "lon": -49.0800786
         },
         "distancia_km": null,
         "proximo": false
@@ -434,12 +434,12 @@
         "frete_rs": 374.98,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.82 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "17/11/2026 11:36:36",
-          "lat": -28.6339266666667,
-          "lon": -51.0835116666667
+          "referencia": "6.35 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
+          "data_hora_posicao": "17/11/2026 11:58:53",
+          "lat": -28.764,
+          "lon": -51.2658133333333
         },
-        "distancia_km": 150.4,
+        "distancia_km": 135.8,
         "proximo": false
       },
       {
@@ -454,12 +454,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.82 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "17/11/2026 11:36:36",
-          "lat": -28.6339266666667,
-          "lon": -51.0835116666667
+          "referencia": "6.35 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
+          "data_hora_posicao": "17/11/2026 11:58:53",
+          "lat": -28.764,
+          "lon": -51.2658133333333
         },
-        "distancia_km": 150.4,
+        "distancia_km": 135.8,
         "proximo": false
       }
     ],
@@ -490,10 +490,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.82 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "17/11/2026 11:36:36",
-          "lat": -28.6339266666667,
-          "lon": -51.0835116666667
+          "referencia": "6.35 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
+          "data_hora_posicao": "17/11/2026 11:58:53",
+          "lat": -28.764,
+          "lon": -51.2658133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -507,5 +507,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T11:47:39"
+  "_gerado_em": "2026-11-17T12:02:43"
 }
