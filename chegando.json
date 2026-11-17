@@ -14,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 07:45:04",
+          "data_hora_posicao": "17/11/2026 07:59:04",
           "lat": -26.8876576,
           "lon": -48.720688
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.16 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 07:45:06",
+          "data_hora_posicao": "17/11/2026 07:59:06",
           "lat": -26.5550176,
           "lon": -48.7207232
         },
@@ -80,7 +80,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.16 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 07:45:06",
+          "data_hora_posicao": "17/11/2026 07:59:06",
           "lat": -26.5550176,
           "lon": -48.7207232
         },
@@ -101,6 +101,21 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044440-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3962.5,
+        "frete_rs": 1160.41,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -108,6 +123,11 @@
         "peso_kg": 8046.629999999999,
         "frete_rs": 14568.210000000001,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 3962.5,
+        "frete_rs": 1160.41,
+        "qtde": 1
       }
     }
   },
@@ -126,7 +146,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de O FAZENDEIRO - MIRACATU/SP",
-          "data_hora_posicao": "17/11/2026 07:44:36",
+          "data_hora_posicao": "17/11/2026 07:58:36",
           "lat": -24.257832,
           "lon": -47.3780128
         },
@@ -161,9 +181,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:43:28",
-          "lat": -29.1463808,
-          "lon": -51.1648832
+          "data_hora_posicao": "17/11/2026 07:59:28",
+          "lat": -29.1463712,
+          "lon": -51.1648672
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -197,7 +217,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 07:44:33",
+          "data_hora_posicao": "17/11/2026 07:56:33",
           "lat": -29.9834176,
           "lon": -51.1866784
         },
@@ -216,12 +236,12 @@
         "frete_rs": 1709.2,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:44:17",
-          "lat": -27.817875,
-          "lon": -50.3729566666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 07:58:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
         },
-        "distancia_km": 253.5,
+        "distancia_km": 253.2,
         "proximo": false
       }
     ],
@@ -252,10 +272,10 @@
         "frete_rs": 2141.22,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
-          "data_hora_posicao": "17/11/2026 07:44:48",
-          "lat": -28.7695011,
-          "lon": -49.3046428
+          "referencia": "0.46 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
+          "data_hora_posicao": "17/11/2026 07:59:42",
+          "lat": -28.8804958,
+          "lon": -49.459377
         },
         "distancia_km": null,
         "proximo": false
@@ -283,10 +303,10 @@
         "frete_rs": 4918.99,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
-          "data_hora_posicao": "17/11/2026 07:44:48",
-          "lat": -28.7695011,
-          "lon": -49.3046428
+          "referencia": "0.46 km de POSTO PERDIGÃO (SIMON) - MARACAJA/SC",
+          "data_hora_posicao": "17/11/2026 07:59:42",
+          "lat": -28.8804958,
+          "lon": -49.459377
         },
         "distancia_km": null,
         "proximo": false
@@ -329,12 +349,12 @@
         "frete_rs": 16778.72,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "17/11/2026 07:44:26",
-          "lat": -23.6362464,
-          "lon": -46.8316768
+          "referencia": "1.73 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "17/11/2026 07:58:26",
+          "lat": -23.738832,
+          "lon": -46.8136224
         },
-        "distancia_km": 41.9,
+        "distancia_km": 46.6,
         "proximo": false
       },
       {
@@ -416,9 +436,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:43:28",
-          "lat": -29.1463808,
-          "lon": -51.1648832
+          "data_hora_posicao": "17/11/2026 07:59:28",
+          "lat": -29.1463712,
+          "lon": -51.1648672
         },
         "distancia_km": null,
         "proximo": false
@@ -435,10 +455,10 @@
         "frete_rs": 5445.59,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:44:17",
-          "lat": -27.817875,
-          "lon": -50.3729566666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 07:58:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -472,9 +492,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 07:43:28",
-          "lat": -29.1463808,
-          "lon": -51.1648832
+          "data_hora_posicao": "17/11/2026 07:59:28",
+          "lat": -29.1463712,
+          "lon": -51.1648672
         },
         "distancia_km": null,
         "proximo": false
@@ -491,10 +511,10 @@
         "frete_rs": 4480.33,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:44:17",
-          "lat": -27.817875,
-          "lon": -50.3729566666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 07:58:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -511,10 +531,10 @@
         "frete_rs": 74.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 07:44:17",
-          "lat": -27.817875,
-          "lon": -50.3729566666667
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "17/11/2026 07:58:44",
+          "lat": -27.82383,
+          "lon": -50.3627683333333
         },
         "distancia_km": null,
         "proximo": false
@@ -533,5 +553,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T07:47:37"
+  "_gerado_em": "2026-11-17T08:02:41"
 }
