@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "17/11/2026 14:00:53",
+          "data_hora_posicao": "17/11/2026 14:13:34",
           "lat": -28.4685481,
           "lon": -49.0190421
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9335.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.75 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "17/11/2026 13:59:29",
-          "lat": -26.8352512,
-          "lon": -48.7494304
+          "referencia": "0.79 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "17/11/2026 14:15:04",
+          "lat": -26.8382944,
+          "lon": -48.7493632
         },
-        "distancia_km": 6.5,
+        "distancia_km": 6.1,
         "proximo": true
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 13:59:28",
-          "lat": -27.8238336,
-          "lon": -50.362912
+          "data_hora_posicao": "17/11/2026 14:15:28",
+          "lat": -27.8238624,
+          "lon": -50.3629152
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 13:59:28",
-          "lat": -27.8238336,
-          "lon": -50.362912
+          "data_hora_posicao": "17/11/2026 14:15:28",
+          "lat": -27.8238624,
+          "lon": -50.3629152
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 13:59:28",
-          "lat": -27.8238336,
-          "lon": -50.362912
+          "data_hora_posicao": "17/11/2026 14:15:28",
+          "lat": -27.8238624,
+          "lon": -50.3629152
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +145,12 @@
         "frete_rs": 10112.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO BAVÁRIA - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 14:00:36",
-          "lat": -26.211056,
-          "lon": -48.9158944
+          "referencia": "0.3 km de POSTO ZANDONÁ 05 - JOINVILLE/SC",
+          "data_hora_posicao": "17/11/2026 14:14:36",
+          "lat": -26.3594192,
+          "lon": -48.858976
         },
-        "distancia_km": 132.5,
+        "distancia_km": 122.6,
         "proximo": false
       },
       {
@@ -166,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "17/11/2026 13:59:28",
-          "lat": -27.8238336,
-          "lon": -50.362912
+          "data_hora_posicao": "17/11/2026 14:15:28",
+          "lat": -27.8238624,
+          "lon": -50.3629152
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -206,10 +206,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 13:59:06",
-          "lat": -26.8875168,
-          "lon": -48.7206944
+          "referencia": "0.79 km de FORT ATACADISTA FILIAL 225 - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 14:15:06",
+          "lat": -26.8880032,
+          "lon": -48.7022432
         },
         "distancia_km": null,
         "proximo": false
@@ -258,52 +258,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024124-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 11555.06,
-        "frete_rs": 13984.74,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016445-3",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 4838.56,
-        "frete_rs": 11326.17,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 11555.06,
-        "frete_rs": 13984.74,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 4838.56,
-        "frete_rs": 11326.17,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -319,7 +273,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 13:59:33",
+          "data_hora_posicao": "17/11/2026 14:15:33",
           "lat": -29.146365,
           "lon": -51.1648066666667
         },
@@ -339,7 +293,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "17/11/2026 13:59:33",
+          "data_hora_posicao": "17/11/2026 14:15:33",
           "lat": -29.146365,
           "lon": -51.1648066666667
         },
@@ -360,5 +314,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T14:02:38"
+  "_gerado_em": "2026-11-17T14:17:29"
 }
