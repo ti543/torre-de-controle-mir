@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 14:45:51",
+          "data_hora_posicao": "18/11/2026 14:59:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 14:45:51",
+          "data_hora_posicao": "18/11/2026 14:59:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -69,12 +69,12 @@
         "frete_rs": 548.64,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.42 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 14:45:21",
-          "lat": -29.1391872,
-          "lon": -51.2194848
+          "referencia": "0.74 km de CONCESSIONARIA MERCEDES BENZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 14:59:21",
+          "lat": -29.2016,
+          "lon": -51.2690784
         },
-        "distancia_km": 93.9,
+        "distancia_km": 87.3,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 14:45:27",
-          "lat": -26.8874208,
-          "lon": -48.7212608
+          "referencia": "0.02 km de POSTO RAFA - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 15:00:27",
+          "lat": -26.8844,
+          "lon": -48.6918368
         },
-        "distancia_km": 420.2,
+        "distancia_km": 422.2,
         "proximo": false
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de ESTRADA IMPLEMENTOS RODOVIÁRIOS - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 14:45:21",
-          "lat": -29.1391872,
-          "lon": -51.2194848
+          "referencia": "0.74 km de CONCESSIONARIA MERCEDES BENZ - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 14:59:21",
+          "lat": -29.2016,
+          "lon": -51.2690784
         },
-        "distancia_km": 93.9,
+        "distancia_km": 87.3,
         "proximo": false
       }
     ],
@@ -150,13 +150,13 @@
         "frete_rs": 153.26,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.95 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "18/11/2026 14:45:11",
-          "lat": -27.2490413,
-          "lon": -48.6310298
+          "referencia": "0.62 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
+          "data_hora_posicao": "18/11/2026 15:00:26",
+          "lat": -27.0858943,
+          "lon": -48.6079393
         },
-        "distancia_km": 41.2,
-        "proximo": false
+        "distancia_km": 24.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -182,7 +182,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.95 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 14:45:06",
+          "data_hora_posicao": "18/11/2026 14:59:06",
           "lat": -26.7716656,
           "lon": -49.0776736
         },
@@ -236,21 +236,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "ITJ024139-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 9810.73,
-        "frete_rs": 18892.68,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "RSL044458-8",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -262,12 +247,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.23 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
-          "data_hora_posicao": "18/11/2026 14:45:04",
-          "lat": -24.1374624,
-          "lon": -46.7070624
+          "referencia": "1.47 km de PADARIA 3 PRINCESAS - PRAIA GRANDE/SP",
+          "data_hora_posicao": "18/11/2026 14:59:04",
+          "lat": -24.0574176,
+          "lon": -46.5542816
         },
-        "distancia_km": 78.2,
+        "distancia_km": 65.9,
         "proximo": false
       },
       {
@@ -282,12 +267,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.23 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
-          "data_hora_posicao": "18/11/2026 14:45:04",
-          "lat": -24.1374624,
-          "lon": -46.7070624
+          "referencia": "1.47 km de PADARIA 3 PRINCESAS - PRAIA GRANDE/SP",
+          "data_hora_posicao": "18/11/2026 14:59:04",
+          "lat": -24.0574176,
+          "lon": -46.5542816
         },
-        "distancia_km": 78.2,
+        "distancia_km": 65.9,
         "proximo": false
       },
       {
@@ -302,45 +287,20 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 14:44:08",
-          "lat": -23.5147456,
-          "lon": -46.675216
+          "referencia": "0.34 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 15:00:08",
+          "lat": -23.5179488,
+          "lon": -46.6498304
         },
-        "distancia_km": 22.3,
+        "distancia_km": 19.8,
         "proximo": true
-      },
-      {
-        "manif": "TBO016457-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13769.83,
-        "frete_rs": 14157.98,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
-      "Itajaí": {
-        "peso_kg": 9810.73,
-        "frete_rs": 18892.68,
-        "qtde": 1
-      },
       "Rio do Sul": {
         "peso_kg": 48829.53,
         "frete_rs": 29389.469999999998,
         "qtde": 3
-      },
-      "Timbó": {
-        "peso_kg": 13769.83,
-        "frete_rs": 14157.98,
-        "qtde": 1
       }
     }
   },
@@ -358,10 +318,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de RESTAURANTE & CAFÉ COLONIAL JUNCKES - GASPAR/SC",
-          "data_hora_posicao": "18/11/2026 14:44:36",
-          "lat": -26.901184,
-          "lon": -48.9830368
+          "referencia": "0.08 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "18/11/2026 15:00:36",
+          "lat": -26.8537888,
+          "lon": -48.8068736
         },
         "distancia_km": null,
         "proximo": false
@@ -378,10 +338,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.37 km de RESTAURANTE & CAFÉ COLONIAL JUNCKES - GASPAR/SC",
-          "data_hora_posicao": "18/11/2026 14:44:36",
-          "lat": -26.901184,
-          "lon": -48.9830368
+          "referencia": "0.08 km de POSTO BOUTIQUE - ILHOTA/SC",
+          "data_hora_posicao": "18/11/2026 15:00:36",
+          "lat": -26.8537888,
+          "lon": -48.8068736
         },
         "distancia_km": null,
         "proximo": false
@@ -400,5 +360,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T14:47:35"
+  "_gerado_em": "2026-11-18T15:02:45"
 }
