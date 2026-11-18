@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.08 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 09:45:51",
+          "data_hora_posicao": "18/11/2026 09:59:51",
           "lat": -28.9079232,
           "lon": -51.1931104
         },
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.54 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 09:44:52",
-          "lat": -26.8237184,
-          "lon": -49.089264
+          "referencia": "0.33 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "18/11/2026 10:00:52",
+          "lat": -26.8763616,
+          "lon": -49.1205216
         },
-        "distancia_km": 69.9,
+        "distancia_km": 64.0,
         "proximo": false
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.08 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 09:45:51",
+          "data_hora_posicao": "18/11/2026 09:59:51",
           "lat": -28.9079232,
           "lon": -51.1931104
         },
@@ -109,10 +109,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 09:45:06",
-          "lat": -26.8874272,
-          "lon": -48.7211296
+          "referencia": "0.34 km de RODAN TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 09:55:06",
+          "lat": -26.8460096,
+          "lon": -48.7212288
         },
         "distancia_km": null,
         "proximo": false
@@ -144,10 +144,10 @@
         "frete_rs": 689.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 09:44:36",
-          "lat": -27.2060864,
-          "lon": -49.64936
+          "referencia": "1.14 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 10:00:36",
+          "lat": -27.1850464,
+          "lon": -49.6045568
         },
         "distancia_km": null,
         "proximo": false
@@ -180,12 +180,12 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "18/11/2026 09:44:27",
-          "lat": -26.7887328,
-          "lon": -48.6817888
+          "referencia": "0.18 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "18/11/2026 10:00:27",
+          "lat": -26.81472,
+          "lon": -48.683392
         },
-        "distancia_km": 11.7,
+        "distancia_km": 8.9,
         "proximo": true
       },
       {
@@ -226,33 +226,13 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "18/11/2026 09:44:27",
-          "lat": -26.7887328,
-          "lon": -48.6817888
+          "referencia": "0.18 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
+          "data_hora_posicao": "18/11/2026 10:00:27",
+          "lat": -26.81472,
+          "lon": -48.683392
         },
-        "distancia_km": 431.5,
+        "distancia_km": 429.0,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024135-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 8963.76,
-        "frete_rs": 14632.7,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 09:45:36",
-          "lat": -29.9834016,
-          "lon": -51.1867072
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "RSL044476-6",
@@ -266,12 +246,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.17 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 09:45:21",
-          "lat": -28.3875936,
-          "lon": -50.8455584
+          "referencia": "0.03 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 09:59:21",
+          "lat": -28.508048,
+          "lon": -50.92808
         },
-        "distancia_km": 180.5,
+        "distancia_km": 166.0,
         "proximo": false
       }
     ],
@@ -279,11 +259,6 @@
       "Guarulhos": {
         "peso_kg": 8392.42,
         "frete_rs": 17114.44,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 8963.76,
-        "frete_rs": 14632.7,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -307,10 +282,10 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de LITENS AUTOMOTIVE DO BRASIL LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "18/11/2026 09:46:07",
-          "lat": -23.0452116,
-          "lon": -46.6733585
+          "referencia": "0.31 km de THR INDUSTRIA E COMERCIO DE EMBALAGENS LTDA - ITATIBA/SP",
+          "data_hora_posicao": "18/11/2026 10:00:58",
+          "lat": -23.0233433,
+          "lon": -46.7524145
         },
         "distancia_km": null,
         "proximo": false
@@ -327,10 +302,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 09:44:36",
-          "lat": -27.2060864,
-          "lon": -49.64936
+          "referencia": "1.14 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 10:00:36",
+          "lat": -27.1850464,
+          "lon": -49.6045568
         },
         "distancia_km": null,
         "proximo": false
@@ -363,12 +338,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 09:45:05",
-          "lat": -23.5164064,
-          "lon": -46.8123424
+          "referencia": "0.23 km de TOTALTEC - AUTORIZADA AUTOTRAC - OSASCO/SP",
+          "data_hora_posicao": "18/11/2026 10:01:05",
+          "lat": -23.5145344,
+          "lon": -46.7968704
         },
-        "distancia_km": 36.1,
+        "distancia_km": 34.5,
         "proximo": false
       },
       {
@@ -383,12 +358,12 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de PEDAGIO - PRACA 07 (CASTELO INTERNA) - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 09:45:05",
-          "lat": -23.5164064,
-          "lon": -46.8123424
+          "referencia": "0.23 km de TOTALTEC - AUTORIZADA AUTOTRAC - OSASCO/SP",
+          "data_hora_posicao": "18/11/2026 10:01:05",
+          "lat": -23.5145344,
+          "lon": -46.7968704
         },
-        "distancia_km": 36.1,
+        "distancia_km": 34.5,
         "proximo": false
       },
       {
@@ -418,12 +393,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 09:36:31",
-          "lat": -24.9609472,
-          "lon": -48.3383552
+          "referencia": "0.7 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 09:57:04",
+          "lat": -24.9262656,
+          "lon": -48.2669856
         },
-        "distancia_km": 252.3,
+        "distancia_km": 244.3,
         "proximo": false
       },
       {
@@ -438,12 +413,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 09:36:31",
-          "lat": -24.9609472,
-          "lon": -48.3383552
+          "referencia": "0.7 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 09:57:04",
+          "lat": -24.9262656,
+          "lon": -48.2669856
         },
-        "distancia_km": 252.3,
+        "distancia_km": 244.3,
         "proximo": false
       },
       {
@@ -459,7 +434,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "3.93 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 09:36:30",
+          "data_hora_posicao": "18/11/2026 09:56:30",
           "lat": -24.9696256,
           "lon": -48.365184
         },
@@ -545,7 +520,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.08 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 09:45:51",
+          "data_hora_posicao": "18/11/2026 09:59:51",
           "lat": -28.9079232,
           "lon": -51.1931104
         },
@@ -575,10 +550,10 @@
         "frete_rs": 2094.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.94 km de POSTO CELEIRO 01 - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "18/11/2026 09:32:37",
-          "lat": -27.3932266666667,
-          "lon": -51.19328
+          "referencia": "0.88 km de BRF UNIDADE DE CAMPOS NOVOS - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "18/11/2026 09:59:16",
+          "lat": -27.3631733333333,
+          "lon": -51.3088533333333
         },
         "distancia_km": null,
         "proximo": false
@@ -606,10 +581,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.17 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 09:45:21",
-          "lat": -28.3875936,
-          "lon": -50.8455584
+          "referencia": "0.03 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 09:59:21",
+          "lat": -28.508048,
+          "lon": -50.92808
         },
         "distancia_km": null,
         "proximo": false
@@ -626,10 +601,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "10.17 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 09:45:21",
-          "lat": -28.3875936,
-          "lon": -50.8455584
+          "referencia": "0.03 km de CONCESSIONARIA SCANIA - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 09:59:21",
+          "lat": -28.508048,
+          "lon": -50.92808
         },
         "distancia_km": null,
         "proximo": false
@@ -643,5 +618,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T09:47:55"
+  "_gerado_em": "2026-11-18T10:02:42"
 }
