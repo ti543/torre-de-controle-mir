@@ -1,4 +1,100 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010430-2",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 4869.62,
+        "frete_rs": 10543.81,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "18/11/2026 18:21:07",
+          "lat": -22.8469666666667,
+          "lon": -47.124745
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044458-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 9690.17,
+        "frete_rs": 6052.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.43 km de AMBIPAR - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 18:31:04",
+          "lat": -23.46176,
+          "lon": -46.4896928
+        },
+        "distancia_km": 3.0,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044459-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6060.56,
+        "frete_rs": 5056.42,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.43 km de AMBIPAR - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 18:31:04",
+          "lat": -23.46176,
+          "lon": -46.4896928
+        },
+        "distancia_km": 3.0,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044491-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:30:11",
+          "lat": -27.2060704,
+          "lon": -49.6493504
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 4869.62,
+        "frete_rs": 10543.81,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 35776.130000000005,
+        "frete_rs": 22103.309999999998,
+        "qtde": 3
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -13,12 +109,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
-          "data_hora_posicao": "18/11/2026 18:05:51",
-          "lat": -27.4683424,
-          "lon": -50.384736
+          "referencia": "2.25 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:25:51",
+          "lat": -27.3047136,
+          "lon": -50.3993696
         },
-        "distancia_km": 78.2,
+        "distancia_km": 74.9,
         "proximo": false
       },
       {
@@ -33,12 +129,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.56 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 18:14:53",
-          "lat": -24.0095104,
-          "lon": -47.1618848
+          "referencia": "0.16 km de ESTACIONAMENTO TIO NELSON (POSTO RUFF) - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 18:18:26",
+          "lat": -24.0367376,
+          "lon": -47.1883904
         },
-        "distancia_km": 434.2,
+        "distancia_km": 430.2,
         "proximo": false
       },
       {
@@ -53,12 +149,12 @@
         "frete_rs": 1547.86,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
-          "data_hora_posicao": "18/11/2026 18:05:51",
-          "lat": -27.4683424,
-          "lon": -50.384736
+          "referencia": "2.25 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:25:51",
+          "lat": -27.3047136,
+          "lon": -50.3993696
         },
-        "distancia_km": 78.2,
+        "distancia_km": 74.9,
         "proximo": false
       },
       {
@@ -73,12 +169,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
-          "data_hora_posicao": "18/11/2026 18:05:51",
-          "lat": -27.4683424,
-          "lon": -50.384736
+          "referencia": "2.25 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:25:51",
+          "lat": -27.3047136,
+          "lon": -50.3993696
         },
-        "distancia_km": 78.2,
+        "distancia_km": 74.9,
         "proximo": false
       },
       {
@@ -94,9 +190,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:14:25",
-          "lat": -29.9839333333333,
-          "lon": -51.1869733333333
+          "data_hora_posicao": "18/11/2026 18:29:16",
+          "lat": -29.9837216666667,
+          "lon": -51.186985
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -135,9 +231,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:15:21",
-          "lat": -29.9834016,
-          "lon": -51.186624
+          "data_hora_posicao": "18/11/2026 18:29:21",
+          "lat": -29.9834176,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -155,7 +251,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:14:27",
+          "data_hora_posicao": "18/11/2026 18:30:27",
           "lat": -26.88736,
           "lon": -48.7212
         },
@@ -175,9 +271,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:15:21",
-          "lat": -29.9834016,
-          "lon": -51.186624
+          "data_hora_posicao": "18/11/2026 18:29:21",
+          "lat": -29.9834176,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -216,7 +312,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:15:06",
+          "data_hora_posicao": "18/11/2026 18:29:06",
           "lat": -26.8876544,
           "lon": -48.7207168
         },
@@ -261,10 +357,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 18:12:36",
-          "lat": -25.8535232,
-          "lon": -48.98096
+          "referencia": "0.62 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:30:36",
+          "lat": -25.7834752,
+          "lon": -49.120976
         },
         "distancia_km": null,
         "proximo": false
@@ -281,10 +377,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 18:12:36",
-          "lat": -25.8535232,
-          "lon": -48.98096
+          "referencia": "0.62 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:30:36",
+          "lat": -25.7834752,
+          "lon": -49.120976
         },
         "distancia_km": null,
         "proximo": false
@@ -301,10 +397,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 18:12:36",
-          "lat": -25.8535232,
-          "lon": -48.98096
+          "referencia": "0.62 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:30:36",
+          "lat": -25.7834752,
+          "lon": -49.120976
         },
         "distancia_km": null,
         "proximo": false
@@ -347,10 +443,10 @@
         "frete_rs": 2914.58,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de PATIO PASETTO - ITAJAI - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:15:28",
-          "lat": -26.906506,
-          "lon": -48.7145975
+          "referencia": "1.55 km de BOMI  ITAJAI SC - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 18:30:37",
+          "lat": -26.9573406,
+          "lon": -48.7669391
         },
         "distancia_km": null,
         "proximo": false
@@ -379,7 +475,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:15:36",
+          "data_hora_posicao": "18/11/2026 18:29:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
@@ -399,7 +495,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 18:14:22",
+          "data_hora_posicao": "18/11/2026 18:30:22",
           "lat": -27.2058208,
           "lon": -49.6497664
         },
@@ -419,7 +515,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 18:14:11",
+          "data_hora_posicao": "18/11/2026 18:30:11",
           "lat": -27.2060704,
           "lon": -49.6493504
         },
@@ -455,9 +551,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:14:25",
-          "lat": -29.9839333333333,
-          "lon": -51.1869733333333
+          "data_hora_posicao": "18/11/2026 18:29:16",
+          "lat": -29.9837216666667,
+          "lon": -51.186985
         },
         "distancia_km": null,
         "proximo": false
@@ -471,76 +567,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044458-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 9690.17,
-        "frete_rs": 6052.61,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.6 km de CONTINENTAL BRASIL INDÚSTRIA AUTOMOTIVA LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 18:15:04",
-          "lat": -23.4953312,
-          "lon": -46.5546912
-        },
-        "distancia_km": 9.8,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044459-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6060.56,
-        "frete_rs": 5056.42,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.6 km de CONTINENTAL BRASIL INDÚSTRIA AUTOMOTIVA LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 18:15:04",
-          "lat": -23.4953312,
-          "lon": -46.5546912
-        },
-        "distancia_km": 9.8,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044491-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 18:14:11",
-          "lat": -27.2060704,
-          "lon": -49.6493504
-        },
-        "distancia_km": 524.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 35776.130000000005,
-        "frete_rs": 22103.309999999998,
-        "qtde": 3
-      }
-    }
-  },
-  "_gerado_em": "2026-11-18T18:17:35"
+  "_gerado_em": "2026-11-18T18:32:40"
 }
