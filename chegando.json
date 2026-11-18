@@ -13,12 +13,12 @@
         "frete_rs": 11341.08,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.37 km de FH LOG - BRUSQUE - BRUSQUE/SC",
-          "data_hora_posicao": "18/11/2026 20:15:05",
-          "lat": -27.0567305,
-          "lon": -48.8781261
+          "referencia": "4.4 km de VALLE DORO - ILHOTA/SC",
+          "data_hora_posicao": "18/11/2026 20:29:11",
+          "lat": -26.979771,
+          "lon": -48.7989506
         },
-        "distancia_km": 24.4,
+        "distancia_km": 12.8,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 1966.59,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "18/11/2026 20:15:12",
-          "lat": -25.8634183333333,
-          "lon": -48.9359366666667
+          "referencia": "0.36 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "18/11/2026 20:30:02",
+          "lat": -26.008035,
+          "lon": -48.8650283333333
         },
-        "distancia_km": 115.9,
+        "distancia_km": 98.8,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:15:36",
+          "data_hora_posicao": "18/11/2026 20:29:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
@@ -73,12 +73,27 @@
         "frete_rs": 2205.93,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 20:14:11",
-          "lat": -26.8724928,
-          "lon": -49.1130112
+          "referencia": "0.41 km de POSTO ESTRELA - GASPAR/SC",
+          "data_hora_posicao": "18/11/2026 20:30:11",
+          "lat": -26.9138848,
+          "lon": -48.9665312
         },
-        "distancia_km": 38.9,
+        "distancia_km": 24.5,
+        "proximo": true
+      },
+      {
+        "manif": "TBO016473-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 175.5,
+        "frete_rs": 401.58,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -102,6 +117,11 @@
         "peso_kg": 2531.63,
         "frete_rs": 2205.93,
         "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 175.5,
+        "frete_rs": 401.58,
+        "qtde": 1
       }
     }
   },
@@ -119,13 +139,13 @@
         "frete_rs": 10543.81,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.27 km de GARAGEM CLIENTE PARIZOTTO TRANSPORTES - ATIBAIA/SP",
-          "data_hora_posicao": "18/11/2026 20:14:23",
-          "lat": -23.15056,
-          "lon": -46.5745666666667
+          "referencia": "1.96 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
+          "data_hora_posicao": "18/11/2026 20:29:05",
+          "lat": -23.28095,
+          "lon": -46.5867583333333
         },
-        "distancia_km": 37.4,
-        "proximo": false
+        "distancia_km": 24.6,
+        "proximo": true
       },
       {
         "manif": "CTB013635-2",
@@ -140,7 +160,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 20:15:46",
+          "data_hora_posicao": "18/11/2026 20:30:48",
           "lat": -25.3506752,
           "lon": -49.060096
         },
@@ -159,12 +179,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
-          "data_hora_posicao": "18/11/2026 20:15:06",
-          "lat": -26.810056,
-          "lon": -48.6826624
+          "referencia": "0.18 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 20:29:43",
+          "lat": -26.6470496,
+          "lon": -48.6868704
         },
-        "distancia_km": 433.4,
+        "distancia_km": 418.3,
         "proximo": false
       },
       {
@@ -179,12 +199,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de BENDINI - OPERADOR LOGÍSTICO - PENHA/SC",
-          "data_hora_posicao": "18/11/2026 20:15:06",
-          "lat": -26.810056,
-          "lon": -48.6826624
+          "referencia": "0.18 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 20:29:43",
+          "lat": -26.6470496,
+          "lon": -48.6868704
         },
-        "distancia_km": 433.4,
+        "distancia_km": 418.3,
         "proximo": false
       },
       {
@@ -199,12 +219,27 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 20:14:11",
-          "lat": -26.8724928,
-          "lon": -49.1130112
+          "referencia": "0.41 km de POSTO ESTRELA - GASPAR/SC",
+          "data_hora_posicao": "18/11/2026 20:30:11",
+          "lat": -26.9138848,
+          "lon": -48.9665312
         },
-        "distancia_km": 462.8,
+        "distancia_km": 458.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016472-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 11975.31,
+        "frete_rs": 14932.03,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -228,6 +263,11 @@
         "peso_kg": 20025.4,
         "frete_rs": 10994.28,
         "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 11975.31,
+        "frete_rs": 14932.03,
+        "qtde": 1
       }
     }
   },
@@ -245,12 +285,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "18/11/2026 20:15:12",
-          "lat": -25.8634183333333,
-          "lon": -48.9359366666667
+          "referencia": "0.36 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "18/11/2026 20:30:02",
+          "lat": -26.008035,
+          "lon": -48.8650283333333
         },
-        "distancia_km": 165.3,
+        "distancia_km": 154.4,
         "proximo": false
       },
       {
@@ -265,12 +305,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.22 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "18/11/2026 20:15:20",
-          "lat": -24.75224,
-          "lon": -48.1566176
+          "referencia": "0.03 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 20:30:26",
+          "lat": -24.7794672,
+          "lon": -48.1856544
         },
-        "distancia_km": 311.0,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -286,7 +326,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:14:33",
+          "data_hora_posicao": "18/11/2026 20:30:33",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -347,9 +387,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:15:21",
-          "lat": -29.9834368,
-          "lon": -51.1866272
+          "data_hora_posicao": "18/11/2026 20:29:21",
+          "lat": -29.9834304,
+          "lon": -51.1866368
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -366,10 +406,10 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 20:14:27",
-          "lat": -26.8873952,
-          "lon": -48.7212416
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 20:30:27",
+          "lat": -26.8874112,
+          "lon": -48.7214752
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -387,9 +427,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:15:21",
-          "lat": -29.9834368,
-          "lon": -51.1866272
+          "data_hora_posicao": "18/11/2026 20:29:21",
+          "lat": -29.9834304,
+          "lon": -51.1866368
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -442,10 +482,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "18/11/2026 20:14:36",
-          "lat": -25.1766464,
-          "lon": -48.8760672
+          "referencia": "2.35 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "18/11/2026 20:30:36",
+          "lat": -25.1120336,
+          "lon": -48.7701216
         },
         "distancia_km": null,
         "proximo": false
@@ -462,10 +502,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "18/11/2026 20:14:36",
-          "lat": -25.1766464,
-          "lon": -48.8760672
+          "referencia": "2.35 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "18/11/2026 20:30:36",
+          "lat": -25.1120336,
+          "lon": -48.7701216
         },
         "distancia_km": null,
         "proximo": false
@@ -482,10 +522,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "18/11/2026 20:14:36",
-          "lat": -25.1766464,
-          "lon": -48.8760672
+          "referencia": "2.35 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "18/11/2026 20:30:36",
+          "lat": -25.1120336,
+          "lon": -48.7701216
         },
         "distancia_km": null,
         "proximo": false
@@ -529,7 +569,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:14:33",
+          "data_hora_posicao": "18/11/2026 20:30:33",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -545,5 +585,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T20:17:38"
+  "_gerado_em": "2026-11-18T20:32:37"
 }
