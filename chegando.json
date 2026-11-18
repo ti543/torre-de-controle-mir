@@ -1,230 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CTB013623-9",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 2770.55,
-        "frete_rs": 4877.29,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.07 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 01:29:17",
-          "lat": -23.4575424,
-          "lon": -46.4726976
-        },
-        "distancia_km": 1.8,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013624-7",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 150.0,
-        "frete_rs": 531.98,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.07 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 01:29:17",
-          "lat": -23.4575424,
-          "lon": -46.4726976
-        },
-        "distancia_km": 1.8,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024132-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 9862.26,
-        "frete_rs": 9934.77,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.89 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 01:29:05",
-          "lat": -25.386112,
-          "lon": -49.0535584
-        },
-        "distancia_km": 337.9,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024133-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 3866.0,
-        "frete_rs": 9814.7,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.89 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 01:29:05",
-          "lat": -25.386112,
-          "lon": -49.0535584
-        },
-        "distancia_km": 337.9,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024139-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 9810.73,
-        "frete_rs": 18892.68,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044458-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 9690.17,
-        "frete_rs": 6052.61,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 01:29:04",
-          "lat": -25.657552,
-          "lon": -49.1553664
-        },
-        "distancia_km": 365.1,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044459-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6060.56,
-        "frete_rs": 5056.42,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 01:29:04",
-          "lat": -25.657552,
-          "lon": -49.1553664
-        },
-        "distancia_km": 365.1,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044460-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 33078.8,
-        "frete_rs": 18280.44,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.53 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 01:31:00",
-          "lat": -25.1801504,
-          "lon": -48.8795424
-        },
-        "distancia_km": 310.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044467-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 8305.8,
-        "frete_rs": 15176.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044468-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 20080.1,
-        "frete_rs": 12946.74,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016457-7",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13769.83,
-        "frete_rs": 14157.98,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 2920.55,
-        "frete_rs": 5409.27,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 23538.989999999998,
-        "frete_rs": 38642.15,
-        "qtde": 3
-      },
-      "Rio do Sul": {
-        "peso_kg": 77215.43,
-        "frete_rs": 57512.52999999999,
-        "qtde": 5
-      },
-      "Timbó": {
-        "peso_kg": 13769.83,
-        "frete_rs": 14157.98,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -239,12 +13,12 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 01:30:11",
-          "lat": -27.0868352,
-          "lon": -49.4768224
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "18/11/2026 01:45:36",
+          "lat": -27.135776,
+          "lon": -49.5436416
         },
-        "distancia_km": 21.6,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -274,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.36 km de AUTO POSTO RUFF - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 01:19:50",
-          "lat": -24.0389264,
-          "lon": -47.192864
+          "referencia": "0.39 km de MECANICA LLN - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 01:41:55",
+          "lat": -24.1834032,
+          "lon": -47.356864
         },
-        "distancia_km": 429.7,
+        "distancia_km": 407.1,
         "proximo": false
       },
       {
@@ -294,12 +68,12 @@
         "frete_rs": 4635.35,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 01:30:11",
-          "lat": -27.0868352,
-          "lon": -49.4768224
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "18/11/2026 01:45:36",
+          "lat": -27.135776,
+          "lon": -49.5436416
         },
-        "distancia_km": 21.6,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -315,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:29:56",
+          "data_hora_posicao": "18/11/2026 01:41:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -361,9 +135,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:29:06",
-          "lat": -26.8876864,
-          "lon": -48.720672
+          "data_hora_posicao": "18/11/2026 01:45:06",
+          "lat": -26.8876928,
+          "lon": -48.7206688
         },
         "distancia_km": null,
         "proximo": false
@@ -422,9 +196,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 01:30:42",
-          "lat": -22.8469216666667,
-          "lon": -47.124785
+          "data_hora_posicao": "18/11/2026 01:44:11",
+          "lat": -22.8469266666667,
+          "lon": -47.1247783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -452,12 +226,12 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.71 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 01:28:27",
-          "lat": -24.5686144,
-          "lon": -47.8782464
+          "referencia": "0.28 km de POSTO JACUPIRANGA (477) - JACUPIRANGA/SP",
+          "data_hora_posicao": "18/11/2026 01:44:38",
+          "lat": -24.6977296,
+          "lon": -48.0024608
         },
-        "distancia_km": 271.3,
+        "distancia_km": 253.9,
         "proximo": false
       },
       {
@@ -498,12 +272,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.71 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 01:28:27",
-          "lat": -24.5686144,
-          "lon": -47.8782464
+          "referencia": "0.28 km de POSTO JACUPIRANGA (477) - JACUPIRANGA/SP",
+          "data_hora_posicao": "18/11/2026 01:44:38",
+          "lat": -24.6977296,
+          "lon": -48.0024608
         },
-        "distancia_km": 685.0,
+        "distancia_km": 666.5,
         "proximo": false
       },
       {
@@ -518,10 +292,10 @@
         "frete_rs": 14632.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:29:55",
-          "lat": -26.8875712,
-          "lon": -48.7208096
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 01:45:49",
+          "lat": -26.8875552,
+          "lon": -48.720704
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -539,7 +313,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 01:29:23",
+          "data_hora_posicao": "18/11/2026 01:45:23",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -559,7 +333,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 01:29:23",
+          "data_hora_posicao": "18/11/2026 01:45:23",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -604,12 +378,12 @@
         "frete_rs": 8644.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.74 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 01:29:46",
-          "lat": -24.4492784,
-          "lon": -47.8071648
+          "referencia": "0.29 km de POSTO IPIRANGA- MENEGHETI - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "18/11/2026 01:45:46",
+          "lat": -24.6303888,
+          "lon": -47.9040224
         },
-        "distancia_km": 192.0,
+        "distancia_km": 172.0,
         "proximo": false
       },
       {
@@ -624,12 +398,12 @@
         "frete_rs": 7774.33,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:30:48",
-          "lat": -26.88734,
-          "lon": -48.7211416666667
+          "referencia": "0.68 km de POSTO ZANDONÁ 14 - PENHA/SC",
+          "data_hora_posicao": "18/11/2026 01:44:40",
+          "lat": -26.8344383333333,
+          "lon": -48.69841
         },
-        "distancia_km": 161.7,
+        "distancia_km": 157.0,
         "proximo": false
       },
       {
@@ -644,12 +418,12 @@
         "frete_rs": 101.5,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:30:48",
-          "lat": -26.88734,
-          "lon": -48.7211416666667
+          "referencia": "0.68 km de POSTO ZANDONÁ 14 - PENHA/SC",
+          "data_hora_posicao": "18/11/2026 01:44:40",
+          "lat": -26.8344383333333,
+          "lon": -48.69841
         },
-        "distancia_km": 161.7,
+        "distancia_km": 157.0,
         "proximo": false
       },
       {
@@ -664,12 +438,12 @@
         "frete_rs": 4196.93,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:30:48",
-          "lat": -26.88734,
-          "lon": -48.7211416666667
+          "referencia": "0.68 km de POSTO ZANDONÁ 14 - PENHA/SC",
+          "data_hora_posicao": "18/11/2026 01:44:40",
+          "lat": -26.8344383333333,
+          "lon": -48.69841
         },
-        "distancia_km": 161.7,
+        "distancia_km": 157.0,
         "proximo": false
       }
     ],
@@ -691,6 +465,187 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024132-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 9862.26,
+        "frete_rs": 9934.77,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.11 km de PRF - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 01:45:05",
+          "lat": -25.2810368,
+          "lon": -48.9270848
+        },
+        "distancia_km": 320.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024133-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 3866.0,
+        "frete_rs": 9814.7,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.11 km de PRF - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 01:45:05",
+          "lat": -25.2810368,
+          "lon": -48.9270848
+        },
+        "distancia_km": 320.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024139-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 9810.73,
+        "frete_rs": 18892.68,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044458-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 9690.17,
+        "frete_rs": 6052.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 01:45:04",
+          "lat": -25.657552,
+          "lon": -49.1553664
+        },
+        "distancia_km": 365.1,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044459-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6060.56,
+        "frete_rs": 5056.42,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 01:45:04",
+          "lat": -25.657552,
+          "lon": -49.1553664
+        },
+        "distancia_km": 365.1,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044460-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 33078.8,
+        "frete_rs": 18280.44,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 01:44:08",
+          "lat": -25.1775936,
+          "lon": -48.8735456
+        },
+        "distancia_km": 309.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044467-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 8305.8,
+        "frete_rs": 15176.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044468-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 20080.1,
+        "frete_rs": 12946.74,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016457-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 13769.83,
+        "frete_rs": 14157.98,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 23538.989999999998,
+        "frete_rs": 38642.15,
+        "qtde": 3
+      },
+      "Rio do Sul": {
+        "peso_kg": 77215.43,
+        "frete_rs": 57512.52999999999,
+        "qtde": 5
+      },
+      "Timbó": {
+        "peso_kg": 13769.83,
+        "frete_rs": 14157.98,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -706,7 +661,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:29:56",
+          "data_hora_posicao": "18/11/2026 01:41:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -737,7 +692,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:29:56",
+          "data_hora_posicao": "18/11/2026 01:41:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -753,5 +708,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T01:32:37"
+  "_gerado_em": "2026-11-18T01:47:38"
 }
