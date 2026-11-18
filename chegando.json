@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 15:59:51",
+          "data_hora_posicao": "18/11/2026 16:13:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 16:00:26",
-          "lat": -23.5165824,
-          "lon": -46.6519808
+          "referencia": "0.12 km de ASSAI ATACADISTA LTDA (FREGUESIA DO O) - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 16:14:26",
+          "lat": -23.5077856,
+          "lon": -46.693376
         },
-        "distancia_km": 508.9,
+        "distancia_km": 507.2,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 15:59:51",
+          "data_hora_posicao": "18/11/2026 16:13:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -94,13 +94,13 @@
         "frete_rs": 548.64,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.99 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "18/11/2026 15:59:21",
-          "lat": -29.6433696,
-          "lon": -51.2860384
+          "referencia": "0.22 km de POSTO SPOLIER - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "18/11/2026 16:13:21",
+          "lat": -29.7253088,
+          "lon": -51.16752
         },
-        "distancia_km": 39.0,
-        "proximo": false
+        "distancia_km": 28.8,
+        "proximo": true
       },
       {
         "manif": "GRU074808-1",
@@ -115,7 +115,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 16:00:27",
+          "data_hora_posicao": "18/11/2026 16:14:27",
           "lat": -26.9032608,
           "lon": -48.68248
         },
@@ -134,13 +134,13 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.99 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "18/11/2026 15:59:21",
-          "lat": -29.6433696,
-          "lon": -51.2860384
+          "referencia": "0.22 km de POSTO SPOLIER - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "18/11/2026 16:13:21",
+          "lat": -29.7253088,
+          "lon": -51.16752
         },
-        "distancia_km": 39.0,
-        "proximo": false
+        "distancia_km": 28.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -161,37 +161,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "FLN000141-4",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 54.0,
-        "frete_rs": 153.26,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.19 km de TECADI (FOUR TRANSPORTES) - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 15:59:33",
-          "lat": -26.8889875,
-          "lon": -48.7402955
-        },
-        "distancia_km": 1.9,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "FLN": {
-        "peso_kg": 54.0,
-        "frete_rs": 153.26,
-        "qtde": 1
-      }
-    }
-  },
   "TBO": {
     "veiculos": [
       {
@@ -206,10 +175,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 16:00:37",
-          "lat": -26.7714944,
-          "lon": -49.0782688
+          "referencia": "0.24 km de POSTO ZANDONÁ 12 - BLUMENAU/SC",
+          "data_hora_posicao": "18/11/2026 16:15:06",
+          "lat": -26.8504416,
+          "lon": -49.0878688
         },
         "distancia_km": null,
         "proximo": false
@@ -272,10 +241,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 16:00:36",
-          "lat": -26.8876832,
-          "lon": -48.7206624
+          "referencia": "0.32 km de KOWALSKY - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 16:14:36",
+          "lat": -26.8728672,
+          "lon": -48.7283072
         },
         "distancia_km": null,
         "proximo": false
@@ -292,10 +261,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 16:00:36",
-          "lat": -26.8876832,
-          "lon": -48.7206624
+          "referencia": "0.32 km de KOWALSKY - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 16:14:36",
+          "lat": -26.8728672,
+          "lon": -48.7283072
         },
         "distancia_km": null,
         "proximo": false
@@ -312,10 +281,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 16:00:36",
-          "lat": -26.8876832,
-          "lon": -48.7206624
+          "referencia": "0.32 km de KOWALSKY - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 16:14:36",
+          "lat": -26.8728672,
+          "lon": -48.7283072
         },
         "distancia_km": null,
         "proximo": false
@@ -353,12 +322,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.22 km de POSTO FREE WAY - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "18/11/2026 15:59:04",
-          "lat": -23.8636528,
-          "lon": -46.5733504
+          "referencia": "0.11 km de GEFCO - SEEBER - DIADEMA/SP",
+          "data_hora_posicao": "18/11/2026 16:15:04",
+          "lat": -23.7166416,
+          "lon": -46.6050304
         },
-        "distancia_km": 45.2,
+        "distancia_km": 31.0,
         "proximo": false
       },
       {
@@ -373,12 +342,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.22 km de POSTO FREE WAY - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "18/11/2026 15:59:04",
-          "lat": -23.8636528,
-          "lon": -46.5733504
+          "referencia": "0.11 km de GEFCO - SEEBER - DIADEMA/SP",
+          "data_hora_posicao": "18/11/2026 16:15:04",
+          "lat": -23.7166416,
+          "lon": -46.6050304
         },
-        "distancia_km": 45.2,
+        "distancia_km": 31.0,
         "proximo": false
       }
     ],
@@ -390,5 +359,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T16:02:32"
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "RSL044488-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "REB7J30",
+        "motorista": "ANDERSON LUIS COSTA RAMOS",
+        "peso_real_kg": 300.91,
+        "frete_rs": 770.94,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 16:14:22",
+          "lat": -27.2057216,
+          "lon": -49.649872
+        },
+        "distancia_km": 98.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 300.91,
+        "frete_rs": 770.94,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-18T16:17:39"
 }
