@@ -13,12 +13,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "7.01 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:51",
-          "lat": -28.3420032,
-          "lon": -50.8131744
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:55:51",
+          "lat": -28.2662816,
+          "lon": -50.7882304
         },
-        "distancia_km": 170.5,
+        "distancia_km": 162.6,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - ASCURRA/SC",
-          "data_hora_posicao": "18/11/2026 11:44:52",
-          "lat": -26.9591456,
-          "lon": -49.3758848
+          "referencia": "0.25 km de ESTACIONAMENTO MIME 10 - APIUNA/SC",
+          "data_hora_posicao": "18/11/2026 12:00:52",
+          "lat": -27.038512,
+          "lon": -49.3943072
         },
-        "distancia_km": 38.6,
+        "distancia_km": 31.4,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "7.01 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:51",
-          "lat": -28.3420032,
-          "lon": -50.8131744
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:55:51",
+          "lat": -28.2662816,
+          "lon": -50.7882304
         },
-        "distancia_km": 170.5,
+        "distancia_km": 162.6,
         "proximo": false
       }
     ],
@@ -110,7 +110,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 11:45:06",
+          "data_hora_posicao": "18/11/2026 11:59:06",
           "lat": -26.7714432,
           "lon": -49.0780128
         },
@@ -144,10 +144,10 @@
         "frete_rs": 689.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 11:44:37",
-          "lat": -26.8427504,
-          "lon": -49.2733728
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "18/11/2026 12:00:36",
+          "lat": -26.8423552,
+          "lon": -49.2724032
         },
         "distancia_km": null,
         "proximo": false
@@ -181,7 +181,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 11:44:27",
+          "data_hora_posicao": "18/11/2026 12:00:27",
           "lat": -26.8874208,
           "lon": -48.7212608
         },
@@ -200,12 +200,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.66 km de DIGITALLI IMPRESSÃO DIGITAL - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:21",
-          "lat": -29.0146944,
-          "lon": -51.1921472
+          "referencia": "0.48 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 11:59:59",
+          "lat": -29.0931808,
+          "lon": -51.1840544
         },
-        "distancia_km": 107.7,
+        "distancia_km": 99.0,
         "proximo": false
       }
     ],
@@ -224,46 +224,6 @@
   },
   "GRU": {
     "veiculos": [
-      {
-        "manif": "ITJ024132-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 9862.26,
-        "frete_rs": 9934.77,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 11:45:47",
-          "lat": -23.4706672,
-          "lon": -46.4622816
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024133-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 3866.0,
-        "frete_rs": 9814.7,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 11:45:47",
-          "lat": -23.4706672,
-          "lon": -46.4622816
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
       {
         "manif": "ITJ024139-3",
         "origin_unit": "ITJ",
@@ -291,12 +251,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de LAVADOR PIPOCA - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 11:45:04",
-          "lat": -24.3564288,
-          "lon": -47.6825856
+          "referencia": "1.31 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 11:59:04",
+          "lat": -24.3284128,
+          "lon": -47.573872
         },
-        "distancia_km": 158.4,
+        "distancia_km": 147.9,
         "proximo": false
       },
       {
@@ -311,12 +271,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de LAVADOR PIPOCA - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 11:45:04",
-          "lat": -24.3564288,
-          "lon": -47.6825856
+          "referencia": "1.31 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 11:59:04",
+          "lat": -24.3284128,
+          "lon": -47.573872
         },
-        "distancia_km": 158.4,
+        "distancia_km": 147.9,
         "proximo": false
       },
       {
@@ -331,12 +291,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.6 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 11:44:25",
-          "lat": -24.332288,
-          "lon": -47.5864992
+          "referencia": "0.21 km de BALANÇA - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 12:00:08",
+          "lat": -24.2690752,
+          "lon": -47.3970336
         },
-        "distancia_km": 149.1,
+        "distancia_km": 130.1,
         "proximo": false
       },
       {
@@ -387,9 +347,9 @@
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 23538.989999999998,
-        "frete_rs": 38642.15,
-        "qtde": 3
+        "peso_kg": 9810.73,
+        "frete_rs": 18892.68,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 77215.43,
@@ -417,10 +377,10 @@
         "frete_rs": 3754.92,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.17 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "18/11/2026 11:45:23",
-          "lat": -27.5638103,
-          "lon": -48.6963911
+          "referencia": "1.05 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
+          "data_hora_posicao": "18/11/2026 11:59:59",
+          "lat": -27.676663,
+          "lon": -48.6996023
         },
         "distancia_km": null,
         "proximo": false
@@ -448,10 +408,10 @@
         "frete_rs": 287.88,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "7.01 km de POSTO BERNARDI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:51",
-          "lat": -28.3420032,
-          "lon": -50.8131744
+          "referencia": "0.05 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:55:51",
+          "lat": -28.2662816,
+          "lon": -50.7882304
         },
         "distancia_km": null,
         "proximo": false
@@ -479,10 +439,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 11:44:37",
-          "lat": -26.8427504,
-          "lon": -49.2733728
+          "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "18/11/2026 12:00:36",
+          "lat": -26.8423552,
+          "lon": -49.2724032
         },
         "distancia_km": null,
         "proximo": false
@@ -510,10 +470,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.66 km de DIGITALLI IMPRESSÃO DIGITAL - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:21",
-          "lat": -29.0146944,
-          "lon": -51.1921472
+          "referencia": "0.48 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 11:59:59",
+          "lat": -29.0931808,
+          "lon": -51.1840544
         },
         "distancia_km": null,
         "proximo": false
@@ -530,10 +490,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.66 km de DIGITALLI IMPRESSÃO DIGITAL - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "18/11/2026 11:45:21",
-          "lat": -29.0146944,
-          "lon": -51.1921472
+          "referencia": "0.48 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 11:59:59",
+          "lat": -29.0931808,
+          "lon": -51.1840544
         },
         "distancia_km": null,
         "proximo": false
@@ -547,5 +507,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T11:47:47"
+  "_gerado_em": "2026-11-18T12:02:42"
 }
