@@ -1,80 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000765-0",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "DANIEL BANHOLINE",
-        "peso_real_kg": 7339.64,
-        "frete_rs": 14238.11,
-        "grupo_origem": "Brusque",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "CTB013625-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 1022.84,
-        "frete_rs": 1354.22,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.06 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 21:00:11",
-          "lat": -26.4357856,
-          "lon": -48.8143968
-        },
-        "distancia_km": 51.1,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074807-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 3288.04,
-        "frete_rs": 2908.67,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "17/11/2026 21:00:27",
-          "lat": -23.4705312,
-          "lon": -46.4621216
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 7339.64,
-        "frete_rs": 14238.11,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 1022.84,
-        "frete_rs": 1354.22,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 3288.04,
-        "frete_rs": 2908.67,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -89,12 +13,12 @@
         "frete_rs": 6036.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "17/11/2026 21:00:12",
-          "lat": -23.3004933333333,
-          "lon": -46.571925
+          "referencia": "2.52 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
+          "data_hora_posicao": "17/11/2026 21:14:12",
+          "lat": -23.378725,
+          "lon": -46.5649316666667
         },
-        "distancia_km": 22.0,
+        "distancia_km": 14.6,
         "proximo": true
       },
       {
@@ -109,12 +33,12 @@
         "frete_rs": 8632.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.89 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "17/11/2026 21:00:12",
-          "lat": -23.3004933333333,
-          "lon": -46.571925
+          "referencia": "2.52 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
+          "data_hora_posicao": "17/11/2026 21:14:12",
+          "lat": -23.378725,
+          "lon": -46.5649316666667
         },
-        "distancia_km": 22.0,
+        "distancia_km": 14.6,
         "proximo": true
       },
       {
@@ -129,12 +53,12 @@
         "frete_rs": 4877.29,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
-          "data_hora_posicao": "17/11/2026 20:59:17",
-          "lat": -25.101576,
-          "lon": -48.73304
+          "referencia": "1.94 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 21:15:17",
+          "lat": -25.0483824,
+          "lon": -48.5473312
         },
-        "distancia_km": 293.0,
+        "distancia_km": 274.7,
         "proximo": false
       },
       {
@@ -149,12 +73,12 @@
         "frete_rs": 531.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.87 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
-          "data_hora_posicao": "17/11/2026 20:59:17",
-          "lat": -25.101576,
-          "lon": -48.73304
+          "referencia": "1.94 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "17/11/2026 21:15:17",
+          "lat": -25.0483824,
+          "lon": -48.5473312
         },
-        "distancia_km": 293.0,
+        "distancia_km": 274.7,
         "proximo": false
       },
       {
@@ -170,7 +94,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 21:01:05",
+          "data_hora_posicao": "17/11/2026 21:15:43",
           "lat": -26.8873984,
           "lon": -48.7207936
         },
@@ -190,7 +114,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 21:01:05",
+          "data_hora_posicao": "17/11/2026 21:15:43",
           "lat": -26.8873984,
           "lon": -48.7207936
         },
@@ -209,12 +133,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "17/11/2026 20:59:04",
-          "lat": -26.6055376,
-          "lon": -49.0068544
+          "referencia": "2.23 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
+          "data_hora_posicao": "17/11/2026 21:07:09",
+          "lat": -26.5660816,
+          "lon": -48.9777568
         },
-        "distancia_km": 432.7,
+        "distancia_km": 427.4,
         "proximo": false
       },
       {
@@ -229,12 +153,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "17/11/2026 20:59:04",
-          "lat": -26.6055376,
-          "lon": -49.0068544
+          "referencia": "2.23 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
+          "data_hora_posicao": "17/11/2026 21:07:09",
+          "lat": -26.5660816,
+          "lon": -48.9777568
         },
-        "distancia_km": 432.7,
+        "distancia_km": 427.4,
         "proximo": false
       },
       {
@@ -249,12 +173,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "17/11/2026 21:00:08",
-          "lat": -26.9472288,
-          "lon": -49.2957952
+          "referencia": "0.85 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "17/11/2026 21:14:08",
+          "lat": -26.8720608,
+          "lon": -49.1941248
         },
-        "distancia_km": 480.3,
+        "distancia_km": 467.6,
         "proximo": false
       },
       {
@@ -301,6 +225,87 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013625-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 1022.84,
+        "frete_rs": 1354.22,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.68 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 21:14:11",
+          "lat": -26.4635808,
+          "lon": -48.7517792
+        },
+        "distancia_km": 47.2,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074807-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 3288.04,
+        "frete_rs": 2908.67,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "17/11/2026 21:15:37",
+          "lat": -23.4708608,
+          "lon": -46.4621472
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044462-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 2739.74,
+        "frete_rs": 1110.76,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:14:33",
+          "lat": -27.2062466666667,
+          "lon": -49.6494433333333
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 1022.84,
+        "frete_rs": 1354.22,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 3288.04,
+        "frete_rs": 2908.67,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2739.74,
+        "frete_rs": 1110.76,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -315,12 +320,12 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "17/11/2026 21:00:11",
-          "lat": -26.4357856,
-          "lon": -48.8143968
+          "referencia": "0.68 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 21:14:11",
+          "lat": -26.4635808,
+          "lon": -48.7517792
         },
-        "distancia_km": 119.2,
+        "distancia_km": 121.5,
         "proximo": false
       },
       {
@@ -335,12 +340,12 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 21:01:04",
-          "lat": -27.2124288,
-          "lon": -49.6513024
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:15:28",
+          "lat": -27.2059776,
+          "lon": -49.6489152
         },
-        "distancia_km": 0.7,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -370,12 +375,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 21:01:04",
-          "lat": -27.2124288,
-          "lon": -49.6513024
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:15:28",
+          "lat": -27.2059776,
+          "lon": -49.6489152
         },
-        "distancia_km": 0.7,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -390,12 +395,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 21:01:04",
-          "lat": -27.2124288,
-          "lon": -49.6513024
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:15:28",
+          "lat": -27.2059776,
+          "lon": -49.6489152
         },
-        "distancia_km": 0.7,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -410,12 +415,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:59:30",
-          "lat": -29.9834944,
-          "lon": -51.1868704
+          "referencia": "2.78 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
+          "data_hora_posicao": "17/11/2026 21:15:30",
+          "lat": -29.9139456,
+          "lon": -51.2364032
         },
-        "distancia_km": 343.4,
+        "distancia_km": 338.6,
         "proximo": false
       }
     ],
@@ -457,7 +462,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 20:59:06",
+          "data_hora_posicao": "17/11/2026 21:15:06",
           "lat": -26.8876864,
           "lon": -48.720672
         },
@@ -513,12 +518,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "17/11/2026 21:00:27",
-          "lat": -23.4705312,
-          "lon": -46.4621216
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "17/11/2026 21:15:37",
+          "lat": -23.4708608,
+          "lon": -46.4621472
         },
-        "distancia_km": 862.7,
+        "distancia_km": 862.6,
         "proximo": false
       },
       {
@@ -534,7 +539,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:59:27",
+          "data_hora_posicao": "17/11/2026 21:15:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -554,7 +559,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:59:27",
+          "data_hora_posicao": "17/11/2026 21:15:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -594,10 +599,10 @@
         "frete_rs": 1655.34,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:59:30",
-          "lat": -29.9834944,
-          "lon": -51.1868704
+          "referencia": "2.78 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
+          "data_hora_posicao": "17/11/2026 21:15:30",
+          "lat": -29.9139456,
+          "lon": -51.2364032
         },
         "distancia_km": null,
         "proximo": false
@@ -625,10 +630,10 @@
         "frete_rs": 287.88,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:59:30",
-          "lat": -29.9834944,
-          "lon": -51.1868704
+          "referencia": "2.78 km de REESFRIAR AR CONDICIONADO - CANOAS/RS",
+          "data_hora_posicao": "17/11/2026 21:15:30",
+          "lat": -29.9139456,
+          "lon": -51.2364032
         },
         "distancia_km": null,
         "proximo": false
@@ -642,5 +647,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T21:02:40"
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "RSL044461-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 6043.77,
+        "frete_rs": 4196.93,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:14:33",
+          "lat": -27.2062466666667,
+          "lon": -49.6494433333333
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 6043.77,
+        "frete_rs": 4196.93,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-17T21:17:37"
 }
