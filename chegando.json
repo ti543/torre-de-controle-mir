@@ -13,12 +13,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.93 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "18/11/2026 10:30:42",
-          "lat": -28.805872,
-          "lon": -51.2697248
+          "referencia": "1.33 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:20",
+          "lat": -28.6905568,
+          "lon": -51.2045216
         },
-        "distancia_km": 238.6,
+        "distancia_km": 224.9,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.51 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "18/11/2026 10:30:52",
-          "lat": -26.9457344,
-          "lon": -49.2948192
+          "referencia": "0.52 km de POSTO ZANDONA 9 - ASCURRA/SC",
+          "data_hora_posicao": "18/11/2026 10:44:52",
+          "lat": -26.9591072,
+          "lon": -49.3758272
         },
-        "distancia_km": 45.5,
+        "distancia_km": 38.6,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.93 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "18/11/2026 10:30:42",
-          "lat": -28.805872,
-          "lon": -51.2697248
+          "referencia": "1.33 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:20",
+          "lat": -28.6905568,
+          "lon": -51.2045216
         },
-        "distancia_km": 238.6,
+        "distancia_km": 224.9,
         "proximo": false
       }
     ],
@@ -109,10 +109,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.87 km de RESTAURANTE & CAFÉ COLONIAL JUNCKES - GASPAR/SC",
-          "data_hora_posicao": "18/11/2026 10:30:11",
-          "lat": -26.891472,
-          "lon": -48.9885632
+          "referencia": "0.07 km de POSTO ZANDONÁ 12 - BLUMENAU/SC",
+          "data_hora_posicao": "18/11/2026 10:45:06",
+          "lat": -26.8520448,
+          "lon": -49.0861728
         },
         "distancia_km": null,
         "proximo": false
@@ -144,10 +144,10 @@
         "frete_rs": 689.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.29 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 10:28:36",
-          "lat": -27.0879328,
-          "lon": -49.4728416
+          "referencia": "2.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "18/11/2026 10:44:36",
+          "lat": -27.0633632,
+          "lon": -49.4157536
         },
         "distancia_km": null,
         "proximo": false
@@ -166,28 +166,64 @@
       }
     }
   },
-  "ITJ": {
+  "POA": {
     "veiculos": [
       {
-        "manif": "GRU074807-2",
+        "manif": "GRU074808-1",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
         "placa": "SXQ8C23",
         "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 3288.04,
-        "frete_rs": 2908.67,
+        "peso_real_kg": 8392.42,
+        "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 10:30:27",
+          "data_hora_posicao": "18/11/2026 10:45:33",
           "lat": -26.8876992,
-          "lon": -48.7206368
+          "lon": -48.7207296
         },
-        "distancia_km": 0.1,
-        "proximo": true
+        "distancia_km": 420.2,
+        "proximo": false
       },
+      {
+        "manif": "RSL044476-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 6957.3,
+        "frete_rs": 6251.49,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "6.58 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:21",
+          "lat": -28.7226272,
+          "lon": -51.2459712
+        },
+        "distancia_km": 140.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8392.42,
+        "frete_rs": 17114.44,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 6957.3,
+        "frete_rs": 6251.49,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
       {
         "manif": "GRU074812-9",
         "origin_unit": "GRU",
@@ -206,64 +242,8 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 11745.43,
-        "frete_rs": 18812.36,
-        "qtde": 2
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074808-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 8392.42,
-        "frete_rs": 17114.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 10:30:27",
-          "lat": -26.8876992,
-          "lon": -48.7206368
-        },
-        "distancia_km": 420.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044476-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6957.3,
-        "frete_rs": 6251.49,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.41 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "18/11/2026 10:29:47",
-          "lat": -28.6586656,
-          "lon": -51.1000448
-        },
-        "distancia_km": 147.5,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8392.42,
-        "frete_rs": 17114.44,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6957.3,
-        "frete_rs": 6251.49,
+        "peso_kg": 8457.39,
+        "frete_rs": 15903.69,
         "qtde": 1
       }
     }
@@ -282,10 +262,10 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.01 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 10:30:43",
-          "lat": -22.8997886,
-          "lon": -47.0189351
+          "referencia": "0.76 km de 2º DISTRITO POLICIAL - CAMPINAS/SP",
+          "data_hora_posicao": "18/11/2026 10:44:13",
+          "lat": -22.9169776,
+          "lon": -47.0677448
         },
         "distancia_km": null,
         "proximo": false
@@ -302,10 +282,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.29 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 10:28:36",
-          "lat": -27.0879328,
-          "lon": -49.4728416
+          "referencia": "2.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "18/11/2026 10:44:36",
+          "lat": -27.0633632,
+          "lon": -49.4157536
         },
         "distancia_km": null,
         "proximo": false
@@ -338,13 +318,13 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de COMANDO DE POLICIAMENTO DE ÁREA METROPOLITANA 8 - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 10:29:14",
-          "lat": -23.5200736,
-          "lon": -46.7806048
+          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 10:45:05",
+          "lat": -23.5183488,
+          "lon": -46.7390208
         },
-        "distancia_km": 32.9,
-        "proximo": false
+        "distancia_km": 28.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024133-4",
@@ -358,13 +338,13 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.37 km de COMANDO DE POLICIAMENTO DE ÁREA METROPOLITANA 8 - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 10:29:14",
-          "lat": -23.5200736,
-          "lon": -46.7806048
+          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 10:45:05",
+          "lat": -23.5183488,
+          "lon": -46.7390208
         },
-        "distancia_km": 32.9,
-        "proximo": false
+        "distancia_km": 28.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024139-3",
@@ -393,12 +373,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "18/11/2026 10:29:04",
-          "lat": -24.7843168,
-          "lon": -48.1887776
+          "referencia": "0.11 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 10:45:04",
+          "lat": -24.752952,
+          "lon": -48.157696
         },
-        "distancia_km": 228.1,
+        "distancia_km": 223.5,
         "proximo": false
       },
       {
@@ -413,12 +393,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "18/11/2026 10:29:04",
-          "lat": -24.7843168,
-          "lon": -48.1887776
+          "referencia": "0.11 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 10:45:04",
+          "lat": -24.752952,
+          "lon": -48.157696
         },
-        "distancia_km": 228.1,
+        "distancia_km": 223.5,
         "proximo": false
       },
       {
@@ -433,12 +413,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 10:20:08",
-          "lat": -24.9288496,
-          "lon": -48.2721984
+          "referencia": "2.18 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 10:46:08",
+          "lat": -24.7428768,
+          "lon": -48.1387936
         },
-        "distancia_km": 244.9,
+        "distancia_km": 221.3,
         "proximo": false
       },
       {
@@ -519,10 +499,10 @@
         "frete_rs": 3754.92,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de DICAVE CONCESSIONARIA VOLVO - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 10:30:54",
-          "lat": -26.9485528,
-          "lon": -48.6826436
+          "referencia": "0.59 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "18/11/2026 10:45:09",
+          "lat": -27.0046558,
+          "lon": -48.6279471
         },
         "distancia_km": null,
         "proximo": false
@@ -550,10 +530,10 @@
         "frete_rs": 287.88,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.93 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
-          "data_hora_posicao": "18/11/2026 10:30:42",
-          "lat": -28.805872,
-          "lon": -51.2697248
+          "referencia": "1.33 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:20",
+          "lat": -28.6905568,
+          "lon": -51.2045216
         },
         "distancia_km": null,
         "proximo": false
@@ -563,37 +543,6 @@
       "Porto Alegre": {
         "peso_kg": 276.24,
         "frete_rs": 287.88,
-        "qtde": 1
-      }
-    }
-  },
-  "JCB": {
-    "veiculos": [
-      {
-        "manif": "RSL044471-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
-        "placa": "QJR4I97",
-        "motorista": "CARLOS SOARES DOS REIS",
-        "peso_real_kg": 582.17,
-        "frete_rs": 2094.05,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.24 km de XPT JOAÇABA - HERVAL D OESTE/SC",
-          "data_hora_posicao": "18/11/2026 10:28:39",
-          "lat": -27.2178133333333,
-          "lon": -51.4688533333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 582.17,
-        "frete_rs": 2094.05,
         "qtde": 1
       }
     }
@@ -612,10 +561,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "18/11/2026 10:29:47",
-          "lat": -28.6586656,
-          "lon": -51.1000448
+          "referencia": "6.58 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:21",
+          "lat": -28.7226272,
+          "lon": -51.2459712
         },
         "distancia_km": null,
         "proximo": false
@@ -632,10 +581,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.41 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "18/11/2026 10:29:47",
-          "lat": -28.6586656,
-          "lon": -51.1000448
+          "referencia": "6.58 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "18/11/2026 10:45:21",
+          "lat": -28.7226272,
+          "lon": -51.2459712
         },
         "distancia_km": null,
         "proximo": false
@@ -649,5 +598,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T10:32:47"
+  "_gerado_em": "2026-11-18T10:47:47"
 }
