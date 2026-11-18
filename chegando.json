@@ -13,12 +13,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.71 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:15:51",
-          "lat": -28.5470272,
-          "lon": -50.975456
+          "referencia": "0.26 km de PERBONI - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:29:51",
+          "lat": -28.4895296,
+          "lon": -50.9075616
         },
-        "distancia_km": 198.0,
+        "distancia_km": 188.8,
         "proximo": false
       },
       {
@@ -49,7 +49,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.53 km de POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA - ASCURRA/SC",
-          "data_hora_posicao": "18/11/2026 11:14:52",
+          "data_hora_posicao": "18/11/2026 11:28:52",
           "lat": -26.9591456,
           "lon": -49.3758848
         },
@@ -68,12 +68,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.71 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:15:51",
-          "lat": -28.5470272,
-          "lon": -50.975456
+          "referencia": "0.26 km de PERBONI - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:29:51",
+          "lat": -28.4895296,
+          "lon": -50.9075616
         },
-        "distancia_km": 198.0,
+        "distancia_km": 188.8,
         "proximo": false
       }
     ],
@@ -109,10 +109,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de FW INDÚSTRIA E COMÉRCIO DE PRODUTOS DE HIGIENE - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 11:15:53",
-          "lat": -26.7923024,
-          "lon": -49.0841792
+          "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "18/11/2026 11:29:06",
+          "lat": -26.7714432,
+          "lon": -49.0780128
         },
         "distancia_km": null,
         "proximo": false
@@ -144,10 +144,10 @@
         "frete_rs": 689.31,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO ZANDONA 9 - ASCURRA/SC",
-          "data_hora_posicao": "18/11/2026 11:15:22",
-          "lat": -26.9583744,
-          "lon": -49.37528
+          "referencia": "1.45 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "18/11/2026 11:28:36",
+          "lat": -26.906416,
+          "lon": -49.2727936
         },
         "distancia_km": null,
         "proximo": false
@@ -181,7 +181,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 11:14:27",
+          "data_hora_posicao": "18/11/2026 11:30:27",
           "lat": -26.8874208,
           "lon": -48.7212608
         },
@@ -200,12 +200,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 11:13:21",
-          "lat": -28.882592,
-          "lon": -51.2095488
+          "referencia": "3.14 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "18/11/2026 11:29:21",
+          "lat": -28.9360992,
+          "lon": -51.1874048
         },
-        "distancia_km": 122.4,
+        "distancia_km": 116.4,
         "proximo": false
       }
     ],
@@ -218,62 +218,6 @@
       "Rio do Sul": {
         "peso_kg": 6957.3,
         "frete_rs": 6251.49,
-        "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074828-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RYA0I16",
-        "motorista": "EDUARDO KUNIHIRO IWAMOTO",
-        "peso_real_kg": 1318.2,
-        "frete_rs": 4723.28,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.82 km de 47º BATALHÃO DE POLÍCIA MILITAR - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 11:14:03",
-          "lat": -22.9109453,
-          "lon": -47.0822025
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044465-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 14778.77,
-        "frete_rs": 17506.84,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.42 km de POSTO ZANDONA 9 - ASCURRA/SC",
-          "data_hora_posicao": "18/11/2026 11:15:22",
-          "lat": -26.9583744,
-          "lon": -49.37528
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 1318.2,
-        "frete_rs": 4723.28,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 14778.77,
-        "frete_rs": 17506.84,
         "qtde": 1
       }
     }
@@ -292,12 +236,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de HOUSSAM NOVO - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 11:15:05",
-          "lat": -23.5233968,
-          "lon": -46.6043776
+          "referencia": "0.07 km de ENCAIXE EMPRESA DE TRANSPORTE LTDA (CUMBICA) - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 11:29:31",
+          "lat": -23.456384,
+          "lon": -46.4734944
         },
-        "distancia_km": 15.6,
+        "distancia_km": 1.9,
         "proximo": true
       },
       {
@@ -312,12 +256,12 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de HOUSSAM NOVO - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 11:15:05",
-          "lat": -23.5233968,
-          "lon": -46.6043776
+          "referencia": "0.07 km de ENCAIXE EMPRESA DE TRANSPORTE LTDA (CUMBICA) - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 11:29:31",
+          "lat": -23.456384,
+          "lon": -46.4734944
         },
-        "distancia_km": 15.6,
+        "distancia_km": 1.9,
         "proximo": true
       },
       {
@@ -347,12 +291,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.69 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "18/11/2026 11:15:04",
-          "lat": -24.594176,
-          "lon": -47.8781152
+          "referencia": "0.25 km de LAVADOR E BORRACHARIA CLEAN TRUCK MARCELINHO - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 11:29:04",
+          "lat": -24.461024,
+          "lon": -47.816752
         },
-        "distancia_km": 190.5,
+        "distancia_km": 176.3,
         "proximo": false
       },
       {
@@ -367,12 +311,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.69 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "18/11/2026 11:15:04",
-          "lat": -24.594176,
-          "lon": -47.8781152
+          "referencia": "0.25 km de LAVADOR E BORRACHARIA CLEAN TRUCK MARCELINHO - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 11:29:04",
+          "lat": -24.461024,
+          "lon": -47.816752
         },
-        "distancia_km": 190.5,
+        "distancia_km": 176.3,
         "proximo": false
       },
       {
@@ -387,12 +331,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.2 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 11:14:08",
-          "lat": -24.558456,
-          "lon": -47.8662944
+          "referencia": "2.42 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "18/11/2026 11:30:08",
+          "lat": -24.4038416,
+          "lon": -47.7402816
         },
-        "distancia_km": 187.0,
+        "distancia_km": 166.3,
         "proximo": false
       },
       {
@@ -473,10 +417,10 @@
         "frete_rs": 3754.92,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.94 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
-          "data_hora_posicao": "18/11/2026 11:15:53",
-          "lat": -27.2740396,
-          "lon": -48.6316116
+          "referencia": "4.98 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
+          "data_hora_posicao": "18/11/2026 11:27:45",
+          "lat": -27.382765,
+          "lon": -48.686659
         },
         "distancia_km": null,
         "proximo": false
@@ -504,10 +448,10 @@
         "frete_rs": 287.88,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.71 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "18/11/2026 11:15:51",
-          "lat": -28.5470272,
-          "lon": -50.975456
+          "referencia": "0.26 km de PERBONI - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "18/11/2026 11:29:51",
+          "lat": -28.4895296,
+          "lon": -50.9075616
         },
         "distancia_km": null,
         "proximo": false
@@ -517,6 +461,37 @@
       "Porto Alegre": {
         "peso_kg": 276.24,
         "frete_rs": 287.88,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "RSL044465-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 14778.77,
+        "frete_rs": 17506.84,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.45 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "18/11/2026 11:28:36",
+          "lat": -26.906416,
+          "lon": -49.2727936
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 14778.77,
+        "frete_rs": 17506.84,
         "qtde": 1
       }
     }
@@ -535,10 +510,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 11:13:21",
-          "lat": -28.882592,
-          "lon": -51.2095488
+          "referencia": "3.14 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "18/11/2026 11:29:21",
+          "lat": -28.9360992,
+          "lon": -51.1874048
         },
         "distancia_km": null,
         "proximo": false
@@ -555,10 +530,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.96 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "18/11/2026 11:13:21",
-          "lat": -28.882592,
-          "lon": -51.2095488
+          "referencia": "3.14 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "18/11/2026 11:29:21",
+          "lat": -28.9360992,
+          "lon": -51.1874048
         },
         "distancia_km": null,
         "proximo": false
@@ -572,5 +547,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T11:17:35"
+  "_gerado_em": "2026-11-18T11:32:41"
 }
