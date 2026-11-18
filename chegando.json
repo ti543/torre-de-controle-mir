@@ -13,10 +13,10 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 08:27:33",
-          "lat": -29.1463424,
-          "lon": -51.1648384
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 08:45:51",
+          "lat": -29.146304,
+          "lon": -51.1648608
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.52 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "18/11/2026 08:30:52",
-          "lat": -26.426424,
-          "lon": -48.827792
+          "referencia": "4.34 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
+          "data_hora_posicao": "18/11/2026 08:44:52",
+          "lat": -26.4533904,
+          "lon": -48.91656
         },
-        "distancia_km": 119.0,
+        "distancia_km": 110.9,
         "proximo": false
       },
       {
@@ -68,10 +68,10 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 08:27:33",
-          "lat": -29.1463424,
-          "lon": -51.1648384
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 08:45:51",
+          "lat": -29.146304,
+          "lon": -51.1648608
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -110,7 +110,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 08:29:06",
+          "data_hora_posicao": "18/11/2026 08:45:06",
           "lat": -26.8874272,
           "lon": -48.7211296
         },
@@ -145,7 +145,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.34 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 08:30:36",
+          "data_hora_posicao": "18/11/2026 08:44:36",
           "lat": -27.2387552,
           "lon": -49.6829536
         },
@@ -180,13 +180,13 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "18/11/2026 08:30:27",
-          "lat": -26.5538864,
-          "lon": -48.719952
+          "referencia": "0.26 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 08:44:27",
+          "lat": -26.6414368,
+          "lon": -48.6907456
         },
-        "distancia_km": 37.1,
-        "proximo": false
+        "distancia_km": 27.5,
+        "proximo": true
       },
       {
         "manif": "GRU074812-9",
@@ -226,12 +226,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "18/11/2026 08:30:27",
-          "lat": -26.5538864,
-          "lon": -48.719952
+          "referencia": "0.26 km de FORT ATACADISTA - FILIAL 335 - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 08:44:27",
+          "lat": -26.6414368,
+          "lon": -48.6907456
         },
-        "distancia_km": 451.4,
+        "distancia_km": 444.7,
         "proximo": false
       },
       {
@@ -246,12 +246,12 @@
         "frete_rs": 14632.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "6.37 km de CD OSORIO - OSORIO/RS",
-          "data_hora_posicao": "18/11/2026 08:29:36",
-          "lat": -29.8922304,
-          "lon": -50.3558496
+          "referencia": "4.89 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "18/11/2026 08:45:53",
+          "lat": -29.8834848,
+          "lon": -50.5523296
         },
-        "distancia_km": 80.7,
+        "distancia_km": 62.1,
         "proximo": false
       },
       {
@@ -266,12 +266,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.9 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 08:29:21",
-          "lat": -27.8410368,
-          "lon": -50.379168
+          "referencia": "1.9 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 08:35:21",
+          "lat": -27.8846688,
+          "lon": -50.415616
         },
-        "distancia_km": 250.8,
+        "distancia_km": 245.1,
         "proximo": false
       }
     ],
@@ -307,10 +307,10 @@
         "frete_rs": 4723.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.6 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
-          "data_hora_posicao": "18/11/2026 08:30:26",
-          "lat": -23.2917961,
-          "lon": -46.5789101
+          "referencia": "1.04 km de POSTO NOVO HORIZONTE - MAIRIPORA/SP",
+          "data_hora_posicao": "18/11/2026 08:45:19",
+          "lat": -23.2439261,
+          "lon": -46.5954576
         },
         "distancia_km": null,
         "proximo": false
@@ -328,7 +328,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.34 km de FIGORIFICO PAMPLONA S/A - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 08:30:36",
+          "data_hora_posicao": "18/11/2026 08:44:36",
           "lat": -27.2387552,
           "lon": -49.6829536
         },
@@ -363,12 +363,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "18/11/2026 08:29:05",
-          "lat": -23.7121728,
-          "lon": -46.8778656
+          "referencia": "0.16 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "18/11/2026 08:45:05",
+          "lat": -23.7013856,
+          "lon": -46.8698208
         },
-        "distancia_km": 50.2,
+        "distancia_km": 48.8,
         "proximo": false
       },
       {
@@ -383,12 +383,12 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "18/11/2026 08:29:05",
-          "lat": -23.7121728,
-          "lon": -46.8778656
+          "referencia": "0.16 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "18/11/2026 08:45:05",
+          "lat": -23.7013856,
+          "lon": -46.8698208
         },
-        "distancia_km": 50.2,
+        "distancia_km": 48.8,
         "proximo": false
       },
       {
@@ -419,7 +419,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 08:26:31",
+          "data_hora_posicao": "18/11/2026 08:36:31",
           "lat": -24.9609472,
           "lon": -48.3383552
         },
@@ -439,7 +439,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 08:26:31",
+          "data_hora_posicao": "18/11/2026 08:36:31",
           "lat": -24.9609472,
           "lon": -48.3383552
         },
@@ -459,7 +459,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "3.93 km de POSTO RABI - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 08:26:30",
+          "data_hora_posicao": "18/11/2026 08:36:30",
           "lat": -24.9696256,
           "lon": -48.365184
         },
@@ -544,10 +544,10 @@
         "frete_rs": 287.88,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 08:27:33",
-          "lat": -29.1463424,
-          "lon": -51.1648384
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 08:45:51",
+          "lat": -29.146304,
+          "lon": -51.1648608
         },
         "distancia_km": null,
         "proximo": false
@@ -575,10 +575,10 @@
         "frete_rs": 2094.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.16 km de AUTO POSTO ÁGUIA - SHELL - CURITIBANOS/SC",
-          "data_hora_posicao": "18/11/2026 08:25:14",
-          "lat": -27.30256,
-          "lon": -50.58272
+          "referencia": "9.24 km de MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS - CURITIBANOS/SC",
+          "data_hora_posicao": "18/11/2026 08:44:35",
+          "lat": -27.2998933333333,
+          "lon": -50.6901333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -606,10 +606,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.9 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 08:29:21",
-          "lat": -27.8410368,
-          "lon": -50.379168
+          "referencia": "1.9 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 08:35:21",
+          "lat": -27.8846688,
+          "lon": -50.415616
         },
         "distancia_km": null,
         "proximo": false
@@ -626,10 +626,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.9 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 08:29:21",
-          "lat": -27.8410368,
-          "lon": -50.379168
+          "referencia": "1.9 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 08:35:21",
+          "lat": -27.8846688,
+          "lon": -50.415616
         },
         "distancia_km": null,
         "proximo": false
@@ -643,5 +643,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T08:32:41"
+  "_gerado_em": "2026-11-18T08:47:44"
 }
