@@ -13,12 +13,12 @@
         "frete_rs": 4877.29,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS MARSIL LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 01:15:17",
-          "lat": -23.5230784,
-          "lon": -46.6124064
+          "referencia": "0.07 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 01:29:17",
+          "lat": -23.4575424,
+          "lon": -46.4726976
         },
-        "distancia_km": 16.4,
+        "distancia_km": 1.8,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 531.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.18 km de DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS MARSIL LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 01:15:17",
-          "lat": -23.5230784,
-          "lon": -46.6124064
+          "referencia": "0.07 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 01:29:17",
+          "lat": -23.4575424,
+          "lon": -46.4726976
         },
-        "distancia_km": 16.4,
+        "distancia_km": 1.8,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.42 km de PRF - UOP CONTORNO LESTE - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 01:15:05",
-          "lat": -25.5234768,
-          "lon": -49.1370912
+          "referencia": "0.89 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
+          "data_hora_posicao": "18/11/2026 01:29:05",
+          "lat": -25.386112,
+          "lon": -49.0535584
         },
-        "distancia_km": 354.0,
+        "distancia_km": 337.9,
         "proximo": false
       },
       {
@@ -73,12 +73,27 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.42 km de PRF - UOP CONTORNO LESTE - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 01:15:05",
-          "lat": -25.5234768,
-          "lon": -49.1370912
+          "referencia": "0.89 km de MEGATECH BRASIL COMPONENTES AUTOMOTIVOS LTDA - QUATRO BARRAS/PR",
+          "data_hora_posicao": "18/11/2026 01:29:05",
+          "lat": -25.386112,
+          "lon": -49.0535584
         },
-        "distancia_km": 354.0,
+        "distancia_km": 337.9,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024139-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 9810.73,
+        "frete_rs": 18892.68,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -94,7 +109,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 01:15:04",
+          "data_hora_posicao": "18/11/2026 01:29:04",
           "lat": -25.657552,
           "lon": -49.1553664
         },
@@ -114,7 +129,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 01:15:04",
+          "data_hora_posicao": "18/11/2026 01:29:04",
           "lat": -25.657552,
           "lon": -49.1553664
         },
@@ -133,12 +148,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.21 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 01:14:08",
-          "lat": -25.30808,
-          "lon": -48.982
+          "referencia": "0.53 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 01:31:00",
+          "lat": -25.1801504,
+          "lon": -48.8795424
         },
-        "distancia_km": 326.9,
+        "distancia_km": 310.0,
         "proximo": false
       },
       {
@@ -194,9 +209,9 @@
         "qtde": 2
       },
       "Itajaí": {
-        "peso_kg": 13728.26,
-        "frete_rs": 19749.47,
-        "qtde": 2
+        "peso_kg": 23538.989999999998,
+        "frete_rs": 38642.15,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 77215.43,
@@ -224,13 +239,13 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.06 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
-          "data_hora_posicao": "18/11/2026 01:15:14",
-          "lat": -27.0343904,
-          "lon": -49.3882208
+          "referencia": "0.9 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "18/11/2026 01:30:11",
+          "lat": -27.0868352,
+          "lon": -49.4768224
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 21.6,
+        "proximo": true
       },
       {
         "manif": "GRU074809-9",
@@ -259,12 +274,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.01 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "18/11/2026 01:14:52",
-          "lat": -24.0016496,
-          "lon": -47.151632
+          "referencia": "0.36 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 01:19:50",
+          "lat": -24.0389264,
+          "lon": -47.192864
         },
-        "distancia_km": 435.5,
+        "distancia_km": 429.7,
         "proximo": false
       },
       {
@@ -279,13 +294,13 @@
         "frete_rs": 4635.35,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
-          "data_hora_posicao": "18/11/2026 01:15:14",
-          "lat": -27.0343904,
-          "lon": -49.3882208
+          "referencia": "0.9 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "18/11/2026 01:30:11",
+          "lat": -27.0868352,
+          "lon": -49.4768224
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 21.6,
+        "proximo": true
       },
       {
         "manif": "POA016266-3",
@@ -300,7 +315,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:13:56",
+          "data_hora_posicao": "18/11/2026 01:29:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -346,7 +361,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:15:06",
+          "data_hora_posicao": "18/11/2026 01:29:06",
           "lat": -26.8876864,
           "lon": -48.720672
         },
@@ -406,10 +421,10 @@
         "frete_rs": 9429.6,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de ESTACIONAMENTO TROPICOS 24 HS - SUMARE/SP",
-          "data_hora_posicao": "18/11/2026 01:14:30",
-          "lat": -22.8493566666667,
-          "lon": -47.1597066666667
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "18/11/2026 01:30:42",
+          "lat": -22.8469216666667,
+          "lon": -47.124785
         },
         "distancia_km": null,
         "proximo": false
@@ -437,12 +452,12 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.23 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 01:15:53",
-          "lat": -24.4437104,
-          "lon": -47.8010592
+          "referencia": "4.71 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 01:28:27",
+          "lat": -24.5686144,
+          "lon": -47.8782464
         },
-        "distancia_km": 286.9,
+        "distancia_km": 271.3,
         "proximo": false
       },
       {
@@ -483,12 +498,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.23 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 01:15:53",
-          "lat": -24.4437104,
-          "lon": -47.8010592
+          "referencia": "4.71 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 01:28:27",
+          "lat": -24.5686144,
+          "lon": -47.8782464
         },
-        "distancia_km": 701.0,
+        "distancia_km": 685.0,
         "proximo": false
       },
       {
@@ -504,7 +519,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:15:36",
+          "data_hora_posicao": "18/11/2026 01:29:55",
           "lat": -26.8875712,
           "lon": -48.7208096
         },
@@ -524,7 +539,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 01:15:23",
+          "data_hora_posicao": "18/11/2026 01:29:23",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -544,7 +559,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 01:15:23",
+          "data_hora_posicao": "18/11/2026 01:29:23",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -589,12 +604,12 @@
         "frete_rs": 8644.33,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.55 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 01:13:46",
-          "lat": -24.3373776,
-          "lon": -47.6433632
+          "referencia": "0.74 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 01:29:46",
+          "lat": -24.4492784,
+          "lon": -47.8071648
         },
-        "distancia_km": 212.8,
+        "distancia_km": 192.0,
         "proximo": false
       },
       {
@@ -610,9 +625,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:14:32",
-          "lat": -26.8873366666667,
-          "lon": -48.7211083333333
+          "data_hora_posicao": "18/11/2026 01:30:48",
+          "lat": -26.88734,
+          "lon": -48.7211416666667
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -630,9 +645,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:14:32",
-          "lat": -26.8873366666667,
-          "lon": -48.7211083333333
+          "data_hora_posicao": "18/11/2026 01:30:48",
+          "lat": -26.88734,
+          "lon": -48.7211416666667
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -650,9 +665,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 01:14:32",
-          "lat": -26.8873366666667,
-          "lon": -48.7211083333333
+          "data_hora_posicao": "18/11/2026 01:30:48",
+          "lat": -26.88734,
+          "lon": -48.7211416666667
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -691,7 +706,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:13:56",
+          "data_hora_posicao": "18/11/2026 01:29:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -722,7 +737,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 01:13:56",
+          "data_hora_posicao": "18/11/2026 01:29:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -738,5 +753,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T01:17:34"
+  "_gerado_em": "2026-11-18T01:32:37"
 }
