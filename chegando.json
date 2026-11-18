@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:13:51",
+          "data_hora_posicao": "18/11/2026 13:29:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -48,10 +48,10 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 13:14:52",
-          "lat": -27.2057248,
-          "lon": -49.649024
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 13:28:52",
+          "lat": -27.2059456,
+          "lon": -49.6488256
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -69,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:13:51",
+          "data_hora_posicao": "18/11/2026 13:29:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -95,6 +95,87 @@
       }
     }
   },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "CXS002247-1",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 380.27,
+        "frete_rs": 548.64,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 13:29:21",
+          "lat": -29.1463584,
+          "lon": -51.1648448
+        },
+        "distancia_km": 93.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074808-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 8392.42,
+        "frete_rs": 17114.44,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 13:30:27",
+          "lat": -26.8874208,
+          "lon": -48.7212608
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044476-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 6957.3,
+        "frete_rs": 6251.49,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "18/11/2026 13:29:21",
+          "lat": -29.1463584,
+          "lon": -51.1648448
+        },
+        "distancia_km": 93.1,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 380.27,
+        "frete_rs": 548.64,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 8392.42,
+        "frete_rs": 17114.44,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 6957.3,
+        "frete_rs": 6251.49,
+        "qtde": 1
+      }
+    }
+  },
   "TBO": {
     "veiculos": [
       {
@@ -110,7 +191,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.95 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 13:15:06",
+          "data_hora_posicao": "18/11/2026 13:29:06",
           "lat": -26.7716656,
           "lon": -49.0776736
         },
@@ -145,7 +226,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 13:14:36",
+          "data_hora_posicao": "18/11/2026 13:30:36",
           "lat": -26.8423552,
           "lon": -49.2724032
         },
@@ -162,62 +243,6 @@
       "Rio do Sul": {
         "peso_kg": 1733.52,
         "frete_rs": 689.31,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU074808-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 8392.42,
-        "frete_rs": 17114.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 13:14:27",
-          "lat": -26.8874208,
-          "lon": -48.7212608
-        },
-        "distancia_km": 420.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044476-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6957.3,
-        "frete_rs": 6251.49,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 13:15:21",
-          "lat": -29.1463168,
-          "lon": -51.1648448
-        },
-        "distancia_km": 93.1,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8392.42,
-        "frete_rs": 17114.44,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6957.3,
-        "frete_rs": 6251.49,
         "qtde": 1
       }
     }
@@ -251,12 +276,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de FRIGONEPI COMERCIAL E REPRESENTAÇÃO LTDA - ITARIRI/SP",
-          "data_hora_posicao": "18/11/2026 13:15:04",
-          "lat": -24.3042336,
-          "lon": -47.0707296
+          "referencia": "0.77 km de AUTO POSTO DE SERVICOS NIPPO - PERUIBE/SP",
+          "data_hora_posicao": "18/11/2026 13:30:41",
+          "lat": -24.3218624,
+          "lon": -47.0024992
         },
-        "distancia_km": 111.5,
+        "distancia_km": 109.4,
         "proximo": false
       },
       {
@@ -271,12 +296,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de FRIGONEPI COMERCIAL E REPRESENTAÇÃO LTDA - ITARIRI/SP",
-          "data_hora_posicao": "18/11/2026 13:15:04",
-          "lat": -24.3042336,
-          "lon": -47.0707296
+          "referencia": "0.77 km de AUTO POSTO DE SERVICOS NIPPO - PERUIBE/SP",
+          "data_hora_posicao": "18/11/2026 13:30:41",
+          "lat": -24.3218624,
+          "lon": -47.0024992
         },
-        "distancia_km": 111.5,
+        "distancia_km": 109.4,
         "proximo": false
       },
       {
@@ -291,12 +316,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.36 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "18/11/2026 13:14:46",
-          "lat": -23.8068624,
-          "lon": -46.923776
+          "referencia": "0.36 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "18/11/2026 13:30:08",
+          "lat": -23.6566288,
+          "lon": -46.850288
         },
-        "distancia_km": 60.1,
+        "distancia_km": 44.6,
         "proximo": false
       },
       {
@@ -378,7 +403,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "18/11/2026 13:13:55",
+          "data_hora_posicao": "18/11/2026 13:29:55",
           "lat": -27.6744573,
           "lon": -48.6979175
         },
@@ -409,7 +434,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:13:51",
+          "data_hora_posicao": "18/11/2026 13:29:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -440,7 +465,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 13:14:36",
+          "data_hora_posicao": "18/11/2026 13:30:36",
           "lat": -26.8423552,
           "lon": -49.2724032
         },
@@ -456,56 +481,5 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044474-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 1472.0,
-        "frete_rs": 1185.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 13:15:21",
-          "lat": -29.1463168,
-          "lon": -51.1648448
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044477-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 2.22,
-        "frete_rs": 168.1,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 13:15:21",
-          "lat": -29.1463168,
-          "lon": -51.1648448
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 1474.22,
-        "frete_rs": 1353.6,
-        "qtde": 2
-      }
-    }
-  },
-  "_gerado_em": "2026-11-18T13:17:28"
+  "_gerado_em": "2026-11-18T13:32:35"
 }
