@@ -13,12 +13,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.23 km de KLABIN S/A - CORREIA PINTO/SC",
-          "data_hora_posicao": "18/11/2026 18:00:16",
-          "lat": -27.518464,
-          "lon": -50.3643328
+          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
+          "data_hora_posicao": "18/11/2026 18:05:51",
+          "lat": -27.4683424,
+          "lon": -50.384736
         },
-        "distancia_km": 78.7,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.46 km de POSTO SÃO LEOPOLDO 65 - JUQUITIBA/SP",
-          "data_hora_posicao": "18/11/2026 17:58:26",
-          "lat": -23.9310384,
-          "lon": -47.0032192
+          "referencia": "1.56 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 18:14:53",
+          "lat": -24.0095104,
+          "lon": -47.1618848
         },
-        "distancia_km": 450.6,
+        "distancia_km": 434.2,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 1547.86,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.23 km de KLABIN S/A - CORREIA PINTO/SC",
-          "data_hora_posicao": "18/11/2026 18:00:16",
-          "lat": -27.518464,
-          "lon": -50.3643328
+          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
+          "data_hora_posicao": "18/11/2026 18:05:51",
+          "lat": -27.4683424,
+          "lon": -50.384736
         },
-        "distancia_km": 78.7,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.23 km de KLABIN S/A - CORREIA PINTO/SC",
-          "data_hora_posicao": "18/11/2026 18:00:16",
-          "lat": -27.518464,
-          "lon": -50.3643328
+          "referencia": "0.4 km de POSTO SERRANO IV - PONTE ALTA/SC",
+          "data_hora_posicao": "18/11/2026 18:05:51",
+          "lat": -27.4683424,
+          "lon": -50.384736
         },
-        "distancia_km": 78.7,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -94,9 +94,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 17:59:58",
-          "lat": -29.9837916666667,
-          "lon": -51.186985
+          "data_hora_posicao": "18/11/2026 18:14:25",
+          "lat": -29.9839333333333,
+          "lon": -51.1869733333333
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -135,9 +135,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 17:59:21",
-          "lat": -29.9834112,
-          "lon": -51.1866336
+          "data_hora_posicao": "18/11/2026 18:15:21",
+          "lat": -29.9834016,
+          "lon": -51.186624
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -155,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:00:22",
+          "data_hora_posicao": "18/11/2026 18:14:27",
           "lat": -26.88736,
           "lon": -48.7212
         },
@@ -175,9 +175,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 17:59:21",
-          "lat": -29.9834112,
-          "lon": -51.1866336
+          "data_hora_posicao": "18/11/2026 18:15:21",
+          "lat": -29.9834016,
+          "lon": -51.186624
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -216,7 +216,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 17:59:06",
+          "data_hora_posicao": "18/11/2026 18:15:06",
           "lat": -26.8876544,
           "lon": -48.7207168
         },
@@ -235,6 +235,21 @@
   "CMP": {
     "veiculos": [
       {
+        "manif": "GRU074864-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 501.0,
+        "frete_rs": 1530.38,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "ITJ024149-1",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
@@ -246,10 +261,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.35 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "18/11/2026 17:58:36",
-          "lat": -25.9014992,
-          "lon": -48.9249472
+          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:12:36",
+          "lat": -25.8535232,
+          "lon": -48.98096
         },
         "distancia_km": null,
         "proximo": false
@@ -266,10 +281,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.35 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "18/11/2026 17:58:36",
-          "lat": -25.9014992,
-          "lon": -48.9249472
+          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:12:36",
+          "lat": -25.8535232,
+          "lon": -48.98096
         },
         "distancia_km": null,
         "proximo": false
@@ -286,16 +301,21 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.35 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "18/11/2026 17:58:36",
-          "lat": -25.9014992,
-          "lon": -48.9249472
+          "referencia": "0.36 km de PRF - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 18:12:36",
+          "lat": -25.8535232,
+          "lon": -48.98096
         },
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 501.0,
+        "frete_rs": 1530.38,
+        "qtde": 1
+      },
       "Itajaí": {
         "peso_kg": 1841.73,
         "frete_rs": 3757.61,
@@ -327,10 +347,10 @@
         "frete_rs": 2914.58,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:00:05",
-          "lat": -26.8877533,
-          "lon": -48.7206068
+          "referencia": "0.14 km de PATIO PASETTO - ITAJAI - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 18:15:28",
+          "lat": -26.906506,
+          "lon": -48.7145975
         },
         "distancia_km": null,
         "proximo": false
@@ -359,7 +379,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 17:59:36",
+          "data_hora_posicao": "18/11/2026 18:15:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
@@ -379,9 +399,29 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 18:00:22",
+          "data_hora_posicao": "18/11/2026 18:14:22",
           "lat": -27.2058208,
           "lon": -49.6497664
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044490-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 2531.63,
+        "frete_rs": 2205.93,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:14:11",
+          "lat": -27.2060704,
+          "lon": -49.6493504
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -394,9 +434,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 300.91,
-        "frete_rs": 770.94,
-        "qtde": 1
+        "peso_kg": 2832.54,
+        "frete_rs": 2976.87,
+        "qtde": 2
       }
     }
   },
@@ -415,9 +455,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 17:59:58",
-          "lat": -29.9837916666667,
-          "lon": -51.186985
+          "data_hora_posicao": "18/11/2026 18:14:25",
+          "lat": -29.9839333333333,
+          "lon": -51.1869733333333
         },
         "distancia_km": null,
         "proximo": false
@@ -445,12 +485,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de TELHANORTE TATUAPÉ - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 17:59:04",
-          "lat": -23.5415568,
-          "lon": -46.5806016
+          "referencia": "0.6 km de CONTINENTAL BRASIL INDÚSTRIA AUTOMOTIVA LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 18:15:04",
+          "lat": -23.4953312,
+          "lon": -46.5546912
         },
-        "distancia_km": 14.4,
+        "distancia_km": 9.8,
         "proximo": true
       },
       {
@@ -465,22 +505,42 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de TELHANORTE TATUAPÉ - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 17:59:04",
-          "lat": -23.5415568,
-          "lon": -46.5806016
+          "referencia": "0.6 km de CONTINENTAL BRASIL INDÚSTRIA AUTOMOTIVA LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 18:15:04",
+          "lat": -23.4953312,
+          "lon": -46.5546912
         },
-        "distancia_km": 14.4,
+        "distancia_km": 9.8,
         "proximo": true
+      },
+      {
+        "manif": "RSL044491-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 18:14:11",
+          "lat": -27.2060704,
+          "lon": -49.6493504
+        },
+        "distancia_km": 524.5,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 15750.73,
-        "frete_rs": 11109.029999999999,
-        "qtde": 2
+        "peso_kg": 35776.130000000005,
+        "frete_rs": 22103.309999999998,
+        "qtde": 3
       }
     }
   },
-  "_gerado_em": "2026-11-18T18:02:35"
+  "_gerado_em": "2026-11-18T18:17:35"
 }
