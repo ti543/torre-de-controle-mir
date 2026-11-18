@@ -13,10 +13,10 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:44:11",
-          "lat": -27.2059904,
-          "lon": -49.648864
+          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 06:00:11",
+          "lat": -27.2059616,
+          "lon": -49.6487648
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.83 km de ENAEX BRASIL - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 05:44:52",
-          "lat": -25.3657744,
-          "lon": -49.0424704
+          "referencia": "0.05 km de PRF - BASE BR 116 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 06:00:52",
+          "lat": -25.5271408,
+          "lon": -49.1405632
         },
-        "distancia_km": 213.4,
+        "distancia_km": 193.5,
         "proximo": false
       },
       {
@@ -68,10 +68,10 @@
         "frete_rs": 4635.35,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:44:11",
-          "lat": -27.2059904,
-          "lon": -49.648864
+          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 06:00:11",
+          "lat": -27.2059616,
+          "lon": -49.6487648
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:41:56",
+          "data_hora_posicao": "18/11/2026 05:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -135,7 +135,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 05:45:06",
+          "data_hora_posicao": "18/11/2026 05:59:06",
           "lat": -26.8874272,
           "lon": -48.7211296
         },
@@ -196,7 +196,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 05:44:24",
+          "data_hora_posicao": "18/11/2026 06:00:23",
           "lat": -22.8469266666667,
           "lon": -47.1247783333333
         },
@@ -216,7 +216,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 05:44:03",
+          "data_hora_posicao": "18/11/2026 06:00:03",
           "lat": -23.4705773,
           "lon": -46.4620403
         },
@@ -246,12 +246,12 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.79 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 05:44:27",
-          "lat": -25.3070944,
-          "lon": -48.9779936
+          "referencia": "2.07 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
+          "data_hora_posicao": "18/11/2026 06:00:41",
+          "lat": -25.4420944,
+          "lon": -49.0925088
         },
-        "distancia_km": 177.6,
+        "distancia_km": 164.9,
         "proximo": false
       },
       {
@@ -292,12 +292,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.79 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 05:44:27",
-          "lat": -25.3070944,
-          "lon": -48.9779936
+          "referencia": "2.07 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
+          "data_hora_posicao": "18/11/2026 06:00:41",
+          "lat": -25.4420944,
+          "lon": -49.0925088
         },
-        "distancia_km": 563.6,
+        "distancia_km": 545.4,
         "proximo": false
       },
       {
@@ -312,12 +312,12 @@
         "frete_rs": 14632.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.32 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "18/11/2026 05:45:36",
-          "lat": -28.9119808,
-          "lon": -49.4842848
+          "referencia": "1.36 km de POSTO MAG (REDE FURNAS) - ARARANGUA/SC",
+          "data_hora_posicao": "18/11/2026 06:00:57",
+          "lat": -29.0343584,
+          "lon": -49.6075168
         },
-        "distancia_km": 203.4,
+        "distancia_km": 185.7,
         "proximo": false
       },
       {
@@ -333,7 +333,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 05:45:19",
+          "data_hora_posicao": "18/11/2026 05:59:19",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -353,7 +353,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 05:45:19",
+          "data_hora_posicao": "18/11/2026 05:59:19",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -372,12 +372,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.99 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:43:28",
-          "lat": -27.2942176,
-          "lon": -50.185424
+          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 05:55:28",
+          "lat": -27.3132864,
+          "lon": -50.3130432
         },
-        "distancia_km": 314.6,
+        "distancia_km": 308.9,
         "proximo": false
       }
     ],
@@ -419,7 +419,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 05:45:46",
+          "data_hora_posicao": "18/11/2026 05:59:46",
           "lat": -25.5276448,
           "lon": -49.2953056
         },
@@ -439,7 +439,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 05:44:36",
+          "data_hora_posicao": "18/11/2026 06:00:36",
           "lat": -25.5276,
           "lon": -49.29545
         },
@@ -459,7 +459,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 05:44:36",
+          "data_hora_posicao": "18/11/2026 06:00:36",
           "lat": -25.5276,
           "lon": -49.29545
         },
@@ -479,7 +479,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 05:44:36",
+          "data_hora_posicao": "18/11/2026 06:00:36",
           "lat": -25.5276,
           "lon": -49.29545
         },
@@ -519,12 +519,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 05:45:05",
-          "lat": -24.5293712,
-          "lon": -47.8562752
+          "referencia": "3.45 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "18/11/2026 05:59:05",
+          "lat": -24.4089648,
+          "lon": -47.748832
         },
-        "distancia_km": 184.2,
+        "distancia_km": 167.3,
         "proximo": false
       },
       {
@@ -539,12 +539,12 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 05:45:05",
-          "lat": -24.5293712,
-          "lon": -47.8562752
+          "referencia": "3.45 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "18/11/2026 05:59:05",
+          "lat": -24.4089648,
+          "lon": -47.748832
         },
-        "distancia_km": 184.2,
+        "distancia_km": 167.3,
         "proximo": false
       },
       {
@@ -574,12 +574,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 05:45:04",
-          "lat": -25.0977216,
-          "lon": -48.6643424
+          "referencia": "2.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 06:01:04",
+          "lat": -25.0428656,
+          "lon": -48.5402848
         },
-        "distancia_km": 287.3,
+        "distancia_km": 273.8,
         "proximo": false
       },
       {
@@ -594,12 +594,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.4 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 05:45:04",
-          "lat": -25.0977216,
-          "lon": -48.6643424
+          "referencia": "2.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 06:01:04",
+          "lat": -25.0428656,
+          "lon": -48.5402848
         },
-        "distancia_km": 287.3,
+        "distancia_km": 273.8,
         "proximo": false
       },
       {
@@ -614,12 +614,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 05:44:08",
-          "lat": -25.1775936,
-          "lon": -48.8735456
+          "referencia": "0.08 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 06:00:08",
+          "lat": -25.1762736,
+          "lon": -48.8729792
         },
-        "distancia_km": 309.4,
+        "distancia_km": 309.2,
         "proximo": false
       },
       {
@@ -701,7 +701,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:41:56",
+          "data_hora_posicao": "18/11/2026 05:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -720,10 +720,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.99 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:43:28",
-          "lat": -27.2942176,
-          "lon": -50.185424
+          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 05:55:28",
+          "lat": -27.3132864,
+          "lon": -50.3130432
         },
         "distancia_km": null,
         "proximo": false
@@ -740,10 +740,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.99 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:43:28",
-          "lat": -27.2942176,
-          "lon": -50.185424
+          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 05:55:28",
+          "lat": -27.3132864,
+          "lon": -50.3130432
         },
         "distancia_km": null,
         "proximo": false
@@ -777,7 +777,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:41:56",
+          "data_hora_posicao": "18/11/2026 05:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -796,10 +796,10 @@
         "frete_rs": 1952.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.99 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:43:28",
-          "lat": -27.2942176,
-          "lon": -50.185424
+          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 05:55:28",
+          "lat": -27.3132864,
+          "lon": -50.3130432
         },
         "distancia_km": null,
         "proximo": false
@@ -849,5 +849,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T05:47:34"
+  "_gerado_em": "2026-11-18T06:02:42"
 }
