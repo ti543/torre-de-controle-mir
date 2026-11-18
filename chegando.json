@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 16:29:51",
+          "data_hora_posicao": "18/11/2026 16:43:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de COMANDO DE POLICIAMENTO DE ÁREA METROPOLITANA 8 - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 16:28:26",
-          "lat": -23.5197424,
-          "lon": -46.7795936
+          "referencia": "0.51 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "18/11/2026 16:44:26",
+          "lat": -23.5662256,
+          "lon": -46.8191424
         },
-        "distancia_km": 501.1,
+        "distancia_km": 494.6,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 16:29:51",
+          "data_hora_posicao": "18/11/2026 16:43:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -94,12 +94,12 @@
         "frete_rs": 548.64,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.4 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "18/11/2026 16:29:21",
-          "lat": -29.8460928,
-          "lon": -51.2048384
+          "referencia": "0.41 km de CHIES PRODUTOS LTDA - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 16:45:21",
+          "lat": -29.9764704,
+          "lon": -51.1923328
         },
-        "distancia_km": 15.4,
+        "distancia_km": 0.9,
         "proximo": true
       },
       {
@@ -115,7 +115,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 16:28:27",
+          "data_hora_posicao": "18/11/2026 16:44:27",
           "lat": -26.9032608,
           "lon": -48.68248
         },
@@ -134,12 +134,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.4 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
-          "data_hora_posicao": "18/11/2026 16:29:21",
-          "lat": -29.8460928,
-          "lon": -51.2048384
+          "referencia": "0.41 km de CHIES PRODUTOS LTDA - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 16:45:21",
+          "lat": -29.9764704,
+          "lon": -51.1923328
         },
-        "distancia_km": 15.4,
+        "distancia_km": 0.9,
         "proximo": true
       }
     ],
@@ -175,54 +175,19 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de POLÍCIA RODOVIÁRIA FEDERAL - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 16:29:06",
-          "lat": -26.862832,
-          "lon": -49.0900992
+          "referencia": "0.69 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "18/11/2026 16:45:06",
+          "lat": -26.8956832,
+          "lon": -48.9199136
         },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074813-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 5552.0,
-        "frete_rs": 8771.53,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024148-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 409.73,
-        "frete_rs": 832.9,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 8745.48,
-        "frete_rs": 12545.62,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 409.73,
-        "frete_rs": 832.9,
+        "peso_kg": 3193.48,
+        "frete_rs": 3774.09,
         "qtde": 1
       }
     }
@@ -241,10 +206,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "18/11/2026 16:28:36",
-          "lat": -26.7960224,
-          "lon": -48.6798784
+          "referencia": "0.23 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 16:44:36",
+          "lat": -26.628048,
+          "lon": -48.708384
         },
         "distancia_km": null,
         "proximo": false
@@ -261,10 +226,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "18/11/2026 16:28:36",
-          "lat": -26.7960224,
-          "lon": -48.6798784
+          "referencia": "0.23 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 16:44:36",
+          "lat": -26.628048,
+          "lon": -48.708384
         },
         "distancia_km": null,
         "proximo": false
@@ -281,10 +246,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "18/11/2026 16:28:36",
-          "lat": -26.7960224,
-          "lon": -48.6798784
+          "referencia": "0.23 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "18/11/2026 16:44:36",
+          "lat": -26.628048,
+          "lon": -48.708384
         },
         "distancia_km": null,
         "proximo": false
@@ -311,6 +276,21 @@
   "GRU": {
     "veiculos": [
       {
+        "manif": "ITJ024150-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "MIR0001",
+        "motorista": "DANIEL HETTERICH",
+        "peso_real_kg": 119.2,
+        "frete_rs": 217.19,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "RSL044458-8",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -322,12 +302,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.2 km de POSTO CCC - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 16:29:04",
-          "lat": -23.62736,
-          "lon": -46.6293536
+          "referencia": "0.13 km de LIFE TECHNOLOGIES DO BRASIL - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 16:45:04",
+          "lat": -23.5969136,
+          "lon": -46.6220256
         },
-        "distancia_km": 24.4,
+        "distancia_km": 21.5,
         "proximo": true
       },
       {
@@ -342,16 +322,21 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.2 km de POSTO CCC - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 16:29:04",
-          "lat": -23.62736,
-          "lon": -46.6293536
+          "referencia": "0.13 km de LIFE TECHNOLOGIES DO BRASIL - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 16:45:04",
+          "lat": -23.5969136,
+          "lon": -46.6220256
         },
-        "distancia_km": 24.4,
+        "distancia_km": 21.5,
         "proximo": true
       }
     ],
     "por_origem": {
+      "Itajaí": {
+        "peso_kg": 119.2,
+        "frete_rs": 217.19,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 15750.73,
         "frete_rs": 11109.029999999999,
@@ -374,7 +359,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 16:28:22",
+          "data_hora_posicao": "18/11/2026 16:44:22",
           "lat": -27.2057216,
           "lon": -49.649872
         },
@@ -390,5 +375,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T16:32:34"
+  "_gerado_em": "2026-11-18T16:47:39"
 }
