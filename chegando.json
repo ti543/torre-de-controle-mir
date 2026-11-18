@@ -1,127 +1,26 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010430-2",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 4869.62,
-        "frete_rs": 10543.81,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "1.25 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 19:14:20",
-          "lat": -22.889515,
-          "lon": -47.0111666666667
-        },
-        "distancia_km": 85.6,
-        "proximo": false
-      },
-      {
-        "manif": "CTB013635-2",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 9767.68,
-        "frete_rs": 11994.3,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.78 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 19:15:46",
-          "lat": -25.5001072,
-          "lon": -49.2787328
-        },
-        "distancia_km": 363.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044458-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 9690.17,
-        "frete_rs": 6052.61,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 19:15:51",
-          "lat": -23.4707376,
-          "lon": -46.4621152
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044459-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6060.56,
-        "frete_rs": 5056.42,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 19:15:51",
-          "lat": -23.4707376,
-          "lon": -46.4621152
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044491-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 19:14:21",
-          "lat": -27.0997248,
-          "lon": -49.46096
-        },
-        "distancia_km": 503.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 4869.62,
-        "frete_rs": 10543.81,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 9767.68,
-        "frete_rs": 11994.3,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 35776.130000000005,
-        "frete_rs": 22103.309999999998,
-        "qtde": 3
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
+      {
+        "manif": "BRQ000766-8",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 8174.37,
+        "frete_rs": 11341.08,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.74 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "18/11/2026 19:29:49",
+          "lat": -27.0964183,
+          "lon": -48.9306615
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
       {
         "manif": "CTB013636-1",
         "origin_unit": "CTB",
@@ -134,12 +33,12 @@
         "frete_rs": 1966.59,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 19:14:59",
-          "lat": -25.5275283333333,
-          "lon": -49.2924516666667
+          "referencia": "0.25 km de POSTO GP FROTA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 19:30:59",
+          "lat": -25.5714983333333,
+          "lon": -49.19616
         },
-        "distancia_km": 161.6,
+        "distancia_km": 153.8,
         "proximo": false
       },
       {
@@ -155,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 19:15:36",
+          "data_hora_posicao": "18/11/2026 19:29:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
@@ -175,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 19:14:22",
+          "data_hora_posicao": "18/11/2026 19:30:22",
           "lat": -27.2058208,
           "lon": -49.6497664
         },
@@ -194,16 +93,21 @@
         "frete_rs": 2205.93,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "18/11/2026 19:14:21",
-          "lat": -27.0997248,
-          "lon": -49.46096
+          "referencia": "0.14 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
+          "data_hora_posicao": "18/11/2026 19:30:11",
+          "lat": -27.0348608,
+          "lon": -49.3888096
         },
-        "distancia_km": 77.0,
+        "distancia_km": 68.2,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Brusque": {
+        "peso_kg": 8174.37,
+        "frete_rs": 11341.08,
+        "qtde": 1
+      },
       "Curitiba": {
         "peso_kg": 2234.72,
         "frete_rs": 1966.59,
@@ -221,6 +125,87 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010430-2",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 4869.62,
+        "frete_rs": 10543.81,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "3.67 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
+          "data_hora_posicao": "18/11/2026 19:24:20",
+          "lat": -22.9312883333333,
+          "lon": -46.93666
+        },
+        "distancia_km": 77.1,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013635-2",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 9767.68,
+        "frete_rs": 11994.3,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.13 km de CONCESSIONARIA MERCEDES BENZ - CURITIBA/PR",
+          "data_hora_posicao": "18/11/2026 19:29:46",
+          "lat": -25.4692352,
+          "lon": -49.2535776
+        },
+        "distancia_km": 359.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044491-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.14 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
+          "data_hora_posicao": "18/11/2026 19:30:11",
+          "lat": -27.0348608,
+          "lon": -49.3888096
+        },
+        "distancia_km": 493.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 4869.62,
+        "frete_rs": 10543.81,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 9767.68,
+        "frete_rs": 11994.3,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -235,12 +220,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.31 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 19:14:59",
-          "lat": -25.5275283333333,
-          "lon": -49.2924516666667
+          "referencia": "0.25 km de POSTO GP FROTA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 19:30:59",
+          "lat": -25.5714983333333,
+          "lon": -49.19616
         },
-        "distancia_km": 190.0,
+        "distancia_km": 187.3,
         "proximo": false
       },
       {
@@ -255,13 +240,13 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 19:06:23",
-          "lat": -27.258624,
-          "lon": -50.0474112
+          "referencia": "2.18 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:27:51",
+          "lat": -27.2657024,
+          "lon": -49.8932
         },
-        "distancia_km": 39.8,
-        "proximo": false
+        "distancia_km": 25.0,
+        "proximo": true
       },
       {
         "manif": "GRU074862-5",
@@ -275,12 +260,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 19:14:26",
-          "lat": -24.3395248,
-          "lon": -47.6448288
+          "referencia": "0.72 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "18/11/2026 19:30:26",
+          "lat": -24.4402256,
+          "lon": -47.7972384
         },
-        "distancia_km": 376.7,
+        "distancia_km": 359.1,
         "proximo": false
       },
       {
@@ -295,13 +280,13 @@
         "frete_rs": 1547.86,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 19:06:23",
-          "lat": -27.258624,
-          "lon": -50.0474112
+          "referencia": "2.18 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:27:51",
+          "lat": -27.2657024,
+          "lon": -49.8932
         },
-        "distancia_km": 39.8,
-        "proximo": false
+        "distancia_km": 25.0,
+        "proximo": true
       },
       {
         "manif": "POA016266-3",
@@ -315,13 +300,13 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 19:06:23",
-          "lat": -27.258624,
-          "lon": -50.0474112
+          "referencia": "2.18 km de RESTAURANTE BRASILEIRISSIMO - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:27:51",
+          "lat": -27.2657024,
+          "lon": -49.8932
         },
-        "distancia_km": 39.8,
-        "proximo": false
+        "distancia_km": 25.0,
+        "proximo": true
       },
       {
         "manif": "POA016277-9",
@@ -336,7 +321,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 19:15:08",
+          "data_hora_posicao": "18/11/2026 19:30:37",
           "lat": -29.9837216666667,
           "lon": -51.186985
         },
@@ -401,10 +386,10 @@
         "frete_rs": 548.64,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 19:15:21",
-          "lat": -29.9834368,
-          "lon": -51.186656
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 19:29:21",
+          "lat": -29.9834144,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -422,9 +407,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 19:14:27",
-          "lat": -26.8874464,
-          "lon": -48.7211712
+          "data_hora_posicao": "18/11/2026 19:30:27",
+          "lat": -26.8873952,
+          "lon": -48.7212416
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -441,10 +426,10 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 19:15:21",
-          "lat": -29.9834368,
-          "lon": -51.186656
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 19:29:21",
+          "lat": -29.9834144,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -464,37 +449,6 @@
       "Rio do Sul": {
         "peso_kg": 6957.3,
         "frete_rs": 6251.49,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074741-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3193.48,
-        "frete_rs": 3774.09,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 19:15:06",
-          "lat": -26.8876544,
-          "lon": -48.7207168
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3193.48,
-        "frete_rs": 3774.09,
         "qtde": 1
       }
     }
@@ -528,10 +482,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:15:15",
-          "lat": -25.6580672,
-          "lon": -49.1555008
+          "referencia": "0.11 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 19:30:36",
+          "lat": -25.5398768,
+          "lon": -49.1504256
         },
         "distancia_km": null,
         "proximo": false
@@ -548,10 +502,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:15:15",
-          "lat": -25.6580672,
-          "lon": -49.1555008
+          "referencia": "0.11 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 19:30:36",
+          "lat": -25.5398768,
+          "lon": -49.1504256
         },
         "distancia_km": null,
         "proximo": false
@@ -568,10 +522,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:15:15",
-          "lat": -25.6580672,
-          "lon": -49.1555008
+          "referencia": "0.11 km de SEGATTI ALIMENTOS E LOGISTICA LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 19:30:36",
+          "lat": -25.5398768,
+          "lon": -49.1504256
         },
         "distancia_km": null,
         "proximo": false
@@ -615,7 +569,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 19:15:08",
+          "data_hora_posicao": "18/11/2026 19:30:37",
           "lat": -29.9837216666667,
           "lon": -51.186985
         },
@@ -631,5 +585,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T19:17:34"
+  "_gerado_em": "2026-11-18T19:32:43"
 }
