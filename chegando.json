@@ -28,12 +28,32 @@
         "frete_rs": 1354.22,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 20:44:11",
-          "lat": -26.3203024,
-          "lon": -48.8704832
+          "referencia": "0.06 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 21:00:11",
+          "lat": -26.4357856,
+          "lon": -48.8143968
         },
-        "distancia_km": 64.8,
+        "distancia_km": 51.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074807-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 3288.04,
+        "frete_rs": 2908.67,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "17/11/2026 21:00:27",
+          "lat": -23.4705312,
+          "lon": -46.4621216
+        },
+        "distancia_km": 442.7,
         "proximo": false
       }
     ],
@@ -46,6 +66,11 @@
       "Curitiba": {
         "peso_kg": 1022.84,
         "frete_rs": 1354.22,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 3288.04,
+        "frete_rs": 2908.67,
         "qtde": 1
       }
     }
@@ -64,13 +89,13 @@
         "frete_rs": 6036.55,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.12 km de PRF - 3ª DELEGACIA - ATIBAIA/SP",
-          "data_hora_posicao": "17/11/2026 20:44:12",
-          "lat": -23.1903483333333,
-          "lon": -46.58452
+          "referencia": "0.89 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
+          "data_hora_posicao": "17/11/2026 21:00:12",
+          "lat": -23.3004933333333,
+          "lon": -46.571925
         },
-        "distancia_km": 33.6,
-        "proximo": false
+        "distancia_km": 22.0,
+        "proximo": true
       },
       {
         "manif": "CMP010421-3",
@@ -84,13 +109,13 @@
         "frete_rs": 8632.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.12 km de PRF - 3ª DELEGACIA - ATIBAIA/SP",
-          "data_hora_posicao": "17/11/2026 20:44:12",
-          "lat": -23.1903483333333,
-          "lon": -46.58452
+          "referencia": "0.89 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
+          "data_hora_posicao": "17/11/2026 21:00:12",
+          "lat": -23.3004933333333,
+          "lon": -46.571925
         },
-        "distancia_km": 33.6,
-        "proximo": false
+        "distancia_km": 22.0,
+        "proximo": true
       },
       {
         "manif": "CTB013623-9",
@@ -104,12 +129,12 @@
         "frete_rs": 4877.29,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.02 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 20:45:31",
-          "lat": -25.148576,
-          "lon": -48.8591232
+          "referencia": "0.87 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "17/11/2026 20:59:17",
+          "lat": -25.101576,
+          "lon": -48.73304
         },
-        "distancia_km": 306.3,
+        "distancia_km": 293.0,
         "proximo": false
       },
       {
@@ -124,12 +149,12 @@
         "frete_rs": 531.98,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.02 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "17/11/2026 20:45:31",
-          "lat": -25.148576,
-          "lon": -48.8591232
+          "referencia": "0.87 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "17/11/2026 20:59:17",
+          "lat": -25.101576,
+          "lon": -48.73304
         },
-        "distancia_km": 306.3,
+        "distancia_km": 293.0,
         "proximo": false
       },
       {
@@ -144,10 +169,10 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 20:45:05",
-          "lat": -26.8874752,
-          "lon": -48.721264
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 21:01:05",
+          "lat": -26.8873984,
+          "lon": -48.7207936
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -164,10 +189,10 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 20:45:05",
-          "lat": -26.8874752,
-          "lon": -48.721264
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "17/11/2026 21:01:05",
+          "lat": -26.8873984,
+          "lon": -48.7207936
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -184,12 +209,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 20:45:04",
-          "lat": -26.7095696,
-          "lon": -49.0553664
+          "referencia": "0.61 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
+          "data_hora_posicao": "17/11/2026 20:59:04",
+          "lat": -26.6055376,
+          "lon": -49.0068544
         },
-        "distancia_km": 444.8,
+        "distancia_km": 432.7,
         "proximo": false
       },
       {
@@ -204,12 +229,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "6.35 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "17/11/2026 20:45:04",
-          "lat": -26.7095696,
-          "lon": -49.0553664
+          "referencia": "0.61 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
+          "data_hora_posicao": "17/11/2026 20:59:04",
+          "lat": -26.6055376,
+          "lon": -49.0068544
         },
-        "distancia_km": 444.8,
+        "distancia_km": 432.7,
         "proximo": false
       },
       {
@@ -224,12 +249,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
-          "data_hora_posicao": "17/11/2026 20:44:08",
-          "lat": -27.0130304,
-          "lon": -49.3717952
+          "referencia": "2.4 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "17/11/2026 21:00:08",
+          "lat": -26.9472288,
+          "lon": -49.2957952
         },
-        "distancia_km": 490.7,
+        "distancia_km": 480.3,
         "proximo": false
       },
       {
@@ -290,12 +315,12 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.3 km de POSTO ZANDONÁ 07 - JOINVILLE/SC",
-          "data_hora_posicao": "17/11/2026 20:44:11",
-          "lat": -26.3203024,
-          "lon": -48.8704832
+          "referencia": "0.06 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "17/11/2026 21:00:11",
+          "lat": -26.4357856,
+          "lon": -48.8143968
         },
-        "distancia_km": 125.2,
+        "distancia_km": 119.2,
         "proximo": false
       },
       {
@@ -310,13 +335,28 @@
         "frete_rs": 3443.81,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 20:45:28",
-          "lat": -27.2430848,
-          "lon": -49.68824
+          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:01:04",
+          "lat": -27.2124288,
+          "lon": -49.6513024
         },
-        "distancia_km": 5.6,
+        "distancia_km": 0.7,
         "proximo": true
+      },
+      {
+        "manif": "GRU074809-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 8136.86,
+        "frete_rs": 20067.02,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "LGS001614-4",
@@ -330,12 +370,12 @@
         "frete_rs": 2735.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 20:45:28",
-          "lat": -27.2430848,
-          "lon": -49.68824
+          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:01:04",
+          "lat": -27.2124288,
+          "lon": -49.6513024
         },
-        "distancia_km": 5.6,
+        "distancia_km": 0.7,
         "proximo": true
       },
       {
@@ -350,12 +390,12 @@
         "frete_rs": 6764.92,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
-          "data_hora_posicao": "17/11/2026 20:45:28",
-          "lat": -27.2430848,
-          "lon": -49.68824
+          "referencia": "0.32 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - RIO DO SUL/SC",
+          "data_hora_posicao": "17/11/2026 21:01:04",
+          "lat": -27.2124288,
+          "lon": -49.6513024
         },
-        "distancia_km": 5.6,
+        "distancia_km": 0.7,
         "proximo": true
       },
       {
@@ -371,7 +411,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:45:30",
+          "data_hora_posicao": "17/11/2026 20:59:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -389,6 +429,11 @@
         "peso_kg": 4500.51,
         "frete_rs": 6179.42,
         "qtde": 2
+      },
+      "Guarulhos": {
+        "peso_kg": 8136.86,
+        "frete_rs": 20067.02,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 10558.94,
@@ -412,7 +457,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "17/11/2026 20:45:06",
+          "data_hora_posicao": "17/11/2026 20:59:06",
           "lat": -26.8876864,
           "lon": -48.720672
         },
@@ -457,6 +502,26 @@
   "POA": {
     "veiculos": [
       {
+        "manif": "GRU074808-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 8392.42,
+        "frete_rs": 17114.44,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "17/11/2026 21:00:27",
+          "lat": -23.4705312,
+          "lon": -46.4621216
+        },
+        "distancia_km": 862.7,
+        "proximo": false
+      },
+      {
         "manif": "LGS001613-6",
         "origin_unit": "LGS",
         "origin_city": "LAGES/SC",
@@ -469,7 +534,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:45:27",
+          "data_hora_posicao": "17/11/2026 20:59:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -489,7 +554,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:45:27",
+          "data_hora_posicao": "17/11/2026 20:59:27",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -498,6 +563,11 @@
       }
     ],
     "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8392.42,
+        "frete_rs": 17114.44,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 545.0,
         "frete_rs": 374.98,
@@ -525,7 +595,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:45:30",
+          "data_hora_posicao": "17/11/2026 20:59:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -556,7 +626,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "17/11/2026 20:45:30",
+          "data_hora_posicao": "17/11/2026 20:59:30",
           "lat": -29.9834944,
           "lon": -51.1868704
         },
@@ -572,5 +642,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-17T20:47:36"
+  "_gerado_em": "2026-11-17T21:02:40"
 }
