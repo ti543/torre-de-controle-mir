@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 15:45:51",
+          "data_hora_posicao": "18/11/2026 15:59:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -33,12 +33,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.61 km de COOPERATIVA CENTRAL AURORA ALIMENTOS - FILIAL DE VENDAS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 15:44:26",
-          "lat": -23.5029904,
-          "lon": -46.5449952
+          "referencia": "0.18 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 16:00:26",
+          "lat": -23.5165824,
+          "lon": -46.6519808
         },
-        "distancia_km": 516.5,
+        "distancia_km": 508.9,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 15:45:51",
+          "data_hora_posicao": "18/11/2026 15:59:51",
           "lat": -27.823824,
           "lon": -50.3627616
         },
@@ -94,12 +94,12 @@
         "frete_rs": 548.64,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "4.04 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "18/11/2026 15:45:21",
-          "lat": -29.5201504,
-          "lon": -51.3565472
+          "referencia": "2.99 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "18/11/2026 15:59:21",
+          "lat": -29.6433696,
+          "lon": -51.2860384
         },
-        "distancia_km": 54.1,
+        "distancia_km": 39.0,
         "proximo": false
       },
       {
@@ -115,7 +115,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de LT CARGO TRANSPORTE E ARMAZENS GERAIS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 15:44:27",
+          "data_hora_posicao": "18/11/2026 16:00:27",
           "lat": -26.9032608,
           "lon": -48.68248
         },
@@ -134,12 +134,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.04 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "18/11/2026 15:45:21",
-          "lat": -29.5201504,
-          "lon": -51.3565472
+          "referencia": "2.99 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "18/11/2026 15:59:21",
+          "lat": -29.6433696,
+          "lon": -51.2860384
         },
-        "distancia_km": 54.1,
+        "distancia_km": 39.0,
         "proximo": false
       }
     ],
@@ -175,12 +175,12 @@
         "frete_rs": 153.26,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 15:43:40",
-          "lat": -26.8873491,
-          "lon": -48.7207775
+          "referencia": "0.19 km de TECADI (FOUR TRANSPORTES) - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 15:59:33",
+          "lat": -26.8889875,
+          "lon": -48.7402955
         },
-        "distancia_km": 0.0,
+        "distancia_km": 1.9,
         "proximo": true
       }
     ],
@@ -206,10 +206,10 @@
         "frete_rs": 3774.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.95 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 15:45:06",
-          "lat": -26.7716656,
-          "lon": -49.0776736
+          "referencia": "0.93 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "18/11/2026 16:00:37",
+          "lat": -26.7714944,
+          "lon": -49.0782688
         },
         "distancia_km": null,
         "proximo": false
@@ -258,79 +258,28 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044458-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 9690.17,
-        "frete_rs": 6052.61,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "3.1 km de PRF - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "18/11/2026 15:43:04",
-          "lat": -23.917952,
-          "lon": -46.5281056
-        },
-        "distancia_km": 50.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044459-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6060.56,
-        "frete_rs": 5056.42,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "3.1 km de PRF - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "18/11/2026 15:43:04",
-          "lat": -23.917952,
-          "lon": -46.5281056
-        },
-        "distancia_km": 50.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044460-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 33078.8,
-        "frete_rs": 18280.44,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de RECRIS LOG - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 15:44:08",
-          "lat": -23.4600656,
-          "lon": -46.4852096
-        },
-        "distancia_km": 2.6,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 48829.53,
-        "frete_rs": 29389.469999999998,
-        "qtde": 3
-      }
-    }
-  },
   "CMP": {
     "veiculos": [
+      {
+        "manif": "ITJ024149-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 1841.73,
+        "frete_rs": 3757.61,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 16:00:36",
+          "lat": -26.8876832,
+          "lon": -48.7206624
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
       {
         "manif": "RSL044465-1",
         "origin_unit": "RSL",
@@ -344,7 +293,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 15:44:37",
+          "data_hora_posicao": "18/11/2026 16:00:36",
           "lat": -26.8876832,
           "lon": -48.7206624
         },
@@ -364,7 +313,7 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 15:44:37",
+          "data_hora_posicao": "18/11/2026 16:00:36",
           "lat": -26.8876832,
           "lon": -48.7206624
         },
@@ -373,6 +322,11 @@
       }
     ],
     "por_origem": {
+      "Itajaí": {
+        "peso_kg": 1841.73,
+        "frete_rs": 3757.61,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 14778.77,
         "frete_rs": 17506.84,
@@ -385,5 +339,56 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T15:47:39"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044458-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 9690.17,
+        "frete_rs": 6052.61,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.22 km de POSTO FREE WAY - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "18/11/2026 15:59:04",
+          "lat": -23.8636528,
+          "lon": -46.5733504
+        },
+        "distancia_km": 45.2,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044459-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6060.56,
+        "frete_rs": 5056.42,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.22 km de POSTO FREE WAY - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "18/11/2026 15:59:04",
+          "lat": -23.8636528,
+          "lon": -46.5733504
+        },
+        "distancia_km": 45.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 15750.73,
+        "frete_rs": 11109.029999999999,
+        "qtde": 2
+      }
+    }
+  },
+  "_gerado_em": "2026-11-18T16:02:32"
 }
