@@ -13,10 +13,10 @@
         "frete_rs": 4095.49,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 06:00:11",
-          "lat": -27.2059616,
-          "lon": -49.6487648
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 07:00:11",
+          "lat": -27.205984,
+          "lon": -49.648864
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -48,12 +48,12 @@
         "frete_rs": 7025.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de PRF - BASE BR 116 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 06:00:52",
-          "lat": -25.5271408,
-          "lon": -49.1405632
+          "referencia": "0.05 km de POSTO PELANDA 03 (REDE PEDRO PELANDA) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "18/11/2026 07:00:52",
+          "lat": -25.7093472,
+          "lon": -49.141056
         },
-        "distancia_km": 193.5,
+        "distancia_km": 174.0,
         "proximo": false
       },
       {
@@ -68,10 +68,10 @@
         "frete_rs": 4635.35,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 06:00:11",
-          "lat": -27.2059616,
-          "lon": -49.6487648
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 07:00:11",
+          "lat": -27.205984,
+          "lon": -49.648864
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:57:56",
+          "data_hora_posicao": "18/11/2026 06:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -135,7 +135,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 05:59:06",
+          "data_hora_posicao": "18/11/2026 06:59:06",
           "lat": -26.8874272,
           "lon": -48.7211296
         },
@@ -166,72 +166,6 @@
       }
     }
   },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074806-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 690.0,
-        "frete_rs": 1605.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074814-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 8230.87,
-        "frete_rs": 9429.6,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 06:00:23",
-          "lat": -22.8469266666667,
-          "lon": -47.1247783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074828-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RYA0I16",
-        "motorista": "EDUARDO KUNIHIRO IWAMOTO",
-        "peso_real_kg": 1318.2,
-        "frete_rs": 4723.28,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 06:00:03",
-          "lat": -23.4705773,
-          "lon": -46.4620403
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 10239.070000000002,
-        "frete_rs": 15758.32,
-        "qtde": 3
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -246,12 +180,12 @@
         "frete_rs": 2908.67,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.07 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
-          "data_hora_posicao": "18/11/2026 06:00:41",
-          "lat": -25.4420944,
-          "lon": -49.0925088
+          "referencia": "0.72 km de MECANICA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 06:57:29",
+          "lat": -25.8562304,
+          "lon": -48.9520352
         },
-        "distancia_km": 164.9,
+        "distancia_km": 117.0,
         "proximo": false
       },
       {
@@ -292,12 +226,12 @@
         "frete_rs": 17114.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.07 km de CONNECT VENDAS ATACADO - PIRAQUARA/PR",
-          "data_hora_posicao": "18/11/2026 06:00:41",
-          "lat": -25.4420944,
-          "lon": -49.0925088
+          "referencia": "0.72 km de MECANICA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 06:57:29",
+          "lat": -25.8562304,
+          "lon": -48.9520352
         },
-        "distancia_km": 545.4,
+        "distancia_km": 508.7,
         "proximo": false
       },
       {
@@ -312,12 +246,12 @@
         "frete_rs": 14632.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.36 km de POSTO MAG (REDE FURNAS) - ARARANGUA/SC",
-          "data_hora_posicao": "18/11/2026 06:00:57",
-          "lat": -29.0343584,
-          "lon": -49.6075168
+          "referencia": "0.07 km de POSTO VALE MATRIZ - PASSO DE TORRES/SC",
+          "data_hora_posicao": "18/11/2026 06:59:36",
+          "lat": -29.252608,
+          "lon": -49.7546912
         },
-        "distancia_km": 185.7,
+        "distancia_km": 160.5,
         "proximo": false
       },
       {
@@ -333,7 +267,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 05:59:19",
+          "data_hora_posicao": "18/11/2026 06:59:18",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -353,7 +287,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 05:59:19",
+          "data_hora_posicao": "18/11/2026 06:59:18",
           "lat": -29.9834316666667,
           "lon": -51.1866366666667
         },
@@ -372,12 +306,12 @@
         "frete_rs": 6251.49,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:55:28",
-          "lat": -27.3132864,
-          "lon": -50.3130432
+          "referencia": "1.27 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 06:59:28",
+          "lat": -27.7865824,
+          "lon": -50.3530048
         },
-        "distancia_km": 308.9,
+        "distancia_km": 257.4,
         "proximo": false
       }
     ],
@@ -404,103 +338,33 @@
       }
     }
   },
-  "CTB": {
+  "CMP": {
     "veiculos": [
       {
-        "manif": "GRU074810-2",
+        "manif": "GRU074828-5",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 6766.4,
-        "frete_rs": 8644.33,
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RYA0I16",
+        "motorista": "EDUARDO KUNIHIRO IWAMOTO",
+        "peso_real_kg": 1318.2,
+        "frete_rs": 4723.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 05:59:46",
-          "lat": -25.5276448,
-          "lon": -49.2953056
+          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 07:00:30",
+          "lat": -23.4707226,
+          "lon": -46.4614143
         },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024137-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 8178.16,
-        "frete_rs": 7774.33,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 06:00:36",
-          "lat": -25.5276,
-          "lon": -49.29545
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024138-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 1.0,
-        "frete_rs": 101.5,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 06:00:36",
-          "lat": -25.5276,
-          "lon": -49.29545
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044461-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 6043.77,
-        "frete_rs": 4196.93,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 06:00:36",
-          "lat": -25.5276,
-          "lon": -49.29545
-        },
-        "distancia_km": 0.0,
-        "proximo": true
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 6766.4,
-        "frete_rs": 8644.33,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 8179.16,
-        "frete_rs": 7875.83,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 6043.77,
-        "frete_rs": 4196.93,
+        "peso_kg": 1318.2,
+        "frete_rs": 4723.28,
         "qtde": 1
       }
     }
@@ -519,12 +383,12 @@
         "frete_rs": 9934.77,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.45 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 05:59:05",
-          "lat": -24.4089648,
-          "lon": -47.748832
+          "referencia": "4.3 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 07:01:05",
+          "lat": -24.069824,
+          "lon": -47.244896
         },
-        "distancia_km": 167.3,
+        "distancia_km": 103.8,
         "proximo": false
       },
       {
@@ -539,12 +403,12 @@
         "frete_rs": 9814.7,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.45 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "18/11/2026 05:59:05",
-          "lat": -24.4089648,
-          "lon": -47.748832
+          "referencia": "4.3 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "18/11/2026 07:01:05",
+          "lat": -24.069824,
+          "lon": -47.244896
         },
-        "distancia_km": 167.3,
+        "distancia_km": 103.8,
         "proximo": false
       },
       {
@@ -574,12 +438,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 06:01:04",
-          "lat": -25.0428656,
-          "lon": -48.5402848
+          "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 06:56:31",
+          "lat": -24.9609472,
+          "lon": -48.3383552
         },
-        "distancia_km": 273.8,
+        "distancia_km": 252.3,
         "proximo": false
       },
       {
@@ -594,12 +458,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 06:01:04",
-          "lat": -25.0428656,
-          "lon": -48.5402848
+          "referencia": "1.14 km de POSTO RABI - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 06:56:31",
+          "lat": -24.9609472,
+          "lon": -48.3383552
         },
-        "distancia_km": 273.8,
+        "distancia_km": 252.3,
         "proximo": false
       },
       {
@@ -614,12 +478,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 06:00:08",
-          "lat": -25.1762736,
-          "lon": -48.8729792
+          "referencia": "2.04 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 06:56:30",
+          "lat": -24.9682688,
+          "lon": -48.3922176
         },
-        "distancia_km": 309.2,
+        "distancia_km": 257.0,
         "proximo": false
       },
       {
@@ -701,7 +565,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:57:56",
+          "data_hora_posicao": "18/11/2026 06:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -720,10 +584,10 @@
         "frete_rs": 1185.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:55:28",
-          "lat": -27.3132864,
-          "lon": -50.3130432
+          "referencia": "1.27 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 06:59:28",
+          "lat": -27.7865824,
+          "lon": -50.3530048
         },
         "distancia_km": null,
         "proximo": false
@@ -740,10 +604,10 @@
         "frete_rs": 168.1,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:55:28",
-          "lat": -27.3132864,
-          "lon": -50.3130432
+          "referencia": "1.27 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 06:59:28",
+          "lat": -27.7865824,
+          "lon": -50.3530048
         },
         "distancia_km": null,
         "proximo": false
@@ -777,7 +641,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 05:57:56",
+          "data_hora_posicao": "18/11/2026 06:57:56",
           "lat": -29.1463904,
           "lon": -51.1648928
         },
@@ -796,10 +660,10 @@
         "frete_rs": 1952.74,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.57 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 05:55:28",
-          "lat": -27.3132864,
-          "lon": -50.3130432
+          "referencia": "1.27 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "18/11/2026 06:59:28",
+          "lat": -27.7865824,
+          "lon": -50.3530048
         },
         "distancia_km": null,
         "proximo": false
@@ -832,10 +696,10 @@
         "frete_rs": 2094.05,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.72 km de 1ºPEL/1ºGP - 1º GRUPO - AGRONOMICA/SC",
-          "data_hora_posicao": "18/11/2026 05:38:10",
-          "lat": -27.2523466666667,
-          "lon": -49.70256
+          "referencia": "0.75 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 06:34:40",
+          "lat": -27.3073866666667,
+          "lon": -50.3081066666667
         },
         "distancia_km": null,
         "proximo": false
@@ -849,5 +713,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T06:02:42"
+  "_gerado_em": "2026-11-18T07:02:44"
 }
