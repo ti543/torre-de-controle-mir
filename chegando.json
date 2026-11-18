@@ -13,16 +13,16 @@
         "frete_rs": 10543.81,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.35 km de SAMSUNG ELETRONICA DA AMAZONIA LTDA - CAMPINAS/SP",
-          "data_hora_posicao": "18/11/2026 18:59:58",
-          "lat": -22.8496633333333,
-          "lon": -47.0293983333333
+          "referencia": "1.25 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
+          "data_hora_posicao": "18/11/2026 19:14:20",
+          "lat": -22.889515,
+          "lon": -47.0111666666667
         },
-        "distancia_km": 90.1,
+        "distancia_km": 85.6,
         "proximo": false
       },
       {
-        "manif": "CTB013633-6",
+        "manif": "CTB013635-2",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
         "dest_unit": "GRU",
@@ -33,12 +33,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "18/11/2026 19:00:45",
-          "lat": -25.527672,
-          "lon": -49.2954496
+          "referencia": "0.78 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
+          "data_hora_posicao": "18/11/2026 19:15:46",
+          "lat": -25.5001072,
+          "lon": -49.2787328
         },
-        "distancia_km": 366.7,
+        "distancia_km": 363.5,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 19:00:11",
-          "lat": -23.4711984,
-          "lon": -46.46544
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 19:15:51",
+          "lat": -23.4707376,
+          "lon": -46.4621152
         },
-        "distancia_km": 0.3,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 19:00:11",
-          "lat": -23.4711984,
-          "lon": -46.46544
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 19:15:51",
+          "lat": -23.4707376,
+          "lon": -46.4621152
         },
-        "distancia_km": 0.3,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "18/11/2026 19:00:58",
-          "lat": -27.1052928,
-          "lon": -49.522208
+          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "18/11/2026 19:14:21",
+          "lat": -27.0997248,
+          "lon": -49.46096
         },
-        "distancia_km": 507.9,
+        "distancia_km": 503.7,
         "proximo": false
       }
     ],
@@ -120,8 +120,129 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013636-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 2234.72,
+        "frete_rs": 1966.59,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.31 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "18/11/2026 19:14:59",
+          "lat": -25.5275283333333,
+          "lon": -49.2924516666667
+        },
+        "distancia_km": 161.6,
+        "proximo": false
+      },
+      {
+        "manif": "POA016275-2",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 3293.5,
+        "frete_rs": 6860.0,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 19:15:36",
+          "lat": -29.9834976,
+          "lon": -51.1869056
+        },
+        "distancia_km": 420.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044488-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "REB7J30",
+        "motorista": "ANDERSON LUIS COSTA RAMOS",
+        "peso_real_kg": 300.91,
+        "frete_rs": 770.94,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 19:14:22",
+          "lat": -27.2058208,
+          "lon": -49.6497664
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044490-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 2531.63,
+        "frete_rs": 2205.93,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "18/11/2026 19:14:21",
+          "lat": -27.0997248,
+          "lon": -49.46096
+        },
+        "distancia_km": 77.0,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 2234.72,
+        "frete_rs": 1966.59,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3293.5,
+        "frete_rs": 6860.0,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2832.54,
+        "frete_rs": 2976.87,
+        "qtde": 2
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013637-9",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 1532.62,
+        "frete_rs": 2397.4,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.31 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "18/11/2026 19:14:59",
+          "lat": -25.5275283333333,
+          "lon": -49.2924516666667
+        },
+        "distancia_km": 190.0,
+        "proximo": false
+      },
       {
         "manif": "CXS002246-2",
         "origin_unit": "CXS",
@@ -134,12 +255,12 @@
         "frete_rs": 3469.94,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "12.4 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 18:56:23",
-          "lat": -27.304832,
-          "lon": -50.097792
+          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:06:23",
+          "lat": -27.258624,
+          "lon": -50.0474112
         },
-        "distancia_km": 45.6,
+        "distancia_km": 39.8,
         "proximo": false
       },
       {
@@ -154,12 +275,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 19:00:26",
-          "lat": -24.2962512,
-          "lon": -47.4810976
+          "referencia": "1.8 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "18/11/2026 19:14:26",
+          "lat": -24.3395248,
+          "lon": -47.6448288
         },
-        "distancia_km": 389.7,
+        "distancia_km": 376.7,
         "proximo": false
       },
       {
@@ -174,12 +295,12 @@
         "frete_rs": 1547.86,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "12.4 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 18:56:23",
-          "lat": -27.304832,
-          "lon": -50.097792
+          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:06:23",
+          "lat": -27.258624,
+          "lon": -50.0474112
         },
-        "distancia_km": 45.6,
+        "distancia_km": 39.8,
         "proximo": false
       },
       {
@@ -194,12 +315,12 @@
         "frete_rs": 4461.25,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "12.4 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "18/11/2026 18:56:23",
-          "lat": -27.304832,
-          "lon": -50.097792
+          "referencia": "5.86 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "18/11/2026 19:06:23",
+          "lat": -27.258624,
+          "lon": -50.0474112
         },
-        "distancia_km": 45.6,
+        "distancia_km": 39.8,
         "proximo": false
       },
       {
@@ -215,7 +336,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:59:08",
+          "data_hora_posicao": "18/11/2026 19:15:08",
           "lat": -29.9837216666667,
           "lon": -51.186985
         },
@@ -239,6 +360,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 1532.62,
+        "frete_rs": 2397.4,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 2673.37,
         "frete_rs": 5017.8,
@@ -276,8 +402,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:59:21",
-          "lat": -29.98344,
+          "data_hora_posicao": "18/11/2026 19:15:21",
+          "lat": -29.9834368,
           "lon": -51.186656
         },
         "distancia_km": 0.0,
@@ -296,9 +422,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 19:00:27",
-          "lat": -26.88736,
-          "lon": -48.7212
+          "data_hora_posicao": "18/11/2026 19:14:27",
+          "lat": -26.8874464,
+          "lon": -48.7211712
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -316,8 +442,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:59:21",
-          "lat": -29.98344,
+          "data_hora_posicao": "18/11/2026 19:15:21",
+          "lat": -29.9834368,
           "lon": -51.186656
         },
         "distancia_km": 0.0,
@@ -357,7 +483,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 18:59:06",
+          "data_hora_posicao": "18/11/2026 19:15:06",
           "lat": -26.8876544,
           "lon": -48.7207168
         },
@@ -403,7 +529,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:00:36",
+          "data_hora_posicao": "18/11/2026 19:15:15",
           "lat": -25.6580672,
           "lon": -49.1555008
         },
@@ -423,7 +549,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:00:36",
+          "data_hora_posicao": "18/11/2026 19:15:15",
           "lat": -25.6580672,
           "lon": -49.1555008
         },
@@ -443,7 +569,7 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "18/11/2026 19:00:36",
+          "data_hora_posicao": "18/11/2026 19:15:15",
           "lat": -25.6580672,
           "lon": -49.1555008
         },
@@ -474,82 +600,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "POA016275-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:59:36",
-          "lat": -29.9834976,
-          "lon": -51.1869056
-        },
-        "distancia_km": 420.3,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044488-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "REB7J30",
-        "motorista": "ANDERSON LUIS COSTA RAMOS",
-        "peso_real_kg": 300.91,
-        "frete_rs": 770.94,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 19:00:22",
-          "lat": -27.2058208,
-          "lon": -49.6497664
-        },
-        "distancia_km": 98.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044490-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 2531.63,
-        "frete_rs": 2205.93,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "18/11/2026 19:00:58",
-          "lat": -27.1052928,
-          "lon": -49.522208
-        },
-        "distancia_km": 83.0,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2832.54,
-        "frete_rs": 2976.87,
-        "qtde": 2
-      }
-    }
-  },
   "CXS": {
     "veiculos": [
       {
@@ -565,7 +615,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 18:59:08",
+          "data_hora_posicao": "18/11/2026 19:15:08",
           "lat": -29.9837216666667,
           "lon": -51.186985
         },
@@ -581,5 +631,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T19:02:36"
+  "_gerado_em": "2026-11-18T19:17:34"
 }
