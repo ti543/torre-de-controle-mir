@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:29:51",
+          "data_hora_posicao": "18/11/2026 13:45:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -37,26 +37,6 @@
         "proximo": false
       },
       {
-        "manif": "GRU074811-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4382.09,
-        "frete_rs": 7025.43,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 13:28:52",
-          "lat": -27.2059456,
-          "lon": -49.6488256
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
         "manif": "POA016266-3",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -69,7 +49,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:29:51",
+          "data_hora_posicao": "18/11/2026 13:45:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -84,9 +64,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 12518.95,
-        "frete_rs": 27092.45,
-        "qtde": 2
+        "peso_kg": 8136.86,
+        "frete_rs": 20067.02,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3252.82,
@@ -110,9 +90,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 13:29:21",
-          "lat": -29.1463584,
-          "lon": -51.1648448
+          "data_hora_posicao": "18/11/2026 13:45:21",
+          "lat": -29.1463552,
+          "lon": -51.1648544
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -130,7 +110,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 13:30:27",
+          "data_hora_posicao": "18/11/2026 13:44:27",
           "lat": -26.8874208,
           "lon": -48.7212608
         },
@@ -150,9 +130,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "18/11/2026 13:29:21",
-          "lat": -29.1463584,
-          "lon": -51.1648448
+          "data_hora_posicao": "18/11/2026 13:45:21",
+          "lat": -29.1463552,
+          "lon": -51.1648544
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -191,7 +171,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.95 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "18/11/2026 13:29:06",
+          "data_hora_posicao": "18/11/2026 13:45:06",
           "lat": -26.7716656,
           "lon": -49.0776736
         },
@@ -226,7 +206,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 13:30:36",
+          "data_hora_posicao": "18/11/2026 13:44:36",
           "lat": -26.8423552,
           "lon": -49.2724032
         },
@@ -276,12 +256,12 @@
         "frete_rs": 6052.61,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.77 km de AUTO POSTO DE SERVICOS NIPPO - PERUIBE/SP",
-          "data_hora_posicao": "18/11/2026 13:30:41",
-          "lat": -24.3218624,
-          "lon": -47.0024992
+          "referencia": "0.4 km de POLICIA MILITAR - PERUIBE/SP",
+          "data_hora_posicao": "18/11/2026 13:45:04",
+          "lat": -24.3153328,
+          "lon": -46.9911488
         },
-        "distancia_km": 109.4,
+        "distancia_km": 108.2,
         "proximo": false
       },
       {
@@ -296,12 +276,12 @@
         "frete_rs": 5056.42,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.77 km de AUTO POSTO DE SERVICOS NIPPO - PERUIBE/SP",
-          "data_hora_posicao": "18/11/2026 13:30:41",
-          "lat": -24.3218624,
-          "lon": -47.0024992
+          "referencia": "0.4 km de POLICIA MILITAR - PERUIBE/SP",
+          "data_hora_posicao": "18/11/2026 13:45:04",
+          "lat": -24.3153328,
+          "lon": -46.9911488
         },
-        "distancia_km": 109.4,
+        "distancia_km": 108.2,
         "proximo": false
       },
       {
@@ -316,12 +296,12 @@
         "frete_rs": 18280.44,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "18/11/2026 13:30:08",
-          "lat": -23.6566288,
-          "lon": -46.850288
+          "referencia": "0.11 km de PRE - BARUERI/SP",
+          "data_hora_posicao": "18/11/2026 13:44:08",
+          "lat": -23.5208896,
+          "lon": -46.8154944
         },
-        "distancia_km": 44.6,
+        "distancia_km": 36.5,
         "proximo": false
       },
       {
@@ -388,37 +368,6 @@
       }
     }
   },
-  "FLN": {
-    "veiculos": [
-      {
-        "manif": "ITJ024147-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "FLN",
-        "dest_city": "PALHOCA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2375.49,
-        "frete_rs": 3754.92,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "18/11/2026 13:29:55",
-          "lat": -27.6744573,
-          "lon": -48.6979175
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2375.49,
-        "frete_rs": 3754.92,
-        "qtde": 1
-      }
-    }
-  },
   "LGS": {
     "veiculos": [
       {
@@ -434,7 +383,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "18/11/2026 13:29:51",
+          "data_hora_posicao": "18/11/2026 13:45:51",
           "lat": -27.8238464,
           "lon": -50.3628512
         },
@@ -465,7 +414,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "18/11/2026 13:30:36",
+          "data_hora_posicao": "18/11/2026 13:44:36",
           "lat": -26.8423552,
           "lon": -49.2724032
         },
@@ -481,5 +430,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T13:32:35"
+  "_gerado_em": "2026-11-18T13:47:30"
 }
