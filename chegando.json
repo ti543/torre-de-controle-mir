@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 05:44:16",
+          "data_hora_posicao": "19/11/2026 06:00:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -63,12 +63,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 05:45:05",
-          "lat": -25.1205152,
-          "lon": -48.8555008
+          "referencia": "2.96 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
+          "data_hora_posicao": "19/11/2026 05:59:05",
+          "lat": -25.1529152,
+          "lon": -48.8605312
         },
-        "distancia_km": 245.1,
+        "distancia_km": 241.5,
         "proximo": false
       },
       {
@@ -84,7 +84,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 05:44:16",
+          "data_hora_posicao": "19/11/2026 06:00:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -103,12 +103,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.51 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 05:45:43",
-          "lat": -29.1472166666667,
-          "lon": -51.22939
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 06:00:47",
+          "lat": -29.1463633333333,
+          "lon": -51.164875
         },
-        "distancia_km": 265.6,
+        "distancia_km": 261.9,
         "proximo": false
       }
     ],
@@ -150,9 +150,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 05:45:22",
-          "lat": -29.983392,
-          "lon": -51.1866144
+          "data_hora_posicao": "19/11/2026 05:59:22",
+          "lat": -29.983376,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -170,9 +170,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 05:45:22",
-          "lat": -29.983392,
-          "lon": -51.1866144
+          "data_hora_posicao": "19/11/2026 05:59:22",
+          "lat": -29.983376,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -189,12 +189,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.5 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "19/11/2026 05:44:19",
-          "lat": -27.268898,
-          "lon": -50.06169
+          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "19/11/2026 06:00:05",
+          "lat": -27.2864058,
+          "lon": -50.1555563
         },
-        "distancia_km": 321.2,
+        "distancia_km": 316.3,
         "proximo": false
       }
     ],
@@ -241,7 +241,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:44:56",
+          "data_hora_posicao": "19/11/2026 05:58:56",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -261,7 +261,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:44:56",
+          "data_hora_posicao": "19/11/2026 05:58:56",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -281,9 +281,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:44:36",
-          "lat": -22.8465952,
-          "lon": -47.1247648
+          "data_hora_posicao": "19/11/2026 06:00:36",
+          "lat": -22.8466832,
+          "lon": -47.124784
         },
         "distancia_km": null,
         "proximo": false
@@ -301,9 +301,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:44:36",
-          "lat": -22.8465952,
-          "lon": -47.1247648
+          "data_hora_posicao": "19/11/2026 06:00:36",
+          "lat": -22.8466832,
+          "lon": -47.124784
         },
         "distancia_km": null,
         "proximo": false
@@ -321,9 +321,9 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:44:36",
-          "lat": -22.8465952,
-          "lon": -47.1247648
+          "data_hora_posicao": "19/11/2026 06:00:36",
+          "lat": -22.8466832,
+          "lon": -47.124784
         },
         "distancia_km": null,
         "proximo": false
@@ -366,12 +366,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.7 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 05:45:01",
-          "lat": -24.7786832,
-          "lon": -48.2114688
+          "referencia": "1.1 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 05:56:54",
+          "lat": -24.8746496,
+          "lon": -48.2230528
         },
-        "distancia_km": 240.0,
+        "distancia_km": 229.3,
         "proximo": false
       },
       {
@@ -401,12 +401,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.48 km de POSTO SIM CAMARÃO - LAGUNA/SC",
-          "data_hora_posicao": "19/11/2026 05:45:37",
-          "lat": -28.4190144,
-          "lon": -48.7962272
+          "referencia": "1.04 km de POSTO RECANTO - IMBITUBA/SC",
+          "data_hora_posicao": "19/11/2026 06:00:29",
+          "lat": -28.2735776,
+          "lon": -48.6999328
         },
-        "distancia_km": 170.5,
+        "distancia_km": 154.1,
         "proximo": false
       }
     ],
@@ -437,12 +437,12 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.74 km de ESTACIONAMENTO POSTO DINOSSAURO SUL - ANTONINA/PR",
-          "data_hora_posicao": "19/11/2026 05:45:17",
-          "lat": -25.1055104,
-          "lon": -48.73976
+          "referencia": "2.11 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 05:59:17",
+          "lat": -25.1609024,
+          "lon": -48.8621184
         },
-        "distancia_km": 73.0,
+        "distancia_km": 59.7,
         "proximo": false
       },
       {
@@ -458,7 +458,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:44:52",
+          "data_hora_posicao": "19/11/2026 05:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -478,7 +478,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:44:52",
+          "data_hora_posicao": "19/11/2026 05:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -498,7 +498,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:44:52",
+          "data_hora_posicao": "19/11/2026 05:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -564,12 +564,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 05:45:06",
-          "lat": -24.276504,
-          "lon": -47.415296
+          "referencia": "0.47 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 05:59:06",
+          "lat": -24.1621744,
+          "lon": -47.3287776
         },
-        "distancia_km": 132.0,
+        "distancia_km": 117.0,
         "proximo": false
       },
       {
@@ -584,12 +584,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 05:45:06",
-          "lat": -24.276504,
-          "lon": -47.415296
+          "referencia": "0.47 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 05:59:06",
+          "lat": -24.1621744,
+          "lon": -47.3287776
         },
-        "distancia_km": 132.0,
+        "distancia_km": 117.0,
         "proximo": false
       },
       {
@@ -604,12 +604,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.66 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "19/11/2026 05:38:11",
-          "lat": -24.9210416,
-          "lon": -48.2593536
+          "referencia": "0.47 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 06:00:11",
+          "lat": -24.7849376,
+          "lon": -48.1869056
         },
-        "distancia_km": 243.4,
+        "distancia_km": 228.0,
         "proximo": false
       },
       {
@@ -639,12 +639,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.66 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "19/11/2026 05:38:11",
-          "lat": -24.9210416,
-          "lon": -48.2593536
+          "referencia": "0.47 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 06:00:11",
+          "lat": -24.7849376,
+          "lon": -48.1869056
         },
-        "distancia_km": 243.4,
+        "distancia_km": 228.0,
         "proximo": false
       },
       {
@@ -803,10 +803,10 @@
         "frete_rs": 1723.45,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.51 km de MARTIPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 05:45:43",
-          "lat": -29.1472166666667,
-          "lon": -51.22939
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 06:00:47",
+          "lat": -29.1463633333333,
+          "lon": -51.164875
         },
         "distancia_km": null,
         "proximo": false
@@ -823,10 +823,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.5 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "19/11/2026 05:44:19",
-          "lat": -27.268898,
-          "lon": -50.06169
+          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "19/11/2026 06:00:05",
+          "lat": -27.2864058,
+          "lon": -50.1555563
         },
         "distancia_km": null,
         "proximo": false
@@ -859,10 +859,10 @@
         "frete_rs": 2824.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.5 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "19/11/2026 05:44:19",
-          "lat": -27.268898,
-          "lon": -50.06169
+          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "19/11/2026 06:00:05",
+          "lat": -27.2864058,
+          "lon": -50.1555563
         },
         "distancia_km": null,
         "proximo": false
@@ -876,5 +876,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T05:47:34"
+  "_gerado_em": "2026-11-19T06:02:33"
 }
