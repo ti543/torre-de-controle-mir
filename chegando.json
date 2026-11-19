@@ -13,12 +13,12 @@
         "frete_rs": 10543.81,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.08 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
-          "data_hora_posicao": "18/11/2026 20:59:04",
-          "lat": -23.426215,
-          "lon": -46.573365
+          "referencia": "0.18 km de 1ª DELEGACIA PRF - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 21:15:13",
+          "lat": -23.4702116666667,
+          "lon": -46.5140333333333
         },
-        "distancia_km": 12.4,
+        "distancia_km": 5.3,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.89 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 20:59:46",
-          "lat": -25.1977296,
-          "lon": -48.893552
+          "referencia": "0.68 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 21:15:46",
+          "lat": -25.1097824,
+          "lon": -48.8000448
         },
-        "distancia_km": 312.3,
+        "distancia_km": 298.9,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de JV MECATRÔNICA - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 21:00:54",
-          "lat": -26.3810992,
-          "lon": -48.8515936
+          "referencia": "0.3 km de CD JOINVILLE - JVL - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:15:12",
+          "lat": -26.2298528,
+          "lon": -48.9165408
         },
-        "distancia_km": 403.5,
+        "distancia_km": 394.3,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de JV MECATRÔNICA - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 21:00:54",
-          "lat": -26.3810992,
-          "lon": -48.8515936
+          "referencia": "0.3 km de CD JOINVILLE - JVL - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:15:12",
+          "lat": -26.2298528,
+          "lon": -48.9165408
         },
-        "distancia_km": 403.5,
+        "distancia_km": 394.3,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.16 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 21:00:51",
-          "lat": -26.8891392,
-          "lon": -48.721168
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 21:15:42",
+          "lat": -26.8876832,
+          "lon": -48.7206688
         },
-        "distancia_km": 442.9,
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -159,12 +159,12 @@
         "frete_rs": 1966.59,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de FILIAL APOIO COMERCIO E TRANSPORTE LTDA - BR 101 - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 21:00:23",
-          "lat": -26.33446,
-          "lon": -48.8605916666667
+          "referencia": "1.54 km de FILIAL MIR TRANSPORTES - ARAQUARI/SC",
+          "data_hora_posicao": "18/11/2026 21:14:23",
+          "lat": -26.4550233333333,
+          "lon": -48.769
         },
-        "distancia_km": 63.0,
+        "distancia_km": 48.3,
         "proximo": false
       },
       {
@@ -180,32 +180,12 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:59:36",
+          "data_hora_posicao": "18/11/2026 21:15:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
         "distancia_km": 420.3,
         "proximo": false
-      },
-      {
-        "manif": "RSL044490-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 2531.63,
-        "frete_rs": 2205.93,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.16 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 21:00:51",
-          "lat": -26.8891392,
-          "lon": -48.721168
-        },
-        "distancia_km": 0.2,
-        "proximo": true
       },
       {
         "manif": "TBO016473-9",
@@ -234,11 +214,6 @@
         "frete_rs": 6860.0,
         "qtde": 1
       },
-      "Rio do Sul": {
-        "peso_kg": 2531.63,
-        "frete_rs": 2205.93,
-        "qtde": 1
-      },
       "Timbó": {
         "peso_kg": 175.5,
         "frete_rs": 401.58,
@@ -260,12 +235,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de FILIAL APOIO COMERCIO E TRANSPORTE LTDA - BR 101 - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 21:00:23",
-          "lat": -26.33446,
-          "lon": -48.8605916666667
+          "referencia": "1.54 km de FILIAL MIR TRANSPORTES - ARAQUARI/SC",
+          "data_hora_posicao": "18/11/2026 21:14:23",
+          "lat": -26.4550233333333,
+          "lon": -48.769
         },
-        "distancia_km": 124.6,
+        "distancia_km": 120.9,
         "proximo": false
       },
       {
@@ -280,12 +255,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "18/11/2026 20:59:09",
-          "lat": -24.7935136,
-          "lon": -48.2110048
+          "referencia": "0.92 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 21:09:31",
+          "lat": -24.8750592,
+          "lon": -48.2209536
         },
-        "distancia_km": 304.4,
+        "distancia_km": 295.9,
         "proximo": false
       },
       {
@@ -301,7 +276,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:59:06",
+          "data_hora_posicao": "18/11/2026 21:15:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -342,9 +317,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:59:21",
-          "lat": -29.9834144,
-          "lon": -51.1866144
+          "data_hora_posicao": "18/11/2026 21:15:21",
+          "lat": -29.9834112,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -362,9 +337,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:59:21",
-          "lat": -29.9834144,
-          "lon": -51.1866144
+          "data_hora_posicao": "18/11/2026 21:15:21",
+          "lat": -29.9834112,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -412,10 +387,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 20:58:36",
-          "lat": -25.0315472,
-          "lon": -48.5332288
+          "referencia": "4.45 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:15:04",
+          "lat": -24.9655472,
+          "lon": -48.4630656
         },
         "distancia_km": null,
         "proximo": false
@@ -432,10 +407,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 20:58:36",
-          "lat": -25.0315472,
-          "lon": -48.5332288
+          "referencia": "4.45 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:15:04",
+          "lat": -24.9655472,
+          "lon": -48.4630656
         },
         "distancia_km": null,
         "proximo": false
@@ -452,10 +427,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 20:58:36",
-          "lat": -25.0315472,
-          "lon": -48.5332288
+          "referencia": "4.45 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:15:04",
+          "lat": -24.9655472,
+          "lon": -48.4630656
         },
         "distancia_km": null,
         "proximo": false
@@ -499,7 +474,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:59:06",
+          "data_hora_posicao": "18/11/2026 21:15:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -515,5 +490,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T21:02:36"
+  "_gerado_em": "2026-11-18T21:17:36"
 }
