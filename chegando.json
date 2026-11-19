@@ -1,255 +1,26 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002248-9",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 943.0,
-        "frete_rs": 833.4,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "4.78 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 10:14:25",
-          "lat": -28.4308166666667,
-          "lon": -50.870675
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 943.0,
-        "frete_rs": 833.4,
-        "qtde": 1
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CXS002249-7",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 329.3,
-        "frete_rs": 907.22,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "4.78 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 10:14:25",
-          "lat": -28.4308166666667,
-          "lon": -50.870675
-        },
-        "distancia_km": 181.6,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074869-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 9976.57,
-        "frete_rs": 17532.52,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074872-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 5863.88,
-        "frete_rs": 6342.46,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.48 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "19/11/2026 10:15:05",
-          "lat": -26.8702336,
-          "lon": -49.2117056
-        },
-        "distancia_km": 57.2,
-        "proximo": false
-      },
-      {
-        "manif": "POA016277-9",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1055.82,
-        "frete_rs": 1232.04,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "4.78 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 10:14:25",
-          "lat": -28.4308166666667,
-          "lon": -50.870675
-        },
-        "distancia_km": 181.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 329.3,
-        "frete_rs": 907.22,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 15840.45,
-        "frete_rs": 23874.98,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 1055.82,
-        "frete_rs": 1232.04,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074867-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 14766.61,
-        "frete_rs": 20255.79,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "19/11/2026 10:14:08",
-          "lat": -26.5539152,
-          "lon": -48.7198144
-        },
-        "distancia_km": 37.1,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 14766.61,
-        "frete_rs": 20255.79,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074871-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 11201.41,
-        "frete_rs": 13471.48,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024164-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 2278.19,
-        "frete_rs": 2576.73,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.65 km de CHURRASCARIA TONI - GASPAR/SC",
-          "data_hora_posicao": "19/11/2026 10:13:37",
-          "lat": -26.8956864,
-          "lon": -48.920384
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024165-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4123.79,
-        "frete_rs": 7411.54,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.65 km de CHURRASCARIA TONI - GASPAR/SC",
-          "data_hora_posicao": "19/11/2026 10:13:37",
-          "lat": -26.8956864,
-          "lon": -48.920384
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044507-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3184.71,
-        "frete_rs": 3418.17,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 11201.41,
-        "frete_rs": 13471.48,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 6401.98,
-        "frete_rs": 9988.27,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 3184.71,
-        "frete_rs": 3418.17,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
+      {
+        "manif": "CMP010436-1",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 4427.3,
+        "frete_rs": 4611.08,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "19/11/2026 10:29:20",
+          "lat": -22.8466704,
+          "lon": -47.1248544
+        },
+        "distancia_km": 97.0,
+        "proximo": false
+      },
       {
         "manif": "ITJ024152-1",
         "origin_unit": "ITJ",
@@ -262,12 +33,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.45 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "19/11/2026 10:15:06",
-          "lat": -23.6361312,
-          "lon": -46.8306048
+          "referencia": "0.66 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 10:29:40",
+          "lat": -23.5626752,
+          "lon": -46.8200064
         },
-        "distancia_km": 41.8,
+        "distancia_km": 37.9,
         "proximo": false
       },
       {
@@ -282,12 +53,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.45 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "19/11/2026 10:15:06",
-          "lat": -23.6361312,
-          "lon": -46.8306048
+          "referencia": "0.66 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 10:29:40",
+          "lat": -23.5626752,
+          "lon": -46.8200064
         },
-        "distancia_km": 41.8,
+        "distancia_km": 37.9,
         "proximo": false
       },
       {
@@ -302,12 +73,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 10:14:11",
-          "lat": -23.84256,
-          "lon": -46.9320672
+          "referencia": "0.79 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 10:28:11",
+          "lat": -23.8333168,
+          "lon": -46.9294784
         },
-        "distancia_km": 63.3,
+        "distancia_km": 62.4,
         "proximo": false
       },
       {
@@ -337,12 +108,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.26 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 10:14:11",
-          "lat": -23.84256,
-          "lon": -46.9320672
+          "referencia": "0.79 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 10:28:11",
+          "lat": -23.8333168,
+          "lon": -46.9294784
         },
-        "distancia_km": 63.3,
+        "distancia_km": 62.4,
         "proximo": false
       },
       {
@@ -392,6 +163,11 @@
       }
     ],
     "por_origem": {
+      "Campinas": {
+        "peso_kg": 4427.3,
+        "frete_rs": 4611.08,
+        "qtde": 1
+      },
       "Itajaí": {
         "peso_kg": 26425.510000000002,
         "frete_rs": 38749.009999999995,
@@ -409,28 +185,271 @@
       }
     }
   },
-  "CRC": {
+  "ITJ": {
     "veiculos": [
       {
-        "manif": "ITJ024155-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
+        "manif": "CRC000399-9",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
         "placa": "OKD7820",
         "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 1706.05,
-        "frete_rs": 4586.05,
+        "peso_real_kg": 929.71,
+        "frete_rs": 1527.32,
+        "grupo_origem": "CRC",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074867-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 14766.61,
+        "frete_rs": 20255.79,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.49 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 10:28:08",
+          "lat": -26.586576,
+          "lon": -48.7218464
+        },
+        "distancia_km": 33.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "CRC": {
+        "peso_kg": 929.71,
+        "frete_rs": 1527.32,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 14766.61,
+        "frete_rs": 20255.79,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002248-9",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 943.0,
+        "frete_rs": 833.4,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.69 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:28:25",
+          "lat": -28.2950816666667,
+          "lon": -50.8023333333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 943.0,
+        "frete_rs": 833.4,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CXS002249-7",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 329.3,
+        "frete_rs": 907.22,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "1.69 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:28:25",
+          "lat": -28.2950816666667,
+          "lon": -50.8023333333333
+        },
+        "distancia_km": 165.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074869-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 9976.57,
+        "frete_rs": 17532.52,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074872-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 5863.88,
+        "frete_rs": 6342.46,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "2.87 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "19/11/2026 10:25:05",
+          "lat": -26.9403584,
+          "lon": -49.2925568
+        },
+        "distancia_km": 46.1,
+        "proximo": false
+      },
+      {
+        "manif": "POA016277-9",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1055.82,
+        "frete_rs": 1232.04,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "1.69 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:28:25",
+          "lat": -28.2950816666667,
+          "lon": -50.8023333333333
+        },
+        "distancia_km": 165.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 329.3,
+        "frete_rs": 907.22,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 15840.45,
+        "frete_rs": 23874.98,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 1055.82,
+        "frete_rs": 1232.04,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074871-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 11201.41,
+        "frete_rs": 13471.48,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024164-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2278.19,
+        "frete_rs": 2576.73,
         "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.97 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "19/11/2026 10:29:37",
+          "lat": -26.8596768,
+          "lon": -49.0765312
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024165-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4123.79,
+        "frete_rs": 7411.54,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.97 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "19/11/2026 10:29:37",
+          "lat": -26.8596768,
+          "lon": -49.0765312
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044507-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3184.71,
+        "frete_rs": 3418.17,
+        "grupo_origem": "Rio do Sul",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 11201.41,
+        "frete_rs": 13471.48,
+        "qtde": 1
+      },
       "Itajaí": {
-        "peso_kg": 1706.05,
-        "frete_rs": 4586.05,
+        "peso_kg": 6401.98,
+        "frete_rs": 9988.27,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 3184.71,
+        "frete_rs": 3418.17,
         "qtde": 1
       }
     }
@@ -449,10 +468,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 10:14:15",
-          "lat": -28.480685,
-          "lon": -50.8997945
+          "referencia": "0.51 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:28:42",
+          "lat": -28.5378345,
+          "lon": -50.9687223
         },
         "distancia_km": null,
         "proximo": false
@@ -480,12 +499,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 10:14:15",
-          "lat": -28.480685,
-          "lon": -50.8997945
+          "referencia": "0.51 km de RESTAURANTE KAPELLI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:28:42",
+          "lat": -28.5378345,
+          "lon": -50.9687223
         },
-        "distancia_km": 169.4,
+        "distancia_km": 162.1,
         "proximo": false
       }
     ],
@@ -497,5 +516,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T10:17:44"
+  "_gerado_em": "2026-11-19T10:32:33"
 }
