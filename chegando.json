@@ -1,130 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000766-8",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 8174.37,
-        "frete_rs": 11341.08,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.1 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 20:44:29",
-          "lat": -26.9092591,
-          "lon": -48.7132943
-        },
-        "distancia_km": 2.5,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013636-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 2234.72,
-        "frete_rs": 1966.59,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.13 km de BRITÂNIA LOGÍSTICA - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 20:44:24",
-          "lat": -26.1626933333333,
-          "lon": -48.9074733333333
-        },
-        "distancia_km": 82.7,
-        "proximo": false
-      },
-      {
-        "manif": "POA016275-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:45:36",
-          "lat": -29.9834976,
-          "lon": -51.1869056
-        },
-        "distancia_km": 420.3,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044490-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 2531.63,
-        "frete_rs": 2205.93,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.16 km de POSTO BOUTIQUE - ILHOTA/SC",
-          "data_hora_posicao": "18/11/2026 20:44:11",
-          "lat": -26.8529824,
-          "lon": -48.8059424
-        },
-        "distancia_km": 9.3,
-        "proximo": true
-      },
-      {
-        "manif": "TBO016473-9",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 175.5,
-        "frete_rs": 401.58,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 8174.37,
-        "frete_rs": 11341.08,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 2234.72,
-        "frete_rs": 1966.59,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2531.63,
-        "frete_rs": 2205.93,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 175.5,
-        "frete_rs": 401.58,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -139,12 +13,12 @@
         "frete_rs": 10543.81,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.35 km de TOLIMAN ARMAZEM DE COLETA GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 20:45:04",
-          "lat": -23.3543266666667,
-          "lon": -46.550505
+          "referencia": "0.08 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
+          "data_hora_posicao": "18/11/2026 20:59:04",
+          "lat": -23.426215,
+          "lon": -46.573365
         },
-        "distancia_km": 15.7,
+        "distancia_km": 12.4,
         "proximo": true
       },
       {
@@ -159,12 +33,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.58 km de POSTO COSTA BRAVA - QUATRO BARRAS - QUATRO BARRAS/PR",
-          "data_hora_posicao": "18/11/2026 20:43:46",
-          "lat": -25.3110864,
-          "lon": -49.0035232
+          "referencia": "1.89 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 20:59:46",
+          "lat": -25.1977296,
+          "lon": -48.893552
         },
-        "distancia_km": 328.8,
+        "distancia_km": 312.3,
         "proximo": false
       },
       {
@@ -179,12 +53,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.28 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
-          "data_hora_posicao": "18/11/2026 20:45:06",
-          "lat": -26.501264,
-          "lon": -48.729008
+          "referencia": "0.33 km de JV MECATRÔNICA - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:00:54",
+          "lat": -26.3810992,
+          "lon": -48.8515936
         },
-        "distancia_km": 407.1,
+        "distancia_km": 403.5,
         "proximo": false
       },
       {
@@ -199,12 +73,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.28 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
-          "data_hora_posicao": "18/11/2026 20:45:06",
-          "lat": -26.501264,
-          "lon": -48.729008
+          "referencia": "0.33 km de JV MECATRÔNICA - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:00:54",
+          "lat": -26.3810992,
+          "lon": -48.8515936
         },
-        "distancia_km": 407.1,
+        "distancia_km": 403.5,
         "proximo": false
       },
       {
@@ -219,12 +93,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO BOUTIQUE - ILHOTA/SC",
-          "data_hora_posicao": "18/11/2026 20:44:11",
-          "lat": -26.8529824,
-          "lon": -48.8059424
+          "referencia": "0.16 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 21:00:51",
+          "lat": -26.8891392,
+          "lon": -48.721168
         },
-        "distancia_km": 443.9,
+        "distancia_km": 442.9,
         "proximo": false
       },
       {
@@ -271,6 +145,107 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013636-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 2234.72,
+        "frete_rs": 1966.59,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.37 km de FILIAL APOIO COMERCIO E TRANSPORTE LTDA - BR 101 - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:00:23",
+          "lat": -26.33446,
+          "lon": -48.8605916666667
+        },
+        "distancia_km": 63.0,
+        "proximo": false
+      },
+      {
+        "manif": "POA016275-2",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 3293.5,
+        "frete_rs": 6860.0,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "18/11/2026 20:59:36",
+          "lat": -29.9834976,
+          "lon": -51.1869056
+        },
+        "distancia_km": 420.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044490-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 2531.63,
+        "frete_rs": 2205.93,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.16 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
+          "data_hora_posicao": "18/11/2026 21:00:51",
+          "lat": -26.8891392,
+          "lon": -48.721168
+        },
+        "distancia_km": 0.2,
+        "proximo": true
+      },
+      {
+        "manif": "TBO016473-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 175.5,
+        "frete_rs": 401.58,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 2234.72,
+        "frete_rs": 1966.59,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3293.5,
+        "frete_rs": 6860.0,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2531.63,
+        "frete_rs": 2205.93,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 175.5,
+        "frete_rs": 401.58,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -285,12 +260,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.13 km de BRITÂNIA LOGÍSTICA - JOINVILLE/SC",
-          "data_hora_posicao": "18/11/2026 20:44:24",
-          "lat": -26.1626933333333,
-          "lon": -48.9074733333333
+          "referencia": "0.37 km de FILIAL APOIO COMERCIO E TRANSPORTE LTDA - BR 101 - JOINVILLE/SC",
+          "data_hora_posicao": "18/11/2026 21:00:23",
+          "lat": -26.33446,
+          "lon": -48.8605916666667
         },
-        "distancia_km": 137.5,
+        "distancia_km": 124.6,
         "proximo": false
       },
       {
@@ -305,12 +280,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "18/11/2026 20:46:01",
-          "lat": -24.7794672,
-          "lon": -48.1856544
+          "referencia": "0.18 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "18/11/2026 20:59:09",
+          "lat": -24.7935136,
+          "lon": -48.2110048
         },
-        "distancia_km": 306.9,
+        "distancia_km": 304.4,
         "proximo": false
       },
       {
@@ -326,26 +301,11 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:45:07",
+          "data_hora_posicao": "18/11/2026 20:59:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
         "distancia_km": 343.4,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016471-2",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 5338.5,
-        "frete_rs": 5883.24,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -363,11 +323,6 @@
       "Porto Alegre": {
         "peso_kg": 1055.82,
         "frete_rs": 1232.04,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 5338.5,
-        "frete_rs": 5883.24,
         "qtde": 1
       }
     }
@@ -387,32 +342,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:45:21",
+          "data_hora_posicao": "18/11/2026 20:59:21",
           "lat": -29.9834144,
-          "lon": -51.1866272
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
-      },
-      {
-        "manif": "GRU074808-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 8392.42,
-        "frete_rs": 17114.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 20:44:27",
-          "lat": -26.8874112,
-          "lon": -48.7214752
-        },
-        "distancia_km": 420.2,
-        "proximo": false
       },
       {
         "manif": "RSL044476-6",
@@ -427,9 +362,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:45:21",
+          "data_hora_posicao": "18/11/2026 20:59:21",
           "lat": -29.9834144,
-          "lon": -51.1866272
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -439,11 +374,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 380.27,
         "frete_rs": 548.64,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 8392.42,
-        "frete_rs": 17114.44,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -482,10 +412,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 20:44:36",
-          "lat": -25.09784,
-          "lon": -48.6636992
+          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 20:58:36",
+          "lat": -25.0315472,
+          "lon": -48.5332288
         },
         "distancia_km": null,
         "proximo": false
@@ -502,10 +432,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 20:44:36",
-          "lat": -25.09784,
-          "lon": -48.6636992
+          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 20:58:36",
+          "lat": -25.0315472,
+          "lon": -48.5332288
         },
         "distancia_km": null,
         "proximo": false
@@ -522,10 +452,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.34 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 20:44:36",
-          "lat": -25.09784,
-          "lon": -48.6636992
+          "referencia": "3.86 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 20:58:36",
+          "lat": -25.0315472,
+          "lon": -48.5332288
         },
         "distancia_km": null,
         "proximo": false
@@ -569,7 +499,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 20:45:07",
+          "data_hora_posicao": "18/11/2026 20:59:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -585,5 +515,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T20:47:37"
+  "_gerado_em": "2026-11-18T21:02:36"
 }
