@@ -1,65 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CRC000399-9",
-        "origin_unit": "CRC",
-        "origin_city": "ICARA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 929.71,
-        "frete_rs": 1527.32,
-        "grupo_origem": "CRC",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TUB000401-4",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 577.98,
-        "frete_rs": 1947.5,
-        "grupo_origem": "TUB",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TUB000403-1",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 689.0,
-        "frete_rs": 1272.17,
-        "grupo_origem": "TUB",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "CRC": {
-        "peso_kg": 929.71,
-        "frete_rs": 1527.32,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 1266.98,
-        "frete_rs": 3219.67,
-        "qtde": 2
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -74,12 +13,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 18:15:51",
-          "lat": -27.8238,
-          "lon": -50.362785
+          "referencia": "1.51 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 18:30:48",
+          "lat": -27.711345,
+          "lon": -50.3360883333333
         },
-        "distancia_km": 98.3,
+        "distancia_km": 88.0,
         "proximo": false
       },
       {
@@ -94,12 +33,12 @@
         "frete_rs": 4642.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 18:15:51",
-          "lat": -27.8238,
-          "lon": -50.362785
+          "referencia": "1.51 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 18:30:48",
+          "lat": -27.711345,
+          "lon": -50.3360883333333
         },
-        "distancia_km": 98.3,
+        "distancia_km": 88.0,
         "proximo": false
       },
       {
@@ -114,12 +53,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 18:15:51",
-          "lat": -27.8238,
-          "lon": -50.362785
+          "referencia": "1.51 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 18:30:48",
+          "lat": -27.711345,
+          "lon": -50.3360883333333
         },
-        "distancia_km": 98.3,
+        "distancia_km": 88.0,
         "proximo": false
       },
       {
@@ -134,12 +73,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 18:15:22",
-          "lat": -29.9834656,
-          "lon": -51.1866784
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "19/11/2026 18:29:22",
+          "lat": -29.9841792,
+          "lon": -51.186576
         },
-        "distancia_km": 343.3,
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -171,7 +110,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 18:15:44",
+          "data_hora_posicao": "19/11/2026 18:29:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -191,7 +130,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 18:15:44",
+          "data_hora_posicao": "19/11/2026 18:29:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -211,7 +150,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 18:14:04",
+          "data_hora_posicao": "19/11/2026 18:30:04",
           "lat": -29.1462725,
           "lon": -51.1647456
         },
@@ -232,5 +171,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T18:17:41"
+  "_gerado_em": "2026-11-19T18:32:32"
 }
