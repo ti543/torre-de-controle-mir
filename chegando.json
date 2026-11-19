@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 05:00:16",
+          "data_hora_posicao": "19/11/2026 05:14:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -63,12 +63,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.02 km de ESTACIONAMENTO POSTO DINOSSAURO SUL - ANTONINA/PR",
-          "data_hora_posicao": "19/11/2026 05:00:42",
-          "lat": -25.1035424,
-          "lon": -48.7377632
+          "referencia": "0.06 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 05:15:05",
+          "lat": -25.1205152,
+          "lon": -48.8555008
         },
-        "distancia_km": 250.9,
+        "distancia_km": 245.1,
         "proximo": false
       },
       {
@@ -84,7 +84,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 05:00:16",
+          "data_hora_posicao": "19/11/2026 05:14:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -103,12 +103,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "19/11/2026 04:59:58",
-          "lat": -29.5545783333333,
-          "lon": -51.3604816666667
+          "referencia": "0.38 km de POSTO RODOIL - RS 446 - SAO VENDELINO/RS",
+          "data_hora_posicao": "19/11/2026 05:15:58",
+          "lat": -29.3684433333333,
+          "lon": -51.3709783333333
         },
-        "distancia_km": 310.2,
+        "distancia_km": 293.6,
         "proximo": false
       }
     ],
@@ -150,8 +150,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 04:59:22",
-          "lat": -29.983376,
+          "data_hora_posicao": "19/11/2026 05:15:22",
+          "lat": -29.9833824,
           "lon": -51.1866432
         },
         "distancia_km": 0.0,
@@ -170,12 +170,32 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 04:59:22",
-          "lat": -29.983376,
+          "data_hora_posicao": "19/11/2026 05:15:22",
+          "lat": -29.9833824,
           "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "RSL044499-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXT0B60",
+        "motorista": "DENIS VICENTIN",
+        "peso_real_kg": 597.0,
+        "frete_rs": 328.18,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.73 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "19/11/2026 05:11:40",
+          "lat": -27.2755515,
+          "lon": -49.742753
+        },
+        "distancia_km": 332.4,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -185,9 +205,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 6957.3,
-        "frete_rs": 6251.49,
-        "qtde": 1
+        "peso_kg": 7554.3,
+        "frete_rs": 6579.67,
+        "qtde": 2
       }
     }
   },
@@ -221,7 +241,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:58:57",
+          "data_hora_posicao": "19/11/2026 05:14:56",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -241,7 +261,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:58:57",
+          "data_hora_posicao": "19/11/2026 05:14:56",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -261,7 +281,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:00:36",
+          "data_hora_posicao": "19/11/2026 05:14:36",
           "lat": -22.8465952,
           "lon": -47.1247648
         },
@@ -281,7 +301,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:00:36",
+          "data_hora_posicao": "19/11/2026 05:14:36",
           "lat": -22.8465952,
           "lon": -47.1247648
         },
@@ -301,7 +321,7 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:00:36",
+          "data_hora_posicao": "19/11/2026 05:14:36",
           "lat": -22.8465952,
           "lon": -47.1247648
         },
@@ -347,7 +367,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO SIM | CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 05:00:08",
+          "data_hora_posicao": "19/11/2026 05:14:08",
           "lat": -24.7792816,
           "lon": -48.1860288
         },
@@ -381,12 +401,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.19 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "19/11/2026 04:59:37",
-          "lat": -28.4244704,
-          "lon": -48.8976896
+          "referencia": "0.13 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
+          "data_hora_posicao": "19/11/2026 05:15:37",
+          "lat": -28.4241472,
+          "lon": -48.7972672
         },
-        "distancia_km": 171.8,
+        "distancia_km": 171.0,
         "proximo": false
       }
     ],
@@ -417,12 +437,12 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.39 km de BMW LANCHONETE - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 04:50:50",
-          "lat": -24.8777472,
-          "lon": -48.2283008
+          "referencia": "0.95 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "19/11/2026 05:10:50",
+          "lat": -24.959104,
+          "lon": -48.4210176
         },
-        "distancia_km": 129.4,
+        "distancia_km": 108.3,
         "proximo": false
       },
       {
@@ -438,7 +458,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:58:52",
+          "data_hora_posicao": "19/11/2026 05:14:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -458,7 +478,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:58:52",
+          "data_hora_posicao": "19/11/2026 05:14:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -478,7 +498,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:58:52",
+          "data_hora_posicao": "19/11/2026 05:14:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -544,12 +564,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.44 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "19/11/2026 04:59:06",
-          "lat": -24.5740304,
-          "lon": -47.8825024
+          "referencia": "5 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "19/11/2026 05:15:06",
+          "lat": -24.417168,
+          "lon": -47.762864
         },
-        "distancia_km": 189.4,
+        "distancia_km": 169.0,
         "proximo": false
       },
       {
@@ -564,12 +584,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.44 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "19/11/2026 04:59:06",
-          "lat": -24.5740304,
-          "lon": -47.8825024
+          "referencia": "5 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "19/11/2026 05:15:06",
+          "lat": -24.417168,
+          "lon": -47.762864
         },
-        "distancia_km": 189.4,
+        "distancia_km": 169.0,
         "proximo": false
       },
       {
@@ -584,12 +604,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 05:00:11",
-          "lat": -25.058024,
-          "lon": -48.5557824
+          "referencia": "0.59 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "19/11/2026 05:11:33",
+          "lat": -24.9761536,
+          "lon": -48.5036032
         },
-        "distancia_km": 276.0,
+        "distancia_km": 266.2,
         "proximo": false
       },
       {
@@ -619,12 +639,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.64 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 05:00:11",
-          "lat": -25.058024,
-          "lon": -48.5557824
+          "referencia": "0.59 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "19/11/2026 05:11:33",
+          "lat": -24.9761536,
+          "lon": -48.5036032
         },
-        "distancia_km": 276.0,
+        "distancia_km": 266.2,
         "proximo": false
       },
       {
@@ -783,10 +803,30 @@
         "frete_rs": 1723.45,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.19 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "19/11/2026 04:59:58",
-          "lat": -29.5545783333333,
-          "lon": -51.3604816666667
+          "referencia": "0.38 km de POSTO RODOIL - RS 446 - SAO VENDELINO/RS",
+          "data_hora_posicao": "19/11/2026 05:15:58",
+          "lat": -29.3684433333333,
+          "lon": -51.3709783333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044497-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0B60",
+        "motorista": "DENIS VICENTIN",
+        "peso_real_kg": 2989.65,
+        "frete_rs": 2650.11,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.73 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "19/11/2026 05:11:40",
+          "lat": -27.2755515,
+          "lon": -49.742753
         },
         "distancia_km": null,
         "proximo": false
@@ -797,8 +837,44 @@
         "peso_kg": 1271.08,
         "frete_rs": 1723.45,
         "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2989.65,
+        "frete_rs": 2650.11,
+        "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-19T05:02:32"
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "RSL044498-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RXT0B60",
+        "motorista": "DENIS VICENTIN",
+        "peso_real_kg": 1716.15,
+        "frete_rs": 2824.19,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.73 km de RESTAURANTE IRELE - AGRONOMICA/SC",
+          "data_hora_posicao": "19/11/2026 05:11:40",
+          "lat": -27.2755515,
+          "lon": -49.742753
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 1716.15,
+        "frete_rs": 2824.19,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-19T05:17:32"
 }
