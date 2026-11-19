@@ -13,10 +13,10 @@
         "frete_rs": 833.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.05 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:26:08",
-          "lat": -28.6988533333333,
-          "lon": -51.22192
+          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "19/11/2026 09:44:55",
+          "lat": -28.6203866666667,
+          "lon": -51.048165
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.05 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:26:08",
-          "lat": -28.6988533333333,
-          "lon": -51.22192
+          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "19/11/2026 09:44:55",
+          "lat": -28.6203866666667,
+          "lon": -51.048165
         },
-        "distancia_km": 226.7,
+        "distancia_km": 208.8,
         "proximo": false
       },
       {
@@ -79,12 +79,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.12 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "19/11/2026 09:29:05",
-          "lat": -26.7724176,
-          "lon": -49.082016
+          "referencia": "0.14 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "19/11/2026 09:45:05",
+          "lat": -26.8578688,
+          "lon": -49.0860224
         },
-        "distancia_km": 74.1,
+        "distancia_km": 67.9,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.05 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:26:08",
-          "lat": -28.6988533333333,
-          "lon": -51.22192
+          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "19/11/2026 09:44:55",
+          "lat": -28.6203866666667,
+          "lon": -51.048165
         },
-        "distancia_km": 226.7,
+        "distancia_km": 208.8,
         "proximo": false
       }
     ],
@@ -140,35 +140,20 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO 37 - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 09:30:08",
-          "lat": -26.2920624,
-          "lon": -48.8847744
+          "referencia": "1.76 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 09:44:08",
+          "lat": -26.4241072,
+          "lon": -48.8290368
         },
-        "distancia_km": 68.2,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074870-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 1308.03,
-        "frete_rs": 4220.4,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 52.6,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 16074.640000000001,
-        "frete_rs": 24476.190000000002,
-        "qtde": 2
+        "peso_kg": 14766.61,
+        "frete_rs": 20255.79,
+        "qtde": 1
       }
     }
   },
@@ -201,10 +186,10 @@
         "frete_rs": 2576.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 09:29:37",
-          "lat": -26.8875808,
-          "lon": -48.7207424
+          "referencia": "0.17 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 09:43:56",
+          "lat": -26.8661472,
+          "lon": -48.729936
         },
         "distancia_km": null,
         "proximo": false
@@ -221,10 +206,10 @@
         "frete_rs": 7411.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 09:29:37",
-          "lat": -26.8875808,
-          "lon": -48.7207424
+          "referencia": "0.17 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 09:43:56",
+          "lat": -26.8661472,
+          "lon": -48.729936
         },
         "distancia_km": null,
         "proximo": false
@@ -257,12 +242,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:29:06",
-          "lat": -23.7144192,
-          "lon": -46.8793664
+          "referencia": "0.23 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:45:06",
+          "lat": -23.6963344,
+          "lon": -46.8651168
         },
-        "distancia_km": 50.4,
+        "distancia_km": 48.1,
         "proximo": false
       },
       {
@@ -277,12 +262,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:29:06",
-          "lat": -23.7144192,
-          "lon": -46.8793664
+          "referencia": "0.23 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:45:06",
+          "lat": -23.6963344,
+          "lon": -46.8651168
         },
-        "distancia_km": 50.4,
+        "distancia_km": 48.1,
         "proximo": false
       },
       {
@@ -297,12 +282,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.23 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:30:11",
-          "lat": -23.870768,
-          "lon": -46.959584
+          "referencia": "0.32 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:44:11",
+          "lat": -23.8585872,
+          "lon": -46.943984
         },
-        "distancia_km": 67.4,
+        "distancia_km": 65.3,
         "proximo": false
       },
       {
@@ -332,12 +317,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.23 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:30:11",
-          "lat": -23.870768,
-          "lon": -46.959584
+          "referencia": "0.32 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:44:11",
+          "lat": -23.8585872,
+          "lon": -46.943984
         },
-        "distancia_km": 67.4,
+        "distancia_km": 65.3,
         "proximo": false
       },
       {
@@ -404,32 +389,6 @@
       }
     }
   },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ024154-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "OKD7820",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 1064.91,
-        "frete_rs": 1468.44,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 1064.91,
-        "frete_rs": 1468.44,
-        "qtde": 1
-      }
-    }
-  },
   "CRC": {
     "veiculos": [
       {
@@ -470,10 +429,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.59 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "19/11/2026 09:25:10",
-          "lat": -28.1690926,
-          "lon": -50.6700861
+          "referencia": "3.17 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 09:43:24",
+          "lat": -28.24128,
+          "lon": -50.7717888
         },
         "distancia_km": null,
         "proximo": false
@@ -501,12 +460,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.59 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "19/11/2026 09:25:10",
-          "lat": -28.1690926,
-          "lon": -50.6700861
+          "referencia": "3.17 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 09:43:24",
+          "lat": -28.24128,
+          "lon": -50.7717888
         },
-        "distancia_km": 207.9,
+        "distancia_km": 197.9,
         "proximo": false
       }
     ],
@@ -518,5 +477,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T09:32:35"
+  "_gerado_em": "2026-11-19T09:47:34"
 }
