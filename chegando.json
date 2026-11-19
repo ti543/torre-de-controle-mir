@@ -13,12 +13,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.58 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 03) - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 01:15:46",
-          "lat": -24.0299792,
-          "lon": -47.1777376
+          "referencia": "1.23 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "19/11/2026 01:29:46",
+          "lat": -23.940472,
+          "lon": -47.0577152
         },
-        "distancia_km": 95.8,
+        "distancia_km": 80.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "19/11/2026 01:01:06",
-          "lat": -24.926728,
-          "lon": -48.2678304
+          "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 01:29:55",
+          "lat": -24.7865792,
+          "lon": -48.1755424
         },
-        "distancia_km": 244.4,
+        "distancia_km": 227.2,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.6 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "19/11/2026 01:01:06",
-          "lat": -24.926728,
-          "lon": -48.2678304
+          "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 01:29:55",
+          "lat": -24.7865792,
+          "lon": -48.1755424
         },
-        "distancia_km": 244.4,
+        "distancia_km": 227.2,
         "proximo": false
       },
       {
@@ -73,12 +73,27 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.32 km de BRITANIA CENTRO DE LOGISTICA - ARAQUARI/SC",
-          "data_hora_posicao": "19/11/2026 01:14:11",
-          "lat": -26.4462464,
-          "lon": -48.794368
+          "referencia": "0.28 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 01:30:11",
+          "lat": -26.3079216,
+          "lon": -48.8792
         },
-        "distancia_km": 405.9,
+        "distancia_km": 398.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024160-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 8101.13,
+        "frete_rs": 12382.5,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -93,12 +108,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.32 km de BRITANIA CENTRO DE LOGISTICA - ARAQUARI/SC",
-          "data_hora_posicao": "19/11/2026 01:14:11",
-          "lat": -26.4462464,
-          "lon": -48.794368
+          "referencia": "0.28 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 01:30:11",
+          "lat": -26.3079216,
+          "lon": -48.8792
         },
-        "distancia_km": 405.9,
+        "distancia_km": 398.7,
         "proximo": false
       },
       {
@@ -154,9 +169,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 18324.38,
-        "frete_rs": 26366.51,
-        "qtde": 3
+        "peso_kg": 26425.510000000002,
+        "frete_rs": 38749.009999999995,
+        "qtde": 4
       },
       "Rio do Sul": {
         "peso_kg": 48608.9,
@@ -184,12 +199,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.83 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "19/11/2026 01:15:59",
-          "lat": -26.8710283333333,
-          "lon": -49.1988616666667
+          "referencia": "1.71 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "19/11/2026 01:30:33",
+          "lat": -26.9621966666667,
+          "lon": -49.3281433333333
         },
-        "distancia_km": 58.2,
+        "distancia_km": 41.8,
         "proximo": false
       },
       {
@@ -204,12 +219,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.76 km de TRANSPORTADORA LUDVIG - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "19/11/2026 01:14:26",
-          "lat": -26.4466864,
-          "lon": -48.8199424
+          "referencia": "0.04 km de PRF - GUARAMIRIM/SC",
+          "data_hora_posicao": "19/11/2026 01:30:26",
+          "lat": -26.4753856,
+          "lon": -48.987712
         },
-        "distancia_km": 117.9,
+        "distancia_km": 104.5,
         "proximo": false
       },
       {
@@ -239,12 +254,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.49 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 01:15:05",
-          "lat": -23.8742784,
-          "lon": -46.965936
+          "referencia": "2.58 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "19/11/2026 01:29:05",
+          "lat": -23.9426752,
+          "lon": -47.0950304
         },
-        "distancia_km": 457.9,
+        "distancia_km": 444.2,
         "proximo": false
       },
       {
@@ -259,12 +274,12 @@
         "frete_rs": 2658.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.83 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "19/11/2026 01:15:59",
-          "lat": -26.8710283333333,
-          "lon": -49.1988616666667
+          "referencia": "1.71 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "19/11/2026 01:30:33",
+          "lat": -26.9621966666667,
+          "lon": -49.3281433333333
         },
-        "distancia_km": 58.2,
+        "distancia_km": 41.8,
         "proximo": false
       },
       {
@@ -280,7 +295,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 01:15:03",
+          "data_hora_posicao": "19/11/2026 01:29:02",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -326,9 +341,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 01:15:22",
+          "data_hora_posicao": "19/11/2026 01:29:22",
           "lat": -29.9834176,
-          "lon": -51.186656
+          "lon": -51.1866592
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -346,9 +361,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 01:15:22",
+          "data_hora_posicao": "19/11/2026 01:29:22",
           "lat": -29.9834176,
-          "lon": -51.186656
+          "lon": -51.1866592
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -397,9 +412,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 01:15:23",
+          "data_hora_posicao": "19/11/2026 01:31:00",
           "lat": -22.8469466666667,
-          "lon": -47.1247833333333
+          "lon": -47.12478
         },
         "distancia_km": null,
         "proximo": false
@@ -417,9 +432,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 01:15:23",
+          "data_hora_posicao": "19/11/2026 01:31:00",
           "lat": -22.8469466666667,
-          "lon": -47.1247833333333
+          "lon": -47.12478
         },
         "distancia_km": null,
         "proximo": false
@@ -436,10 +451,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.83 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 01:15:01",
-          "lat": -23.8329792,
-          "lon": -46.9293152
+          "referencia": "0.21 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 01:30:36",
+          "lat": -23.6838272,
+          "lon": -46.85904
         },
         "distancia_km": null,
         "proximo": false
@@ -456,10 +471,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.83 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 01:15:01",
-          "lat": -23.8329792,
-          "lon": -46.9293152
+          "referencia": "0.21 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 01:30:36",
+          "lat": -23.6838272,
+          "lon": -46.85904
         },
         "distancia_km": null,
         "proximo": false
@@ -476,10 +491,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.83 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 01:15:01",
-          "lat": -23.8329792,
-          "lon": -46.9293152
+          "referencia": "0.21 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 01:30:36",
+          "lat": -23.6838272,
+          "lon": -46.85904
         },
         "distancia_km": null,
         "proximo": false
@@ -522,12 +537,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de PRE - BARUERI/SP",
-          "data_hora_posicao": "19/11/2026 01:14:08",
-          "lat": -23.5231984,
-          "lon": -46.8166816
+          "referencia": "0.05 km de PRF - 4ª DELEGACIA PRF/SP - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 01:30:08",
+          "lat": -23.6902464,
+          "lon": -46.8628224
         },
-        "distancia_km": 420.3,
+        "distancia_km": 401.6,
         "proximo": false
       },
       {
@@ -557,12 +572,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.44 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
-          "data_hora_posicao": "19/11/2026 01:15:36",
-          "lat": -29.90672,
-          "lon": -50.7571616
+          "referencia": "5.54 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "19/11/2026 01:29:36",
+          "lat": -29.8841984,
+          "lon": -50.5655136
         },
-        "distancia_km": 390.3,
+        "distancia_km": 378.9,
         "proximo": false
       }
     ],
@@ -593,12 +608,32 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 01:15:17",
-          "lat": -24.1588656,
-          "lon": -47.326928
+          "referencia": "1.82 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 01:29:17",
+          "lat": -24.2798048,
+          "lon": -47.4251584
         },
-        "distancia_km": 250.2,
+        "distancia_km": 234.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024159-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 3597.18,
+        "frete_rs": 3066.03,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 01:30:52",
+          "lat": -26.8873568,
+          "lon": -48.7212448
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -614,7 +649,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 01:14:52",
+          "data_hora_posicao": "19/11/2026 01:30:52",
           "lat": -26.8873568,
           "lon": -48.7212448
         },
@@ -634,7 +669,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 01:14:52",
+          "data_hora_posicao": "19/11/2026 01:30:52",
           "lat": -26.8873568,
           "lon": -48.7212448
         },
@@ -646,6 +681,11 @@
       "Guarulhos": {
         "peso_kg": 5609.88,
         "frete_rs": 6600.47,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 3597.18,
+        "frete_rs": 3066.03,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -696,7 +736,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 01:15:03",
+          "data_hora_posicao": "19/11/2026 01:29:02",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -712,5 +752,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T01:17:33"
+  "_gerado_em": "2026-11-19T01:32:34"
 }
