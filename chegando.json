@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 04:44:17",
+          "data_hora_posicao": "19/11/2026 05:00:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -32,14 +32,9 @@
         "peso_real_kg": 7204.18,
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.24 km de POSTO DO ENCONTRO - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 04:44:26",
-          "lat": -27.200416,
-          "lon": -49.6321184
-        },
-        "distancia_km": 1.8,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "GRU074869-2",
@@ -68,12 +63,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 04:45:05",
-          "lat": -25.0964112,
-          "lon": -48.6605824
+          "referencia": "1.02 km de ESTACIONAMENTO POSTO DINOSSAURO SUL - ANTONINA/PR",
+          "data_hora_posicao": "19/11/2026 05:00:42",
+          "lat": -25.1035424,
+          "lon": -48.7377632
         },
-        "distancia_km": 254.5,
+        "distancia_km": 250.9,
         "proximo": false
       },
       {
@@ -89,7 +84,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 04:44:17",
+          "data_hora_posicao": "19/11/2026 05:00:16",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -108,12 +103,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO HOFF - PORTAO/RS",
-          "data_hora_posicao": "19/11/2026 04:45:00",
-          "lat": -29.6798733333333,
-          "lon": -51.244645
+          "referencia": "0.19 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "19/11/2026 04:59:58",
+          "lat": -29.5545783333333,
+          "lon": -51.3604816666667
         },
-        "distancia_km": 316.2,
+        "distancia_km": 310.2,
         "proximo": false
       }
     ],
@@ -155,9 +150,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 04:45:22",
-          "lat": -29.9833792,
-          "lon": -51.1866272
+          "data_hora_posicao": "19/11/2026 04:59:22",
+          "lat": -29.983376,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -175,9 +170,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 04:45:22",
-          "lat": -29.9833792,
-          "lon": -51.1866272
+          "data_hora_posicao": "19/11/2026 04:59:22",
+          "lat": -29.983376,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -226,7 +221,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:44:57",
+          "data_hora_posicao": "19/11/2026 04:58:57",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -246,7 +241,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:44:57",
+          "data_hora_posicao": "19/11/2026 04:58:57",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -266,9 +261,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:44:36",
-          "lat": -22.8466896,
-          "lon": -47.124768
+          "data_hora_posicao": "19/11/2026 05:00:36",
+          "lat": -22.8465952,
+          "lon": -47.1247648
         },
         "distancia_km": null,
         "proximo": false
@@ -286,9 +281,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:44:36",
-          "lat": -22.8466896,
-          "lon": -47.124768
+          "data_hora_posicao": "19/11/2026 05:00:36",
+          "lat": -22.8465952,
+          "lon": -47.1247648
         },
         "distancia_km": null,
         "proximo": false
@@ -306,9 +301,9 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 04:44:36",
-          "lat": -22.8466896,
-          "lon": -47.124768
+          "data_hora_posicao": "19/11/2026 05:00:36",
+          "lat": -22.8465952,
+          "lon": -47.1247648
         },
         "distancia_km": null,
         "proximo": false
@@ -352,7 +347,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO SIM | CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 04:44:08",
+          "data_hora_posicao": "19/11/2026 05:00:08",
           "lat": -24.7792816,
           "lon": -48.1860288
         },
@@ -386,12 +381,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
-          "data_hora_posicao": "19/11/2026 04:45:37",
-          "lat": -28.498736,
-          "lon": -49.0453376
+          "referencia": "0.19 km de NP NOVO POSTO - PESCARIA BRAVA/SC",
+          "data_hora_posicao": "19/11/2026 04:59:37",
+          "lat": -28.4244704,
+          "lon": -48.8976896
         },
-        "distancia_km": 182.0,
+        "distancia_km": 171.8,
         "proximo": false
       }
     ],
@@ -422,12 +417,12 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 04:40:06",
-          "lat": -24.7934992,
-          "lon": -48.2110816
+          "referencia": "1.39 km de BMW LANCHONETE - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 04:50:50",
+          "lat": -24.8777472,
+          "lon": -48.2283008
         },
-        "distancia_km": 136.3,
+        "distancia_km": 129.4,
         "proximo": false
       },
       {
@@ -443,7 +438,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:44:52",
+          "data_hora_posicao": "19/11/2026 04:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -463,7 +458,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:44:52",
+          "data_hora_posicao": "19/11/2026 04:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -483,7 +478,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 04:44:52",
+          "data_hora_posicao": "19/11/2026 04:58:52",
           "lat": -25.5276416,
           "lon": -49.2952416
         },
@@ -549,12 +544,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.08 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
-          "data_hora_posicao": "19/11/2026 04:45:06",
-          "lat": -24.689256,
-          "lon": -47.9920096
+          "referencia": "5.44 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "19/11/2026 04:59:06",
+          "lat": -24.5740304,
+          "lon": -47.8825024
         },
-        "distancia_km": 206.1,
+        "distancia_km": 189.4,
         "proximo": false
       },
       {
@@ -569,12 +564,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.08 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
-          "data_hora_posicao": "19/11/2026 04:45:06",
-          "lat": -24.689256,
-          "lon": -47.9920096
+          "referencia": "5.44 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "19/11/2026 04:59:06",
+          "lat": -24.5740304,
+          "lon": -47.8825024
         },
-        "distancia_km": 206.1,
+        "distancia_km": 189.4,
         "proximo": false
       },
       {
@@ -589,12 +584,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.63 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 04:44:11",
-          "lat": -25.104336,
-          "lon": -48.7115168
+          "referencia": "0.64 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 05:00:11",
+          "lat": -25.058024,
+          "lon": -48.5557824
         },
-        "distancia_km": 291.5,
+        "distancia_km": 276.0,
         "proximo": false
       },
       {
@@ -624,12 +619,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.63 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 04:44:11",
-          "lat": -25.104336,
-          "lon": -48.7115168
+          "referencia": "0.64 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 05:00:11",
+          "lat": -25.058024,
+          "lon": -48.5557824
         },
-        "distancia_km": 291.5,
+        "distancia_km": 276.0,
         "proximo": false
       },
       {
@@ -788,10 +783,10 @@
         "frete_rs": 1723.45,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO HOFF - PORTAO/RS",
-          "data_hora_posicao": "19/11/2026 04:45:00",
-          "lat": -29.6798733333333,
-          "lon": -51.244645
+          "referencia": "0.19 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "19/11/2026 04:59:58",
+          "lat": -29.5545783333333,
+          "lon": -51.3604816666667
         },
         "distancia_km": null,
         "proximo": false
@@ -805,5 +800,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T04:47:38"
+  "_gerado_em": "2026-11-19T05:02:32"
 }
