@@ -1,85 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010436-1",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 4427.3,
-        "frete_rs": 4611.08,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 14:30:36",
-          "lat": -23.4704208,
-          "lon": -46.4620768
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024158-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 8166.22,
-        "frete_rs": 10072.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.46 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 14:30:11",
-          "lat": -23.5266192,
-          "lon": -46.7481472
-        },
-        "distancia_km": 29.8,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044491-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.46 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 14:30:11",
-          "lat": -23.5266192,
-          "lon": -46.7481472
-        },
-        "distancia_km": 29.8,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 4427.3,
-        "frete_rs": 4611.08,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 8166.22,
-        "frete_rs": 10072.64,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -141,7 +60,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:29:08",
+          "data_hora_posicao": "19/11/2026 14:44:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -161,7 +80,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:29:08",
+          "data_hora_posicao": "19/11/2026 14:44:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -228,6 +147,62 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024158-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 8166.22,
+        "frete_rs": 10072.64,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 14:44:11",
+          "lat": -23.518184,
+          "lon": -46.73864
+        },
+        "distancia_km": 28.7,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044491-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 14:44:11",
+          "lat": -23.518184,
+          "lon": -46.73864
+        },
+        "distancia_km": 28.7,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 8166.22,
+        "frete_rs": 10072.64,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 20025.4,
+        "frete_rs": 10994.28,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -243,7 +218,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 14:26:57",
+          "data_hora_posicao": "19/11/2026 14:42:57",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -259,5 +234,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T14:32:41"
+  "_gerado_em": "2026-11-19T14:47:39"
 }
