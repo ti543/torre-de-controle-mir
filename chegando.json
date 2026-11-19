@@ -75,7 +75,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 16:14:50",
+          "data_hora_posicao": "19/11/2026 16:30:49",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -95,7 +95,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 16:14:50",
+          "data_hora_posicao": "19/11/2026 16:30:49",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -130,12 +130,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.43 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 16:14:11",
-          "lat": -23.5169904,
-          "lon": -46.657184
+          "referencia": "0.44 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 16:30:11",
+          "lat": -23.518968,
+          "lon": -46.6427488
         },
-        "distancia_km": 20.5,
+        "distancia_km": 19.2,
         "proximo": true
       },
       {
@@ -150,12 +150,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.43 km de BCV CARREFOUR CASA VERDE - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 16:14:11",
-          "lat": -23.5169904,
-          "lon": -46.657184
+          "referencia": "0.44 km de POLI FILTRO IND E COM DE PECAS PARA AUTOS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 16:30:11",
+          "lat": -23.518968,
+          "lon": -46.6427488
         },
-        "distancia_km": 20.5,
+        "distancia_km": 19.2,
         "proximo": true
       }
     ],
@@ -187,7 +187,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 16:13:59",
+          "data_hora_posicao": "19/11/2026 16:29:59",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -203,5 +203,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T16:17:39"
+  "_gerado_em": "2026-11-19T16:32:43"
 }
