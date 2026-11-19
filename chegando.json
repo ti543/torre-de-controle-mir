@@ -13,30 +13,10 @@
         "frete_rs": 833.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "19/11/2026 08:29:55",
-          "lat": -29.0887833333333,
-          "lon": -51.1902783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044498-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 1716.15,
-        "frete_rs": 2824.19,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:29:12",
-          "lat": -27.8239203,
-          "lon": -50.3628451
+          "referencia": "2.73 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "19/11/2026 08:52:13",
+          "lat": -28.9314666666667,
+          "lon": -51.18416
         },
         "distancia_km": null,
         "proximo": false
@@ -46,11 +26,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 943.0,
         "frete_rs": 833.4,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1716.15,
-        "frete_rs": 2824.19,
         "qtde": 1
       }
     }
@@ -69,12 +44,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "19/11/2026 08:29:55",
-          "lat": -29.0887833333333,
-          "lon": -51.1902783333333
+          "referencia": "2.73 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "19/11/2026 08:52:13",
+          "lat": -28.9314666666667,
+          "lon": -51.18416
         },
-        "distancia_km": 258.1,
+        "distancia_km": 243.9,
         "proximo": false
       },
       {
@@ -104,12 +79,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.24 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 08:30:20",
-          "lat": -26.4180416,
-          "lon": -48.833088
+          "referencia": "1.86 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "19/11/2026 08:54:01",
+          "lat": -26.4936016,
+          "lon": -49.0012864
         },
-        "distancia_km": 119.4,
+        "distancia_km": 102.0,
         "proximo": false
       },
       {
@@ -124,12 +99,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "19/11/2026 08:29:55",
-          "lat": -29.0887833333333,
-          "lon": -51.1902783333333
+          "referencia": "2.73 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "19/11/2026 08:52:13",
+          "lat": -28.9314666666667,
+          "lon": -51.18416
         },
-        "distancia_km": 258.1,
+        "distancia_km": 243.9,
         "proximo": false
       }
     ],
@@ -165,12 +140,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.6 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 08:28:08",
-          "lat": -25.8505952,
-          "lon": -49.0101824
+          "referencia": "0.89 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "19/11/2026 09:00:08",
+          "lat": -26.0928304,
+          "lon": -48.865056
         },
-        "distancia_km": 118.8,
+        "distancia_km": 89.5,
         "proximo": false
       },
       {
@@ -187,26 +162,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "POA016275-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.62 km de DICAVE CONCESSIONARIA VOLVO - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 08:29:40",
-          "lat": -26.9513824,
-          "lon": -48.6797216
-        },
-        "distancia_km": 8.2,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -214,11 +169,6 @@
         "peso_kg": 16074.640000000001,
         "frete_rs": 24476.190000000002,
         "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 3293.5,
-        "frete_rs": 6860.0,
-        "qtde": 1
       }
     }
   },
@@ -262,12 +212,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.41 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 08:29:06",
-          "lat": -23.7543264,
-          "lon": -46.9017792
+          "referencia": "1.04 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 08:59:06",
+          "lat": -23.7368832,
+          "lon": -46.8962784
         },
-        "distancia_km": 54.8,
+        "distancia_km": 53.2,
         "proximo": false
       },
       {
@@ -282,12 +232,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.41 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 08:29:06",
-          "lat": -23.7543264,
-          "lon": -46.9017792
+          "referencia": "1.04 km de TSG- TRANSPORTES SILVEIRA GOMES LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 08:59:06",
+          "lat": -23.7368832,
+          "lon": -46.8962784
         },
-        "distancia_km": 54.8,
+        "distancia_km": 53.2,
         "proximo": false
       },
       {
@@ -302,12 +252,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de MECÂNICA BOTTARO - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 08:30:11",
-          "lat": -24.1567072,
-          "lon": -47.325376
+          "referencia": "0.39 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 09:00:11",
+          "lat": -24.03148,
+          "lon": -47.1800384
         },
-        "distancia_km": 116.3,
+        "distancia_km": 96.1,
         "proximo": false
       },
       {
@@ -337,12 +287,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de MECÂNICA BOTTARO - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 08:30:11",
-          "lat": -24.1567072,
-          "lon": -47.325376
+          "referencia": "0.39 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 09:00:11",
+          "lat": -24.03148,
+          "lon": -47.1800384
         },
-        "distancia_km": 116.3,
+        "distancia_km": 96.1,
         "proximo": false
       },
       {
@@ -475,10 +425,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:29:12",
-          "lat": -27.8239203,
-          "lon": -50.3628451
+          "referencia": "5.96 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "19/11/2026 08:56:44",
+          "lat": -27.9092736,
+          "lon": -50.4461568
         },
         "distancia_km": null,
         "proximo": false
@@ -506,12 +456,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:29:12",
-          "lat": -27.8239203,
-          "lon": -50.3628451
+          "referencia": "5.96 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "19/11/2026 08:56:44",
+          "lat": -27.9092736,
+          "lon": -50.4461568
         },
-        "distancia_km": 253.2,
+        "distancia_km": 241.6,
         "proximo": false
       }
     ],
@@ -523,5 +473,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T08:32:35"
+  "_gerado_em": "2026-11-19T09:02:37"
 }
