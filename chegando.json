@@ -75,7 +75,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 15:28:50",
+          "data_hora_posicao": "19/11/2026 15:44:50",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -95,7 +95,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 15:28:50",
+          "data_hora_posicao": "19/11/2026 15:44:50",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -130,12 +130,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 15:30:11",
-          "lat": -23.5087104,
-          "lon": -46.6942976
+          "referencia": "0.42 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:44:11",
+          "lat": -23.5118576,
+          "lon": -46.6820192
         },
-        "distancia_km": 24.0,
+        "distancia_km": 22.9,
         "proximo": true
       },
       {
@@ -150,12 +150,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 15:30:11",
-          "lat": -23.5087104,
-          "lon": -46.6942976
+          "referencia": "0.42 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:44:11",
+          "lat": -23.5118576,
+          "lon": -46.6820192
         },
-        "distancia_km": 24.0,
+        "distancia_km": 22.9,
         "proximo": true
       }
     ],
@@ -187,7 +187,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 15:29:59",
+          "data_hora_posicao": "19/11/2026 15:45:59",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -203,5 +203,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T15:32:36"
+  "_gerado_em": "2026-11-19T15:47:36"
 }
