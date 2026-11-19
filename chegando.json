@@ -13,12 +13,12 @@
         "frete_rs": 4611.08,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.46 km de RIKEL PARK ESTACIONAMENTO - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 14:00:36",
-          "lat": -23.4925968,
-          "lon": -46.5593888
+          "referencia": "0.14 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 14:14:36",
+          "lat": -23.4646832,
+          "lon": -46.4682048
         },
-        "distancia_km": 10.2,
+        "distancia_km": 0.9,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.44 km de 3º DISTRITO POLICIAL - OSASCO/SP",
-          "data_hora_posicao": "19/11/2026 14:00:11",
-          "lat": -23.52132,
-          "lon": -46.7705504
+          "referencia": "0.17 km de AUTO POSTO MARGINAL DA CASTELO - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 14:14:11",
+          "lat": -23.5248912,
+          "lon": -46.7573024
         },
-        "distancia_km": 31.9,
+        "distancia_km": 30.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de 3º DISTRITO POLICIAL - OSASCO/SP",
-          "data_hora_posicao": "19/11/2026 14:00:11",
-          "lat": -23.52132,
-          "lon": -46.7705504
+          "referencia": "0.17 km de AUTO POSTO MARGINAL DA CASTELO - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 14:14:11",
+          "lat": -23.5248912,
+          "lon": -46.7573024
         },
-        "distancia_km": 31.9,
+        "distancia_km": 30.7,
         "proximo": false
       }
     ],
@@ -141,7 +141,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:00:52",
+          "data_hora_posicao": "19/11/2026 14:14:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -172,7 +172,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:00:52",
+          "data_hora_posicao": "19/11/2026 14:14:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -207,7 +207,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:00:52",
+          "data_hora_posicao": "19/11/2026 14:14:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -294,7 +294,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 13:58:57",
+          "data_hora_posicao": "19/11/2026 14:14:57",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -310,5 +310,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T14:02:36"
+  "_gerado_em": "2026-11-19T14:17:36"
 }
