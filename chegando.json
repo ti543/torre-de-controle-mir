@@ -13,10 +13,10 @@
         "frete_rs": 833.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 08:13:58",
-          "lat": -29.148935,
-          "lon": -51.18621
+          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "19/11/2026 08:29:55",
+          "lat": -29.0887833333333,
+          "lon": -51.1902783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -34,7 +34,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:13:12",
+          "data_hora_posicao": "19/11/2026 08:29:12",
           "lat": -27.8239203,
           "lon": -50.3628451
         },
@@ -69,12 +69,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 08:13:58",
-          "lat": -29.148935,
-          "lon": -51.18621
+          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "19/11/2026 08:29:55",
+          "lat": -29.0887833333333,
+          "lon": -51.1902783333333
         },
-        "distancia_km": 263.3,
+        "distancia_km": 258.1,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.39 km de FORD CONCESSIONÁRIA - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 08:15:05",
-          "lat": -26.2903392,
-          "lon": -48.8852
+          "referencia": "2.24 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 08:30:20",
+          "lat": -26.4180416,
+          "lon": -48.833088
         },
-        "distancia_km": 127.0,
+        "distancia_km": 119.4,
         "proximo": false
       },
       {
@@ -124,12 +124,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 08:13:58",
-          "lat": -29.148935,
-          "lon": -51.18621
+          "referencia": "0.16 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "19/11/2026 08:29:55",
+          "lat": -29.0887833333333,
+          "lon": -51.1902783333333
         },
-        "distancia_km": 263.3,
+        "distancia_km": 258.1,
         "proximo": false
       }
     ],
@@ -165,12 +165,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.55 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 08:14:08",
-          "lat": -25.7907296,
-          "lon": -49.1259232
+          "referencia": "1.6 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 08:28:08",
+          "lat": -25.8505952,
+          "lon": -49.0101824
         },
-        "distancia_km": 128.5,
+        "distancia_km": 118.8,
         "proximo": false
       },
       {
@@ -200,12 +200,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.02 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "19/11/2026 08:15:37",
-          "lat": -27.0033024,
-          "lon": -48.6322176
+          "referencia": "0.62 km de DICAVE CONCESSIONARIA VOLVO - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 08:29:40",
+          "lat": -26.9513824,
+          "lon": -48.6797216
         },
-        "distancia_km": 15.6,
+        "distancia_km": 8.2,
         "proximo": true
       }
     ],
@@ -218,37 +218,6 @@
       "Porto Alegre": {
         "peso_kg": 3293.5,
         "frete_rs": 6860.0,
-        "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074868-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 5609.88,
-        "frete_rs": 6600.47,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 08:15:17",
-          "lat": -25.5277296,
-          "lon": -49.2954944
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 5609.88,
-        "frete_rs": 6600.47,
         "qtde": 1
       }
     }
@@ -293,12 +262,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 08:15:06",
-          "lat": -23.7658976,
-          "lon": -46.9078368
+          "referencia": "0.41 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 08:29:06",
+          "lat": -23.7543264,
+          "lon": -46.9017792
         },
-        "distancia_km": 56.0,
+        "distancia_km": 54.8,
         "proximo": false
       },
       {
@@ -313,12 +282,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 08:15:06",
-          "lat": -23.7658976,
-          "lon": -46.9078368
+          "referencia": "0.41 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 08:29:06",
+          "lat": -23.7543264,
+          "lon": -46.9017792
         },
-        "distancia_km": 56.0,
+        "distancia_km": 54.8,
         "proximo": false
       },
       {
@@ -333,12 +302,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de CARAVAGGIO GRILL - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 08:14:11",
-          "lat": -24.270736,
-          "lon": -47.401376
+          "referencia": "0.14 km de MECÂNICA BOTTARO - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 08:30:11",
+          "lat": -24.1567072,
+          "lon": -47.325376
         },
-        "distancia_km": 130.5,
+        "distancia_km": 116.3,
         "proximo": false
       },
       {
@@ -368,12 +337,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.27 km de CARAVAGGIO GRILL - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 08:14:11",
-          "lat": -24.270736,
-          "lon": -47.401376
+          "referencia": "0.14 km de MECÂNICA BOTTARO - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 08:30:11",
+          "lat": -24.1567072,
+          "lon": -47.325376
         },
-        "distancia_km": 130.5,
+        "distancia_km": 116.3,
         "proximo": false
       },
       {
@@ -507,7 +476,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:13:12",
+          "data_hora_posicao": "19/11/2026 08:29:12",
           "lat": -27.8239203,
           "lon": -50.3628451
         },
@@ -538,7 +507,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 08:13:12",
+          "data_hora_posicao": "19/11/2026 08:29:12",
           "lat": -27.8239203,
           "lon": -50.3628451
         },
@@ -554,5 +523,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T08:17:43"
+  "_gerado_em": "2026-11-19T08:32:35"
 }
