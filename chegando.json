@@ -75,7 +75,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 15:14:51",
+          "data_hora_posicao": "19/11/2026 15:28:50",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -95,7 +95,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 15:14:51",
+          "data_hora_posicao": "19/11/2026 15:28:50",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -116,52 +116,6 @@
       }
     }
   },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074871-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 11201.41,
-        "frete_rs": 13471.48,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044507-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3184.71,
-        "frete_rs": 3418.17,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 11201.41,
-        "frete_rs": 13471.48,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 3184.71,
-        "frete_rs": 3418.17,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -176,12 +130,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de CONCESSIONARIA VOLVO - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 15:14:11",
-          "lat": -23.5091376,
-          "lon": -46.7041824
+          "referencia": "0.09 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:30:11",
+          "lat": -23.5087104,
+          "lon": -46.6942976
         },
-        "distancia_km": 25.0,
+        "distancia_km": 24.0,
         "proximo": true
       },
       {
@@ -196,12 +150,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de CONCESSIONARIA VOLVO - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 15:14:11",
-          "lat": -23.5091376,
-          "lon": -46.7041824
+          "referencia": "0.09 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:30:11",
+          "lat": -23.5087104,
+          "lon": -46.6942976
         },
-        "distancia_km": 25.0,
+        "distancia_km": 24.0,
         "proximo": true
       }
     ],
@@ -233,7 +187,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 15:14:02",
+          "data_hora_posicao": "19/11/2026 15:29:59",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -249,5 +203,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T15:17:41"
+  "_gerado_em": "2026-11-19T15:32:36"
 }
