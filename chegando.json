@@ -13,13 +13,13 @@
         "frete_rs": 4611.08,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.32 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "19/11/2026 13:14:36",
-          "lat": -23.1131088,
-          "lon": -46.5717056
+          "referencia": "0.6 km de DELEGACIA DE POLICIA - MAIRIPORA/SP",
+          "data_hora_posicao": "19/11/2026 13:30:36",
+          "lat": -23.2665008,
+          "lon": -46.5838368
         },
-        "distancia_km": 41.3,
-        "proximo": false
+        "distancia_km": 25.9,
+        "proximo": true
       },
       {
         "manif": "ITJ024158-0",
@@ -33,12 +33,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.1 km de ESTACIONAMENTO DE CAMINHÕES 28 SP - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "19/11/2026 13:14:11",
-          "lat": -23.669176,
-          "lon": -46.8557696
+          "referencia": "0.13 km de PEDAGIO - PRACA 13 (REGIS BITTENCOURT EXTERNA) - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 13:30:15",
+          "lat": -23.6012512,
+          "lon": -46.8125792
         },
-        "distancia_km": 45.8,
+        "distancia_km": 38.6,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de ESTACIONAMENTO DE CAMINHÕES 28 SP - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "19/11/2026 13:14:11",
-          "lat": -23.669176,
-          "lon": -46.8557696
+          "referencia": "0.13 km de PEDAGIO - PRACA 13 (REGIS BITTENCOURT EXTERNA) - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 13:30:15",
+          "lat": -23.6012512,
+          "lon": -46.8125792
         },
-        "distancia_km": 45.8,
+        "distancia_km": 38.6,
         "proximo": false
       },
       {
@@ -145,12 +145,27 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 13:14:08",
+          "data_hora_posicao": "19/11/2026 13:30:08",
           "lat": -26.8876352,
           "lon": -48.7206656
         },
         "distancia_km": 0.0,
         "proximo": true
+      },
+      {
+        "manif": "TUB000401-4",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "OKD7820",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 577.98,
+        "frete_rs": 1947.5,
+        "grupo_origem": "TUB",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -162,6 +177,11 @@
       "Guarulhos": {
         "peso_kg": 14766.61,
         "frete_rs": 20255.79,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 577.98,
+        "frete_rs": 1947.5,
         "qtde": 1
       }
     }
@@ -181,7 +201,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:14:52",
+          "data_hora_posicao": "19/11/2026 13:28:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -212,7 +232,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:14:52",
+          "data_hora_posicao": "19/11/2026 13:28:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -247,7 +267,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 13:15:05",
+          "data_hora_posicao": "19/11/2026 13:29:05",
           "lat": -27.206144,
           "lon": -49.6494976
         },
@@ -267,7 +287,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:14:52",
+          "data_hora_posicao": "19/11/2026 13:28:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -353,10 +373,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 13:15:40",
-          "lat": -29.132762,
-          "lon": -51.1862838
+          "referencia": "0.21 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 13:30:35",
+          "lat": -29.1481781,
+          "lon": -51.1647195
         },
         "distancia_km": null,
         "proximo": false
@@ -384,12 +404,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.37 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 13:15:40",
-          "lat": -29.132762,
-          "lon": -51.1862838
+          "referencia": "0.21 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 13:30:35",
+          "lat": -29.1481781,
+          "lon": -51.1647195
         },
-        "distancia_km": 94.6,
+        "distancia_km": 92.9,
         "proximo": false
       }
     ],
@@ -401,5 +421,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T13:17:34"
+  "_gerado_em": "2026-11-19T13:32:38"
 }
