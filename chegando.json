@@ -75,7 +75,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:44:48",
+          "data_hora_posicao": "19/11/2026 17:59:06",
           "lat": -27.8238683333333,
           "lon": -50.3627466666667
         },
@@ -95,7 +95,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:44:48",
+          "data_hora_posicao": "19/11/2026 17:59:06",
           "lat": -27.8238683333333,
           "lon": -50.3627466666667
         },
@@ -131,7 +131,27 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:45:37",
+          "data_hora_posicao": "19/11/2026 17:59:37",
+          "lat": -26.8862816,
+          "lon": -48.7242176
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024174-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 100.0,
+        "frete_rs": 150.0,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 17:59:37",
           "lat": -26.8862816,
           "lon": -48.7242176
         },
@@ -151,7 +171,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 17:42:04",
+          "data_hora_posicao": "19/11/2026 17:58:04",
           "lat": -29.1462725,
           "lon": -51.1647456
         },
@@ -161,9 +181,9 @@
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 12113.31,
-        "frete_rs": 27136.17,
-        "qtde": 1
+        "peso_kg": 12213.31,
+        "frete_rs": 27286.17,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 597.0,
@@ -186,10 +206,10 @@
         "frete_rs": 809.18,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:43:40",
-          "lat": -26.8875888,
-          "lon": -48.7207061
+          "referencia": "0.16 km de PATIO PASETTO - ITAJAI - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 17:59:59",
+          "lat": -26.9061235,
+          "lon": -48.7147921
         },
         "distancia_km": null,
         "proximo": false
@@ -203,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T17:47:39"
+  "_gerado_em": "2026-11-19T18:02:38"
 }
