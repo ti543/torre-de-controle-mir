@@ -13,10 +13,10 @@
         "frete_rs": 833.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "19/11/2026 09:44:55",
-          "lat": -28.6203866666667,
-          "lon": -51.048165
+          "referencia": "0.38 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:00:25",
+          "lat": -28.5282166666667,
+          "lon": -50.9502733333333
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "19/11/2026 09:44:55",
-          "lat": -28.6203866666667,
-          "lon": -51.048165
+          "referencia": "0.38 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:00:25",
+          "lat": -28.5282166666667,
+          "lon": -50.9502733333333
         },
-        "distancia_km": 208.8,
+        "distancia_km": 194.8,
         "proximo": false
       },
       {
@@ -79,12 +79,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de R B RECAPAGENS - BLUMENAU/SC",
-          "data_hora_posicao": "19/11/2026 09:45:05",
-          "lat": -26.8578688,
-          "lon": -49.0860224
+          "referencia": "0.57 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "19/11/2026 09:59:05",
+          "lat": -26.8829184,
+          "lon": -49.1530752
         },
-        "distancia_km": 67.9,
+        "distancia_km": 60.9,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "19/11/2026 09:44:55",
-          "lat": -28.6203866666667,
-          "lon": -51.048165
+          "referencia": "0.38 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 10:00:25",
+          "lat": -28.5282166666667,
+          "lon": -50.9502733333333
         },
-        "distancia_km": 208.8,
+        "distancia_km": 194.8,
         "proximo": false
       }
     ],
@@ -140,12 +140,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.76 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "19/11/2026 09:44:08",
-          "lat": -26.4241072,
-          "lon": -48.8290368
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 10:00:49",
+          "lat": -26.5539152,
+          "lon": -48.7198144
         },
-        "distancia_km": 52.6,
+        "distancia_km": 37.1,
         "proximo": false
       }
     ],
@@ -186,10 +186,10 @@
         "frete_rs": 2576.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 09:43:56",
-          "lat": -26.8661472,
-          "lon": -48.729936
+          "referencia": "1.2 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "19/11/2026 09:59:37",
+          "lat": -26.8385792,
+          "lon": -48.7687232
         },
         "distancia_km": null,
         "proximo": false
@@ -206,11 +206,26 @@
         "frete_rs": 7411.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 09:43:56",
-          "lat": -26.8661472,
-          "lon": -48.729936
+          "referencia": "1.2 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "19/11/2026 09:59:37",
+          "lat": -26.8385792,
+          "lon": -48.7687232
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044507-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3184.71,
+        "frete_rs": 3418.17,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
@@ -225,6 +240,11 @@
         "peso_kg": 6401.98,
         "frete_rs": 9988.27,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 3184.71,
+        "frete_rs": 3418.17,
+        "qtde": 1
       }
     }
   },
@@ -242,12 +262,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:45:06",
-          "lat": -23.6963344,
-          "lon": -46.8651168
+          "referencia": "0.09 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "19/11/2026 09:59:06",
+          "lat": -23.6712976,
+          "lon": -46.8561408
         },
-        "distancia_km": 48.1,
+        "distancia_km": 45.9,
         "proximo": false
       },
       {
@@ -262,12 +282,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de GM LOG E TRANSPORTE LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:45:06",
-          "lat": -23.6963344,
-          "lon": -46.8651168
+          "referencia": "0.09 km de LAVADOR ROTA BR 116 - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "19/11/2026 09:59:06",
+          "lat": -23.6712976,
+          "lon": -46.8561408
         },
-        "distancia_km": 48.1,
+        "distancia_km": 45.9,
         "proximo": false
       },
       {
@@ -282,12 +302,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.32 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:44:11",
-          "lat": -23.8585872,
-          "lon": -46.943984
+          "referencia": "0.41 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 10:00:11",
+          "lat": -23.843328,
+          "lon": -46.9332896
         },
-        "distancia_km": 65.3,
+        "distancia_km": 63.4,
         "proximo": false
       },
       {
@@ -317,12 +337,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.32 km de 25º  BATALHAO DA POLICIA MILITAR - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:44:11",
-          "lat": -23.8585872,
-          "lon": -46.943984
+          "referencia": "0.41 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 10:00:11",
+          "lat": -23.843328,
+          "lon": -46.9332896
         },
-        "distancia_km": 65.3,
+        "distancia_km": 63.4,
         "proximo": false
       },
       {
@@ -429,10 +449,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.17 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 09:43:24",
-          "lat": -28.24128,
-          "lon": -50.7717888
+          "referencia": "4.89 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 09:56:15",
+          "lat": -28.3237006,
+          "lon": -50.805819
         },
         "distancia_km": null,
         "proximo": false
@@ -460,12 +480,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.17 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 09:43:24",
-          "lat": -28.24128,
-          "lon": -50.7717888
+          "referencia": "4.89 km de POSTO BERNARDI - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 09:56:15",
+          "lat": -28.3237006,
+          "lon": -50.805819
         },
-        "distancia_km": 197.9,
+        "distancia_km": 188.2,
         "proximo": false
       }
     ],
@@ -477,5 +497,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T09:47:34"
+  "_gerado_em": "2026-11-19T10:02:39"
 }
