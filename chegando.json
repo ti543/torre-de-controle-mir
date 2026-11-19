@@ -13,12 +13,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO IPIRANGA SASSAKI - REGISTRO/SP",
-          "data_hora_posicao": "18/11/2026 23:59:46",
-          "lat": -24.5009168,
-          "lon": -47.8452864
+          "referencia": "0.8 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 05) - JUQUIA/SP",
+          "data_hora_posicao": "19/11/2026 00:13:46",
+          "lat": -24.3856176,
+          "lon": -47.7153088
         },
-        "distancia_km": 181.3,
+        "distancia_km": 163.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO PELANDA ALPINO 1 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 00:00:50",
-          "lat": -25.1092416,
-          "lon": -48.8169888
+          "referencia": "1.34 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 00:15:06",
+          "lat": -25.0995744,
+          "lon": -48.689152
         },
-        "distancia_km": 300.3,
+        "distancia_km": 289.4,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO PELANDA ALPINO 1 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 00:00:50",
-          "lat": -25.1092416,
-          "lon": -48.8169888
+          "referencia": "1.34 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 00:15:06",
+          "lat": -25.0995744,
+          "lon": -48.689152
         },
-        "distancia_km": 300.3,
+        "distancia_km": 289.4,
         "proximo": false
       },
       {
@@ -73,10 +73,10 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 23:58:11",
-          "lat": -26.8876832,
-          "lon": -48.7206688
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 00:14:11",
+          "lat": -26.8873088,
+          "lon": -48.7211296
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -165,7 +165,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 00:00:21",
+          "data_hora_posicao": "19/11/2026 00:14:21",
           "lat": -26.8875866666667,
           "lon": -48.7206783333333
         },
@@ -184,12 +184,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.4 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 00:00:26",
-          "lat": -25.8532016,
-          "lon": -49.02184
+          "referencia": "1.15 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "19/11/2026 00:12:13",
+          "lat": -25.873712,
+          "lon": -48.936112
         },
-        "distancia_km": 162.9,
+        "distancia_km": 164.3,
         "proximo": false
       },
       {
@@ -219,12 +219,32 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.93 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "18/11/2026 23:59:05",
-          "lat": -23.6873376,
-          "lon": -46.4050592
+          "referencia": "1.15 km de BASF S/A - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "19/11/2026 00:15:05",
+          "lat": -23.7583616,
+          "lon": -46.5598592
         },
-        "distancia_km": 509.1,
+        "distancia_km": 493.1,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024157-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 1944.66,
+        "frete_rs": 2658.25,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 00:14:21",
+          "lat": -26.8875866666667,
+          "lon": -48.7206783333333
+        },
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -240,7 +260,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 23:59:04",
+          "data_hora_posicao": "19/11/2026 00:15:03",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -258,6 +278,11 @@
         "peso_kg": 23044.63,
         "frete_rs": 33514.340000000004,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 1944.66,
+        "frete_rs": 2658.25,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 1055.82,
@@ -281,9 +306,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 23:59:22",
+          "data_hora_posicao": "19/11/2026 00:15:22",
           "lat": -29.983424,
-          "lon": -51.186624
+          "lon": -51.1866368
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -301,9 +326,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 23:59:22",
+          "data_hora_posicao": "19/11/2026 00:15:22",
           "lat": -29.983424,
-          "lon": -51.186624
+          "lon": -51.1866368
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -351,10 +376,10 @@
         "frete_rs": 3356.28,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.02 km de POSTO FRANGO ASSADO - CAJAMAR/SP",
-          "data_hora_posicao": "18/11/2026 23:59:01",
-          "lat": -23.2969516666667,
-          "lon": -46.8410266666667
+          "referencia": "0.86 km de POSTO LAGO AZUL SUL - JUNDIAI/SP",
+          "data_hora_posicao": "19/11/2026 00:15:01",
+          "lat": -23.1443583333333,
+          "lon": -46.96762
         },
         "distancia_km": null,
         "proximo": false
@@ -371,10 +396,10 @@
         "frete_rs": 363.17,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.02 km de POSTO FRANGO ASSADO - CAJAMAR/SP",
-          "data_hora_posicao": "18/11/2026 23:59:01",
-          "lat": -23.2969516666667,
-          "lon": -46.8410266666667
+          "referencia": "0.86 km de POSTO LAGO AZUL SUL - JUNDIAI/SP",
+          "data_hora_posicao": "19/11/2026 00:15:01",
+          "lat": -23.1443583333333,
+          "lon": -46.96762
         },
         "distancia_km": null,
         "proximo": false
@@ -391,10 +416,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 23:58:36",
-          "lat": -24.3069232,
-          "lon": -47.4946432
+          "referencia": "1.09 km de MECANICA LLN - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 00:15:46",
+          "lat": -24.1894896,
+          "lon": -47.3598144
         },
         "distancia_km": null,
         "proximo": false
@@ -411,10 +436,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 23:58:36",
-          "lat": -24.3069232,
-          "lon": -47.4946432
+          "referencia": "1.09 km de MECANICA LLN - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 00:15:46",
+          "lat": -24.1894896,
+          "lon": -47.3598144
         },
         "distancia_km": null,
         "proximo": false
@@ -431,10 +456,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "18/11/2026 23:58:36",
-          "lat": -24.3069232,
-          "lon": -47.4946432
+          "referencia": "1.09 km de MECANICA LLN - MIRACATU/SP",
+          "data_hora_posicao": "19/11/2026 00:15:46",
+          "lat": -24.1894896,
+          "lon": -47.3598144
         },
         "distancia_km": null,
         "proximo": false
@@ -477,10 +502,10 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 23:58:08",
-          "lat": -23.4704672,
-          "lon": -46.4624
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 00:14:08",
+          "lat": -23.4705536,
+          "lon": -46.462352
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -512,10 +537,10 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 23:59:36",
-          "lat": -29.9834976,
-          "lon": -51.1869056
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "19/11/2026 00:15:50",
+          "lat": -29.9841152,
+          "lon": -51.1867104
         },
         "distancia_km": 420.3,
         "proximo": false
@@ -548,12 +573,12 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.23 km de INDUSTRIAS ANHEMBI LTDA (FILIAL) - OSASCO/SP",
-          "data_hora_posicao": "18/11/2026 23:59:17",
-          "lat": -23.5461376,
-          "lon": -46.8198976
+          "referencia": "0.14 km de ESTACIONAMENTO 35 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 00:15:17",
+          "lat": -23.7131536,
+          "lon": -46.8787104
         },
-        "distancia_km": 333.5,
+        "distancia_km": 316.8,
         "proximo": false
       },
       {
@@ -569,7 +594,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 23:58:52",
+          "data_hora_posicao": "19/11/2026 00:14:52",
           "lat": -26.8873568,
           "lon": -48.7212448
         },
@@ -589,7 +614,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 23:58:52",
+          "data_hora_posicao": "19/11/2026 00:14:52",
           "lat": -26.8873568,
           "lon": -48.7212448
         },
@@ -651,7 +676,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 23:59:04",
+          "data_hora_posicao": "19/11/2026 00:15:03",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -667,5 +692,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T00:02:36"
+  "_gerado_em": "2026-11-19T00:17:36"
 }
