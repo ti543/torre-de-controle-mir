@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 03:29:46",
+          "data_hora_posicao": "19/11/2026 03:43:46",
           "lat": -23.4709472,
           "lon": -46.4613472
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 03:29:06",
+          "data_hora_posicao": "19/11/2026 03:45:06",
           "lat": -24.7865792,
           "lon": -48.1755424
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 03:29:06",
+          "data_hora_posicao": "19/11/2026 03:45:06",
           "lat": -24.7865792,
           "lon": -48.1755424
         },
@@ -73,12 +73,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.08 km de RESTAURANTE AGRO BOTANICA - PIRAQUARA/PR",
-          "data_hora_posicao": "19/11/2026 03:30:41",
-          "lat": -25.4549296,
-          "lon": -49.087776
+          "referencia": "0.19 km de POSTO TULIO 03 (CARAGUATÁ) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 03:44:11",
+          "lat": -25.329488,
+          "lon": -49.0299488
         },
-        "distancia_km": 345.4,
+        "distancia_km": 332.1,
         "proximo": false
       },
       {
@@ -108,12 +108,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.08 km de RESTAURANTE AGRO BOTANICA - PIRAQUARA/PR",
-          "data_hora_posicao": "19/11/2026 03:30:41",
-          "lat": -25.4549296,
-          "lon": -49.087776
+          "referencia": "0.19 km de POSTO TULIO 03 (CARAGUATÁ) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 03:44:11",
+          "lat": -25.329488,
+          "lon": -49.0299488
         },
-        "distancia_km": 345.4,
+        "distancia_km": 332.1,
         "proximo": false
       },
       {
@@ -200,7 +200,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 03:29:25",
+          "data_hora_posicao": "19/11/2026 03:44:18",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -219,13 +219,13 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "19/11/2026 03:30:26",
-          "lat": -27.055568,
-          "lon": -49.3894752
+          "referencia": "3.7 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "19/11/2026 03:38:26",
+          "lat": -27.0835712,
+          "lon": -49.44624
         },
-        "distancia_km": 30.7,
-        "proximo": false
+        "distancia_km": 24.3,
+        "proximo": true
       },
       {
         "manif": "GRU074869-2",
@@ -254,12 +254,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.31 km de POLICIA MILITAR - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 03:29:05",
-          "lat": -24.7325616,
-          "lon": -48.112464
+          "referencia": "0.18 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 03:41:14",
+          "lat": -24.7934736,
+          "lon": -48.2110208
         },
-        "distancia_km": 315.0,
+        "distancia_km": 304.4,
         "proximo": false
       },
       {
@@ -275,7 +275,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 03:29:25",
+          "data_hora_posicao": "19/11/2026 03:44:18",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -295,7 +295,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 03:29:01",
+          "data_hora_posicao": "19/11/2026 03:45:00",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -341,9 +341,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 03:29:22",
-          "lat": -29.9834016,
-          "lon": -51.1866304
+          "data_hora_posicao": "19/11/2026 03:45:22",
+          "lat": -29.9833888,
+          "lon": -51.1866496
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -361,9 +361,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 03:29:22",
-          "lat": -29.9834016,
-          "lon": -51.1866304
+          "data_hora_posicao": "19/11/2026 03:45:22",
+          "lat": -29.9833888,
+          "lon": -51.1866496
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -412,7 +412,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 03:30:58",
+          "data_hora_posicao": "19/11/2026 03:44:58",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -432,7 +432,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 03:30:58",
+          "data_hora_posicao": "19/11/2026 03:44:58",
           "lat": -22.8469466666667,
           "lon": -47.12478
         },
@@ -452,9 +452,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 03:30:36",
-          "lat": -22.8465984,
-          "lon": -47.124752
+          "data_hora_posicao": "19/11/2026 03:44:36",
+          "lat": -22.8466896,
+          "lon": -47.124768
         },
         "distancia_km": null,
         "proximo": false
@@ -472,9 +472,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 03:30:36",
-          "lat": -22.8465984,
-          "lon": -47.124752
+          "data_hora_posicao": "19/11/2026 03:44:36",
+          "lat": -22.8466896,
+          "lon": -47.124768
         },
         "distancia_km": null,
         "proximo": false
@@ -492,9 +492,9 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 03:30:36",
-          "lat": -22.8465984,
-          "lon": -47.124752
+          "data_hora_posicao": "19/11/2026 03:44:36",
+          "lat": -22.8466896,
+          "lon": -47.124768
         },
         "distancia_km": null,
         "proximo": false
@@ -537,12 +537,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.76 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "19/11/2026 03:30:08",
-          "lat": -24.5546224,
-          "lon": -47.8652128
+          "referencia": "1.55 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "19/11/2026 03:44:08",
+          "lat": -24.6650576,
+          "lon": -47.9742752
         },
-        "distancia_km": 273.2,
+        "distancia_km": 258.2,
         "proximo": false
       },
       {
@@ -572,12 +572,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.1 km de POSTO TREVO - SOMBRIO/SC",
-          "data_hora_posicao": "19/11/2026 03:31:01",
-          "lat": -29.1200224,
-          "lon": -49.6416896
+          "referencia": "0.23 km de POSTO IRMÃO DA ESTRADA 02 - ARARANGUA/SC",
+          "data_hora_posicao": "19/11/2026 03:43:37",
+          "lat": -28.9973376,
+          "lon": -49.5543264
         },
-        "distancia_km": 264.2,
+        "distancia_km": 248.5,
         "proximo": false
       }
     ],
@@ -609,7 +609,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 03:29:17",
+          "data_hora_posicao": "19/11/2026 03:45:17",
           "lat": -24.78,
           "lon": -48.1859936
         },
@@ -628,12 +628,12 @@
         "frete_rs": 3066.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "19/11/2026 03:22:17",
-          "lat": -25.8622928,
-          "lon": -48.9352608
+          "referencia": "0.59 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 03:44:52",
+          "lat": -25.8279376,
+          "lon": -49.1191264
         },
-        "distancia_km": 51.8,
+        "distancia_km": 37.8,
         "proximo": false
       },
       {
@@ -648,12 +648,12 @@
         "frete_rs": 9616.06,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "19/11/2026 03:22:17",
-          "lat": -25.8622928,
-          "lon": -48.9352608
+          "referencia": "0.59 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 03:44:52",
+          "lat": -25.8279376,
+          "lon": -49.1191264
         },
-        "distancia_km": 51.8,
+        "distancia_km": 37.8,
         "proximo": false
       },
       {
@@ -668,12 +668,12 @@
         "frete_rs": 257.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "19/11/2026 03:22:17",
-          "lat": -25.8622928,
-          "lon": -48.9352608
+          "referencia": "0.59 km de POSTO MONTE CARLO 3 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 03:44:52",
+          "lat": -25.8279376,
+          "lon": -49.1191264
         },
-        "distancia_km": 51.8,
+        "distancia_km": 37.8,
         "proximo": false
       }
     ],
@@ -814,7 +814,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 03:29:01",
+          "data_hora_posicao": "19/11/2026 03:45:00",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -830,5 +830,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T03:32:35"
+  "_gerado_em": "2026-11-19T03:47:35"
 }
