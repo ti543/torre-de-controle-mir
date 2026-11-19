@@ -60,7 +60,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:44:51",
+          "data_hora_posicao": "19/11/2026 15:00:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -80,7 +80,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 14:44:51",
+          "data_hora_posicao": "19/11/2026 15:00:51",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -161,12 +161,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 14:44:11",
-          "lat": -23.518184,
-          "lon": -46.73864
+          "referencia": "0.22 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:00:11",
+          "lat": -23.508728,
+          "lon": -46.7177056
         },
-        "distancia_km": 28.7,
+        "distancia_km": 26.4,
         "proximo": true
       },
       {
@@ -181,12 +181,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO BOXTER - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 14:44:11",
-          "lat": -23.518184,
-          "lon": -46.73864
+          "referencia": "0.22 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 15:00:11",
+          "lat": -23.508728,
+          "lon": -46.7177056
         },
-        "distancia_km": 28.7,
+        "distancia_km": 26.4,
         "proximo": true
       }
     ],
@@ -218,7 +218,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 14:42:57",
+          "data_hora_posicao": "19/11/2026 14:58:57",
           "lat": -29.1464071,
           "lon": -51.1650358
         },
@@ -234,5 +234,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T14:47:39"
+  "_gerado_em": "2026-11-19T15:02:38"
 }
