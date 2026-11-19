@@ -75,9 +75,29 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:59:06",
-          "lat": -27.8238683333333,
-          "lon": -50.3627466666667
+          "data_hora_posicao": "19/11/2026 18:15:51",
+          "lat": -27.8238,
+          "lon": -50.362785
+        },
+        "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001616-1",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 3824.3,
+        "frete_rs": 4642.95,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "19/11/2026 18:15:51",
+          "lat": -27.8238,
+          "lon": -50.362785
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -95,24 +115,44 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:59:06",
-          "lat": -27.8238683333333,
-          "lon": -50.3627466666667
+          "data_hora_posicao": "19/11/2026 18:15:51",
+          "lat": -27.8238,
+          "lon": -50.362785
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016282-5",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 11505.23,
+        "frete_rs": 15214.3,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "19/11/2026 18:15:22",
+          "lat": -29.9834656,
+          "lon": -51.1866784
+        },
+        "distancia_km": 343.3,
         "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 329.3,
-        "frete_rs": 907.22,
-        "qtde": 1
+        "peso_kg": 4153.6,
+        "frete_rs": 5550.17,
+        "qtde": 2
       },
       "Porto Alegre": {
-        "peso_kg": 1055.82,
-        "frete_rs": 1232.04,
-        "qtde": 1
+        "peso_kg": 12561.05,
+        "frete_rs": 16446.34,
+        "qtde": 2
       }
     }
   },
@@ -130,12 +170,12 @@
         "frete_rs": 27136.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:59:37",
-          "lat": -26.8862816,
-          "lon": -48.7242176
+          "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 18:15:44",
+          "lat": -26.887088,
+          "lon": -48.7232064
         },
-        "distancia_km": 420.2,
+        "distancia_km": 420.1,
         "proximo": false
       },
       {
@@ -150,12 +190,12 @@
         "frete_rs": 150.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:59:37",
-          "lat": -26.8862816,
-          "lon": -48.7242176
+          "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 18:15:44",
+          "lat": -26.887088,
+          "lon": -48.7232064
         },
-        "distancia_km": 420.2,
+        "distancia_km": 420.1,
         "proximo": false
       },
       {
@@ -171,7 +211,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 17:58:04",
+          "data_hora_posicao": "19/11/2026 18:14:04",
           "lat": -29.1462725,
           "lon": -51.1647456
         },
@@ -192,36 +232,5 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ024173-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RDY9A53",
-        "motorista": "WEIDE DIOGO MODESTO DA COSTA",
-        "peso_real_kg": 659.36,
-        "frete_rs": 809.18,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.16 km de PATIO PASETTO - ITAJAI - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:59:59",
-          "lat": -26.9061235,
-          "lon": -48.7147921
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 659.36,
-        "frete_rs": 809.18,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-19T18:02:38"
+  "_gerado_em": "2026-11-19T18:17:41"
 }
