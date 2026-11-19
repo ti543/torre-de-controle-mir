@@ -75,7 +75,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:29:53",
+          "data_hora_posicao": "19/11/2026 17:44:48",
           "lat": -27.8238683333333,
           "lon": -50.3627466666667
         },
@@ -95,7 +95,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 17:29:53",
+          "data_hora_posicao": "19/11/2026 17:44:48",
           "lat": -27.8238683333333,
           "lon": -50.3627466666667
         },
@@ -116,62 +116,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024158-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 8166.22,
-        "frete_rs": 10072.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 17:30:25",
-          "lat": -23.4707104,
-          "lon": -46.4622688
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044491-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 17:30:25",
-          "lat": -23.4707104,
-          "lon": -46.4622688
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 8166.22,
-        "frete_rs": 10072.64,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 20025.4,
-        "frete_rs": 10994.28,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -186,12 +130,12 @@
         "frete_rs": 27136.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de LR TRANSPORTES DE CARGAS LTDA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 17:30:30",
-          "lat": -26.890144,
-          "lon": -48.7204096
+          "referencia": "0.09 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 17:45:37",
+          "lat": -26.8862816,
+          "lon": -48.7242176
         },
-        "distancia_km": 420.0,
+        "distancia_km": 420.2,
         "proximo": false
       },
       {
@@ -207,7 +151,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 17:30:04",
+          "data_hora_posicao": "19/11/2026 17:42:04",
           "lat": -29.1462725,
           "lon": -51.1647456
         },
@@ -228,5 +172,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T17:32:33"
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ024173-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "RDY9A53",
+        "motorista": "WEIDE DIOGO MODESTO DA COSTA",
+        "peso_real_kg": 659.36,
+        "frete_rs": 809.18,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 17:43:40",
+          "lat": -26.8875888,
+          "lon": -48.7207061
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 659.36,
+        "frete_rs": 809.18,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-19T17:47:39"
 }
