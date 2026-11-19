@@ -13,12 +13,12 @@
         "frete_rs": 4611.08,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.15 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 13:45:43",
-          "lat": -23.3589664,
-          "lon": -46.5501376
+          "referencia": "0.46 km de RIKEL PARK ESTACIONAMENTO - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 14:00:36",
+          "lat": -23.4925968,
+          "lon": -46.5593888
         },
-        "distancia_km": 15.3,
+        "distancia_km": 10.2,
         "proximo": true
       },
       {
@@ -33,27 +33,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.22 km de DAMM PRODUTOS ALIMENTÍCIOS - OSASCO/SP",
-          "data_hora_posicao": "19/11/2026 13:44:11",
-          "lat": -23.5171648,
-          "lon": -46.7902336
+          "referencia": "0.44 km de 3º DISTRITO POLICIAL - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 14:00:11",
+          "lat": -23.52132,
+          "lon": -46.7705504
         },
-        "distancia_km": 33.8,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024160-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 8101.13,
-        "frete_rs": 12382.5,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 31.9,
         "proximo": false
       },
       {
@@ -68,27 +53,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de DAMM PRODUTOS ALIMENTÍCIOS - OSASCO/SP",
-          "data_hora_posicao": "19/11/2026 13:44:11",
-          "lat": -23.5171648,
-          "lon": -46.7902336
+          "referencia": "0.44 km de 3º DISTRITO POLICIAL - OSASCO/SP",
+          "data_hora_posicao": "19/11/2026 14:00:11",
+          "lat": -23.52132,
+          "lon": -46.7705504
         },
-        "distancia_km": 33.8,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016472-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 11975.31,
-        "frete_rs": 14932.03,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 31.9,
         "proximo": false
       }
     ],
@@ -99,18 +69,13 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 16267.35,
-        "frete_rs": 22455.14,
-        "qtde": 2
+        "peso_kg": 8166.22,
+        "frete_rs": 10072.64,
+        "qtde": 1
       },
       "Rio do Sul": {
         "peso_kg": 20025.4,
         "frete_rs": 10994.28,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 11975.31,
-        "frete_rs": 14932.03,
         "qtde": 1
       }
     }
@@ -176,7 +141,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:44:52",
+          "data_hora_posicao": "19/11/2026 14:00:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -207,7 +172,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:44:52",
+          "data_hora_posicao": "19/11/2026 14:00:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -242,7 +207,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "19/11/2026 13:44:52",
+          "data_hora_posicao": "19/11/2026 14:00:52",
           "lat": -27.8238266666667,
           "lon": -50.3627766666667
         },
@@ -314,37 +279,6 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044497-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 2989.65,
-        "frete_rs": 2650.11,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 13:42:34",
-          "lat": -29.1481188,
-          "lon": -51.1647628
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2989.65,
-        "frete_rs": 2650.11,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -359,12 +293,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 13:42:34",
-          "lat": -29.1481188,
-          "lon": -51.1647628
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 13:58:57",
+          "lat": -29.1464071,
+          "lon": -51.1650358
         },
-        "distancia_km": 92.9,
+        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -376,5 +310,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T13:47:31"
+  "_gerado_em": "2026-11-19T14:02:36"
 }
