@@ -13,10 +13,10 @@
         "frete_rs": 833.4,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:13:14",
-          "lat": -28.8169716666667,
-          "lon": -51.2668266666667
+          "referencia": "3.05 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "19/11/2026 09:26:08",
+          "lat": -28.6988533333333,
+          "lon": -51.22192
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:13:14",
-          "lat": -28.8169716666667,
-          "lon": -51.2668266666667
+          "referencia": "3.05 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "19/11/2026 09:26:08",
+          "lat": -28.6988533333333,
+          "lon": -51.22192
         },
-        "distancia_km": 239.3,
+        "distancia_km": 226.7,
         "proximo": false
       },
       {
@@ -79,12 +79,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.15 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "19/11/2026 09:14:10",
-          "lat": -26.6468128,
-          "lon": -49.0165216
+          "referencia": "1.12 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "19/11/2026 09:29:05",
+          "lat": -26.7724176,
+          "lon": -49.082016
         },
-        "distancia_km": 88.4,
+        "distancia_km": 74.1,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "19/11/2026 09:13:14",
-          "lat": -28.8169716666667,
-          "lon": -51.2668266666667
+          "referencia": "3.05 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "19/11/2026 09:26:08",
+          "lat": -28.6988533333333,
+          "lon": -51.22192
         },
-        "distancia_km": 239.3,
+        "distancia_km": 226.7,
         "proximo": false
       }
     ],
@@ -140,12 +140,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTOS RUDNICK - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 09:14:08",
-          "lat": -26.1829488,
-          "lon": -48.910656
+          "referencia": "0.44 km de POSTO 37 - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 09:30:08",
+          "lat": -26.2920624,
+          "lon": -48.8847744
         },
-        "distancia_km": 80.6,
+        "distancia_km": 68.2,
         "proximo": false
       },
       {
@@ -188,6 +188,46 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "ITJ024164-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2278.19,
+        "frete_rs": 2576.73,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 09:29:37",
+          "lat": -26.8875808,
+          "lon": -48.7207424
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024165-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4123.79,
+        "frete_rs": 7411.54,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 09:29:37",
+          "lat": -26.8875808,
+          "lon": -48.7207424
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -195,6 +235,11 @@
         "peso_kg": 11201.41,
         "frete_rs": 13471.48,
         "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 6401.98,
+        "frete_rs": 9988.27,
+        "qtde": 2
       }
     }
   },
@@ -212,12 +257,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:13:06",
-          "lat": -23.7224096,
-          "lon": -46.888576
+          "referencia": "0.17 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:29:06",
+          "lat": -23.7144192,
+          "lon": -46.8793664
         },
-        "distancia_km": 51.7,
+        "distancia_km": 50.4,
         "proximo": false
       },
       {
@@ -232,12 +277,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "19/11/2026 09:13:06",
-          "lat": -23.7224096,
-          "lon": -46.888576
+          "referencia": "0.17 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:29:06",
+          "lat": -23.7144192,
+          "lon": -46.8793664
         },
-        "distancia_km": 51.7,
+        "distancia_km": 50.4,
         "proximo": false
       },
       {
@@ -252,12 +297,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.59 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "19/11/2026 09:14:11",
-          "lat": -23.942888,
-          "lon": -47.0950176
+          "referencia": "2.23 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:30:11",
+          "lat": -23.870768,
+          "lon": -46.959584
         },
-        "distancia_km": 83.1,
+        "distancia_km": 67.4,
         "proximo": false
       },
       {
@@ -287,12 +332,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.59 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "19/11/2026 09:14:11",
-          "lat": -23.942888,
-          "lon": -47.0950176
+          "referencia": "2.23 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 09:30:11",
+          "lat": -23.870768,
+          "lon": -46.959584
         },
-        "distancia_km": 83.1,
+        "distancia_km": 67.4,
         "proximo": false
       },
       {
@@ -425,10 +470,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "19/11/2026 09:11:39",
-          "lat": -28.0344064,
-          "lon": -50.5642752
+          "referencia": "9.59 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "19/11/2026 09:25:10",
+          "lat": -28.1690926,
+          "lon": -50.6700861
         },
         "distancia_km": null,
         "proximo": false
@@ -456,12 +501,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "19/11/2026 09:11:39",
-          "lat": -28.0344064,
-          "lon": -50.5642752
+          "referencia": "9.59 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "19/11/2026 09:25:10",
+          "lat": -28.1690926,
+          "lon": -50.6700861
         },
-        "distancia_km": 225.0,
+        "distancia_km": 207.9,
         "proximo": false
       }
     ],
@@ -473,5 +518,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T09:17:35"
+  "_gerado_em": "2026-11-19T09:32:35"
 }
