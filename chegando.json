@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 06:00:16",
+          "data_hora_posicao": "19/11/2026 07:00:23",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -63,12 +63,12 @@
         "frete_rs": 6342.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.96 km de POSTO PETROBRAS REPRESA - ANTONINA/PR",
-          "data_hora_posicao": "19/11/2026 05:59:05",
-          "lat": -25.1529152,
-          "lon": -48.8605312
+          "referencia": "1.22 km de POSTO PELANDA 27 (ANTIGO IGUAÇU II) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "19/11/2026 07:00:28",
+          "lat": -25.6859888,
+          "lon": -49.1471872
         },
-        "distancia_km": 241.5,
+        "distancia_km": 176.3,
         "proximo": false
       },
       {
@@ -84,7 +84,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 06:00:16",
+          "data_hora_posicao": "19/11/2026 07:00:23",
           "lat": -27.2059816666667,
           "lon": -49.6488666666667
         },
@@ -104,9 +104,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 06:00:47",
-          "lat": -29.1463633333333,
-          "lon": -51.164875
+          "data_hora_posicao": "19/11/2026 06:59:44",
+          "lat": -29.1463666666667,
+          "lon": -51.1648033333333
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -150,9 +150,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 05:59:22",
-          "lat": -29.983376,
-          "lon": -51.1866176
+          "data_hora_posicao": "19/11/2026 06:59:22",
+          "lat": -29.9834016,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -170,9 +170,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "19/11/2026 05:59:22",
-          "lat": -29.983376,
-          "lon": -51.1866176
+          "data_hora_posicao": "19/11/2026 06:59:22",
+          "lat": -29.9834016,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -189,12 +189,12 @@
         "frete_rs": 328.18,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 06:00:05",
-          "lat": -27.2864058,
-          "lon": -50.1555563
+          "referencia": "0.9 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 06:59:17",
+          "lat": -27.6053966,
+          "lon": -50.3543018
         },
-        "distancia_km": 316.3,
+        "distancia_km": 276.6,
         "proximo": false
       }
     ],
@@ -208,147 +208,6 @@
         "peso_kg": 7554.3,
         "frete_rs": 6579.67,
         "qtde": 2
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074864-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 501.0,
-        "frete_rs": 1530.38,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074873-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 2211.43,
-        "frete_rs": 3356.28,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:58:56",
-          "lat": -22.8469466666667,
-          "lon": -47.12478
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074874-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 437.0,
-        "frete_rs": 363.17,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 05:58:56",
-          "lat": -22.8469466666667,
-          "lon": -47.12478
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024149-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 1841.73,
-        "frete_rs": 3757.61,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 06:00:36",
-          "lat": -22.8466832,
-          "lon": -47.124784
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044465-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 14778.77,
-        "frete_rs": 17506.84,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 06:00:36",
-          "lat": -22.8466832,
-          "lon": -47.124784
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016468-2",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 675.62,
-        "frete_rs": 1369.81,
-        "grupo_origem": "Timbó",
-        "posicao_raster": {
-          "referencia": "1.08 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "19/11/2026 06:00:36",
-          "lat": -22.8466832,
-          "lon": -47.124784
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 3149.43,
-        "frete_rs": 5249.83,
-        "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 1841.73,
-        "frete_rs": 3757.61,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 14778.77,
-        "frete_rs": 17506.84,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 675.62,
-        "frete_rs": 1369.81,
-        "qtde": 1
       }
     }
   },
@@ -366,12 +225,12 @@
         "frete_rs": 20255.79,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de BMW LANCHONETE - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 05:56:54",
-          "lat": -24.8746496,
-          "lon": -48.2230528
+          "referencia": "0.95 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 07:00:08",
+          "lat": -25.1011424,
+          "lon": -48.828816
         },
-        "distancia_km": 229.3,
+        "distancia_km": 198.9,
         "proximo": false
       },
       {
@@ -401,12 +260,12 @@
         "frete_rs": 6860.0,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.04 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "19/11/2026 06:00:29",
-          "lat": -28.2735776,
-          "lon": -48.6999328
+          "referencia": "0.12 km de FORT ATACADISTA - FILIAL 62 - PALHOCA/SC",
+          "data_hora_posicao": "19/11/2026 06:59:37",
+          "lat": -27.6448928,
+          "lon": -48.6707648
         },
-        "distancia_km": 154.1,
+        "distancia_km": 84.4,
         "proximo": false
       }
     ],
@@ -437,72 +296,12 @@
         "frete_rs": 6600.47,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.11 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 05:59:17",
-          "lat": -25.1609024,
-          "lon": -48.8621184
+          "referencia": "0.16 km de MILI S.A - CURITIBA/PR",
+          "data_hora_posicao": "19/11/2026 06:59:17",
+          "lat": -25.540056,
+          "lon": -49.302192
         },
-        "distancia_km": 59.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024159-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 3597.18,
-        "frete_rs": 3066.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:58:52",
-          "lat": -25.5276416,
-          "lon": -49.2952416
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044492-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 18388.03,
-        "frete_rs": 9616.06,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:58:52",
-          "lat": -25.5276416,
-          "lon": -49.2952416
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044494-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 180.0,
-        "frete_rs": 257.41,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 05:58:52",
-          "lat": -25.5276416,
-          "lon": -49.2952416
-        },
-        "distancia_km": 0.0,
+        "distancia_km": 1.5,
         "proximo": true
       }
     ],
@@ -511,16 +310,6 @@
         "peso_kg": 5609.88,
         "frete_rs": 6600.47,
         "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 3597.18,
-        "frete_rs": 3066.03,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 18568.03,
-        "frete_rs": 9873.47,
-        "qtde": 2
       }
     }
   },
@@ -564,12 +353,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.47 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 05:59:06",
-          "lat": -24.1621744,
-          "lon": -47.3287776
+          "referencia": "0.99 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 06:59:06",
+          "lat": -23.8316656,
+          "lon": -46.92864
         },
-        "distancia_km": 117.0,
+        "distancia_km": 62.2,
         "proximo": false
       },
       {
@@ -584,12 +373,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.47 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "19/11/2026 05:59:06",
-          "lat": -24.1621744,
-          "lon": -47.3287776
+          "referencia": "0.99 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "19/11/2026 06:59:06",
+          "lat": -23.8316656,
+          "lon": -46.92864
         },
-        "distancia_km": 117.0,
+        "distancia_km": 62.2,
         "proximo": false
       },
       {
@@ -604,12 +393,12 @@
         "frete_rs": 10072.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.47 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 06:00:11",
-          "lat": -24.7849376,
-          "lon": -48.1869056
+          "referencia": "0.06 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
+          "data_hora_posicao": "19/11/2026 07:00:11",
+          "lat": -24.6959952,
+          "lon": -47.9996672
         },
-        "distancia_km": 228.0,
+        "distancia_km": 207.2,
         "proximo": false
       },
       {
@@ -639,12 +428,12 @@
         "frete_rs": 10994.28,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.47 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 06:00:11",
-          "lat": -24.7849376,
-          "lon": -48.1869056
+          "referencia": "0.06 km de FROMA COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO E TRANSPORTES - JACUPIRANGA/SP",
+          "data_hora_posicao": "19/11/2026 07:00:11",
+          "lat": -24.6959952,
+          "lon": -47.9996672
         },
-        "distancia_km": 228.0,
+        "distancia_km": 207.2,
         "proximo": false
       },
       {
@@ -763,32 +552,6 @@
       }
     }
   },
-  "TUB": {
-    "veiculos": [
-      {
-        "manif": "ITJ024156-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TUB",
-        "dest_city": "TUBARAO/SC",
-        "placa": "OKD7820",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2206.39,
-        "frete_rs": 5006.14,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 2206.39,
-        "frete_rs": 5006.14,
-        "qtde": 1
-      }
-    }
-  },
   "CXS": {
     "veiculos": [
       {
@@ -804,9 +567,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 06:00:47",
-          "lat": -29.1463633333333,
-          "lon": -51.164875
+          "data_hora_posicao": "19/11/2026 06:59:44",
+          "lat": -29.1463666666667,
+          "lon": -51.1648033333333
         },
         "distancia_km": null,
         "proximo": false
@@ -823,10 +586,10 @@
         "frete_rs": 2650.11,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 06:00:05",
-          "lat": -27.2864058,
-          "lon": -50.1555563
+          "referencia": "0.9 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 06:59:17",
+          "lat": -27.6053966,
+          "lon": -50.3543018
         },
         "distancia_km": null,
         "proximo": false
@@ -859,10 +622,10 @@
         "frete_rs": 2824.19,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "8.06 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 06:00:05",
-          "lat": -27.2864058,
-          "lon": -50.1555563
+          "referencia": "0.9 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
+          "data_hora_posicao": "19/11/2026 06:59:17",
+          "lat": -27.6053966,
+          "lon": -50.3543018
         },
         "distancia_km": null,
         "proximo": false
@@ -876,5 +639,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T06:02:33"
+  "_gerado_em": "2026-11-19T07:02:36"
 }
