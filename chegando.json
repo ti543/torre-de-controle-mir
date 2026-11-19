@@ -1,4 +1,80 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "BRQ000767-6",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "WEIDE DIOGO MODESTO DA COSTA",
+        "peso_real_kg": 6220.6,
+        "frete_rs": 6322.26,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "19/11/2026 19:57:31",
+          "lat": -27.0965716,
+          "lon": -48.9306461
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
+        "manif": "BRQ000768-4",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "WEIDE DIOGO MODESTO DA COSTA",
+        "peso_real_kg": 1821.86,
+        "frete_rs": 1656.12,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "19/11/2026 19:57:31",
+          "lat": -27.0965716,
+          "lon": -48.9306461
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013642-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 4412.35,
+        "frete_rs": 5334.6,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.94 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "19/11/2026 20:00:52",
+          "lat": -25.5937552,
+          "lon": -49.1727072
+        },
+        "distancia_km": 150.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Brusque": {
+        "peso_kg": 8042.46,
+        "frete_rs": 7978.38,
+        "qtde": 2
+      },
+      "Curitiba": {
+        "peso_kg": 4412.35,
+        "frete_rs": 5334.6,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -13,12 +89,12 @@
         "frete_rs": 2958.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.57 km de JOANINI TRANSPORTE RODOVIARIO DE CARGAS LTDA - ITATIBA/SP",
-          "data_hora_posicao": "19/11/2026 19:43:51",
-          "lat": -22.9867316666667,
-          "lon": -46.8106216666667
+          "referencia": "0.31 km de THR INDUSTRIA E COMERCIO DE EMBALAGENS LTDA - ITATIBA/SP",
+          "data_hora_posicao": "19/11/2026 19:53:57",
+          "lat": -23.01977,
+          "lon": -46.7549783333333
         },
-        "distancia_km": 64.5,
+        "distancia_km": 58.4,
         "proximo": false
       },
       {
@@ -33,12 +109,12 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.12 km de CONCESSIONARIA MERCEDES BENZ - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 19:45:17",
-          "lat": -25.4697632,
-          "lon": -49.2540288
+          "referencia": "0.09 km de POSTO ROTA SUL - PINHAIS/PR",
+          "data_hora_posicao": "19/11/2026 19:59:17",
+          "lat": -25.4150352,
+          "lon": -49.2222624
         },
-        "distancia_km": 359.5,
+        "distancia_km": 353.3,
         "proximo": false
       }
     ],
@@ -51,37 +127,6 @@
       "Curitiba": {
         "peso_kg": 8551.5,
         "frete_rs": 7594.05,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013642-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4412.35,
-        "frete_rs": 5334.6,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.63 km de MILI S.A - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 19:44:52",
-          "lat": -25.5457632,
-          "lon": -49.2975776
-        },
-        "distancia_km": 159.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4412.35,
-        "frete_rs": 5334.6,
         "qtde": 1
       }
     }
@@ -100,12 +145,12 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.63 km de MILI S.A - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 19:44:52",
-          "lat": -25.5457632,
-          "lon": -49.2975776
+          "referencia": "0.94 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "19/11/2026 20:00:52",
+          "lat": -25.5937552,
+          "lon": -49.1727072
         },
-        "distancia_km": 187.9,
+        "distancia_km": 185.5,
         "proximo": false
       },
       {
@@ -120,12 +165,12 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.63 km de MILI S.A - CURITIBA/PR",
-          "data_hora_posicao": "19/11/2026 19:44:52",
-          "lat": -25.5457632,
-          "lon": -49.2975776
+          "referencia": "0.94 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "19/11/2026 20:00:52",
+          "lat": -25.5937552,
+          "lon": -49.1727072
         },
-        "distancia_km": 187.9,
+        "distancia_km": 185.5,
         "proximo": false
       },
       {
@@ -140,12 +185,32 @@
         "frete_rs": 907.22,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.23 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 19:36:19",
-          "lat": -27.2870933333333,
-          "lon": -50.1535466666667
+          "referencia": "4.98 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "19/11/2026 19:56:18",
+          "lat": -27.2535733333333,
+          "lon": -50.0392533333333
         },
-        "distancia_km": 50.6,
+        "distancia_km": 38.9,
+        "proximo": false
+      },
+      {
+        "manif": "CXS002250-1",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT0B60",
+        "motorista": "DENIS VICENTIN",
+        "peso_real_kg": 1685.8,
+        "frete_rs": 2526.87,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 19:58:03",
+          "lat": -29.1467533,
+          "lon": -51.1647566
+        },
+        "distancia_km": 261.9,
         "proximo": false
       },
       {
@@ -160,12 +225,12 @@
         "frete_rs": 4642.95,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.23 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 19:36:19",
-          "lat": -27.2870933333333,
-          "lon": -50.1535466666667
+          "referencia": "4.98 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "19/11/2026 19:56:18",
+          "lat": -27.2535733333333,
+          "lon": -50.0392533333333
         },
-        "distancia_km": 50.6,
+        "distancia_km": 38.9,
         "proximo": false
       },
       {
@@ -180,12 +245,12 @@
         "frete_rs": 1232.04,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "8.23 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "19/11/2026 19:36:19",
-          "lat": -27.2870933333333,
-          "lon": -50.1535466666667
+          "referencia": "4.98 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "19/11/2026 19:56:18",
+          "lat": -27.2535733333333,
+          "lon": -50.0392533333333
         },
-        "distancia_km": 50.6,
+        "distancia_km": 38.9,
         "proximo": false
       },
       {
@@ -200,12 +265,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.99 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "19/11/2026 19:45:22",
-          "lat": -29.6320032,
-          "lon": -51.3029248
+          "referencia": "3.82 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "19/11/2026 19:59:27",
+          "lat": -29.5111424,
+          "lon": -51.35672
         },
-        "distancia_km": 314.5,
+        "distancia_km": 305.9,
         "proximo": false
       },
       {
@@ -231,9 +296,9 @@
         "qtde": 2
       },
       "Caxias do Sul / Lages": {
-        "peso_kg": 4153.6,
-        "frete_rs": 5550.17,
-        "qtde": 2
+        "peso_kg": 5839.4,
+        "frete_rs": 8077.04,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 12561.05,
@@ -262,7 +327,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 19:45:37",
+          "data_hora_posicao": "19/11/2026 19:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -282,31 +347,11 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 19:45:37",
+          "data_hora_posicao": "19/11/2026 19:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
         "distancia_km": 420.1,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044499-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 597.0,
-        "frete_rs": 328.18,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 19:44:15",
-          "lat": -29.146742,
-          "lon": -51.1647588
-        },
-        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -315,13 +360,8 @@
         "peso_kg": 12213.31,
         "frete_rs": 27286.17,
         "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 597.0,
-        "frete_rs": 328.18,
-        "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-19T19:47:37"
+  "_gerado_em": "2026-11-19T20:02:41"
 }
