@@ -2,26 +2,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "CMP010430-2",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 4869.62,
-        "frete_rs": 10543.81,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "18/11/2026 21:31:03",
-          "lat": -23.470675,
-          "lon": -46.4622666666667
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "CTB013635-2",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -33,12 +13,12 @@
         "frete_rs": 11994.3,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.96 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "18/11/2026 21:29:46",
-          "lat": -25.0840384,
-          "lon": -48.6346432
+          "referencia": "1.47 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "18/11/2026 21:37:46",
+          "lat": -25.0517872,
+          "lon": -48.5502272
         },
-        "distancia_km": 284.0,
+        "distancia_km": 275.2,
         "proximo": false
       },
       {
@@ -53,12 +33,12 @@
         "frete_rs": 13299.72,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.24 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "18/11/2026 21:29:06",
-          "lat": -26.0900368,
-          "lon": -48.8633952
+          "referencia": "1.96 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
+          "data_hora_posicao": "18/11/2026 21:45:06",
+          "lat": -25.9552272,
+          "lon": -48.9009568
         },
-        "distancia_km": 378.9,
+        "distancia_km": 370.1,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 2994.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.24 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "18/11/2026 21:29:06",
-          "lat": -26.0900368,
-          "lon": -48.8633952
+          "referencia": "1.96 km de RESTAURANTE DO GAÚCHO - GUARATUBA/PR",
+          "data_hora_posicao": "18/11/2026 21:45:06",
+          "lat": -25.9552272,
+          "lon": -48.9009568
         },
-        "distancia_km": 378.9,
+        "distancia_km": 370.1,
         "proximo": false
       },
       {
@@ -94,7 +74,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "18/11/2026 21:30:11",
+          "data_hora_posicao": "18/11/2026 21:44:11",
           "lat": -26.8876832,
           "lon": -48.7206688
         },
@@ -118,11 +98,6 @@
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 4869.62,
-        "frete_rs": 10543.81,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 9767.68,
         "frete_rs": 11994.3,
@@ -159,12 +134,32 @@
         "frete_rs": 1966.59,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.45 km de PRF - BARRA VELHA/SC",
-          "data_hora_posicao": "18/11/2026 21:30:23",
-          "lat": -26.614055,
-          "lon": -48.720505
+          "referencia": "0.48 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "18/11/2026 21:44:23",
+          "lat": -26.758225,
+          "lon": -48.6881616666667
         },
-        "distancia_km": 30.4,
+        "distancia_km": 14.7,
+        "proximo": true
+      },
+      {
+        "manif": "GRU074867-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 14766.61,
+        "frete_rs": 20255.79,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "18/11/2026 21:44:08",
+          "lat": -23.4705808,
+          "lon": -46.4619744
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -180,7 +175,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 21:29:36",
+          "data_hora_posicao": "18/11/2026 21:45:36",
           "lat": -29.9834976,
           "lon": -51.1869056
         },
@@ -199,12 +194,12 @@
         "frete_rs": 652.89,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 21:30:52",
-          "lat": -27.206096,
-          "lon": -49.6496992
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 21:44:52",
+          "lat": -27.2046496,
+          "lon": -49.6379616
         },
-        "distancia_km": 98.6,
+        "distancia_km": 97.4,
         "proximo": false
       },
       {
@@ -227,6 +222,11 @@
       "Curitiba": {
         "peso_kg": 2234.72,
         "frete_rs": 1966.59,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 14766.61,
+        "frete_rs": 20255.79,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -260,12 +260,12 @@
         "frete_rs": 2397.4,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.45 km de PRF - BARRA VELHA/SC",
-          "data_hora_posicao": "18/11/2026 21:30:23",
-          "lat": -26.614055,
-          "lon": -48.720505
+          "referencia": "0.48 km de MEVEPI - CONCESSIONARIA SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "18/11/2026 21:44:23",
+          "lat": -26.758225,
+          "lon": -48.6881616666667
         },
-        "distancia_km": 113.2,
+        "distancia_km": 107.5,
         "proximo": false
       },
       {
@@ -280,12 +280,12 @@
         "frete_rs": 9639.36,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.76 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 21:20:26",
-          "lat": -24.939072,
-          "lon": -48.3015168
+          "referencia": "0.38 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:43:00",
+          "lat": -24.9831936,
+          "lon": -48.5067776
         },
-        "distancia_km": 285.8,
+        "distancia_km": 272.2,
         "proximo": false
       },
       {
@@ -301,7 +301,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 21:29:06",
+          "data_hora_posicao": "18/11/2026 21:45:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -342,9 +342,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 21:29:21",
-          "lat": -29.9834144,
-          "lon": -51.1866496
+          "data_hora_posicao": "18/11/2026 21:45:21",
+          "lat": -29.9834272,
+          "lon": -51.1866336
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -362,9 +362,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 21:29:21",
-          "lat": -29.9834144,
-          "lon": -51.1866496
+          "data_hora_posicao": "18/11/2026 21:45:21",
+          "lat": -29.9834272,
+          "lon": -51.1866336
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -412,10 +412,10 @@
         "frete_rs": 3757.61,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.85 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 21:25:43",
-          "lat": -24.9678336,
-          "lon": -48.440192
+          "referencia": "1.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:35:43",
+          "lat": -24.9637888,
+          "lon": -48.4271872
         },
         "distancia_km": null,
         "proximo": false
@@ -432,10 +432,10 @@
         "frete_rs": 17506.84,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.85 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 21:25:43",
-          "lat": -24.9678336,
-          "lon": -48.440192
+          "referencia": "1.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:35:43",
+          "lat": -24.9637888,
+          "lon": -48.4271872
         },
         "distancia_km": null,
         "proximo": false
@@ -452,10 +452,10 @@
         "frete_rs": 1369.81,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "2.85 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "18/11/2026 21:25:43",
-          "lat": -24.9678336,
-          "lon": -48.440192
+          "referencia": "1.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
+          "data_hora_posicao": "18/11/2026 21:35:43",
+          "lat": -24.9637888,
+          "lon": -48.4271872
         },
         "distancia_km": null,
         "proximo": false
@@ -499,7 +499,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "18/11/2026 21:29:06",
+          "data_hora_posicao": "18/11/2026 21:45:06",
           "lat": -29.9837583333333,
           "lon": -51.1869883333333
         },
@@ -529,12 +529,12 @@
         "frete_rs": 9616.06,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 21:30:52",
-          "lat": -27.206096,
-          "lon": -49.6496992
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 21:44:52",
+          "lat": -27.2046496,
+          "lon": -49.6379616
         },
-        "distancia_km": 189.9,
+        "distancia_km": 189.6,
         "proximo": false
       },
       {
@@ -549,12 +549,12 @@
         "frete_rs": 257.41,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "18/11/2026 21:30:52",
-          "lat": -27.206096,
-          "lon": -49.6496992
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "18/11/2026 21:44:52",
+          "lat": -27.2046496,
+          "lon": -49.6379616
         },
-        "distancia_km": 189.9,
+        "distancia_km": 189.6,
         "proximo": false
       }
     ],
@@ -566,5 +566,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-18T21:32:39"
+  "_gerado_em": "2026-11-18T21:47:39"
 }
