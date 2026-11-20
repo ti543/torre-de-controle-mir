@@ -1,80 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013642-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4412.35,
-        "frete_rs": 5334.6,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:00:52",
-          "lat": -26.8594048,
-          "lon": -48.7277984
-        },
-        "distancia_km": 3.2,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074928-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 3490.65,
-        "frete_rs": 4445.81,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 22:59:04",
-          "lat": -23.4706768,
-          "lon": -46.4621824
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074929-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 6383.88,
-        "frete_rs": 15029.26,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 23:00:11",
-          "lat": -23.4705632,
-          "lon": -46.4621472
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4412.35,
-        "frete_rs": 5334.6,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 9874.53,
-        "frete_rs": 19475.07,
-        "qtde": 2
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -89,12 +13,12 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:00:52",
-          "lat": -26.8594048,
-          "lon": -48.7277984
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 23:14:52",
+          "lat": -26.8874496,
+          "lon": -48.7212288
         },
-        "distancia_km": 99.1,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -109,12 +33,12 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:00:52",
-          "lat": -26.8594048,
-          "lon": -48.7277984
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 23:14:52",
+          "lat": -26.8874496,
+          "lon": -48.7212288
         },
-        "distancia_km": 99.1,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -129,12 +53,12 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.38 km de INDUSTRIAL METALURGICA ROTAMIL EIRELI - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 23:00:32",
-          "lat": -29.1167918,
-          "lon": -51.1916476
+          "referencia": "1.93 km de DIGITALLI IMPRESSÃO DIGITAL - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "19/11/2026 23:15:42",
+          "lat": -29.0115378,
+          "lon": -51.190162
         },
-        "distancia_km": 260.7,
+        "distancia_km": 251.3,
         "proximo": false
       },
       {
@@ -149,12 +73,27 @@
         "frete_rs": 9986.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.57 km de POSTO SAKAMOTO 01 - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 22:59:06",
-          "lat": -23.4334928,
-          "lon": -46.4222464
+          "referencia": "0.27 km de POSTO SHELL - SUZANO - SUZANO/SP",
+          "data_hora_posicao": "19/11/2026 23:15:06",
+          "lat": -23.523624,
+          "lon": -46.3287328
         },
-        "distancia_km": 530.2,
+        "distancia_km": 528.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074932-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 8954.45,
+        "frete_rs": 18371.52,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -169,12 +108,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "19/11/2026 22:56:03",
-          "lat": -28.8139712,
-          "lon": -51.2674688
+          "referencia": "4.03 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "19/11/2026 23:09:22",
+          "lat": -28.7068032,
+          "lon": -51.2269472
         },
-        "distancia_km": 239.1,
+        "distancia_km": 227.7,
         "proximo": false
       }
     ],
@@ -190,9 +129,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 8446.65,
-        "frete_rs": 9986.56,
-        "qtde": 1
+        "peso_kg": 17401.1,
+        "frete_rs": 28358.08,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 11505.23,
@@ -216,7 +155,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 22:59:17",
+          "data_hora_posicao": "19/11/2026 23:15:17",
           "lat": -24.7857984,
           "lon": -48.1749344
         },
@@ -302,6 +241,83 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074928-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 3490.65,
+        "frete_rs": 4445.81,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 23:15:04",
+          "lat": -23.4706768,
+          "lon": -46.4621824
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074929-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 6383.88,
+        "frete_rs": 15029.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 23:15:02",
+          "lat": -23.4704896,
+          "lon": -46.4620864
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 9874.53,
+        "frete_rs": 19475.07,
+        "qtde": 2
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074931-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 9622.18,
+        "frete_rs": 11667.65,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 9622.18,
+        "frete_rs": 11667.65,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -317,7 +333,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 22:59:37",
+          "data_hora_posicao": "19/11/2026 23:15:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -337,7 +353,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 22:59:37",
+          "data_hora_posicao": "19/11/2026 23:15:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -353,5 +369,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T23:02:37"
+  "_gerado_em": "2026-11-19T23:17:29"
 }
