@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:14:52",
+          "data_hora_posicao": "19/11/2026 23:30:52",
           "lat": -26.8874496,
           "lon": -48.7212288
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:14:52",
+          "data_hora_posicao": "19/11/2026 23:30:52",
           "lat": -26.8874496,
           "lon": -48.7212288
         },
@@ -53,12 +53,12 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.93 km de DIGITALLI IMPRESSÃO DIGITAL - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "19/11/2026 23:15:42",
-          "lat": -29.0115378,
-          "lon": -51.190162
+          "referencia": "3.16 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "19/11/2026 23:29:57",
+          "lat": -28.9335788,
+          "lon": -51.1787893
         },
-        "distancia_km": 251.3,
+        "distancia_km": 243.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 9986.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.27 km de POSTO SHELL - SUZANO - SUZANO/SP",
-          "data_hora_posicao": "19/11/2026 23:15:06",
-          "lat": -23.523624,
-          "lon": -46.3287328
+          "referencia": "3.31 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "19/11/2026 23:27:06",
+          "lat": -23.6496016,
+          "lon": -46.3939776
         },
-        "distancia_km": 528.1,
+        "distancia_km": 513.1,
         "proximo": false
       },
       {
@@ -108,12 +108,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.03 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "19/11/2026 23:09:22",
-          "lat": -28.7068032,
-          "lon": -51.2269472
+          "referencia": "6.71 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "19/11/2026 23:30:47",
+          "lat": -28.6215328,
+          "lon": -51.042304
         },
-        "distancia_km": 227.7,
+        "distancia_km": 208.6,
         "proximo": false
       }
     ],
@@ -155,9 +155,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 23:15:17",
-          "lat": -24.7857984,
-          "lon": -48.1749344
+          "data_hora_posicao": "19/11/2026 23:29:17",
+          "lat": -24.7857584,
+          "lon": -48.1750208
         },
         "distancia_km": 227.1,
         "proximo": false
@@ -255,10 +255,10 @@
         "frete_rs": 4445.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 23:15:04",
-          "lat": -23.4706768,
-          "lon": -46.4621824
+          "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 23:29:04",
+          "lat": -23.4706576,
+          "lon": -46.4620864
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -276,7 +276,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 23:15:02",
+          "data_hora_posicao": "19/11/2026 23:30:11",
           "lat": -23.4704896,
           "lon": -46.4620864
         },
@@ -333,7 +333,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:15:37",
+          "data_hora_posicao": "19/11/2026 23:29:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -353,7 +353,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:15:37",
+          "data_hora_posicao": "19/11/2026 23:29:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -369,5 +369,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T23:17:29"
+  "_gerado_em": "2026-11-19T23:32:35"
 }
