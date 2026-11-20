@@ -13,12 +13,12 @@
         "frete_rs": 5334.6,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de FILIAL MONTE SERENO - BARRA VELHA - BARRA VELHA/SC",
-          "data_hora_posicao": "19/11/2026 22:44:52",
-          "lat": -26.7190976,
-          "lon": -48.7023168
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 23:00:52",
+          "lat": -26.8594048,
+          "lon": -48.7277984
         },
-        "distancia_km": 18.8,
+        "distancia_km": 3.2,
         "proximo": true
       },
       {
@@ -34,9 +34,29 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 22:45:04",
+          "data_hora_posicao": "19/11/2026 22:59:04",
           "lat": -23.4706768,
           "lon": -46.4621824
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074929-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 6383.88,
+        "frete_rs": 15029.26,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 23:00:11",
+          "lat": -23.4705632,
+          "lon": -46.4621472
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -49,9 +69,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 3490.65,
-        "frete_rs": 4445.81,
-        "qtde": 1
+        "peso_kg": 9874.53,
+        "frete_rs": 19475.07,
+        "qtde": 2
       }
     }
   },
@@ -69,12 +89,12 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de FILIAL MONTE SERENO - BARRA VELHA - BARRA VELHA/SC",
-          "data_hora_posicao": "19/11/2026 22:44:52",
-          "lat": -26.7190976,
-          "lon": -48.7023168
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 23:00:52",
+          "lat": -26.8594048,
+          "lon": -48.7277984
         },
-        "distancia_km": 108.4,
+        "distancia_km": 99.1,
         "proximo": false
       },
       {
@@ -89,12 +109,12 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de FILIAL MONTE SERENO - BARRA VELHA - BARRA VELHA/SC",
-          "data_hora_posicao": "19/11/2026 22:44:52",
-          "lat": -26.7190976,
-          "lon": -48.7023168
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - ITAJAI/SC",
+          "data_hora_posicao": "19/11/2026 23:00:52",
+          "lat": -26.8594048,
+          "lon": -48.7277984
         },
-        "distancia_km": 108.4,
+        "distancia_km": 99.1,
         "proximo": false
       },
       {
@@ -109,12 +129,12 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.04 km de INDUSTRIAL METALURGICA ROTAMIL EIRELI - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 22:44:53",
-          "lat": -29.1261235,
-          "lon": -51.1925703
+          "referencia": "0.38 km de INDUSTRIAL METALURGICA ROTAMIL EIRELI - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 23:00:32",
+          "lat": -29.1167918,
+          "lon": -51.1916476
         },
-        "distancia_km": 261.6,
+        "distancia_km": 260.7,
         "proximo": false
       },
       {
@@ -129,12 +149,12 @@
         "frete_rs": 9986.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 22:46:07",
-          "lat": -23.4707856,
-          "lon": -46.4660832
+          "referencia": "0.57 km de POSTO SAKAMOTO 01 - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 22:59:06",
+          "lat": -23.4334928,
+          "lon": -46.4222464
         },
-        "distancia_km": 524.2,
+        "distancia_km": 530.2,
         "proximo": false
       },
       {
@@ -149,12 +169,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.33 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "19/11/2026 22:45:22",
-          "lat": -28.8703808,
-          "lon": -51.2283584
+          "referencia": "1.24 km de POSTO ANDREZZA - IPE/RS",
+          "data_hora_posicao": "19/11/2026 22:56:03",
+          "lat": -28.8139712,
+          "lon": -51.2674688
         },
-        "distancia_km": 241.4,
+        "distancia_km": 239.1,
         "proximo": false
       }
     ],
@@ -195,12 +215,12 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 22:45:41",
-          "lat": -24.7862,
-          "lon": -48.1754112
+          "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "19/11/2026 22:59:17",
+          "lat": -24.7857984,
+          "lon": -48.1749344
         },
-        "distancia_km": 227.2,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -297,7 +317,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 22:45:37",
+          "data_hora_posicao": "19/11/2026 22:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -317,7 +337,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 22:45:37",
+          "data_hora_posicao": "19/11/2026 22:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -333,5 +353,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T22:47:40"
+  "_gerado_em": "2026-11-19T23:02:37"
 }
