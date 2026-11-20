@@ -13,12 +13,12 @@
         "frete_rs": 2958.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1 km de POSTO NOVO HORIZONTE - MAIRIPORA/SP",
-          "data_hora_posicao": "19/11/2026 21:30:42",
-          "lat": -23.2440866666667,
-          "lon": -46.5964433333333
+          "referencia": "0.53 km de POSTO GRAAL MAIRIPORA - MAIRIPORA/SP",
+          "data_hora_posicao": "19/11/2026 21:44:42",
+          "lat": -23.297175,
+          "lon": -46.5716716666667
         },
-        "distancia_km": 28.7,
+        "distancia_km": 22.3,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.48 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 08) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 21:31:17",
-          "lat": -25.1076112,
-          "lon": -48.8319328
+          "referencia": "0.79 km de HOTEL RESTAURANTE PALHOÇA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "19/11/2026 21:45:17",
+          "lat": -25.0974576,
+          "lon": -48.66872
         },
-        "distancia_km": 301.3,
+        "distancia_km": 287.6,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 5334.6,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.17 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "19/11/2026 21:30:52",
-          "lat": -26.0298336,
-          "lon": -48.860992
+          "referencia": "0.95 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 21:44:52",
+          "lat": -26.1394688,
+          "lon": -48.9018528
         },
-        "distancia_km": 96.4,
+        "distancia_km": 85.1,
         "proximo": false
       }
     ],
@@ -135,12 +135,12 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.17 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "19/11/2026 21:30:52",
-          "lat": -26.0298336,
-          "lon": -48.860992
+          "referencia": "0.95 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 21:44:52",
+          "lat": -26.1394688,
+          "lon": -48.9018528
         },
-        "distancia_km": 152.5,
+        "distancia_km": 140.0,
         "proximo": false
       },
       {
@@ -155,12 +155,12 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.17 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "19/11/2026 21:30:52",
-          "lat": -26.0298336,
-          "lon": -48.860992
+          "referencia": "0.95 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "19/11/2026 21:44:52",
+          "lat": -26.1394688,
+          "lon": -48.9018528
         },
-        "distancia_km": 152.5,
+        "distancia_km": 140.0,
         "proximo": false
       },
       {
@@ -176,11 +176,31 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 21:29:56",
+          "data_hora_posicao": "19/11/2026 21:45:56",
           "lat": -29.1467533,
           "lon": -51.1647566
         },
         "distancia_km": 261.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074927-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 8446.65,
+        "frete_rs": 9986.56,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "19/11/2026 21:45:06",
+          "lat": -23.4705312,
+          "lon": -46.4620288
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -195,12 +215,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.69 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "19/11/2026 21:29:36",
-          "lat": -28.9412704,
-          "lon": -51.1890688
+          "referencia": "0.04 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "19/11/2026 21:45:22",
+          "lat": -28.9080192,
+          "lon": -51.1937088
         },
-        "distancia_km": 245.0,
+        "distancia_km": 242.4,
         "proximo": false
       }
     ],
@@ -213,6 +233,11 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 1685.8,
         "frete_rs": 2526.87,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 8446.65,
+        "frete_rs": 9986.56,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -237,7 +262,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 21:29:37",
+          "data_hora_posicao": "19/11/2026 21:43:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -257,7 +282,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 21:29:37",
+          "data_hora_posicao": "19/11/2026 21:43:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -273,5 +298,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T21:32:54"
+  "_gerado_em": "2026-11-19T21:47:35"
 }
