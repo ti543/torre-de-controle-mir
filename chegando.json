@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:44:52",
+          "data_hora_posicao": "20/11/2026 00:00:52",
           "lat": -26.88736,
           "lon": -48.7212448
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:44:52",
+          "data_hora_posicao": "20/11/2026 00:00:52",
           "lat": -26.88736,
           "lon": -48.7212448
         },
@@ -53,12 +53,12 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "19/11/2026 23:45:50",
-          "lat": -28.826121,
-          "lon": -51.2702483
+          "referencia": "5.36 km de 36º BATALHÃO DE POLÍCIA MILITAR - IPE/RS",
+          "data_hora_posicao": "19/11/2026 23:51:10",
+          "lat": -28.7732043,
+          "lon": -51.2659671
         },
-        "distancia_km": 240.3,
+        "distancia_km": 235.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 9986.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.75 km de PEDAGIO - P5 (SENTIDO ANCHIETA SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "19/11/2026 23:45:06",
-          "lat": -23.7632736,
-          "lon": -46.5429536
+          "referencia": "3.79 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 23:59:06",
+          "lat": -23.803896,
+          "lon": -46.7042304
         },
-        "distancia_km": 493.7,
+        "distancia_km": 480.1,
         "proximo": false
       },
       {
@@ -108,12 +108,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.72 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
-          "data_hora_posicao": "19/11/2026 23:40:14",
-          "lat": -28.5706336,
-          "lon": -51.0130112
+          "referencia": "0.5 km de RASIP AGRO PASTORIL S/A - VACARIA/RS",
+          "data_hora_posicao": "19/11/2026 23:57:22",
+          "lat": -28.4726208,
+          "lon": -50.8949952
         },
-        "distancia_km": 202.4,
+        "distancia_km": 186.6,
         "proximo": false
       }
     ],
@@ -154,12 +154,12 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.43 km de PEDAGIO - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "19/11/2026 23:45:17",
-          "lat": -24.7220608,
-          "lon": -48.0684608
+          "referencia": "0.7 km de POSTO IPIRANGA MENEGUETTI - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "19/11/2026 23:59:17",
+          "lat": -24.6371936,
+          "lon": -47.9108704
         },
-        "distancia_km": 214.4,
+        "distancia_km": 196.1,
         "proximo": false
       },
       {
@@ -256,7 +256,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 23:45:04",
+          "data_hora_posicao": "19/11/2026 23:59:04",
           "lat": -23.4706576,
           "lon": -46.4620864
         },
@@ -276,7 +276,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 23:44:11",
+          "data_hora_posicao": "20/11/2026 00:00:11",
           "lat": -23.4705232,
           "lon": -46.4623936
         },
@@ -318,6 +318,57 @@
       }
     }
   },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074933-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 5628.28,
+        "frete_rs": 5507.4,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "20/11/2026 00:00:25",
+          "lat": -23.470525,
+          "lon": -46.4620683333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074934-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 53.0,
+        "frete_rs": 146.58,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "20/11/2026 00:00:25",
+          "lat": -23.470525,
+          "lon": -46.4620683333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 5681.28,
+        "frete_rs": 5653.98,
+        "qtde": 2
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -333,7 +384,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:45:37",
+          "data_hora_posicao": "20/11/2026 00:00:05",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -353,7 +404,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 23:45:37",
+          "data_hora_posicao": "20/11/2026 00:00:05",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -369,5 +420,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T23:47:41"
+  "_gerado_em": "2026-11-20T00:02:35"
 }
