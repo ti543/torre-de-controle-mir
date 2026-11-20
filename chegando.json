@@ -13,10 +13,10 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "20/11/2026 05:45:32",
-          "lat": -27.205728,
-          "lon": -49.6490624
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "20/11/2026 06:00:53",
+          "lat": -27.2058848,
+          "lon": -49.6489056
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -33,10 +33,10 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "20/11/2026 05:45:32",
-          "lat": -27.205728,
-          "lon": -49.6490624
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "20/11/2026 06:00:53",
+          "lat": -27.2058848,
+          "lon": -49.6489056
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -53,13 +53,13 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "9.21 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "20/11/2026 05:46:05",
-          "lat": -27.2828243,
-          "lon": -50.0742796
+          "referencia": "0.04 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "20/11/2026 06:00:57",
+          "lat": -27.2576995,
+          "lon": -49.9312216
         },
-        "distancia_km": 42.8,
-        "proximo": false
+        "distancia_km": 28.4,
+        "proximo": true
       },
       {
         "manif": "GRU074927-3",
@@ -74,7 +74,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "20/11/2026 05:45:06",
+          "data_hora_posicao": "20/11/2026 06:01:06",
           "lat": -24.7798688,
           "lon": -48.1866752
         },
@@ -108,10 +108,10 @@
         "frete_rs": 10891.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "20/11/2026 05:45:32",
-          "lat": -27.205728,
-          "lon": -49.6490624
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "20/11/2026 06:00:53",
+          "lat": -27.2058848,
+          "lon": -49.6489056
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -128,12 +128,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "20/11/2026 05:45:22",
-          "lat": -27.205984,
-          "lon": -49.6491904
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "20/11/2026 05:59:22",
+          "lat": -27.2060896,
+          "lon": -49.649376
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -179,12 +179,12 @@
         "frete_rs": 4445.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.51 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 05) - JUQUIA/SP",
-          "data_hora_posicao": "20/11/2026 05:45:04",
-          "lat": -24.387344,
-          "lon": -47.7177376
+          "referencia": "0.64 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
+          "data_hora_posicao": "20/11/2026 06:01:04",
+          "lat": -24.5249632,
+          "lon": -47.855024
         },
-        "distancia_km": 295.6,
+        "distancia_km": 276.7,
         "proximo": false
       },
       {
@@ -200,7 +200,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "20/11/2026 05:44:11",
+          "data_hora_posicao": "20/11/2026 06:00:11",
           "lat": -24.78004,
           "lon": -48.1859808
         },
@@ -257,7 +257,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "20/11/2026 05:44:35",
+          "data_hora_posicao": "20/11/2026 06:00:35",
           "lat": -22.8469016666667,
           "lon": -47.1247766666667
         },
@@ -277,7 +277,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "20/11/2026 05:44:35",
+          "data_hora_posicao": "20/11/2026 06:00:35",
           "lat": -22.8469016666667,
           "lon": -47.1247766666667
         },
@@ -308,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 05:45:37",
+          "data_hora_posicao": "20/11/2026 05:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -328,7 +328,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 05:45:37",
+          "data_hora_posicao": "20/11/2026 05:59:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -420,5 +420,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-20T05:47:45"
+  "_gerado_em": "2026-11-20T06:02:40"
 }
