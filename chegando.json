@@ -14,11 +14,11 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 02:30:52",
-          "lat": -26.88728,
-          "lon": -48.7212
+          "data_hora_posicao": "20/11/2026 02:44:52",
+          "lat": -26.8873536,
+          "lon": -48.7211584
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -34,11 +34,11 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 02:30:52",
-          "lat": -26.88728,
-          "lon": -48.7212
+          "data_hora_posicao": "20/11/2026 02:44:52",
+          "lat": -26.8873536,
+          "lon": -48.7211584
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.41 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
-          "data_hora_posicao": "20/11/2026 02:30:56",
-          "lat": -27.6011,
-          "lon": -50.3557411
+          "referencia": "0.34 km de POSTO SERRANO IV - PONTE ALTA/SC",
+          "data_hora_posicao": "20/11/2026 02:43:59",
+          "lat": -27.468888,
+          "lon": -50.3844671
         },
-        "distancia_km": 82.4,
+        "distancia_km": 78.2,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 9986.56,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.83 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "20/11/2026 02:29:06",
-          "lat": -24.0733088,
-          "lon": -47.2487072
+          "referencia": "0.83 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "20/11/2026 02:45:06",
+          "lat": -24.1642272,
+          "lon": -47.3316704
         },
-        "distancia_km": 423.4,
+        "distancia_km": 410.3,
         "proximo": false
       },
       {
@@ -97,6 +97,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024178-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 10444.75,
+        "frete_rs": 10891.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "20/11/2026 02:44:52",
+          "lat": -26.8873536,
+          "lon": -48.7211584
+        },
+        "distancia_km": 98.6,
+        "proximo": false
+      },
+      {
         "manif": "POA016282-5",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -108,12 +128,12 @@
         "frete_rs": 15214.3,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.49 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "20/11/2026 02:29:22",
-          "lat": -27.3029664,
-          "lon": -50.4170464
+          "referencia": "1.78 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "20/11/2026 02:45:22",
+          "lat": -27.303536,
+          "lon": -50.2563904
         },
-        "distancia_km": 76.6,
+        "distancia_km": 60.9,
         "proximo": false
       }
     ],
@@ -132,6 +152,11 @@
         "peso_kg": 17401.1,
         "frete_rs": 28358.08,
         "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 10444.75,
+        "frete_rs": 10891.89,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 11505.23,
@@ -154,13 +179,13 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.5 km de UDIAÇO DISTRIBUIDORA DE FERRO E AÇO LTDA - CARAPICUIBA/SP",
-          "data_hora_posicao": "20/11/2026 02:30:57",
-          "lat": -23.535912,
-          "lon": -46.8176704
+          "referencia": "0.13 km de PONTE FREGUESIA DO Ó - SAO PAULO/SP",
+          "data_hora_posicao": "20/11/2026 02:45:17",
+          "lat": -23.5097696,
+          "lon": -46.6886784
         },
-        "distancia_km": 37.0,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "RSL044518-5",
@@ -255,12 +280,12 @@
         "frete_rs": 4445.81,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.86 km de MOGIANA MINERADORA – SUZANO - SUZANO/SP",
-          "data_hora_posicao": "20/11/2026 02:29:04",
-          "lat": -23.4913696,
-          "lon": -46.3338976
+          "referencia": "2.79 km de ASSAI ATACADISTA LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "20/11/2026 02:46:00",
+          "lat": -23.678488,
+          "lon": -46.4006528
         },
-        "distancia_km": 447.5,
+        "distancia_km": 426.3,
         "proximo": false
       },
       {
@@ -275,12 +300,12 @@
         "frete_rs": 15029.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO RODOANEL SUL - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "20/11/2026 02:30:11",
-          "lat": -23.6457616,
-          "lon": -46.841376
+          "referencia": "0.96 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "20/11/2026 02:44:11",
+          "lat": -23.7781632,
+          "lon": -46.9158976
         },
-        "distancia_km": 407.0,
+        "distancia_km": 390.4,
         "proximo": false
       }
     ],
@@ -332,10 +357,10 @@
         "frete_rs": 5507.4,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "20/11/2026 02:30:38",
-          "lat": -22.8469116666667,
-          "lon": -47.12474
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "20/11/2026 02:44:52",
+          "lat": -22.8469016666667,
+          "lon": -47.1247766666667
         },
         "distancia_km": null,
         "proximo": false
@@ -352,10 +377,10 @@
         "frete_rs": 146.58,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "20/11/2026 02:30:38",
-          "lat": -22.8469116666667,
-          "lon": -47.12474
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "20/11/2026 02:44:52",
+          "lat": -22.8469016666667,
+          "lon": -47.1247766666667
         },
         "distancia_km": null,
         "proximo": false
@@ -384,7 +409,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 02:29:37",
+          "data_hora_posicao": "20/11/2026 02:45:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -404,7 +429,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "20/11/2026 02:29:37",
+          "data_hora_posicao": "20/11/2026 02:45:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -420,5 +445,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-20T02:32:33"
+  "_gerado_em": "2026-11-20T02:47:43"
 }
