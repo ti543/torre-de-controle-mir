@@ -13,12 +13,12 @@
         "frete_rs": 2958.62,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.59 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE APOIO) - SAO PAULO/SP",
-          "data_hora_posicao": "19/11/2026 22:00:42",
-          "lat": -23.3726583333333,
-          "lon": -46.5583516666667
+          "referencia": "0.08 km de POSTO PÉ DE BOI - SAO PAULO/SP",
+          "data_hora_posicao": "19/11/2026 22:14:42",
+          "lat": -23.4694833333333,
+          "lon": -46.5690033333333
         },
-        "distancia_km": 14.6,
+        "distancia_km": 10.9,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7594.05,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.89 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "19/11/2026 21:57:17",
-          "lat": -25.042824,
-          "lon": -48.5402464
+          "referencia": "0.64 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "19/11/2026 22:04:20",
+          "lat": -24.975856,
+          "lon": -48.502224
         },
-        "distancia_km": 273.8,
+        "distancia_km": 266.1,
         "proximo": false
       },
       {
@@ -104,12 +104,12 @@
         "frete_rs": 5334.6,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO MAKRO - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 22:00:52",
-          "lat": -26.3023248,
-          "lon": -48.8829216
+          "referencia": "0.13 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 22:14:52",
+          "lat": -26.4359872,
+          "lon": -48.8128256
         },
-        "distancia_km": 67.0,
+        "distancia_km": 51.0,
         "proximo": false
       }
     ],
@@ -135,12 +135,12 @@
         "frete_rs": 2701.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO MAKRO - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 22:00:52",
-          "lat": -26.3023248,
-          "lon": -48.8829216
+          "referencia": "0.13 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 22:14:52",
+          "lat": -26.4359872,
+          "lon": -48.8128256
         },
-        "distancia_km": 126.1,
+        "distancia_km": 119.3,
         "proximo": false
       },
       {
@@ -155,12 +155,12 @@
         "frete_rs": 821.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.37 km de POSTO MAKRO - JOINVILLE/SC",
-          "data_hora_posicao": "19/11/2026 22:00:52",
-          "lat": -26.3023248,
-          "lon": -48.8829216
+          "referencia": "0.13 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "19/11/2026 22:14:52",
+          "lat": -26.4359872,
+          "lon": -48.8128256
         },
-        "distancia_km": 126.1,
+        "distancia_km": 119.3,
         "proximo": false
       },
       {
@@ -175,10 +175,10 @@
         "frete_rs": 2526.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "19/11/2026 21:57:56",
-          "lat": -29.146594,
-          "lon": -51.1647518
+          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "19/11/2026 22:14:01",
+          "lat": -29.1464256,
+          "lon": -51.164764
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -196,7 +196,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "19/11/2026 21:59:06",
+          "data_hora_posicao": "19/11/2026 22:15:06",
           "lat": -23.470312,
           "lon": -46.46184
         },
@@ -216,9 +216,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "19/11/2026 21:59:22",
-          "lat": -28.908016,
-          "lon": -51.193728
+          "data_hora_posicao": "19/11/2026 22:15:22",
+          "lat": -28.9080352,
+          "lon": -51.1936992
         },
         "distancia_km": 242.4,
         "proximo": false
@@ -262,7 +262,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 21:59:37",
+          "data_hora_posicao": "19/11/2026 22:15:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -282,7 +282,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "19/11/2026 21:59:37",
+          "data_hora_posicao": "19/11/2026 22:15:37",
           "lat": -26.887088,
           "lon": -48.7232064
         },
@@ -298,5 +298,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-19T22:02:28"
+  "_gerado_em": "2026-11-19T22:17:31"
 }
