@@ -1,150 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CTB013643-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 1521.99,
-        "frete_rs": 2701.26,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 08:00:54",
-          "lat": -27.2059072,
-          "lon": -49.6488832
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013644-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 536.0,
-        "frete_rs": 821.15,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 08:00:54",
-          "lat": -27.2059072,
-          "lon": -49.6488832
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "CXS002250-1",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 1685.8,
-        "frete_rs": 2526.87,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:59:40",
-          "lat": -27.2059871,
-          "lon": -49.6498106
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074932-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 8954.45,
-        "frete_rs": 18371.52,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024178-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 10444.75,
-        "frete_rs": 10891.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 08:00:54",
-          "lat": -27.2059072,
-          "lon": -49.6488832
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "POA016282-5",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 11505.23,
-        "frete_rs": 15214.3,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:59:22",
-          "lat": -27.2060832,
-          "lon": -49.6493728
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 2057.99,
-        "frete_rs": 3522.4100000000003,
-        "qtde": 2
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 1685.8,
-        "frete_rs": 2526.87,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 8954.45,
-        "frete_rs": 18371.52,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 10444.75,
-        "frete_rs": 10891.89,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 11505.23,
-        "frete_rs": 15214.3,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -160,7 +14,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 08:01:04",
+          "data_hora_posicao": "21/11/2026 08:15:04",
           "lat": -26.8867488,
           "lon": -48.7238816
         },
@@ -179,10 +33,10 @@
         "frete_rs": 15029.26,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 08:00:11",
-          "lat": -26.8881472,
-          "lon": -48.7233696
+          "referencia": "0.12 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "21/11/2026 08:16:11",
+          "lat": -26.8880544,
+          "lon": -48.723344
         },
         "distancia_km": 0.2,
         "proximo": true
@@ -222,6 +76,32 @@
       }
     }
   },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "GRU074932-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 8954.45,
+        "frete_rs": 18371.52,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8954.45,
+        "frete_rs": 18371.52,
+        "qtde": 1
+      }
+    }
+  },
   "CMP": {
     "veiculos": [
       {
@@ -236,10 +116,10 @@
         "frete_rs": 5507.4,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 07:59:32",
-          "lat": -22.8468966666667,
-          "lon": -47.1247616666667
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "21/11/2026 08:15:51",
+          "lat": -22.84695,
+          "lon": -47.1247316666667
         },
         "distancia_km": null,
         "proximo": false
@@ -256,10 +136,10 @@
         "frete_rs": 146.58,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 07:59:32",
-          "lat": -22.8468966666667,
-          "lon": -47.1247616666667
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "21/11/2026 08:15:51",
+          "lat": -22.84695,
+          "lon": -47.1247316666667
         },
         "distancia_km": null,
         "proximo": false
@@ -288,7 +168,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:59:37",
+          "data_hora_posicao": "21/11/2026 08:15:37",
           "lat": -26.8870592,
           "lon": -48.7232128
         },
@@ -308,7 +188,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:59:37",
+          "data_hora_posicao": "21/11/2026 08:15:37",
           "lat": -26.8870592,
           "lon": -48.7232128
         },
@@ -339,7 +219,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:59:58",
+          "data_hora_posicao": "21/11/2026 08:15:25",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -370,7 +250,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:59:58",
+          "data_hora_posicao": "21/11/2026 08:15:25",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -401,7 +281,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:59:58",
+          "data_hora_posicao": "21/11/2026 08:15:25",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -493,5 +373,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-21T08:02:44"
+  "_gerado_em": "2026-11-21T08:18:15"
 }
