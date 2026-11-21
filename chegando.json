@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:44:53",
+          "data_hora_posicao": "21/11/2026 08:00:54",
           "lat": -27.2059072,
           "lon": -49.6488832
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:44:53",
+          "data_hora_posicao": "21/11/2026 08:00:54",
           "lat": -27.2059072,
           "lon": -49.6488832
         },
@@ -54,31 +54,11 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:43:40",
+          "data_hora_posicao": "21/11/2026 07:59:40",
           "lat": -27.2059871,
           "lon": -49.6498106
         },
         "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074927-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 8446.65,
-        "frete_rs": 9986.56,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:45:06",
-          "lat": -27.2059968,
-          "lon": -49.6490528
-        },
-        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -109,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:44:53",
+          "data_hora_posicao": "21/11/2026 08:00:54",
           "lat": -27.2059072,
           "lon": -49.6488832
         },
@@ -129,8 +109,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "21/11/2026 07:45:22",
-          "lat": -27.2060864,
+          "data_hora_posicao": "21/11/2026 07:59:22",
+          "lat": -27.2060832,
           "lon": -49.6493728
         },
         "distancia_km": 0.0,
@@ -149,9 +129,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 17401.1,
-        "frete_rs": 28358.08,
-        "qtde": 2
+        "peso_kg": 8954.45,
+        "frete_rs": 18371.52,
+        "qtde": 1
       },
       "Itajaí": {
         "peso_kg": 10444.75,
@@ -180,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:45:04",
+          "data_hora_posicao": "21/11/2026 08:01:04",
           "lat": -26.8867488,
           "lon": -48.7238816
         },
@@ -200,7 +180,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.11 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:44:11",
+          "data_hora_posicao": "21/11/2026 08:00:11",
           "lat": -26.8881472,
           "lon": -48.7233696
         },
@@ -257,9 +237,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 07:44:12",
-          "lat": -22.8469016666667,
-          "lon": -47.1247766666667
+          "data_hora_posicao": "21/11/2026 07:59:32",
+          "lat": -22.8468966666667,
+          "lon": -47.1247616666667
         },
         "distancia_km": null,
         "proximo": false
@@ -277,9 +257,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 07:44:12",
-          "lat": -22.8469016666667,
-          "lon": -47.1247766666667
+          "data_hora_posicao": "21/11/2026 07:59:32",
+          "lat": -22.8468966666667,
+          "lon": -47.1247616666667
         },
         "distancia_km": null,
         "proximo": false
@@ -308,7 +288,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:45:37",
+          "data_hora_posicao": "21/11/2026 07:59:37",
           "lat": -26.8870592,
           "lon": -48.7232128
         },
@@ -328,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:45:37",
+          "data_hora_posicao": "21/11/2026 07:59:37",
           "lat": -26.8870592,
           "lon": -48.7232128
         },
@@ -359,7 +339,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:43:25",
+          "data_hora_posicao": "21/11/2026 07:59:58",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -390,7 +370,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:43:25",
+          "data_hora_posicao": "21/11/2026 07:59:58",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -421,7 +401,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 07:43:25",
+          "data_hora_posicao": "21/11/2026 07:59:58",
           "lat": -26.8876588,
           "lon": -48.7209335
         },
@@ -513,5 +493,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-21T07:47:43"
+  "_gerado_em": "2026-11-21T08:02:44"
 }
