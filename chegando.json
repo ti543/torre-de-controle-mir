@@ -13,12 +13,12 @@
         "frete_rs": 12337.27,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.09 km de FILIAL EXPRESSO LEOMAR - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 15:59:05",
-          "lat": -23.4605328,
-          "lon": -46.48664
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 16:15:05",
+          "lat": -23.470448,
+          "lon": -46.4620224
         },
-        "distancia_km": 2.7,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -44,12 +44,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.11 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "23/11/2026 15:58:25",
-          "lat": -27.5930763,
-          "lon": -48.6960781
+          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "23/11/2026 16:10:38",
+          "lat": -27.4689663,
+          "lon": -48.722525
         },
-        "distancia_km": 78.5,
+        "distancia_km": 64.7,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.11 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "23/11/2026 15:58:25",
-          "lat": -27.5930763,
-          "lon": -48.6960781
+          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
+          "data_hora_posicao": "23/11/2026 16:10:38",
+          "lat": -27.4689663,
+          "lon": -48.722525
         },
-        "distancia_km": 78.5,
+        "distancia_km": 64.7,
         "proximo": false
       }
     ],
@@ -100,12 +100,12 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "23/11/2026 16:00:29",
-          "lat": -29.3595296,
-          "lon": -51.3723296
+          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "23/11/2026 16:13:23",
+          "lat": -29.4994496,
+          "lon": -51.3530432
         },
-        "distancia_km": 71.6,
+        "distancia_km": 56.2,
         "proximo": false
       },
       {
@@ -120,12 +120,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "23/11/2026 16:00:29",
-          "lat": -29.3595296,
-          "lon": -51.3723296
+          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "23/11/2026 16:13:23",
+          "lat": -29.4994496,
+          "lon": -51.3530432
         },
-        "distancia_km": 71.6,
+        "distancia_km": 56.2,
         "proximo": false
       },
       {
@@ -140,12 +140,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.07 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "23/11/2026 16:00:29",
-          "lat": -29.3595296,
-          "lon": -51.3723296
+          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "23/11/2026 16:13:23",
+          "lat": -29.4994496,
+          "lon": -51.3530432
         },
-        "distancia_km": 71.6,
+        "distancia_km": 56.2,
         "proximo": false
       }
     ],
@@ -162,5 +162,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T16:02:29"
+  "_gerado_em": "2026-11-23T16:17:21"
 }
