@@ -13,12 +13,12 @@
         "frete_rs": 12337.27,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "23/11/2026 13:43:05",
-          "lat": -22.846768,
-          "lon": -47.124768
+          "referencia": "2.6 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
+          "data_hora_posicao": "23/11/2026 14:15:05",
+          "lat": -22.9219392,
+          "lon": -46.9426688
         },
-        "distancia_km": 96.9,
+        "distancia_km": 78.3,
         "proximo": false
       }
     ],
@@ -44,12 +44,32 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.54 km de PRF - TUBARAO/SC",
-          "data_hora_posicao": "23/11/2026 13:44:49",
-          "lat": -28.5485228,
-          "lon": -49.0533638
+          "referencia": "0.23 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 14:14:38",
+          "lat": -28.467527,
+          "lon": -49.004801
         },
-        "distancia_km": 187.6,
+        "distancia_km": 177.9,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000405-7",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 250.0,
+        "frete_rs": 852.61,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.23 km de CONCESSIONARIA VOLVO - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 14:14:38",
+          "lat": -28.467527,
+          "lon": -49.004801
+        },
+        "distancia_km": 177.9,
         "proximo": false
       }
     ],
@@ -58,11 +78,36 @@
         "peso_kg": 3773.4,
         "frete_rs": 4260.78,
         "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 250.0,
+        "frete_rs": 852.61,
+        "qtde": 1
       }
     }
   },
   "POA": {
     "veiculos": [
+      {
+        "manif": "CXS002251-9",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 834.8,
+        "frete_rs": 576.83,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 14:13:23",
+          "lat": -29.146368,
+          "lon": -51.164848
+        },
+        "distancia_km": 93.1,
+        "proximo": false
+      },
       {
         "manif": "RSL044541-0",
         "origin_unit": "RSL",
@@ -75,10 +120,10 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 13:43:23",
-          "lat": -29.1463328,
-          "lon": -51.1648672
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 14:13:23",
+          "lat": -29.146368,
+          "lon": -51.164848
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -95,16 +140,21 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 13:43:23",
-          "lat": -29.1463328,
-          "lon": -51.1648672
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 14:13:23",
+          "lat": -29.146368,
+          "lon": -51.164848
         },
         "distancia_km": 93.1,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 834.8,
+        "frete_rs": 576.83,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 3913.53,
         "frete_rs": 3984.2,
@@ -112,31 +162,5 @@
       }
     }
   },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "RSL044544-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 3279.81,
-        "frete_rs": 2321.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 3279.81,
-        "frete_rs": 2321.22,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-23T13:47:26"
+  "_gerado_em": "2026-11-23T14:17:22"
 }
