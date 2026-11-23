@@ -1,4 +1,35 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010445-1",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 19324.97,
+        "frete_rs": 12337.27,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "23/11/2026 13:43:05",
+          "lat": -22.846768,
+          "lon": -47.124768
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 19324.97,
+        "frete_rs": 12337.27,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -13,12 +44,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "3.54 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "23/11/2026 13:28:31",
-          "lat": -28.6870161,
-          "lon": -49.1557608
+          "referencia": "0.54 km de PRF - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 13:44:49",
+          "lat": -28.5485228,
+          "lon": -49.0533638
         },
-        "distancia_km": 204.6,
+        "distancia_km": 187.6,
         "proximo": false
       }
     ],
@@ -44,10 +75,10 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 13:29:23",
-          "lat": -29.1463168,
-          "lon": -51.1648512
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 13:43:23",
+          "lat": -29.1463328,
+          "lon": -51.1648672
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -64,10 +95,10 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 13:29:23",
-          "lat": -29.1463168,
-          "lon": -51.1648512
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 13:43:23",
+          "lat": -29.1463328,
+          "lon": -51.1648672
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -107,5 +138,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T13:32:22"
+  "_gerado_em": "2026-11-23T13:47:26"
 }
