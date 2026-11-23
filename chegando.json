@@ -13,12 +13,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.34 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
-          "data_hora_posicao": "23/11/2026 16:30:12",
-          "lat": -27.2855036,
-          "lon": -48.630926
+          "referencia": "1.01 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "23/11/2026 16:45:10",
+          "lat": -27.1967501,
+          "lon": -48.6037625
         },
-        "distancia_km": 45.1,
+        "distancia_km": 36.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.34 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
-          "data_hora_posicao": "23/11/2026 16:30:12",
-          "lat": -27.2855036,
-          "lon": -48.630926
+          "referencia": "1.01 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "23/11/2026 16:45:10",
+          "lat": -27.1967501,
+          "lon": -48.6037625
         },
-        "distancia_km": 45.1,
+        "distancia_km": 36.3,
         "proximo": false
       }
     ],
@@ -69,13 +69,13 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "23/11/2026 16:29:23",
-          "lat": -29.6523552,
-          "lon": -51.2760704
+          "referencia": "0.15 km de DALLEAÇO SOLUÇÕES EM AÇOS PLANOS - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "23/11/2026 16:45:23",
+          "lat": -29.7549408,
+          "lon": -51.1517792
         },
-        "distancia_km": 37.8,
-        "proximo": false
+        "distancia_km": 25.6,
+        "proximo": true
       },
       {
         "manif": "RSL044541-0",
@@ -89,13 +89,13 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "23/11/2026 16:29:23",
-          "lat": -29.6523552,
-          "lon": -51.2760704
+          "referencia": "0.15 km de DALLEAÇO SOLUÇÕES EM AÇOS PLANOS - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "23/11/2026 16:45:23",
+          "lat": -29.7549408,
+          "lon": -51.1517792
         },
-        "distancia_km": 37.8,
-        "proximo": false
+        "distancia_km": 25.6,
+        "proximo": true
       },
       {
         "manif": "RSL044543-6",
@@ -109,13 +109,13 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "23/11/2026 16:29:23",
-          "lat": -29.6523552,
-          "lon": -51.2760704
+          "referencia": "0.15 km de DALLEAÇO SOLUÇÕES EM AÇOS PLANOS - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "23/11/2026 16:45:23",
+          "lat": -29.7549408,
+          "lon": -51.1517792
         },
-        "distancia_km": 37.8,
-        "proximo": false
+        "distancia_km": 25.6,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -131,5 +131,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T16:32:27"
+  "_gerado_em": "2026-11-23T16:47:23"
 }
