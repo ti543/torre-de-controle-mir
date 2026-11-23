@@ -1,4 +1,80 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010446-9",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 2510.44,
+        "frete_rs": 8431.85,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "23/11/2026 18:45:17",
+          "lat": -22.846915,
+          "lon": -47.124725
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044557-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 32960.1,
+        "frete_rs": 17292.5,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.59 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "23/11/2026 18:44:28",
+          "lat": -27.1873504,
+          "lon": -49.608336
+        },
+        "distancia_km": 520.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016505-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 8809.36,
+        "frete_rs": 11429.2,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 2510.44,
+        "frete_rs": 8431.85,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 32960.1,
+        "frete_rs": 17292.5,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 8809.36,
+        "frete_rs": 11429.2,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -13,13 +89,28 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.54 km de PRF - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 18:29:42",
-          "lat": -26.9381201,
-          "lon": -48.6971145
+          "referencia": "0.15 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 18:45:09",
+          "lat": -26.9173885,
+          "lon": -48.7099561
         },
-        "distancia_km": 6.1,
+        "distancia_km": 3.5,
         "proximo": true
+      },
+      {
+        "manif": "TBO016506-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 392.93,
+        "frete_rs": 302.49,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "TUB000405-7",
@@ -33,12 +124,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.54 km de PRF - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 18:29:42",
-          "lat": -26.9381201,
-          "lon": -48.6971145
+          "referencia": "0.15 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 18:45:09",
+          "lat": -26.9173885,
+          "lon": -48.7099561
         },
-        "distancia_km": 6.1,
+        "distancia_km": 3.5,
         "proximo": true
       }
     ],
@@ -46,6 +137,11 @@
       "CRC": {
         "peso_kg": 3773.4,
         "frete_rs": 4260.78,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 392.93,
+        "frete_rs": 302.49,
         "qtde": 1
       },
       "TUB": {
@@ -70,9 +166,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:29:23",
-          "lat": -29.9834432,
-          "lon": -51.1866592
+          "data_hora_posicao": "23/11/2026 18:45:23",
+          "lat": -29.9834304,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -89,12 +185,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.35 km de ALFA TRANSPORTES ITAJAÍ - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 18:29:05",
-          "lat": -26.8998208,
-          "lon": -48.7176224
+          "referencia": "0.65 km de POSTO IRMÃO DA ESTRADA - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "23/11/2026 18:45:05",
+          "lat": -26.9799584,
+          "lon": -48.6802592
         },
-        "distancia_km": 419.3,
+        "distancia_km": 414.1,
         "proximo": false
       },
       {
@@ -110,9 +206,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:29:23",
-          "lat": -29.9834432,
-          "lon": -51.1866592
+          "data_hora_posicao": "23/11/2026 18:45:23",
+          "lat": -29.9834304,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -130,9 +226,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:29:23",
-          "lat": -29.9834432,
-          "lon": -51.1866592
+          "data_hora_posicao": "23/11/2026 18:45:23",
+          "lat": -29.9834304,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -171,7 +267,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:29:37",
+          "data_hora_posicao": "23/11/2026 18:45:37",
           "lat": -29.983968,
           "lon": -51.1869408
         },
@@ -202,7 +298,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:29:37",
+          "data_hora_posicao": "23/11/2026 18:45:37",
           "lat": -29.983968,
           "lon": -51.1869408
         },
@@ -214,37 +310,6 @@
       "Porto Alegre": {
         "peso_kg": 3015.58,
         "frete_rs": 3718.37,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044557-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 32960.1,
-        "frete_rs": 17292.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "23/11/2026 18:30:28",
-          "lat": -27.2058976,
-          "lon": -49.6492384
-        },
-        "distancia_km": 524.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 32960.1,
-        "frete_rs": 17292.5,
         "qtde": 1
       }
     }
@@ -275,5 +340,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T18:32:23"
+  "_gerado_em": "2026-11-23T18:47:36"
 }
