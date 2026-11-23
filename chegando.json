@@ -1,105 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "BRQ000769-2",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 6668.08,
-        "frete_rs": 7978.73,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.12 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 20:14:11",
-          "lat": -26.9167616,
-          "lon": -48.71016
-        },
-        "distancia_km": 3.4,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013651-4",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 5135.07,
-        "frete_rs": 5555.03,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.61 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "23/11/2026 20:10:28",
-          "lat": -25.8499968,
-          "lon": -49.0350688
-        },
-        "distancia_km": 119.5,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074987-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 11643.2,
-        "frete_rs": 7133.12,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 20:15:16",
-          "lat": -23.4706466666667,
-          "lon": -46.4623866666667
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016506-9",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 392.93,
-        "frete_rs": 302.49,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Brusque": {
-        "peso_kg": 6668.08,
-        "frete_rs": 7978.73,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 5135.07,
-        "frete_rs": 5555.03,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 11643.2,
-        "frete_rs": 7133.12,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 392.93,
-        "frete_rs": 302.49,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -114,13 +13,13 @@
         "frete_rs": 8431.85,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.28 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "23/11/2026 20:15:21",
-          "lat": -23.11402,
-          "lon": -46.5719816666667
+          "referencia": "1.04 km de POSTO NOVO HORIZONTE - MAIRIPORA/SP",
+          "data_hora_posicao": "23/11/2026 20:29:21",
+          "lat": -23.24436,
+          "lon": -46.5961533333333
         },
-        "distancia_km": 41.2,
-        "proximo": false
+        "distancia_km": 28.6,
+        "proximo": true
       },
       {
         "manif": "CTB013653-1",
@@ -134,12 +33,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.59 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 10) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "23/11/2026 20:13:46",
-          "lat": -25.3329616,
-          "lon": -49.0329216
+          "referencia": "1.22 km de POSTO COSTA BRAVA - QUATRO BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "23/11/2026 20:29:46",
+          "lat": -25.310376,
+          "lon": -49.008176
         },
-        "distancia_km": 332.6,
+        "distancia_km": 329.1,
         "proximo": false
       },
       {
@@ -154,12 +53,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.07 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "23/11/2026 20:15:09",
-          "lat": -26.8613888,
-          "lon": -49.040992
+          "referencia": "0.78 km de CHURRASCARIA TONI - GASPAR/SC",
+          "data_hora_posicao": "23/11/2026 20:28:28",
+          "lat": -26.8953056,
+          "lon": -48.919072
         },
-        "distancia_km": 457.7,
+        "distancia_km": 454.0,
         "proximo": false
       },
       {
@@ -201,6 +100,82 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013651-4",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5135.07,
+        "frete_rs": 5555.03,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "1.47 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "23/11/2026 20:28:28",
+          "lat": -25.9166544,
+          "lon": -48.91952
+        },
+        "distancia_km": 109.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074987-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 11643.2,
+        "frete_rs": 7133.12,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 20:29:24",
+          "lat": -23.4706466666667,
+          "lon": -46.4623866666667
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016506-9",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 392.93,
+        "frete_rs": 302.49,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5135.07,
+        "frete_rs": 5555.03,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 11643.2,
+        "frete_rs": 7133.12,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 392.93,
+        "frete_rs": 302.49,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -215,12 +190,12 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.61 km de RESTAURANTE RECANTO DOS FARIAS - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "23/11/2026 20:10:28",
-          "lat": -25.8499968,
-          "lon": -49.0350688
+          "referencia": "1.47 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "23/11/2026 20:28:28",
+          "lat": -25.9166544,
+          "lon": -48.91952
         },
-        "distancia_km": 162.7,
+        "distancia_km": 160.7,
         "proximo": false
       },
       {
@@ -235,12 +210,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.25 km de SENDAS DISTRIBUIDORA SA - SAO PAULO/SP",
-          "data_hora_posicao": "23/11/2026 20:14:36",
-          "lat": -23.566784,
-          "lon": -46.4467744
+          "referencia": "0.22 km de POLICLEAN SISTEMAS AMBIENTAIS - MAUA/SP",
+          "data_hora_posicao": "23/11/2026 20:28:36",
+          "lat": -23.6576416,
+          "lon": -46.471696
         },
-        "distancia_km": 516.9,
+        "distancia_km": 507.4,
         "proximo": false
       },
       {
@@ -256,7 +231,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 20:13:37",
+          "data_hora_posicao": "23/11/2026 20:29:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -297,8 +272,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 20:15:23",
-          "lat": -29.9833696,
+          "data_hora_posicao": "23/11/2026 20:29:23",
+          "lat": -29.9833856,
           "lon": -51.1866592
         },
         "distancia_km": 0.0,
@@ -316,12 +291,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de AUTO POSTO IPIRANGA - PALHOCA - PALHOCA/SC",
-          "data_hora_posicao": "23/11/2026 20:15:05",
-          "lat": -27.7237632,
-          "lon": -48.6440096
+          "referencia": "0.16 km de POSTO MACIAMBU LTDA - PALHOCA/SC",
+          "data_hora_posicao": "23/11/2026 20:29:05",
+          "lat": -27.8455264,
+          "lon": -48.6362272
         },
-        "distancia_km": 352.7,
+        "distancia_km": 343.7,
         "proximo": false
       },
       {
@@ -337,8 +312,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 20:15:23",
-          "lat": -29.9833696,
+          "data_hora_posicao": "23/11/2026 20:29:23",
+          "lat": -29.9833856,
           "lon": -51.1866592
         },
         "distancia_km": 0.0,
@@ -357,8 +332,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 20:15:23",
-          "lat": -29.9833696,
+          "data_hora_posicao": "23/11/2026 20:29:23",
+          "lat": -29.9833856,
           "lon": -51.1866592
         },
         "distancia_km": 0.0,
@@ -398,7 +373,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 20:13:37",
+          "data_hora_posicao": "23/11/2026 20:29:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -440,5 +415,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T20:17:21"
+  "_gerado_em": "2026-11-23T20:32:27"
 }
