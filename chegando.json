@@ -13,12 +13,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.3 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "23/11/2026 12:59:37",
-          "lat": -28.6898393,
-          "lon": -49.3167936
+          "referencia": "0.84 km de TECHSAT - AUTORIZADA AUTOTRAC - ICARA/SC",
+          "data_hora_posicao": "23/11/2026 13:14:46",
+          "lat": -28.7474223,
+          "lon": -49.2802551
         },
-        "distancia_km": 208.8,
+        "distancia_km": 214.0,
         "proximo": false
       }
     ],
@@ -26,37 +26,6 @@
       "CRC": {
         "peso_kg": 3773.4,
         "frete_rs": 4260.78,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044539-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 6888.85,
-        "frete_rs": 7221.87,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 12:59:23",
-          "lat": -29.1463168,
-          "lon": -51.1648608
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 6888.85,
-        "frete_rs": 7221.87,
         "qtde": 1
       }
     }
@@ -76,9 +45,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 12:59:23",
-          "lat": -29.1463168,
-          "lon": -51.1648608
+          "data_hora_posicao": "23/11/2026 13:13:23",
+          "lat": -29.1463232,
+          "lon": -51.1648672
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -96,9 +65,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 12:59:23",
-          "lat": -29.1463168,
-          "lon": -51.1648608
+          "data_hora_posicao": "23/11/2026 13:13:23",
+          "lat": -29.1463232,
+          "lon": -51.1648672
         },
         "distancia_km": 93.1,
         "proximo": false
@@ -138,5 +107,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T13:02:25"
+  "_gerado_em": "2026-11-23T13:17:21"
 }
