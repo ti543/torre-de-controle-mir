@@ -13,13 +13,13 @@
         "frete_rs": 7978.73,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "23/11/2026 19:14:11",
-          "lat": -27.0965088,
-          "lon": -48.9307008
+          "referencia": "0.18 km de FORT ATACADISTA - FILIAL 135 - BRUSQUE/SC",
+          "data_hora_posicao": "23/11/2026 19:30:11",
+          "lat": -27.0940608,
+          "lon": -48.9030912
         },
-        "distancia_km": 31.2,
-        "proximo": false
+        "distancia_km": 29.2,
+        "proximo": true
       },
       {
         "manif": "CTB013651-4",
@@ -33,12 +33,12 @@
         "frete_rs": 5555.03,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.16 km de CHAPECÓ LOGÍSTICA E CARGAS - CURITIBA/PR",
-          "data_hora_posicao": "23/11/2026 19:14:28",
-          "lat": -25.5332896,
-          "lon": -49.2991968
+          "referencia": "0.5 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "23/11/2026 19:28:28",
+          "lat": -25.5698112,
+          "lon": -49.2212992
         },
-        "distancia_km": 161.2,
+        "distancia_km": 154.8,
         "proximo": false
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 8431.85,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.72 km de ECP CARREFOUR HIPERMERCADO CAMPINAS - CAMPINAS/SP",
-          "data_hora_posicao": "23/11/2026 19:13:57",
-          "lat": -22.896125,
-          "lon": -47.0071616666667
+          "referencia": "0.5 km de ÁREA DE DESCANSO PARA CAMINHONEIROS - ITATIBA/SP",
+          "data_hora_posicao": "23/11/2026 19:29:22",
+          "lat": -22.945935,
+          "lon": -46.8720233333333
         },
-        "distancia_km": 84.7,
+        "distancia_km": 71.8,
         "proximo": false
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "23/11/2026 19:13:46",
-          "lat": -25.527792,
-          "lon": -49.2955328
+          "referencia": "0.15 km de DNA BRASIL COMERCIO ALIMENTOS - CURITIBA/PR",
+          "data_hora_posicao": "23/11/2026 19:29:46",
+          "lat": -25.4837328,
+          "lon": -49.2653184
         },
-        "distancia_km": 366.7,
+        "distancia_km": 361.3,
         "proximo": false
       },
       {
@@ -129,12 +129,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.68 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "23/11/2026 19:14:28",
-          "lat": -27.0773056,
-          "lon": -49.4304928
+          "referencia": "0.46 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "23/11/2026 19:27:28",
+          "lat": -27.0159136,
+          "lon": -49.3710304
         },
-        "distancia_km": 499.9,
+        "distancia_km": 490.9,
         "proximo": false
       },
       {
@@ -190,12 +190,32 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.16 km de CHAPECÓ LOGÍSTICA E CARGAS - CURITIBA/PR",
-          "data_hora_posicao": "23/11/2026 19:14:28",
-          "lat": -25.5332896,
-          "lon": -49.2991968
+          "referencia": "0.5 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "23/11/2026 19:28:28",
+          "lat": -25.5698112,
+          "lon": -49.2212992
         },
-        "distancia_km": 189.3,
+        "distancia_km": 186.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074986-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 12632.33,
+        "frete_rs": 7193.93,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 19:30:12",
+          "lat": -23.4706656,
+          "lon": -46.4624
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -211,9 +231,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 19:13:37",
-          "lat": -29.983728,
-          "lon": -51.1870048
+          "data_hora_posicao": "23/11/2026 19:29:37",
+          "lat": -29.9836576,
+          "lon": -51.1869408
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -238,6 +258,11 @@
       "Curitiba": {
         "peso_kg": 5990.87,
         "frete_rs": 6317.48,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 12632.33,
+        "frete_rs": 7193.93,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -266,10 +291,10 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 19:13:23",
-          "lat": -29.983424,
-          "lon": -51.1866336
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 19:29:23",
+          "lat": -29.9833952,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -286,12 +311,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "23/11/2026 19:15:05",
-          "lat": -27.1244,
-          "lon": -48.6098336
+          "referencia": "2.02 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
+          "data_hora_posicao": "23/11/2026 19:29:05",
+          "lat": -27.2643744,
+          "lon": -48.6319424
         },
-        "distancia_km": 405.4,
+        "distancia_km": 391.9,
         "proximo": false
       },
       {
@@ -306,10 +331,10 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 19:13:23",
-          "lat": -29.983424,
-          "lon": -51.1866336
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 19:29:23",
+          "lat": -29.9833952,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -326,10 +351,10 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 19:13:23",
-          "lat": -29.983424,
-          "lon": -51.1866336
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 19:29:23",
+          "lat": -29.9833952,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -368,9 +393,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 19:13:37",
-          "lat": -29.983728,
-          "lon": -51.1870048
+          "data_hora_posicao": "23/11/2026 19:29:37",
+          "lat": -29.9836576,
+          "lon": -51.1869408
         },
         "distancia_km": null,
         "proximo": false
@@ -410,5 +435,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T19:17:17"
+  "_gerado_em": "2026-11-23T19:32:26"
 }
