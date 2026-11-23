@@ -14,7 +14,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "23/11/2026 10:44:10",
+          "data_hora_posicao": "23/11/2026 11:00:04",
           "lat": -28.9753506,
           "lon": -49.5333698
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "23/11/2026 10:44:10",
+          "data_hora_posicao": "23/11/2026 11:00:04",
           "lat": -28.9753506,
           "lon": -49.5333698
         },
@@ -75,10 +75,10 @@
         "frete_rs": 7221.87,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.86 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "23/11/2026 10:45:23",
-          "lat": -28.6197184,
-          "lon": -51.0549248
+          "referencia": "0.53 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "23/11/2026 10:51:23",
+          "lat": -28.6594976,
+          "lon": -51.1014176
         },
         "distancia_km": null,
         "proximo": false
@@ -106,12 +106,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.86 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "23/11/2026 10:45:23",
-          "lat": -28.6197184,
-          "lon": -51.0549248
+          "referencia": "0.53 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "23/11/2026 10:51:23",
+          "lat": -28.6594976,
+          "lon": -51.1014176
         },
-        "distancia_km": 152.2,
+        "distancia_km": 147.4,
         "proximo": false
       },
       {
@@ -126,12 +126,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.86 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "23/11/2026 10:45:23",
-          "lat": -28.6197184,
-          "lon": -51.0549248
+          "referencia": "0.53 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "23/11/2026 10:51:23",
+          "lat": -28.6594976,
+          "lon": -51.1014176
         },
-        "distancia_km": 152.2,
+        "distancia_km": 147.4,
         "proximo": false
       }
     ],
@@ -169,5 +169,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T10:47:34"
+  "_gerado_em": "2026-11-23T11:02:38"
 }
