@@ -1,35 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010445-1",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 19324.97,
-        "frete_rs": 12337.27,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 16:15:05",
-          "lat": -23.470448,
-          "lon": -46.4620224
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 19324.97,
-        "frete_rs": 12337.27,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -44,12 +13,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "23/11/2026 16:10:38",
-          "lat": -27.4689663,
-          "lon": -48.722525
+          "referencia": "0.34 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
+          "data_hora_posicao": "23/11/2026 16:30:12",
+          "lat": -27.2855036,
+          "lon": -48.630926
         },
-        "distancia_km": 64.7,
+        "distancia_km": 45.1,
         "proximo": false
       },
       {
@@ -64,12 +33,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.79 km de LAVAÇÃO FARIAS - BIGUACU/SC",
-          "data_hora_posicao": "23/11/2026 16:10:38",
-          "lat": -27.4689663,
-          "lon": -48.722525
+          "referencia": "0.34 km de CHURRASCARIA DO TCHE - POSTO IPIRANGA - TIJUCAS/SC",
+          "data_hora_posicao": "23/11/2026 16:30:12",
+          "lat": -27.2855036,
+          "lon": -48.630926
         },
-        "distancia_km": 64.7,
+        "distancia_km": 45.1,
         "proximo": false
       }
     ],
@@ -100,12 +69,12 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "23/11/2026 16:13:23",
-          "lat": -29.4994496,
-          "lon": -51.3530432
+          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "23/11/2026 16:29:23",
+          "lat": -29.6523552,
+          "lon": -51.2760704
         },
-        "distancia_km": 56.2,
+        "distancia_km": 37.8,
         "proximo": false
       },
       {
@@ -120,12 +89,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "23/11/2026 16:13:23",
-          "lat": -29.4994496,
-          "lon": -51.3530432
+          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "23/11/2026 16:29:23",
+          "lat": -29.6523552,
+          "lon": -51.2760704
         },
-        "distancia_km": 56.2,
+        "distancia_km": 37.8,
         "proximo": false
       },
       {
@@ -140,12 +109,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.5 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "23/11/2026 16:13:23",
-          "lat": -29.4994496,
-          "lon": -51.3530432
+          "referencia": "1.73 km de MATRIZ UNIDÃO - PORTAO/RS",
+          "data_hora_posicao": "23/11/2026 16:29:23",
+          "lat": -29.6523552,
+          "lon": -51.2760704
         },
-        "distancia_km": 56.2,
+        "distancia_km": 37.8,
         "proximo": false
       }
     ],
@@ -162,5 +131,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T16:17:21"
+  "_gerado_em": "2026-11-23T16:32:27"
 }
