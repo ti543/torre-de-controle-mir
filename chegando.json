@@ -13,13 +13,13 @@
         "frete_rs": 12337.27,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.79 km de CHAPADA PAULISTA RESTAURANTE LTDA - ATIBAIA/SP",
-          "data_hora_posicao": "23/11/2026 15:15:05",
-          "lat": -23.2208368,
-          "lon": -46.5961216
+          "referencia": "0.13 km de PEDAGIO - MAIRIPORA (SENTIDO SP) - MAIRIPORA/SP",
+          "data_hora_posicao": "23/11/2026 15:29:05",
+          "lat": -23.3293184,
+          "lon": -46.5781888
         },
-        "distancia_km": 30.9,
-        "proximo": false
+        "distancia_km": 19.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -44,12 +44,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.35 km de POSTO BELA VISTA - PAULO LOPES/SC",
-          "data_hora_posicao": "23/11/2026 15:14:20",
-          "lat": -27.9917355,
-          "lon": -48.6815638
+          "referencia": "2.47 km de POSTO MACIAMBU - PALHOCA/SC",
+          "data_hora_posicao": "23/11/2026 15:29:45",
+          "lat": -27.8222006,
+          "lon": -48.6305103
         },
-        "distancia_km": 122.9,
+        "distancia_km": 104.3,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.35 km de POSTO BELA VISTA - PAULO LOPES/SC",
-          "data_hora_posicao": "23/11/2026 15:14:20",
-          "lat": -27.9917355,
-          "lon": -48.6815638
+          "referencia": "2.47 km de POSTO MACIAMBU - PALHOCA/SC",
+          "data_hora_posicao": "23/11/2026 15:29:45",
+          "lat": -27.8222006,
+          "lon": -48.6305103
         },
-        "distancia_km": 122.9,
+        "distancia_km": 104.3,
         "proximo": false
       }
     ],
@@ -100,12 +100,12 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.66 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 15:13:23",
-          "lat": -29.13904,
-          "lon": -51.2137024
+          "referencia": "0.2 km de POSTO SIM | CAXIAS FORQUETA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 15:29:23",
+          "lat": -29.2071328,
+          "lon": -51.2819168
         },
-        "distancia_km": 93.9,
+        "distancia_km": 86.8,
         "proximo": false
       },
       {
@@ -120,12 +120,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.66 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 15:13:23",
-          "lat": -29.13904,
-          "lon": -51.2137024
+          "referencia": "0.2 km de POSTO SIM | CAXIAS FORQUETA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 15:29:23",
+          "lat": -29.2071328,
+          "lon": -51.2819168
         },
-        "distancia_km": 93.9,
+        "distancia_km": 86.8,
         "proximo": false
       },
       {
@@ -140,12 +140,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.66 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "23/11/2026 15:13:23",
-          "lat": -29.13904,
-          "lon": -51.2137024
+          "referencia": "0.2 km de POSTO SIM | CAXIAS FORQUETA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "23/11/2026 15:29:23",
+          "lat": -29.2071328,
+          "lon": -51.2819168
         },
-        "distancia_km": 93.9,
+        "distancia_km": 86.8,
         "proximo": false
       }
     ],
@@ -162,5 +162,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T15:17:23"
+  "_gerado_em": "2026-11-23T15:32:34"
 }
