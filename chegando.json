@@ -13,13 +13,13 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.88 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "23/11/2026 16:58:41",
-          "lat": -27.1957738,
-          "lon": -48.6047545
+          "referencia": "0.32 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "23/11/2026 17:14:50",
+          "lat": -27.1241793,
+          "lon": -48.6094651
         },
-        "distancia_km": 36.2,
-        "proximo": false
+        "distancia_km": 28.5,
+        "proximo": true
       },
       {
         "manif": "TUB000405-7",
@@ -33,13 +33,13 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.88 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "23/11/2026 16:58:41",
-          "lat": -27.1957738,
-          "lon": -48.6047545
+          "referencia": "0.32 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "23/11/2026 17:14:50",
+          "lat": -27.1241793,
+          "lon": -48.6094651
         },
-        "distancia_km": 36.2,
-        "proximo": false
+        "distancia_km": 28.5,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -69,12 +69,12 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.1 km de AMAZON CD POA1 - NOVA SANTA RITA/RS",
-          "data_hora_posicao": "23/11/2026 16:59:23",
-          "lat": -29.8810656,
-          "lon": -51.2357952
+          "referencia": "0.39 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:14:42",
+          "lat": -29.987264,
+          "lon": -51.1874464
         },
-        "distancia_km": 12.3,
+        "distancia_km": 0.4,
         "proximo": true
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.1 km de AMAZON CD POA1 - NOVA SANTA RITA/RS",
-          "data_hora_posicao": "23/11/2026 16:59:23",
-          "lat": -29.8810656,
-          "lon": -51.2357952
+          "referencia": "0.39 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:14:42",
+          "lat": -29.987264,
+          "lon": -51.1874464
         },
-        "distancia_km": 12.3,
+        "distancia_km": 0.4,
         "proximo": true
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.1 km de AMAZON CD POA1 - NOVA SANTA RITA/RS",
-          "data_hora_posicao": "23/11/2026 16:59:23",
-          "lat": -29.8810656,
-          "lon": -51.2357952
+          "referencia": "0.39 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:14:42",
+          "lat": -29.987264,
+          "lon": -51.1874464
         },
-        "distancia_km": 12.3,
+        "distancia_km": 0.4,
         "proximo": true
       }
     ],
@@ -131,5 +131,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T17:02:25"
+  "_gerado_em": "2026-11-23T17:17:25"
 }
