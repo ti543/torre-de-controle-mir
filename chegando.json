@@ -1,209 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074928-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 3490.65,
-        "frete_rs": 4445.81,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:04",
-          "lat": -26.8867488,
-          "lon": -48.7238816
-        },
-        "distancia_km": 0.3,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074929-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 6383.88,
-        "frete_rs": 15029.26,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:14:11",
-          "lat": -26.8881472,
-          "lon": -48.7233504
-        },
-        "distancia_km": 0.2,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9874.53,
-        "frete_rs": 19475.07,
-        "qtde": 2
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074931-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 9622.18,
-        "frete_rs": 11667.65,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9622.18,
-        "frete_rs": 11667.65,
-        "qtde": 1
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "GRU074932-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 8954.45,
-        "frete_rs": 18371.52,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8954.45,
-        "frete_rs": 18371.52,
-        "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU074933-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 5628.28,
-        "frete_rs": 5507.4,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 09:14:12",
-          "lat": -22.84695,
-          "lon": -47.1247316666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074934-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 53.0,
-        "frete_rs": 146.58,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "21/11/2026 09:14:12",
-          "lat": -22.84695,
-          "lon": -47.1247316666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 5681.28,
-        "frete_rs": 5653.98,
-        "qtde": 2
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "ITJ024171-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 12113.31,
-        "frete_rs": 27136.17,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:37",
-          "lat": -26.8870592,
-          "lon": -48.7232128
-        },
-        "distancia_km": 420.2,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024174-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 100.0,
-        "frete_rs": 150.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:37",
-          "lat": -26.8870592,
-          "lon": -48.7232128
-        },
-        "distancia_km": 420.2,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 12213.31,
-        "frete_rs": 27286.17,
-        "qtde": 2
-      }
-    }
-  },
   "ARR": {
     "veiculos": [
       {
@@ -218,10 +13,10 @@
         "frete_rs": 733.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:25",
-          "lat": -26.8876588,
-          "lon": -48.7209335
+          "referencia": "1.14 km de PEDÁGIO CCR VIA COSTEIRA - TUBARÃO - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 09:45:50",
+          "lat": -28.5646258,
+          "lon": -49.0542625
         },
         "distancia_km": null,
         "proximo": false
@@ -249,10 +44,10 @@
         "frete_rs": 4991.73,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:25",
-          "lat": -26.8876588,
-          "lon": -48.7209335
+          "referencia": "1.14 km de PEDÁGIO CCR VIA COSTEIRA - TUBARÃO - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 09:45:50",
+          "lat": -28.5646258,
+          "lon": -49.0542625
         },
         "distancia_km": null,
         "proximo": false
@@ -266,95 +61,101 @@
       }
     }
   },
-  "TUB": {
+  "CXS": {
     "veiculos": [
       {
-        "manif": "ITJ024181-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TUB",
-        "dest_city": "TUBARAO/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 5141.55,
-        "frete_rs": 5217.54,
-        "grupo_origem": "Itajaí",
+        "manif": "RSL044539-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 6888.85,
+        "frete_rs": 7221.87,
+        "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "21/11/2026 09:15:25",
-          "lat": -26.8876588,
-          "lon": -48.7209335
+          "referencia": "0.18 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "23/11/2026 08:51:23",
+          "lat": -27.8740512,
+          "lon": -50.402496
         },
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5141.55,
-        "frete_rs": 5217.54,
+      "Rio do Sul": {
+        "peso_kg": 6888.85,
+        "frete_rs": 7221.87,
         "qtde": 1
       }
     }
   },
-  "GRU": {
+  "POA": {
     "veiculos": [
       {
-        "manif": "RSL044518-5",
+        "manif": "RSL044541-0",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 6329.53,
-        "frete_rs": 8945.19,
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3013.53,
+        "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.18 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "23/11/2026 08:51:23",
+          "lat": -27.8740512,
+          "lon": -50.402496
+        },
+        "distancia_km": 246.6,
         "proximo": false
       },
       {
-        "manif": "RSL044519-3",
+        "manif": "RSL044543-6",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 22530.7,
-        "frete_rs": 16390.26,
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 900.0,
+        "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "posicao_raster": {
+          "referencia": "0.18 km de JBS FOODS - SEARA ALIMENTOS LTDA - LAGES/SC",
+          "data_hora_posicao": "23/11/2026 08:51:23",
+          "lat": -27.8740512,
+          "lon": -50.402496
+        },
+        "distancia_km": 246.6,
         "proximo": false
-      },
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 3913.53,
+        "frete_rs": 3984.2,
+        "qtde": 2
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
       {
-        "manif": "TBO016485-2",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 1760.6,
-        "frete_rs": 2216.61,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016486-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 16396.78,
-        "frete_rs": 23068.67,
-        "grupo_origem": "Timbó",
+        "manif": "RSL044544-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3279.81,
+        "frete_rs": 2321.22,
+        "grupo_origem": "Rio do Sul",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -362,16 +163,11 @@
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 28860.23,
-        "frete_rs": 25335.449999999997,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 18157.379999999997,
-        "frete_rs": 25285.28,
-        "qtde": 2
+        "peso_kg": 3279.81,
+        "frete_rs": 2321.22,
+        "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-21T09:17:40"
+  "_gerado_em": "2026-11-23T09:47:40"
 }
