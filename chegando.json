@@ -13,12 +13,12 @@
         "frete_rs": 8431.85,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "23/11/2026 18:45:17",
-          "lat": -22.846915,
-          "lon": -47.124725
+          "referencia": "0.53 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
+          "data_hora_posicao": "23/11/2026 18:59:57",
+          "lat": -22.8427716666667,
+          "lon": -47.0503533333333
         },
-        "distancia_km": 96.9,
+        "distancia_km": 92.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.59 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
-          "data_hora_posicao": "23/11/2026 18:44:28",
-          "lat": -27.1873504,
-          "lon": -49.608336
+          "referencia": "3.22 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "23/11/2026 19:00:31",
+          "lat": -27.0955424,
+          "lon": -49.5261664
         },
-        "distancia_km": 520.3,
+        "distancia_km": 507.3,
         "proximo": false
       },
       {
@@ -89,13 +89,33 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.15 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 18:45:09",
-          "lat": -26.9173885,
-          "lon": -48.7099561
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 19:00:38",
+          "lat": -26.8877561,
+          "lon": -48.7206181
         },
-        "distancia_km": 3.5,
+        "distancia_km": 0.1,
         "proximo": true
+      },
+      {
+        "manif": "CTB013651-4",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5135.07,
+        "frete_rs": 5555.03,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "23/11/2026 19:00:28",
+          "lat": -25.5278096,
+          "lon": -49.2955616
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "TBO016506-9",
@@ -124,12 +144,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.15 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 18:45:09",
-          "lat": -26.9173885,
-          "lon": -48.7099561
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 19:00:38",
+          "lat": -26.8877561,
+          "lon": -48.7206181
         },
-        "distancia_km": 3.5,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -137,6 +157,11 @@
       "CRC": {
         "peso_kg": 3773.4,
         "frete_rs": 4260.78,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5135.07,
+        "frete_rs": 5555.03,
         "qtde": 1
       },
       "Timbó": {
@@ -147,6 +172,82 @@
       "TUB": {
         "peso_kg": 250.0,
         "frete_rs": 852.61,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CTB013652-2",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 5990.87,
+        "frete_rs": 6317.48,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "23/11/2026 19:00:28",
+          "lat": -25.5278096,
+          "lon": -49.2955616
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "POA016289-2",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 4043.05,
+        "frete_rs": 3212.01,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 18:59:37",
+          "lat": -29.983728,
+          "lon": -51.1870048
+        },
+        "distancia_km": 343.4,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016507-7",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 4447.54,
+        "frete_rs": 4965.1,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5990.87,
+        "frete_rs": 6317.48,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 4043.05,
+        "frete_rs": 3212.01,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 4447.54,
+        "frete_rs": 4965.1,
         "qtde": 1
       }
     }
@@ -166,9 +267,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:45:23",
+          "data_hora_posicao": "23/11/2026 18:59:23",
           "lat": -29.9834304,
-          "lon": -51.1866432
+          "lon": -51.1866592
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -185,12 +286,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.65 km de POSTO IRMÃO DA ESTRADA - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "23/11/2026 18:45:05",
-          "lat": -26.9799584,
-          "lon": -48.6802592
+          "referencia": "0.05 km de POSTO PETROMAR (ATALAIA) - ITAPEMA/SC",
+          "data_hora_posicao": "23/11/2026 19:00:21",
+          "lat": -27.0667488,
+          "lon": -48.5960544
         },
-        "distancia_km": 414.1,
+        "distancia_km": 411.3,
         "proximo": false
       },
       {
@@ -206,9 +307,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:45:23",
+          "data_hora_posicao": "23/11/2026 18:59:23",
           "lat": -29.9834304,
-          "lon": -51.1866432
+          "lon": -51.1866592
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -226,9 +327,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:45:23",
+          "data_hora_posicao": "23/11/2026 18:59:23",
           "lat": -29.9834304,
-          "lon": -51.1866432
+          "lon": -51.1866592
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -252,37 +353,6 @@
       }
     }
   },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "POA016289-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4043.05,
-        "frete_rs": 3212.01,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:45:37",
-          "lat": -29.983968,
-          "lon": -51.1869408
-        },
-        "distancia_km": 343.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 4043.05,
-        "frete_rs": 3212.01,
-        "qtde": 1
-      }
-    }
-  },
   "CXS": {
     "veiculos": [
       {
@@ -298,9 +368,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 18:45:37",
-          "lat": -29.983968,
-          "lon": -51.1869408
+          "data_hora_posicao": "23/11/2026 18:59:37",
+          "lat": -29.983728,
+          "lon": -51.1870048
         },
         "distancia_km": null,
         "proximo": false
@@ -340,5 +410,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T18:47:36"
+  "_gerado_em": "2026-11-23T19:02:30"
 }
