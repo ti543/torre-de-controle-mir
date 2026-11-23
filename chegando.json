@@ -13,12 +13,12 @@
         "frete_rs": 4260.78,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.54 km de TOYO TRANSPORTES PREMIUM LTD - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "23/11/2026 17:43:26",
-          "lat": -27.0080005,
-          "lon": -48.6171913
+          "referencia": "0.14 km de FORT ATACADISTA – FILIAL 115 - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "23/11/2026 18:00:19",
+          "lat": -26.999051,
+          "lon": -48.6466953
         },
-        "distancia_km": 16.9,
+        "distancia_km": 14.4,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 852.61,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.54 km de TOYO TRANSPORTES PREMIUM LTD - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "23/11/2026 17:43:26",
-          "lat": -27.0080005,
-          "lon": -48.6171913
+          "referencia": "0.14 km de FORT ATACADISTA – FILIAL 115 - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "23/11/2026 18:00:19",
+          "lat": -26.999051,
+          "lon": -48.6466953
         },
-        "distancia_km": 16.9,
+        "distancia_km": 14.4,
         "proximo": true
       }
     ],
@@ -69,12 +69,12 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 17:43:23",
-          "lat": -29.9838784,
-          "lon": -51.1873632
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:59:23",
+          "lat": -29.9834528,
+          "lon": -51.1866976
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -89,12 +89,12 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 17:43:23",
-          "lat": -29.9838784,
-          "lon": -51.1873632
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:59:23",
+          "lat": -29.9834528,
+          "lon": -51.1866976
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -109,12 +109,12 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 17:43:23",
-          "lat": -29.9838784,
-          "lon": -51.1873632
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:59:23",
+          "lat": -29.9834528,
+          "lon": -51.1866976
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -145,12 +145,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 17:43:37",
-          "lat": -29.9833248,
-          "lon": -51.1866336
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:59:37",
+          "lat": -29.983968,
+          "lon": -51.1869408
         },
-        "distancia_km": 343.3,
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -176,10 +176,10 @@
         "frete_rs": 3718.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 17:43:37",
-          "lat": -29.9833248,
-          "lon": -51.1866336
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 17:59:37",
+          "lat": -29.983968,
+          "lon": -51.1869408
         },
         "distancia_km": null,
         "proximo": false
@@ -189,6 +189,37 @@
       "Porto Alegre": {
         "peso_kg": 3015.58,
         "frete_rs": 3718.37,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044557-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 32960.1,
+        "frete_rs": 17292.5,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "23/11/2026 17:58:28",
+          "lat": -27.2058976,
+          "lon": -49.6492384
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 32960.1,
+        "frete_rs": 17292.5,
         "qtde": 1
       }
     }
@@ -219,5 +250,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T17:47:19"
+  "_gerado_em": "2026-11-23T18:02:21"
 }
