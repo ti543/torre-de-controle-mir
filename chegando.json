@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.72 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "24/11/2026 17:21:13",
-          "lat": -27.4488864,
-          "lon": -50.3961184
+          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:41:37",
+          "lat": -27.3039776,
+          "lon": -50.4025664
         },
-        "distancia_km": 78.5,
+        "distancia_km": 75.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.65 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "24/11/2026 17:26:32",
-          "lat": -26.943056,
-          "lon": -49.2939744
+          "referencia": "0.37 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "24/11/2026 17:44:32",
+          "lat": -27.0088928,
+          "lon": -49.3732576
         },
-        "distancia_km": 45.8,
+        "distancia_km": 35.1,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 17:29:10",
-          "lat": -23.4703152,
-          "lon": -46.465968
+          "referencia": "0.78 km de SENDAS DISTRIBUIDORA. - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 17:44:40",
+          "lat": -23.4907728,
+          "lon": -46.4629184
         },
-        "distancia_km": 524.3,
+        "distancia_km": 522.6,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.72 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "24/11/2026 17:21:13",
-          "lat": -27.4488864,
-          "lon": -50.3961184
+          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:41:37",
+          "lat": -27.3039776,
+          "lon": -50.4025664
         },
-        "distancia_km": 78.5,
+        "distancia_km": 75.2,
         "proximo": false
       }
     ],
@@ -114,19 +114,44 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 17:29:39",
-          "lat": -27.1332101,
-          "lon": -48.6121111
+          "referencia": "0.16 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "24/11/2026 17:45:19",
+          "lat": -27.1282716,
+          "lon": -48.6096691
         },
-        "distancia_km": 29.4,
+        "distancia_km": 29.0,
         "proximo": true
+      },
+      {
+        "manif": "RSL044582-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 309.96,
+        "frete_rs": 253.4,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:44:30",
+          "lat": -27.206096,
+          "lon": -49.6493024
+        },
+        "distancia_km": 98.5,
+        "proximo": false
       }
     ],
     "por_origem": {
       "FLN": {
         "peso_kg": 10.0,
         "frete_rs": 265.68,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 309.96,
+        "frete_rs": 253.4,
         "qtde": 1
       }
     }
@@ -233,7 +258,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 17:28:45",
+          "data_hora_posicao": "24/11/2026 17:45:05",
           "lat": -29.9834583333333,
           "lon": -51.1867283333333
         },
@@ -249,5 +274,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T17:32:24"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044583-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 15394.3,
+        "frete_rs": 8411.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:44:30",
+          "lat": -27.206096,
+          "lon": -49.6493024
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 15394.3,
+        "frete_rs": 8411.22,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-24T17:47:33"
 }
