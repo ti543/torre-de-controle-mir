@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.58 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:43:48",
-          "lat": -27.7843488,
-          "lon": -50.3510016
+          "referencia": "0.98 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "24/11/2026 16:57:37",
+          "lat": -27.6440512,
+          "lon": -50.338208
         },
-        "distancia_km": 94.4,
+        "distancia_km": 83.6,
         "proximo": false
       },
       {
@@ -34,9 +34,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "24/11/2026 16:44:32",
-          "lat": -26.8423264,
-          "lon": -49.2723808
+          "data_hora_posicao": "24/11/2026 16:59:53",
+          "lat": -26.8422832,
+          "lon": -49.2723424
         },
         "distancia_km": 55.1,
         "proximo": false
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 16:44:09",
+          "data_hora_posicao": "24/11/2026 17:00:09",
           "lat": -23.4702752,
           "lon": -46.4620896
         },
@@ -73,12 +73,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.58 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:43:48",
-          "lat": -27.7843488,
-          "lon": -50.3510016
+          "referencia": "0.98 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "24/11/2026 16:57:37",
+          "lat": -27.6440512,
+          "lon": -50.338208
         },
-        "distancia_km": 94.4,
+        "distancia_km": 83.6,
         "proximo": false
       }
     ],
@@ -115,7 +115,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 16:42:41",
+          "data_hora_posicao": "24/11/2026 16:58:41",
           "lat": -27.1332101,
           "lon": -48.6121111
         },
@@ -145,26 +145,6 @@
         "frete_rs": 6962.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU074993-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1132.2,
-        "frete_rs": 1374.45,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "24/11/2026 16:44:32",
-          "lat": -26.8423264,
-          "lon": -49.2723808
-        },
         "distancia_km": null,
         "proximo": false
       },
@@ -201,9 +181,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 3834.9800000000005,
-        "frete_rs": 8337.23,
-        "qtde": 2
+        "peso_kg": 2702.78,
+        "frete_rs": 6962.78,
+        "qtde": 1
       },
       "Itajaí": {
         "peso_kg": 2873.94,
@@ -226,12 +206,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 16:44:10",
-          "lat": -29.9838783333333,
-          "lon": -51.1873733333333
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 16:58:46",
+          "lat": -29.9834583333333,
+          "lon": -51.1867283333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -243,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T16:47:24"
+  "_gerado_em": "2026-11-24T17:02:29"
 }
