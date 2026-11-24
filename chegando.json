@@ -13,13 +13,13 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.61 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "24/11/2026 18:27:37",
-          "lat": -27.2519008,
-          "lon": -50.0152832
+          "referencia": "1.32 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "24/11/2026 18:45:13",
+          "lat": -27.2738624,
+          "lon": -49.856224
         },
-        "distancia_km": 36.5,
-        "proximo": false
+        "distancia_km": 21.8,
+        "proximo": true
       },
       {
         "manif": "GRU074992-3",
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "24/11/2026 18:28:35",
-          "lat": -27.1357664,
-          "lon": -49.5435296
+          "referencia": "1.35 km de POSTO COLIBRIS - LONTRAS/SC",
+          "data_hora_posicao": "24/11/2026 18:44:32",
+          "lat": -27.1568608,
+          "lon": -49.5565216
         },
-        "distancia_km": 13.1,
+        "distancia_km": 10.7,
         "proximo": true
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de ESTACIONAMENTO WEST PARK - MAUA/SP",
-          "data_hora_posicao": "24/11/2026 18:28:09",
-          "lat": -23.6791456,
-          "lon": -46.4698464
+          "referencia": "0.14 km de PEDAGIO - P3 (SENTIDO IMIGRANTES SP) - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "24/11/2026 18:44:09",
+          "lat": -23.763344,
+          "lon": -46.5915936
         },
-        "distancia_km": 505.7,
+        "distancia_km": 490.6,
         "proximo": false
       },
       {
@@ -73,13 +73,13 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.61 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "24/11/2026 18:27:37",
-          "lat": -27.2519008,
-          "lon": -50.0152832
+          "referencia": "1.32 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "24/11/2026 18:45:13",
+          "lat": -27.2738624,
+          "lon": -49.856224
         },
-        "distancia_km": 36.5,
-        "proximo": false
+        "distancia_km": 21.8,
+        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -94,8 +94,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:29:23",
-          "lat": -29.9833824,
+          "data_hora_posicao": "24/11/2026 18:43:23",
+          "lat": -29.9833952,
           "lon": -51.1868896
         },
         "distancia_km": 343.3,
@@ -134,12 +134,12 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.32 km de DICAVE CONCESSIONARIA VOLVO - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 18:29:33",
-          "lat": -26.9592856,
-          "lon": -48.6802533
+          "referencia": "0.4 km de HUB ITAJAÍ - ITJ - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 18:45:07",
+          "lat": -26.9398305,
+          "lon": -48.6954435
         },
-        "distancia_km": 9.0,
+        "distancia_km": 6.4,
         "proximo": true
       },
       {
@@ -155,7 +155,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:29:05",
+          "data_hora_posicao": "24/11/2026 18:45:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
@@ -174,12 +174,12 @@
         "frete_rs": 253.4,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "24/11/2026 18:29:24",
-          "lat": -27.1053024,
-          "lon": -49.5221888
+          "referencia": "3.65 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "24/11/2026 18:44:43",
+          "lat": -27.0837216,
+          "lon": -49.4467168
         },
-        "distancia_km": 83.0,
+        "distancia_km": 75.1,
         "proximo": false
       }
     ],
@@ -277,8 +277,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:29:23",
-          "lat": -29.9833824,
+          "data_hora_posicao": "24/11/2026 18:43:23",
+          "lat": -29.9833952,
           "lon": -51.1868896
         },
         "distancia_km": null,
@@ -308,7 +308,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:29:36",
+          "data_hora_posicao": "24/11/2026 18:45:04",
           "lat": -29.983385,
           "lon": -51.1866533333333
         },
@@ -338,12 +338,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.4 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "24/11/2026 18:29:24",
-          "lat": -27.1053024,
-          "lon": -49.5221888
+          "referencia": "3.65 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "24/11/2026 18:44:43",
+          "lat": -27.0837216,
+          "lon": -49.4467168
         },
-        "distancia_km": 507.9,
+        "distancia_km": 501.4,
         "proximo": false
       }
     ],
@@ -355,5 +355,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T18:32:30"
+  "_gerado_em": "2026-11-24T18:47:33"
 }
