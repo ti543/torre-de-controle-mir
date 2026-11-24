@@ -13,13 +13,13 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO DELTA - APIUNA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 02:14:29",
-          "lat": -27.0290176,
-          "lon": -49.3818784
+          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "24/11/2026 02:29:46",
+          "lat": -27.0902368,
+          "lon": -49.4710048
         },
-        "distancia_km": 33.0,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "GRU074986-9",
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 02:14:36",
-          "lat": -24.3253168,
-          "lon": -47.5586784
+          "referencia": "0.12 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 02:28:36",
+          "lat": -24.3259568,
+          "lon": -47.562304
         },
-        "distancia_km": 382.7,
+        "distancia_km": 382.4,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "6.27 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 02:15:22",
-          "lat": -24.0868496,
-          "lon": -47.255376
+          "referencia": "1.31 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 02:29:32",
+          "lat": -24.1670784,
+          "lon": -47.3351712
         },
-        "distancia_km": 421.8,
+        "distancia_km": 409.8,
         "proximo": false
       },
       {
@@ -88,13 +88,13 @@
         "frete_rs": 4904.97,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO DELTA - APIUNA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 02:14:29",
-          "lat": -27.0290176,
-          "lon": -49.3818784
+          "referencia": "1.59 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "24/11/2026 02:29:46",
+          "lat": -27.0902368,
+          "lon": -49.4710048
         },
-        "distancia_km": 33.0,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "POA016289-2",
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 02:15:37",
+          "data_hora_posicao": "24/11/2026 02:29:37",
           "lat": -29.9835872,
           "lon": -51.186928
         },
@@ -155,8 +155,8 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 02:15:23",
-          "lat": -29.9833504,
+          "data_hora_posicao": "24/11/2026 02:29:23",
+          "lat": -29.9833888,
           "lon": -51.1866336
         },
         "distancia_km": 0.0,
@@ -175,7 +175,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "24/11/2026 02:15:05",
+          "data_hora_posicao": "24/11/2026 02:29:05",
           "lat": -29.3056608,
           "lon": -49.7729632
         },
@@ -195,8 +195,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 02:15:23",
-          "lat": -29.9833504,
+          "data_hora_posicao": "24/11/2026 02:29:23",
+          "lat": -29.9833888,
           "lon": -51.1866336
         },
         "distancia_km": 0.0,
@@ -215,8 +215,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 02:15:23",
-          "lat": -29.9833504,
+          "data_hora_posicao": "24/11/2026 02:29:23",
+          "lat": -29.9833888,
           "lon": -51.1866336
         },
         "distancia_km": 0.0,
@@ -255,12 +255,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de M. MOHRING COMERCIO E SERVICOS LTDA - ME - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 02:15:05",
-          "lat": -24.3220933333333,
-          "lon": -47.5413016666667
+          "referencia": "0.42 km de M. MOHRING COMERCIO E SERVICOS LTDA - ME - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 02:29:05",
+          "lat": -24.3229616666667,
+          "lon": -47.5461316666667
         },
-        "distancia_km": 308.8,
+        "distancia_km": 308.5,
         "proximo": false
       },
       {
@@ -302,7 +302,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.53 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 02:15:15",
+          "data_hora_posicao": "24/11/2026 02:29:15",
           "lat": -24.2652832,
           "lon": -47.3882784
         },
@@ -321,12 +321,12 @@
         "frete_rs": 3873.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de CDH HAVAN - BARRA VELHA/SC",
-          "data_hora_posicao": "24/11/2026 02:15:06",
-          "lat": -26.6336288,
-          "lon": -48.7009344
+          "referencia": "2.15 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 02:29:06",
+          "lat": -26.4840608,
+          "lon": -48.7349152
         },
-        "distancia_km": 136.6,
+        "distancia_km": 120.2,
         "proximo": false
       },
       {
@@ -341,12 +341,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.27 km de CDH HAVAN - BARRA VELHA/SC",
-          "data_hora_posicao": "24/11/2026 02:15:06",
-          "lat": -26.6336288,
-          "lon": -48.7009344
+          "referencia": "2.15 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 02:29:06",
+          "lat": -26.4840608,
+          "lon": -48.7349152
         },
-        "distancia_km": 136.6,
+        "distancia_km": 120.2,
         "proximo": false
       },
       {
@@ -417,10 +417,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "6.27 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 02:15:22",
-          "lat": -24.0868496,
-          "lon": -47.255376
+          "referencia": "1.31 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 02:29:32",
+          "lat": -24.1670784,
+          "lon": -47.3351712
         },
         "distancia_km": null,
         "proximo": false
@@ -449,7 +449,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "24/11/2026 02:15:16",
+          "data_hora_posicao": "24/11/2026 02:29:16",
           "lat": -22.84692,
           "lon": -47.1247833333333
         },
@@ -469,7 +469,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "24/11/2026 02:15:16",
+          "data_hora_posicao": "24/11/2026 02:29:16",
           "lat": -22.84692,
           "lon": -47.1247833333333
         },
@@ -500,7 +500,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 02:14:11",
+          "data_hora_posicao": "24/11/2026 02:28:11",
           "lat": -26.887424,
           "lon": -48.7212032
         },
@@ -520,7 +520,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 02:14:11",
+          "data_hora_posicao": "24/11/2026 02:28:11",
           "lat": -26.887424,
           "lon": -48.7212032
         },
@@ -554,12 +554,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO COSTA BRAVA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 02:14:28",
-          "lat": -25.3201424,
-          "lon": -49.0222368
+          "referencia": "1.72 km de POSTO MAHLE CAMPINA (MESMO LUGAR) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 02:30:08",
+          "lat": -25.233584,
+          "lon": -48.907952
         },
-        "distancia_km": 330.9,
+        "distancia_km": 315.9,
         "proximo": false
       },
       {
@@ -641,7 +641,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 02:15:37",
+          "data_hora_posicao": "24/11/2026 02:29:37",
           "lat": -29.9835872,
           "lon": -51.186928
         },
@@ -657,5 +657,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T02:17:30"
+  "_gerado_em": "2026-11-24T02:32:30"
 }
