@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 00:14:29",
+          "data_hora_posicao": "24/11/2026 00:28:29",
           "lat": -26.887296,
           "lon": -48.7212224
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 00:14:36",
-          "lat": -24.302944,
-          "lon": -47.4880608
+          "referencia": "0.13 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 00:28:36",
+          "lat": -24.30304,
+          "lon": -47.4882368
         },
-        "distancia_km": 388.7,
+        "distancia_km": 388.6,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.1 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
-          "data_hora_posicao": "24/11/2026 00:14:57",
-          "lat": -23.647568,
-          "lon": -46.39336
+          "referencia": "2.95 km de SHERWIN WILLIAMS BRASIL INDÚSTRIA COMÉRCIO LTDA - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "24/11/2026 00:30:16",
+          "lat": -23.752104,
+          "lon": -46.5012128
         },
-        "distancia_km": 513.3,
+        "distancia_km": 497.3,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 00:13:37",
+          "data_hora_posicao": "24/11/2026 00:29:37",
           "lat": -29.9835712,
           "lon": -51.1871072
         },
@@ -129,12 +129,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "4.61 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 00:06:10",
-          "lat": -24.142704,
-          "lon": -47.2719584
+          "referencia": "0.35 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
+          "data_hora_posicao": "24/11/2026 00:29:49",
+          "lat": -23.9868208,
+          "lon": -47.14824
         },
-        "distancia_km": 111.2,
+        "distancia_km": 90.4,
         "proximo": false
       },
       {
@@ -150,7 +150,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 00:14:11",
+          "data_hora_posicao": "24/11/2026 00:30:11",
           "lat": -26.887424,
           "lon": -48.7212032
         },
@@ -170,11 +170,26 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 00:14:11",
+          "data_hora_posicao": "24/11/2026 00:30:11",
           "lat": -26.887424,
           "lon": -48.7212032
         },
         "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024189-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 8891.91,
+        "frete_rs": 9564.65,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -190,9 +205,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 00:14:28",
-          "lat": -25.6575552,
-          "lon": -49.1553184
+          "data_hora_posicao": "24/11/2026 00:28:28",
+          "lat": -25.6575088,
+          "lon": -49.155408
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -250,9 +265,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 12960.19,
-        "frete_rs": 17811.11,
-        "qtde": 2
+        "peso_kg": 21852.1,
+        "frete_rs": 27375.760000000002,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 55063.04,
@@ -281,9 +296,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 00:13:23",
-          "lat": -29.9833952,
-          "lon": -51.1866432
+          "data_hora_posicao": "24/11/2026 00:29:23",
+          "lat": -29.9833696,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -301,7 +316,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "24/11/2026 00:15:05",
+          "data_hora_posicao": "24/11/2026 00:29:05",
           "lat": -29.3056608,
           "lon": -49.7729632
         },
@@ -321,9 +336,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 00:13:23",
-          "lat": -29.9833952,
-          "lon": -51.1866432
+          "data_hora_posicao": "24/11/2026 00:29:23",
+          "lat": -29.9833696,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -341,9 +356,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 00:13:23",
-          "lat": -29.9833952,
-          "lon": -51.1866432
+          "data_hora_posicao": "24/11/2026 00:29:23",
+          "lat": -29.9833696,
+          "lon": -51.1866176
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -381,12 +396,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.83 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 00:13:35",
-          "lat": -24.2903316666667,
-          "lon": -47.46508
+          "referencia": "1.35 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 00:29:44",
+          "lat": -24.2918583333333,
+          "lon": -47.4702
         },
-        "distancia_km": 315.1,
+        "distancia_km": 314.7,
         "proximo": false
       },
       {
@@ -427,12 +442,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.61 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 00:13:51",
-          "lat": -23.737808,
-          "lon": -46.8131872
+          "referencia": "0.26 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 00:29:15",
+          "lat": -23.696616,
+          "lon": -46.8654592
         },
-        "distancia_km": 320.2,
+        "distancia_km": 319.0,
         "proximo": false
       },
       {
@@ -448,7 +463,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 00:15:06",
+          "data_hora_posicao": "24/11/2026 00:29:06",
           "lat": -26.8876064,
           "lon": -48.7206912
         },
@@ -518,10 +533,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.1 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
-          "data_hora_posicao": "24/11/2026 00:14:57",
-          "lat": -23.647568,
-          "lon": -46.39336
+          "referencia": "2.95 km de SHERWIN WILLIAMS BRASIL INDÚSTRIA COMÉRCIO LTDA - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "24/11/2026 00:30:16",
+          "lat": -23.752104,
+          "lon": -46.5012128
         },
         "distancia_km": null,
         "proximo": false
@@ -549,10 +564,10 @@
         "frete_rs": 2851.2,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO GRAAL 56 - JUNDIAI/SP",
-          "data_hora_posicao": "24/11/2026 00:13:18",
-          "lat": -23.20387,
-          "lon": -46.9265933333333
+          "referencia": "0.24 km de PEDAGIO - ITUPEVA (SP 348) - ITUPEVA/SP",
+          "data_hora_posicao": "24/11/2026 00:27:19",
+          "lat": -23.0589533333333,
+          "lon": -47.042505
         },
         "distancia_km": null,
         "proximo": false
@@ -569,10 +584,10 @@
         "frete_rs": 332.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO GRAAL 56 - JUNDIAI/SP",
-          "data_hora_posicao": "24/11/2026 00:13:18",
-          "lat": -23.20387,
-          "lon": -46.9265933333333
+          "referencia": "0.24 km de PEDAGIO - ITUPEVA (SP 348) - ITUPEVA/SP",
+          "data_hora_posicao": "24/11/2026 00:27:19",
+          "lat": -23.0589533333333,
+          "lon": -47.042505
         },
         "distancia_km": null,
         "proximo": false
@@ -601,7 +616,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 00:13:37",
+          "data_hora_posicao": "24/11/2026 00:29:37",
           "lat": -29.9835712,
           "lon": -51.1871072
         },
@@ -617,5 +632,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T00:17:26"
+  "_gerado_em": "2026-11-24T00:32:28"
 }
