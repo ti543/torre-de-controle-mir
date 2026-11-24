@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:13:37",
+          "data_hora_posicao": "24/11/2026 16:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "24/11/2026 16:14:32",
-          "lat": -26.8737632,
-          "lon": -49.1901888
+          "referencia": "1.21 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "24/11/2026 16:29:53",
+          "lat": -26.85328,
+          "lon": -49.2690432
         },
-        "distancia_km": 58.6,
+        "distancia_km": 54.4,
         "proximo": false
       },
       {
@@ -53,9 +53,9 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 16:14:09",
-          "lat": -23.4704928,
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 16:28:09",
+          "lat": -23.4702752,
           "lon": -46.4620896
         },
         "distancia_km": 524.5,
@@ -74,7 +74,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:13:37",
+          "data_hora_posicao": "24/11/2026 16:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -115,7 +115,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 16:14:41",
+          "data_hora_posicao": "24/11/2026 16:26:41",
           "lat": -27.1332101,
           "lon": -48.6121111
         },
@@ -160,10 +160,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "24/11/2026 16:14:32",
-          "lat": -26.8737632,
-          "lon": -49.1901888
+          "referencia": "1.21 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "24/11/2026 16:29:53",
+          "lat": -26.85328,
+          "lon": -49.2690432
         },
         "distancia_km": null,
         "proximo": false
@@ -212,37 +212,6 @@
       }
     }
   },
-  "JCB": {
-    "veiculos": [
-      {
-        "manif": "RSL044563-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "JCB",
-        "dest_city": "JOACABA/SC",
-        "placa": "QJR4I97",
-        "motorista": "CARLOS SOARES DOS REIS",
-        "peso_real_kg": 1666.54,
-        "frete_rs": 1633.9,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.76 km de PRF - DELEGACIA - JOACABA/SC",
-          "data_hora_posicao": "24/11/2026 16:11:23",
-          "lat": -27.168,
-          "lon": -51.5567466666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 1666.54,
-        "frete_rs": 1633.9,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -257,12 +226,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.26 km de SOLUCAO ASSESSORIA EM LOGISTICA E TRANSPORTES - NOVA SANTA RITA/RS",
-          "data_hora_posicao": "24/11/2026 16:13:14",
-          "lat": -29.8511616666667,
-          "lon": -51.2233066666667
+          "referencia": "0.28 km de FILIAL MIRIN - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 16:28:15",
+          "lat": -29.9764883333333,
+          "lon": -51.1824716666667
         },
-        "distancia_km": 15.1,
+        "distancia_km": 0.9,
         "proximo": true
       }
     ],
@@ -274,5 +243,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T16:17:24"
+  "_gerado_em": "2026-11-24T16:32:24"
 }
