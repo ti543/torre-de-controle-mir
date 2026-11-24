@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.64 km de KLABIN S/A - CORREIA PINTO/SC",
-          "data_hora_posicao": "24/11/2026 17:11:40",
-          "lat": -27.5147712,
-          "lon": -50.365616
+          "referencia": "2.72 km de PRF - PONTE ALTA/SC",
+          "data_hora_posicao": "24/11/2026 17:21:13",
+          "lat": -27.4488864,
+          "lon": -50.3961184
         },
-        "distancia_km": 78.6,
+        "distancia_km": 78.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.71 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
-          "data_hora_posicao": "24/11/2026 17:14:32",
-          "lat": -26.8769824,
-          "lon": -49.2494208
+          "referencia": "2.65 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "24/11/2026 17:26:32",
+          "lat": -26.943056,
+          "lon": -49.2939744
         },
-        "distancia_km": 53.9,
+        "distancia_km": 45.8,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 17:14:09",
-          "lat": -23.4702752,
-          "lon": -46.4620896
+          "referencia": "0.09 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 17:29:10",
+          "lat": -23.4703152,
+          "lon": -46.465968
         },
-        "distancia_km": 524.5,
+        "distancia_km": 524.3,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.64 km de KLABIN S/A - CORREIA PINTO/SC",
-          "data_hora_posicao": "24/11/2026 17:11:40",
-          "lat": -27.5147712,
-          "lon": -50.365616
+          "referencia": "2.72 km de PRF - PONTE ALTA/SC",
+          "data_hora_posicao": "24/11/2026 17:21:13",
+          "lat": -27.4488864,
+          "lon": -50.3961184
         },
-        "distancia_km": 78.6,
+        "distancia_km": 78.5,
         "proximo": false
       }
     ],
@@ -115,7 +115,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 17:14:41",
+          "data_hora_posicao": "24/11/2026 17:29:39",
           "lat": -27.1332101,
           "lon": -48.6121111
         },
@@ -192,6 +192,32 @@
       }
     }
   },
+  "BRQ": {
+    "veiculos": [
+      {
+        "manif": "ITJ024200-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "BRQ",
+        "dest_city": "BRUSQUE/SC",
+        "placa": "OKD7820",
+        "motorista": "DANIEL BANHOLINE",
+        "peso_real_kg": 603.0,
+        "frete_rs": 1576.39,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 603.0,
+        "frete_rs": 1576.39,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -207,7 +233,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 17:14:45",
+          "data_hora_posicao": "24/11/2026 17:28:45",
           "lat": -29.9834583333333,
           "lon": -51.1867283333333
         },
@@ -223,5 +249,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T17:17:30"
+  "_gerado_em": "2026-11-24T17:32:24"
 }
