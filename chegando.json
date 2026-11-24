@@ -1,180 +1,4 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010446-9",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 2510.44,
-        "frete_rs": 8431.85,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 21:29:12",
-          "lat": -23.4707016666667,
-          "lon": -46.4621416666667
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013653-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 4491.06,
-        "frete_rs": 6691.9,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "2.34 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "23/11/2026 21:23:46",
-          "lat": -25.0467552,
-          "lon": -48.5437248
-        },
-        "distancia_km": 274.3,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024187-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 12418.93,
-        "frete_rs": 16417.02,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 21:30:11",
-          "lat": -26.887664,
-          "lon": -48.720704
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024188-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 541.26,
-        "frete_rs": 1394.09,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 21:30:11",
-          "lat": -26.887664,
-          "lon": -48.720704
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044557-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 32960.1,
-        "frete_rs": 17292.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "23/11/2026 21:28:28",
-          "lat": -26.5540544,
-          "lon": -48.71976
-        },
-        "distancia_km": 411.4,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044558-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 9265.04,
-        "frete_rs": 11529.25,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044559-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12837.9,
-        "frete_rs": 8810.16,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016505-1",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 8809.36,
-        "frete_rs": 11429.2,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 2510.44,
-        "frete_rs": 8431.85,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 4491.06,
-        "frete_rs": 6691.9,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 12960.19,
-        "frete_rs": 17811.11,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 55063.04,
-        "frete_rs": 37631.91,
-        "qtde": 3
-      },
-      "Timbó": {
-        "peso_kg": 8809.36,
-        "frete_rs": 11429.2,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -189,13 +13,13 @@
         "frete_rs": 5555.03,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.97 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "23/11/2026 21:28:28",
-          "lat": -26.4751168,
-          "lon": -48.7414272
+          "referencia": "0.24 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "23/11/2026 21:44:28",
+          "lat": -26.6306272,
+          "lon": -48.70512
         },
-        "distancia_km": 45.9,
-        "proximo": false
+        "distancia_km": 28.6,
+        "proximo": true
       },
       {
         "manif": "GRU074987-7",
@@ -209,12 +33,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO CITY AMÉRICA - SAO PAULO/SP",
-          "data_hora_posicao": "23/11/2026 21:29:05",
-          "lat": -23.5111833333333,
-          "lon": -46.7225783333333
+          "referencia": "0.71 km de 14º BATALHAO DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "23/11/2026 21:45:37",
+          "lat": -23.5620283333333,
+          "lon": -46.8202266666667
         },
-        "distancia_km": 425.9,
+        "distancia_km": 416.3,
         "proximo": false
       },
       {
@@ -229,12 +53,12 @@
         "frete_rs": 3918.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.65 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "23/11/2026 21:29:06",
-          "lat": -27.1471968,
-          "lon": -49.5540384
+          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "23/11/2026 21:45:06",
+          "lat": -27.099712,
+          "lon": -49.4608768
         },
-        "distancia_km": 87.4,
+        "distancia_km": 77.0,
         "proximo": false
       },
       {
@@ -290,12 +114,12 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.97 km de FORTLEV - ARAQUARI/SC",
-          "data_hora_posicao": "23/11/2026 21:28:28",
-          "lat": -26.4751168,
-          "lon": -48.7414272
+          "referencia": "0.24 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "23/11/2026 21:44:28",
+          "lat": -26.6306272,
+          "lon": -48.70512
         },
-        "distancia_km": 121.4,
+        "distancia_km": 113.4,
         "proximo": false
       },
       {
@@ -310,12 +134,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.29 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "23/11/2026 21:28:36",
-          "lat": -23.7225888,
-          "lon": -46.8905728
+          "referencia": "0.29 km de NOSSO POSTO SÃO LOURENÇO - SAO PAULO/SP",
+          "data_hora_posicao": "23/11/2026 21:44:36",
+          "lat": -23.8505952,
+          "lon": -46.9388224
         },
-        "distancia_km": 476.2,
+        "distancia_km": 461.7,
         "proximo": false
       },
       {
@@ -331,7 +155,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:29:37",
+          "data_hora_posicao": "23/11/2026 21:45:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -357,6 +181,157 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CTB013653-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 4491.06,
+        "frete_rs": 6691.9,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "4.71 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "23/11/2026 21:35:17",
+          "lat": -24.9666048,
+          "lon": -48.4597504
+        },
+        "distancia_km": 262.1,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024187-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 12418.93,
+        "frete_rs": 16417.02,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 21:44:56",
+          "lat": -26.8873856,
+          "lon": -48.720592
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024188-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 541.26,
+        "frete_rs": 1394.09,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 21:44:56",
+          "lat": -26.8873856,
+          "lon": -48.720592
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044557-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 32960.1,
+        "frete_rs": 17292.5,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "23/11/2026 21:44:28",
+          "lat": -26.5540544,
+          "lon": -48.71976
+        },
+        "distancia_km": 411.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044558-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 9265.04,
+        "frete_rs": 11529.25,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044559-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 12837.9,
+        "frete_rs": 8810.16,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016505-1",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 8809.36,
+        "frete_rs": 11429.2,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4491.06,
+        "frete_rs": 6691.9,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 12960.19,
+        "frete_rs": 17811.11,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 55063.04,
+        "frete_rs": 37631.91,
+        "qtde": 3
+      },
+      "Timbó": {
+        "peso_kg": 8809.36,
+        "frete_rs": 11429.2,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -372,9 +347,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:29:23",
-          "lat": -29.9834304,
-          "lon": -51.1866848
+          "data_hora_posicao": "23/11/2026 21:45:23",
+          "lat": -29.9834272,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -391,12 +366,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.55 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
-          "data_hora_posicao": "23/11/2026 21:29:05",
-          "lat": -28.4250176,
-          "lon": -48.8562272
+          "referencia": "0.16 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "23/11/2026 21:45:35",
+          "lat": -28.4930624,
+          "lon": -49.041408
         },
-        "distancia_km": 284.9,
+        "distancia_km": 266.0,
         "proximo": false
       },
       {
@@ -412,9 +387,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:29:23",
-          "lat": -29.9834304,
-          "lon": -51.1866848
+          "data_hora_posicao": "23/11/2026 21:45:23",
+          "lat": -29.9834272,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -432,9 +407,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:29:23",
-          "lat": -29.9834304,
-          "lon": -51.1866848
+          "data_hora_posicao": "23/11/2026 21:45:23",
+          "lat": -29.9834272,
+          "lon": -51.1866432
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -473,7 +448,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:29:37",
+          "data_hora_posicao": "23/11/2026 21:45:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -503,12 +478,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.65 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "23/11/2026 21:29:06",
-          "lat": -27.1471968,
-          "lon": -49.5540384
+          "referencia": "3.03 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "23/11/2026 21:45:06",
+          "lat": -27.099712,
+          "lon": -49.4608768
         },
-        "distancia_km": 181.9,
+        "distancia_km": 175.6,
         "proximo": false
       },
       {
@@ -540,5 +515,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T21:32:27"
+  "_gerado_em": "2026-11-23T21:47:36"
 }
