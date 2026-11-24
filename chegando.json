@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 08:29:37",
-          "lat": -29.149024,
-          "lon": -51.1861888
+          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "24/11/2026 10:15:12",
+          "lat": -28.6202688,
+          "lon": -51.048288
         },
-        "distancia_km": 263.4,
+        "distancia_km": 208.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO TIO ZICO 02 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 08:29:16",
-          "lat": -25.6524752,
-          "lon": -49.1580032
+          "referencia": "0.38 km de SUPER JA TRANSPORTES E SERVIÇOS LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "24/11/2026 10:14:36",
+          "lat": -26.3143984,
+          "lon": -48.8736448
         },
-        "distancia_km": 179.6,
+        "distancia_km": 125.6,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "24/11/2026 08:28:32",
-          "lat": -24.4691952,
-          "lon": -47.822816
+          "referencia": "1 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "24/11/2026 10:12:32",
+          "lat": -24.9397328,
+          "lon": -48.3037632
         },
-        "distancia_km": 355.0,
+        "distancia_km": 285.6,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.42 km de PCP SERVIÇOS DE CORTE AÇO LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 08:29:37",
-          "lat": -29.149024,
-          "lon": -51.1861888
+          "referencia": "6.32 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "24/11/2026 10:15:12",
+          "lat": -28.6202688,
+          "lon": -51.048288
         },
-        "distancia_km": 263.4,
+        "distancia_km": 208.8,
         "proximo": false
       }
     ],
@@ -129,12 +129,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de PEDAGIO - SAO JOSE DOS PINHAIS (BR 376) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 08:29:35",
-          "lat": -25.7491033333333,
-          "lon": -49.1296933333333
+          "referencia": "0.01 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 10:15:15",
+          "lat": -26.5539283333333,
+          "lon": -48.7198616666667
         },
-        "distancia_km": 133.0,
+        "distancia_km": 37.1,
         "proximo": false
       },
       {
@@ -151,26 +151,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044564-9",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 1670.18,
-        "frete_rs": 3922.8,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.31 km de POSTO SANTA TEREZA - NAVEGANTES/SC",
-          "data_hora_posicao": "24/11/2026 08:29:25",
-          "lat": -26.8331413,
-          "lon": -48.7289771
-        },
-        "distancia_km": 6.1,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -178,11 +158,6 @@
         "peso_kg": 25169.57,
         "frete_rs": 23586.64,
         "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 1670.18,
-        "frete_rs": 3922.8,
-        "qtde": 1
       }
     }
   },
@@ -200,12 +175,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "24/11/2026 08:29:15",
-          "lat": -24.7798176,
-          "lon": -48.1867264
+          "referencia": "0.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 10:15:15",
+          "lat": -25.062832,
+          "lon": -48.5699296
         },
-        "distancia_km": 139.2,
+        "distancia_km": 89.4,
         "proximo": false
       }
     ],
@@ -246,10 +221,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.93 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "24/11/2026 08:28:32",
-          "lat": -24.4691952,
-          "lon": -47.822816
+          "referencia": "1 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "24/11/2026 10:12:32",
+          "lat": -24.9397328,
+          "lon": -48.3037632
         },
         "distancia_km": null,
         "proximo": false
@@ -283,62 +258,6 @@
       }
     }
   },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "ITJ024186-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6619.65,
-        "frete_rs": 10238.42,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.22 km de TRANSCRISTAL - CANOAS - CANOAS/RS",
-          "data_hora_posicao": "24/11/2026 08:29:05",
-          "lat": -29.9654368,
-          "lon": -51.1770656
-        },
-        "distancia_km": 2.2,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044567-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 08:30:04",
-          "lat": -27.8238,
-          "lon": -50.3627616666667
-        },
-        "distancia_km": 253.2,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 6619.65,
-        "frete_rs": 10238.42,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
       {
@@ -353,12 +272,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.95 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 08:27:49",
-          "lat": -25.0552752,
-          "lon": -48.55392
+          "referencia": "1.35 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
+          "data_hora_posicao": "24/11/2026 10:14:11",
+          "lat": -24.7188896,
+          "lon": -48.0389248
         },
-        "distancia_km": 275.7,
+        "distancia_km": 211.9,
         "proximo": false
       },
       {
@@ -373,12 +292,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.95 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 08:27:49",
-          "lat": -25.0552752,
-          "lon": -48.55392
+          "referencia": "1.35 km de BORRACHARIA ITORORÓ - JACUPIRANGA/SP",
+          "data_hora_posicao": "24/11/2026 10:14:11",
+          "lat": -24.7188896,
+          "lon": -48.0389248
         },
-        "distancia_km": 275.7,
+        "distancia_km": 211.9,
         "proximo": false
       },
       {
@@ -408,13 +327,13 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de BALANÇA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 08:28:28",
-          "lat": -23.7693552,
-          "lon": -46.9101472
+          "referencia": "0.47 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 10:14:28",
+          "lat": -23.5212416,
+          "lon": -46.7467168
         },
-        "distancia_km": 56.4,
-        "proximo": false
+        "distancia_km": 29.5,
+        "proximo": true
       },
       {
         "manif": "RSL044558-4",
@@ -480,6 +399,37 @@
       }
     }
   },
+  "FLN": {
+    "veiculos": [
+      {
+        "manif": "ITJ024197-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "FLN",
+        "dest_city": "PALHOCA/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 4484.2,
+        "frete_rs": 5776.4,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.57 km de POSTO IRMÃO DA ESTRADA - IPIRANGA - CAMBORIU/SC",
+          "data_hora_posicao": "24/11/2026 10:13:54",
+          "lat": -26.9803831,
+          "lon": -48.6795601
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 4484.2,
+        "frete_rs": 5776.4,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -494,10 +444,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.69 km de 2ªRPM/GECT/2ºPEL/2ºGR - 2º GRUPO - SANTA CECILIA/SC",
-          "data_hora_posicao": "24/11/2026 08:29:46",
-          "lat": -26.9856,
-          "lon": -50.4340266666667
+          "referencia": "0.18 km de BERNECK - CURITIBANOS/SC",
+          "data_hora_posicao": "24/11/2026 10:13:05",
+          "lat": -27.3165333333333,
+          "lon": -50.5138666666667
         },
         "distancia_km": null,
         "proximo": false
@@ -525,10 +475,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 08:30:04",
-          "lat": -27.8238,
-          "lon": -50.3627616666667
+          "referencia": "0.07 km de CAMPAGNARO PECAS E ACESSORIOS LTDA - VACARIA/RS",
+          "data_hora_posicao": "24/11/2026 10:14:01",
+          "lat": -28.522455,
+          "lon": -50.9440916666667
         },
         "distancia_km": null,
         "proximo": false
@@ -542,36 +492,36 @@
       }
     }
   },
-  "LGS": {
+  "POA": {
     "veiculos": [
       {
-        "manif": "RSL044566-5",
+        "manif": "RSL044567-3",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
         "placa": "RXT0A19",
         "motorista": "VINICIO EWALD",
-        "peso_real_kg": 4172.11,
-        "frete_rs": 4680.38,
+        "peso_real_kg": 2882.6,
+        "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 08:30:04",
-          "lat": -27.8238,
-          "lon": -50.3627616666667
+          "referencia": "0.07 km de CAMPAGNARO PECAS E ACESSORIOS LTDA - VACARIA/RS",
+          "data_hora_posicao": "24/11/2026 10:14:01",
+          "lat": -28.522455,
+          "lon": -50.9440916666667
         },
-        "distancia_km": null,
+        "distancia_km": 164.1,
         "proximo": false
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 4172.11,
-        "frete_rs": 4680.38,
+        "peso_kg": 2882.6,
+        "frete_rs": 2274.32,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-24T08:32:28"
+  "_gerado_em": "2026-11-24T10:17:38"
 }
