@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "24/11/2026 12:13:07",
-          "lat": -27.9941632,
-          "lon": -50.5276672
+          "referencia": "5.91 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "24/11/2026 12:23:07",
+          "lat": -27.9243776,
+          "lon": -50.4534272
         },
-        "distancia_km": 123.1,
+        "distancia_km": 112.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
-          "data_hora_posicao": "24/11/2026 12:14:36",
-          "lat": -26.8800704,
-          "lon": -49.16912
+          "referencia": "2.73 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "24/11/2026 12:28:36",
+          "lat": -26.9416928,
+          "lon": -49.2935168
         },
-        "distancia_km": 59.8,
+        "distancia_km": 45.9,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 12:14:32",
-          "lat": -25.6197392,
-          "lon": -49.1682656
+          "referencia": "0.02 km de POSTO TIO ZICO II - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "24/11/2026 12:29:57",
+          "lat": -25.6522896,
+          "lon": -49.1585088
         },
-        "distancia_km": 182.8,
+        "distancia_km": 179.6,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO SERRA SUL - CAPAO ALTO/SC",
-          "data_hora_posicao": "24/11/2026 12:13:07",
-          "lat": -27.9941632,
-          "lon": -50.5276672
+          "referencia": "5.91 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "24/11/2026 12:23:07",
+          "lat": -27.9243776,
+          "lon": -50.4534272
         },
-        "distancia_km": 123.1,
+        "distancia_km": 112.5,
         "proximo": false
       }
     ],
@@ -129,13 +129,13 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.97 km de POSTO E CHURRASCARIA O CUPIM 1 - QUATRO BARRAS/PR",
-          "data_hora_posicao": "24/11/2026 12:13:15",
-          "lat": -25.310272,
-          "lon": -49.0110592
+          "referencia": "1.67 km de PÁTIO RODOTRACK TRANSPORTES LTDA - PIRAQUARA/PR",
+          "data_hora_posicao": "24/11/2026 12:29:15",
+          "lat": -25.4750592,
+          "lon": -49.095296
         },
-        "distancia_km": 37.4,
-        "proximo": false
+        "distancia_km": 20.9,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -201,10 +201,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 12:14:32",
-          "lat": -25.6197392,
-          "lon": -49.1682656
+          "referencia": "0.02 km de POSTO TIO ZICO II - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "24/11/2026 12:29:57",
+          "lat": -25.6522896,
+          "lon": -49.1585088
         },
         "distancia_km": null,
         "proximo": false
@@ -252,12 +252,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.83 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "24/11/2026 12:14:11",
-          "lat": -24.0001792,
-          "lon": -47.1505408
+          "referencia": "0.54 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "24/11/2026 12:28:11",
+          "lat": -23.937544,
+          "lon": -47.06424
         },
-        "distancia_km": 91.5,
+        "distancia_km": 80.3,
         "proximo": false
       },
       {
@@ -272,12 +272,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.83 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "24/11/2026 12:14:11",
-          "lat": -24.0001792,
-          "lon": -47.1505408
+          "referencia": "0.54 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "24/11/2026 12:28:11",
+          "lat": -23.937544,
+          "lon": -47.06424
         },
-        "distancia_km": 91.5,
+        "distancia_km": 80.3,
         "proximo": false
       },
       {
@@ -308,7 +308,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 12:14:28",
+          "data_hora_posicao": "24/11/2026 12:28:28",
           "lat": -23.4704208,
           "lon": -46.4621024
         },
@@ -394,7 +394,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 12:12:25",
+          "data_hora_posicao": "24/11/2026 12:28:25",
           "lat": -27.6744165,
           "lon": -48.6978763
         },
@@ -455,10 +455,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.84 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "24/11/2026 12:12:32",
-          "lat": -28.876685,
-          "lon": -51.21882
+          "referencia": "0.81 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "24/11/2026 12:17:28",
+          "lat": -28.9152633333333,
+          "lon": -51.191035
         },
         "distancia_km": null,
         "proximo": false
@@ -486,12 +486,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.84 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "24/11/2026 12:12:32",
-          "lat": -28.876685,
-          "lon": -51.21882
+          "referencia": "0.81 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "24/11/2026 12:17:28",
+          "lat": -28.9152633333333,
+          "lon": -51.191035
         },
-        "distancia_km": 123.1,
+        "distancia_km": 118.8,
         "proximo": false
       }
     ],
@@ -503,5 +503,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T12:17:29"
+  "_gerado_em": "2026-11-24T12:32:24"
 }
