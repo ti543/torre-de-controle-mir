@@ -1,127 +1,26 @@
 {
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "CXS002251-9",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 834.8,
-        "frete_rs": 576.83,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 07:59:23",
-          "lat": -29.9833888,
-          "lon": -51.186624
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024186-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 6619.65,
-        "frete_rs": 10238.42,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.49 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "24/11/2026 07:59:05",
-          "lat": -29.9264352,
-          "lon": -50.8640512
-        },
-        "distancia_km": 31.7,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044541-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 3013.53,
-        "frete_rs": 3124.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 07:59:23",
-          "lat": -29.9833888,
-          "lon": -51.186624
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044543-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 900.0,
-        "frete_rs": 859.98,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 07:59:23",
-          "lat": -29.9833888,
-          "lon": -51.186624
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044567-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 07:58:46",
-          "lat": -27.8238083333333,
-          "lon": -50.3629866666667
-        },
-        "distancia_km": 253.2,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 834.8,
-        "frete_rs": 576.83,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 6619.65,
-        "frete_rs": 10238.42,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6796.13,
-        "frete_rs": 6258.52,
-        "qtde": 3
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CXS002252-7",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2724.71,
+        "frete_rs": 4549.84,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 08:15:16",
+          "lat": -29.1463008,
+          "lon": -51.1648672
+        },
+        "distancia_km": 261.9,
+        "proximo": false
+      },
       {
         "manif": "GRU074986-9",
         "origin_unit": "GRU",
@@ -134,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.79 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "24/11/2026 07:58:36",
-          "lat": -25.4243648,
-          "lon": -49.0753632
+          "referencia": "0.11 km de 17° BATALHÃO DE POLÍCIA MILITAR - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "24/11/2026 08:14:36",
+          "lat": -25.5648784,
+          "lon": -49.1596256
         },
-        "distancia_km": 206.2,
+        "distancia_km": 188.9,
         "proximo": false
       },
       {
@@ -169,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.28 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "24/11/2026 07:48:50",
-          "lat": -24.3311952,
-          "lon": -47.611008
+          "referencia": "2.55 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "24/11/2026 08:10:31",
+          "lat": -24.3456496,
+          "lon": -47.6489664
         },
-        "distancia_km": 379.3,
+        "distancia_km": 375.9,
         "proximo": false
       },
       {
@@ -190,15 +89,20 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 07:59:37",
-          "lat": -29.1462752,
-          "lon": -51.1648864
+          "data_hora_posicao": "24/11/2026 08:15:16",
+          "lat": -29.1463008,
+          "lon": -51.1648672
         },
         "distancia_km": 261.9,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 2724.71,
+        "frete_rs": 4549.84,
+        "qtde": 1
+      },
       "Guarulhos": {
         "peso_kg": 34054.22,
         "frete_rs": 35434.29,
@@ -225,12 +129,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de CONNECT VENDAS ATACADO E DISTRIBUIÇÃO. - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 07:59:17",
-          "lat": -25.5145116666667,
-          "lon": -49.130285
+          "referencia": "0.1 km de TRANSLUCHI TRANSPORTES - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "24/11/2026 08:13:42",
+          "lat": -25.57708,
+          "lon": -49.179105
         },
-        "distancia_km": 158.0,
+        "distancia_km": 152.7,
         "proximo": false
       },
       {
@@ -247,6 +151,26 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044564-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 1670.18,
+        "frete_rs": 3922.8,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.12 km de POSTO JUNINHO - ILHOTA/SC",
+          "data_hora_posicao": "24/11/2026 08:15:11",
+          "lat": -26.8899101,
+          "lon": -48.8817345
+        },
+        "distancia_km": 15.9,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -254,6 +178,11 @@
         "peso_kg": 25169.57,
         "frete_rs": 23586.64,
         "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 1670.18,
+        "frete_rs": 3922.8,
+        "qtde": 1
       }
     }
   },
@@ -271,12 +200,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.9 km de AUTO POSTO REAL DE CAJATI II - CAJATI/SP",
-          "data_hora_posicao": "24/11/2026 07:59:15",
-          "lat": -24.7275008,
-          "lon": -48.0923232
+          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "24/11/2026 08:15:15",
+          "lat": -24.7798176,
+          "lon": -48.1867264
         },
-        "distancia_km": 150.3,
+        "distancia_km": 139.2,
         "proximo": false
       }
     ],
@@ -317,10 +246,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.28 km de LANCHONETE E RESTAURANTE ROTA SUL - JUQUIA/SP",
-          "data_hora_posicao": "24/11/2026 07:48:50",
-          "lat": -24.3311952,
-          "lon": -47.611008
+          "referencia": "2.55 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "24/11/2026 08:10:31",
+          "lat": -24.3456496,
+          "lon": -47.6489664
         },
         "distancia_km": null,
         "proximo": false
@@ -354,6 +283,62 @@
       }
     }
   },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "ITJ024186-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 6619.65,
+        "frete_rs": 10238.42,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.27 km de POSTO DE COMBUSTÍVEIS LOS ANDES - GNV - CACHOEIRINHA/RS",
+          "data_hora_posicao": "24/11/2026 08:15:05",
+          "lat": -29.9572,
+          "lon": -51.0840288
+        },
+        "distancia_km": 10.3,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044567-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2882.6,
+        "frete_rs": 2274.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "24/11/2026 08:15:10",
+          "lat": -27.8238083333333,
+          "lon": -50.3627466666667
+        },
+        "distancia_km": 253.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 6619.65,
+        "frete_rs": 10238.42,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 2882.6,
+        "frete_rs": 2274.32,
+        "qtde": 1
+      }
+    }
+  },
   "GRU": {
     "veiculos": [
       {
@@ -368,12 +353,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 07:58:56",
-          "lat": -25.1115472,
-          "lon": -48.8464096
+          "referencia": "1.51 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 08:14:11",
+          "lat": -25.0998656,
+          "lon": -48.690896
         },
-        "distancia_km": 302.8,
+        "distancia_km": 289.6,
         "proximo": false
       },
       {
@@ -388,12 +373,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.42 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 07:58:56",
-          "lat": -25.1115472,
-          "lon": -48.8464096
+          "referencia": "1.51 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 08:14:11",
+          "lat": -25.0998656,
+          "lon": -48.690896
         },
-        "distancia_km": 302.8,
+        "distancia_km": 289.6,
         "proximo": false
       },
       {
@@ -423,12 +408,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO 70 - JUQUITIBA/SP",
-          "data_hora_posicao": "24/11/2026 07:58:28",
-          "lat": -23.9402144,
-          "lon": -47.0450752
+          "referencia": "0.76 km de KLEBER 50 - ESTACIONAMENTO - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 08:15:05",
+          "lat": -23.8335872,
+          "lon": -46.9295584
         },
-        "distancia_km": 79.0,
+        "distancia_km": 62.4,
         "proximo": false
       },
       {
@@ -521,62 +506,6 @@
       }
     }
   },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "POA016290-6",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3015.58,
-        "frete_rs": 3718.37,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 07:59:37",
-          "lat": -29.1462752,
-          "lon": -51.1648864
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044565-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2456.98,
-        "frete_rs": 2147.73,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 07:58:46",
-          "lat": -27.8238083333333,
-          "lon": -50.3629866666667
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 3015.58,
-        "frete_rs": 3718.37,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2456.98,
-        "frete_rs": 2147.73,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -591,10 +520,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.86 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 07:49:31",
-          "lat": -27.30904,
-          "lon": -50.1334933333333
+          "referencia": "2.81 km de 2ªRPM/GECT/2ºPEL/2ºGR - 2º GRUPO - SANTA CECILIA/SC",
+          "data_hora_posicao": "24/11/2026 08:10:29",
+          "lat": -26.9866666666667,
+          "lon": -50.4341333333333
         },
         "distancia_km": null,
         "proximo": false
@@ -604,6 +533,37 @@
       "Rio do Sul": {
         "peso_kg": 1666.54,
         "frete_rs": 1633.9,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044565-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2456.98,
+        "frete_rs": 2147.73,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "24/11/2026 08:15:10",
+          "lat": -27.8238083333333,
+          "lon": -50.3627466666667
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2456.98,
+        "frete_rs": 2147.73,
         "qtde": 1
       }
     }
@@ -622,10 +582,10 @@
         "frete_rs": 4680.38,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 07:58:46",
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "24/11/2026 08:15:10",
           "lat": -27.8238083333333,
-          "lon": -50.3629866666667
+          "lon": -50.3627466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -639,5 +599,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T08:02:32"
+  "_gerado_em": "2026-11-24T08:17:29"
 }
