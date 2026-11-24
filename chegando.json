@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 15:13:37",
+          "data_hora_posicao": "24/11/2026 15:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
-          "data_hora_posicao": "24/11/2026 15:08:33",
-          "lat": -26.5831424,
-          "lon": -48.98368
+          "referencia": "4.51 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "24/11/2026 15:28:32",
+          "lat": -26.724728,
+          "lon": -49.0630304
         },
-        "distancia_km": 95.7,
+        "distancia_km": 79.0,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 15:13:37",
+          "data_hora_posicao": "24/11/2026 15:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -94,12 +94,12 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
-          "data_hora_posicao": "24/11/2026 15:12:25",
-          "lat": -27.1967105,
-          "lon": -48.6038508
+          "referencia": "0.18 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 07) - PORTO BELO/SC",
+          "data_hora_posicao": "24/11/2026 15:29:19",
+          "lat": -27.1830558,
+          "lon": -48.6120191
         },
-        "distancia_km": 36.3,
+        "distancia_km": 34.6,
         "proximo": false
       }
     ],
@@ -140,11 +140,41 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
-          "data_hora_posicao": "24/11/2026 15:08:33",
-          "lat": -26.5831424,
-          "lon": -48.98368
+          "referencia": "4.51 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "24/11/2026 15:28:32",
+          "lat": -26.724728,
+          "lon": -49.0630304
         },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024198-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2819.09,
+        "frete_rs": 3371.58,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024199-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 54.85,
+        "frete_rs": 114.81,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
@@ -153,6 +183,11 @@
       "Guarulhos": {
         "peso_kg": 3834.9800000000005,
         "frete_rs": 8337.23,
+        "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 2873.94,
+        "frete_rs": 3486.39,
         "qtde": 2
       }
     }
@@ -171,12 +206,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de AUTO POSTO LIDER - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 15:14:11",
-          "lat": -23.5195904,
-          "lon": -46.6287072
+          "referencia": "0.22 km de WMB SUPERMERCADOS DO BRASIL LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 15:30:11",
+          "lat": -23.4768784,
+          "lon": -46.5269728
         },
-        "distancia_km": 17.8,
+        "distancia_km": 6.6,
         "proximo": true
       },
       {
@@ -191,12 +226,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de AUTO POSTO LIDER - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 15:14:11",
-          "lat": -23.5195904,
-          "lon": -46.6287072
+          "referencia": "0.22 km de WMB SUPERMERCADOS DO BRASIL LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 15:30:11",
+          "lat": -23.4768784,
+          "lon": -46.5269728
         },
-        "distancia_km": 17.8,
+        "distancia_km": 6.6,
         "proximo": true
       }
     ],
@@ -253,12 +288,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.91 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "24/11/2026 15:13:11",
-          "lat": -29.3364733333333,
-          "lon": -51.359345
+          "referencia": "1.9 km de PRE - BOM PRINCIPIO/RS",
+          "data_hora_posicao": "24/11/2026 15:29:01",
+          "lat": -29.49411,
+          "lon": -51.3528883333333
         },
-        "distancia_km": 73.8,
+        "distancia_km": 56.7,
         "proximo": false
       }
     ],
@@ -270,5 +305,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T15:17:27"
+  "_gerado_em": "2026-11-24T15:32:22"
 }
