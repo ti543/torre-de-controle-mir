@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 12:45:15",
+          "data_hora_posicao": "24/11/2026 12:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,13 +33,13 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 12:44:36",
-          "lat": -27.01208,
-          "lon": -49.3721824
+          "referencia": "4.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "24/11/2026 12:58:36",
+          "lat": -27.080192,
+          "lon": -49.4396544
         },
-        "distancia_km": 34.9,
-        "proximo": false
+        "distancia_km": 25.1,
+        "proximo": true
       },
       {
         "manif": "GRU074988-5",
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.48 km de PEDAGIO - SAO JOSE DOS PINHAIS (BR 376) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 12:44:32",
-          "lat": -25.7345616,
-          "lon": -49.1320384
+          "referencia": "1.12 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 12:58:32",
+          "lat": -25.8452384,
+          "lon": -49.076944
         },
-        "distancia_km": 171.5,
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 12:45:15",
+          "data_hora_posicao": "24/11/2026 12:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -129,12 +129,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de BR TRUCK - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 12:45:15",
-          "lat": -25.5637232,
-          "lon": -49.2530752
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 12:59:15",
+          "lat": -25.527672,
+          "lon": -49.2954912
         },
-        "distancia_km": 5.8,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -201,10 +201,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.48 km de PEDAGIO - SAO JOSE DOS PINHAIS (BR 376) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "24/11/2026 12:44:32",
-          "lat": -25.7345616,
-          "lon": -49.1320384
+          "referencia": "1.12 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 12:58:32",
+          "lat": -25.8452384,
+          "lon": -49.076944
         },
         "distancia_km": null,
         "proximo": false
@@ -252,12 +252,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 12:44:11",
-          "lat": -23.8441952,
-          "lon": -46.9351584
+          "referencia": "1.19 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:00:11",
+          "lat": -23.7225456,
+          "lon": -46.8893312
         },
-        "distancia_km": 63.6,
+        "distancia_km": 51.8,
         "proximo": false
       },
       {
@@ -272,12 +272,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.62 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 12:44:11",
-          "lat": -23.8441952,
-          "lon": -46.9351584
+          "referencia": "1.19 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:00:11",
+          "lat": -23.7225456,
+          "lon": -46.8893312
         },
-        "distancia_km": 63.6,
+        "distancia_km": 51.8,
         "proximo": false
       },
       {
@@ -308,7 +308,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 12:44:28",
+          "data_hora_posicao": "24/11/2026 12:58:28",
           "lat": -23.4704208,
           "lon": -46.4621024
         },
@@ -394,7 +394,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 12:44:25",
+          "data_hora_posicao": "24/11/2026 12:56:57",
           "lat": -27.6744165,
           "lon": -48.6978763
         },
@@ -455,10 +455,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "24/11/2026 12:45:09",
-          "lat": -29.0795866666667,
-          "lon": -51.1911966666667
+          "referencia": "0.42 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 12:59:41",
+          "lat": -29.14867,
+          "lon": -51.1875233333333
         },
         "distancia_km": null,
         "proximo": false
@@ -486,12 +486,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO ANDREAZZA SAO GOTARDO - FLORES DA CUNHA/RS",
-          "data_hora_posicao": "24/11/2026 12:45:09",
-          "lat": -29.0795866666667,
-          "lon": -51.1911966666667
+          "referencia": "0.42 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 12:59:41",
+          "lat": -29.14867,
+          "lon": -51.1875233333333
         },
-        "distancia_km": 100.5,
+        "distancia_km": 92.8,
         "proximo": false
       }
     ],
@@ -503,5 +503,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T12:47:47"
+  "_gerado_em": "2026-11-24T13:02:34"
 }
