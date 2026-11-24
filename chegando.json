@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:29:37",
+          "data_hora_posicao": "24/11/2026 13:43:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,28 +33,13 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "24/11/2026 13:29:16",
-          "lat": -27.1357984,
-          "lon": -49.5435424
+          "referencia": "0.13 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 13:44:36",
+          "lat": -27.1716608,
+          "lon": -49.5799264
         },
-        "distancia_km": 13.1,
+        "distancia_km": 7.9,
         "proximo": true
-      },
-      {
-        "manif": "GRU074988-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 10989.42,
-        "frete_rs": 16532.27,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       },
       {
         "manif": "GRU074992-3",
@@ -68,12 +53,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de PEDAGIO - GARUVA - GARUVA/SC",
-          "data_hora_posicao": "24/11/2026 13:29:13",
-          "lat": -25.9952736,
-          "lon": -48.879584
+          "referencia": "0.26 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "24/11/2026 13:44:32",
+          "lat": -26.1481264,
+          "lon": -48.9090464
         },
-        "distancia_km": 154.9,
+        "distancia_km": 138.8,
         "proximo": false
       },
       {
@@ -89,7 +74,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:29:37",
+          "data_hora_posicao": "24/11/2026 13:43:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -104,39 +89,13 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 34054.22,
-        "frete_rs": 35434.29,
-        "qtde": 3
+        "peso_kg": 23064.8,
+        "frete_rs": 18902.02,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 4043.05,
         "frete_rs": 3212.01,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU074990-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13526.37,
-        "frete_rs": 16453.52,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 13526.37,
-        "frete_rs": 16453.52,
         "qtde": 1
       }
     }
@@ -170,10 +129,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de PEDAGIO - GARUVA - GARUVA/SC",
-          "data_hora_posicao": "24/11/2026 13:29:13",
-          "lat": -25.9952736,
-          "lon": -48.879584
+          "referencia": "0.26 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "24/11/2026 13:44:32",
+          "lat": -26.1481264,
+          "lon": -48.9090464
         },
         "distancia_km": null,
         "proximo": false
@@ -201,12 +160,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:29:34",
-          "lat": -23.6830096,
-          "lon": -46.8589408
+          "referencia": "0.07 km de DELEGACIA DE POLICIA CIVIL - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "24/11/2026 13:44:11",
+          "lat": -23.6417392,
+          "lon": -46.8373056
         },
-        "distancia_km": 46.8,
+        "distancia_km": 42.7,
         "proximo": false
       },
       {
@@ -221,12 +180,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.26 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:29:34",
-          "lat": -23.6830096,
-          "lon": -46.8589408
+          "referencia": "0.07 km de DELEGACIA DE POLICIA CIVIL - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "24/11/2026 13:44:11",
+          "lat": -23.6417392,
+          "lon": -46.8373056
         },
-        "distancia_km": 46.8,
+        "distancia_km": 42.7,
         "proximo": false
       },
       {
@@ -287,10 +246,10 @@
         "frete_rs": 5776.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 13:28:25",
-          "lat": -27.6744165,
-          "lon": -48.6978763
+          "referencia": "0.99 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
+          "data_hora_posicao": "24/11/2026 13:44:27",
+          "lat": -27.6742935,
+          "lon": -48.6980043
         },
         "distancia_km": null,
         "proximo": false
@@ -318,10 +277,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO RUSSI - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "24/11/2026 13:13:21",
-          "lat": -27.3828266666667,
-          "lon": -51.2398933333333
+          "referencia": "0.33 km de DICAPEL - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "24/11/2026 13:43:09",
+          "lat": -27.3855733333333,
+          "lon": -51.23472
         },
         "distancia_km": null,
         "proximo": false
@@ -350,7 +309,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:28:48",
+          "data_hora_posicao": "24/11/2026 13:45:09",
           "lat": -29.1463016666667,
           "lon": -51.164855
         },
@@ -381,7 +340,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:28:48",
+          "data_hora_posicao": "24/11/2026 13:45:09",
           "lat": -29.1463016666667,
           "lon": -51.164855
         },
@@ -397,5 +356,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T13:32:25"
+  "_gerado_em": "2026-11-24T13:47:25"
 }
