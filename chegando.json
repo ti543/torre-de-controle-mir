@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 15:43:37",
+          "data_hora_posicao": "24/11/2026 15:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.51 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "24/11/2026 15:44:32",
-          "lat": -26.8234848,
-          "lon": -49.089232
+          "referencia": "0.32 km de DICAVE BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "24/11/2026 15:58:32",
+          "lat": -26.8677024,
+          "lon": -49.103424
         },
-        "distancia_km": 69.9,
+        "distancia_km": 65.9,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 15:43:37",
+          "data_hora_posicao": "24/11/2026 15:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -94,13 +94,13 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.95 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 15:44:10",
-          "lat": -27.1445251,
-          "lon": -48.6101036
+          "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "24/11/2026 15:58:41",
+          "lat": -27.1332101,
+          "lon": -48.6121111
         },
-        "distancia_km": 30.6,
-        "proximo": false
+        "distancia_km": 29.4,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -140,10 +140,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.51 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
-          "data_hora_posicao": "24/11/2026 15:44:32",
-          "lat": -26.8234848,
-          "lon": -49.089232
+          "referencia": "0.32 km de DICAVE BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "24/11/2026 15:58:32",
+          "lat": -26.8677024,
+          "lon": -49.103424
         },
         "distancia_km": null,
         "proximo": false
@@ -188,57 +188,6 @@
       "Itajaí": {
         "peso_kg": 2873.94,
         "frete_rs": 3486.39,
-        "qtde": 2
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024187-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 12418.93,
-        "frete_rs": 16417.02,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.17 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 15:44:35",
-          "lat": -23.4711216,
-          "lon": -46.465472
-        },
-        "distancia_km": 0.3,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024188-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 541.26,
-        "frete_rs": 1394.09,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.17 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 15:44:35",
-          "lat": -23.4711216,
-          "lon": -46.465472
-        },
-        "distancia_km": 0.3,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 12960.19,
-        "frete_rs": 17811.11,
         "qtde": 2
       }
     }
@@ -288,13 +237,13 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.09 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "24/11/2026 15:43:07",
-          "lat": -29.632515,
-          "lon": -51.3020316666667
+          "referencia": "0.22 km de EURODIESEL OFICINA MECÂNICA E AUTO PEÇAS LTDA - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "24/11/2026 15:59:25",
+          "lat": -29.7302766666667,
+          "lon": -51.1502383333333
         },
-        "distancia_km": 40.6,
-        "proximo": false
+        "distancia_km": 28.4,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -305,5 +254,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T15:47:27"
+  "_gerado_em": "2026-11-24T16:02:27"
 }
