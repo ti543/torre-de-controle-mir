@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.06 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "24/11/2026 11:11:37",
-          "lat": -28.257408,
-          "lon": -50.7831488
+          "referencia": "0.12 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "24/11/2026 11:23:07",
+          "lat": -28.2055936,
+          "lon": -50.7588864
         },
-        "distancia_km": 161.6,
+        "distancia_km": 155.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.82 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
-          "data_hora_posicao": "24/11/2026 11:08:36",
-          "lat": -26.5699952,
-          "lon": -48.9779808
+          "referencia": "4.52 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
+          "data_hora_posicao": "24/11/2026 11:24:36",
+          "lat": -26.64896,
+          "lon": -49.0212096
         },
-        "distancia_km": 97.2,
+        "distancia_km": 87.9,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.71 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 11:14:32",
-          "lat": -25.1277616,
-          "lon": -48.8575584
+          "referencia": "0.97 km de POSTO TULIO 04 (RIO BONITO) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 11:28:57",
+          "lat": -25.2583808,
+          "lon": -48.9136768
         },
-        "distancia_km": 244.2,
+        "distancia_km": 228.7,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.06 km de POSTO FISCAL - PASSO DO SOCORRO - VACARIA/RS",
-          "data_hora_posicao": "24/11/2026 11:11:37",
-          "lat": -28.257408,
-          "lon": -50.7831488
+          "referencia": "0.12 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "24/11/2026 11:23:07",
+          "lat": -28.2055936,
+          "lon": -50.7588864
         },
-        "distancia_km": 161.6,
+        "distancia_km": 155.8,
         "proximo": false
       }
     ],
@@ -115,28 +115,39 @@
       }
     }
   },
-  "ITJ": {
+  "CTB": {
     "veiculos": [
       {
-        "manif": "GRU074987-7",
+        "manif": "GRU074989-3",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 11643.2,
-        "frete_rs": 7133.12,
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 8183.02,
+        "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de CONCESSIONARIA SCANIA - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 11:14:09",
-          "lat": -26.8878266666667,
-          "lon": -48.7226233333333
+          "referencia": "2.07 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 11:29:15",
+          "lat": -25.085672,
+          "lon": -48.6438592
         },
-        "distancia_km": 0.2,
-        "proximo": true
-      },
+        "distancia_km": 81.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8183.02,
+        "frete_rs": 6833.02,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
       {
         "manif": "GRU074990-7",
         "origin_unit": "GRU",
@@ -155,39 +166,8 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 25169.57,
-        "frete_rs": 23586.64,
-        "qtde": 2
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074989-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 8183.02,
-        "frete_rs": 6833.02,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.88 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 11:13:15",
-          "lat": -25.062832,
-          "lon": -48.5699296
-        },
-        "distancia_km": 89.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8183.02,
-        "frete_rs": 6833.02,
+        "peso_kg": 13526.37,
+        "frete_rs": 16453.52,
         "qtde": 1
       }
     }
@@ -221,10 +201,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.71 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 11:14:32",
-          "lat": -25.1277616,
-          "lon": -48.8575584
+          "referencia": "0.97 km de POSTO TULIO 04 (RIO BONITO) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 11:28:57",
+          "lat": -25.2583808,
+          "lon": -48.9136768
         },
         "distancia_km": null,
         "proximo": false
@@ -272,12 +252,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de DO VALE PNEUS E RECAPAGEM - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 11:14:11",
-          "lat": -24.316816,
-          "lon": -47.5277376
+          "referencia": "0.1 km de O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 11:28:11",
+          "lat": -24.2588336,
+          "lon": -47.376576
         },
-        "distancia_km": 143.5,
+        "distancia_km": 127.8,
         "proximo": false
       },
       {
@@ -292,12 +272,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de DO VALE PNEUS E RECAPAGEM - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 11:14:11",
-          "lat": -24.316816,
-          "lon": -47.5277376
+          "referencia": "0.1 km de O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 11:28:11",
+          "lat": -24.2588336,
+          "lon": -47.376576
         },
-        "distancia_km": 143.5,
+        "distancia_km": 127.8,
         "proximo": false
       },
       {
@@ -327,12 +307,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.19 km de SELF TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 11:14:28",
-          "lat": -23.4641968,
-          "lon": -46.4685568
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 11:28:54",
+          "lat": -23.4704208,
+          "lon": -46.4621024
         },
-        "distancia_km": 0.9,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -413,10 +393,10 @@
         "frete_rs": 5776.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.71 km de RESTAURANTE E LANCHONETE MEURER - BIGUACU/SC",
-          "data_hora_posicao": "24/11/2026 11:14:19",
-          "lat": -27.5390556,
-          "lon": -48.704397
+          "referencia": "2.13 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "24/11/2026 11:28:50",
+          "lat": -27.6699973,
+          "lon": -48.7135058
         },
         "distancia_km": null,
         "proximo": false
@@ -444,10 +424,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "4.33 km de PRF BR 470 - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "24/11/2026 11:13:17",
-          "lat": -27.3741333333333,
-          "lon": -51.0713066666667
+          "referencia": "0.13 km de POSTO COELHO - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "24/11/2026 11:28:20",
+          "lat": -27.39024,
+          "lon": -51.21552
         },
         "distancia_km": null,
         "proximo": false
@@ -475,10 +455,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "24/11/2026 11:12:18",
-          "lat": -28.5449616666667,
-          "lon": -50.9740133333333
+          "referencia": "3.93 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "24/11/2026 11:29:30",
+          "lat": -28.6256,
+          "lon": -51.077325
         },
         "distancia_km": null,
         "proximo": false
@@ -506,12 +486,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.44 km de RESTAURANTE KAPELLI - VACARIA/RS",
-          "data_hora_posicao": "24/11/2026 11:12:18",
-          "lat": -28.5449616666667,
-          "lon": -50.9740133333333
+          "referencia": "3.93 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "24/11/2026 11:29:30",
+          "lat": -28.6256,
+          "lon": -51.077325
         },
-        "distancia_km": 161.3,
+        "distancia_km": 151.3,
         "proximo": false
       }
     ],
@@ -523,5 +503,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T11:17:25"
+  "_gerado_em": "2026-11-24T11:32:25"
 }
