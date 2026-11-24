@@ -13,12 +13,12 @@
         "frete_rs": 3182.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.23 km de POSTO MORRO AZUL - ITATIBA/SP",
-          "data_hora_posicao": "24/11/2026 19:44:40",
-          "lat": -23.0309166666667,
-          "lon": -46.7365633333333
+          "referencia": "1.42 km de POSTO BRASIL - ATIBAIA - ATIBAIA/SP",
+          "data_hora_posicao": "24/11/2026 19:58:40",
+          "lat": -23.1015066666667,
+          "lon": -46.5952166666667
         },
-        "distancia_km": 56.3,
+        "distancia_km": 43.2,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 7354.81,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 19:43:15",
-          "lat": -25.5277552,
-          "lon": -49.295472
+          "referencia": "0.18 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 20:00:01",
+          "lat": -25.5265536,
+          "lon": -49.2973312
         },
-        "distancia_km": 366.7,
+        "distancia_km": 366.8,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
-          "data_hora_posicao": "24/11/2026 19:44:30",
-          "lat": -26.8764416,
-          "lon": -49.1240128
+          "referencia": "1.28 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "24/11/2026 19:58:30",
+          "lat": -26.8791136,
+          "lon": -49.0003744
         },
-        "distancia_km": 463.8,
+        "distancia_km": 457.0,
         "proximo": false
       }
     ],
@@ -94,12 +94,12 @@
         "frete_rs": 3612.94,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 19:45:06",
-          "lat": -25.5277344,
-          "lon": -49.2955008
+          "referencia": "0.48 km de MILI S.A - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:59:34",
+          "lat": -25.5445104,
+          "lon": -49.3038176
         },
-        "distancia_km": 161.7,
+        "distancia_km": 160.2,
         "proximo": false
       },
       {
@@ -114,33 +114,13 @@
         "frete_rs": 329.75,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 19:45:06",
-          "lat": -25.5277344,
-          "lon": -49.2955008
+          "referencia": "0.48 km de MILI S.A - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:59:34",
+          "lat": -25.5445104,
+          "lon": -49.3038176
         },
-        "distancia_km": 161.7,
+        "distancia_km": 160.2,
         "proximo": false
-      },
-      {
-        "manif": "FLN000142-2",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 10.0,
-        "frete_rs": 265.68,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 19:42:50",
-          "lat": -26.8877103,
-          "lon": -48.7206098
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "GRU075051-4",
@@ -154,12 +134,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 19:44:12",
-          "lat": -23.4703248,
-          "lon": -46.4618496
+          "referencia": "0.74 km de SENDAS DISTRIBUIDORA. - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 19:59:56",
+          "lat": -23.4910752,
+          "lon": -46.462608
         },
-        "distancia_km": 442.8,
+        "distancia_km": 440.7,
         "proximo": false
       },
       {
@@ -175,7 +155,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 19:45:05",
+          "data_hora_posicao": "24/11/2026 19:59:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
@@ -194,13 +174,13 @@
         "frete_rs": 253.4,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO AGRICOPEL (MIME 16) - BLUMENAU/SC",
-          "data_hora_posicao": "24/11/2026 19:44:30",
-          "lat": -26.8764416,
-          "lon": -49.1240128
+          "referencia": "1.28 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "24/11/2026 19:58:30",
+          "lat": -26.8791136,
+          "lon": -49.0003744
         },
-        "distancia_km": 40.0,
-        "proximo": false
+        "distancia_km": 27.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -208,11 +188,6 @@
         "peso_kg": 4034.4900000000002,
         "frete_rs": 3942.69,
         "qtde": 2
-      },
-      "FLN": {
-        "peso_kg": 10.0,
-        "frete_rs": 265.68,
-        "qtde": 1
       },
       "Guarulhos": {
         "peso_kg": 9371.63,
@@ -245,33 +220,13 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 19:45:06",
-          "lat": -25.5277344,
-          "lon": -49.2955008
+          "referencia": "0.48 km de MILI S.A - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:59:34",
+          "lat": -25.5445104,
+          "lon": -49.3038176
         },
-        "distancia_km": 189.9,
+        "distancia_km": 187.9,
         "proximo": false
-      },
-      {
-        "manif": "CXS002252-7",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 2724.71,
-        "frete_rs": 4549.84,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 19:44:58",
-          "lat": -27.2058656,
-          "lon": -49.6492352
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "GRU074992-3",
@@ -286,7 +241,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 19:44:32",
+          "data_hora_posicao": "24/11/2026 19:58:32",
           "lat": -27.2059104,
           "lon": -49.6489824
         },
@@ -305,33 +260,13 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.14 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 19:44:09",
-          "lat": -23.7798944,
-          "lon": -46.7632384
+          "referencia": "0.3 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 20:00:09",
+          "lat": -23.7785552,
+          "lon": -46.763664
         },
-        "distancia_km": 478.6,
+        "distancia_km": 478.7,
         "proximo": false
-      },
-      {
-        "manif": "POA016289-2",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 4043.05,
-        "frete_rs": 3212.01,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.01 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 19:44:58",
-          "lat": -27.2058656,
-          "lon": -49.6492352
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -345,12 +280,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 19:43:23",
-          "lat": -29.9834048,
-          "lon": -51.1869024
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 19:59:23",
+          "lat": -29.9833568,
+          "lon": -51.1868352
         },
-        "distancia_km": 343.4,
+        "distancia_km": 343.3,
         "proximo": false
       },
       {
@@ -375,24 +310,45 @@
         "frete_rs": 5378.8,
         "qtde": 1
       },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 2724.71,
-        "frete_rs": 4549.84,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 14858.97,
         "frete_rs": 18363.47,
         "qtde": 2
       },
       "Porto Alegre": {
-        "peso_kg": 5198.56,
-        "frete_rs": 6098.040000000001,
-        "qtde": 2
+        "peso_kg": 1155.51,
+        "frete_rs": 2886.03,
+        "qtde": 1
       },
       "Timbó": {
         "peso_kg": 9864.65,
         "frete_rs": 10502.54,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU075052-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 572.05,
+        "frete_rs": 1603.74,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 572.05,
+        "frete_rs": 1603.74,
         "qtde": 1
       }
     }
@@ -411,10 +367,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 19:43:23",
-          "lat": -29.9834048,
-          "lon": -51.1869024
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 19:59:23",
+          "lat": -29.9833568,
+          "lon": -51.1868352
         },
         "distancia_km": null,
         "proximo": false
@@ -443,9 +399,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 19:45:03",
-          "lat": -29.983385,
-          "lon": -51.1866533333333
+          "data_hora_posicao": "24/11/2026 19:58:30",
+          "lat": -29.9833566666667,
+          "lon": -51.1865816666667
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -459,5 +415,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T19:47:29"
+  "_gerado_em": "2026-11-24T20:02:40"
 }
