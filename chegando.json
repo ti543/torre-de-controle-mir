@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:13:37",
+          "data_hora_posicao": "24/11/2026 13:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.24 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "24/11/2026 13:14:36",
-          "lat": -27.1069632,
-          "lon": -49.5224224
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "24/11/2026 13:29:16",
+          "lat": -27.1357984,
+          "lon": -49.5435424
         },
-        "distancia_km": 16.7,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 13:04:36",
-          "lat": -25.854056,
-          "lon": -49.0227904
+          "referencia": "0.42 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "24/11/2026 13:29:13",
+          "lat": -25.9952736,
+          "lon": -48.879584
         },
-        "distancia_km": 162.8,
+        "distancia_km": 154.9,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:13:37",
+          "data_hora_posicao": "24/11/2026 13:29:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -170,26 +170,11 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 13:04:36",
-          "lat": -25.854056,
-          "lon": -49.0227904
+          "referencia": "0.42 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "24/11/2026 13:29:13",
+          "lat": -25.9952736,
+          "lon": -48.879584
         },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044570-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 2941.7,
-        "frete_rs": 1189.84,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
       }
@@ -199,11 +184,6 @@
         "peso_kg": 3834.9800000000005,
         "frete_rs": 8337.23,
         "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 2941.7,
-        "frete_rs": 1189.84,
-        "qtde": 1
       }
     }
   },
@@ -221,12 +201,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:12:11",
-          "lat": -23.700032,
-          "lon": -46.8678048
+          "referencia": "0.26 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:29:34",
+          "lat": -23.6830096,
+          "lon": -46.8589408
         },
-        "distancia_km": 48.6,
+        "distancia_km": 46.8,
         "proximo": false
       },
       {
@@ -241,12 +221,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:12:11",
-          "lat": -23.700032,
-          "lon": -46.8678048
+          "referencia": "0.26 km de ESTACIONAMENTO 35 UNIDADE 02 - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:29:34",
+          "lat": -23.6830096,
+          "lon": -46.8589408
         },
-        "distancia_km": 48.6,
+        "distancia_km": 46.8,
         "proximo": false
       },
       {
@@ -308,7 +288,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 13:14:36",
+          "data_hora_posicao": "24/11/2026 13:28:25",
           "lat": -27.6744165,
           "lon": -48.6978763
         },
@@ -369,10 +349,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:14:49",
-          "lat": -29.1480966666667,
-          "lon": -51.1647216666667
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 13:28:48",
+          "lat": -29.1463016666667,
+          "lon": -51.164855
         },
         "distancia_km": null,
         "proximo": false
@@ -400,12 +380,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:14:49",
-          "lat": -29.1480966666667,
-          "lon": -51.1647216666667
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 13:28:48",
+          "lat": -29.1463016666667,
+          "lon": -51.164855
         },
-        "distancia_km": 92.9,
+        "distancia_km": 93.1,
         "proximo": false
       }
     ],
@@ -417,5 +397,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T13:17:23"
+  "_gerado_em": "2026-11-24T13:32:25"
 }
