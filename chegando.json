@@ -1,105 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013651-4",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 5135.07,
-        "frete_rs": 5555.03,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:14:28",
-          "lat": -26.887376,
-          "lon": -48.7212224
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU074987-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 11643.2,
-        "frete_rs": 7133.12,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "2.69 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "23/11/2026 22:13:36",
-          "lat": -23.810035,
-          "lon": -46.923785
-        },
-        "distancia_km": 386.9,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044561-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 3805.89,
-        "frete_rs": 3918.69,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.66 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "23/11/2026 22:15:06",
-          "lat": -26.9496352,
-          "lon": -49.3133472
-        },
-        "distancia_km": 59.1,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016506-9",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 392.93,
-        "frete_rs": 302.49,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 5135.07,
-        "frete_rs": 5555.03,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 11643.2,
-        "frete_rs": 7133.12,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 3805.89,
-        "frete_rs": 3918.69,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 392.93,
-        "frete_rs": 302.49,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -115,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:14:28",
-          "lat": -26.887376,
-          "lon": -48.7212224
+          "data_hora_posicao": "23/11/2026 22:30:28",
+          "lat": -26.8873312,
+          "lon": -48.7211776
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -134,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de ESTACIONAMENTO TIO NELSON (POSTO RUFF) - MIRACATU/SP",
-          "data_hora_posicao": "23/11/2026 22:12:36",
-          "lat": -24.035992,
-          "lon": -47.187328
+          "referencia": "2.96 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "23/11/2026 22:30:36",
+          "lat": -24.1438736,
+          "lon": -47.288464
         },
-        "distancia_km": 430.3,
+        "distancia_km": 414.6,
         "proximo": false
       },
       {
@@ -154,10 +53,10 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:13:37",
-          "lat": -29.9835904,
-          "lon": -51.187008
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 22:29:37",
+          "lat": -29.9836416,
+          "lon": -51.1869216
         },
         "distancia_km": 343.4,
         "proximo": false
@@ -195,12 +94,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.63 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "23/11/2026 22:13:54",
-          "lat": -24.7885056,
-          "lon": -48.1809664
+          "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "23/11/2026 22:25:46",
+          "lat": -24.785648,
+          "lon": -48.1747296
         },
-        "distancia_km": 227.8,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -216,7 +115,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:14:11",
+          "data_hora_posicao": "23/11/2026 22:30:11",
           "lat": -26.8874464,
           "lon": -48.721184
         },
@@ -236,7 +135,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:14:11",
+          "data_hora_posicao": "23/11/2026 22:30:11",
           "lat": -26.8874464,
           "lon": -48.721184
         },
@@ -255,12 +154,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.51 km de ESTACIONAMENTO BR-101 - JOINVILLE/SC",
-          "data_hora_posicao": "23/11/2026 22:14:28",
-          "lat": -26.4118768,
-          "lon": -48.8360992
+          "referencia": "0.52 km de POSTO BUFFON 15 - JOINVILLE/SC",
+          "data_hora_posicao": "23/11/2026 22:30:28",
+          "lat": -26.2530144,
+          "lon": -48.9066176
         },
-        "distancia_km": 405.3,
+        "distancia_km": 395.6,
         "proximo": false
       },
       {
@@ -347,9 +246,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:13:23",
-          "lat": -29.9834208,
-          "lon": -51.1866528
+          "data_hora_posicao": "23/11/2026 22:29:23",
+          "lat": -29.9834112,
+          "lon": -51.1866784
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -366,12 +265,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.35 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "23/11/2026 22:15:05",
-          "lat": -28.6994144,
-          "lon": -49.1920064
+          "referencia": "0.46 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "23/11/2026 22:29:05",
+          "lat": -28.7919616,
+          "lon": -49.3491168
         },
-        "distancia_km": 240.3,
+        "distancia_km": 221.9,
         "proximo": false
       },
       {
@@ -387,9 +286,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:13:23",
-          "lat": -29.9834208,
-          "lon": -51.1866528
+          "data_hora_posicao": "23/11/2026 22:29:23",
+          "lat": -29.9834112,
+          "lon": -51.1866784
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -407,9 +306,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:13:23",
-          "lat": -29.9834208,
-          "lon": -51.1866528
+          "data_hora_posicao": "23/11/2026 22:29:23",
+          "lat": -29.9834112,
+          "lon": -51.1866784
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -433,6 +332,62 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU074987-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 11643.2,
+        "frete_rs": 7133.12,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.04 km de POSTO 68 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "23/11/2026 22:29:36",
+          "lat": -23.935405,
+          "lon": -47.0340216666667
+        },
+        "distancia_km": 369.4,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044561-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3805.89,
+        "frete_rs": 3918.69,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.74 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "23/11/2026 22:29:06",
+          "lat": -26.872224,
+          "lon": -49.1929792
+        },
+        "distancia_km": 46.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 11643.2,
+        "frete_rs": 7133.12,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 3805.89,
+        "frete_rs": 3918.69,
+        "qtde": 1
+      }
+    }
+  },
   "CTB": {
     "veiculos": [
       {
@@ -448,9 +403,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 22:13:15",
-          "lat": -23.4708992,
-          "lon": -46.4613824
+          "data_hora_posicao": "23/11/2026 22:29:15",
+          "lat": -23.4708896,
+          "lon": -46.4613184
         },
         "distancia_km": 366.8,
         "proximo": false
@@ -467,12 +422,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.66 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "23/11/2026 22:15:06",
-          "lat": -26.9496352,
-          "lon": -49.3133472
+          "referencia": "0.74 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
+          "data_hora_posicao": "23/11/2026 22:29:06",
+          "lat": -26.872224,
+          "lon": -49.1929792
         },
-        "distancia_km": 158.1,
+        "distancia_km": 149.9,
         "proximo": false
       },
       {
@@ -523,10 +478,10 @@
         "frete_rs": 3718.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:13:37",
-          "lat": -29.9835904,
-          "lon": -51.187008
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 22:29:37",
+          "lat": -29.9836416,
+          "lon": -51.1869216
         },
         "distancia_km": null,
         "proximo": false
@@ -540,5 +495,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T22:17:26"
+  "_gerado_em": "2026-11-23T22:32:33"
 }
