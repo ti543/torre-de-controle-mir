@@ -14,32 +14,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:43:37",
+          "data_hora_posicao": "24/11/2026 13:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "GRU074986-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 12632.33,
-        "frete_rs": 7193.93,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.13 km de PRF - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 13:44:36",
-          "lat": -27.1716608,
-          "lon": -49.5799264
-        },
-        "distancia_km": 7.9,
-        "proximo": true
       },
       {
         "manif": "GRU074992-3",
@@ -53,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "24/11/2026 13:44:32",
-          "lat": -26.1481264,
-          "lon": -48.9090464
+          "referencia": "0.19 km de POSTO 37 - JOINVILLE/SC",
+          "data_hora_posicao": "24/11/2026 13:58:32",
+          "lat": -26.2974736,
+          "lon": -48.883952
         },
-        "distancia_km": 138.8,
+        "distancia_km": 126.4,
         "proximo": false
       },
       {
@@ -74,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 13:43:37",
+          "data_hora_posicao": "24/11/2026 13:59:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -89,13 +69,44 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 23064.8,
-        "frete_rs": 18902.02,
-        "qtde": 2
+        "peso_kg": 10432.47,
+        "frete_rs": 11708.09,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 4043.05,
         "frete_rs": 3212.01,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "FLN000142-2",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 10.0,
+        "frete_rs": 265.68,
+        "grupo_origem": "FLN",
+        "posicao_raster": {
+          "referencia": "0.99 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
+          "data_hora_posicao": "24/11/2026 13:56:27",
+          "lat": -27.6742935,
+          "lon": -48.6980043
+        },
+        "distancia_km": 87.5,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "FLN": {
+        "peso_kg": 10.0,
+        "frete_rs": 265.68,
         "qtde": 1
       }
     }
@@ -129,10 +140,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "24/11/2026 13:44:32",
-          "lat": -26.1481264,
-          "lon": -48.9090464
+          "referencia": "0.19 km de POSTO 37 - JOINVILLE/SC",
+          "data_hora_posicao": "24/11/2026 13:58:32",
+          "lat": -26.2974736,
+          "lon": -48.883952
         },
         "distancia_km": null,
         "proximo": false
@@ -160,12 +171,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de DELEGACIA DE POLICIA CIVIL - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "24/11/2026 13:44:11",
-          "lat": -23.6417392,
-          "lon": -46.8373056
+          "referencia": "0.63 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "24/11/2026 13:58:11",
+          "lat": -23.5114064,
+          "lon": -46.8075744
         },
-        "distancia_km": 42.7,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -180,12 +191,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de DELEGACIA DE POLICIA CIVIL - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "24/11/2026 13:44:11",
-          "lat": -23.6417392,
-          "lon": -46.8373056
+          "referencia": "0.63 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "24/11/2026 13:58:11",
+          "lat": -23.5114064,
+          "lon": -46.8075744
         },
-        "distancia_km": 42.7,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -232,37 +243,6 @@
       }
     }
   },
-  "FLN": {
-    "veiculos": [
-      {
-        "manif": "ITJ024197-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "FLN",
-        "dest_city": "PALHOCA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 4484.2,
-        "frete_rs": 5776.4,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.99 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 13:44:27",
-          "lat": -27.6742935,
-          "lon": -48.6980043
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 4484.2,
-        "frete_rs": 5776.4,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -277,9 +257,9 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.33 km de DICAPEL - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "24/11/2026 13:43:09",
-          "lat": -27.3855733333333,
+          "referencia": "0.37 km de DICAPEL - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "24/11/2026 13:57:54",
+          "lat": -27.3850933333333,
           "lon": -51.23472
         },
         "distancia_km": null,
@@ -309,7 +289,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:45:09",
+          "data_hora_posicao": "24/11/2026 13:59:08",
           "lat": -29.1463016666667,
           "lon": -51.164855
         },
@@ -340,7 +320,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 13:45:09",
+          "data_hora_posicao": "24/11/2026 13:59:08",
           "lat": -29.1463016666667,
           "lon": -51.164855
         },
@@ -356,5 +336,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T13:47:25"
+  "_gerado_em": "2026-11-24T14:02:31"
 }
