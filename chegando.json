@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 17:41:37",
-          "lat": -27.3039776,
-          "lon": -50.4025664
+          "referencia": "1.79 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:59:37",
+          "lat": -27.3016992,
+          "lon": -50.2168832
         },
-        "distancia_km": 75.2,
+        "distancia_km": 57.1,
         "proximo": false
       },
       {
@@ -33,13 +33,13 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 17:44:32",
-          "lat": -27.0088928,
-          "lon": -49.3732576
+          "referencia": "4.6 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "24/11/2026 17:58:32",
+          "lat": -27.0769824,
+          "lon": -49.4296864
         },
-        "distancia_km": 35.1,
-        "proximo": false
+        "distancia_km": 26.1,
+        "proximo": true
       },
       {
         "manif": "GRU075049-2",
@@ -53,12 +53,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.78 km de SENDAS DISTRIBUIDORA. - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 17:44:40",
-          "lat": -23.4907728,
-          "lon": -46.4629184
+          "referencia": "1.24 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 17:58:09",
+          "lat": -23.5239632,
+          "lon": -46.4572832
         },
-        "distancia_km": 522.6,
+        "distancia_km": 520.1,
         "proximo": false
       },
       {
@@ -73,12 +73,32 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.92 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 17:41:37",
-          "lat": -27.3039776,
-          "lon": -50.4025664
+          "referencia": "1.79 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 17:59:37",
+          "lat": -27.3016992,
+          "lon": -50.2168832
         },
-        "distancia_km": 75.2,
+        "distancia_km": 57.1,
+        "proximo": false
+      },
+      {
+        "manif": "POA016299-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 1155.51,
+        "frete_rs": 2886.03,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 17:59:23",
+          "lat": -29.9834304,
+          "lon": -51.1869536
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -94,9 +114,9 @@
         "qtde": 2
       },
       "Porto Alegre": {
-        "peso_kg": 4043.05,
-        "frete_rs": 3212.01,
-        "qtde": 1
+        "peso_kg": 5198.56,
+        "frete_rs": 6098.040000000001,
+        "qtde": 2
       }
     }
   },
@@ -114,13 +134,33 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.16 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 17:45:19",
-          "lat": -27.1282716,
-          "lon": -48.6096691
+          "referencia": "0.86 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
+          "data_hora_posicao": "24/11/2026 17:59:59",
+          "lat": -27.0874748,
+          "lon": -48.6106505
         },
-        "distancia_km": 29.0,
+        "distancia_km": 24.8,
         "proximo": true
+      },
+      {
+        "manif": "POA016300-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2.0,
+        "frete_rs": 218.21,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 17:59:05",
+          "lat": -29.983504,
+          "lon": -51.1868256
+        },
+        "distancia_km": 420.3,
+        "proximo": false
       },
       {
         "manif": "RSL044582-7",
@@ -135,9 +175,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 17:44:30",
-          "lat": -27.206096,
-          "lon": -49.6493024
+          "data_hora_posicao": "24/11/2026 17:58:30",
+          "lat": -27.206,
+          "lon": -49.6491648
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -147,6 +187,11 @@
       "FLN": {
         "peso_kg": 10.0,
         "frete_rs": 265.68,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 2.0,
+        "frete_rs": 218.21,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -243,6 +288,37 @@
       }
     }
   },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "POA016298-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 208.0,
+        "frete_rs": 252.37,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 17:59:23",
+          "lat": -29.9834304,
+          "lon": -51.1869536
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 208.0,
+        "frete_rs": 252.37,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -258,7 +334,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 17:45:05",
+          "data_hora_posicao": "24/11/2026 17:59:05",
           "lat": -29.9834583333333,
           "lon": -51.1867283333333
         },
@@ -289,11 +365,11 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 17:44:30",
-          "lat": -27.206096,
-          "lon": -49.6493024
+          "data_hora_posicao": "24/11/2026 17:58:30",
+          "lat": -27.206,
+          "lon": -49.6491648
         },
-        "distancia_km": 524.5,
+        "distancia_km": 524.4,
         "proximo": false
       }
     ],
@@ -305,5 +381,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T17:47:33"
+  "_gerado_em": "2026-11-24T18:02:33"
 }
