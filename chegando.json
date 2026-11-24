@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.98 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "24/11/2026 16:57:37",
-          "lat": -27.6440512,
-          "lon": -50.338208
+          "referencia": "3.64 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "24/11/2026 17:11:40",
+          "lat": -27.5147712,
+          "lon": -50.365616
         },
-        "distancia_km": 83.6,
+        "distancia_km": 78.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "24/11/2026 16:59:53",
-          "lat": -26.8422832,
-          "lon": -49.2723424
+          "referencia": "0.71 km de POSTO ZANDONÁ 03 - INDAIAL/SC",
+          "data_hora_posicao": "24/11/2026 17:14:32",
+          "lat": -26.8769824,
+          "lon": -49.2494208
         },
-        "distancia_km": 55.1,
+        "distancia_km": 53.9,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 17:00:09",
+          "data_hora_posicao": "24/11/2026 17:14:09",
           "lat": -23.4702752,
           "lon": -46.4620896
         },
@@ -73,12 +73,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.98 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "24/11/2026 16:57:37",
-          "lat": -27.6440512,
-          "lon": -50.338208
+          "referencia": "3.64 km de KLABIN S/A - CORREIA PINTO/SC",
+          "data_hora_posicao": "24/11/2026 17:11:40",
+          "lat": -27.5147712,
+          "lon": -50.365616
         },
-        "distancia_km": 83.6,
+        "distancia_km": 78.6,
         "proximo": false
       }
     ],
@@ -115,7 +115,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 16:58:41",
+          "data_hora_posicao": "24/11/2026 17:14:41",
           "lat": -27.1332101,
           "lon": -48.6121111
         },
@@ -207,7 +207,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 16:58:46",
+          "data_hora_posicao": "24/11/2026 17:14:45",
           "lat": -29.9834583333333,
           "lon": -51.1867283333333
         },
@@ -223,5 +223,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T17:02:29"
+  "_gerado_em": "2026-11-24T17:17:30"
 }
