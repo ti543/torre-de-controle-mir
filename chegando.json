@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 14:29:37",
+          "data_hora_posicao": "24/11/2026 14:43:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.76 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
-          "data_hora_posicao": "24/11/2026 14:28:32",
-          "lat": -26.4605008,
-          "lon": -48.9422464
+          "referencia": "1.86 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "24/11/2026 14:44:41",
+          "lat": -26.4935888,
+          "lon": -49.0012544
         },
-        "distancia_km": 108.6,
+        "distancia_km": 102.1,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 14:29:37",
+          "data_hora_posicao": "24/11/2026 14:43:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -94,12 +94,12 @@
         "frete_rs": 265.68,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.42 km de HOTEL MEURER - BIGUACU/SC",
-          "data_hora_posicao": "24/11/2026 14:29:44",
-          "lat": -27.485642,
-          "lon": -48.7140416
+          "referencia": "1.49 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
+          "data_hora_posicao": "24/11/2026 14:44:43",
+          "lat": -27.3523325,
+          "lon": -48.6327538
         },
-        "distancia_km": 66.5,
+        "distancia_km": 52.4,
         "proximo": false
       }
     ],
@@ -140,10 +140,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.76 km de CRUZAMENTO DE LINHA FÉRREA - GUARAMIRIM/SC",
-          "data_hora_posicao": "24/11/2026 14:28:32",
-          "lat": -26.4605008,
-          "lon": -48.9422464
+          "referencia": "1.86 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "24/11/2026 14:44:41",
+          "lat": -26.4935888,
+          "lon": -49.0012544
         },
         "distancia_km": null,
         "proximo": false
@@ -171,12 +171,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de TIETE VEÍCULOS S/A - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 14:28:11",
-          "lat": -23.5183888,
-          "lon": -46.7336992
+          "referencia": "0.22 km de POSTO DE GASOLINA - SHELL - PAPA 8 - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 14:44:11",
+          "lat": -23.515016,
+          "lon": -46.6730496
         },
-        "distancia_km": 28.2,
+        "distancia_km": 22.1,
         "proximo": true
       },
       {
@@ -191,12 +191,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de TIETE VEÍCULOS S/A - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 14:28:11",
-          "lat": -23.5183888,
-          "lon": -46.7336992
+          "referencia": "0.22 km de POSTO DE GASOLINA - SHELL - PAPA 8 - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 14:44:11",
+          "lat": -23.515016,
+          "lon": -46.6730496
         },
-        "distancia_km": 28.2,
+        "distancia_km": 22.1,
         "proximo": true
       }
     ],
@@ -222,10 +222,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.17 km de POSTO NOSSA SENHORA DE LOURDES - ERVAL VELHO/SC",
-          "data_hora_posicao": "24/11/2026 14:27:56",
-          "lat": -27.3141333333333,
-          "lon": -51.3693333333333
+          "referencia": "0.13 km de POSTO PASINATO - ERVAL VELHO/SC",
+          "data_hora_posicao": "24/11/2026 14:42:58",
+          "lat": -27.2447466666667,
+          "lon": -51.4483733333333
         },
         "distancia_km": null,
         "proximo": false
@@ -235,37 +235,6 @@
       "Rio do Sul": {
         "peso_kg": 1666.54,
         "frete_rs": 1633.9,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044565-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2456.98,
-        "frete_rs": 2147.73,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.36 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 14:28:12",
-          "lat": -29.1360166666667,
-          "lon": -51.1955433333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 2456.98,
-        "frete_rs": 2147.73,
         "qtde": 1
       }
     }
@@ -284,12 +253,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de FILIAL EXPRESSO LEOMAR - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 14:28:12",
-          "lat": -29.1360166666667,
-          "lon": -51.1955433333333
+          "referencia": "0.43 km de POSTO SQUIZZATO - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 14:45:08",
+          "lat": -29.1832633333333,
+          "lon": -51.2483233333333
         },
-        "distancia_km": 94.2,
+        "distancia_km": 89.2,
         "proximo": false
       }
     ],
@@ -301,5 +270,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T14:32:22"
+  "_gerado_em": "2026-11-24T14:47:29"
 }
