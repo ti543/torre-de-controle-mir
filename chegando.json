@@ -13,12 +13,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:29:37",
-          "lat": -27.8238176,
-          "lon": -50.3627232
+          "referencia": "1.58 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "24/11/2026 16:43:48",
+          "lat": -27.7843488,
+          "lon": -50.3510016
         },
-        "distancia_km": 98.3,
+        "distancia_km": 94.4,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.21 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "24/11/2026 16:29:53",
-          "lat": -26.85328,
-          "lon": -49.2690432
+          "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "24/11/2026 16:44:32",
+          "lat": -26.8423264,
+          "lon": -49.2723808
         },
-        "distancia_km": 54.4,
+        "distancia_km": 55.1,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 16:28:09",
+          "data_hora_posicao": "24/11/2026 16:44:09",
           "lat": -23.4702752,
           "lon": -46.4620896
         },
@@ -73,12 +73,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 16:29:37",
-          "lat": -27.8238176,
-          "lon": -50.3627232
+          "referencia": "1.58 km de TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - LAGES/SC",
+          "data_hora_posicao": "24/11/2026 16:43:48",
+          "lat": -27.7843488,
+          "lon": -50.3510016
         },
-        "distancia_km": 98.3,
+        "distancia_km": 94.4,
         "proximo": false
       }
     ],
@@ -115,7 +115,7 @@
         "grupo_origem": "FLN",
         "posicao_raster": {
           "referencia": "0.72 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "24/11/2026 16:26:41",
+          "data_hora_posicao": "24/11/2026 16:42:41",
           "lat": -27.1332101,
           "lon": -48.6121111
         },
@@ -160,10 +160,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.21 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "24/11/2026 16:29:53",
-          "lat": -26.85328,
-          "lon": -49.2690432
+          "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "24/11/2026 16:44:32",
+          "lat": -26.8423264,
+          "lon": -49.2723808
         },
         "distancia_km": null,
         "proximo": false
@@ -226,12 +226,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.28 km de FILIAL MIRIN - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 16:28:15",
-          "lat": -29.9764883333333,
-          "lon": -51.1824716666667
+          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 16:44:10",
+          "lat": -29.9838783333333,
+          "lon": -51.1873733333333
         },
-        "distancia_km": 0.9,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -243,5 +243,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T16:32:24"
+  "_gerado_em": "2026-11-24T16:47:24"
 }
