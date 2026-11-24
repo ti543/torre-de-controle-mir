@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:30:28",
+          "data_hora_posicao": "23/11/2026 22:44:28",
           "lat": -26.8873312,
           "lon": -48.7211776
         },
@@ -33,12 +33,27 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.96 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "23/11/2026 22:30:36",
-          "lat": -24.1438736,
-          "lon": -47.288464
+          "referencia": "1.5 km de POSTO LAMBARI - MIRACATU/SP",
+          "data_hora_posicao": "23/11/2026 22:40:36",
+          "lat": -24.2104048,
+          "lon": -47.3709952
         },
-        "distancia_km": 414.6,
+        "distancia_km": 403.8,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074988-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 10989.42,
+        "frete_rs": 16532.27,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -54,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:29:37",
+          "data_hora_posicao": "23/11/2026 22:43:37",
           "lat": -29.9836416,
           "lon": -51.1869216
         },
@@ -69,9 +84,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 12632.33,
-        "frete_rs": 7193.93,
-        "qtde": 1
+        "peso_kg": 23621.75,
+        "frete_rs": 23726.2,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 4043.05,
@@ -94,12 +109,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "23/11/2026 22:25:46",
-          "lat": -24.785648,
-          "lon": -48.1747296
+          "referencia": "0.15 km de DELEGACIA GERAL DE POLÍCIA - CAJATI/SP",
+          "data_hora_posicao": "23/11/2026 22:43:46",
+          "lat": -24.7307408,
+          "lon": -48.1084704
         },
-        "distancia_km": 227.1,
+        "distancia_km": 218.1,
         "proximo": false
       },
       {
@@ -114,10 +129,10 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:30:11",
-          "lat": -26.8874464,
-          "lon": -48.721184
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 22:44:11",
+          "lat": -26.887376,
+          "lon": -48.7211264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -134,10 +149,10 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:30:11",
-          "lat": -26.8874464,
-          "lon": -48.721184
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 22:44:11",
+          "lat": -26.887376,
+          "lon": -48.7211264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -154,12 +169,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.52 km de POSTO BUFFON 15 - JOINVILLE/SC",
-          "data_hora_posicao": "23/11/2026 22:30:28",
-          "lat": -26.2530144,
-          "lon": -48.9066176
+          "referencia": "1.67 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "23/11/2026 22:44:28",
+          "lat": -26.1136912,
+          "lon": -48.875888
         },
-        "distancia_km": 395.6,
+        "distancia_km": 381.7,
         "proximo": false
       },
       {
@@ -246,9 +261,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:29:23",
+          "data_hora_posicao": "23/11/2026 22:43:23",
           "lat": -29.9834112,
-          "lon": -51.1866784
+          "lon": -51.1866688
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -265,12 +280,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.46 km de FILIAL MIR CRICIÚMA - ICARA/SC",
-          "data_hora_posicao": "23/11/2026 22:29:05",
-          "lat": -28.7919616,
-          "lon": -49.3491168
+          "referencia": "1.97 km de CONCESSIONARIA MERCEDES BENZ - ARARANGUA/SC",
+          "data_hora_posicao": "23/11/2026 22:45:05",
+          "lat": -28.9225952,
+          "lon": -49.498048
         },
-        "distancia_km": 221.9,
+        "distancia_km": 201.6,
         "proximo": false
       },
       {
@@ -286,9 +301,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:29:23",
+          "data_hora_posicao": "23/11/2026 22:43:23",
           "lat": -29.9834112,
-          "lon": -51.1866784
+          "lon": -51.1866688
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -306,9 +321,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:29:23",
+          "data_hora_posicao": "23/11/2026 22:43:23",
           "lat": -29.9834112,
-          "lon": -51.1866784
+          "lon": -51.1866688
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -346,12 +361,27 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO 68 JUQUITIBA - JUQUITIBA/SP",
-          "data_hora_posicao": "23/11/2026 22:29:36",
-          "lat": -23.935405,
-          "lon": -47.0340216666667
+          "referencia": "1.43 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
+          "data_hora_posicao": "23/11/2026 22:41:36",
+          "lat": -23.9968366666667,
+          "lon": -47.1487683333333
         },
-        "distancia_km": 369.4,
+        "distancia_km": 358.1,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074990-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 13526.37,
+        "frete_rs": 16453.52,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -366,20 +396,20 @@
         "frete_rs": 3918.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "23/11/2026 22:29:06",
-          "lat": -26.872224,
-          "lon": -49.1929792
+          "referencia": "0.15 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
+          "data_hora_posicao": "23/11/2026 22:45:06",
+          "lat": -26.8661056,
+          "lon": -49.0323776
         },
-        "distancia_km": 46.8,
+        "distancia_km": 31.0,
         "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 11643.2,
-        "frete_rs": 7133.12,
-        "qtde": 1
+        "peso_kg": 25169.57,
+        "frete_rs": 23586.64,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 3805.89,
@@ -402,12 +432,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 22:29:15",
-          "lat": -23.4708896,
-          "lon": -46.4613184
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:45:15",
+          "lat": -23.470928,
+          "lon": -46.4621952
         },
-        "distancia_km": 366.8,
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -422,12 +452,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "23/11/2026 22:29:06",
-          "lat": -26.872224,
-          "lon": -49.1929792
+          "referencia": "0.15 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
+          "data_hora_posicao": "23/11/2026 22:45:06",
+          "lat": -26.8661056,
+          "lon": -49.0323776
         },
-        "distancia_km": 149.9,
+        "distancia_km": 151.1,
         "proximo": false
       },
       {
@@ -464,6 +494,32 @@
       }
     }
   },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU074991-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 2702.78,
+        "frete_rs": 6962.78,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 2702.78,
+        "frete_rs": 6962.78,
+        "qtde": 1
+      }
+    }
+  },
   "CXS": {
     "veiculos": [
       {
@@ -479,7 +535,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:29:37",
+          "data_hora_posicao": "23/11/2026 22:43:37",
           "lat": -29.9836416,
           "lon": -51.1869216
         },
@@ -495,5 +551,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T22:32:33"
+  "_gerado_em": "2026-11-23T22:47:20"
 }
