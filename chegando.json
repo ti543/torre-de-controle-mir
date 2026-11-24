@@ -13,12 +13,12 @@
         "frete_rs": 8431.85,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO CARRETEIRO SUL - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 21:15:20",
-          "lat": -23.4696266666667,
-          "lon": -46.512285
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 21:29:12",
+          "lat": -23.4707016666667,
+          "lon": -46.4621416666667
         },
-        "distancia_km": 5.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -33,12 +33,52 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.65 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "23/11/2026 21:13:46",
-          "lat": -25.0845664,
-          "lon": -48.6378016
+          "referencia": "2.34 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "23/11/2026 21:23:46",
+          "lat": -25.0467552,
+          "lon": -48.5437248
         },
-        "distancia_km": 284.3,
+        "distancia_km": 274.3,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024187-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 12418.93,
+        "frete_rs": 16417.02,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 21:30:11",
+          "lat": -26.887664,
+          "lon": -48.720704
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024188-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 541.26,
+        "frete_rs": 1394.09,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 21:30:11",
+          "lat": -26.887664,
+          "lon": -48.720704
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -53,12 +93,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "23/11/2026 21:15:16",
-          "lat": -26.5913088,
-          "lon": -48.7216
+          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "23/11/2026 21:28:28",
+          "lat": -26.5540544,
+          "lon": -48.71976
         },
-        "distancia_km": 415.0,
+        "distancia_km": 411.4,
         "proximo": false
       },
       {
@@ -118,6 +158,11 @@
         "frete_rs": 6691.9,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 12960.19,
+        "frete_rs": 17811.11,
+        "qtde": 2
+      },
       "Rio do Sul": {
         "peso_kg": 55063.04,
         "frete_rs": 37631.91,
@@ -144,12 +189,12 @@
         "frete_rs": 5555.03,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.4 km de TVR TRANSPORTES - TOP FLORIPA TRANSPORTES E LOGÍSTICA LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "23/11/2026 21:14:28",
-          "lat": -26.3747312,
-          "lon": -48.855488
+          "referencia": "0.97 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "23/11/2026 21:28:28",
+          "lat": -26.4751168,
+          "lon": -48.7414272
         },
-        "distancia_km": 58.6,
+        "distancia_km": 45.9,
         "proximo": false
       },
       {
@@ -164,12 +209,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.17 km de AUTO POSTO LIDER - SAO PAULO/SP",
-          "data_hora_posicao": "23/11/2026 21:15:05",
-          "lat": -23.5187,
-          "lon": -46.627195
+          "referencia": "0.12 km de POSTO CITY AMÉRICA - SAO PAULO/SP",
+          "data_hora_posicao": "23/11/2026 21:29:05",
+          "lat": -23.5111833333333,
+          "lon": -46.7225783333333
         },
-        "distancia_km": 429.7,
+        "distancia_km": 425.9,
         "proximo": false
       },
       {
@@ -184,12 +229,12 @@
         "frete_rs": 3918.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "23/11/2026 21:15:06",
-          "lat": -27.2062944,
-          "lon": -49.6495744
+          "referencia": "1.65 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "23/11/2026 21:29:06",
+          "lat": -27.1471968,
+          "lon": -49.5540384
         },
-        "distancia_km": 98.5,
+        "distancia_km": 87.4,
         "proximo": false
       },
       {
@@ -245,12 +290,12 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.4 km de TVR TRANSPORTES - TOP FLORIPA TRANSPORTES E LOGÍSTICA LTDA - JOINVILLE/SC",
-          "data_hora_posicao": "23/11/2026 21:14:28",
-          "lat": -26.3747312,
-          "lon": -48.855488
+          "referencia": "0.97 km de FORTLEV - ARAQUARI/SC",
+          "data_hora_posicao": "23/11/2026 21:28:28",
+          "lat": -26.4751168,
+          "lon": -48.7414272
         },
-        "distancia_km": 121.5,
+        "distancia_km": 121.4,
         "proximo": false
       },
       {
@@ -265,12 +310,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.45 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "23/11/2026 21:15:06",
-          "lat": -23.66984,
-          "lon": -46.824288
+          "referencia": "1.29 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "23/11/2026 21:28:36",
+          "lat": -23.7225888,
+          "lon": -46.8905728
         },
-        "distancia_km": 484.8,
+        "distancia_km": 476.2,
         "proximo": false
       },
       {
@@ -286,7 +331,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:13:37",
+          "data_hora_posicao": "23/11/2026 21:29:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -327,9 +372,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:15:23",
-          "lat": -29.9834432,
-          "lon": -51.1867104
+          "data_hora_posicao": "23/11/2026 21:29:23",
+          "lat": -29.9834304,
+          "lon": -51.1866848
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -346,12 +391,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de RESTAURANTE CAPUTERA BR - LAGUNA/SC",
-          "data_hora_posicao": "23/11/2026 21:15:05",
-          "lat": -28.3483488,
-          "lon": -48.7375232
+          "referencia": "3.55 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "23/11/2026 21:29:05",
+          "lat": -28.4250176,
+          "lon": -48.8562272
         },
-        "distancia_km": 299.3,
+        "distancia_km": 284.9,
         "proximo": false
       },
       {
@@ -367,9 +412,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:15:23",
-          "lat": -29.9834432,
-          "lon": -51.1867104
+          "data_hora_posicao": "23/11/2026 21:29:23",
+          "lat": -29.9834304,
+          "lon": -51.1866848
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -387,9 +432,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:15:23",
-          "lat": -29.9834432,
-          "lon": -51.1867104
+          "data_hora_posicao": "23/11/2026 21:29:23",
+          "lat": -29.9834304,
+          "lon": -51.1866848
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -428,7 +473,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 21:13:37",
+          "data_hora_posicao": "23/11/2026 21:29:37",
           "lat": -29.9836576,
           "lon": -51.1869408
         },
@@ -458,12 +503,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "23/11/2026 21:15:06",
-          "lat": -27.2062944,
-          "lon": -49.6495744
+          "referencia": "1.65 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "23/11/2026 21:29:06",
+          "lat": -27.1471968,
+          "lon": -49.5540384
         },
-        "distancia_km": 190.0,
+        "distancia_km": 181.9,
         "proximo": false
       },
       {
@@ -495,5 +540,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T21:17:25"
+  "_gerado_em": "2026-11-23T21:32:27"
 }
