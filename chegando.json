@@ -13,12 +13,32 @@
         "frete_rs": 3182.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "24/11/2026 18:59:11",
-          "lat": -22.8469416666667,
-          "lon": -47.1247516666667
+          "referencia": "0.48 km de IVECO CONCESSIONARIA - CAMPINAS/SP",
+          "data_hora_posicao": "24/11/2026 19:13:48",
+          "lat": -22.842655,
+          "lon": -47.0508716666667
         },
-        "distancia_km": 96.9,
+        "distancia_km": 92.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013663-8",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 4044.28,
+        "frete_rs": 7354.81,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:13:15",
+          "lat": -25.5277552,
+          "lon": -49.295472
+        },
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -33,12 +53,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO DELTA - APIUNA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 18:58:30",
-          "lat": -27.0326304,
-          "lon": -49.3855776
+          "referencia": "1.84 km de 7ªRPM/GEIN/1ªCIA/3ºPEL/2ºGP – 2º GRUPO - ASCURRA/SC",
+          "data_hora_posicao": "24/11/2026 19:12:30",
+          "lat": -26.9508224,
+          "lon": -49.3552032
         },
-        "distancia_km": 493.2,
+        "distancia_km": 484.2,
         "proximo": false
       }
     ],
@@ -48,6 +68,11 @@
         "frete_rs": 3182.35,
         "qtde": 1
       },
+      "Curitiba": {
+        "peso_kg": 4044.28,
+        "frete_rs": 7354.81,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 15394.3,
         "frete_rs": 8411.22,
@@ -55,8 +80,179 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013660-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 3655.61,
+        "frete_rs": 3612.94,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:13:06",
+          "lat": -25.5277344,
+          "lon": -49.2955008
+        },
+        "distancia_km": 161.7,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013662-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 378.88,
+        "frete_rs": 329.75,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:13:06",
+          "lat": -25.5277344,
+          "lon": -49.2955008
+        },
+        "distancia_km": 161.7,
+        "proximo": false
+      },
+      {
+        "manif": "FLN000142-2",
+        "origin_unit": "FLN",
+        "origin_city": "PALHOCA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 10.0,
+        "frete_rs": 265.68,
+        "grupo_origem": "FLN",
+        "posicao_raster": {
+          "referencia": "0.21 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 19:13:30",
+          "lat": -26.918172,
+          "lon": -48.709642
+        },
+        "distancia_km": 3.6,
+        "proximo": true
+      },
+      {
+        "manif": "GRU075051-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 9371.63,
+        "frete_rs": 10157.55,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 19:14:02",
+          "lat": -23.4705328,
+          "lon": -46.4623552
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "POA016300-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2.0,
+        "frete_rs": 218.21,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 19:13:05",
+          "lat": -29.9837344,
+          "lon": -51.1869824
+        },
+        "distancia_km": 420.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044582-7",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 309.96,
+        "frete_rs": 253.4,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.84 km de 7ªRPM/GEIN/1ªCIA/3ºPEL/2ºGP – 2º GRUPO - ASCURRA/SC",
+          "data_hora_posicao": "24/11/2026 19:12:30",
+          "lat": -26.9508224,
+          "lon": -49.3552032
+        },
+        "distancia_km": 63.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4034.4900000000002,
+        "frete_rs": 3942.69,
+        "qtde": 2
+      },
+      "FLN": {
+        "peso_kg": 10.0,
+        "frete_rs": 265.68,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 9371.63,
+        "frete_rs": 10157.55,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 2.0,
+        "frete_rs": 218.21,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 309.96,
+        "frete_rs": 253.4,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013661-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 5680.13,
+        "frete_rs": 5378.8,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "24/11/2026 19:13:06",
+          "lat": -25.5277344,
+          "lon": -49.2955008
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002252-7",
         "origin_unit": "CXS",
@@ -69,12 +265,12 @@
         "frete_rs": 4549.84,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.87 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "24/11/2026 18:59:56",
-          "lat": -27.2587168,
-          "lon": -49.716336
+          "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 19:13:37",
+          "lat": -27.2431264,
+          "lon": -49.6881664
         },
-        "distancia_km": 8.8,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -89,10 +285,10 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 18:59:23",
-          "lat": -27.2057568,
-          "lon": -49.6490624
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 19:14:32",
+          "lat": -27.2059104,
+          "lon": -49.6489824
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -109,12 +305,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.45 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 19:00:09",
-          "lat": -23.7929456,
-          "lon": -46.7568928
+          "referencia": "0.79 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 19:14:09",
+          "lat": -23.7881168,
+          "lon": -46.7615712
         },
-        "distancia_km": 477.8,
+        "distancia_km": 477.9,
         "proximo": false
       },
       {
@@ -129,12 +325,12 @@
         "frete_rs": 3212.01,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.87 km de POLÍCIA CIVIL E POLÍCIA MILITAR - AGRONOMICA/SC",
-          "data_hora_posicao": "24/11/2026 18:59:56",
-          "lat": -27.2587168,
-          "lon": -49.716336
+          "referencia": "0.04 km de POSTO RUSSI 4 PAMPLONA RIO DO SUL - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 19:13:37",
+          "lat": -27.2431264,
+          "lon": -49.6881664
         },
-        "distancia_km": 8.8,
+        "distancia_km": 5.6,
         "proximo": true
       },
       {
@@ -150,11 +346,11 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:59:23",
-          "lat": -29.9833952,
-          "lon": -51.1868768
+          "data_hora_posicao": "24/11/2026 19:13:23",
+          "lat": -29.9834016,
+          "lon": -51.186896
         },
-        "distancia_km": 343.3,
+        "distancia_km": 343.4,
         "proximo": false
       },
       {
@@ -174,6 +370,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5680.13,
+        "frete_rs": 5378.8,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 2724.71,
         "frete_rs": 4549.84,
@@ -196,148 +397,6 @@
       }
     }
   },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "FLN000142-2",
-        "origin_unit": "FLN",
-        "origin_city": "PALHOCA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 10.0,
-        "frete_rs": 265.68,
-        "grupo_origem": "FLN",
-        "posicao_raster": {
-          "referencia": "0.13 km de BAUER EXPRESS - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 18:59:30",
-          "lat": -26.9279866,
-          "lon": -48.705584
-        },
-        "distancia_km": 4.8,
-        "proximo": true
-      },
-      {
-        "manif": "POA016300-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2.0,
-        "frete_rs": 218.21,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:59:05",
-          "lat": -29.9837344,
-          "lon": -51.1869824
-        },
-        "distancia_km": 420.3,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044582-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 309.96,
-        "frete_rs": 253.4,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.1 km de POSTO DELTA - APIUNA - APIUNA/SC",
-          "data_hora_posicao": "24/11/2026 18:58:30",
-          "lat": -27.0326304,
-          "lon": -49.3855776
-        },
-        "distancia_km": 67.8,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "FLN": {
-        "peso_kg": 10.0,
-        "frete_rs": 265.68,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 2.0,
-        "frete_rs": 218.21,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 309.96,
-        "frete_rs": 253.4,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU074991-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 2702.78,
-        "frete_rs": 6962.78,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024198-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 2819.09,
-        "frete_rs": 3371.58,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024199-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 54.85,
-        "frete_rs": 114.81,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 2702.78,
-        "frete_rs": 6962.78,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 2873.94,
-        "frete_rs": 3486.39,
-        "qtde": 2
-      }
-    }
-  },
   "LGS": {
     "veiculos": [
       {
@@ -353,9 +412,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:59:23",
-          "lat": -29.9833952,
-          "lon": -51.1868768
+          "data_hora_posicao": "24/11/2026 19:13:23",
+          "lat": -29.9834016,
+          "lon": -51.186896
         },
         "distancia_km": null,
         "proximo": false
@@ -384,7 +443,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 18:59:04",
+          "data_hora_posicao": "24/11/2026 19:13:04",
           "lat": -29.983385,
           "lon": -51.1866533333333
         },
@@ -400,5 +459,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T19:02:31"
+  "_gerado_em": "2026-11-24T19:17:29"
 }
