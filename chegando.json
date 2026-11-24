@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 12:59:37",
+          "data_hora_posicao": "24/11/2026 13:13:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.34 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "24/11/2026 12:58:36",
-          "lat": -27.080192,
-          "lon": -49.4396544
+          "referencia": "2.24 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "24/11/2026 13:14:36",
+          "lat": -27.1069632,
+          "lon": -49.5224224
         },
-        "distancia_km": 25.1,
+        "distancia_km": 16.7,
         "proximo": true
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 11708.09,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 12:58:32",
-          "lat": -25.8452384,
-          "lon": -49.076944
+          "referencia": "0.28 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 13:04:36",
+          "lat": -25.854056,
+          "lon": -49.0227904
         },
-        "distancia_km": 161.7,
+        "distancia_km": 162.8,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "24/11/2026 12:59:37",
+          "data_hora_posicao": "24/11/2026 13:13:37",
           "lat": -27.8238176,
           "lon": -50.3627232
         },
@@ -111,37 +111,6 @@
       "Porto Alegre": {
         "peso_kg": 4043.05,
         "frete_rs": 3212.01,
-        "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU074989-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 8183.02,
-        "frete_rs": 6833.02,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "24/11/2026 12:59:15",
-          "lat": -25.527672,
-          "lon": -49.2954912
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8183.02,
-        "frete_rs": 6833.02,
         "qtde": 1
       }
     }
@@ -201,10 +170,10 @@
         "frete_rs": 1374.45,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 12:58:32",
-          "lat": -25.8452384,
-          "lon": -49.076944
+          "referencia": "0.28 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 13:04:36",
+          "lat": -25.854056,
+          "lon": -49.0227904
         },
         "distancia_km": null,
         "proximo": false
@@ -252,12 +221,12 @@
         "frete_rs": 16417.02,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.19 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:00:11",
-          "lat": -23.7225456,
-          "lon": -46.8893312
+          "referencia": "0.11 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:12:11",
+          "lat": -23.700032,
+          "lon": -46.8678048
         },
-        "distancia_km": 51.8,
+        "distancia_km": 48.6,
         "proximo": false
       },
       {
@@ -272,12 +241,12 @@
         "frete_rs": 1394.09,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.19 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 13:00:11",
-          "lat": -23.7225456,
-          "lon": -46.8893312
+          "referencia": "0.11 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 01) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 13:12:11",
+          "lat": -23.700032,
+          "lon": -46.8678048
         },
-        "distancia_km": 51.8,
+        "distancia_km": 48.6,
         "proximo": false
       },
       {
@@ -291,56 +260,6 @@
         "peso_real_kg": 8891.91,
         "frete_rs": 9564.65,
         "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044557-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 32960.1,
-        "frete_rs": 17292.5,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 12:58:28",
-          "lat": -23.4704208,
-          "lon": -46.4621024
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044558-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 9265.04,
-        "frete_rs": 11529.25,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044559-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12837.9,
-        "frete_rs": 8810.16,
-        "grupo_origem": "Rio do Sul",
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
@@ -367,11 +286,6 @@
         "frete_rs": 27375.760000000002,
         "qtde": 3
       },
-      "Rio do Sul": {
-        "peso_kg": 55063.04,
-        "frete_rs": 37631.91,
-        "qtde": 3
-      },
       "Timbó": {
         "peso_kg": 8809.36,
         "frete_rs": 11429.2,
@@ -394,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.94 km de POSTOS GALO ARIRIÚ - PALHOCA/SC",
-          "data_hora_posicao": "24/11/2026 12:56:57",
+          "data_hora_posicao": "24/11/2026 13:14:36",
           "lat": -27.6744165,
           "lon": -48.6978763
         },
@@ -424,10 +338,10 @@
         "frete_rs": 1633.9,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO RUSSI - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "24/11/2026 12:13:18",
-          "lat": -27.38232,
-          "lon": -51.2396266666667
+          "referencia": "0.05 km de POSTO RUSSI - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "24/11/2026 13:13:21",
+          "lat": -27.3828266666667,
+          "lon": -51.2398933333333
         },
         "distancia_km": null,
         "proximo": false
@@ -455,10 +369,10 @@
         "frete_rs": 2147.73,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 12:59:41",
-          "lat": -29.14867,
-          "lon": -51.1875233333333
+          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 13:14:49",
+          "lat": -29.1480966666667,
+          "lon": -51.1647216666667
         },
         "distancia_km": null,
         "proximo": false
@@ -486,12 +400,12 @@
         "frete_rs": 2274.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.42 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "24/11/2026 12:59:41",
-          "lat": -29.14867,
-          "lon": -51.1875233333333
+          "referencia": "0.2 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "24/11/2026 13:14:49",
+          "lat": -29.1480966666667,
+          "lon": -51.1647216666667
         },
-        "distancia_km": 92.8,
+        "distancia_km": 92.9,
         "proximo": false
       }
     ],
@@ -503,5 +417,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T13:02:34"
+  "_gerado_em": "2026-11-24T13:17:23"
 }
