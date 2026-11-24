@@ -13,10 +13,10 @@
         "frete_rs": 6317.48,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:44:28",
-          "lat": -26.8873312,
-          "lon": -48.7211776
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "23/11/2026 22:58:28",
+          "lat": -26.8873824,
+          "lon": -48.7212608
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 7193.93,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.5 km de POSTO LAMBARI - MIRACATU/SP",
-          "data_hora_posicao": "23/11/2026 22:40:36",
-          "lat": -24.2104048,
-          "lon": -47.3709952
+          "referencia": "1.01 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "23/11/2026 22:58:36",
+          "lat": -24.277248,
+          "lon": -47.4176736
         },
-        "distancia_km": 403.8,
+        "distancia_km": 395.0,
         "proximo": false
       },
       {
@@ -57,6 +57,26 @@
         "proximo": false
       },
       {
+        "manif": "GRU074992-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 10432.47,
+        "frete_rs": 11708.09,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:58:48",
+          "lat": -23.4704576,
+          "lon": -46.4620768
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
         "manif": "POA016289-2",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -69,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:43:37",
+          "data_hora_posicao": "23/11/2026 22:59:37",
           "lat": -29.9836416,
           "lon": -51.1869216
         },
@@ -84,9 +104,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 23621.75,
-        "frete_rs": 23726.2,
-        "qtde": 2
+        "peso_kg": 34054.22,
+        "frete_rs": 35434.29,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 4043.05,
@@ -109,12 +129,12 @@
         "frete_rs": 6691.9,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de DELEGACIA GERAL DE POLÍCIA - CAJATI/SP",
-          "data_hora_posicao": "23/11/2026 22:43:46",
-          "lat": -24.7307408,
-          "lon": -48.1084704
+          "referencia": "1.16 km de POSTO IPIRANGA MENEGUETTI - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "23/11/2026 22:59:46",
+          "lat": -24.6401456,
+          "lon": -47.9140096
         },
-        "distancia_km": 218.1,
+        "distancia_km": 196.6,
         "proximo": false
       },
       {
@@ -130,7 +150,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:44:11",
+          "data_hora_posicao": "23/11/2026 23:00:11",
           "lat": -26.887376,
           "lon": -48.7211264
         },
@@ -150,7 +170,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "23/11/2026 22:44:11",
+          "data_hora_posicao": "23/11/2026 23:00:11",
           "lat": -26.887376,
           "lon": -48.7211264
         },
@@ -169,12 +189,12 @@
         "frete_rs": 17292.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "23/11/2026 22:44:28",
-          "lat": -26.1136912,
-          "lon": -48.875888
+          "referencia": "0.23 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "23/11/2026 22:59:49",
+          "lat": -25.9730208,
+          "lon": -48.8905312
         },
-        "distancia_km": 381.7,
+        "distancia_km": 370.9,
         "proximo": false
       },
       {
@@ -260,10 +280,10 @@
         "frete_rs": 576.83,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:43:23",
-          "lat": -29.9834112,
-          "lon": -51.1866688
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 22:59:23",
+          "lat": -29.9834144,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -280,12 +300,12 @@
         "frete_rs": 10238.42,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.97 km de CONCESSIONARIA MERCEDES BENZ - ARARANGUA/SC",
-          "data_hora_posicao": "23/11/2026 22:45:05",
-          "lat": -28.9225952,
-          "lon": -49.498048
+          "referencia": "1.2 km de POSTO MAG (REDE FURNAS) - ARARANGUA/SC",
+          "data_hora_posicao": "23/11/2026 22:59:05",
+          "lat": -29.0331904,
+          "lon": -49.6065472
         },
-        "distancia_km": 201.6,
+        "distancia_km": 185.9,
         "proximo": false
       },
       {
@@ -300,10 +320,10 @@
         "frete_rs": 3124.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:43:23",
-          "lat": -29.9834112,
-          "lon": -51.1866688
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 22:59:23",
+          "lat": -29.9834144,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -320,10 +340,10 @@
         "frete_rs": 859.98,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:43:23",
-          "lat": -29.9834112,
-          "lon": -51.1866688
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "23/11/2026 22:59:23",
+          "lat": -29.9834144,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -361,12 +381,12 @@
         "frete_rs": 7133.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.43 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "23/11/2026 22:41:36",
-          "lat": -23.9968366666667,
-          "lon": -47.1487683333333
+          "referencia": "0.79 km de POSTO SERRAS 90 - MIRACATU/SP",
+          "data_hora_posicao": "23/11/2026 22:47:55",
+          "lat": -24.0442066666667,
+          "lon": -47.1934583333333
         },
-        "distancia_km": 358.1,
+        "distancia_km": 351.4,
         "proximo": false
       },
       {
@@ -396,13 +416,13 @@
         "frete_rs": 3918.69,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "23/11/2026 22:45:06",
-          "lat": -26.8661056,
-          "lon": -49.0323776
+          "referencia": "0.09 km de POSTO COLONIAL GASOLINA - ILHOTA/SC",
+          "data_hora_posicao": "23/11/2026 22:59:06",
+          "lat": -26.8916544,
+          "lon": -48.8860736
         },
-        "distancia_km": 31.0,
-        "proximo": false
+        "distancia_km": 16.4,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -432,12 +452,12 @@
         "frete_rs": 6833.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "23/11/2026 22:45:15",
-          "lat": -23.470928,
-          "lon": -46.4621952
+          "referencia": "0.2 km de PACAEMBU AUTOPEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:59:49",
+          "lat": -23.4594624,
+          "lon": -46.4707232
         },
-        "distancia_km": 366.7,
+        "distancia_km": 366.8,
         "proximo": false
       },
       {
@@ -452,12 +472,12 @@
         "frete_rs": 4634.66,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de SEGALAS ALIMENTOS LTDA - GASPAR/SC",
-          "data_hora_posicao": "23/11/2026 22:45:06",
-          "lat": -26.8661056,
-          "lon": -49.0323776
+          "referencia": "0.09 km de POSTO COLONIAL GASOLINA - ILHOTA/SC",
+          "data_hora_posicao": "23/11/2026 22:59:06",
+          "lat": -26.8916544,
+          "lon": -48.8860736
         },
-        "distancia_km": 151.1,
+        "distancia_km": 157.1,
         "proximo": false
       },
       {
@@ -510,13 +530,84 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "GRU074993-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1132.2,
+        "frete_rs": 1374.45,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:58:48",
+          "lat": -23.4704576,
+          "lon": -46.4620768
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 2702.78,
-        "frete_rs": 6962.78,
-        "qtde": 1
+        "peso_kg": 3834.9800000000005,
+        "frete_rs": 8337.23,
+        "qtde": 2
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU074994-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 967.7,
+        "frete_rs": 2851.2,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:59:19",
+          "lat": -23.4707916666667,
+          "lon": -46.4621733333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU074995-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 100.0,
+        "frete_rs": 332.07,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "23/11/2026 22:59:19",
+          "lat": -23.4707916666667,
+          "lon": -46.4621733333333
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 1067.7,
+        "frete_rs": 3183.27,
+        "qtde": 2
       }
     }
   },
@@ -535,7 +626,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "23/11/2026 22:43:37",
+          "data_hora_posicao": "23/11/2026 22:59:37",
           "lat": -29.9836416,
           "lon": -51.1869216
         },
@@ -551,5 +642,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-23T22:47:20"
+  "_gerado_em": "2026-11-23T23:02:26"
 }
