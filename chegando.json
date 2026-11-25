@@ -14,7 +14,27 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 15:26:50",
+          "data_hora_posicao": "25/11/2026 15:42:50",
+          "lat": -28.4687273,
+          "lon": -49.0189063
+        },
+        "distancia_km": 178.3,
+        "proximo": false
+      },
+      {
+        "manif": "TUB000409-0",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 2433.45,
+        "frete_rs": 3607.1,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "25/11/2026 15:42:50",
           "lat": -28.4687273,
           "lon": -49.0189063
         },
@@ -26,6 +46,11 @@
       "CRC": {
         "peso_kg": 4848.08,
         "frete_rs": 5536.28,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 2433.45,
+        "frete_rs": 3607.1,
         "qtde": 1
       }
     }
@@ -45,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:29:23",
-          "lat": -27.8238272,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 15:43:23",
+          "lat": -27.8238368,
+          "lon": -50.3629376
         },
         "distancia_km": null,
         "proximo": false
@@ -65,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:29:23",
-          "lat": -27.8238272,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 15:43:23",
+          "lat": -27.8238368,
+          "lon": -50.3629376
         },
         "distancia_km": null,
         "proximo": false
@@ -101,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:29:23",
-          "lat": -27.8238272,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 15:43:23",
+          "lat": -27.8238368,
+          "lon": -50.3629376
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -120,12 +145,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:28:22",
-          "lat": -23.4705933333333,
-          "lon": -46.4621383333333
+          "referencia": "0.13 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:43:05",
+          "lat": -23.4789683333333,
+          "lon": -46.4668233333333
         },
-        "distancia_km": 524.5,
+        "distancia_km": 523.5,
         "proximo": false
       },
       {
@@ -141,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:29:23",
-          "lat": -27.8238272,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 15:43:23",
+          "lat": -27.8238368,
+          "lon": -50.3629376
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -233,82 +258,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024207-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 10738.4,
-        "frete_rs": 14776.27,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:28:30",
-          "lat": -23.4706288,
-          "lon": -46.4622272
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024208-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 2529.18,
-        "frete_rs": 3102.12,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:28:30",
-          "lat": -23.4706288,
-          "lon": -46.4622272
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044583-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 15394.3,
-        "frete_rs": 8411.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:28:30",
-          "lat": -23.4706288,
-          "lon": -46.4622272
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 13267.58,
-        "frete_rs": 17878.39,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 15394.3,
-        "frete_rs": 8411.22,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -323,12 +272,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.1 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATRIZ E CD) - FARROUPILHA/RS",
-          "data_hora_posicao": "25/11/2026 15:28:32",
-          "lat": -29.2191904,
-          "lon": -51.3269728
+          "referencia": "3.64 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "25/11/2026 15:44:39",
+          "lat": -29.298928,
+          "lon": -51.3362976
         },
-        "distancia_km": 86.0,
+        "distancia_km": 77.5,
         "proximo": false
       }
     ],
@@ -340,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T15:32:36"
+  "_gerado_em": "2026-11-25T15:47:35"
 }
