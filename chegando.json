@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTO SIM IMBITUBA FERJU - IMBITUBA/SC",
-          "data_hora_posicao": "25/11/2026 17:14:45",
-          "lat": -28.2054336,
-          "lon": -48.6985065
+          "referencia": "1.27 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 17:29:53",
+          "lat": -28.0304375,
+          "lon": -48.7057733
         },
-        "distancia_km": 146.6,
+        "distancia_km": 127.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.15 km de POSTO SIM IMBITUBA FERJU - IMBITUBA/SC",
-          "data_hora_posicao": "25/11/2026 17:14:45",
-          "lat": -28.2054336,
-          "lon": -48.6985065
+          "referencia": "1.27 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 17:29:53",
+          "lat": -28.0304375,
+          "lon": -48.7057733
         },
-        "distancia_km": 146.6,
+        "distancia_km": 127.1,
         "proximo": false
       }
     ],
@@ -51,62 +51,6 @@
       "TUB": {
         "peso_kg": 2433.45,
         "frete_rs": 3607.1,
-        "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002253-5",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 479.92,
-        "frete_rs": 802.76,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:13:23",
-          "lat": -27.8238464,
-          "lon": -50.3627936
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016298-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 208.0,
-        "frete_rs": 252.37,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:13:23",
-          "lat": -27.8238464,
-          "lon": -50.3627936
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 479.92,
-        "frete_rs": 802.76,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 208.0,
-        "frete_rs": 252.37,
         "qtde": 1
       }
     }
@@ -126,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:13:23",
-          "lat": -27.8238464,
-          "lon": -50.3627936
+          "data_hora_posicao": "25/11/2026 17:29:23",
+          "lat": -27.8237856,
+          "lon": -50.3629408
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +89,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO CANCUN - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "25/11/2026 17:14:46",
-          "lat": -23.64228,
-          "lon": -46.8379733333333
+          "referencia": "0.16 km de GIOVANELLA TRANSPORTES EMBU - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "25/11/2026 17:28:46",
+          "lat": -23.6655016666667,
+          "lon": -46.8546033333333
         },
-        "distancia_km": 486.5,
+        "distancia_km": 483.5,
         "proximo": false
       },
       {
@@ -166,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:13:23",
-          "lat": -27.8238464,
-          "lon": -50.3627936
+          "data_hora_posicao": "25/11/2026 17:29:23",
+          "lat": -27.8237856,
+          "lon": -50.3629408
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -238,6 +182,26 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044611-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RXU6I96",
+        "motorista": "JOSE GUILHERME DE SOUZA",
+        "peso_real_kg": 808.0,
+        "frete_rs": 0.03,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.63 km de POSTO RUSSI CENTRO - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 17:28:49",
+          "lat": -27.2237056,
+          "lon": -49.6128
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -252,9 +216,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 3763.08,
-        "frete_rs": 4135.01,
-        "qtde": 1
+        "peso_kg": 4571.08,
+        "frete_rs": 4135.04,
+        "qtde": 2
       }
     }
   },
@@ -272,10 +236,10 @@
         "frete_rs": 6575.37,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de PATIO PASETTO - ITAJAI - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 17:15:10",
-          "lat": -26.9056158,
-          "lon": -48.7149811
+          "referencia": "2.54 km de BOMI  ITAJAI SC - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 17:28:31",
+          "lat": -26.9628458,
+          "lon": -48.7748498
         },
         "distancia_km": null,
         "proximo": false
@@ -303,12 +267,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.35 km de TRANSPORTES SILVEIRA GOMES LTDA - CANOAS/RS",
-          "data_hora_posicao": "25/11/2026 17:14:32",
-          "lat": -29.9455328,
-          "lon": -51.20448
+          "referencia": "0.07 km de CHIES PRODUTOS LTDA - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 17:29:46",
+          "lat": -29.9777216,
+          "lon": -51.1882656
         },
-        "distancia_km": 4.5,
+        "distancia_km": 0.6,
         "proximo": true
       }
     ],
@@ -320,5 +284,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T17:17:26"
+  "_gerado_em": "2026-11-25T17:32:27"
 }
