@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 00:13:06",
+          "data_hora_posicao": "25/11/2026 00:29:06",
           "lat": -26.8873664,
           "lon": -48.721184
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de POLICIA MILITAR - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 00:14:09",
-          "lat": -24.7320976,
-          "lon": -48.11136
+          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "25/11/2026 00:29:37",
+          "lat": -24.7796192,
+          "lon": -48.1863904
         },
-        "distancia_km": 315.1,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -69,11 +69,31 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 00:13:05",
+          "data_hora_posicao": "25/11/2026 00:29:05",
           "lat": -23.4704688,
           "lon": -46.4616192
         },
         "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024204-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 1287.83,
+        "frete_rs": 1727.05,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 00:29:06",
+          "lat": -26.8873664,
+          "lon": -48.721184
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -88,10 +108,10 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 00:13:23",
-          "lat": -29.9833824,
-          "lon": -51.1868928
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 00:29:23",
+          "lat": -29.983392,
+          "lon": -51.1868544
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -107,6 +127,11 @@
         "peso_kg": 17206.370000000003,
         "frete_rs": 25435.65,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 1287.83,
+        "frete_rs": 1727.05,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 1155.51,
@@ -130,7 +155,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 00:13:15",
+          "data_hora_posicao": "25/11/2026 00:29:15",
           "lat": -24.7858624,
           "lon": -48.1749408
         },
@@ -150,7 +175,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 00:14:07",
+          "data_hora_posicao": "25/11/2026 00:30:07",
           "lat": -26.8873766666667,
           "lon": -48.7211433333333
         },
@@ -169,10 +194,10 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 00:14:30",
-          "lat": -26.8876448,
-          "lon": -48.7207712
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 00:29:04",
+          "lat": -26.8876544,
+          "lon": -48.7206688
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -260,12 +285,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.99 km de DO VALE PNEUS E RECAPAGEM - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 00:13:56",
-          "lat": -24.3183296,
-          "lon": -47.5306176
+          "referencia": "0.38 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
+          "data_hora_posicao": "25/11/2026 00:29:56",
+          "lat": -24.378176,
+          "lon": -47.7111936
         },
-        "distancia_km": 309.6,
+        "distancia_km": 296.8,
         "proximo": false
       },
       {
@@ -280,12 +305,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de BORRACHARIA HG - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 00:14:28",
-          "lat": -24.3244368,
-          "lon": -47.5537824
+          "referencia": "0.25 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
+          "data_hora_posicao": "25/11/2026 00:28:28",
+          "lat": -24.3774688,
+          "lon": -47.7101888
         },
-        "distancia_km": 308.1,
+        "distancia_km": 296.9,
         "proximo": false
       },
       {
@@ -316,32 +341,12 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 00:15:05",
+          "data_hora_posicao": "25/11/2026 00:29:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
         "distancia_km": 420.3,
         "proximo": false
-      },
-      {
-        "manif": "RSL044585-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 6819.53,
-        "frete_rs": 3442.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.36 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 00:14:37",
-          "lat": -26.8560736,
-          "lon": -48.7273824
-        },
-        "distancia_km": 3.5,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -353,11 +358,6 @@
       "Porto Alegre": {
         "peso_kg": 2.0,
         "frete_rs": 218.21,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 6819.53,
-        "frete_rs": 3442.32,
         "qtde": 1
       }
     }
@@ -391,10 +391,10 @@
         "frete_rs": 7864.03,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.19 km de POSTO SHELL - ITUPEVA - ITUPEVA/SP",
-          "data_hora_posicao": "25/11/2026 00:15:05",
-          "lat": -23.0956633333333,
-          "lon": -47.0159766666667
+          "referencia": "1.15 km de POSTO SANTOS DUMONT - CAMPINAS/SP",
+          "data_hora_posicao": "25/11/2026 00:28:57",
+          "lat": -22.9728983333333,
+          "lon": -47.1148783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -411,10 +411,10 @@
         "frete_rs": 5129.9,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.19 km de POSTO SHELL - ITUPEVA - ITUPEVA/SP",
-          "data_hora_posicao": "25/11/2026 00:15:05",
-          "lat": -23.0956633333333,
-          "lon": -47.0159766666667
+          "referencia": "1.15 km de POSTO SANTOS DUMONT - CAMPINAS/SP",
+          "data_hora_posicao": "25/11/2026 00:28:57",
+          "lat": -22.9728983333333,
+          "lon": -47.1148783333333
         },
         "distancia_km": null,
         "proximo": false
@@ -442,12 +442,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de BORRACHARIA HG - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 00:14:28",
-          "lat": -24.3244368,
-          "lon": -47.5537824
+          "referencia": "0.25 km de RESTAURANTE TEMPERO DO VALE - JUQUIA/SP",
+          "data_hora_posicao": "25/11/2026 00:28:28",
+          "lat": -24.3774688,
+          "lon": -47.7101888
         },
-        "distancia_km": 724.5,
+        "distancia_km": 711.8,
         "proximo": false
       },
       {
@@ -463,7 +463,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 00:14:59",
+          "data_hora_posicao": "25/11/2026 00:28:59",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -498,12 +498,12 @@
         "frete_rs": 5242.6,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.1 km de ESTACIONAMENTO E RESTAURANTE DIONISIO 88 - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 00:13:46",
-          "lat": -24.0116832,
-          "lon": -47.1660768
+          "referencia": "7.83 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 00:27:50",
+          "lat": -24.102912,
+          "lon": -47.259648
         },
-        "distancia_km": 273.2,
+        "distancia_km": 259.4,
         "proximo": false
       },
       {
@@ -519,7 +519,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 00:13:05",
+          "data_hora_posicao": "25/11/2026 00:29:05",
           "lat": -23.4704688,
           "lon": -46.4616192
         },
@@ -538,12 +538,12 @@
         "frete_rs": 7266.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de TAGLOG - ITAJAI/SC. - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 00:14:37",
-          "lat": -26.8560736,
-          "lon": -48.7273824
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 00:28:37",
+          "lat": -26.8876768,
+          "lon": -48.7206304
         },
-        "distancia_km": 158.2,
+        "distancia_km": 161.7,
         "proximo": false
       }
     ],
@@ -600,10 +600,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 00:13:23",
-          "lat": -29.9833824,
-          "lon": -51.1868928
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 00:29:23",
+          "lat": -29.983392,
+          "lon": -51.1868544
         },
         "distancia_km": null,
         "proximo": false
@@ -617,5 +617,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T00:17:29"
+  "_gerado_em": "2026-11-25T00:32:32"
 }
