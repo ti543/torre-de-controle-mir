@@ -28,12 +28,12 @@
         "frete_rs": 3612.94,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.13 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 20:43:06",
-          "lat": -25.8458448,
-          "lon": -49.0870144
+          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:00:09",
+          "lat": -25.866672,
+          "lon": -48.9471296
         },
-        "distancia_km": 121.4,
+        "distancia_km": 115.7,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 329.75,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.13 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 20:43:06",
-          "lat": -25.8458448,
-          "lon": -49.0870144
+          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:00:09",
+          "lat": -25.866672,
+          "lon": -48.9471296
         },
-        "distancia_km": 121.4,
+        "distancia_km": 115.7,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.56 km de PEDAGIO - P7 (PISTA INTERNA) - RIBEIRAO PIRES/SP",
-          "data_hora_posicao": "24/11/2026 20:43:56",
-          "lat": -23.7096352,
-          "lon": -46.4610784
+          "referencia": "1 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "24/11/2026 20:59:56",
+          "lat": -23.7803648,
+          "lon": -46.6224096
         },
-        "distancia_km": 420.1,
+        "distancia_km": 404.8,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 20:44:50",
-          "lat": -23.4722704,
-          "lon": -46.4622368
+          "referencia": "0.34 km de QUANTIQ DISTRIBUIDORA LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 21:00:28",
+          "lat": -23.41736,
+          "lon": -46.3757024
         },
-        "distancia_km": 442.6,
+        "distancia_km": 452.3,
         "proximo": false
       },
       {
@@ -109,32 +109,12 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:45:05",
+          "data_hora_posicao": "24/11/2026 20:59:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
         "distancia_km": 420.3,
         "proximo": false
-      },
-      {
-        "manif": "RSL044582-7",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 309.96,
-        "frete_rs": 253.4,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.21 km de KOWALSKY - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 20:44:30",
-          "lat": -26.8739744,
-          "lon": -48.7280928
-        },
-        "distancia_km": 1.7,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -157,11 +137,6 @@
         "peso_kg": 2.0,
         "frete_rs": 218.21,
         "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 309.96,
-        "frete_rs": 253.4,
-        "qtde": 1
       }
     }
   },
@@ -179,12 +154,12 @@
         "frete_rs": 3182.35,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.08 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 20:43:00",
-          "lat": -23.4261283333333,
-          "lon": -46.5734383333333
+          "referencia": "0.46 km de AMBIPAR - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 20:59:48",
+          "lat": -23.4619433333333,
+          "lon": -46.4902983333333
         },
-        "distancia_km": 12.4,
+        "distancia_km": 3.0,
         "proximo": true
       },
       {
@@ -200,9 +175,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 20:43:15",
-          "lat": -25.350488,
-          "lon": -49.0600864
+          "data_hora_posicao": "24/11/2026 20:59:33",
+          "lat": -25.3504416,
+          "lon": -49.0601728
         },
         "distancia_km": 336.0,
         "proximo": false
@@ -220,7 +195,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 20:44:51",
+          "data_hora_posicao": "24/11/2026 21:00:03",
           "lat": -26.8873966666667,
           "lon": -48.7211516666667
         },
@@ -239,12 +214,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de KOWALSKY - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 20:44:30",
-          "lat": -26.8739744,
-          "lon": -48.7280928
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 21:00:30",
+          "lat": -26.8876288,
+          "lon": -48.7206368
         },
-        "distancia_km": 441.8,
+        "distancia_km": 442.7,
         "proximo": false
       }
     ],
@@ -285,12 +260,12 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.13 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 20:43:06",
-          "lat": -25.8458448,
-          "lon": -49.0870144
+          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:00:09",
+          "lat": -25.866672,
+          "lon": -48.9471296
         },
-        "distancia_km": 161.3,
+        "distancia_km": 164.5,
         "proximo": false
       },
       {
@@ -306,7 +281,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 20:44:32",
+          "data_hora_posicao": "24/11/2026 20:58:32",
           "lat": -27.2059104,
           "lon": -49.6489824
         },
@@ -325,12 +300,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 20:44:09",
-          "lat": -23.7269856,
-          "lon": -46.8072704
+          "referencia": "1.85 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 21:00:09",
+          "lat": -23.6782096,
+          "lon": -46.8217056
         },
-        "distancia_km": 480.7,
+        "distancia_km": 484.2,
         "proximo": false
       },
       {
@@ -345,10 +320,10 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:43:23",
-          "lat": -29.983392,
-          "lon": -51.186848
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 20:59:23",
+          "lat": -29.9833696,
+          "lon": -51.1868352
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -412,12 +387,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 20:44:50",
-          "lat": -23.4722704,
-          "lon": -46.4622368
+          "referencia": "0.34 km de QUANTIQ DISTRIBUIDORA LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 21:00:28",
+          "lat": -23.41736,
+          "lon": -46.3757024
         },
-        "distancia_km": 862.5,
+        "distancia_km": 872.3,
         "proximo": false
       },
       {
@@ -433,7 +408,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:45:02",
+          "data_hora_posicao": "24/11/2026 20:59:02",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -468,10 +443,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:43:23",
-          "lat": -29.983392,
-          "lon": -51.186848
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 20:59:23",
+          "lat": -29.9833696,
+          "lon": -51.1868352
         },
         "distancia_km": null,
         "proximo": false
@@ -485,5 +460,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T20:47:27"
+  "_gerado_em": "2026-11-24T21:02:32"
 }
