@@ -13,12 +13,52 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO CAMBIRELA - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 17:59:59",
-          "lat": -27.7163715,
-          "lon": -48.648286
+          "referencia": "2.3 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 18:13:22",
+          "lat": -27.6324851,
+          "lon": -48.7004786
         },
-        "distancia_km": 92.4,
+        "distancia_km": 82.9,
+        "proximo": false
+      },
+      {
+        "manif": "POA016304-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1380.22,
+        "frete_rs": 2983.62,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 18:13:46",
+          "lat": -29.9841133333333,
+          "lon": -51.1867083333333
+        },
+        "distancia_km": 420.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044613-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 1336.19,
+        "frete_rs": 1713.03,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 18:15:06",
+          "lat": -27.2060288,
+          "lon": -49.6493344
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -33,12 +73,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO CAMBIRELA - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 17:59:59",
-          "lat": -27.7163715,
-          "lon": -48.648286
+          "referencia": "2.3 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 18:13:22",
+          "lat": -27.6324851,
+          "lon": -48.7004786
         },
-        "distancia_km": 92.4,
+        "distancia_km": 82.9,
         "proximo": false
       }
     ],
@@ -46,6 +86,16 @@
       "CRC": {
         "peso_kg": 4848.08,
         "frete_rs": 5536.28,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 1380.22,
+        "frete_rs": 2983.62,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 1336.19,
+        "frete_rs": 1713.03,
         "qtde": 1
       },
       "TUB": {
@@ -69,12 +119,12 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:59:23",
-          "lat": -27.8237984,
-          "lon": -50.3627936
+          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 18:14:51",
+          "lat": -27.8187872,
+          "lon": -50.3623616
         },
-        "distancia_km": 98.3,
+        "distancia_km": 97.9,
         "proximo": false
       },
       {
@@ -89,12 +139,32 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "25/11/2026 17:58:19",
-          "lat": -23.89816,
-          "lon": -46.9874833333333
+          "referencia": "2.24 km de POSTO 71 - JUQUITIBA/SP",
+          "data_hora_posicao": "25/11/2026 18:10:34",
+          "lat": -23.94128,
+          "lon": -47.092
         },
-        "distancia_km": 454.5,
+        "distancia_km": 444.5,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001617-9",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 4509.0,
+        "frete_rs": 4880.59,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 18:14:51",
+          "lat": -27.8187872,
+          "lon": -50.3623616
+        },
+        "distancia_km": 97.9,
         "proximo": false
       },
       {
@@ -109,20 +179,20 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:59:23",
-          "lat": -27.8237984,
-          "lon": -50.3627936
+          "referencia": "0.22 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 18:14:51",
+          "lat": -27.8187872,
+          "lon": -50.3623616
         },
-        "distancia_km": 98.3,
+        "distancia_km": 97.9,
         "proximo": false
       }
     ],
     "por_origem": {
       "Caxias do Sul / Lages": {
-        "peso_kg": 3558.77,
-        "frete_rs": 7800.87,
-        "qtde": 1
+        "peso_kg": 8067.77,
+        "frete_rs": 12681.46,
+        "qtde": 2
       },
       "Guarulhos": {
         "peso_kg": 4651.8,
@@ -196,9 +266,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 17:55:48",
-          "lat": -27.206129,
-          "lon": -49.6491596
+          "data_hora_posicao": "25/11/2026 18:12:55",
+          "lat": -27.2060365,
+          "lon": -49.6495081
         },
         "distancia_km": null,
         "proximo": false
@@ -225,33 +295,124 @@
   "POA": {
     "veiculos": [
       {
-        "manif": "RSL044590-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
+        "manif": "ITJ024214-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
         "dest_unit": "POA",
         "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 2542.71,
-        "frete_rs": 3175.07,
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 10250.39,
+        "frete_rs": 15625.84,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 18:15:05",
+          "lat": -26.8873984,
+          "lon": -48.7212064
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024216-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 56.7,
+        "frete_rs": 456.25,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 18:15:05",
+          "lat": -26.8873984,
+          "lon": -48.7212064
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024218-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 191.6,
+        "frete_rs": 710.4,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 18:15:05",
+          "lat": -26.8873984,
+          "lon": -48.7212064
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024219-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 1824.0,
+        "frete_rs": 1434.17,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 18:15:05",
+          "lat": -26.8873984,
+          "lon": -48.7212064
+        },
+        "distancia_km": 420.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 12322.69,
+        "frete_rs": 18226.660000000003,
+        "qtde": 4
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044612-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 16696.5,
+        "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 17:58:32",
-          "lat": -29.983392,
-          "lon": -51.1866528
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 18:15:06",
+          "lat": -27.2060288,
+          "lon": -49.6493344
         },
-        "distancia_km": 0.0,
-        "proximo": true
+        "distancia_km": 524.5,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Rio do Sul": {
-        "peso_kg": 2542.71,
-        "frete_rs": 3175.07,
+        "peso_kg": 16696.5,
+        "frete_rs": 9344.22,
         "qtde": 1
       }
     }
   },
-  "_gerado_em": "2026-11-25T18:02:25"
+  "_gerado_em": "2026-11-25T18:17:29"
 }
