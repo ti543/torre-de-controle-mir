@@ -2,21 +2,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "BRQ000770-6",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "OKD7820",
-        "motorista": "DANIEL BANHOLINE",
-        "peso_real_kg": 6369.5,
-        "frete_rs": 8331.68,
-        "grupo_origem": "Brusque",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
         "manif": "CTB013660-3",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -28,12 +13,12 @@
         "frete_rs": 3612.94,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:13:06",
-          "lat": -25.9597568,
-          "lon": -48.9006848
+          "referencia": "1.63 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "24/11/2026 21:29:06",
+          "lat": -26.1133168,
+          "lon": -48.8757408
         },
-        "distancia_km": 104.7,
+        "distancia_km": 87.4,
         "proximo": false
       },
       {
@@ -48,12 +33,12 @@
         "frete_rs": 329.75,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:13:06",
-          "lat": -25.9597568,
-          "lon": -48.9006848
+          "referencia": "1.63 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "24/11/2026 21:29:06",
+          "lat": -26.1133168,
+          "lon": -48.8757408
         },
-        "distancia_km": 104.7,
+        "distancia_km": 87.4,
         "proximo": false
       },
       {
@@ -68,12 +53,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.43 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 21:13:56",
-          "lat": -23.7686096,
-          "lon": -46.7661184
+          "referencia": "1.82 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 21:30:07",
+          "lat": -23.7397568,
+          "lon": -46.8133888
         },
-        "distancia_km": 398.6,
+        "distancia_km": 399.1,
         "proximo": false
       },
       {
@@ -88,12 +73,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.3 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
-          "data_hora_posicao": "24/11/2026 21:14:28",
-          "lat": -23.5387872,
-          "lon": -46.3342336
+          "referencia": "1.64 km de SWB INDUSTRIA MECANICA E AUTOMACAO INDUSTRIAL LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "24/11/2026 21:29:57",
+          "lat": -23.6932656,
+          "lon": -46.412816
         },
-        "distancia_km": 443.0,
+        "distancia_km": 424.2,
         "proximo": false
       },
       {
@@ -109,7 +94,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:15:05",
+          "data_hora_posicao": "24/11/2026 21:29:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
@@ -118,11 +103,6 @@
       }
     ],
     "por_origem": {
-      "Brusque": {
-        "peso_kg": 6369.5,
-        "frete_rs": 8331.68,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 4034.4900000000002,
         "frete_rs": 3942.69,
@@ -154,12 +134,12 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:13:06",
-          "lat": -25.9597568,
-          "lon": -48.9006848
+          "referencia": "1.63 km de BALANÇA - GARUVA/SC",
+          "data_hora_posicao": "24/11/2026 21:29:06",
+          "lat": -26.1133168,
+          "lon": -48.8757408
         },
-        "distancia_km": 157.3,
+        "distancia_km": 143.8,
         "proximo": false
       },
       {
@@ -175,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 21:14:32",
+          "data_hora_posicao": "24/11/2026 21:29:25",
           "lat": -27.2059104,
           "lon": -49.6489824
         },
@@ -194,12 +174,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.08 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "24/11/2026 21:14:09",
-          "lat": -23.6510032,
-          "lon": -46.8290848
+          "referencia": "0.42 km de COLETA MAIS AMIGAS - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "24/11/2026 21:28:43",
+          "lat": -23.6355856,
+          "lon": -46.8300128
         },
-        "distancia_km": 486.3,
+        "distancia_km": 487.6,
         "proximo": false
       },
       {
@@ -214,10 +194,10 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:13:23",
-          "lat": -29.9833728,
-          "lon": -51.1867872
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 21:29:23",
+          "lat": -29.9833984,
+          "lon": -51.1868672
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -255,12 +235,12 @@
         "frete_rs": 7354.81,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO SIM - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 21:15:15",
-          "lat": -25.3517472,
-          "lon": -49.0604768
+          "referencia": "1.39 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 21:29:15",
+          "lat": -25.2697696,
+          "lon": -48.9187456
         },
-        "distancia_km": 336.1,
+        "distancia_km": 319.3,
         "proximo": false
       },
       {
@@ -276,7 +256,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 21:14:03",
+          "data_hora_posicao": "24/11/2026 21:30:03",
           "lat": -26.8873966666667,
           "lon": -48.7211516666667
         },
@@ -295,10 +275,10 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 21:14:30",
-          "lat": -26.8876288,
-          "lon": -48.7206368
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 21:28:30",
+          "lat": -26.8876352,
+          "lon": -48.7206688
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -362,12 +342,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.3 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
-          "data_hora_posicao": "24/11/2026 21:14:28",
-          "lat": -23.5387872,
-          "lon": -46.3342336
+          "referencia": "1.64 km de SWB INDUSTRIA MECANICA E AUTOMACAO INDUSTRIAL LTDA - RIBEIRAO PIRES/SP",
+          "data_hora_posicao": "24/11/2026 21:29:57",
+          "lat": -23.6932656,
+          "lon": -46.412816
         },
-        "distancia_km": 863.2,
+        "distancia_km": 844.5,
         "proximo": false
       },
       {
@@ -383,7 +363,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:15:02",
+          "data_hora_posicao": "24/11/2026 21:29:02",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -418,10 +398,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:13:23",
-          "lat": -29.9833728,
-          "lon": -51.1867872
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 21:29:23",
+          "lat": -29.9833984,
+          "lon": -51.1868672
         },
         "distancia_km": null,
         "proximo": false
@@ -435,5 +415,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T21:17:35"
+  "_gerado_em": "2026-11-24T21:32:41"
 }
