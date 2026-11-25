@@ -13,12 +13,12 @@
         "frete_rs": 3612.94,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.44 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "24/11/2026 21:59:06",
-          "lat": -26.4270624,
-          "lon": -48.827296
+          "referencia": "1.37 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 22:15:06",
+          "lat": -26.5661664,
+          "lon": -48.7197632
         },
-        "distancia_km": 52.3,
+        "distancia_km": 35.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 329.75,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.44 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "24/11/2026 21:59:06",
-          "lat": -26.4270624,
-          "lon": -48.827296
+          "referencia": "1.37 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 22:15:06",
+          "lat": -26.5661664,
+          "lon": -48.7197632
         },
-        "distancia_km": 52.3,
+        "distancia_km": 35.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.85 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "24/11/2026 21:59:56",
-          "lat": -23.6740592,
-          "lon": -46.8239808
+          "referencia": "0.25 km de 36° BATALHÃO DE POLÍCIA MILITAR - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "24/11/2026 22:13:56",
+          "lat": -23.6429024,
+          "lon": -46.8318048
         },
-        "distancia_km": 405.0,
+        "distancia_km": 407.7,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.14 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 21:58:28",
-          "lat": -23.8041424,
-          "lon": -46.7131264
+          "referencia": "1.35 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 22:14:28",
+          "lat": -23.6832592,
+          "lon": -46.819232
         },
-        "distancia_km": 397.8,
+        "distancia_km": 404.3,
         "proximo": false
       },
       {
@@ -94,11 +94,31 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:59:05",
+          "data_hora_posicao": "24/11/2026 22:15:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
         "distancia_km": 420.3,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044585-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 6819.53,
+        "frete_rs": 3442.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.52 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 22:14:37",
+          "lat": -27.2053472,
+          "lon": -49.64336
+        },
+        "distancia_km": 97.9,
         "proximo": false
       }
     ],
@@ -117,6 +137,11 @@
         "peso_kg": 2.0,
         "frete_rs": 218.21,
         "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 6819.53,
+        "frete_rs": 3442.32,
+        "qtde": 1
       }
     }
   },
@@ -134,12 +159,12 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.44 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "24/11/2026 21:59:06",
-          "lat": -26.4270624,
-          "lon": -48.827296
+          "referencia": "1.37 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "24/11/2026 22:15:06",
+          "lat": -26.5661664,
+          "lon": -48.7197632
         },
-        "distancia_km": 119.0,
+        "distancia_km": 116.5,
         "proximo": false
       },
       {
@@ -155,7 +180,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 21:58:32",
+          "data_hora_posicao": "24/11/2026 22:14:32",
           "lat": -27.2061088,
           "lon": -49.6493824
         },
@@ -174,12 +199,47 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de AUTO PECAS KLEBER 50 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 21:59:56",
-          "lat": -23.8429184,
-          "lon": -46.9327392
+          "referencia": "1.16 km de POLICIA MILITAR - JUQUITIBA/SP",
+          "data_hora_posicao": "24/11/2026 22:14:09",
+          "lat": -23.9402688,
+          "lon": -47.0584096
         },
-        "distancia_km": 462.7,
+        "distancia_km": 446.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075056-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 9005.28,
+        "frete_rs": 13734.96,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075058-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 3774.59,
+        "frete_rs": 5045.31,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 22:15:05",
+          "lat": -23.47048,
+          "lon": -46.462128
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -194,12 +254,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:59:23",
-          "lat": -29.983424,
-          "lon": -51.1868544
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 22:15:23",
+          "lat": -29.983392,
+          "lon": -51.1868768
         },
-        "distancia_km": 343.4,
+        "distancia_km": 343.3,
         "proximo": false
       }
     ],
@@ -210,9 +270,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 14858.97,
-        "frete_rs": 18363.47,
-        "qtde": 2
+        "peso_kg": 27638.84,
+        "frete_rs": 37143.74,
+        "qtde": 4
       },
       "Porto Alegre": {
         "peso_kg": 1155.51,
@@ -235,12 +295,12 @@
         "frete_rs": 7354.81,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.86 km de POSTO ESTRELA DA SERRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 21:59:15",
-          "lat": -25.1008032,
-          "lon": -48.6972992
+          "referencia": "2.28 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 22:13:15",
+          "lat": -25.0470416,
+          "lon": -48.5442368
         },
-        "distancia_km": 290.1,
+        "distancia_km": 274.4,
         "proximo": false
       },
       {
@@ -256,7 +316,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 22:00:05",
+          "data_hora_posicao": "24/11/2026 22:14:11",
           "lat": -26.8873966666667,
           "lon": -48.7211516666667
         },
@@ -276,7 +336,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 21:58:30",
+          "data_hora_posicao": "24/11/2026 22:14:30",
           "lat": -26.8876352,
           "lon": -48.7206688
         },
@@ -342,12 +402,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.14 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "24/11/2026 21:58:28",
-          "lat": -23.8041424,
-          "lon": -46.7131264
+          "referencia": "1.35 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "24/11/2026 22:14:28",
+          "lat": -23.6832592,
+          "lon": -46.819232
         },
-        "distancia_km": 817.7,
+        "distancia_km": 823.5,
         "proximo": false
       },
       {
@@ -363,7 +423,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:58:38",
+          "data_hora_posicao": "24/11/2026 22:14:38",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -399,18 +459,63 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 21:59:46",
+          "data_hora_posicao": "24/11/2026 22:13:50",
           "lat": -23.4709968,
           "lon": -46.4614272
         },
         "distancia_km": 366.8,
         "proximo": false
+      },
+      {
+        "manif": "GRU075057-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 826.5,
+        "frete_rs": 1076.08,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "24/11/2026 22:15:05",
+          "lat": -23.47048,
+          "lon": -46.462128
+        },
+        "distancia_km": 366.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044584-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 12773.48,
+        "frete_rs": 7266.51,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.52 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "24/11/2026 22:14:37",
+          "lat": -27.2053472,
+          "lon": -49.64336
+        },
+        "distancia_km": 189.7,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 3829.9,
-        "frete_rs": 5242.6,
+        "peso_kg": 4656.4,
+        "frete_rs": 6318.68,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 12773.48,
+        "frete_rs": 7266.51,
         "qtde": 1
       }
     }
@@ -429,10 +534,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 21:59:23",
-          "lat": -29.983424,
-          "lon": -51.1868544
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "24/11/2026 22:15:23",
+          "lat": -29.983392,
+          "lon": -51.1868768
         },
         "distancia_km": null,
         "proximo": false
@@ -446,5 +551,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T22:02:32"
+  "_gerado_em": "2026-11-24T22:17:43"
 }
