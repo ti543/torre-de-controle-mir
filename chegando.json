@@ -14,32 +14,12 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.72 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "25/11/2026 20:12:44",
-          "lat": -27.0966213,
-          "lon": -48.9307256
+          "data_hora_posicao": "25/11/2026 20:29:07",
+          "lat": -27.0966131,
+          "lon": -48.9307606
         },
         "distancia_km": 31.2,
         "proximo": false
-      },
-      {
-        "manif": "CRC000401-4",
-        "origin_unit": "CRC",
-        "origin_city": "ICARA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 4848.08,
-        "frete_rs": 5536.28,
-        "grupo_origem": "CRC",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:13:32",
-          "lat": -26.8877563,
-          "lon": -48.7206291
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "CTB013672-7",
@@ -54,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 20:14:37",
+          "data_hora_posicao": "25/11/2026 20:28:37",
           "lat": -25.527744,
           "lon": -49.2954912
         },
@@ -73,12 +53,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 20:14:12",
-          "lat": -23.4706064,
-          "lon": -46.4623872
+          "referencia": "0.44 km de ZARAPLAST SA - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 20:28:12",
+          "lat": -23.4410608,
+          "lon": -46.4402464
         },
-        "distancia_km": 442.7,
+        "distancia_km": 446.7,
         "proximo": false
       },
       {
@@ -93,12 +73,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.8 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "25/11/2026 20:13:38",
-          "lat": -29.520985,
-          "lon": -49.9970883333333
+          "referencia": "2.71 km de POSTO 86 - DOM PEDRO DE ALCANTARA/RS",
+          "data_hora_posicao": "25/11/2026 20:28:26",
+          "lat": -29.4150283333333,
+          "lon": -49.8590783333333
         },
-        "distancia_km": 318.4,
+        "distancia_km": 302.4,
         "proximo": false
       },
       {
@@ -113,44 +93,19 @@
         "frete_rs": 1713.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.77 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 20:13:06",
-          "lat": -26.8757984,
-          "lon": -49.2368992
+          "referencia": "0.73 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:06",
+          "lat": -26.8606176,
+          "lon": -49.079824
         },
-        "distancia_km": 51.2,
+        "distancia_km": 35.7,
         "proximo": false
-      },
-      {
-        "manif": "TUB000409-0",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 2433.45,
-        "frete_rs": 3607.1,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:13:32",
-          "lat": -26.8877563,
-          "lon": -48.7206291
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       }
     ],
     "por_origem": {
       "Brusque": {
         "peso_kg": 8788.25,
         "frete_rs": 8636.33,
-        "qtde": 1
-      },
-      "CRC": {
-        "peso_kg": 4848.08,
-        "frete_rs": 5536.28,
         "qtde": 1
       },
       "Curitiba": {
@@ -172,11 +127,6 @@
         "peso_kg": 1336.19,
         "frete_rs": 1713.03,
         "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 2433.45,
-        "frete_rs": 3607.1,
-        "qtde": 1
       }
     }
   },
@@ -194,12 +144,12 @@
         "frete_rs": 3854.88,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.72 km de POSTO BRASIL - ATIBAIA - ATIBAIA/SP",
-          "data_hora_posicao": "25/11/2026 20:13:25",
-          "lat": -23.101185,
-          "lon": -46.6020483333333
+          "referencia": "0.5 km de CHAPADA PAULISTA RESTAURANTE LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "25/11/2026 20:28:40",
+          "lat": -23.2184,
+          "lon": -46.5953066666667
         },
-        "distancia_km": 43.5,
+        "distancia_km": 31.1,
         "proximo": false
       },
       {
@@ -214,12 +164,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO PINHEIROS SHELL - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 20:14:40",
-          "lat": -25.5236624,
-          "lon": -49.2955392
+          "referencia": "0.53 km de SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO PARANÁ - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 20:29:46",
+          "lat": -25.4507072,
+          "lon": -49.2368512
         },
-        "distancia_km": 366.5,
+        "distancia_km": 356.8,
         "proximo": false
       },
       {
@@ -234,12 +184,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.77 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 20:13:06",
-          "lat": -26.8757984,
-          "lon": -49.2368992
+          "referencia": "0.73 km de R B RECAPAGENS - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:06",
+          "lat": -26.8606176,
+          "lon": -49.079824
         },
-        "distancia_km": 470.4,
+        "distancia_km": 459.9,
         "proximo": false
       }
     ],
@@ -276,7 +226,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 20:14:37",
+          "data_hora_posicao": "25/11/2026 20:28:37",
           "lat": -25.527744,
           "lon": -49.2954912
         },
@@ -295,13 +245,13 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:14:53",
-          "lat": -27.254016,
-          "lon": -49.9489792
+          "referencia": "1.05 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:27:23",
+          "lat": -27.2725664,
+          "lon": -49.8585536
         },
-        "distancia_km": 30.1,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "GRU075106-5",
@@ -315,12 +265,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
-          "data_hora_posicao": "25/11/2026 20:13:44",
-          "lat": -24.47548,
-          "lon": -47.8272666666667
+          "referencia": "0.21 km de POSTO GRAAL BUENOS AIRES - REGISTRO/SP",
+          "data_hora_posicao": "25/11/2026 20:19:44",
+          "lat": -24.5287466666667,
+          "lon": -47.8563166666667
         },
-        "distancia_km": 354.2,
+        "distancia_km": 347.6,
         "proximo": false
       },
       {
@@ -335,13 +285,13 @@
         "frete_rs": 4880.59,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:14:53",
-          "lat": -27.254016,
-          "lon": -49.9489792
+          "referencia": "1.05 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:27:23",
+          "lat": -27.2725664,
+          "lon": -49.8585536
         },
-        "distancia_km": 30.1,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -355,13 +305,13 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:14:53",
-          "lat": -27.254016,
-          "lon": -49.9489792
+          "referencia": "1.05 km de RESTAUTANTE BELO PONTO - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:27:23",
+          "lat": -27.2725664,
+          "lon": -49.8585536
         },
-        "distancia_km": 30.1,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "POA016305-8",
@@ -375,12 +325,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.82 km de POSTO CHARRUA - SAO VENDELINO/RS",
-          "data_hora_posicao": "25/11/2026 20:12:32",
-          "lat": -29.3532928,
-          "lon": -51.3693152
+          "referencia": "0.05 km de POSTO PETROBRAS - FARROUPILHA/RS - FARROUPILHA/RS",
+          "data_hora_posicao": "25/11/2026 20:29:15",
+          "lat": -29.2632384,
+          "lon": -51.340096
         },
-        "distancia_km": 292.2,
+        "distancia_km": 282.4,
         "proximo": false
       }
     ],
@@ -407,6 +357,32 @@
       }
     }
   },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU075108-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 330.65,
+        "frete_rs": 1226.56,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 330.65,
+        "frete_rs": 1226.56,
+        "qtde": 1
+      }
+    }
+  },
   "POA": {
     "veiculos": [
       {
@@ -421,12 +397,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:15:05",
-          "lat": -26.920544,
-          "lon": -48.708752
+          "referencia": "0.03 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:05",
+          "lat": -26.9834784,
+          "lon": -48.6713856
         },
-        "distancia_km": 417.9,
+        "distancia_km": 414.3,
         "proximo": false
       },
       {
@@ -441,12 +417,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:15:05",
-          "lat": -26.920544,
-          "lon": -48.708752
+          "referencia": "0.03 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:05",
+          "lat": -26.9834784,
+          "lon": -48.6713856
         },
-        "distancia_km": 417.9,
+        "distancia_km": 414.3,
         "proximo": false
       },
       {
@@ -461,12 +437,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:15:05",
-          "lat": -26.920544,
-          "lon": -48.708752
+          "referencia": "0.03 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:05",
+          "lat": -26.9834784,
+          "lon": -48.6713856
         },
-        "distancia_km": 417.9,
+        "distancia_km": 414.3,
         "proximo": false
       },
       {
@@ -481,12 +457,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 20:15:05",
-          "lat": -26.920544,
-          "lon": -48.708752
+          "referencia": "0.03 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 06) - CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 20:29:05",
+          "lat": -26.9834784,
+          "lon": -48.6713856
         },
-        "distancia_km": 417.9,
+        "distancia_km": 414.3,
         "proximo": false
       }
     ],
@@ -498,5 +474,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T20:17:27"
+  "_gerado_em": "2026-11-25T20:32:32"
 }
