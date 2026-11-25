@@ -14,9 +14,9 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 16:29:27",
-          "lat": -28.4232936,
-          "lon": -48.7980425
+          "data_hora_posicao": "25/11/2026 16:44:44",
+          "lat": -28.4231186,
+          "lon": -48.797971
         },
         "distancia_km": 170.9,
         "proximo": false
@@ -34,9 +34,9 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 16:29:27",
-          "lat": -28.4232936,
-          "lon": -48.7980425
+          "data_hora_posicao": "25/11/2026 16:44:44",
+          "lat": -28.4231186,
+          "lon": -48.797971
         },
         "distancia_km": 170.9,
         "proximo": false
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:29:23",
-          "lat": -27.8238528,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 16:43:23",
+          "lat": -27.8238432,
+          "lon": -50.36296
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:29:23",
-          "lat": -27.8238528,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 16:43:23",
+          "lat": -27.8238432,
+          "lon": -50.36296
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:29:23",
-          "lat": -27.8238528,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 16:43:23",
+          "lat": -27.8238432,
+          "lon": -50.36296
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +145,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de GT - PRE - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 16:29:44",
-          "lat": -23.5205383333333,
-          "lon": -46.7479433333333
+          "referencia": "0.09 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
+          "data_hora_posicao": "25/11/2026 16:43:20",
+          "lat": -23.511515,
+          "lon": -46.8006066666667
         },
-        "distancia_km": 502.9,
+        "distancia_km": 500.7,
         "proximo": false
       },
       {
@@ -166,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:29:23",
-          "lat": -27.8238528,
-          "lon": -50.3629536
+          "data_hora_posicao": "25/11/2026 16:43:23",
+          "lat": -27.8238432,
+          "lon": -50.36296
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -272,13 +272,13 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.39 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
-          "data_hora_posicao": "25/11/2026 16:28:32",
-          "lat": -29.623808,
-          "lon": -51.313568
+          "referencia": "1.07 km de POSTO PHOENIX - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "25/11/2026 16:44:32",
+          "lat": -29.71504,
+          "lon": -51.1795872
         },
-        "distancia_km": 41.8,
-        "proximo": false
+        "distancia_km": 29.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T16:32:38"
+  "_gerado_em": "2026-11-25T16:47:32"
 }
