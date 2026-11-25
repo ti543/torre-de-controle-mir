@@ -28,12 +28,12 @@
         "frete_rs": 3612.94,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:00:09",
-          "lat": -25.866672,
-          "lon": -48.9471296
+          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:13:06",
+          "lat": -25.9597568,
+          "lon": -48.9006848
         },
-        "distancia_km": 115.7,
+        "distancia_km": 104.7,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 329.75,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:00:09",
-          "lat": -25.866672,
-          "lon": -48.9471296
+          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:13:06",
+          "lat": -25.9597568,
+          "lon": -48.9006848
         },
-        "distancia_km": 115.7,
+        "distancia_km": 104.7,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "24/11/2026 20:59:56",
-          "lat": -23.7803648,
-          "lon": -46.6224096
+          "referencia": "1.43 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
+          "data_hora_posicao": "24/11/2026 21:13:56",
+          "lat": -23.7686096,
+          "lon": -46.7661184
         },
-        "distancia_km": 404.8,
+        "distancia_km": 398.6,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de QUANTIQ DISTRIBUIDORA LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 21:00:28",
-          "lat": -23.41736,
-          "lon": -46.3757024
+          "referencia": "1.3 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
+          "data_hora_posicao": "24/11/2026 21:14:28",
+          "lat": -23.5387872,
+          "lon": -46.3342336
         },
-        "distancia_km": 452.3,
+        "distancia_km": 443.0,
         "proximo": false
       },
       {
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:59:05",
+          "data_hora_posicao": "24/11/2026 21:15:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
@@ -140,112 +140,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010456-6",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 1401.95,
-        "frete_rs": 3182.35,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.46 km de AMBIPAR - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 20:59:48",
-          "lat": -23.4619433333333,
-          "lon": -46.4902983333333
-        },
-        "distancia_km": 3.0,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013663-8",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 4044.28,
-        "frete_rs": 7354.81,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "24/11/2026 20:59:33",
-          "lat": -25.3504416,
-          "lon": -49.0601728
-        },
-        "distancia_km": 336.0,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024201-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 13323.4,
-        "frete_rs": 16011.96,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 21:00:03",
-          "lat": -26.8873966666667,
-          "lon": -48.7211516666667
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044583-5",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQB5B04",
-        "motorista": "FABIANO FISCHER",
-        "peso_real_kg": 15394.3,
-        "frete_rs": 8411.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 21:00:30",
-          "lat": -26.8876288,
-          "lon": -48.7206368
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1401.95,
-        "frete_rs": 3182.35,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 4044.28,
-        "frete_rs": 7354.81,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 13323.4,
-        "frete_rs": 16011.96,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 15394.3,
-        "frete_rs": 8411.22,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -260,12 +154,12 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.09 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "24/11/2026 21:00:09",
-          "lat": -25.866672,
-          "lon": -48.9471296
+          "referencia": "1.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "24/11/2026 21:13:06",
+          "lat": -25.9597568,
+          "lon": -48.9006848
         },
-        "distancia_km": 164.5,
+        "distancia_km": 157.3,
         "proximo": false
       },
       {
@@ -281,7 +175,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "24/11/2026 20:58:32",
+          "data_hora_posicao": "24/11/2026 21:14:32",
           "lat": -27.2059104,
           "lon": -49.6489824
         },
@@ -300,12 +194,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.85 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 21:00:09",
-          "lat": -23.6782096,
-          "lon": -46.8217056
+          "referencia": "1.08 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "24/11/2026 21:14:09",
+          "lat": -23.6510032,
+          "lon": -46.8290848
         },
-        "distancia_km": 484.2,
+        "distancia_km": 486.3,
         "proximo": false
       },
       {
@@ -321,9 +215,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:59:23",
-          "lat": -29.9833696,
-          "lon": -51.1868352
+          "data_hora_posicao": "24/11/2026 21:13:23",
+          "lat": -29.9833728,
+          "lon": -51.1867872
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -343,6 +237,87 @@
       "Porto Alegre": {
         "peso_kg": 1155.51,
         "frete_rs": 2886.03,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CTB013663-8",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 4044.28,
+        "frete_rs": 7354.81,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.11 km de POSTO SIM - CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "24/11/2026 21:15:15",
+          "lat": -25.3517472,
+          "lon": -49.0604768
+        },
+        "distancia_km": 336.1,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024201-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 13323.4,
+        "frete_rs": 16011.96,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 21:14:03",
+          "lat": -26.8873966666667,
+          "lon": -48.7211516666667
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044583-5",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 15394.3,
+        "frete_rs": 8411.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "24/11/2026 21:14:30",
+          "lat": -26.8876288,
+          "lon": -48.7206368
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4044.28,
+        "frete_rs": 7354.81,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 13323.4,
+        "frete_rs": 16011.96,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 15394.3,
+        "frete_rs": 8411.22,
         "qtde": 1
       }
     }
@@ -387,12 +362,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de QUANTIQ DISTRIBUIDORA LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 21:00:28",
-          "lat": -23.41736,
-          "lon": -46.3757024
+          "referencia": "1.3 km de 32º BATALHAO DA POLICIA MILITAR - SUZANO/SP",
+          "data_hora_posicao": "24/11/2026 21:14:28",
+          "lat": -23.5387872,
+          "lon": -46.3342336
         },
-        "distancia_km": 872.3,
+        "distancia_km": 863.2,
         "proximo": false
       },
       {
@@ -408,7 +383,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:59:02",
+          "data_hora_posicao": "24/11/2026 21:15:02",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -444,9 +419,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 20:59:23",
-          "lat": -29.9833696,
-          "lon": -51.1868352
+          "data_hora_posicao": "24/11/2026 21:13:23",
+          "lat": -29.9833728,
+          "lon": -51.1867872
         },
         "distancia_km": null,
         "proximo": false
@@ -460,5 +435,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T21:02:32"
+  "_gerado_em": "2026-11-24T21:17:35"
 }
