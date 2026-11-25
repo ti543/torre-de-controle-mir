@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 23:43:06",
+          "data_hora_posicao": "24/11/2026 23:59:06",
           "lat": -26.8873664,
           "lon": -48.721184
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de 5ª DELEGACIA PRF - REGISTRO/SP",
-          "data_hora_posicao": "24/11/2026 23:44:09",
-          "lat": -24.5052048,
-          "lon": -47.8481472
+          "referencia": "0.35 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
+          "data_hora_posicao": "25/11/2026 00:00:09",
+          "lat": -24.6532656,
+          "lon": -47.9562048
         },
-        "distancia_km": 350.3,
+        "distancia_km": 330.5,
         "proximo": false
       },
       {
@@ -69,7 +69,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 23:43:05",
+          "data_hora_posicao": "24/11/2026 23:59:05",
           "lat": -23.4704688,
           "lon": -46.4616192
         },
@@ -89,9 +89,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 23:43:23",
-          "lat": -29.9833664,
-          "lon": -51.186928
+          "data_hora_posicao": "24/11/2026 23:59:23",
+          "lat": -29.9833728,
+          "lon": -51.1868864
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -130,7 +130,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "24/11/2026 23:43:15",
+          "data_hora_posicao": "24/11/2026 23:59:15",
           "lat": -24.7858624,
           "lon": -48.1749408
         },
@@ -150,7 +150,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 23:44:10",
+          "data_hora_posicao": "25/11/2026 00:00:09",
           "lat": -26.8873966666667,
           "lon": -48.7211516666667
         },
@@ -170,9 +170,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "24/11/2026 23:44:30",
-          "lat": -26.8876352,
-          "lon": -48.7206688
+          "data_hora_posicao": "24/11/2026 23:58:30",
+          "lat": -26.8876448,
+          "lon": -48.7207712
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -206,6 +206,21 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "TBO016520-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 13219.99,
+        "frete_rs": 23249.63,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -223,6 +238,11 @@
         "peso_kg": 43721.56,
         "frete_rs": 38639.479999999996,
         "qtde": 3
+      },
+      "Timbó": {
+        "peso_kg": 13219.99,
+        "frete_rs": 23249.63,
+        "qtde": 1
       }
     }
   },
@@ -240,12 +260,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.48 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 23:44:28",
-          "lat": -24.1470496,
-          "lon": -47.302592
+          "referencia": "0.69 km de POSTO O FAZENDEIRO - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 23:59:56",
+          "lat": -24.2634656,
+          "lon": -47.3816032
         },
-        "distancia_km": 336.3,
+        "distancia_km": 321.2,
         "proximo": false
       },
       {
@@ -260,12 +280,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.05 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 23:44:28",
-          "lat": -24.1468368,
-          "lon": -47.2968128
+          "referencia": "0.38 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 23:58:28",
+          "lat": -24.2521568,
+          "lon": -47.3737472
         },
-        "distancia_km": 336.6,
+        "distancia_km": 322.7,
         "proximo": false
       },
       {
@@ -296,7 +316,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 23:45:05",
+          "data_hora_posicao": "24/11/2026 23:59:05",
           "lat": -29.9837344,
           "lon": -51.1869824
         },
@@ -315,12 +335,12 @@
         "frete_rs": 3442.32,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.81 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "24/11/2026 23:45:03",
-          "lat": -26.874848,
-          "lon": -49.0056448
+          "referencia": "1.85 km de POSTO JUNINHO - ILHOTA/SC",
+          "data_hora_posicao": "24/11/2026 23:58:37",
+          "lat": -26.8836224,
+          "lon": -48.8656032
         },
-        "distancia_km": 28.3,
+        "distancia_km": 14.3,
         "proximo": true
       }
     ],
@@ -371,10 +391,10 @@
         "frete_rs": 7864.03,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de PEDAGIO - CAIEIRAS (SENTIDO SP) - CAIEIRAS/SP",
-          "data_hora_posicao": "24/11/2026 23:44:58",
-          "lat": -23.34743,
-          "lon": -46.812255
+          "referencia": "1.95 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "24/11/2026 23:58:57",
+          "lat": -23.2252666666667,
+          "lon": -46.9041466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -391,10 +411,10 @@
         "frete_rs": 5129.9,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de PEDAGIO - CAIEIRAS (SENTIDO SP) - CAIEIRAS/SP",
-          "data_hora_posicao": "24/11/2026 23:44:58",
-          "lat": -23.34743,
-          "lon": -46.812255
+          "referencia": "1.95 km de JUND TRANSPORTES - JUNDIAI/SP",
+          "data_hora_posicao": "24/11/2026 23:58:57",
+          "lat": -23.2252666666667,
+          "lon": -46.9041466666667
         },
         "distancia_km": null,
         "proximo": false
@@ -422,12 +442,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.05 km de POSTO DOM PEDRO MIRACATU NORTE REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "24/11/2026 23:44:28",
-          "lat": -24.1468368,
-          "lon": -47.2968128
+          "referencia": "0.38 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
+          "data_hora_posicao": "24/11/2026 23:58:28",
+          "lat": -24.2521568,
+          "lon": -47.3737472
         },
-        "distancia_km": 754.5,
+        "distancia_km": 740.5,
         "proximo": false
       },
       {
@@ -443,7 +463,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 23:45:00",
+          "data_hora_posicao": "24/11/2026 23:59:00",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -478,12 +498,12 @@
         "frete_rs": 5242.6,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.47 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "24/11/2026 23:43:46",
-          "lat": -23.782488,
-          "lon": -46.9150368
+          "referencia": "0.15 km de POSTO 65 (SÃO LEOPOLDO TUPINAMBA) - JUQUITIBA/SP",
+          "data_hora_posicao": "24/11/2026 23:59:46",
+          "lat": -23.9344784,
+          "lon": -47.0182432
         },
-        "distancia_km": 309.1,
+        "distancia_km": 290.3,
         "proximo": false
       },
       {
@@ -499,7 +519,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "24/11/2026 23:43:05",
+          "data_hora_posicao": "24/11/2026 23:59:05",
           "lat": -23.4704688,
           "lon": -46.4616192
         },
@@ -518,12 +538,12 @@
         "frete_rs": 7266.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.81 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "24/11/2026 23:45:03",
-          "lat": -26.874848,
-          "lon": -49.0056448
+          "referencia": "1.85 km de POSTO JUNINHO - ILHOTA/SC",
+          "data_hora_posicao": "24/11/2026 23:58:37",
+          "lat": -26.8836224,
+          "lon": -48.8656032
         },
-        "distancia_km": 152.6,
+        "distancia_km": 156.8,
         "proximo": false
       }
     ],
@@ -581,9 +601,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "24/11/2026 23:43:23",
-          "lat": -29.9833664,
-          "lon": -51.186928
+          "data_hora_posicao": "24/11/2026 23:59:23",
+          "lat": -29.9833728,
+          "lon": -51.1868864
         },
         "distancia_km": null,
         "proximo": false
@@ -597,5 +617,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-24T23:47:34"
+  "_gerado_em": "2026-11-25T00:02:34"
 }
