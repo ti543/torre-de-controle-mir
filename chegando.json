@@ -1,4 +1,60 @@
 {
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010465-5",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 1600.6,
+        "frete_rs": 3854.88,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "25/11/2026 19:15:28",
+          "lat": -22.8469983333333,
+          "lon": -47.1247516666667
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044612-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.63 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "25/11/2026 19:15:06",
+          "lat": -27.1009824,
+          "lon": -49.5265632
+        },
+        "distancia_km": 507.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 1600.6,
+        "frete_rs": 3854.88,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "qtde": 1
+      }
+    }
+  },
   "ITJ": {
     "veiculos": [
       {
@@ -13,13 +69,13 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.33 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
-          "data_hora_posicao": "25/11/2026 19:00:06",
-          "lat": -27.1782655,
-          "lon": -48.6118811
+          "referencia": "1.26 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "25/11/2026 19:15:20",
+          "lat": -27.1382725,
+          "lon": -48.6099088
         },
-        "distancia_km": 34.1,
-        "proximo": false
+        "distancia_km": 30.0,
+        "proximo": true
       },
       {
         "manif": "POA016304-0",
@@ -33,12 +89,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "9.17 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "25/11/2026 18:58:43",
-          "lat": -29.8898516666667,
-          "lon": -50.6894883333333
+          "referencia": "1.66 km de PEDAGIO - S. A. DA PATRULHA (BR 290 SENTIDO LITORAL) - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "25/11/2026 19:14:43",
+          "lat": -29.8901066666667,
+          "lon": -50.465515
         },
-        "distancia_km": 385.4,
+        "distancia_km": 374.9,
         "proximo": false
       },
       {
@@ -53,12 +109,12 @@
         "frete_rs": 1713.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de JOHN DEERE DO BRASIL - NAPALHA - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 18:59:06",
-          "lat": -27.1995328,
-          "lon": -49.630464
+          "referencia": "2.63 km de POSTO PILÃO - LONTRAS/SC",
+          "data_hora_posicao": "25/11/2026 19:15:06",
+          "lat": -27.1009824,
+          "lon": -49.5265632
         },
-        "distancia_km": 96.5,
+        "distancia_km": 83.3,
         "proximo": false
       },
       {
@@ -73,13 +129,13 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.33 km de SUPERMERCADOS ANGELONI (A. ANGELONI & CIA LTDA) CENTRO DE DISTRIBUIÇÃO - PORTO BELO/SC",
-          "data_hora_posicao": "25/11/2026 19:00:06",
-          "lat": -27.1782655,
-          "lon": -48.6118811
+          "referencia": "1.26 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "25/11/2026 19:15:20",
+          "lat": -27.1382725,
+          "lon": -48.6099088
         },
-        "distancia_km": 34.1,
-        "proximo": false
+        "distancia_km": 30.0,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -119,12 +175,12 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.11 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "25/11/2026 18:59:23",
-          "lat": -27.4366048,
-          "lon": -50.4048416
+          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:15:23",
+          "lat": -27.3034464,
+          "lon": -50.4147552
         },
-        "distancia_km": 78.9,
+        "distancia_km": 76.4,
         "proximo": false
       },
       {
@@ -139,12 +195,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.71 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 18:50:36",
-          "lat": -24.0636266666667,
-          "lon": -47.23072
+          "referencia": "0.13 km de MECÂNICA BOTTARO - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 19:10:37",
+          "lat": -24.1566133333333,
+          "lon": -47.32592
         },
-        "distancia_km": 425.3,
+        "distancia_km": 411.3,
         "proximo": false
       },
       {
@@ -159,12 +215,12 @@
         "frete_rs": 4880.59,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.11 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "25/11/2026 18:59:23",
-          "lat": -27.4366048,
-          "lon": -50.4048416
+          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:15:23",
+          "lat": -27.3034464,
+          "lon": -50.4147552
         },
-        "distancia_km": 78.9,
+        "distancia_km": 76.4,
         "proximo": false
       },
       {
@@ -179,12 +235,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.11 km de PRF - PONTE ALTA/SC",
-          "data_hora_posicao": "25/11/2026 18:59:23",
-          "lat": -27.4366048,
-          "lon": -50.4048416
+          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:15:23",
+          "lat": -27.3034464,
+          "lon": -50.4147552
         },
-        "distancia_km": 78.9,
+        "distancia_km": 76.4,
         "proximo": false
       },
       {
@@ -199,12 +255,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.58 km de MEGA CENTRO LOGÍSTICO - ESTEIO - ESTEIO/RS",
-          "data_hora_posicao": "25/11/2026 18:59:25",
-          "lat": -29.8390016,
-          "lon": -51.1841056
+          "referencia": "0.09 km de INTERQUIMICA COMERCIO E INDUSTRIA DE PRODUTOS QUIMICOS LTDA - SAO LEOPOLDO/RS",
+          "data_hora_posicao": "25/11/2026 19:14:32",
+          "lat": -29.7267712,
+          "lon": -51.162848
         },
-        "distancia_km": 328.9,
+        "distancia_km": 316.9,
         "proximo": false
       },
       {
@@ -260,10 +316,10 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 18:59:05",
-          "lat": -26.8873984,
-          "lon": -48.7212064
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 19:15:05",
+          "lat": -26.8873888,
+          "lon": -48.7213056
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -280,10 +336,10 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 18:59:05",
-          "lat": -26.8873984,
-          "lon": -48.7212064
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 19:15:05",
+          "lat": -26.8873888,
+          "lon": -48.7213056
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -300,10 +356,10 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 18:59:05",
-          "lat": -26.8873984,
-          "lon": -48.7212064
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 19:15:05",
+          "lat": -26.8873888,
+          "lon": -48.7213056
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -320,10 +376,10 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 18:59:05",
-          "lat": -26.8873984,
-          "lon": -48.7212064
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 19:15:05",
+          "lat": -26.8873888,
+          "lon": -48.7213056
         },
         "distancia_km": 420.2,
         "proximo": false
@@ -337,36 +393,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044612-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.14 km de JOHN DEERE DO BRASIL - NAPALHA - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 18:59:06",
-          "lat": -27.1995328,
-          "lon": -49.630464
-        },
-        "distancia_km": 522.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-25T19:02:29"
+  "_gerado_em": "2026-11-25T19:17:33"
 }
