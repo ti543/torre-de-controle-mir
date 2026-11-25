@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 16:15:32",
-          "lat": -28.4344368,
-          "lon": -48.8440928
+          "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
+          "data_hora_posicao": "25/11/2026 16:29:27",
+          "lat": -28.4232936,
+          "lon": -48.7980425
         },
-        "distancia_km": 172.4,
+        "distancia_km": 170.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 16:15:32",
-          "lat": -28.4344368,
-          "lon": -48.8440928
+          "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
+          "data_hora_posicao": "25/11/2026 16:29:27",
+          "lat": -28.4232936,
+          "lon": -48.7980425
         },
-        "distancia_km": 172.4,
+        "distancia_km": 170.9,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:15:23",
-          "lat": -27.8238624,
-          "lon": -50.3629568
+          "data_hora_posicao": "25/11/2026 16:29:23",
+          "lat": -27.8238528,
+          "lon": -50.3629536
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:15:23",
-          "lat": -27.8238624,
-          "lon": -50.3629568
+          "data_hora_posicao": "25/11/2026 16:29:23",
+          "lat": -27.8238528,
+          "lon": -50.3629536
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:15:23",
-          "lat": -27.8238624,
-          "lon": -50.3629568
+          "data_hora_posicao": "25/11/2026 16:29:23",
+          "lat": -27.8238528,
+          "lon": -50.3629536
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +145,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.4 km de SPL CARREFOUR BAIRRO LIMÃO - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 16:15:04",
-          "lat": -23.5127866666667,
-          "lon": -46.6787116666667
+          "referencia": "0.53 km de GT - PRE - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 16:29:44",
+          "lat": -23.5205383333333,
+          "lon": -46.7479433333333
         },
-        "distancia_km": 507.7,
+        "distancia_km": 502.9,
         "proximo": false
       },
       {
@@ -166,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 16:15:23",
-          "lat": -27.8238624,
-          "lon": -50.3629568
+          "data_hora_posicao": "25/11/2026 16:29:23",
+          "lat": -27.8238528,
+          "lon": -50.3629536
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -272,12 +272,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de PRE - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "25/11/2026 16:14:32",
-          "lat": -29.4920032,
-          "lon": -51.3517536
+          "referencia": "0.39 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "25/11/2026 16:28:32",
+          "lat": -29.623808,
+          "lon": -51.313568
         },
-        "distancia_km": 56.9,
+        "distancia_km": 41.8,
         "proximo": false
       }
     ],
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T16:17:50"
+  "_gerado_em": "2026-11-25T16:32:38"
 }
