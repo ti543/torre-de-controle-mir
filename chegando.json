@@ -13,69 +13,19 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 14:58:50",
-          "lat": -28.468552,
-          "lon": -49.0189463
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "25/11/2026 15:14:50",
+          "lat": -28.4687273,
+          "lon": -49.0189063
         },
-        "distancia_km": 178.2,
+        "distancia_km": 178.3,
         "proximo": false
-      },
-      {
-        "manif": "POA016300-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2.0,
-        "frete_rs": 218.21,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 14:59:05",
-          "lat": -26.8875488,
-          "lon": -48.7208096
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "TUB000408-1",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 843.0,
-        "frete_rs": 793.19,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 14:59:05",
-          "lat": -26.8875488,
-          "lon": -48.7208096
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
       "CRC": {
         "peso_kg": 4848.08,
         "frete_rs": 5536.28,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 2.0,
-        "frete_rs": 218.21,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 843.0,
-        "frete_rs": 793.19,
         "qtde": 1
       }
     }
@@ -95,9 +45,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:59:23",
-          "lat": -27.8238656,
-          "lon": -50.3629632
+          "data_hora_posicao": "25/11/2026 15:13:23",
+          "lat": -27.8238272,
+          "lon": -50.3629696
         },
         "distancia_km": null,
         "proximo": false
@@ -115,9 +65,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:59:23",
-          "lat": -27.8238656,
-          "lon": -50.3629632
+          "data_hora_posicao": "25/11/2026 15:13:23",
+          "lat": -27.8238272,
+          "lon": -50.3629696
         },
         "distancia_km": null,
         "proximo": false
@@ -151,9 +101,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:59:23",
-          "lat": -27.8238656,
-          "lon": -50.3629632
+          "data_hora_posicao": "25/11/2026 15:13:23",
+          "lat": -27.8238272,
+          "lon": -50.3629696
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -171,9 +121,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:59:23",
-          "lat": -27.8238656,
-          "lon": -50.3629632
+          "data_hora_posicao": "25/11/2026 15:13:23",
+          "lat": -27.8238272,
+          "lon": -50.3629696
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -210,6 +160,21 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024212-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 154.92,
+        "frete_rs": 220.41,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "RSL044600-9",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -229,6 +194,11 @@
       "Guarulhos": {
         "peso_kg": 8388.65,
         "frete_rs": 13842.01,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 154.92,
+        "frete_rs": 220.41,
         "qtde": 1
       },
       "Rio do Sul": {
@@ -252,12 +222,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 15:00:30",
-          "lat": -23.5053776,
-          "lon": -46.569072
+          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:14:30",
+          "lat": -23.4650784,
+          "lon": -46.4678944
         },
-        "distancia_km": 11.6,
+        "distancia_km": 0.8,
         "proximo": true
       },
       {
@@ -272,12 +242,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.16 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 15:00:30",
-          "lat": -23.5053776,
-          "lon": -46.569072
+          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:14:30",
+          "lat": -23.4650784,
+          "lon": -46.4678944
         },
-        "distancia_km": 11.6,
+        "distancia_km": 0.8,
         "proximo": true
       },
       {
@@ -292,12 +262,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.16 km de 1ª CIA DO 5º BATALHÃO DE POLÍCIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 15:00:30",
-          "lat": -23.5053776,
-          "lon": -46.569072
+          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:14:30",
+          "lat": -23.4650784,
+          "lon": -46.4678944
         },
-        "distancia_km": 11.6,
+        "distancia_km": 0.8,
         "proximo": true
       }
     ],
@@ -328,10 +298,10 @@
         "frete_rs": 7360.14,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 15:00:32",
-          "lat": -29.1330048,
-          "lon": -51.1855584
+          "referencia": "1.64 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 15:14:32",
+          "lat": -29.157248,
+          "lon": -51.243552
         },
         "distancia_km": null,
         "proximo": false
@@ -359,12 +329,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.31 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 15:00:32",
-          "lat": -29.1330048,
-          "lon": -51.1855584
+          "referencia": "1.64 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 15:14:32",
+          "lat": -29.157248,
+          "lon": -51.243552
         },
-        "distancia_km": 94.6,
+        "distancia_km": 92.0,
         "proximo": false
       }
     ],
@@ -376,5 +346,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T15:02:54"
+  "_gerado_em": "2026-11-25T15:17:33"
 }
