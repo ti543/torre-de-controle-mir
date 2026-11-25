@@ -2,26 +2,6 @@
   "RSL": {
     "veiculos": [
       {
-        "manif": "CTB013661-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 5680.13,
-        "frete_rs": 5378.8,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 07:29:06",
-          "lat": -27.2059552,
-          "lon": -49.6488736
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
         "manif": "GRU075049-2",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -33,12 +13,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de POSTO GUARAMIRIM - GUARAMIRIM/SC",
-          "data_hora_posicao": "25/11/2026 07:30:09",
-          "lat": -26.478848,
-          "lon": -49.000896
+          "referencia": "1.38 km de POSTO ZANDONÁ 04 - MASSARANDUBA/SC",
+          "data_hora_posicao": "25/11/2026 07:43:35",
+          "lat": -26.5755136,
+          "lon": -48.9763328
         },
-        "distancia_km": 103.4,
+        "distancia_km": 96.8,
         "proximo": false
       },
       {
@@ -68,33 +48,13 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de SERVOPA CAMINHÕES - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 07:29:05",
-          "lat": -25.5340368,
-          "lon": -49.3006432
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 07:45:05",
+          "lat": -25.5276544,
+          "lon": -49.2953024
         },
-        "distancia_km": 189.1,
+        "distancia_km": 189.9,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024204-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 1287.83,
-        "frete_rs": 1727.05,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 07:29:06",
-          "lat": -27.2059552,
-          "lon": -49.6488736
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -109,29 +69,19 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 07:29:23",
-          "lat": -29.146352,
-          "lon": -51.164864
+          "data_hora_posicao": "25/11/2026 07:43:23",
+          "lat": -29.1463552,
+          "lon": -51.1648448
         },
         "distancia_km": 261.9,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 5680.13,
-        "frete_rs": 5378.8,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 17206.370000000003,
         "frete_rs": 25435.65,
         "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 1287.83,
-        "frete_rs": 1727.05,
-        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 1155.51,
@@ -154,12 +104,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 07:29:56",
-          "lat": -25.86508,
-          "lon": -48.934112
+          "referencia": "1.22 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "25/11/2026 07:43:56",
+          "lat": -26.0012768,
+          "lon": -48.875232
         },
-        "distancia_km": 115.6,
+        "distancia_km": 99.7,
         "proximo": false
       },
       {
@@ -174,10 +124,10 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 07:29:21",
-          "lat": -26.5539536,
-          "lon": -48.7199136
+          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "25/11/2026 07:44:28",
+          "lat": -26.5540352,
+          "lon": -48.7199584
         },
         "distancia_km": 37.1,
         "proximo": false
@@ -209,12 +159,12 @@
         "frete_rs": 218.21,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.92 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
-          "data_hora_posicao": "25/11/2026 07:29:05",
-          "lat": -28.095888,
-          "lon": -48.7072992
+          "referencia": "2.56 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 07:45:05",
+          "lat": -27.9206784,
+          "lon": -48.6549952
         },
-        "distancia_km": 134.4,
+        "distancia_km": 115.1,
         "proximo": false
       }
     ],
@@ -245,10 +195,10 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 07:29:21",
-          "lat": -26.5539536,
-          "lon": -48.7199136
+          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "25/11/2026 07:44:28",
+          "lat": -26.5540352,
+          "lon": -48.7199584
         },
         "distancia_km": 451.4,
         "proximo": false
@@ -266,7 +216,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 07:29:08",
+          "data_hora_posicao": "25/11/2026 07:44:53",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -285,12 +235,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.18 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
-          "data_hora_posicao": "25/11/2026 07:28:32",
-          "lat": -27.5796704,
-          "lon": -50.3688608
+          "referencia": "2.72 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "25/11/2026 07:43:12",
+          "lat": -27.7221632,
+          "lon": -50.3363584
         },
-        "distancia_km": 278.9,
+        "distancia_km": 264.7,
         "proximo": false
       }
     ],
@@ -321,12 +271,12 @@
         "frete_rs": 1076.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.24 km de SERVOPA CAMINHÕES - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 07:29:05",
-          "lat": -25.5340368,
-          "lon": -49.3006432
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 07:45:05",
+          "lat": -25.5276544,
+          "lon": -49.2953024
         },
-        "distancia_km": 0.9,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -379,9 +329,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.99 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 07:29:53",
-          "lat": -25.0841616666667,
-          "lon": -48.6108916666667
+          "data_hora_posicao": "25/11/2026 07:44:52",
+          "lat": -25.0842033333333,
+          "lon": -48.6109316666667
         },
         "distancia_km": 282.2,
         "proximo": false
@@ -399,7 +349,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 07:28:30",
+          "data_hora_posicao": "25/11/2026 07:44:40",
           "lat": -25.0825744,
           "lon": -48.6146304
         },
@@ -419,7 +369,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 07:28:30",
+          "data_hora_posicao": "25/11/2026 07:44:40",
           "lat": -25.0825744,
           "lon": -48.6146304
         },
@@ -439,7 +389,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 07:28:30",
+          "data_hora_posicao": "25/11/2026 07:44:40",
           "lat": -25.0825744,
           "lon": -48.6146304
         },
@@ -524,10 +474,10 @@
         "frete_rs": 2796.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 07:29:42",
-          "lat": -27.9637218,
-          "lon": -48.6798448
+          "referencia": "1.55 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "25/11/2026 07:44:51",
+          "lat": -28.116842,
+          "lon": -48.6997218
         },
         "distancia_km": null,
         "proximo": false
@@ -555,10 +505,10 @@
         "frete_rs": 6713.68,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de 2ªCIA/2ºPEL 2º PELOTÃO - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 07:29:42",
-          "lat": -27.9637218,
-          "lon": -48.6798448
+          "referencia": "1.55 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "25/11/2026 07:44:51",
+          "lat": -28.116842,
+          "lon": -48.6997218
         },
         "distancia_km": null,
         "proximo": false
@@ -587,9 +537,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 07:29:23",
-          "lat": -29.146352,
-          "lon": -51.164864
+          "data_hora_posicao": "25/11/2026 07:43:23",
+          "lat": -29.1463552,
+          "lon": -51.1648448
         },
         "distancia_km": null,
         "proximo": false
@@ -606,10 +556,10 @@
         "frete_rs": 1431.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.18 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
-          "data_hora_posicao": "25/11/2026 07:28:32",
-          "lat": -27.5796704,
-          "lon": -50.3688608
+          "referencia": "2.72 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "25/11/2026 07:43:12",
+          "lat": -27.7221632,
+          "lon": -50.3363584
         },
         "distancia_km": null,
         "proximo": false
@@ -626,10 +576,10 @@
         "frete_rs": 209.35,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.18 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
-          "data_hora_posicao": "25/11/2026 07:28:32",
-          "lat": -27.5796704,
-          "lon": -50.3688608
+          "referencia": "2.72 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "25/11/2026 07:43:12",
+          "lat": -27.7221632,
+          "lon": -50.3363584
         },
         "distancia_km": null,
         "proximo": false
@@ -662,10 +612,10 @@
         "frete_rs": 7360.14,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.18 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
-          "data_hora_posicao": "25/11/2026 07:28:32",
-          "lat": -27.5796704,
-          "lon": -50.3688608
+          "referencia": "2.72 km de PEDAGIO - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "25/11/2026 07:43:12",
+          "lat": -27.7221632,
+          "lon": -50.3363584
         },
         "distancia_km": null,
         "proximo": false
@@ -679,5 +629,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T07:32:29"
+  "_gerado_em": "2026-11-25T07:47:41"
 }
