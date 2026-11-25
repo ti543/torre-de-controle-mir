@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 15:42:50",
-          "lat": -28.4687273,
-          "lon": -49.0189063
+          "referencia": "1.37 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "25/11/2026 16:00:09",
+          "lat": -28.4290725,
+          "lon": -48.9497948
         },
-        "distancia_km": 178.3,
+        "distancia_km": 172.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 15:42:50",
-          "lat": -28.4687273,
-          "lon": -49.0189063
+          "referencia": "1.37 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "25/11/2026 16:00:09",
+          "lat": -28.4290725,
+          "lon": -48.9497948
         },
-        "distancia_km": 178.3,
+        "distancia_km": 172.9,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:43:23",
-          "lat": -27.8238368,
-          "lon": -50.3629376
+          "data_hora_posicao": "25/11/2026 15:59:23",
+          "lat": -27.8238496,
+          "lon": -50.3629408
         },
         "distancia_km": null,
         "proximo": false
@@ -90,9 +90,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:43:23",
-          "lat": -27.8238368,
-          "lon": -50.3629376
+          "data_hora_posicao": "25/11/2026 15:59:23",
+          "lat": -27.8238496,
+          "lon": -50.3629408
         },
         "distancia_km": null,
         "proximo": false
@@ -126,9 +126,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:43:23",
-          "lat": -27.8238368,
-          "lon": -50.3629376
+          "data_hora_posicao": "25/11/2026 15:59:23",
+          "lat": -27.8238496,
+          "lon": -50.3629408
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -145,12 +145,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.13 km de TREND PARK ESTACIONAMENTO CAMINHÕES - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:43:05",
-          "lat": -23.4789683333333,
-          "lon": -46.4668233333333
+          "referencia": "0.1 km de ESTACIONAMENTO DE CAMINHÕES MEGA PARK MARGINAL TRUCK - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 15:59:09",
+          "lat": -23.5263033333333,
+          "lon": -46.5789166666667
         },
-        "distancia_km": 523.5,
+        "distancia_km": 512.4,
         "proximo": false
       },
       {
@@ -166,9 +166,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:43:23",
-          "lat": -27.8238368,
-          "lon": -50.3629376
+          "data_hora_posicao": "25/11/2026 15:59:23",
+          "lat": -27.8238496,
+          "lon": -50.3629408
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -272,12 +272,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.64 km de COCA COLA FEMSA - FARROUPILHA/RS",
-          "data_hora_posicao": "25/11/2026 15:44:39",
-          "lat": -29.298928,
-          "lon": -51.3362976
+          "referencia": "1.95 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "25/11/2026 15:58:39",
+          "lat": -29.3522208,
+          "lon": -51.3686432
         },
-        "distancia_km": 77.5,
+        "distancia_km": 72.3,
         "proximo": false
       }
     ],
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T15:47:35"
+  "_gerado_em": "2026-11-25T16:02:37"
 }
