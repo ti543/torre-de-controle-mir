@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.56 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
-          "data_hora_posicao": "25/11/2026 14:14:34",
-          "lat": -28.745965,
-          "lon": -49.258534
+          "referencia": "0.28 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "25/11/2026 14:44:51",
+          "lat": -28.4960901,
+          "lon": -49.044006
         },
-        "distancia_km": 213.3,
+        "distancia_km": 181.7,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 14:15:05",
+          "data_hora_posicao": "25/11/2026 14:45:05",
           "lat": -26.8875488,
           "lon": -48.7208096
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 14:15:05",
+          "data_hora_posicao": "25/11/2026 14:45:05",
           "lat": -26.8875488,
           "lon": -48.7208096
         },
@@ -95,9 +95,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:13:23",
-          "lat": -27.8238688,
-          "lon": -50.3629952
+          "data_hora_posicao": "25/11/2026 14:43:23",
+          "lat": -27.8238784,
+          "lon": -50.3629824
         },
         "distancia_km": null,
         "proximo": false
@@ -115,9 +115,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:13:23",
-          "lat": -27.8238688,
-          "lon": -50.3629952
+          "data_hora_posicao": "25/11/2026 14:43:23",
+          "lat": -27.8238784,
+          "lon": -50.3629824
         },
         "distancia_km": null,
         "proximo": false
@@ -151,32 +151,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:13:23",
-          "lat": -27.8238688,
-          "lon": -50.3629952
+          "data_hora_posicao": "25/11/2026 14:43:23",
+          "lat": -27.8238784,
+          "lon": -50.3629824
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "GRU075058-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 3774.59,
-        "frete_rs": 5045.31,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 14:15:05",
-          "lat": -27.2057408,
-          "lon": -49.6490528
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -191,9 +171,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 14:13:23",
-          "lat": -27.8238688,
-          "lon": -50.3629952
+          "data_hora_posicao": "25/11/2026 14:43:23",
+          "lat": -27.8238784,
+          "lon": -50.3629824
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -203,11 +183,6 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 3558.77,
         "frete_rs": 7800.87,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 3774.59,
-        "frete_rs": 5045.31,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -266,26 +241,6 @@
   "GRU": {
     "veiculos": [
       {
-        "manif": "ITJ024201-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 13323.4,
-        "frete_rs": 16011.96,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.1 km de FILIAL EXPRESSO LEOMAR - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 14:14:06",
-          "lat": -23.4604883333333,
-          "lon": -46.4866983333333
-        },
-        "distancia_km": 2.7,
-        "proximo": true
-      },
-      {
         "manif": "ITJ024207-1",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
@@ -297,12 +252,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 14:14:30",
-          "lat": -23.5126432,
-          "lon": -46.6809504
+          "referencia": "0.56 km de GVINAH INDÚSTRIA E COMERCIO DE ALIMENTOS E PANIFICAÇÃO LTDA (CD) - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:44:30",
+          "lat": -23.5189376,
+          "lon": -46.6393856
         },
-        "distancia_km": 22.8,
+        "distancia_km": 18.8,
         "proximo": true
       },
       {
@@ -317,12 +272,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 14:14:30",
-          "lat": -23.5126432,
-          "lon": -46.6809504
+          "referencia": "0.56 km de GVINAH INDÚSTRIA E COMERCIO DE ALIMENTOS E PANIFICAÇÃO LTDA (CD) - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:44:30",
+          "lat": -23.5189376,
+          "lon": -46.6393856
         },
-        "distancia_km": 22.8,
+        "distancia_km": 18.8,
         "proximo": true
       },
       {
@@ -337,20 +292,20 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 14:14:30",
-          "lat": -23.5126432,
-          "lon": -46.6809504
+          "referencia": "0.56 km de GVINAH INDÚSTRIA E COMERCIO DE ALIMENTOS E PANIFICAÇÃO LTDA (CD) - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:44:30",
+          "lat": -23.5189376,
+          "lon": -46.6393856
         },
-        "distancia_km": 22.8,
+        "distancia_km": 18.8,
         "proximo": true
       }
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 26590.98,
-        "frete_rs": 33890.35,
-        "qtde": 3
+        "peso_kg": 13267.58,
+        "frete_rs": 17878.39,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 15394.3,
@@ -374,7 +329,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 14:14:32",
+          "data_hora_posicao": "25/11/2026 14:44:32",
           "lat": -29.146336,
           "lon": -51.1648672
         },
@@ -405,7 +360,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 14:14:32",
+          "data_hora_posicao": "25/11/2026 14:44:32",
           "lat": -29.146336,
           "lon": -51.1648672
         },
@@ -421,5 +376,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T14:17:58"
+  "_gerado_em": "2026-11-25T14:47:48"
 }
