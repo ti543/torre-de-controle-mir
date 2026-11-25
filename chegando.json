@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:29:06",
+          "data_hora_posicao": "25/11/2026 06:45:06",
           "lat": -27.2059552,
           "lon": -49.6488736
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.22 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 03) - GARUVA/SC",
-          "data_hora_posicao": "25/11/2026 06:28:09",
-          "lat": -25.9897056,
-          "lon": -48.8829888
+          "referencia": "0.13 km de BRITÂNIA LOGÍSTICA - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 06:44:09",
+          "lat": -26.1626432,
+          "lon": -48.9074752
         },
-        "distancia_km": 155.3,
+        "distancia_km": 137.5,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:29:05",
-          "lat": -25.2137952,
-          "lon": -48.900688
+          "referencia": "0.41 km de ESPAÇO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "25/11/2026 06:45:05",
+          "lat": -25.3228224,
+          "lon": -49.0246496
         },
-        "distancia_km": 233.8,
+        "distancia_km": 218.5,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:29:06",
+          "data_hora_posicao": "25/11/2026 06:45:06",
           "lat": -27.2059552,
           "lon": -49.6488736
         },
@@ -109,9 +109,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 06:29:23",
-          "lat": -29.1463648,
-          "lon": -51.1648832
+          "data_hora_posicao": "25/11/2026 06:43:23",
+          "lat": -29.1463808,
+          "lon": -51.1648864
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -154,12 +154,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.75 km de RESTAURANTE AGRO BOTANICA - PIRAQUARA/PR",
-          "data_hora_posicao": "25/11/2026 06:29:56",
-          "lat": -25.4584272,
-          "lon": -49.087952
+          "referencia": "0.28 km de CONCESSIONARIA COTRASA SCANIA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "25/11/2026 06:43:56",
+          "lat": -25.5671888,
+          "lon": -49.1716416
         },
-        "distancia_km": 163.1,
+        "distancia_km": 153.5,
         "proximo": false
       },
       {
@@ -174,12 +174,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 06:24:28",
-          "lat": -25.9673712,
-          "lon": -48.895392
+          "referencia": "0.54 km de ASTRANSC - ASSOCIAÇÃO DOS TRANSPORTADORES DE CARGAS DE SC - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 06:44:28",
+          "lat": -26.1730576,
+          "lon": -48.9073024
         },
-        "distancia_km": 103.8,
+        "distancia_km": 81.6,
         "proximo": false
       },
       {
@@ -209,12 +209,12 @@
         "frete_rs": 218.21,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 06:29:05",
-          "lat": -28.468704,
-          "lon": -49.0189088
+          "referencia": "2.01 km de POSTO LUIZ - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "25/11/2026 06:45:05",
+          "lat": -28.4522752,
+          "lon": -48.974384
         },
-        "distancia_km": 178.3,
+        "distancia_km": 175.8,
         "proximo": false
       }
     ],
@@ -228,72 +228,6 @@
         "peso_kg": 2.0,
         "frete_rs": 218.21,
         "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU075052-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 572.05,
-        "frete_rs": 1603.74,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075059-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 6181.07,
-        "frete_rs": 7864.03,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 06:28:52",
-          "lat": -22.8469283333333,
-          "lon": -47.124775
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075060-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 2784.0,
-        "frete_rs": 5129.9,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 06:28:52",
-          "lat": -22.8469283333333,
-          "lon": -47.124775
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9537.119999999999,
-        "frete_rs": 14597.67,
-        "qtde": 3
       }
     }
   },
@@ -311,12 +245,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.57 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 06:24:28",
-          "lat": -25.9673712,
-          "lon": -48.895392
+          "referencia": "0.54 km de ASTRANSC - ASSOCIAÇÃO DOS TRANSPORTADORES DE CARGAS DE SC - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 06:44:28",
+          "lat": -26.1730576,
+          "lon": -48.9073024
         },
-        "distancia_km": 500.0,
+        "distancia_km": 479.0,
         "proximo": false
       },
       {
@@ -332,7 +266,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 06:28:54",
+          "data_hora_posicao": "25/11/2026 06:45:09",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -351,12 +285,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "12.27 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:23:16",
-          "lat": -27.306112,
-          "lon": -50.1091072
+          "referencia": "0.24 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 06:43:16",
+          "lat": -27.303936,
+          "lon": -50.304512
         },
-        "distancia_km": 315.7,
+        "distancia_km": 310.1,
         "proximo": false
       }
     ],
@@ -387,12 +321,12 @@
         "frete_rs": 1076.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:29:05",
-          "lat": -25.2137952,
-          "lon": -48.900688
+          "referencia": "0.41 km de ESPAÇO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "25/11/2026 06:45:05",
+          "lat": -25.3228224,
+          "lon": -49.0246496
         },
-        "distancia_km": 52.8,
+        "distancia_km": 35.5,
         "proximo": false
       }
     ],
@@ -444,12 +378,12 @@
         "frete_rs": 16011.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de POSTO TULIO RIO BONITO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:29:34",
-          "lat": -25.248585,
-          "lon": -48.9072416666667
+          "referencia": "0.19 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 06:43:34",
+          "lat": -25.1232516666667,
+          "lon": -48.85599
         },
-        "distancia_km": 316.9,
+        "distancia_km": 304.3,
         "proximo": false
       },
       {
@@ -464,12 +398,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.18 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:28:30",
-          "lat": -25.2713344,
-          "lon": -48.919936
+          "referencia": "0.51 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 06:45:07",
+          "lat": -25.126056,
+          "lon": -48.856976
         },
-        "distancia_km": 319.5,
+        "distancia_km": 304.6,
         "proximo": false
       },
       {
@@ -484,12 +418,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.18 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:28:30",
-          "lat": -25.2713344,
-          "lon": -48.919936
+          "referencia": "0.51 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 06:45:07",
+          "lat": -25.126056,
+          "lon": -48.856976
         },
-        "distancia_km": 319.5,
+        "distancia_km": 304.6,
         "proximo": false
       },
       {
@@ -504,12 +438,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.18 km de PRF - UOP CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 06:28:30",
-          "lat": -25.2713344,
-          "lon": -48.919936
+          "referencia": "0.51 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 06:45:07",
+          "lat": -25.126056,
+          "lon": -48.856976
         },
-        "distancia_km": 319.5,
+        "distancia_km": 304.6,
         "proximo": false
       },
       {
@@ -590,10 +524,10 @@
         "frete_rs": 2796.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.25 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 06:29:48",
-          "lat": -27.3788083,
-          "lon": -48.6805816
+          "referencia": "4.77 km de RESTAURANTE E LANCHONETE MEURER - BIGUACU/SC",
+          "data_hora_posicao": "25/11/2026 06:45:01",
+          "lat": -27.539566,
+          "lon": -48.7042528
         },
         "distancia_km": null,
         "proximo": false
@@ -621,10 +555,10 @@
         "frete_rs": 6713.68,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.25 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 06:29:48",
-          "lat": -27.3788083,
-          "lon": -48.6805816
+          "referencia": "4.77 km de RESTAURANTE E LANCHONETE MEURER - BIGUACU/SC",
+          "data_hora_posicao": "25/11/2026 06:45:01",
+          "lat": -27.539566,
+          "lon": -48.7042528
         },
         "distancia_km": null,
         "proximo": false
@@ -653,9 +587,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 06:29:23",
-          "lat": -29.1463648,
-          "lon": -51.1648832
+          "data_hora_posicao": "25/11/2026 06:43:23",
+          "lat": -29.1463808,
+          "lon": -51.1648864
         },
         "distancia_km": null,
         "proximo": false
@@ -672,10 +606,10 @@
         "frete_rs": 1431.02,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "12.27 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:23:16",
-          "lat": -27.306112,
-          "lon": -50.1091072
+          "referencia": "0.24 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 06:43:16",
+          "lat": -27.303936,
+          "lon": -50.304512
         },
         "distancia_km": null,
         "proximo": false
@@ -692,10 +626,10 @@
         "frete_rs": 209.35,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "12.27 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:23:16",
-          "lat": -27.306112,
-          "lon": -50.1091072
+          "referencia": "0.24 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 06:43:16",
+          "lat": -27.303936,
+          "lon": -50.304512
         },
         "distancia_km": null,
         "proximo": false
@@ -728,10 +662,10 @@
         "frete_rs": 7360.14,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "12.27 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 06:23:16",
-          "lat": -27.306112,
-          "lon": -50.1091072
+          "referencia": "0.24 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 06:43:16",
+          "lat": -27.303936,
+          "lon": -50.304512
         },
         "distancia_km": null,
         "proximo": false
@@ -745,5 +679,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T06:32:28"
+  "_gerado_em": "2026-11-25T06:47:34"
 }
