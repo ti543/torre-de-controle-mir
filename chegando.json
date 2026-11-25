@@ -13,12 +13,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.99 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "25/11/2026 08:04:09",
-          "lat": -26.7376,
-          "lon": -49.0682272
+          "referencia": "0.84 km de POSTO ZANDONÁ 17 - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 08:16:09",
+          "lat": -26.817472,
+          "lon": -49.0895584
         },
-        "distancia_km": 77.7,
+        "distancia_km": 70.3,
         "proximo": false
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de ESTACIONAMENTO CAMINHÕES E CARRETAS CARRERA - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 08:03:05",
-          "lat": -25.5306704,
-          "lon": -49.2954688
+          "referencia": "0.03 km de POSTO SIM FILIAL 142 - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 08:17:05",
+          "lat": -25.5898896,
+          "lon": -49.3161248
         },
-        "distancia_km": 189.6,
+        "distancia_km": 182.8,
         "proximo": false
       },
       {
@@ -69,8 +69,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:03:23",
-          "lat": -29.14632,
+          "data_hora_posicao": "25/11/2026 08:15:23",
+          "lat": -29.146304,
           "lon": -51.1649024
         },
         "distancia_km": 261.9,
@@ -104,12 +104,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
-          "data_hora_posicao": "25/11/2026 08:03:56",
-          "lat": -26.2083072,
-          "lon": -48.9151968
+          "referencia": "0.17 km de SUPER JA TRANSPORTES E SERVIÇOS LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 08:15:56",
+          "lat": -26.3169856,
+          "lon": -48.8732224
         },
-        "distancia_km": 77.9,
+        "distancia_km": 65.2,
         "proximo": false
       },
       {
@@ -124,13 +124,13 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 08:04:28",
-          "lat": -26.5975712,
-          "lon": -48.723584
+          "referencia": "0.3 km de FILIAL MONTE SERENO - BARRA VELHA - BARRA VELHA/SC",
+          "data_hora_posicao": "25/11/2026 08:16:28",
+          "lat": -26.7189088,
+          "lon": -48.70232
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 18.8,
+        "proximo": true
       },
       {
         "manif": "GRU075061-1",
@@ -159,12 +159,12 @@
         "frete_rs": 218.21,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.63 km de POSTO CAMBIRELA - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 08:05:05",
-          "lat": -27.7166848,
-          "lon": -48.6480192
+          "referencia": "0.19 km de DISTLE - DISTRIBUIDORA NESTLE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "25/11/2026 08:17:05",
+          "lat": -27.6100576,
+          "lon": -48.638832
         },
-        "distancia_km": 92.5,
+        "distancia_km": 80.8,
         "proximo": false
       }
     ],
@@ -195,12 +195,12 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.68 km de PEDAGIO - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 08:04:28",
-          "lat": -26.5975712,
-          "lon": -48.723584
+          "referencia": "0.3 km de FILIAL MONTE SERENO - BARRA VELHA - BARRA VELHA/SC",
+          "data_hora_posicao": "25/11/2026 08:16:28",
+          "lat": -26.7189088,
+          "lon": -48.70232
         },
-        "distancia_km": 447.1,
+        "distancia_km": 436.8,
         "proximo": false
       },
       {
@@ -216,7 +216,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 08:04:52",
+          "data_hora_posicao": "25/11/2026 08:16:52",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -236,9 +236,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:04:32",
-          "lat": -27.8238176,
-          "lon": -50.3627968
+          "data_hora_posicao": "25/11/2026 08:16:32",
+          "lat": -27.8238048,
+          "lon": -50.3627936
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -297,12 +297,12 @@
         "frete_rs": 16011.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.99 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 08:04:03",
-          "lat": -25.084195,
-          "lon": -48.61093
+          "referencia": "3.98 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 08:14:49",
+          "lat": -25.0337083333333,
+          "lon": -48.534875
         },
-        "distancia_km": 282.2,
+        "distancia_km": 272.7,
         "proximo": false
       },
       {
@@ -317,12 +317,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 08:04:30",
-          "lat": -25.0825744,
-          "lon": -48.6146304
+          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 08:15:47",
+          "lat": -25.0551632,
+          "lon": -48.5537792
         },
-        "distancia_km": 282.4,
+        "distancia_km": 275.7,
         "proximo": false
       },
       {
@@ -337,12 +337,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 08:04:30",
-          "lat": -25.0825744,
-          "lon": -48.6146304
+          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 08:15:47",
+          "lat": -25.0551632,
+          "lon": -48.5537792
         },
-        "distancia_km": 282.4,
+        "distancia_km": 275.7,
         "proximo": false
       },
       {
@@ -357,12 +357,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.39 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 08:04:30",
-          "lat": -25.0825744,
-          "lon": -48.6146304
+          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 08:15:47",
+          "lat": -25.0551632,
+          "lon": -48.5537792
         },
-        "distancia_km": 282.4,
+        "distancia_km": 275.7,
         "proximo": false
       },
       {
@@ -443,10 +443,10 @@
         "frete_rs": 2796.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de POSTO ROSSO - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 08:04:41",
-          "lat": -28.342553,
-          "lon": -48.7331288
+          "referencia": "1.35 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "25/11/2026 08:17:10",
+          "lat": -28.4367331,
+          "lon": -48.8379
         },
         "distancia_km": null,
         "proximo": false
@@ -474,10 +474,10 @@
         "frete_rs": 6713.68,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de POSTO ROSSO - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 08:04:41",
-          "lat": -28.342553,
-          "lon": -48.7331288
+          "referencia": "1.35 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "25/11/2026 08:17:10",
+          "lat": -28.4367331,
+          "lon": -48.8379
         },
         "distancia_km": null,
         "proximo": false
@@ -506,8 +506,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:03:23",
-          "lat": -29.14632,
+          "data_hora_posicao": "25/11/2026 08:15:23",
+          "lat": -29.146304,
           "lon": -51.1649024
         },
         "distancia_km": null,
@@ -526,9 +526,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:04:32",
-          "lat": -27.8238176,
-          "lon": -50.3627968
+          "data_hora_posicao": "25/11/2026 08:16:32",
+          "lat": -27.8238048,
+          "lon": -50.3627936
         },
         "distancia_km": null,
         "proximo": false
@@ -546,9 +546,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:04:32",
-          "lat": -27.8238176,
-          "lon": -50.3627968
+          "data_hora_posicao": "25/11/2026 08:16:32",
+          "lat": -27.8238048,
+          "lon": -50.3627936
         },
         "distancia_km": null,
         "proximo": false
@@ -582,9 +582,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:04:32",
-          "lat": -27.8238176,
-          "lon": -50.3627968
+          "data_hora_posicao": "25/11/2026 08:16:32",
+          "lat": -27.8238048,
+          "lon": -50.3627936
         },
         "distancia_km": null,
         "proximo": false
@@ -598,5 +598,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T08:07:13"
+  "_gerado_em": "2026-11-25T08:19:25"
 }
