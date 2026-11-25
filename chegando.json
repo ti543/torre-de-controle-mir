@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 04:45:06",
+          "data_hora_posicao": "25/11/2026 04:59:06",
           "lat": -27.2059552,
           "lon": -49.6488736
         },
@@ -33,12 +33,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.64 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:09",
-          "lat": -25.1961552,
-          "lon": -48.8916288
+          "referencia": "0.04 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 09) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 05:00:09",
+          "lat": -25.2887456,
+          "lon": -48.9339648
         },
-        "distancia_km": 235.9,
+        "distancia_km": 224.8,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.12 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 06) - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 04:45:05",
-          "lat": -24.7227856,
-          "lon": -48.0841344
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "25/11/2026 04:59:21",
+          "lat": -24.7935024,
+          "lon": -48.2111008
         },
-        "distancia_km": 317.4,
+        "distancia_km": 304.4,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 04:45:06",
+          "data_hora_posicao": "25/11/2026 04:59:06",
           "lat": -27.2059552,
           "lon": -49.6488736
         },
@@ -108,12 +108,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.49 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 04:44:40",
-          "lat": -29.185472,
-          "lon": -51.2474464
+          "referencia": "0.37 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 05:00:16",
+          "lat": -29.1498944,
+          "lon": -51.187424
         },
-        "distancia_km": 270.1,
+        "distancia_km": 263.5,
         "proximo": false
       }
     ],
@@ -140,28 +140,388 @@
       }
     }
   },
-  "GRU": {
+  "ITJ": {
     "veiculos": [
       {
-        "manif": "CTB013663-8",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 4044.28,
-        "frete_rs": 7354.81,
-        "grupo_origem": "Curitiba",
+        "manif": "GRU075051-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 9371.63,
+        "frete_rs": 10157.55,
+        "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 04:44:41",
-          "lat": -23.471104,
-          "lon": -46.4615808
+          "referencia": "0.06 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 04:59:56",
+          "lat": -25.0963856,
+          "lon": -48.6612736
         },
-        "distancia_km": 0.1,
+        "distancia_km": 199.2,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075053-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 5574.38,
+        "frete_rs": 3953.44,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.32 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "25/11/2026 04:58:28",
+          "lat": -25.3056848,
+          "lon": -48.9734624
+        },
+        "distancia_km": 177.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075061-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 7083.38,
+        "frete_rs": 8363.45,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016300-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2.0,
+        "frete_rs": 218.21,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.38 km de POSTO TREVO - SOMBRIO/SC",
+          "data_hora_posicao": "25/11/2026 04:59:05",
+          "lat": -29.1074016,
+          "lon": -49.6370208
+        },
+        "distancia_km": 262.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 22029.39,
+        "frete_rs": 22474.440000000002,
+        "qtde": 3
+      },
+      "Porto Alegre": {
+        "peso_kg": 2.0,
+        "frete_rs": 218.21,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "GRU075052-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 572.05,
+        "frete_rs": 1603.74,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075059-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 6181.07,
+        "frete_rs": 7864.03,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "25/11/2026 04:58:53",
+          "lat": -22.8469283333333,
+          "lon": -47.124775
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075060-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 2784.0,
+        "frete_rs": 5129.9,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "25/11/2026 04:58:53",
+          "lat": -22.8469283333333,
+          "lon": -47.124775
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 9537.119999999999,
+        "frete_rs": 14597.67,
+        "qtde": 3
+      }
+    }
+  },
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "GRU075054-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 4893.02,
+        "frete_rs": 6151.78,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "1.32 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "25/11/2026 04:58:28",
+          "lat": -25.3056848,
+          "lon": -48.9734624
+        },
+        "distancia_km": 563.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044567-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 2882.6,
+        "frete_rs": 2274.32,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 04:58:55",
+          "lat": -29.9833566666667,
+          "lon": -51.1865816666667
+        },
+        "distancia_km": 0.0,
         "proximo": true
       },
+      {
+        "manif": "RSL044590-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 2542.71,
+        "frete_rs": 3175.07,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 04:58:32",
+          "lat": -27.2061184,
+          "lon": -49.649424
+        },
+        "distancia_km": 343.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 4893.02,
+        "frete_rs": 6151.78,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 5425.3099999999995,
+        "frete_rs": 5449.39,
+        "qtde": 2
+      }
+    }
+  },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "GRU075055-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 3829.9,
+        "frete_rs": 5242.6,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 04:59:55",
+          "lat": -25.5276352,
+          "lon": -49.2953216
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "GRU075057-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 826.5,
+        "frete_rs": 1076.08,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.17 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "25/11/2026 04:59:21",
+          "lat": -24.7935024,
+          "lon": -48.2111008
+        },
+        "distancia_km": 136.3,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024205-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 3357.07,
+        "frete_rs": 3657.86,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.53 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 04:59:52",
+          "lat": -25.8035712,
+          "lon": -49.1347552
+        },
+        "distancia_km": 34.6,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024206-3",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 108.0,
+        "frete_rs": 492.27,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.53 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 04:59:52",
+          "lat": -25.8035712,
+          "lon": -49.1347552
+        },
+        "distancia_km": 34.6,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044584-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 12773.48,
+        "frete_rs": 7266.51,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "2.53 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 04:59:52",
+          "lat": -25.8035712,
+          "lon": -49.1347552
+        },
+        "distancia_km": 34.6,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 4656.4,
+        "frete_rs": 6318.68,
+        "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 3465.07,
+        "frete_rs": 4150.13,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 12773.48,
+        "frete_rs": 7266.51,
+        "qtde": 1
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU075062-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 8388.65,
+        "frete_rs": 13842.01,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 8388.65,
+        "frete_rs": 13842.01,
+        "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
       {
         "manif": "ITJ024201-2",
         "origin_unit": "ITJ",
@@ -174,12 +534,12 @@
         "frete_rs": 16011.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de NELORE COUROS - GARUVA/SC",
-          "data_hora_posicao": "25/11/2026 04:44:33",
-          "lat": -26.017225,
-          "lon": -48.86211
+          "referencia": "0.14 km de RESTAURANTE COSTELÃO DO GAUCHO - GUARATUBA/PR",
+          "data_hora_posicao": "25/11/2026 04:58:33",
+          "lat": -25.8934783333333,
+          "lon": -48.9313616666667
         },
-        "distancia_km": 372.7,
+        "distancia_km": 367.2,
         "proximo": false
       },
       {
@@ -194,12 +554,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.71 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:30",
-          "lat": -25.7995344,
-          "lon": -49.1323744
+          "referencia": "0.06 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "25/11/2026 04:59:51",
+          "lat": -25.6581408,
+          "lon": -49.154496
         },
-        "distancia_km": 374.0,
+        "distancia_km": 365.1,
         "proximo": false
       },
       {
@@ -214,12 +574,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.71 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:30",
-          "lat": -25.7995344,
-          "lon": -49.1323744
+          "referencia": "0.06 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "25/11/2026 04:59:51",
+          "lat": -25.6581408,
+          "lon": -49.154496
         },
-        "distancia_km": 374.0,
+        "distancia_km": 365.1,
         "proximo": false
       },
       {
@@ -234,12 +594,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.71 km de POSTO PEDRO PELANDA TIJUCAS DO SUL - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:30",
-          "lat": -25.7995344,
-          "lon": -49.1323744
+          "referencia": "0.06 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "25/11/2026 04:59:51",
+          "lat": -25.6581408,
+          "lon": -49.154496
         },
-        "distancia_km": 374.0,
+        "distancia_km": 365.1,
         "proximo": false
       },
       {
@@ -289,11 +649,6 @@
       }
     ],
     "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4044.28,
-        "frete_rs": 7354.81,
-        "qtde": 1
-      },
       "Itajaí": {
         "peso_kg": 26590.98,
         "frete_rs": 33890.35,
@@ -307,366 +662,6 @@
       "Timbó": {
         "peso_kg": 13219.99,
         "frete_rs": 23249.63,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU075051-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 9371.63,
-        "frete_rs": 10157.55,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.06 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:43:56",
-          "lat": -25.0963856,
-          "lon": -48.6612736
-        },
-        "distancia_km": 199.2,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075053-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 5574.38,
-        "frete_rs": 3953.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.02 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:28",
-          "lat": -25.1922336,
-          "lon": -48.887136
-        },
-        "distancia_km": 189.2,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075061-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 7083.38,
-        "frete_rs": 8363.45,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016300-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2.0,
-        "frete_rs": 218.21,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "1.05 km de POSTO CANYONS BEACH - SAO JOAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 04:45:05",
-          "lat": -29.217648,
-          "lon": -49.7591008
-        },
-        "distancia_km": 278.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 22029.39,
-        "frete_rs": 22474.440000000002,
-        "qtde": 3
-      },
-      "Porto Alegre": {
-        "peso_kg": 2.0,
-        "frete_rs": 218.21,
-        "qtde": 1
-      }
-    }
-  },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU075052-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 572.05,
-        "frete_rs": 1603.74,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075059-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 6181.07,
-        "frete_rs": 7864.03,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 04:44:53",
-          "lat": -22.8469283333333,
-          "lon": -47.124775
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075060-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 2784.0,
-        "frete_rs": 5129.9,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 04:44:53",
-          "lat": -22.8469283333333,
-          "lon": -47.124775
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 9537.119999999999,
-        "frete_rs": 14597.67,
-        "qtde": 3
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU075054-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4893.02,
-        "frete_rs": 6151.78,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.02 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 04:44:28",
-          "lat": -25.1922336,
-          "lon": -48.887136
-        },
-        "distancia_km": 578.9,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044567-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 04:44:55",
-          "lat": -29.9833566666667,
-          "lon": -51.1865816666667
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 4893.02,
-        "frete_rs": 6151.78,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU075055-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 3829.9,
-        "frete_rs": 5242.6,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.27 km de MECÂNICA SUL DIESEL - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 04:43:46",
-          "lat": -25.56124,
-          "lon": -49.2622336
-        },
-        "distancia_km": 5.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075057-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 826.5,
-        "frete_rs": 1076.08,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.12 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 06) - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 04:45:05",
-          "lat": -24.7227856,
-          "lon": -48.0841344
-        },
-        "distancia_km": 151.3,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024205-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 3357.07,
-        "frete_rs": 3657.86,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.7 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 04:42:37",
-          "lat": -25.851752,
-          "lon": -48.9704288
-        },
-        "distancia_km": 48.6,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024206-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 108.0,
-        "frete_rs": 492.27,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.7 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 04:42:37",
-          "lat": -25.851752,
-          "lon": -48.9704288
-        },
-        "distancia_km": 48.6,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044584-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 12773.48,
-        "frete_rs": 7266.51,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.7 km de POLÍCIA RODOVIÁRIA FEDERAL - GUARATUBA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 04:42:37",
-          "lat": -25.851752,
-          "lon": -48.9704288
-        },
-        "distancia_km": 48.6,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 4656.4,
-        "frete_rs": 6318.68,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 3465.07,
-        "frete_rs": 4150.13,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 12773.48,
-        "frete_rs": 7266.51,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU075062-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 8388.65,
-        "frete_rs": 13842.01,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8388.65,
-        "frete_rs": 13842.01,
         "qtde": 1
       }
     }
@@ -685,10 +680,50 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.49 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATERIAIS ELÉTRICOS) - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 04:44:40",
-          "lat": -29.185472,
-          "lon": -51.2474464
+          "referencia": "0.37 km de HCL METALURGICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 05:00:16",
+          "lat": -29.1498944,
+          "lon": -51.187424
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044589-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 1430.58,
+        "frete_rs": 1431.02,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 04:58:32",
+          "lat": -27.2061184,
+          "lon": -49.649424
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044592-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 105.0,
+        "frete_rs": 209.35,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 04:58:32",
+          "lat": -27.2061184,
+          "lon": -49.649424
         },
         "distancia_km": null,
         "proximo": false
@@ -699,8 +734,44 @@
         "peso_kg": 208.0,
         "frete_rs": 252.37,
         "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 1535.58,
+        "frete_rs": 1640.37,
+        "qtde": 2
       }
     }
   },
-  "_gerado_em": "2026-11-25T04:47:48"
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044588-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 11902.5,
+        "frete_rs": 7360.14,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 04:58:32",
+          "lat": -27.2061184,
+          "lon": -49.649424
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 11902.5,
+        "frete_rs": 7360.14,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-25T05:02:35"
 }
