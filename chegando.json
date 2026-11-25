@@ -1,62 +1,26 @@
 {
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010465-5",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 1600.6,
-        "frete_rs": 3854.88,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.72 km de THR INDUSTRIA E COMERCIO DE EMBALAGENS LTDA - ITATIBA/SP",
-          "data_hora_posicao": "25/11/2026 19:58:59",
-          "lat": -23.0172916666667,
-          "lon": -46.758115
-        },
-        "distancia_km": 58.8,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044612-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.52 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "25/11/2026 19:59:06",
-          "lat": -26.9618272,
-          "lon": -49.34064
-        },
-        "distancia_km": 484.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1600.6,
-        "frete_rs": 3854.88,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
+      {
+        "manif": "BRQ000771-4",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 8788.25,
+        "frete_rs": 8636.33,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.72 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "25/11/2026 20:12:44",
+          "lat": -27.0966213,
+          "lon": -48.9307256
+        },
+        "distancia_km": 31.2,
+        "proximo": false
+      },
       {
         "manif": "CRC000401-4",
         "origin_unit": "CRC",
@@ -69,13 +33,33 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:32",
-          "lat": -26.9207548,
-          "lon": -48.708425
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:13:32",
+          "lat": -26.8877563,
+          "lon": -48.7206291
         },
-        "distancia_km": 3.9,
+        "distancia_km": 0.1,
         "proximo": true
+      },
+      {
+        "manif": "CTB013672-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 1508.26,
+        "frete_rs": 2486.43,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 20:14:37",
+          "lat": -25.527744,
+          "lon": -49.2954912
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "GRU075107-3",
@@ -89,10 +73,10 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 20:00:12",
-          "lat": -23.4705392,
-          "lon": -46.4620896
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 20:14:12",
+          "lat": -23.4706064,
+          "lon": -46.4623872
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -109,12 +93,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO ROTA 101 - TERRA DE AREIA/RS",
-          "data_hora_posicao": "25/11/2026 19:59:38",
-          "lat": -29.6154566666667,
-          "lon": -50.0918216666667
+          "referencia": "1.8 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "25/11/2026 20:13:38",
+          "lat": -29.520985,
+          "lon": -49.9970883333333
         },
-        "distancia_km": 331.7,
+        "distancia_km": 318.4,
         "proximo": false
       },
       {
@@ -129,12 +113,12 @@
         "frete_rs": 1713.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.52 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "25/11/2026 19:59:06",
-          "lat": -26.9618272,
-          "lon": -49.34064
+          "referencia": "0.77 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
+          "data_hora_posicao": "25/11/2026 20:13:06",
+          "lat": -26.8757984,
+          "lon": -49.2368992
         },
-        "distancia_km": 62.0,
+        "distancia_km": 51.2,
         "proximo": false
       },
       {
@@ -149,19 +133,29 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.14 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:32",
-          "lat": -26.9207548,
-          "lon": -48.708425
+          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:13:32",
+          "lat": -26.8877563,
+          "lon": -48.7206291
         },
-        "distancia_km": 3.9,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
     "por_origem": {
+      "Brusque": {
+        "peso_kg": 8788.25,
+        "frete_rs": 8636.33,
+        "qtde": 1
+      },
       "CRC": {
         "peso_kg": 4848.08,
         "frete_rs": 5536.28,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 1508.26,
+        "frete_rs": 2486.43,
         "qtde": 1
       },
       "Guarulhos": {
@@ -186,8 +180,109 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010465-5",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 1600.6,
+        "frete_rs": 3854.88,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "0.72 km de POSTO BRASIL - ATIBAIA - ATIBAIA/SP",
+          "data_hora_posicao": "25/11/2026 20:13:25",
+          "lat": -23.101185,
+          "lon": -46.6020483333333
+        },
+        "distancia_km": 43.5,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013675-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 12434.86,
+        "frete_rs": 12090.01,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.04 km de POSTO PINHEIROS SHELL - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 20:14:40",
+          "lat": -25.5236624,
+          "lon": -49.2955392
+        },
+        "distancia_km": 366.5,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044612-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.77 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
+          "data_hora_posicao": "25/11/2026 20:13:06",
+          "lat": -26.8757984,
+          "lon": -49.2368992
+        },
+        "distancia_km": 470.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 1600.6,
+        "frete_rs": 3854.88,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 12434.86,
+        "frete_rs": 12090.01,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013673-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 4648.71,
+        "frete_rs": 4324.7,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 20:14:37",
+          "lat": -25.527744,
+          "lon": -49.2954912
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002254-3",
         "origin_unit": "CXS",
@@ -200,12 +295,12 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.94 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:00:13",
-          "lat": -27.283424,
-          "lon": -50.0709312
+          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:14:53",
+          "lat": -27.254016,
+          "lon": -49.9489792
         },
-        "distancia_km": 42.5,
+        "distancia_km": 30.1,
         "proximo": false
       },
       {
@@ -220,12 +315,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "25/11/2026 19:49:53",
-          "lat": -24.331885,
-          "lon": -47.6359233333333
+          "referencia": "0.13 km de POSTO GRAAL OURO VERDE - REGISTRO/SP",
+          "data_hora_posicao": "25/11/2026 20:13:44",
+          "lat": -24.47548,
+          "lon": -47.8272666666667
         },
-        "distancia_km": 377.9,
+        "distancia_km": 354.2,
         "proximo": false
       },
       {
@@ -240,12 +335,12 @@
         "frete_rs": 4880.59,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.94 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:00:13",
-          "lat": -27.283424,
-          "lon": -50.0709312
+          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:14:53",
+          "lat": -27.254016,
+          "lon": -49.9489792
         },
-        "distancia_km": 42.5,
+        "distancia_km": 30.1,
         "proximo": false
       },
       {
@@ -260,12 +355,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "8.94 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "25/11/2026 20:00:13",
-          "lat": -27.283424,
-          "lon": -50.0709312
+          "referencia": "1.21 km de FRIGORÍFICO VERDI LTDA - POUSO REDONDO/SC",
+          "data_hora_posicao": "25/11/2026 20:14:53",
+          "lat": -27.254016,
+          "lon": -49.9489792
         },
-        "distancia_km": 42.5,
+        "distancia_km": 30.1,
         "proximo": false
       },
       {
@@ -280,31 +375,21 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RODOIL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "25/11/2026 19:59:17",
-          "lat": -29.397712,
-          "lon": -51.357936
+          "referencia": "1.82 km de POSTO CHARRUA - SAO VENDELINO/RS",
+          "data_hora_posicao": "25/11/2026 20:12:32",
+          "lat": -29.3532928,
+          "lon": -51.3693152
         },
-        "distancia_km": 295.6,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016533-6",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1731.53,
-        "frete_rs": 2807.13,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 292.2,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 4648.71,
+        "frete_rs": 4324.7,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 8067.77,
         "frete_rs": 12681.46,
@@ -319,11 +404,6 @@
         "peso_kg": 1908.9,
         "frete_rs": 4235.1,
         "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 1731.53,
-        "frete_rs": 2807.13,
-        "qtde": 1
       }
     }
   },
@@ -341,12 +421,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:05",
-          "lat": -26.8874752,
-          "lon": -48.7212704
+          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:15:05",
+          "lat": -26.920544,
+          "lon": -48.708752
         },
-        "distancia_km": 420.2,
+        "distancia_km": 417.9,
         "proximo": false
       },
       {
@@ -361,12 +441,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:05",
-          "lat": -26.8874752,
-          "lon": -48.7212704
+          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:15:05",
+          "lat": -26.920544,
+          "lon": -48.708752
         },
-        "distancia_km": 420.2,
+        "distancia_km": 417.9,
         "proximo": false
       },
       {
@@ -381,12 +461,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:05",
-          "lat": -26.8874752,
-          "lon": -48.7212704
+          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:15:05",
+          "lat": -26.920544,
+          "lon": -48.708752
         },
-        "distancia_km": 420.2,
+        "distancia_km": 417.9,
         "proximo": false
       },
       {
@@ -401,12 +481,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:59:05",
-          "lat": -26.8874752,
-          "lon": -48.7212704
+          "referencia": "0.18 km de POSTO SÃO VICENTE (MIME) - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 20:15:05",
+          "lat": -26.920544,
+          "lon": -48.708752
         },
-        "distancia_km": 420.2,
+        "distancia_km": 417.9,
         "proximo": false
       }
     ],
@@ -418,5 +498,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T20:02:41"
+  "_gerado_em": "2026-11-25T20:17:27"
 }
