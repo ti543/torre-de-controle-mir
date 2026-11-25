@@ -13,12 +13,12 @@
         "frete_rs": 3854.88,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.31 km de SAMSUNG ELETRONICA DA AMAZONIA LTDA - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 19:28:41",
-          "lat": -22.8500416666667,
-          "lon": -47.02891
+          "referencia": "3.13 km de POSTO PETROBRAS - VALINHOS - VALINHOS/SP",
+          "data_hora_posicao": "25/11/2026 19:41:18",
+          "lat": -22.92857,
+          "lon": -46.9410383333333
         },
-        "distancia_km": 90.1,
+        "distancia_km": 77.6,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "25/11/2026 19:29:10",
-          "lat": -27.098624,
-          "lon": -49.4588992
+          "referencia": "0.66 km de POSTO DELTA - APIUNA - APIUNA/SC",
+          "data_hora_posicao": "25/11/2026 19:45:06",
+          "lat": -27.0277632,
+          "lon": -49.3803936
         },
-        "distancia_km": 503.5,
+        "distancia_km": 492.5,
         "proximo": false
       }
     ],
@@ -69,13 +69,33 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "0.46 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
-          "data_hora_posicao": "25/11/2026 19:29:25",
-          "lat": -27.091061,
-          "lon": -48.6159975
+          "referencia": "0.85 km de POSTO APOLO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 19:45:24",
+          "lat": -27.0155923,
+          "lon": -48.6118355
         },
-        "distancia_km": 24.9,
+        "distancia_km": 17.9,
         "proximo": true
+      },
+      {
+        "manif": "GRU075107-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 5758.38,
+        "frete_rs": 5794.91,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 19:44:12",
+          "lat": -23.4705392,
+          "lon": -46.4620896
+        },
+        "distancia_km": 442.7,
+        "proximo": false
       },
       {
         "manif": "POA016304-0",
@@ -89,12 +109,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.58 km de CD OSORIO - OSORIO/RS",
-          "data_hora_posicao": "25/11/2026 19:28:43",
-          "lat": -29.8982766666667,
-          "lon": -50.3057083333333
+          "referencia": "0.52 km de RESTAURANTE TENDA MORAES - OSORIO/RS",
+          "data_hora_posicao": "25/11/2026 19:42:43",
+          "lat": -29.7725316666667,
+          "lon": -50.2179616666667
         },
-        "distancia_km": 368.9,
+        "distancia_km": 352.7,
         "proximo": false
       },
       {
@@ -109,12 +129,12 @@
         "frete_rs": 1713.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.11 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "25/11/2026 19:29:10",
-          "lat": -27.098624,
-          "lon": -49.4588992
+          "referencia": "0.66 km de POSTO DELTA - APIUNA - APIUNA/SC",
+          "data_hora_posicao": "25/11/2026 19:45:06",
+          "lat": -27.0277632,
+          "lon": -49.3803936
         },
-        "distancia_km": 76.8,
+        "distancia_km": 67.2,
         "proximo": false
       },
       {
@@ -129,12 +149,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.46 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
-          "data_hora_posicao": "25/11/2026 19:29:25",
-          "lat": -27.091061,
-          "lon": -48.6159975
+          "referencia": "0.85 km de POSTO APOLO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "25/11/2026 19:45:24",
+          "lat": -27.0155923,
+          "lon": -48.6118355
         },
-        "distancia_km": 24.9,
+        "distancia_km": 17.9,
         "proximo": true
       }
     ],
@@ -142,6 +162,11 @@
       "CRC": {
         "peso_kg": 4848.08,
         "frete_rs": 5536.28,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 5758.38,
+        "frete_rs": 5794.91,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -175,12 +200,12 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 19:15:23",
-          "lat": -27.3034464,
-          "lon": -50.4147552
+          "referencia": "8.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:45:23",
+          "lat": -27.2868288,
+          "lon": -50.154
         },
-        "distancia_km": 76.4,
+        "distancia_km": 50.7,
         "proximo": false
       },
       {
@@ -195,12 +220,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.16 km de POSTO VALE DO RIBEIRA - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 19:29:53",
-          "lat": -24.28196,
-          "lon": -47.4327416666667
+          "referencia": "1.19 km de POSTO 150 - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 19:43:53",
+          "lat": -24.3280033333333,
+          "lon": -47.5728183333333
         },
-        "distancia_km": 393.7,
+        "distancia_km": 381.6,
         "proximo": false
       },
       {
@@ -215,12 +240,12 @@
         "frete_rs": 4880.59,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 19:15:23",
-          "lat": -27.3034464,
-          "lon": -50.4147552
+          "referencia": "8.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:45:23",
+          "lat": -27.2868288,
+          "lon": -50.154
         },
-        "distancia_km": 76.4,
+        "distancia_km": 50.7,
         "proximo": false
       },
       {
@@ -235,12 +260,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.72 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 19:15:23",
-          "lat": -27.3034464,
-          "lon": -50.4147552
+          "referencia": "8.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 19:45:23",
+          "lat": -27.2868288,
+          "lon": -50.154
         },
-        "distancia_km": 76.4,
+        "distancia_km": 50.7,
         "proximo": false
       },
       {
@@ -255,12 +280,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.11 km de MATRIZ UNIDÃO - PORTAO/RS",
-          "data_hora_posicao": "25/11/2026 19:27:32",
-          "lat": -29.6579488,
-          "lon": -51.2700224
+          "referencia": "4.43 km de POSTO SIM RETRO - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "25/11/2026 19:45:15",
+          "lat": -29.516656,
+          "lon": -51.3564288
         },
-        "distancia_km": 315.3,
+        "distancia_km": 306.4,
         "proximo": false
       },
       {
@@ -317,7 +342,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:29:05",
+          "data_hora_posicao": "25/11/2026 19:45:05",
           "lat": -26.8874752,
           "lon": -48.7212704
         },
@@ -337,7 +362,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:29:05",
+          "data_hora_posicao": "25/11/2026 19:45:05",
           "lat": -26.8874752,
           "lon": -48.7212704
         },
@@ -357,7 +382,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:29:05",
+          "data_hora_posicao": "25/11/2026 19:45:05",
           "lat": -26.8874752,
           "lon": -48.7212704
         },
@@ -377,7 +402,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 19:29:05",
+          "data_hora_posicao": "25/11/2026 19:45:05",
           "lat": -26.8874752,
           "lon": -48.7212704
         },
@@ -393,5 +418,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T19:32:36"
+  "_gerado_em": "2026-11-25T19:47:33"
 }
