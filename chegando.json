@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "1.27 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 17:29:53",
-          "lat": -28.0304375,
-          "lon": -48.7057733
+          "referencia": "2.13 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 17:45:15",
+          "lat": -27.8659826,
+          "lon": -48.6459713
         },
-        "distancia_km": 127.1,
+        "distancia_km": 109.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.27 km de RESTAURATE GRILLOS - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 17:29:53",
-          "lat": -28.0304375,
-          "lon": -48.7057733
+          "referencia": "2.13 km de PEDAGIO - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 17:45:15",
+          "lat": -27.8659826,
+          "lon": -48.6459713
         },
-        "distancia_km": 127.1,
+        "distancia_km": 109.1,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:29:23",
-          "lat": -27.8237856,
-          "lon": -50.3629408
+          "data_hora_posicao": "25/11/2026 17:45:23",
+          "lat": -27.8237888,
+          "lon": -50.3628096
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,12 +89,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de GIOVANELLA TRANSPORTES EMBU - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "25/11/2026 17:28:46",
-          "lat": -23.6655016666667,
-          "lon": -46.8546033333333
+          "referencia": "0.56 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 17:45:10",
+          "lat": -23.792585,
+          "lon": -46.9151216666667
         },
-        "distancia_km": 483.5,
+        "distancia_km": 468.3,
         "proximo": false
       },
       {
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:29:23",
-          "lat": -27.8237856,
-          "lon": -50.3629408
+          "data_hora_posicao": "25/11/2026 17:45:23",
+          "lat": -27.8237888,
+          "lon": -50.3628096
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -195,10 +195,10 @@
         "frete_rs": 0.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.63 km de POSTO RUSSI CENTRO - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 17:28:49",
-          "lat": -27.2237056,
-          "lon": -49.6128
+          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 17:44:39",
+          "lat": -27.2045828,
+          "lon": -49.6379586
         },
         "distancia_km": null,
         "proximo": false
@@ -236,10 +236,10 @@
         "frete_rs": 6575.37,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.54 km de BOMI  ITAJAI SC - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 17:28:31",
-          "lat": -26.9628458,
-          "lon": -48.7748498
+          "referencia": "0.62 km de TRANSTHUR - BRUSQUE/SC",
+          "data_hora_posicao": "25/11/2026 17:44:50",
+          "lat": -27.0414708,
+          "lon": -48.867306
         },
         "distancia_km": null,
         "proximo": false
@@ -267,12 +267,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de CHIES PRODUTOS LTDA - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 17:29:46",
-          "lat": -29.9777216,
-          "lon": -51.1882656
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 17:44:32",
+          "lat": -29.9835168,
+          "lon": -51.1871392
         },
-        "distancia_km": 0.6,
+        "distancia_km": 0.1,
         "proximo": true
       }
     ],
@@ -284,5 +284,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T17:32:27"
+  "_gerado_em": "2026-11-25T17:47:34"
 }
