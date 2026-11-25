@@ -13,12 +13,12 @@
         "frete_rs": 5378.8,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 01:45:06",
-          "lat": -26.8785536,
-          "lon": -49.240704
+          "referencia": "1.05 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "25/11/2026 01:59:06",
+          "lat": -26.948048,
+          "lon": -49.365728
         },
-        "distancia_km": 54.5,
+        "distancia_km": 40.2,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 01:44:09",
+          "data_hora_posicao": "25/11/2026 02:00:09",
           "lat": -24.779752,
           "lon": -48.1865952
         },
@@ -68,12 +68,12 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.89 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "25/11/2026 01:45:05",
-          "lat": -23.7977072,
-          "lon": -46.66656
+          "referencia": "1.6 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 02:00:00",
+          "lat": -23.7377248,
+          "lon": -46.8131552
         },
-        "distancia_km": 482.9,
+        "distancia_km": 479.3,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 1727.05,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.29 km de POSTO ZANDONÁ 02 - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 01:45:06",
-          "lat": -26.8785536,
-          "lon": -49.240704
+          "referencia": "1.05 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "25/11/2026 01:59:06",
+          "lat": -26.948048,
+          "lon": -49.365728
         },
-        "distancia_km": 54.5,
+        "distancia_km": 40.2,
         "proximo": false
       },
       {
@@ -108,10 +108,10 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 01:43:23",
-          "lat": -29.9833824,
-          "lon": -51.186912
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 01:59:23",
+          "lat": -29.9834048,
+          "lon": -51.1868544
         },
         "distancia_km": 343.3,
         "proximo": false
@@ -154,12 +154,12 @@
         "frete_rs": 7354.81,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO ESTRELA AZUL - JUQUIA/SP",
-          "data_hora_posicao": "25/11/2026 01:43:15",
-          "lat": -24.3637312,
-          "lon": -47.691456
+          "referencia": "0.53 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 01:59:15",
+          "lat": -24.3054544,
+          "lon": -47.4912672
         },
-        "distancia_km": 159.6,
+        "distancia_km": 139.9,
         "proximo": false
       },
       {
@@ -175,9 +175,49 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 01:44:06",
+          "data_hora_posicao": "25/11/2026 02:00:05",
           "lat": -26.8873766666667,
           "lon": -48.7211433333333
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024207-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 10738.4,
+        "frete_rs": 14776.27,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 01:58:30",
+          "lat": -26.8876544,
+          "lon": -48.7206688
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024208-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 2529.18,
+        "frete_rs": 3102.12,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 01:58:30",
+          "lat": -26.8876544,
+          "lon": -48.7206688
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -195,7 +235,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 01:44:30",
+          "data_hora_posicao": "25/11/2026 01:58:30",
           "lat": -26.8876544,
           "lon": -48.7206688
         },
@@ -255,9 +295,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 13323.4,
-        "frete_rs": 16011.96,
-        "qtde": 1
+        "peso_kg": 26590.98,
+        "frete_rs": 33890.35,
+        "qtde": 3
       },
       "Rio do Sul": {
         "peso_kg": 43721.56,
@@ -286,9 +326,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 01:43:56",
-          "lat": -24.7789344,
-          "lon": -48.1852768
+          "data_hora_posicao": "25/11/2026 01:59:56",
+          "lat": -24.7788448,
+          "lon": -48.186272
         },
         "distancia_km": 240.5,
         "proximo": false
@@ -306,7 +346,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 01:44:58",
+          "data_hora_posicao": "25/11/2026 01:58:28",
           "lat": -24.7786064,
           "lon": -48.1855168
         },
@@ -340,12 +380,12 @@
         "frete_rs": 218.21,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.17 km de CD BRAIR - CONCORDIA/SC",
-          "data_hora_posicao": "25/11/2026 01:45:05",
-          "lat": -29.9552064,
-          "lon": -51.0733504
+          "referencia": "0.05 km de POSTO REDE SIM - GRAVATAI - GRAVATAI/RS",
+          "data_hora_posicao": "25/11/2026 01:59:05",
+          "lat": -29.9440256,
+          "lon": -50.9472032
         },
-        "distancia_km": 411.4,
+        "distancia_km": 403.6,
         "proximo": false
       }
     ],
@@ -392,7 +432,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 01:44:56",
+          "data_hora_posicao": "25/11/2026 01:58:56",
           "lat": -22.8469283333333,
           "lon": -47.124775
         },
@@ -412,7 +452,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "25/11/2026 01:44:56",
+          "data_hora_posicao": "25/11/2026 01:58:56",
           "lat": -22.8469283333333,
           "lon": -47.124775
         },
@@ -443,7 +483,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM - CAJATI - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 01:44:58",
+          "data_hora_posicao": "25/11/2026 01:58:28",
           "lat": -24.7786064,
           "lon": -48.1855168
         },
@@ -463,7 +503,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 01:44:58",
+          "data_hora_posicao": "25/11/2026 01:58:58",
           "lat": -29.9833566666667,
           "lon": -51.1865816666667
         },
@@ -498,12 +538,12 @@
         "frete_rs": 5242.6,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.96 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "25/11/2026 01:43:46",
-          "lat": -24.6583456,
-          "lon": -47.9672576
+          "referencia": "0.41 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
+          "data_hora_posicao": "25/11/2026 01:59:46",
+          "lat": -24.7513792,
+          "lon": -48.1549568
         },
-        "distancia_km": 165.0,
+        "distancia_km": 143.6,
         "proximo": false
       },
       {
@@ -518,12 +558,12 @@
         "frete_rs": 1076.08,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "5.89 km de BASE SAU 02 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "25/11/2026 01:45:05",
-          "lat": -23.7977072,
-          "lon": -46.66656
+          "referencia": "1.6 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 02:00:00",
+          "lat": -23.7377248,
+          "lon": -46.8131552
         },
-        "distancia_km": 328.0,
+        "distancia_km": 320.2,
         "proximo": false
       },
       {
@@ -538,10 +578,10 @@
         "frete_rs": 3657.86,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 01:44:44",
-          "lat": -26.8873248,
-          "lon": -48.72144
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 01:58:37",
+          "lat": -26.8873504,
+          "lon": -48.7211264
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -558,10 +598,10 @@
         "frete_rs": 492.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 01:44:44",
-          "lat": -26.8873248,
-          "lon": -48.72144
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 01:58:37",
+          "lat": -26.8873504,
+          "lon": -48.7211264
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -578,10 +618,10 @@
         "frete_rs": 7266.51,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 01:44:44",
-          "lat": -26.8873248,
-          "lon": -48.72144
+          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 01:58:37",
+          "lat": -26.8873504,
+          "lon": -48.7211264
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -645,10 +685,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 01:43:23",
-          "lat": -29.9833824,
-          "lon": -51.186912
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 01:59:23",
+          "lat": -29.9834048,
+          "lon": -51.1868544
         },
         "distancia_km": null,
         "proximo": false
@@ -662,5 +702,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T01:47:31"
+  "_gerado_em": "2026-11-25T02:02:33"
 }
