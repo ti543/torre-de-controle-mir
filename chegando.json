@@ -13,12 +13,12 @@
         "frete_rs": 5536.28,
         "grupo_origem": "CRC",
         "posicao_raster": {
-          "referencia": "2.13 km de PEDAGIO - PALHOCA - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 17:45:15",
-          "lat": -27.8659826,
-          "lon": -48.6459713
+          "referencia": "0.67 km de POSTO CAMBIRELA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 17:59:59",
+          "lat": -27.7163715,
+          "lon": -48.648286
         },
-        "distancia_km": 109.1,
+        "distancia_km": 92.4,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 3607.1,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "2.13 km de PEDAGIO - PALHOCA - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 17:45:15",
-          "lat": -27.8659826,
-          "lon": -48.6459713
+          "referencia": "0.67 km de POSTO CAMBIRELA - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 17:59:59",
+          "lat": -27.7163715,
+          "lon": -48.648286
         },
-        "distancia_km": 109.1,
+        "distancia_km": 92.4,
         "proximo": false
       }
     ],
@@ -70,9 +70,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:45:23",
-          "lat": -27.8237888,
-          "lon": -50.3628096
+          "data_hora_posicao": "25/11/2026 17:59:23",
+          "lat": -27.8237984,
+          "lon": -50.3627936
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -89,12 +89,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.56 km de PEDAGIO - SAO LOURENCO DA SERRA - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "25/11/2026 17:45:10",
-          "lat": -23.792585,
-          "lon": -46.9151216666667
+          "referencia": "0.26 km de POSTO 60 SHELL SELECT - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 17:58:19",
+          "lat": -23.89816,
+          "lon": -46.9874833333333
         },
-        "distancia_km": 468.3,
+        "distancia_km": 454.5,
         "proximo": false
       },
       {
@@ -110,9 +110,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 17:45:23",
-          "lat": -27.8237888,
-          "lon": -50.3628096
+          "data_hora_posicao": "25/11/2026 17:59:23",
+          "lat": -27.8237984,
+          "lon": -50.3627936
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -195,10 +195,10 @@
         "frete_rs": 0.03,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de CONCESSIONARIA IVECO - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 17:44:39",
-          "lat": -27.2045828,
-          "lon": -49.6379586
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 17:55:48",
+          "lat": -27.206129,
+          "lon": -49.6491596
         },
         "distancia_km": null,
         "proximo": false
@@ -222,37 +222,6 @@
       }
     }
   },
-  "BRQ": {
-    "veiculos": [
-      {
-        "manif": "ITJ024213-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "BRQ",
-        "dest_city": "BRUSQUE/SC",
-        "placa": "RDW1H87",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 5717.3,
-        "frete_rs": 6575.37,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.62 km de TRANSTHUR - BRUSQUE/SC",
-          "data_hora_posicao": "25/11/2026 17:44:50",
-          "lat": -27.0414708,
-          "lon": -48.867306
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 5717.3,
-        "frete_rs": 6575.37,
-        "qtde": 1
-      }
-    }
-  },
   "POA": {
     "veiculos": [
       {
@@ -267,12 +236,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 17:44:32",
-          "lat": -29.9835168,
-          "lon": -51.1871392
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "25/11/2026 17:58:32",
+          "lat": -29.983392,
+          "lon": -51.1866528
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -284,5 +253,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T17:47:34"
+  "_gerado_em": "2026-11-25T18:02:25"
 }
