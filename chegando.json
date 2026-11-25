@@ -14,7 +14,7 @@
         "grupo_origem": "CRC",
         "posicao_raster": {
           "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 15:14:50",
+          "data_hora_posicao": "25/11/2026 15:26:50",
           "lat": -28.4687273,
           "lon": -49.0189063
         },
@@ -45,9 +45,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:13:23",
+          "data_hora_posicao": "25/11/2026 15:29:23",
           "lat": -27.8238272,
-          "lon": -50.3629696
+          "lon": -50.3629536
         },
         "distancia_km": null,
         "proximo": false
@@ -65,9 +65,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:13:23",
+          "data_hora_posicao": "25/11/2026 15:29:23",
           "lat": -27.8238272,
-          "lon": -50.3629696
+          "lon": -50.3629536
         },
         "distancia_km": null,
         "proximo": false
@@ -101,11 +101,31 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:13:23",
+          "data_hora_posicao": "25/11/2026 15:29:23",
           "lat": -27.8238272,
-          "lon": -50.3629696
+          "lon": -50.3629536
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075106-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RKW3J80",
+        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
+        "peso_real_kg": 4651.8,
+        "frete_rs": 8025.02,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:28:22",
+          "lat": -23.4705933333333,
+          "lon": -46.4621383333333
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -121,9 +141,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 15:13:23",
+          "data_hora_posicao": "25/11/2026 15:29:23",
           "lat": -27.8238272,
-          "lon": -50.3629696
+          "lon": -50.3629536
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -133,6 +153,11 @@
       "Caxias do Sul / Lages": {
         "peso_kg": 3558.77,
         "frete_rs": 7800.87,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 4651.8,
+        "frete_rs": 8025.02,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -222,12 +247,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:14:30",
-          "lat": -23.4650784,
-          "lon": -46.4678944
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:28:30",
+          "lat": -23.4706288,
+          "lon": -46.4622272
         },
-        "distancia_km": 0.8,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -242,12 +267,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:14:30",
-          "lat": -23.4650784,
-          "lon": -46.4678944
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:28:30",
+          "lat": -23.4706288,
+          "lon": -46.4622272
         },
-        "distancia_km": 0.8,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -262,12 +287,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de M SAM DISTRIBUIDORA PEÇAS LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 15:14:30",
-          "lat": -23.4650784,
-          "lon": -46.4678944
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 15:28:30",
+          "lat": -23.4706288,
+          "lon": -46.4622272
         },
-        "distancia_km": 0.8,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -280,37 +305,6 @@
       "Rio do Sul": {
         "peso_kg": 15394.3,
         "frete_rs": 8411.22,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "RSL044588-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 11902.5,
-        "frete_rs": 7360.14,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.64 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 15:14:32",
-          "lat": -29.157248,
-          "lon": -51.243552
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 11902.5,
-        "frete_rs": 7360.14,
         "qtde": 1
       }
     }
@@ -329,12 +323,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.64 km de MAGAZINE LUIZA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 15:14:32",
-          "lat": -29.157248,
-          "lon": -51.243552
+          "referencia": "0.1 km de SOPRANO ELETROMETALÚRGICA E HIDRÁULICA LTDA (MATRIZ E CD) - FARROUPILHA/RS",
+          "data_hora_posicao": "25/11/2026 15:28:32",
+          "lat": -29.2191904,
+          "lon": -51.3269728
         },
-        "distancia_km": 92.0,
+        "distancia_km": 86.0,
         "proximo": false
       }
     ],
@@ -346,5 +340,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T15:17:33"
+  "_gerado_em": "2026-11-25T15:32:36"
 }
