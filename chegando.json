@@ -1,4 +1,85 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CRC000401-4",
+        "origin_unit": "CRC",
+        "origin_city": "ICARA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 4848.08,
+        "frete_rs": 5536.28,
+        "grupo_origem": "CRC",
+        "posicao_raster": {
+          "referencia": "0.56 km de MECANICA MARCIO CAMINHOES - ICARA/SC",
+          "data_hora_posicao": "25/11/2026 14:14:34",
+          "lat": -28.745965,
+          "lon": -49.258534
+        },
+        "distancia_km": 213.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016300-7",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 2.0,
+        "frete_rs": 218.21,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 14:15:05",
+          "lat": -26.8875488,
+          "lon": -48.7208096
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "TUB000408-1",
+        "origin_unit": "TUB",
+        "origin_city": "TUBARAO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 843.0,
+        "frete_rs": 793.19,
+        "grupo_origem": "TUB",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 14:15:05",
+          "lat": -26.8875488,
+          "lon": -48.7208096
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "CRC": {
+        "peso_kg": 4848.08,
+        "frete_rs": 5536.28,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 2.0,
+        "frete_rs": 218.21,
+        "qtde": 1
+      },
+      "TUB": {
+        "peso_kg": 843.0,
+        "frete_rs": 793.19,
+        "qtde": 1
+      }
+    }
+  },
   "LGS": {
     "veiculos": [
       {
@@ -13,10 +94,10 @@
         "frete_rs": 802.76,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.3 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:59:23",
-          "lat": -29.133104,
-          "lon": -51.1855744
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 14:13:23",
+          "lat": -27.8238688,
+          "lon": -50.3629952
         },
         "distancia_km": null,
         "proximo": false
@@ -33,10 +114,10 @@
         "frete_rs": 252.37,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.3 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:59:23",
-          "lat": -29.133104,
-          "lon": -51.1855744
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 14:13:23",
+          "lat": -27.8238688,
+          "lon": -50.3629952
         },
         "distancia_km": null,
         "proximo": false
@@ -69,47 +150,12 @@
         "frete_rs": 7800.87,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.3 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:59:23",
-          "lat": -29.133104,
-          "lon": -51.1855744
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 14:13:23",
+          "lat": -27.8238688,
+          "lon": -50.3629952
         },
-        "distancia_km": 261.9,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075049-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 4426.5,
-        "frete_rs": 6655.38,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.28 km de POSTO RUSSI INDAIAL - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 08:58:09",
-          "lat": -26.8742176,
-          "lon": -49.188912
-        },
-        "distancia_km": 58.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075056-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 9005.28,
-        "frete_rs": 13734.96,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -124,13 +170,13 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.42 km de DA ROCHA TRANSPORTES - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "25/11/2026 08:59:05",
-          "lat": -25.581448,
-          "lon": -49.1776288
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 14:15:05",
+          "lat": -27.2057408,
+          "lon": -49.6490528
         },
-        "distancia_km": 186.7,
-        "proximo": false
+        "distancia_km": 0.1,
+        "proximo": true
       },
       {
         "manif": "POA016299-0",
@@ -144,12 +190,12 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.3 km de REUNIDAS TURISMO S/A - CX1 - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:59:23",
-          "lat": -29.133104,
-          "lon": -51.1855744
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 14:13:23",
+          "lat": -27.8238688,
+          "lon": -50.3629952
         },
-        "distancia_km": 261.9,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -160,160 +206,13 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 17206.370000000003,
-        "frete_rs": 25435.65,
-        "qtde": 3
+        "peso_kg": 3774.59,
+        "frete_rs": 5045.31,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 1155.51,
         "frete_rs": 2886.03,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU075051-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 9371.63,
-        "frete_rs": 10157.55,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 08:59:56",
-          "lat": -26.5539952,
-          "lon": -48.719872
-        },
-        "distancia_km": 37.1,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075053-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 5574.38,
-        "frete_rs": 3953.44,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "25/11/2026 08:52:28",
-          "lat": -26.8398992,
-          "lon": -48.7144736
-        },
-        "distancia_km": 5.3,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075061-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 7083.38,
-        "frete_rs": 8363.45,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016300-7",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 2.0,
-        "frete_rs": 218.21,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.35 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 07) - PORTO BELO/SC",
-          "data_hora_posicao": "25/11/2026 08:59:58",
-          "lat": -27.1813312,
-          "lon": -48.6119808
-        },
-        "distancia_km": 34.4,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 22029.39,
-        "frete_rs": 22474.440000000002,
-        "qtde": 3
-      },
-      "Porto Alegre": {
-        "peso_kg": 2.0,
-        "frete_rs": 218.21,
-        "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "GRU075054-9",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4893.02,
-        "frete_rs": 6151.78,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO PONTE AÇU - NAVEGANTES/SC",
-          "data_hora_posicao": "25/11/2026 08:52:28",
-          "lat": -26.8398992,
-          "lon": -48.7144736
-        },
-        "distancia_km": 425.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044590-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 2542.71,
-        "frete_rs": 3175.07,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.13 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:49:51",
-          "lat": -27.8718688,
-          "lon": -50.4002784
-        },
-        "distancia_km": 246.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 4893.02,
-        "frete_rs": 6151.78,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2542.71,
-        "frete_rs": 3175.07,
         "qtde": 1
       }
     }
@@ -334,12 +233,32 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044600-9",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 3763.08,
+        "frete_rs": 4135.01,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 8388.65,
         "frete_rs": 13842.01,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 3763.08,
+        "frete_rs": 4135.01,
         "qtde": 1
       }
     }
@@ -358,13 +277,13 @@
         "frete_rs": 16011.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.24 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:48:09",
-          "lat": -24.9238033333333,
-          "lon": -48.2622883333333
+          "referencia": "0.1 km de FILIAL EXPRESSO LEOMAR - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 14:14:06",
+          "lat": -23.4604883333333,
+          "lon": -46.4866983333333
         },
-        "distancia_km": 243.8,
-        "proximo": false
+        "distancia_km": 2.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024207-1",
@@ -378,13 +297,13 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.37 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:52:45",
-          "lat": -24.9153504,
-          "lon": -48.2552352
+          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:14:30",
+          "lat": -23.5126432,
+          "lon": -46.6809504
         },
-        "distancia_km": 242.7,
-        "proximo": false
+        "distancia_km": 22.8,
+        "proximo": true
       },
       {
         "manif": "ITJ024208-0",
@@ -398,13 +317,13 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.37 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:52:45",
-          "lat": -24.9153504,
-          "lon": -48.2552352
+          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:14:30",
+          "lat": -23.5126432,
+          "lon": -46.6809504
         },
-        "distancia_km": 242.7,
-        "proximo": false
+        "distancia_km": 22.8,
+        "proximo": true
       },
       {
         "manif": "RSL044583-5",
@@ -418,58 +337,13 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.37 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:52:45",
-          "lat": -24.9153504,
-          "lon": -48.2552352
+          "referencia": "0.51 km de COMBRAS COMÉRCIO E INDÚSTRIA DO BRASIL S.A. - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 14:14:30",
+          "lat": -23.5126432,
+          "lon": -46.6809504
         },
-        "distancia_km": 242.7,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044586-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 11833.66,
-        "frete_rs": 18690.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044587-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 16493.6,
-        "frete_rs": 11538.25,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016520-4",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 13219.99,
-        "frete_rs": 23249.63,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
+        "distancia_km": 22.8,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -479,75 +353,8 @@
         "qtde": 3
       },
       "Rio do Sul": {
-        "peso_kg": 43721.56,
-        "frete_rs": 38639.479999999996,
-        "qtde": 3
-      },
-      "Timbó": {
-        "peso_kg": 13219.99,
-        "frete_rs": 23249.63,
-        "qtde": 1
-      }
-    }
-  },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ024202-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 1204.8,
-        "frete_rs": 2796.03,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.43 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "25/11/2026 08:59:44",
-          "lat": -28.697886,
-          "lon": -49.1852955
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 1204.8,
-        "frete_rs": 2796.03,
-        "qtde": 1
-      }
-    }
-  },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024203-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3977.36,
-        "frete_rs": 6713.68,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.43 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "25/11/2026 08:59:44",
-          "lat": -28.697886,
-          "lon": -49.1852955
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 3977.36,
-        "frete_rs": 6713.68,
+        "peso_kg": 15394.3,
+        "frete_rs": 8411.22,
         "qtde": 1
       }
     }
@@ -566,10 +373,10 @@
         "frete_rs": 7360.14,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de POSTO GUARUJA 02 - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:49:51",
-          "lat": -27.8718688,
-          "lon": -50.4002784
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 14:14:32",
+          "lat": -29.146336,
+          "lon": -51.1648672
         },
         "distancia_km": null,
         "proximo": false
@@ -583,5 +390,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T09:02:25"
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "RSL044590-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 2542.71,
+        "frete_rs": 3175.07,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 14:14:32",
+          "lat": -29.146336,
+          "lon": -51.1648672
+        },
+        "distancia_km": 93.1,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 2542.71,
+        "frete_rs": 3175.07,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-25T14:17:58"
 }
