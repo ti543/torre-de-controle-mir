@@ -1,6 +1,82 @@
 {
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002253-5",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 479.92,
+        "frete_rs": 802.76,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.08 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 08:43:23",
+          "lat": -29.1510272,
+          "lon": -51.1636384
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016298-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 208.0,
+        "frete_rs": 252.37,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.08 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 08:43:23",
+          "lat": -29.1510272,
+          "lon": -51.1636384
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 479.92,
+        "frete_rs": 802.76,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 208.0,
+        "frete_rs": 252.37,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CXS002254-3",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 3558.77,
+        "frete_rs": 7800.87,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.08 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 08:43:23",
+          "lat": -29.1510272,
+          "lon": -51.1636384
+        },
+        "distancia_km": 262.3,
+        "proximo": false
+      },
       {
         "manif": "GRU075049-2",
         "origin_unit": "GRU",
@@ -13,12 +89,12 @@
         "frete_rs": 6655.38,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.4 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "25/11/2026 08:30:09",
-          "lat": -26.837752,
-          "lon": -49.0948448
+          "referencia": "0.75 km de TRANSPORTES KELLER LTDA - MATRIZ - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 08:44:09",
+          "lat": -26.873296,
+          "lon": -49.1409792
         },
-        "distancia_km": 68.5,
+        "distancia_km": 62.5,
         "proximo": false
       },
       {
@@ -48,12 +124,12 @@
         "frete_rs": 5045.31,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO SIM FILIAL 142 - CURITIBA/PR",
-          "data_hora_posicao": "25/11/2026 08:29:53",
-          "lat": -25.5905616,
-          "lon": -49.315568
+          "referencia": "0.25 km de BR REFRIGERAÇÃO - CURITIBA/PR",
+          "data_hora_posicao": "25/11/2026 08:45:05",
+          "lat": -25.5592144,
+          "lon": -49.306784
         },
-        "distancia_km": 182.7,
+        "distancia_km": 186.3,
         "proximo": false
       },
       {
@@ -68,16 +144,21 @@
         "frete_rs": 2886.03,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:29:23",
-          "lat": -29.1463296,
-          "lon": -51.1648736
+          "referencia": "0.08 km de SAUER-DANFOSS POWER SOLUTIONS IND E COM ELETROHIDRAULICA LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "25/11/2026 08:43:23",
+          "lat": -29.1510272,
+          "lon": -51.1636384
         },
-        "distancia_km": 261.9,
+        "distancia_km": 262.3,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 3558.77,
+        "frete_rs": 7800.87,
+        "qtde": 1
+      },
       "Guarulhos": {
         "peso_kg": 17206.370000000003,
         "frete_rs": 25435.65,
@@ -104,12 +185,12 @@
         "frete_rs": 10157.55,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.59 km de CONCESSIONARIA VOLVO - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 08:29:56",
-          "lat": -26.4379424,
-          "lon": -48.8047712
+          "referencia": "0.04 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
+          "data_hora_posicao": "25/11/2026 08:45:01",
+          "lat": -26.553576,
+          "lon": -48.719584
         },
-        "distancia_km": 50.7,
+        "distancia_km": 37.1,
         "proximo": false
       },
       {
@@ -124,12 +205,12 @@
         "frete_rs": 3953.44,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de GRAAL GP SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "25/11/2026 08:28:28",
-          "lat": -26.78004,
-          "lon": -48.6846048
+          "referencia": "0.32 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
+          "data_hora_posicao": "25/11/2026 08:44:28",
+          "lat": -26.8237744,
+          "lon": -48.6878368
         },
-        "distancia_km": 12.5,
+        "distancia_km": 7.8,
         "proximo": true
       },
       {
@@ -159,12 +240,12 @@
         "frete_rs": 218.21,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.18 km de S.O.S. DISTRIBUIDORA DE ALIMENTOS LTDA - BIGUACU/SC",
-          "data_hora_posicao": "25/11/2026 08:29:05",
-          "lat": -27.5027552,
-          "lon": -48.6520256
+          "referencia": "2.45 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
+          "data_hora_posicao": "25/11/2026 08:45:05",
+          "lat": -27.3434784,
+          "lon": -48.630544
         },
-        "distancia_km": 68.8,
+        "distancia_km": 51.5,
         "proximo": false
       }
     ],
@@ -195,33 +276,13 @@
         "frete_rs": 6151.78,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de GRAAL GP SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "25/11/2026 08:28:28",
-          "lat": -26.78004,
-          "lon": -48.6846048
+          "referencia": "0.32 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
+          "data_hora_posicao": "25/11/2026 08:44:28",
+          "lat": -26.8237744,
+          "lon": -48.6878368
         },
-        "distancia_km": 432.2,
+        "distancia_km": 427.9,
         "proximo": false
-      },
-      {
-        "manif": "RSL044567-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 2882.6,
-        "frete_rs": 2274.32,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "25/11/2026 08:28:52",
-          "lat": -29.9833566666667,
-          "lon": -51.1865816666667
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "RSL044590-8",
@@ -235,12 +296,12 @@
         "frete_rs": 3175.07,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:28:32",
-          "lat": -27.823808,
-          "lon": -50.3628
+          "referencia": "1.09 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 08:44:32",
+          "lat": -27.8242592,
+          "lon": -50.3781152
         },
-        "distancia_km": 253.2,
+        "distancia_km": 252.6,
         "proximo": false
       }
     ],
@@ -251,9 +312,9 @@
         "qtde": 1
       },
       "Rio do Sul": {
-        "peso_kg": 5425.3099999999995,
-        "frete_rs": 5449.39,
-        "qtde": 2
+        "peso_kg": 2542.71,
+        "frete_rs": 3175.07,
+        "qtde": 1
       }
     }
   },
@@ -297,12 +358,12 @@
         "frete_rs": 16011.96,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.32 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:24:07",
-          "lat": -24.966295,
-          "lon": -48.4751566666667
+          "referencia": "0.68 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 08:44:09",
+          "lat": -24.931855,
+          "lon": -48.2790866666667
         },
-        "distancia_km": 263.3,
+        "distancia_km": 245.7,
         "proximo": false
       },
       {
@@ -317,12 +378,12 @@
         "frete_rs": 14776.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.17 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:26:52",
-          "lat": -24.9748736,
-          "lon": -48.4944896
+          "referencia": "0.43 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 08:36:52",
+          "lat": -24.9671168,
+          "lon": -48.4092928
         },
-        "distancia_km": 265.4,
+        "distancia_km": 258.2,
         "proximo": false
       },
       {
@@ -337,12 +398,12 @@
         "frete_rs": 3102.12,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.17 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:26:52",
-          "lat": -24.9748736,
-          "lon": -48.4944896
+          "referencia": "0.43 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 08:36:52",
+          "lat": -24.9671168,
+          "lon": -48.4092928
         },
-        "distancia_km": 265.4,
+        "distancia_km": 258.2,
         "proximo": false
       },
       {
@@ -357,12 +418,12 @@
         "frete_rs": 8411.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.17 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 08:26:52",
-          "lat": -24.9748736,
-          "lon": -48.4944896
+          "referencia": "0.43 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 08:36:52",
+          "lat": -24.9671168,
+          "lon": -48.4092928
         },
-        "distancia_km": 265.4,
+        "distancia_km": 258.2,
         "proximo": false
       },
       {
@@ -443,10 +504,10 @@
         "frete_rs": 2796.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.74 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 08:29:55",
-          "lat": -28.4558981,
-          "lon": -48.98185
+          "referencia": "0.59 km de EVERTON TRANSPORTES - JAGUARUNA/SC - JAGUARUNA/SC",
+          "data_hora_posicao": "25/11/2026 08:45:14",
+          "lat": -28.5933441,
+          "lon": -49.045542
         },
         "distancia_km": null,
         "proximo": false
@@ -474,10 +535,10 @@
         "frete_rs": 6713.68,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.74 km de AUTO POSTO DISNEY LTDA - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 08:29:55",
-          "lat": -28.4558981,
-          "lon": -48.98185
+          "referencia": "0.59 km de EVERTON TRANSPORTES - JAGUARUNA/SC - JAGUARUNA/SC",
+          "data_hora_posicao": "25/11/2026 08:45:14",
+          "lat": -28.5933441,
+          "lon": -49.045542
         },
         "distancia_km": null,
         "proximo": false
@@ -488,82 +549,6 @@
         "peso_kg": 3977.36,
         "frete_rs": 6713.68,
         "qtde": 1
-      }
-    }
-  },
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "POA016298-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "RYD5B26",
-        "motorista": "CELIO PEREIRA",
-        "peso_real_kg": 208.0,
-        "frete_rs": 252.37,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 08:29:23",
-          "lat": -29.1463296,
-          "lon": -51.1648736
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044589-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 1430.58,
-        "frete_rs": 1431.02,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:28:32",
-          "lat": -27.823808,
-          "lon": -50.3628
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044592-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 105.0,
-        "frete_rs": 209.35,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:28:32",
-          "lat": -27.823808,
-          "lon": -50.3628
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 208.0,
-        "frete_rs": 252.37,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1535.58,
-        "frete_rs": 1640.37,
-        "qtde": 2
       }
     }
   },
@@ -581,10 +566,10 @@
         "frete_rs": 7360.14,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "25/11/2026 08:28:32",
-          "lat": -27.823808,
-          "lon": -50.3628
+          "referencia": "1.09 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "25/11/2026 08:44:32",
+          "lat": -27.8242592,
+          "lon": -50.3781152
         },
         "distancia_km": null,
         "proximo": false
@@ -598,5 +583,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T08:32:33"
+  "_gerado_em": "2026-11-25T08:47:42"
 }
