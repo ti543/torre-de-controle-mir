@@ -1,133 +1,26 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002255-1",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 416.0,
-        "frete_rs": 618.92,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "3.64 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "26/11/2026 10:28:32",
-          "lat": -28.7024256,
-          "lon": -51.2263296
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 416.0,
-        "frete_rs": 618.92,
-        "qtde": 1
-      }
-    }
-  },
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CXS002256-0",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 794.8,
-        "frete_rs": 2196.18,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "3.64 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "26/11/2026 10:28:32",
-          "lat": -28.7024256,
-          "lon": -51.2263296
-        },
-        "distancia_km": 227.3,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075110-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 13256.25,
-        "frete_rs": 14761.62,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.85 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
-          "data_hora_posicao": "26/11/2026 10:28:39",
-          "lat": -26.8828666666667,
-          "lon": -49.15676
-        },
-        "distancia_km": 60.6,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075113-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 3882.92,
-        "frete_rs": 9534.37,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016305-8",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 753.39,
-        "frete_rs": 1349.07,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "3.64 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "26/11/2026 10:28:32",
-          "lat": -28.7024256,
-          "lon": -51.2263296
-        },
-        "distancia_km": 227.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 794.8,
-        "frete_rs": 2196.18,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 17139.17,
-        "frete_rs": 24295.99,
-        "qtde": 2
-      },
-      "Porto Alegre": {
-        "peso_kg": 753.39,
-        "frete_rs": 1349.07,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
+      {
+        "manif": "ARR000253-4",
+        "origin_unit": "ARR",
+        "origin_city": "ARARANGUA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 20.0,
+        "frete_rs": 258.16,
+        "grupo_origem": "ARR",
+        "posicao_raster": {
+          "referencia": "1.09 km de POSTO SIMON 03 - ARARANGUA/SC",
+          "data_hora_posicao": "26/11/2026 10:44:52",
+          "lat": -28.9660183,
+          "lon": -49.5230861
+        },
+        "distancia_km": 244.2,
+        "proximo": false
+      },
       {
         "manif": "GRU075115-4",
         "origin_unit": "GRU",
@@ -171,7 +64,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 10:28:30",
+          "data_hora_posicao": "26/11/2026 10:44:30",
           "lat": -26.8873966666667,
           "lon": -48.7212
         },
@@ -180,6 +73,11 @@
       }
     ],
     "por_origem": {
+      "ARR": {
+        "peso_kg": 20.0,
+        "frete_rs": 258.16,
+        "qtde": 1
+      },
       "Guarulhos": {
         "peso_kg": 5830.93,
         "frete_rs": 10207.48,
@@ -188,6 +86,133 @@
       "Porto Alegre": {
         "peso_kg": 1380.22,
         "frete_rs": 2983.62,
+        "qtde": 1
+      }
+    }
+  },
+  "LGS": {
+    "veiculos": [
+      {
+        "manif": "CXS002255-1",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "LGS",
+        "dest_city": "LAGES/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 416.0,
+        "frete_rs": 618.92,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "2.3 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "26/11/2026 10:41:12",
+          "lat": -28.6681344,
+          "lon": -51.1177216
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 416.0,
+        "frete_rs": 618.92,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "CXS002256-0",
+        "origin_unit": "CXS",
+        "origin_city": "CAXIAS DO SUL/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 794.8,
+        "frete_rs": 2196.18,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "2.3 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "26/11/2026 10:41:12",
+          "lat": -28.6681344,
+          "lon": -51.1177216
+        },
+        "distancia_km": 217.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075110-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 13256.25,
+        "frete_rs": 14761.62,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.76 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
+          "data_hora_posicao": "26/11/2026 10:44:39",
+          "lat": -26.8854133333333,
+          "lon": -49.249485
+        },
+        "distancia_km": 53.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075113-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 3882.92,
+        "frete_rs": 9534.37,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016305-8",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 753.39,
+        "frete_rs": 1349.07,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "2.3 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "26/11/2026 10:41:12",
+          "lat": -28.6681344,
+          "lon": -51.1177216
+        },
+        "distancia_km": 217.3,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Caxias do Sul / Lages": {
+        "peso_kg": 794.8,
+        "frete_rs": 2196.18,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 17139.17,
+        "frete_rs": 24295.99,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 753.39,
+        "frete_rs": 1349.07,
         "qtde": 1
       }
     }
@@ -222,7 +247,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 10:29:21",
+          "data_hora_posicao": "26/11/2026 10:43:21",
           "lat": -26.8423792,
           "lon": -49.2724928
         },
@@ -242,7 +267,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 10:29:21",
+          "data_hora_posicao": "26/11/2026 10:43:21",
           "lat": -26.8423792,
           "lon": -49.2724928
         },
@@ -277,12 +302,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.16 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 10:29:56",
-          "lat": -24.6492064,
-          "lon": -47.930528
+          "referencia": "0.34 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 10:43:56",
+          "lat": -24.5202064,
+          "lon": -47.8531264
         },
-        "distancia_km": 198.5,
+        "distancia_km": 183.3,
         "proximo": false
       },
       {
@@ -297,12 +322,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.16 km de POSTO 04 IRMÃOS NORTE (SUBINDO SENTIDO SP) - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 10:29:56",
-          "lat": -24.6492064,
-          "lon": -47.930528
+          "referencia": "0.34 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 10:43:56",
+          "lat": -24.5202064,
+          "lon": -47.8531264
         },
-        "distancia_km": 198.5,
+        "distancia_km": 183.3,
         "proximo": false
       },
       {
@@ -317,12 +342,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO 04 IRMÃOS SUL - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 10:28:28",
-          "lat": -24.6517168,
-          "lon": -47.9459168
+          "referencia": "0.52 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 10:44:28",
+          "lat": -24.5131136,
+          "lon": -47.8507392
         },
-        "distancia_km": 199.9,
+        "distancia_km": 182.6,
         "proximo": false
       },
       {
@@ -337,12 +362,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO 04 IRMÃOS SUL - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 10:28:28",
-          "lat": -24.6517168,
-          "lon": -47.9459168
+          "referencia": "0.52 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 10:44:28",
+          "lat": -24.5131136,
+          "lon": -47.8507392
         },
-        "distancia_km": 199.9,
+        "distancia_km": 182.6,
         "proximo": false
       },
       {
@@ -357,12 +382,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO 04 IRMÃOS SUL - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 10:28:28",
-          "lat": -24.6517168,
-          "lon": -47.9459168
+          "referencia": "0.52 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 10:44:28",
+          "lat": -24.5131136,
+          "lon": -47.8507392
         },
-        "distancia_km": 199.9,
+        "distancia_km": 182.6,
         "proximo": false
       },
       {
@@ -377,12 +402,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO FAZENDA CARIBÓ - ITARIRI/SP",
-          "data_hora_posicao": "26/11/2026 10:29:06",
-          "lat": -24.2940656,
-          "lon": -47.1502336
+          "referencia": "2.47 km de DELEGACIA GERAL DE POLÍCIA - ITARIRI/SP",
+          "data_hora_posicao": "26/11/2026 10:43:06",
+          "lat": -24.2887184,
+          "lon": -47.0133664
         },
-        "distancia_km": 115.2,
+        "distancia_km": 106.9,
         "proximo": false
       },
       {
@@ -397,12 +422,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO FAZENDA CARIBÓ - ITARIRI/SP",
-          "data_hora_posicao": "26/11/2026 10:29:06",
-          "lat": -24.2940656,
-          "lon": -47.1502336
+          "referencia": "2.47 km de DELEGACIA GERAL DE POLÍCIA - ITARIRI/SP",
+          "data_hora_posicao": "26/11/2026 10:43:06",
+          "lat": -24.2887184,
+          "lon": -47.0133664
         },
-        "distancia_km": 115.2,
+        "distancia_km": 106.9,
         "proximo": false
       },
       {
@@ -417,12 +442,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.69 km de PADARIA 3 PRINCESAS - PRAIA GRANDE/SP",
-          "data_hora_posicao": "26/11/2026 10:29:05",
-          "lat": -24.056368,
-          "lon": -46.5523424
+          "referencia": "0.06 km de PEDAGIO - SAO VICENTE (SENTIDO SP) - SAO VICENTE/SP",
+          "data_hora_posicao": "26/11/2026 10:45:05",
+          "lat": -23.938928,
+          "lon": -46.4635456
         },
-        "distancia_km": 65.8,
+        "distancia_km": 52.1,
         "proximo": false
       },
       {
@@ -503,10 +528,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.32 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "26/11/2026 10:30:13",
-          "lat": -28.9752835,
-          "lon": -49.5332921
+          "referencia": "1.09 km de POSTO SIMON 03 - ARARANGUA/SC",
+          "data_hora_posicao": "26/11/2026 10:44:52",
+          "lat": -28.9660183,
+          "lon": -49.5230861
         },
         "distancia_km": null,
         "proximo": false
@@ -534,10 +559,10 @@
         "frete_rs": 6821.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
-          "data_hora_posicao": "26/11/2026 10:29:12",
-          "lat": -27.0824046,
-          "lon": -48.6024413
+          "referencia": "0.28 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "26/11/2026 10:43:43",
+          "lat": -27.191024,
+          "lon": -48.6125546
         },
         "distancia_km": null,
         "proximo": false
@@ -554,10 +579,10 @@
         "frete_rs": 928.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de CALOTAS E ACESSÓRIOS - ITAPEMA/SC",
-          "data_hora_posicao": "26/11/2026 10:29:12",
-          "lat": -27.0824046,
-          "lon": -48.6024413
+          "referencia": "0.28 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "26/11/2026 10:43:43",
+          "lat": -27.191024,
+          "lon": -48.6125546
         },
         "distancia_km": null,
         "proximo": false
@@ -585,10 +610,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS - CURITIBANOS/SC",
-          "data_hora_posicao": "26/11/2026 10:29:24",
-          "lat": -27.2915735,
-          "lon": -50.5971675
+          "referencia": "1.06 km de AUTO POSTO ÁGUIA - SHELL - CURITIBANOS/SC",
+          "data_hora_posicao": "26/11/2026 10:45:03",
+          "lat": -27.2996306,
+          "lon": -50.5848491
         },
         "distancia_km": null,
         "proximo": false
@@ -617,7 +642,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 10:29:21",
+          "data_hora_posicao": "26/11/2026 10:43:21",
           "lat": -26.8423792,
           "lon": -49.2724928
         },
@@ -647,10 +672,10 @@
         "frete_rs": 3683.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 10:29:23",
-          "lat": -28.4832256,
-          "lon": -50.90128
+          "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 10:43:23",
+          "lat": -28.5256224,
+          "lon": -50.948832
         },
         "distancia_km": null,
         "proximo": false
@@ -678,12 +703,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.46 km de POSTO ANDREAZZA 02 (PRIMO POSTALI) - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 10:29:23",
-          "lat": -28.4832256,
-          "lon": -50.90128
+          "referencia": "0.06 km de EXPRESSO LEOMAR - VACARIA/RS - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 10:43:23",
+          "lat": -28.5256224,
+          "lon": -50.948832
         },
-        "distancia_km": 169.1,
+        "distancia_km": 163.7,
         "proximo": false
       }
     ],
@@ -695,5 +720,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T10:32:37"
+  "_gerado_em": "2026-11-26T10:47:35"
 }
