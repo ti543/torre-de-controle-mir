@@ -13,13 +13,33 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.2 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "26/11/2026 18:58:38",
-          "lat": -27.0063435,
-          "lon": -48.621855
+          "referencia": "0.21 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "26/11/2026 19:14:56",
+          "lat": -26.9974175,
+          "lon": -48.652266
         },
-        "distancia_km": 16.5,
+        "distancia_km": 14.0,
         "proximo": true
+      },
+      {
+        "manif": "CTB013688-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5953.83,
+        "frete_rs": 5554.76,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "26/11/2026 19:14:09",
+          "lat": -25.5277328,
+          "lon": -49.295504
+        },
+        "distancia_km": 161.7,
+        "proximo": false
       },
       {
         "manif": "FLN000143-1",
@@ -33,12 +53,12 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "6.25 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "26/11/2026 19:00:03",
-          "lat": -27.1569441,
-          "lon": -48.9022228
+          "referencia": "0.4 km de HOTEL VENEZA - BRUSQUE/SC",
+          "data_hora_posicao": "26/11/2026 19:14:59",
+          "lat": -27.1054923,
+          "lon": -48.9152031
         },
-        "distancia_km": 34.9,
+        "distancia_km": 30.9,
         "proximo": false
       },
       {
@@ -53,12 +73,12 @@
         "frete_rs": 1989.93,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.2 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "26/11/2026 18:58:38",
-          "lat": -27.0063435,
-          "lon": -48.621855
+          "referencia": "0.21 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "26/11/2026 19:14:56",
+          "lat": -26.9974175,
+          "lon": -48.652266
         },
-        "distancia_km": 16.5,
+        "distancia_km": 14.0,
         "proximo": true
       }
     ],
@@ -66,6 +86,11 @@
       "ARR": {
         "peso_kg": 20.0,
         "frete_rs": 258.16,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 5953.83,
+        "frete_rs": 5554.76,
         "qtde": 1
       },
       "FLN": {
@@ -94,12 +119,12 @@
         "frete_rs": 4730.8,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.19 km de ÁREA DE DESCANSO PARA CAMINHONEIROS - ITATIBA/SP",
-          "data_hora_posicao": "26/11/2026 18:58:18",
-          "lat": -22.9497116666667,
-          "lon": -46.8667366666667
+          "referencia": "1.38 km de MCASSAB (CENTRO DE DISTRIBUIÇÃO) - JARINU/SP",
+          "data_hora_posicao": "26/11/2026 19:14:18",
+          "lat": -23.0368816666667,
+          "lon": -46.706445
         },
-        "distancia_km": 71.1,
+        "distancia_km": 54.3,
         "proximo": false
       },
       {
@@ -115,52 +140,12 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 18:59:51",
+          "data_hora_posicao": "26/11/2026 19:15:42",
           "lat": -25.527744,
           "lon": -49.2954688
         },
         "distancia_km": 366.7,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024220-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 12371.38,
-        "frete_rs": 12802.04,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 18:59:56",
-          "lat": -23.4704896,
-          "lon": -46.4623552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024221-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1641.16,
-        "frete_rs": 3294.78,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 18:59:56",
-          "lat": -23.4704896,
-          "lon": -46.4623552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       },
       {
         "manif": "RSL044646-7",
@@ -175,7 +160,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 18:58:37",
+          "data_hora_posicao": "26/11/2026 19:14:37",
           "lat": -27.2058272,
           "lon": -49.6489184
         },
@@ -194,11 +179,6 @@
         "frete_rs": 3483.27,
         "qtde": 1
       },
-      "Itajaí": {
-        "peso_kg": 14012.539999999999,
-        "frete_rs": 16096.820000000002,
-        "qtde": 2
-      },
       "Rio do Sul": {
         "peso_kg": 33112.11,
         "frete_rs": 21224.68,
@@ -208,6 +188,46 @@
   },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CTB013686-7",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 74.33,
+        "frete_rs": 216.15,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "26/11/2026 19:14:09",
+          "lat": -25.5277328,
+          "lon": -49.295504
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013687-5",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 4981.29,
+        "frete_rs": 4598.61,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "26/11/2026 19:14:09",
+          "lat": -25.5277328,
+          "lon": -49.295504
+        },
+        "distancia_km": 189.9,
+        "proximo": false
+      },
       {
         "manif": "CXS002256-0",
         "origin_unit": "CXS",
@@ -220,12 +240,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.34 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 18:53:03",
-          "lat": -27.3008896,
-          "lon": -50.3002112
+          "referencia": "10.17 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 19:13:03",
+          "lat": -27.3094144,
+          "lon": -50.1303296
         },
-        "distancia_km": 65.2,
+        "distancia_km": 48.9,
         "proximo": false
       },
       {
@@ -240,12 +260,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "26/11/2026 18:58:30",
-          "lat": -23.7833712,
-          "lon": -46.9146048
+          "referencia": "0.84 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "26/11/2026 19:14:30",
+          "lat": -23.9032768,
+          "lon": -46.9912896
         },
-        "distancia_km": 469.2,
+        "distancia_km": 453.8,
         "proximo": false
       },
       {
@@ -260,12 +280,12 @@
         "frete_rs": 1037.3,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "3.36 km de PRF BR 470 - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "26/11/2026 18:59:38",
-          "lat": -27.37592,
-          "lon": -51.0810133333333
+          "referencia": "2.1 km de BORACHARIA DO HACK - BRUNOPOLIS/SC",
+          "data_hora_posicao": "26/11/2026 19:14:09",
+          "lat": -27.33216,
+          "lon": -50.94784
         },
-        "distancia_km": 142.7,
+        "distancia_km": 129.1,
         "proximo": false
       },
       {
@@ -280,12 +300,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.34 km de FAZENDA CERRO VERDE - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 18:53:03",
-          "lat": -27.3008896,
-          "lon": -50.3002112
+          "referencia": "10.17 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 19:13:03",
+          "lat": -27.3094144,
+          "lon": -50.1303296
         },
-        "distancia_km": 65.2,
+        "distancia_km": 48.9,
         "proximo": false
       },
       {
@@ -300,12 +320,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.12 km de TFL DO BRASIL - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "26/11/2026 18:59:58",
-          "lat": -29.7675328,
-          "lon": -51.1534624
+          "referencia": "0.33 km de PEDAGIO - PORTAO (SENTIDO PORTO ALEGRE) - PORTAO/RS",
+          "data_hora_posicao": "26/11/2026 19:15:05",
+          "lat": -29.667968,
+          "lon": -51.254752
         },
-        "distancia_km": 320.5,
+        "distancia_km": 315.5,
         "proximo": false
       },
       {
@@ -325,6 +345,11 @@
       }
     ],
     "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5055.62,
+        "frete_rs": 4814.759999999999,
+        "qtde": 2
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 794.8,
         "frete_rs": 2196.18,
@@ -355,6 +380,21 @@
   "CMP": {
     "veiculos": [
       {
+        "manif": "GRU075169-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "ITUPEVA/SP",
+        "placa": "FYA9F12",
+        "motorista": "FREDERICO FAVA NETO",
+        "peso_real_kg": 375.0,
+        "frete_rs": 1357.17,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "ITJ024240-3",
         "origin_unit": "ITJ",
         "origin_city": "ITAJAI/SC",
@@ -366,10 +406,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.69 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 18:59:52",
-          "lat": -25.16516,
-          "lon": -48.8627136
+          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "26/11/2026 19:15:32",
+          "lat": -25.1133232,
+          "lon": -48.7626304
         },
         "distancia_km": null,
         "proximo": false
@@ -386,10 +426,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.69 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 18:59:52",
-          "lat": -25.16516,
-          "lon": -48.8627136
+          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "26/11/2026 19:15:32",
+          "lat": -25.1133232,
+          "lon": -48.7626304
         },
         "distancia_km": null,
         "proximo": false
@@ -406,10 +446,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.69 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 18:59:52",
-          "lat": -25.16516,
-          "lon": -48.8627136
+          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "26/11/2026 19:15:32",
+          "lat": -25.1133232,
+          "lon": -48.7626304
         },
         "distancia_km": null,
         "proximo": false
@@ -426,16 +466,21 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.69 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 18:59:52",
-          "lat": -25.16516,
-          "lon": -48.8627136
+          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "26/11/2026 19:15:32",
+          "lat": -25.1133232,
+          "lon": -48.7626304
         },
         "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 375.0,
+        "frete_rs": 1357.17,
+        "qtde": 1
+      },
       "Itajaí": {
         "peso_kg": 1406.7,
         "frete_rs": 3270.57,
@@ -467,10 +512,10 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.12 km de TFL DO BRASIL - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "26/11/2026 18:59:58",
-          "lat": -29.7675328,
-          "lon": -51.1534624
+          "referencia": "0.33 km de PEDAGIO - PORTAO (SENTIDO PORTO ALEGRE) - PORTAO/RS",
+          "data_hora_posicao": "26/11/2026 19:15:05",
+          "lat": -29.667968,
+          "lon": -51.254752
         },
         "distancia_km": null,
         "proximo": false
@@ -498,10 +543,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.46 km de POSTO PÉ DA SERRA FUCK (REDE PEDRO PELANDA) - MONTE CASTELO/SC",
-          "data_hora_posicao": "26/11/2026 18:55:10",
-          "lat": -26.6738688,
-          "lon": -50.2872064
+          "referencia": "1.38 km de DELEGACIA POLÍCIA - MONTE CASTELO/SC",
+          "data_hora_posicao": "26/11/2026 19:15:25",
+          "lat": -26.4741295,
+          "lon": -50.2321996
         },
         "distancia_km": null,
         "proximo": false
@@ -530,9 +575,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "26/11/2026 18:58:24",
-          "lat": -29.9834112,
-          "lon": -51.1866464
+          "data_hora_posicao": "26/11/2026 19:14:24",
+          "lat": -29.9833952,
+          "lon": -51.1866304
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -546,5 +591,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T19:02:34"
+  "_gerado_em": "2026-11-26T19:17:47"
 }
