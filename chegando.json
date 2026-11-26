@@ -1,135 +1,4 @@
 {
-  "RSL": {
-    "veiculos": [
-      {
-        "manif": "CTB013673-5",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 4648.71,
-        "frete_rs": 4324.7,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075106-5",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RKW3J80",
-        "motorista": "ENDYS DE JESUS SUAREZ FERNANDEZ",
-        "peso_real_kg": 4651.8,
-        "frete_rs": 8025.02,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 07:43:32",
-          "lat": -27.2059833333333,
-          "lon": -49.6494166666667
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075110-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 13256.25,
-        "frete_rs": 14761.62,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.82 km de AUTO POSTO THEODORO - GARUVA/SC",
-          "data_hora_posicao": "26/11/2026 07:43:10",
-          "lat": -26.036605,
-          "lon": -48.86024
-        },
-        "distancia_km": 151.9,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075113-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "DCU9H14",
-        "motorista": "ADALBERTO KICH",
-        "peso_real_kg": 3882.92,
-        "frete_rs": 9534.37,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024229-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 3554.04,
-        "frete_rs": 3697.01,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016305-8",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 753.39,
-        "frete_rs": 1349.07,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 07:44:32",
-          "lat": -29.1463168,
-          "lon": -51.1648544
-        },
-        "distancia_km": 261.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 4648.71,
-        "frete_rs": 4324.7,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 21790.97,
-        "frete_rs": 32321.010000000002,
-        "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 3554.04,
-        "frete_rs": 3697.01,
-        "qtde": 1
-      },
-      "Porto Alegre": {
-        "peso_kg": 753.39,
-        "frete_rs": 1349.07,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -144,12 +13,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.62 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "26/11/2026 07:44:12",
-          "lat": -26.8343312,
-          "lon": -48.6990592
+          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 07:58:12",
+          "lat": -26.8630304,
+          "lon": -48.7290624
         },
-        "distancia_km": 6.3,
+        "distancia_km": 2.8,
         "proximo": true
       },
       {
@@ -195,7 +64,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 07:44:32",
+          "data_hora_posicao": "26/11/2026 07:58:32",
           "lat": -26.8873866666667,
           "lon": -48.7211966666667
         },
@@ -212,6 +81,77 @@
       "Porto Alegre": {
         "peso_kg": 1380.22,
         "frete_rs": 2983.62,
+        "qtde": 1
+      }
+    }
+  },
+  "RSL": {
+    "veiculos": [
+      {
+        "manif": "GRU075110-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 13256.25,
+        "frete_rs": 14761.62,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.92 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 07:59:38",
+          "lat": -26.210455,
+          "lon": -48.9157016666667
+        },
+        "distancia_km": 132.6,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075113-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 3882.92,
+        "frete_rs": 9534.37,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016305-8",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 753.39,
+        "frete_rs": 1349.07,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "26/11/2026 07:58:32",
+          "lat": -29.1463168,
+          "lon": -51.1648544
+        },
+        "distancia_km": 261.9,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 17139.17,
+        "frete_rs": 24295.99,
+        "qtde": 2
+      },
+      "Porto Alegre": {
+        "peso_kg": 753.39,
+        "frete_rs": 1349.07,
         "qtde": 1
       }
     }
@@ -256,12 +196,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.37 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:43:05",
-          "lat": -29.8714336,
-          "lon": -50.3980384
+          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "26/11/2026 07:59:05",
+          "lat": -29.8837824,
+          "lon": -50.5632672
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.1,
         "proximo": false
       },
       {
@@ -276,12 +216,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.37 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:43:05",
-          "lat": -29.8714336,
-          "lon": -50.3980384
+          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "26/11/2026 07:59:05",
+          "lat": -29.8837824,
+          "lon": -50.5632672
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.1,
         "proximo": false
       },
       {
@@ -296,12 +236,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.37 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:43:05",
-          "lat": -29.8714336,
-          "lon": -50.3980384
+          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "26/11/2026 07:59:05",
+          "lat": -29.8837824,
+          "lon": -50.5632672
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.1,
         "proximo": false
       },
       {
@@ -316,12 +256,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.37 km de POSTO ROTA FREEWAY - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:43:05",
-          "lat": -29.8714336,
-          "lon": -50.3980384
+          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "26/11/2026 07:59:05",
+          "lat": -29.8837824,
+          "lon": -50.5632672
         },
-        "distancia_km": 77.0,
+        "distancia_km": 61.1,
         "proximo": false
       },
       {
@@ -337,9 +277,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:44:43",
-          "lat": -27.8238272,
-          "lon": -50.363008
+          "data_hora_posicao": "26/11/2026 07:59:23",
+          "lat": -27.8238336,
+          "lon": -50.3630016
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -372,12 +312,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:44:34",
-          "lat": -25.1851216,
-          "lon": -48.8846432
+          "referencia": "1.13 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 07:59:56",
+          "lat": -25.1112016,
+          "lon": -48.7835648
         },
-        "distancia_km": 310.8,
+        "distancia_km": 297.7,
         "proximo": false
       },
       {
@@ -392,12 +332,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.31 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:44:34",
-          "lat": -25.1851216,
-          "lon": -48.8846432
+          "referencia": "1.13 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 07:59:56",
+          "lat": -25.1112016,
+          "lon": -48.7835648
         },
-        "distancia_km": 310.8,
+        "distancia_km": 297.7,
         "proximo": false
       },
       {
@@ -412,12 +352,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:44:28",
-          "lat": -25.1847088,
-          "lon": -48.8841664
+          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 07:59:08",
+          "lat": -25.10808,
+          "lon": -48.7872864
         },
-        "distancia_km": 310.7,
+        "distancia_km": 297.8,
         "proximo": false
       },
       {
@@ -432,12 +372,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:44:28",
-          "lat": -25.1847088,
-          "lon": -48.8841664
+          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 07:59:08",
+          "lat": -25.10808,
+          "lon": -48.7872864
         },
-        "distancia_km": 310.7,
+        "distancia_km": 297.8,
         "proximo": false
       },
       {
@@ -452,12 +392,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de SVC CAMPINA GRANDE DO SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:44:28",
-          "lat": -25.1847088,
-          "lon": -48.8841664
+          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 07:59:08",
+          "lat": -25.10808,
+          "lon": -48.7872864
         },
-        "distancia_km": 310.7,
+        "distancia_km": 297.8,
         "proximo": false
       },
       {
@@ -472,12 +412,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.21 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:19:06",
-          "lat": -25.0473264,
-          "lon": -48.5448768
+          "referencia": "0.38 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 07:51:06",
+          "lat": -24.9276336,
+          "lon": -48.2696864
         },
-        "distancia_km": 274.4,
+        "distancia_km": 244.6,
         "proximo": false
       },
       {
@@ -492,12 +432,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.21 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:19:06",
-          "lat": -25.0473264,
-          "lon": -48.5448768
+          "referencia": "0.38 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 07:51:06",
+          "lat": -24.9276336,
+          "lon": -48.2696864
         },
-        "distancia_km": 274.4,
+        "distancia_km": 244.6,
         "proximo": false
       },
       {
@@ -512,12 +452,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.57 km de DELEGACIA SECCIONAL DE POLÍCIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "26/11/2026 07:43:05",
-          "lat": -24.7047056,
-          "lon": -48.0117888
+          "referencia": "5.13 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "26/11/2026 07:59:38",
+          "lat": -24.5784928,
+          "lon": -47.8844608
         },
-        "distancia_km": 208.7,
+        "distancia_km": 189.8,
         "proximo": false
       },
       {
@@ -598,10 +538,10 @@
         "frete_rs": 407.2,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.81 km de POSTO 275 - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:43:46",
-          "lat": -28.1251208,
-          "lon": -48.6955906
+          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
+          "data_hora_posicao": "26/11/2026 07:58:56",
+          "lat": -28.2978056,
+          "lon": -48.7158106
         },
         "distancia_km": null,
         "proximo": false
@@ -629,10 +569,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.81 km de POSTO 275 - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:43:46",
-          "lat": -28.1251208,
-          "lon": -48.6955906
+          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
+          "data_hora_posicao": "26/11/2026 07:58:56",
+          "lat": -28.2978056,
+          "lon": -48.7158106
         },
         "distancia_km": null,
         "proximo": false
@@ -660,10 +600,10 @@
         "frete_rs": 3496.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.81 km de POSTO 275 - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:43:46",
-          "lat": -28.1251208,
-          "lon": -48.6955906
+          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
+          "data_hora_posicao": "26/11/2026 07:58:56",
+          "lat": -28.2978056,
+          "lon": -48.7158106
         },
         "distancia_km": null,
         "proximo": false
@@ -674,102 +614,6 @@
         "peso_kg": 966.78,
         "frete_rs": 3496.03,
         "qtde": 1
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "ITJ024231-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 3132.68,
-        "frete_rs": 2276.55,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 07:44:09",
-          "lat": -25.5277104,
-          "lon": -49.2954496
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024232-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 14.8,
-        "frete_rs": 289.48,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 07:44:09",
-          "lat": -25.5277104,
-          "lon": -49.2954496
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044617-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 6335.85,
-        "frete_rs": 5218.43,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 07:44:09",
-          "lat": -25.5277104,
-          "lon": -49.2954496
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044620-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1740.0,
-        "frete_rs": 1093.58,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 07:44:09",
-          "lat": -25.5277104,
-          "lon": -49.2954496
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 3147.48,
-        "frete_rs": 2566.03,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 8075.85,
-        "frete_rs": 6312.01,
-        "qtde": 2
       }
     }
   },
@@ -788,9 +632,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 07:39:17",
-          "lat": -27.3011271,
-          "lon": -50.4236133
+          "data_hora_posicao": "26/11/2026 07:59:00",
+          "lat": -27.3011253,
+          "lon": -50.423635
         },
         "distancia_km": null,
         "proximo": false
@@ -819,9 +663,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:44:43",
-          "lat": -27.8238272,
-          "lon": -50.363008
+          "data_hora_posicao": "26/11/2026 07:59:23",
+          "lat": -27.8238336,
+          "lon": -50.3630016
         },
         "distancia_km": null,
         "proximo": false
@@ -850,9 +694,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:44:43",
-          "lat": -27.8238272,
-          "lon": -50.363008
+          "data_hora_posicao": "26/11/2026 07:59:23",
+          "lat": -27.8238336,
+          "lon": -50.3630016
         },
         "distancia_km": null,
         "proximo": false
@@ -870,9 +714,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:44:43",
-          "lat": -27.8238272,
-          "lon": -50.363008
+          "data_hora_posicao": "26/11/2026 07:59:23",
+          "lat": -27.8238336,
+          "lon": -50.3630016
         },
         "distancia_km": null,
         "proximo": false
@@ -886,5 +730,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T07:47:35"
+  "_gerado_em": "2026-11-26T08:02:40"
 }
