@@ -13,12 +13,12 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.52 km de POSTO LUIZ - CAPIVARI DE BAIXO/SC",
-          "data_hora_posicao": "26/11/2026 15:29:43",
-          "lat": -28.4495373,
-          "lon": -48.9704363
+          "referencia": "2.27 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -28.4329508,
+          "lon": -48.8463586
         },
-        "distancia_km": 175.4,
+        "distancia_km": 172.3,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "1.03 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "26/11/2026 15:27:57",
-          "lat": -27.5923128,
-          "lon": -48.695949
+          "referencia": "4.72 km de TVR TOP FLORIPA - BIGUACU/SC",
+          "data_hora_posicao": "26/11/2026 15:40:51",
+          "lat": -27.4511883,
+          "lon": -48.7131735
         },
-        "distancia_km": 78.4,
+        "distancia_km": 62.7,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 1989.93,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.52 km de POSTO LUIZ - CAPIVARI DE BAIXO/SC",
-          "data_hora_posicao": "26/11/2026 15:29:43",
-          "lat": -28.4495373,
-          "lon": -48.9704363
+          "referencia": "2.27 km de LAGO PESCA IND. E COM. DE PESCADOS - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -28.4329508,
+          "lon": -48.8463586
         },
-        "distancia_km": 175.4,
+        "distancia_km": 172.3,
         "proximo": false
       }
     ],
@@ -95,11 +95,31 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 15:28:32",
+          "data_hora_posicao": "26/11/2026 15:44:32",
           "lat": -27.8237984,
           "lon": -50.3628128
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075168-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5B04",
+        "motorista": "FABIANO FISCHER",
+        "peso_real_kg": 2032.73,
+        "frete_rs": 7288.72,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.36 km de FILIAL EXCELLENCE - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 15:45:17",
+          "lat": -23.4785232,
+          "lon": -46.4609344
+        },
+        "distancia_km": 523.9,
         "proximo": false
       },
       {
@@ -115,7 +135,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 15:28:32",
+          "data_hora_posicao": "26/11/2026 15:44:32",
           "lat": -27.8237984,
           "lon": -50.3628128
         },
@@ -129,55 +149,14 @@
         "frete_rs": 2196.18,
         "qtde": 1
       },
+      "Guarulhos": {
+        "peso_kg": 2032.73,
+        "frete_rs": 7288.72,
+        "qtde": 1
+      },
       "Porto Alegre": {
         "peso_kg": 753.39,
         "frete_rs": 1349.07,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU075116-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 14302.55,
-        "frete_rs": 17713.37,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024239-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 1366.96,
-        "frete_rs": 1672.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 14302.55,
-        "frete_rs": 17713.37,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 1366.96,
-        "frete_rs": 1672.89,
         "qtde": 1
       }
     }
@@ -197,7 +176,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 15:29:56",
+          "data_hora_posicao": "26/11/2026 15:43:56",
           "lat": -23.4704496,
           "lon": -46.462352
         },
@@ -217,69 +196,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 15:29:56",
+          "data_hora_posicao": "26/11/2026 15:43:56",
           "lat": -23.4704496,
           "lon": -46.462352
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024222-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6546.28,
-        "frete_rs": 10467.85,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 15:28:28",
-          "lat": -23.4706096,
-          "lon": -46.4625216
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024224-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4574.79,
-        "frete_rs": 7005.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 15:28:28",
-          "lat": -23.4706096,
-          "lon": -46.4625216
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024225-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 302.24,
-        "frete_rs": 800.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 15:28:28",
-          "lat": -23.4706096,
-          "lon": -46.4625216
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -287,9 +206,9 @@
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 25435.850000000002,
-        "frete_rs": 34371.200000000004,
-        "qtde": 5
+        "peso_kg": 14012.539999999999,
+        "frete_rs": 16096.820000000002,
+        "qtde": 2
       }
     }
   },
@@ -307,10 +226,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 15:29:21",
-          "lat": -26.6866272,
-          "lon": -48.6953216
+          "referencia": "0.44 km de POSTO SINUELO NORTE - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -26.5199888,
+          "lon": -48.717776
         },
         "distancia_km": null,
         "proximo": false
@@ -327,10 +246,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 15:29:21",
-          "lat": -26.6866272,
-          "lon": -48.6953216
+          "referencia": "0.44 km de POSTO SINUELO NORTE - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -26.5199888,
+          "lon": -48.717776
         },
         "distancia_km": null,
         "proximo": false
@@ -347,10 +266,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 15:29:21",
-          "lat": -26.6866272,
-          "lon": -48.6953216
+          "referencia": "0.44 km de POSTO SINUELO NORTE - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -26.5199888,
+          "lon": -48.717776
         },
         "distancia_km": null,
         "proximo": false
@@ -367,10 +286,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.23 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 15:29:21",
-          "lat": -26.6866272,
-          "lon": -48.6953216
+          "referencia": "0.44 km de POSTO SINUELO NORTE - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 15:45:21",
+          "lat": -26.5199888,
+          "lon": -48.717776
         },
         "distancia_km": null,
         "proximo": false
@@ -408,10 +327,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.71 km de BPM - VILA MILITAR - HERVAL D OESTE/SC",
-          "data_hora_posicao": "26/11/2026 15:29:57",
-          "lat": -27.163449,
-          "lon": -51.4891288
+          "referencia": "5.86 km de PRE - POSTO 08 - IBICARE/SC",
+          "data_hora_posicao": "26/11/2026 15:42:36",
+          "lat": -27.1282206,
+          "lon": -51.4383803
         },
         "distancia_km": null,
         "proximo": false
@@ -439,12 +358,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.34 km de MENON COMERCIO E REPRESENTACOES LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 15:29:23",
-          "lat": -29.1944672,
-          "lon": -51.2549504
+          "referencia": "0.55 km de CD ALIBEM - FARROUPILHA/RS",
+          "data_hora_posicao": "26/11/2026 15:45:23",
+          "lat": -29.2467104,
+          "lon": -51.3395488
         },
-        "distancia_km": 88.0,
+        "distancia_km": 83.2,
         "proximo": false
       }
     ],
@@ -456,5 +375,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T15:32:47"
+  "_gerado_em": "2026-11-26T15:47:48"
 }
