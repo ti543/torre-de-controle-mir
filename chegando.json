@@ -28,12 +28,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 06:28:52",
-          "lat": -27.2070466666667,
-          "lon": -49.64908
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 06:44:30",
+          "lat": -27.2060083333333,
+          "lon": -49.6493566666667
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -48,12 +48,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.29 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:55",
-          "lat": -25.5117116666667,
-          "lon": -49.1282283333333
+          "referencia": "1.46 km de POSTO CUPIM 3 - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:44:55",
+          "lat": -25.6268933333333,
+          "lon": -49.1651883333333
         },
-        "distancia_km": 195.4,
+        "distancia_km": 182.1,
         "proximo": false
       },
       {
@@ -99,7 +99,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 06:28:32",
+          "data_hora_posicao": "26/11/2026 06:44:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -144,13 +144,13 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 06:28:16",
-          "lat": -26.5537104,
-          "lon": -48.7199552
+          "referencia": "0.32 km de POSTO MAIOCHI SUL - BARRA VELHA/SC",
+          "data_hora_posicao": "26/11/2026 06:44:12",
+          "lat": -26.6239632,
+          "lon": -48.714064
         },
-        "distancia_km": 37.1,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       },
       {
         "manif": "GRU075115-4",
@@ -195,7 +195,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 06:28:33",
+          "data_hora_posicao": "26/11/2026 06:44:33",
           "lat": -26.8873866666667,
           "lon": -48.7211966666667
         },
@@ -246,7 +246,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 06:28:31",
+          "data_hora_posicao": "26/11/2026 06:44:31",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -266,7 +266,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 06:28:31",
+          "data_hora_posicao": "26/11/2026 06:44:31",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -279,147 +279,6 @@
         "peso_kg": 6602.929999999999,
         "frete_rs": 6165.110000000001,
         "qtde": 3
-      }
-    }
-  },
-  "CTB": {
-    "veiculos": [
-      {
-        "manif": "GRU075111-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 2791.8,
-        "frete_rs": 4605.91,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 06:29:42",
-          "lat": -25.5276608,
-          "lon": -49.2954816
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075112-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TQM0A99",
-        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
-        "peso_real_kg": 3015.89,
-        "frete_rs": 2700.01,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 06:29:42",
-          "lat": -25.5276608,
-          "lon": -49.2954816
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024231-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 3132.68,
-        "frete_rs": 2276.55,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:09",
-          "lat": -25.6573952,
-          "lon": -49.1551968
-        },
-        "distancia_km": 20.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024232-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 14.8,
-        "frete_rs": 289.48,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:09",
-          "lat": -25.6573952,
-          "lon": -49.1551968
-        },
-        "distancia_km": 20.1,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044617-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 6335.85,
-        "frete_rs": 5218.43,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:09",
-          "lat": -25.6573952,
-          "lon": -49.1551968
-        },
-        "distancia_km": 20.1,
-        "proximo": true
-      },
-      {
-        "manif": "RSL044620-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CTB",
-        "dest_city": "CURITIBA/PR",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 1740.0,
-        "frete_rs": 1093.58,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:09",
-          "lat": -25.6573952,
-          "lon": -49.1551968
-        },
-        "distancia_km": 20.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 5807.6900000000005,
-        "frete_rs": 7305.92,
-        "qtde": 2
-      },
-      "Itajaí": {
-        "peso_kg": 3147.48,
-        "frete_rs": 2566.03,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 8075.85,
-        "frete_rs": 6312.01,
-        "qtde": 2
       }
     }
   },
@@ -463,12 +322,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO BUFFON 98 - TORRES/RS",
-          "data_hora_posicao": "26/11/2026 06:29:05",
-          "lat": -29.343808,
-          "lon": -49.7889088
+          "referencia": "1.82 km de CONCESSIONARIA IVECO - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "26/11/2026 06:45:05",
+          "lat": -29.4619936,
+          "lon": -49.944688
         },
-        "distancia_km": 152.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -483,12 +342,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO BUFFON 98 - TORRES/RS",
-          "data_hora_posicao": "26/11/2026 06:29:05",
-          "lat": -29.343808,
-          "lon": -49.7889088
+          "referencia": "1.82 km de CONCESSIONARIA IVECO - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "26/11/2026 06:45:05",
+          "lat": -29.4619936,
+          "lon": -49.944688
         },
-        "distancia_km": 152.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -503,12 +362,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO BUFFON 98 - TORRES/RS",
-          "data_hora_posicao": "26/11/2026 06:29:05",
-          "lat": -29.343808,
-          "lon": -49.7889088
+          "referencia": "1.82 km de CONCESSIONARIA IVECO - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "26/11/2026 06:45:05",
+          "lat": -29.4619936,
+          "lon": -49.944688
         },
-        "distancia_km": 152.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -523,12 +382,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO BUFFON 98 - TORRES/RS",
-          "data_hora_posicao": "26/11/2026 06:29:05",
-          "lat": -29.343808,
-          "lon": -49.7889088
+          "referencia": "1.82 km de CONCESSIONARIA IVECO - TRES CACHOEIRAS/RS",
+          "data_hora_posicao": "26/11/2026 06:45:05",
+          "lat": -29.4619936,
+          "lon": -49.944688
         },
-        "distancia_km": 152.6,
+        "distancia_km": 133.2,
         "proximo": false
       },
       {
@@ -543,12 +402,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 06:29:23",
-          "lat": -27.3019488,
-          "lon": -50.2833824
+          "referencia": "1.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 06:44:05",
+          "lat": -27.3032672,
+          "lon": -50.4116928
         },
-        "distancia_km": 310.9,
+        "distancia_km": 307.5,
         "proximo": false
       }
     ],
@@ -580,7 +439,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:27:56",
+          "data_hora_posicao": "26/11/2026 06:43:56",
           "lat": -25.65752,
           "lon": -49.155328
         },
@@ -600,7 +459,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:27:56",
+          "data_hora_posicao": "26/11/2026 06:43:56",
           "lat": -25.65752,
           "lon": -49.155328
         },
@@ -619,10 +478,10 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:28",
-          "lat": -25.657376,
-          "lon": -49.1551712
+          "referencia": "0.05 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:45:09",
+          "lat": -25.6578048,
+          "lon": -49.1552288
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -639,10 +498,10 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:28",
-          "lat": -25.657376,
-          "lon": -49.1551712
+          "referencia": "0.05 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:45:09",
+          "lat": -25.6578048,
+          "lon": -49.1552288
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -659,10 +518,10 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 06:28:28",
-          "lat": -25.657376,
-          "lon": -49.1551712
+          "referencia": "0.05 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:45:09",
+          "lat": -25.6578048,
+          "lon": -49.1552288
         },
         "distancia_km": 365.1,
         "proximo": false
@@ -679,12 +538,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.36 km de PRF - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 06:29:06",
-          "lat": -25.2828352,
-          "lon": -48.9284832
+          "referencia": "2.46 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 06:45:06",
+          "lat": -25.1436288,
+          "lon": -48.8571328
         },
-        "distancia_km": 320.9,
+        "distancia_km": 305.8,
         "proximo": false
       },
       {
@@ -699,12 +558,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.36 km de PRF - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 06:29:06",
-          "lat": -25.2828352,
-          "lon": -48.9284832
+          "referencia": "2.46 km de POSTO BR 116 SUL REDE JUNINHO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 06:45:06",
+          "lat": -25.1436288,
+          "lon": -48.8571328
         },
-        "distancia_km": 320.9,
+        "distancia_km": 305.8,
         "proximo": false
       },
       {
@@ -719,12 +578,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 06:23:12",
-          "lat": -24.9338912,
-          "lon": -48.2851744
+          "referencia": "0.55 km de LAVADOR 500 - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 06:45:05",
+          "lat": -24.7855408,
+          "lon": -48.1861792
         },
-        "distancia_km": 246.3,
+        "distancia_km": 228.0,
         "proximo": false
       },
       {
@@ -805,10 +664,10 @@
         "frete_rs": 407.2,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.01 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "26/11/2026 06:28:35",
-          "lat": -27.3784183,
-          "lon": -48.6781601
+          "referencia": "4.09 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "26/11/2026 06:44:35",
+          "lat": -27.5467533,
+          "lon": -48.7031313
         },
         "distancia_km": null,
         "proximo": false
@@ -836,10 +695,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.01 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "26/11/2026 06:28:35",
-          "lat": -27.3784183,
-          "lon": -48.6781601
+          "referencia": "4.09 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "26/11/2026 06:44:35",
+          "lat": -27.5467533,
+          "lon": -48.7031313
         },
         "distancia_km": null,
         "proximo": false
@@ -867,10 +726,10 @@
         "frete_rs": 3496.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.01 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "26/11/2026 06:28:35",
-          "lat": -27.3784183,
-          "lon": -48.6781601
+          "referencia": "4.09 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "26/11/2026 06:44:35",
+          "lat": -27.5467533,
+          "lon": -48.7031313
         },
         "distancia_km": null,
         "proximo": false
@@ -881,6 +740,102 @@
         "peso_kg": 966.78,
         "frete_rs": 3496.03,
         "qtde": 1
+      }
+    }
+  },
+  "CTB": {
+    "veiculos": [
+      {
+        "manif": "ITJ024231-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 3132.68,
+        "frete_rs": 2276.55,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:44:26",
+          "lat": -25.6576336,
+          "lon": -49.155696
+        },
+        "distancia_km": 20.1,
+        "proximo": true
+      },
+      {
+        "manif": "ITJ024232-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 14.8,
+        "frete_rs": 289.48,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:44:26",
+          "lat": -25.6576336,
+          "lon": -49.155696
+        },
+        "distancia_km": 20.1,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044617-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 6335.85,
+        "frete_rs": 5218.43,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:44:26",
+          "lat": -25.6576336,
+          "lon": -49.155696
+        },
+        "distancia_km": 20.1,
+        "proximo": true
+      },
+      {
+        "manif": "RSL044620-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 1740.0,
+        "frete_rs": 1093.58,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.09 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 06:44:26",
+          "lat": -25.6576336,
+          "lon": -49.155696
+        },
+        "distancia_km": 20.1,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 3147.48,
+        "frete_rs": 2566.03,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 8075.85,
+        "frete_rs": 6312.01,
+        "qtde": 2
       }
     }
   },
@@ -898,10 +853,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.12 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "26/11/2026 06:28:58",
-          "lat": -27.2569263,
-          "lon": -49.9348968
+          "referencia": "5.93 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "26/11/2026 06:43:39",
+          "lat": -27.2587568,
+          "lon": -50.048112
         },
         "distancia_km": null,
         "proximo": false
@@ -929,10 +884,10 @@
         "frete_rs": 3683.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 06:29:23",
-          "lat": -27.3019488,
-          "lon": -50.2833824
+          "referencia": "1.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 06:44:05",
+          "lat": -27.3032672,
+          "lon": -50.4116928
         },
         "distancia_km": null,
         "proximo": false
@@ -960,10 +915,10 @@
         "frete_rs": 6014.54,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 06:29:23",
-          "lat": -27.3019488,
-          "lon": -50.2833824
+          "referencia": "1.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 06:44:05",
+          "lat": -27.3032672,
+          "lon": -50.4116928
         },
         "distancia_km": null,
         "proximo": false
@@ -980,10 +935,10 @@
         "frete_rs": 84.0,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de MINERADORA VARGEÃO LTDA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 06:29:23",
-          "lat": -27.3019488,
-          "lon": -50.2833824
+          "referencia": "1.02 km de ESTACIONAMENTO DO POSTO SERRANO (R70) - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 06:44:05",
+          "lat": -27.3032672,
+          "lon": -50.4116928
         },
         "distancia_km": null,
         "proximo": false
@@ -997,5 +952,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T06:32:31"
+  "_gerado_em": "2026-11-26T06:47:32"
 }
