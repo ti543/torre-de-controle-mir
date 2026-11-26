@@ -13,12 +13,12 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "26/11/2026 17:00:13",
-          "lat": -27.7812388,
-          "lon": -48.6355781
+          "referencia": "2.3 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "26/11/2026 17:13:58",
+          "lat": -27.6680975,
+          "lon": -48.7151696
         },
-        "distancia_km": 99.7,
+        "distancia_km": 86.8,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "26/11/2026 16:59:47",
-          "lat": -27.2436418,
-          "lon": -48.634114
+          "referencia": "1 km de POSTO MENEGATTI AVIAO - PORTO BELO/SC",
+          "data_hora_posicao": "26/11/2026 17:13:15",
+          "lat": -27.1967446,
+          "lon": -48.6038293
         },
-        "distancia_km": 40.5,
+        "distancia_km": 36.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 1989.93,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.56 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "26/11/2026 17:00:13",
-          "lat": -27.7812388,
-          "lon": -48.6355781
+          "referencia": "2.3 km de POSTO SHELL - PALHOCA - PALHOCA/SC",
+          "data_hora_posicao": "26/11/2026 17:13:58",
+          "lat": -27.6680975,
+          "lon": -48.7151696
         },
-        "distancia_km": 99.7,
+        "distancia_km": 86.8,
         "proximo": false
       }
     ],
@@ -95,7 +95,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 16:58:32",
+          "data_hora_posicao": "26/11/2026 17:14:32",
           "lat": -27.8237984,
           "lon": -50.3628128
         },
@@ -114,12 +114,32 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.47 km de ANDORINHAS (LIVRARIA SPO) - SAO PAULO/SP",
-          "data_hora_posicao": "26/11/2026 16:58:30",
-          "lat": -23.5172016,
-          "lon": -46.6470976
+          "referencia": "0.17 km de GIGA ATACADO - SAO PAULO/SP",
+          "data_hora_posicao": "26/11/2026 17:14:30",
+          "lat": -23.5097536,
+          "lon": -46.6836576
         },
-        "distancia_km": 509.1,
+        "distancia_km": 507.6,
+        "proximo": false
+      },
+      {
+        "manif": "JCB000019-1",
+        "origin_unit": "JCB",
+        "origin_city": "JOACABA/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "QJR4I97",
+        "motorista": "CARLOS SOARES DOS REIS",
+        "peso_real_kg": 80.0,
+        "frete_rs": 1037.3,
+        "grupo_origem": "JCB",
+        "posicao_raster": {
+          "referencia": "0.58 km de POSTO AMIGÃO - JOACABA/SC",
+          "data_hora_posicao": "26/11/2026 17:14:56",
+          "lat": -27.2032266666667,
+          "lon": -51.5147733333333
+        },
+        "distancia_km": 184.4,
         "proximo": false
       },
       {
@@ -135,7 +155,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 16:58:32",
+          "data_hora_posicao": "26/11/2026 17:14:32",
           "lat": -27.8237984,
           "lon": -50.3628128
         },
@@ -152,6 +172,11 @@
       "Guarulhos": {
         "peso_kg": 2032.73,
         "frete_rs": 7288.72,
+        "qtde": 1
+      },
+      "JCB": {
+        "peso_kg": 80.0,
+        "frete_rs": 1037.3,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -176,7 +201,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 16:59:56",
+          "data_hora_posicao": "26/11/2026 17:13:56",
           "lat": -23.4704496,
           "lon": -46.462352
         },
@@ -196,7 +221,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 16:59:56",
+          "data_hora_posicao": "26/11/2026 17:13:56",
           "lat": -23.4704496,
           "lon": -46.462352
         },
@@ -226,10 +251,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 16:59:21",
-          "lat": -25.8609408,
-          "lon": -48.9370272
+          "referencia": "0.4 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 17:15:21",
+          "lat": -25.84576,
+          "lon": -49.061808
         },
         "distancia_km": null,
         "proximo": false
@@ -246,10 +271,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.27 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 16:59:21",
-          "lat": -25.8609408,
-          "lon": -48.9370272
+          "referencia": "0.4 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 17:15:21",
+          "lat": -25.84576,
+          "lon": -49.061808
         },
         "distancia_km": null,
         "proximo": false
@@ -266,10 +291,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.27 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 16:59:21",
-          "lat": -25.8609408,
-          "lon": -48.9370272
+          "referencia": "0.4 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 17:15:21",
+          "lat": -25.84576,
+          "lon": -49.061808
         },
         "distancia_km": null,
         "proximo": false
@@ -286,10 +311,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.27 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 16:59:21",
-          "lat": -25.8609408,
-          "lon": -48.9370272
+          "referencia": "0.4 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 17:15:21",
+          "lat": -25.84576,
+          "lon": -49.061808
         },
         "distancia_km": null,
         "proximo": false
@@ -327,10 +352,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de VIDEFRIGO IMPLEMENTOS PARA TRANSPORTE E REFRIGERACAO - VIDEIRA/SC",
-          "data_hora_posicao": "26/11/2026 16:54:34",
-          "lat": -27.0002988,
-          "lon": -51.0670733
+          "referencia": "1.11 km de BPM - FRAIBURGO/SC - POMERODE/SC",
+          "data_hora_posicao": "26/11/2026 17:14:58",
+          "lat": -27.023031,
+          "lon": -50.922645
         },
         "distancia_km": null,
         "proximo": false
@@ -358,12 +383,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de CARREFOUR - CENTRO DE DISTRIBUICAO - ESTEIO/RS",
-          "data_hora_posicao": "26/11/2026 16:58:24",
-          "lat": -29.8328192,
-          "lon": -51.1787104
+          "referencia": "0.79 km de LIQUIGAS DISTRIBUIDORA S/A - CENTRO OPERATIVO DE CANOAS - CANOAS/RS",
+          "data_hora_posicao": "26/11/2026 17:14:24",
+          "lat": -29.9595392,
+          "lon": -51.2026752
         },
-        "distancia_km": 16.8,
+        "distancia_km": 3.1,
         "proximo": true
       }
     ],
@@ -375,5 +400,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T17:02:37"
+  "_gerado_em": "2026-11-26T17:17:41"
 }
