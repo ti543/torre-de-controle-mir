@@ -13,12 +13,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:28:37",
-          "lat": -26.8873504,
-          "lon": -48.7212608
+          "referencia": "0.29 km de RODAN TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 01:44:37",
+          "lat": -26.8500416,
+          "lon": -48.72544
         },
-        "distancia_km": 98.5,
+        "distancia_km": 99.7,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.87 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 01:28:59",
-          "lat": -25.8579183333333,
-          "lon": -48.9513483333333
+          "referencia": "1.18 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "26/11/2026 01:45:04",
+          "lat": -25.9625366666667,
+          "lon": -48.8982316666667
         },
-        "distancia_km": 165.2,
+        "distancia_km": 157.2,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.6 km de AUTO POSTO FEDERAL - JUQUITIBA/SP",
-          "data_hora_posicao": "26/11/2026 01:28:25",
-          "lat": -23.9982716666667,
-          "lon": -47.1496633333333
+          "referencia": "0.71 km de POSTO SERRAS 90 - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 01:34:37",
+          "lat": -24.0433016666667,
+          "lon": -47.1935233333333
         },
-        "distancia_km": 435.9,
+        "distancia_km": 429.3,
         "proximo": false
       },
       {
@@ -77,6 +77,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024229-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TQB5A94",
+        "motorista": "NILTON ABEL DA SILVA",
+        "peso_real_kg": 3554.04,
+        "frete_rs": 3697.01,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.29 km de RODAN TRANSPORTES - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 01:44:37",
+          "lat": -26.8500416,
+          "lon": -48.72544
+        },
+        "distancia_km": 99.7,
+        "proximo": false
+      },
+      {
         "manif": "POA016305-8",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -89,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 01:28:32",
+          "data_hora_posicao": "26/11/2026 01:44:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -107,6 +127,11 @@
         "peso_kg": 21790.97,
         "frete_rs": 32321.010000000002,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 3554.04,
+        "frete_rs": 3697.01,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 753.39,
@@ -129,12 +154,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "26/11/2026 01:28:03",
-          "lat": -23.9836672,
-          "lon": -47.1465472
+          "referencia": "0.35 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "26/11/2026 01:43:46",
+          "lat": -23.8881296,
+          "lon": -46.9789952
         },
-        "distancia_km": 90.0,
+        "distancia_km": 70.2,
         "proximo": false
       },
       {
@@ -150,7 +175,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:29:56",
+          "data_hora_posicao": "26/11/2026 01:43:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -170,7 +195,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:29:56",
+          "data_hora_posicao": "26/11/2026 01:43:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -190,9 +215,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:30:28",
-          "lat": -26.8873376,
-          "lon": -48.7214592
+          "data_hora_posicao": "26/11/2026 01:44:28",
+          "lat": -26.887408,
+          "lon": -48.7215264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -210,9 +235,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:30:28",
-          "lat": -26.8873376,
-          "lon": -48.7214592
+          "data_hora_posicao": "26/11/2026 01:44:28",
+          "lat": -26.887408,
+          "lon": -48.7215264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -230,9 +255,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:30:28",
-          "lat": -26.8873376,
-          "lon": -48.7214592
+          "data_hora_posicao": "26/11/2026 01:44:28",
+          "lat": -26.887408,
+          "lon": -48.7215264
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -250,7 +275,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:29:06",
+          "data_hora_posicao": "26/11/2026 01:43:06",
           "lat": -26.887712,
           "lon": -48.7207296
         },
@@ -269,12 +294,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 01:29:21",
-          "lat": -26.4529424,
-          "lon": -48.7819488
+          "referencia": "0.68 km de SUPER JA TRANSPORTES E SERVIÇOS LTDA - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 01:45:05",
+          "lat": -26.3119232,
+          "lon": -48.8749952
         },
-        "distancia_km": 405.8,
+        "distancia_km": 398.8,
         "proximo": false
       },
       {
@@ -360,12 +385,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 01:30:12",
-          "lat": -24.780072,
-          "lon": -48.1859808
+          "referencia": "0.14 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 01:43:38",
+          "lat": -24.7937328,
+          "lon": -48.211376
         },
-        "distancia_km": 240.4,
+        "distancia_km": 238.3,
         "proximo": false
       },
       {
@@ -410,13 +435,13 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.83 km de POSTO GRAAL GP SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "26/11/2026 01:30:05",
-          "lat": -27.1569416666667,
-          "lon": -48.6108466666667
+          "referencia": "0.61 km de POSTO APOLO - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "26/11/2026 01:43:04",
+          "lat": -27.017525,
+          "lon": -48.6108
         },
-        "distancia_km": 31.9,
-        "proximo": false
+        "distancia_km": 18.1,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -461,10 +486,10 @@
         "frete_rs": 4756.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 01:28:35",
-          "lat": -22.85207,
-          "lon": -47.1138116666667
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "26/11/2026 01:44:03",
+          "lat": -22.8469416666667,
+          "lon": -47.1247133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -481,10 +506,10 @@
         "frete_rs": 182.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.21 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 01:28:35",
-          "lat": -22.85207,
-          "lon": -47.1138116666667
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "26/11/2026 01:44:03",
+          "lat": -22.8469416666667,
+          "lon": -47.1247133333333
         },
         "distancia_km": null,
         "proximo": false
@@ -512,12 +537,12 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.92 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "26/11/2026 01:29:42",
-          "lat": -24.432472,
-          "lon": -47.7888512
+          "referencia": "4.89 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "26/11/2026 01:43:42",
+          "lat": -24.5806192,
+          "lon": -47.8848928
         },
-        "distancia_km": 194.7,
+        "distancia_km": 176.9,
         "proximo": false
       },
       {
@@ -532,12 +557,12 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.92 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "26/11/2026 01:29:42",
-          "lat": -24.432472,
-          "lon": -47.7888512
+          "referencia": "4.89 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "26/11/2026 01:43:42",
+          "lat": -24.5806192,
+          "lon": -47.8848928
         },
-        "distancia_km": 194.7,
+        "distancia_km": 176.9,
         "proximo": false
       },
       {
@@ -553,7 +578,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:30:09",
+          "data_hora_posicao": "26/11/2026 01:44:09",
           "lat": -26.8876,
           "lon": -48.720752
         },
@@ -573,7 +598,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 01:30:09",
+          "data_hora_posicao": "26/11/2026 01:44:09",
           "lat": -26.8876,
           "lon": -48.720752
         },
@@ -635,7 +660,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 01:29:05",
+          "data_hora_posicao": "26/11/2026 01:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -655,7 +680,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 01:29:05",
+          "data_hora_posicao": "26/11/2026 01:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -675,7 +700,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 01:29:05",
+          "data_hora_posicao": "26/11/2026 01:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -695,7 +720,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 01:29:05",
+          "data_hora_posicao": "26/11/2026 01:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -711,5 +736,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T01:32:33"
+  "_gerado_em": "2026-11-26T01:47:37"
 }
