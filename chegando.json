@@ -13,13 +13,13 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.21 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
-          "data_hora_posicao": "26/11/2026 17:59:59",
-          "lat": -27.2109971,
-          "lon": -48.6210683
+          "referencia": "0.53 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "26/11/2026 18:14:57",
+          "lat": -27.131746,
+          "lon": -48.6096975
         },
-        "distancia_km": 37.3,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       },
       {
         "manif": "FLN000143-1",
@@ -33,12 +33,12 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO MACHADO II - TIJUCAS/SC",
-          "data_hora_posicao": "26/11/2026 18:00:31",
-          "lat": -27.2426905,
-          "lon": -48.6375813
+          "referencia": "4.31 km de POSTO JOAIA P2 - TIJUCAS/SC",
+          "data_hora_posicao": "26/11/2026 18:15:01",
+          "lat": -27.2640603,
+          "lon": -48.7030535
         },
-        "distancia_km": 40.4,
+        "distancia_km": 41.9,
         "proximo": false
       },
       {
@@ -53,13 +53,13 @@
         "frete_rs": 1989.93,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.21 km de FÁBRICA THF MÓVEIS - TIJUCAS/SC",
-          "data_hora_posicao": "26/11/2026 17:59:59",
-          "lat": -27.2109971,
-          "lon": -48.6210683
+          "referencia": "0.53 km de BALANÇA - ITAPEMA/SC",
+          "data_hora_posicao": "26/11/2026 18:14:57",
+          "lat": -27.131746,
+          "lon": -48.6096975
         },
-        "distancia_km": 37.3,
-        "proximo": false
+        "distancia_km": 29.3,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -80,6 +80,82 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010470-1",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 3415.78,
+        "frete_rs": 4730.8,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "26/11/2026 18:14:24",
+          "lat": -22.8469166666667,
+          "lon": -47.12472
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024220-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 12371.38,
+        "frete_rs": 12802.04,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 18:13:56",
+          "lat": -23.4704896,
+          "lon": -46.4623552
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      },
+      {
+        "manif": "ITJ024221-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1641.16,
+        "frete_rs": 3294.78,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 18:13:56",
+          "lat": -23.4704896,
+          "lon": -46.4623552
+        },
+        "distancia_km": 0.0,
+        "proximo": true
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 3415.78,
+        "frete_rs": 4730.8,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 14012.539999999999,
+        "frete_rs": 16096.820000000002,
+        "qtde": 2
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -94,12 +170,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.54 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "26/11/2026 18:00:32",
-          "lat": -27.6580576,
-          "lon": -50.3363712
+          "referencia": "1.42 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
+          "data_hora_posicao": "26/11/2026 18:09:15",
+          "lat": -27.5776,
+          "lon": -50.3699136
         },
-        "distancia_km": 84.4,
+        "distancia_km": 82.2,
         "proximo": false
       },
       {
@@ -114,12 +190,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.41 km de PEDAGIO - PRACA 10 (PADROEIRA EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "26/11/2026 18:00:30",
-          "lat": -23.5556208,
-          "lon": -46.8194496
+          "referencia": "0.46 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "26/11/2026 18:14:30",
+          "lat": -23.6314928,
+          "lon": -46.83152
         },
-        "distancia_km": 495.5,
+        "distancia_km": 487.9,
         "proximo": false
       },
       {
@@ -134,12 +210,12 @@
         "frete_rs": 1037.3,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "0.39 km de DICAPEL - CAMPOS NOVOS/SC",
-          "data_hora_posicao": "26/11/2026 17:55:00",
-          "lat": -27.3873866666667,
-          "lon": -51.2333866666667
+          "referencia": "0.18 km de POSTO FALCÃO - CAMPOS NOVOS/SC",
+          "data_hora_posicao": "26/11/2026 18:00:24",
+          "lat": -27.3966933333333,
+          "lon": -51.22368
         },
-        "distancia_km": 157.8,
+        "distancia_km": 157.0,
         "proximo": false
       },
       {
@@ -154,12 +230,32 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.54 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
-          "data_hora_posicao": "26/11/2026 18:00:32",
-          "lat": -27.6580576,
-          "lon": -50.3363712
+          "referencia": "1.42 km de 2ªCIA/3ºPEL - 3º PELOTÃO - CORREIA PINTO/SC",
+          "data_hora_posicao": "26/11/2026 18:09:15",
+          "lat": -27.5776,
+          "lon": -50.3699136
         },
-        "distancia_km": 84.4,
+        "distancia_km": 82.2,
+        "proximo": false
+      },
+      {
+        "manif": "POA016310-4",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 3026.12,
+        "frete_rs": 2855.67,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "26/11/2026 18:09:05",
+          "lat": -29.98376,
+          "lon": -51.1870112
+        },
+        "distancia_km": 343.4,
         "proximo": false
       }
     ],
@@ -180,59 +276,8 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 753.39,
-        "frete_rs": 1349.07,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024220-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 12371.38,
-        "frete_rs": 12802.04,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 17:59:56",
-          "lat": -23.4704896,
-          "lon": -46.4623552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024221-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1641.16,
-        "frete_rs": 3294.78,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 17:59:56",
-          "lat": -23.4704896,
-          "lon": -46.4623552
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 14012.539999999999,
-        "frete_rs": 16096.820000000002,
+        "peso_kg": 3779.5099999999998,
+        "frete_rs": 4204.74,
         "qtde": 2
       }
     }
@@ -251,10 +296,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 17:59:21",
-          "lat": -25.5865328,
-          "lon": -49.1731712
+          "referencia": "0.26 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 18:13:21",
+          "lat": -25.5119664,
+          "lon": -49.1281888
         },
         "distancia_km": null,
         "proximo": false
@@ -271,10 +316,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 17:59:21",
-          "lat": -25.5865328,
-          "lon": -49.1731712
+          "referencia": "0.26 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 18:13:21",
+          "lat": -25.5119664,
+          "lon": -49.1281888
         },
         "distancia_km": null,
         "proximo": false
@@ -291,10 +336,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.14 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 17:59:21",
-          "lat": -25.5865328,
-          "lon": -49.1731712
+          "referencia": "0.26 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 18:13:21",
+          "lat": -25.5119664,
+          "lon": -49.1281888
         },
         "distancia_km": null,
         "proximo": false
@@ -311,10 +356,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.14 km de RODOGREEN IMPLEMENTOS RODOVIARIOS LTDA - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 17:59:21",
-          "lat": -25.5865328,
-          "lon": -49.1731712
+          "referencia": "0.26 km de ASTRAC - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 18:13:21",
+          "lat": -25.5119664,
+          "lon": -49.1281888
         },
         "distancia_km": null,
         "proximo": false
@@ -338,6 +383,37 @@
       }
     }
   },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016309-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 1824.0,
+        "frete_rs": 1434.17,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "26/11/2026 18:09:05",
+          "lat": -29.98376,
+          "lon": -51.1870112
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 1824.0,
+        "frete_rs": 1434.17,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -352,10 +428,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.46 km de PRE - POSTO 03 - LEBON REGIS/SC",
-          "data_hora_posicao": "26/11/2026 17:54:32",
-          "lat": -26.9165168,
-          "lon": -50.6410318
+          "referencia": "4.97 km de RESTAURANTE BOA VISTA - SANTA CECILIA/SC",
+          "data_hora_posicao": "26/11/2026 18:10:13",
+          "lat": -26.9195008,
+          "lon": -50.493056
         },
         "distancia_km": null,
         "proximo": false
@@ -384,9 +460,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "26/11/2026 18:00:24",
-          "lat": -29.98344,
-          "lon": -51.1866656
+          "data_hora_posicao": "26/11/2026 18:14:24",
+          "lat": -29.983456,
+          "lon": -51.1866464
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -400,5 +476,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T18:02:45"
+  "_gerado_em": "2026-11-26T18:17:34"
 }
