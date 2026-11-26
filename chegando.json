@@ -13,12 +13,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.65 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "26/11/2026 02:44:37",
-          "lat": -26.951408,
-          "lon": -49.3035264
+          "referencia": "2.65 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "26/11/2026 02:58:37",
+          "lat": -26.9884,
+          "lon": -49.3740224
         },
-        "distancia_km": 44.5,
+        "distancia_km": 36.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.39 km de CALDO DE CANA DA DIVISA - GUARAMIRIM/SC",
-          "data_hora_posicao": "26/11/2026 02:39:37",
-          "lat": -26.3736266666667,
-          "lon": -48.9551466666667
+          "referencia": "0.56 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "26/11/2026 02:53:24",
+          "lat": -26.479685,
+          "lon": -49.0009016666667
         },
-        "distancia_km": 115.4,
+        "distancia_km": 103.3,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.43 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
-          "data_hora_posicao": "26/11/2026 02:43:54",
-          "lat": -24.44215,
-          "lon": -47.7994016666667
+          "referencia": "3.05 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
+          "data_hora_posicao": "26/11/2026 02:59:54",
+          "lat": -24.60211,
+          "lon": -47.8763666666667
         },
-        "distancia_km": 358.8,
+        "distancia_km": 339.5,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3697.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.65 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
-          "data_hora_posicao": "26/11/2026 02:44:37",
-          "lat": -26.951408,
-          "lon": -49.3035264
+          "referencia": "2.65 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
+          "data_hora_posicao": "26/11/2026 02:58:37",
+          "lat": -26.9884,
+          "lon": -49.3740224
         },
-        "distancia_km": 44.5,
+        "distancia_km": 36.5,
         "proximo": false
       },
       {
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 02:44:32",
+          "data_hora_posicao": "26/11/2026 02:58:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -140,257 +140,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CTB013675-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 12434.86,
-        "frete_rs": 12090.01,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.18 km de TRUCKS CONTROL - AUTORIZADA ONIXSAT - SAO PAULO/SP",
-          "data_hora_posicao": "26/11/2026 02:43:46",
-          "lat": -23.513456,
-          "lon": -46.5766208
-        },
-        "distancia_km": 12.6,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024220-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 12371.38,
-        "frete_rs": 12802.04,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:43:56",
-          "lat": -26.8873568,
-          "lon": -48.7211712
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024221-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1641.16,
-        "frete_rs": 3294.78,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:43:56",
-          "lat": -26.8873568,
-          "lon": -48.7211712
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024222-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6546.28,
-        "frete_rs": 10467.85,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:28",
-          "lat": -26.8874048,
-          "lon": -48.7214912
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024224-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4574.79,
-        "frete_rs": 7005.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:28",
-          "lat": -26.8874048,
-          "lon": -48.7214912
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024225-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 302.24,
-        "frete_rs": 800.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:28",
-          "lat": -26.8874048,
-          "lon": -48.7214912
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024230-6",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 11514.13,
-        "frete_rs": 13767.83,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "1.44 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 02:45:06",
-          "lat": -26.6762272,
-          "lon": -48.6913632
-        },
-        "distancia_km": 421.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044612-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.44 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
-          "data_hora_posicao": "26/11/2026 02:45:06",
-          "lat": -26.6762272,
-          "lon": -48.6913632
-        },
-        "distancia_km": 421.2,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044621-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 32342.5,
-        "frete_rs": 20290.13,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.48 km de MECANICA - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 02:45:05",
-          "lat": -25.8530736,
-          "lon": -48.9539936
-        },
-        "distancia_km": 365.5,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044622-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 11816.46,
-        "frete_rs": 16111.68,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044623-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 12867.6,
-        "frete_rs": 6505.34,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016535-2",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 16519.65,
-        "frete_rs": 22000.28,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 12434.86,
-        "frete_rs": 12090.01,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 36949.98,
-        "frete_rs": 48139.030000000006,
-        "qtde": 6
-      },
-      "Rio do Sul": {
-        "peso_kg": 73723.06,
-        "frete_rs": 52251.369999999995,
-        "qtde": 4
-      },
-      "Timbó": {
-        "peso_kg": 16519.65,
-        "frete_rs": 22000.28,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -405,12 +154,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.25 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 02:44:12",
-          "lat": -25.0824416,
-          "lon": -48.6132192
+          "referencia": "0.98 km de POSTO DINOSSAURO - ANTONINA/PR",
+          "data_hora_posicao": "26/11/2026 02:58:12",
+          "lat": -25.1103168,
+          "lon": -48.7566368
         },
-        "distancia_km": 201.0,
+        "distancia_km": 197.6,
         "proximo": false
       },
       {
@@ -455,10 +204,10 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:37",
-          "lat": -26.887395,
-          "lon": -48.7208566666667
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:58:40",
+          "lat": -26.8873866666667,
+          "lon": -48.7211966666667
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -507,7 +256,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 02:44:34",
+          "data_hora_posicao": "26/11/2026 02:58:34",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -527,7 +276,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 02:44:34",
+          "data_hora_posicao": "26/11/2026 02:58:34",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -558,7 +307,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 02:43:42",
+          "data_hora_posicao": "26/11/2026 02:59:42",
           "lat": -24.7798784,
           "lon": -48.186688
         },
@@ -578,7 +327,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 02:43:42",
+          "data_hora_posicao": "26/11/2026 02:59:42",
           "lat": -24.7798784,
           "lon": -48.186688
         },
@@ -598,7 +347,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:09",
+          "data_hora_posicao": "26/11/2026 03:00:09",
           "lat": -26.8875776,
           "lon": -48.7206528
         },
@@ -618,7 +367,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:09",
+          "data_hora_posicao": "26/11/2026 03:00:09",
           "lat": -26.8875776,
           "lon": -48.7206528
         },
@@ -638,7 +387,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:09",
+          "data_hora_posicao": "26/11/2026 03:00:09",
           "lat": -26.8875776,
           "lon": -48.7206528
         },
@@ -658,7 +407,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:44:09",
+          "data_hora_posicao": "26/11/2026 03:00:09",
           "lat": -26.8875776,
           "lon": -48.7206528
         },
@@ -725,7 +474,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:45:05",
+          "data_hora_posicao": "26/11/2026 02:59:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -745,7 +494,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:45:05",
+          "data_hora_posicao": "26/11/2026 02:59:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -765,7 +514,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:45:05",
+          "data_hora_posicao": "26/11/2026 02:59:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -785,7 +534,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:45:05",
+          "data_hora_posicao": "26/11/2026 02:59:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -801,5 +550,231 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T02:47:33"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "ITJ024220-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 12371.38,
+        "frete_rs": 12802.04,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:59:56",
+          "lat": -26.8873568,
+          "lon": -48.7211712
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024221-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1641.16,
+        "frete_rs": 3294.78,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:59:56",
+          "lat": -26.8873568,
+          "lon": -48.7211712
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024222-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 6546.28,
+        "frete_rs": 10467.85,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:58:28",
+          "lat": -26.8872768,
+          "lon": -48.7217856
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024224-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 4574.79,
+        "frete_rs": 7005.64,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:58:28",
+          "lat": -26.8872768,
+          "lon": -48.7217856
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024225-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 302.24,
+        "frete_rs": 800.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:58:28",
+          "lat": -26.8872768,
+          "lon": -48.7217856
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024230-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 11514.13,
+        "frete_rs": 13767.83,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.1 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 02:59:21",
+          "lat": -26.529504,
+          "lon": -48.7143104
+        },
+        "distancia_km": 408.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044612-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.1 km de POSTO APOLO FILIAL 11 - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 02:59:21",
+          "lat": -26.529504,
+          "lon": -48.7143104
+        },
+        "distancia_km": 408.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044621-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 32342.5,
+        "frete_rs": 20290.13,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.13 km de POSTO MONTE CARLO 01 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 02:59:05",
+          "lat": -25.8459168,
+          "lon": -49.06704
+        },
+        "distancia_km": 372.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044622-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 11816.46,
+        "frete_rs": 16111.68,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044623-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FWF0J53",
+        "motorista": "MARINO JOSE ODORIZZI",
+        "peso_real_kg": 12867.6,
+        "frete_rs": 6505.34,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016535-2",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 16519.65,
+        "frete_rs": 22000.28,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 36949.98,
+        "frete_rs": 48139.030000000006,
+        "qtde": 6
+      },
+      "Rio do Sul": {
+        "peso_kg": 73723.06,
+        "frete_rs": 52251.369999999995,
+        "qtde": 4
+      },
+      "Timbó": {
+        "peso_kg": 16519.65,
+        "frete_rs": 22000.28,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-26T03:02:30"
 }
