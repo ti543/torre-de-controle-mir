@@ -14,7 +14,7 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:57:37",
+          "data_hora_posicao": "25/11/2026 22:13:37",
           "lat": -26.8876853,
           "lon": -48.7206486
         },
@@ -33,12 +33,12 @@
         "frete_rs": 2486.43,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.48 km de POSTO CONSUL DIVISA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 21:58:37",
-          "lat": -25.9840064,
-          "lon": -48.885216
+          "referencia": "0.08 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 22:14:37",
+          "lat": -26.14624,
+          "lon": -48.9076928
         },
-        "distancia_km": 101.8,
+        "distancia_km": 84.5,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO CANCUN - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "25/11/2026 21:58:12",
-          "lat": -23.6429424,
-          "lon": -46.838736
+          "referencia": "0.2 km de POSTO 40 (SÃO LEOPOLDO) - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 22:14:12",
+          "lat": -23.7478096,
+          "lon": -46.9006624
         },
-        "distancia_km": 407.4,
+        "distancia_km": 394.1,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.26 km de POSTO RONSANI - ICARA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:06",
-          "lat": -28.6991466666667,
-          "lon": -49.19084
+          "referencia": "0.49 km de EVERTON TRANSPORTES - JAGUARUNA/SC - JAGUARUNA/SC",
+          "data_hora_posicao": "25/11/2026 22:13:47",
+          "lat": -28.5921016666667,
+          "lon": -49.0448566666667
         },
-        "distancia_km": 206.7,
+        "distancia_km": 192.2,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 2066.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.32 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:00",
-          "lat": -27.0802528,
-          "lon": -49.5189408
+          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "25/11/2026 22:14:09",
+          "lat": -27.0637408,
+          "lon": -49.4060736
         },
-        "distancia_km": 81.9,
+        "distancia_km": 70.7,
         "proximo": false
       }
     ],
@@ -144,12 +144,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.48 km de POSTO CONSUL DIVISA - GUARATUBA/PR",
-          "data_hora_posicao": "25/11/2026 21:58:37",
-          "lat": -25.9840064,
-          "lon": -48.885216
+          "referencia": "0.08 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 22:14:37",
+          "lat": -26.14624,
+          "lon": -48.9076928
         },
-        "distancia_km": 155.7,
+        "distancia_km": 139.0,
         "proximo": false
       },
       {
@@ -164,12 +164,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.34 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 21:58:09",
-          "lat": -24.7754733333333,
-          "lon": -48.1997033333333
+          "referencia": "1.05 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "25/11/2026 22:03:04",
+          "lat": -24.8033966666667,
+          "lon": -48.2137216666667
         },
-        "distancia_km": 306.7,
+        "distancia_km": 303.3,
         "proximo": false
       },
       {
@@ -185,11 +185,26 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 21:58:24",
+          "data_hora_posicao": "25/11/2026 22:14:23",
           "lat": -23.4704466666667,
           "lon": -46.46207
         },
         "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075113-8",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "DCU9H14",
+        "motorista": "ADALBERTO KICH",
+        "peso_real_kg": 3882.92,
+        "frete_rs": 9534.37,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -205,7 +220,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 21:58:32",
+          "data_hora_posicao": "25/11/2026 22:14:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -220,9 +235,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 17908.05,
-        "frete_rs": 22786.64,
-        "qtde": 2
+        "peso_kg": 21790.97,
+        "frete_rs": 32321.010000000002,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 753.39,
@@ -245,12 +260,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.74 km de POSTO JUNINHO BR 116 SUL - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 21:59:46",
-          "lat": -25.1152176,
-          "lon": -48.8521984
+          "referencia": "0.44 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
+          "data_hora_posicao": "25/11/2026 22:13:46",
+          "lat": -25.1009744,
+          "lon": -48.7287584
         },
-        "distancia_km": 303.5,
+        "distancia_km": 292.6,
         "proximo": false
       },
       {
@@ -266,7 +281,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:59:56",
+          "data_hora_posicao": "25/11/2026 22:13:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -286,7 +301,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:59:56",
+          "data_hora_posicao": "25/11/2026 22:13:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -306,7 +321,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:58:28",
+          "data_hora_posicao": "25/11/2026 22:14:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -326,7 +341,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:58:28",
+          "data_hora_posicao": "25/11/2026 22:14:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -346,7 +361,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:58:28",
+          "data_hora_posicao": "25/11/2026 22:14:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -366,7 +381,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:59:06",
+          "data_hora_posicao": "25/11/2026 22:15:06",
           "lat": -26.887712,
           "lon": -48.7207296
         },
@@ -386,7 +401,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 21:59:38",
+          "data_hora_posicao": "25/11/2026 22:15:05",
           "lat": -27.205856,
           "lon": -49.649024
         },
@@ -438,99 +453,48 @@
       }
     }
   },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "ITJ024214-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 10250.39,
-        "frete_rs": 15625.84,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.38 km de AUTO POSTO VIADUTO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:05",
-          "lat": -27.6527488,
-          "lon": -48.6767168
-        },
-        "distancia_km": 356.3,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024216-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 56.7,
-        "frete_rs": 456.25,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.38 km de AUTO POSTO VIADUTO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:05",
-          "lat": -27.6527488,
-          "lon": -48.6767168
-        },
-        "distancia_km": 356.3,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024218-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 191.6,
-        "frete_rs": 710.4,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.38 km de AUTO POSTO VIADUTO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:05",
-          "lat": -27.6527488,
-          "lon": -48.6767168
-        },
-        "distancia_km": 356.3,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024219-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 1824.0,
-        "frete_rs": 1434.17,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.38 km de AUTO POSTO VIADUTO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:05",
-          "lat": -27.6527488,
-          "lon": -48.6767168
-        },
-        "distancia_km": 356.3,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 12322.69,
-        "frete_rs": 18226.660000000003,
-        "qtde": 4
-      }
-    }
-  },
   "CTB": {
     "veiculos": [
+      {
+        "manif": "GRU075111-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 2791.8,
+        "frete_rs": 4605.91,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:13:42",
+          "lat": -23.4708512,
+          "lon": -46.4613312
+        },
+        "distancia_km": 366.8,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075112-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TQM0A99",
+        "motorista": "SAMUEL RAMOS DO NASCIMENTO",
+        "peso_real_kg": 3015.89,
+        "frete_rs": 2700.01,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:13:42",
+          "lat": -23.4708512,
+          "lon": -46.4613312
+        },
+        "distancia_km": 366.8,
+        "proximo": false
+      },
       {
         "manif": "RSL044617-3",
         "origin_unit": "RSL",
@@ -543,12 +507,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.32 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:00",
-          "lat": -27.0802528,
-          "lon": -49.5189408
+          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "25/11/2026 22:14:09",
+          "lat": -27.0637408,
+          "lon": -49.4060736
         },
-        "distancia_km": 174.1,
+        "distancia_km": 171.2,
         "proximo": false
       },
       {
@@ -563,16 +527,21 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.32 km de POSTO MARCHETTI - IBIRAMA/SC",
-          "data_hora_posicao": "25/11/2026 21:59:00",
-          "lat": -27.0802528,
-          "lon": -49.5189408
+          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "25/11/2026 22:14:09",
+          "lat": -27.0637408,
+          "lon": -49.4060736
         },
-        "distancia_km": 174.1,
+        "distancia_km": 171.2,
         "proximo": false
       }
     ],
     "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 5807.6900000000005,
+        "frete_rs": 7305.92,
+        "qtde": 2
+      },
       "Rio do Sul": {
         "peso_kg": 8075.85,
         "frete_rs": 6312.01,
@@ -580,5 +549,96 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T22:02:28"
+  "POA": {
+    "veiculos": [
+      {
+        "manif": "ITJ024214-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 10250.39,
+        "frete_rs": 15625.84,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 22:15:05",
+          "lat": -27.7999488,
+          "lon": -48.6374656
+        },
+        "distancia_km": 347.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024216-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 56.7,
+        "frete_rs": 456.25,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 22:15:05",
+          "lat": -27.7999488,
+          "lon": -48.6374656
+        },
+        "distancia_km": 347.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024218-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 191.6,
+        "frete_rs": 710.4,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 22:15:05",
+          "lat": -27.7999488,
+          "lon": -48.6374656
+        },
+        "distancia_km": 347.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024219-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "POA",
+        "dest_city": "PORTO ALEGRE/RS",
+        "placa": "UMG2C94",
+        "motorista": "FELIPE ALVES DOS SANTOS",
+        "peso_real_kg": 1824.0,
+        "frete_rs": 1434.17,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
+          "data_hora_posicao": "25/11/2026 22:15:05",
+          "lat": -27.7999488,
+          "lon": -48.6374656
+        },
+        "distancia_km": 347.2,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Itajaí": {
+        "peso_kg": 12322.69,
+        "frete_rs": 18226.660000000003,
+        "qtde": 4
+      }
+    }
+  },
+  "_gerado_em": "2026-11-25T22:17:33"
 }
