@@ -13,12 +13,12 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.14 km de CONCESSIONARIA VOLVO - ICARA/SC",
-          "data_hora_posicao": "26/11/2026 11:14:47",
-          "lat": -28.7567546,
-          "lon": -49.2804186
+          "referencia": "0.42 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "26/11/2026 11:28:35",
+          "lat": -28.6947683,
+          "lon": -49.3167341
         },
-        "distancia_km": 215.0,
+        "distancia_km": 209.3,
         "proximo": false
       },
       {
@@ -33,10 +33,10 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 11:13:53",
-          "lat": -26.8876866666667,
-          "lon": -48.720655
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 11:29:15",
+          "lat": -26.8876733333333,
+          "lon": -48.7207166666667
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -69,10 +69,10 @@
         "frete_rs": 618.92,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO ANDREAZZA 01 - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 11:14:32",
-          "lat": -28.5354048,
-          "lon": -50.9615584
+          "referencia": "0.34 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 11:28:32",
+          "lat": -28.495184,
+          "lon": -50.913808
         },
         "distancia_km": null,
         "proximo": false
@@ -100,12 +100,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO ANDREAZZA 01 - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 11:14:32",
-          "lat": -28.5354048,
-          "lon": -50.9615584
+          "referencia": "0.34 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 11:28:32",
+          "lat": -28.495184,
+          "lon": -50.913808
         },
-        "distancia_km": 196.2,
+        "distancia_km": 189.7,
         "proximo": false
       },
       {
@@ -120,13 +120,13 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.56 km de TRANSPORTES APIUNA LTDA - APIUNA/SC",
-          "data_hora_posicao": "26/11/2026 11:14:38",
-          "lat": -27.0449783333333,
-          "lon": -49.39443
+          "referencia": "1.49 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "26/11/2026 11:28:41",
+          "lat": -27.08943,
+          "lon": -49.4715166666667
         },
-        "distancia_km": 31.0,
-        "proximo": false
+        "distancia_km": 21.9,
+        "proximo": true
       },
       {
         "manif": "GRU075113-8",
@@ -155,12 +155,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO ANDREAZZA 01 - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 11:14:32",
-          "lat": -28.5354048,
-          "lon": -50.9615584
+          "referencia": "0.34 km de PRF - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 11:28:32",
+          "lat": -28.495184,
+          "lon": -50.913808
         },
-        "distancia_km": 196.2,
+        "distancia_km": 189.7,
         "proximo": false
       }
     ],
@@ -198,46 +198,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "RSL044625-4",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 3893.05,
-        "frete_rs": 1566.47,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 11:13:21",
-          "lat": -26.8423792,
-          "lon": -49.2724928
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044626-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 279.0,
-        "frete_rs": 82.01,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 11:13:21",
-          "lat": -26.8423792,
-          "lon": -49.2724928
-        },
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
@@ -245,11 +205,6 @@
         "peso_kg": 14302.55,
         "frete_rs": 17713.37,
         "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 4172.05,
-        "frete_rs": 1648.48,
-        "qtde": 2
       }
     }
   },
@@ -267,12 +222,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 11:13:56",
-          "lat": -24.3278544,
-          "lon": -47.5709376
+          "referencia": "0.71 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 11:29:56",
+          "lat": -24.2649824,
+          "lon": -47.386448
         },
-        "distancia_km": 147.6,
+        "distancia_km": 129.0,
         "proximo": false
       },
       {
@@ -287,12 +242,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 11:13:56",
-          "lat": -24.3278544,
-          "lon": -47.5709376
+          "referencia": "0.71 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 11:29:56",
+          "lat": -24.2649824,
+          "lon": -47.386448
         },
-        "distancia_km": 147.6,
+        "distancia_km": 129.0,
         "proximo": false
       },
       {
@@ -307,12 +262,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 11:14:28",
-          "lat": -24.3264272,
-          "lon": -47.5634656
+          "referencia": "0.21 km de CARAVAGGIO GRILL - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 11:28:28",
+          "lat": -24.2709936,
+          "lon": -47.4019456
         },
-        "distancia_km": 146.9,
+        "distancia_km": 130.6,
         "proximo": false
       },
       {
@@ -327,12 +282,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 11:14:28",
-          "lat": -24.3264272,
-          "lon": -47.5634656
+          "referencia": "0.21 km de CARAVAGGIO GRILL - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 11:28:28",
+          "lat": -24.2709936,
+          "lon": -47.4019456
         },
-        "distancia_km": 146.9,
+        "distancia_km": 130.6,
         "proximo": false
       },
       {
@@ -347,12 +302,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 150 - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 11:14:28",
-          "lat": -24.3264272,
-          "lon": -47.5634656
+          "referencia": "0.21 km de CARAVAGGIO GRILL - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 11:28:28",
+          "lat": -24.2709936,
+          "lon": -47.4019456
         },
-        "distancia_km": 146.9,
+        "distancia_km": 130.6,
         "proximo": false
       },
       {
@@ -367,12 +322,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.27 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
-          "data_hora_posicao": "26/11/2026 11:15:06",
-          "lat": -24.133192,
-          "lon": -46.698832
+          "referencia": "0.2 km de 45° BATALHÃO DE POLÍCIA MILITAR - PRAIA GRANDE/SP",
+          "data_hora_posicao": "26/11/2026 11:29:06",
+          "lat": -24.066752,
+          "lon": -46.5715488
         },
-        "distancia_km": 77.5,
+        "distancia_km": 67.2,
         "proximo": false
       },
       {
@@ -387,12 +342,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.27 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
-          "data_hora_posicao": "26/11/2026 11:15:06",
-          "lat": -24.133192,
-          "lon": -46.698832
+          "referencia": "0.2 km de 45° BATALHÃO DE POLÍCIA MILITAR - PRAIA GRANDE/SP",
+          "data_hora_posicao": "26/11/2026 11:29:06",
+          "lat": -24.066752,
+          "lon": -46.5715488
         },
-        "distancia_km": 77.5,
+        "distancia_km": 67.2,
         "proximo": false
       },
       {
@@ -407,12 +362,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.32 km de PRF - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "26/11/2026 11:13:05",
-          "lat": -23.924504,
-          "lon": -46.5396544
+          "referencia": "0.25 km de COLGATE BR14 - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "26/11/2026 11:29:05",
+          "lat": -23.7816384,
+          "lon": -46.5973696
         },
-        "distancia_km": 51.1,
+        "distancia_km": 37.2,
         "proximo": false
       },
       {
@@ -493,10 +448,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.14 km de CONCESSIONARIA VOLVO - ICARA/SC",
-          "data_hora_posicao": "26/11/2026 11:14:47",
-          "lat": -28.7567546,
-          "lon": -49.2804186
+          "referencia": "0.42 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "26/11/2026 11:28:35",
+          "lat": -28.6947683,
+          "lon": -49.3167341
         },
         "distancia_km": null,
         "proximo": false
@@ -524,10 +479,10 @@
         "frete_rs": 6821.38,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.1 km de HOTEL MEURER - BIGUACU/SC",
-          "data_hora_posicao": "26/11/2026 11:13:34",
-          "lat": -27.4885706,
-          "lon": -48.7131806
+          "referencia": "2.37 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "26/11/2026 11:27:44",
+          "lat": -27.6327241,
+          "lon": -48.701431
         },
         "distancia_km": null,
         "proximo": false
@@ -544,10 +499,10 @@
         "frete_rs": 928.15,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.1 km de HOTEL MEURER - BIGUACU/SC",
-          "data_hora_posicao": "26/11/2026 11:13:34",
-          "lat": -27.4885706,
-          "lon": -48.7131806
+          "referencia": "2.37 km de POSTO IPIRANGA - PALHOCA/SC",
+          "data_hora_posicao": "26/11/2026 11:27:44",
+          "lat": -27.6327241,
+          "lon": -48.701431
         },
         "distancia_km": null,
         "proximo": false
@@ -575,10 +530,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.29 km de POSTO DELTA - BRUNOPOLIS - BRUNOPOLIS/SC",
-          "data_hora_posicao": "26/11/2026 11:14:55",
-          "lat": -27.33017,
-          "lon": -50.8218683
+          "referencia": "6.27 km de 3ªCIA/3ºPEL/– 3º GRUPO - BRUNOPOLIS/SC",
+          "data_hora_posicao": "26/11/2026 11:23:48",
+          "lat": -27.3326083,
+          "lon": -50.8962001
         },
         "distancia_km": null,
         "proximo": false
@@ -607,7 +562,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "26/11/2026 11:13:21",
+          "data_hora_posicao": "26/11/2026 11:29:21",
           "lat": -26.8423792,
           "lon": -49.2724928
         },
@@ -637,10 +592,10 @@
         "frete_rs": 3683.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO SERRA ALTA - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 11:13:23",
-          "lat": -28.5236192,
-          "lon": -50.945328
+          "referencia": "3.36 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 11:26:29",
+          "lat": -28.5829216,
+          "lon": -51.0246592
         },
         "distancia_km": null,
         "proximo": false
@@ -668,12 +623,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO SERRA ALTA - VACARIA/RS",
-          "data_hora_posicao": "26/11/2026 11:13:23",
-          "lat": -28.5236192,
-          "lon": -50.945328
+          "referencia": "3.36 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "26/11/2026 11:26:29",
+          "lat": -28.5829216,
+          "lon": -51.0246592
         },
-        "distancia_km": 164.0,
+        "distancia_km": 156.5,
         "proximo": false
       }
     ],
@@ -685,5 +640,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T11:17:41"
+  "_gerado_em": "2026-11-26T11:32:34"
 }
