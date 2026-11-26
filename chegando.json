@@ -13,12 +13,12 @@
         "frete_rs": 8636.33,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.3 km de ARFRIO S.A. ARMAZÉNS GERAIS FRIGORÍFICOS - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:29:59",
-          "lat": -26.9160463,
-          "lon": -48.7021543
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:41:37",
+          "lat": -26.8876853,
+          "lon": -48.7206486
         },
-        "distancia_km": 3.7,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 2486.43,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.58 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 21:28:37",
-          "lat": -25.8460784,
-          "lon": -49.0973824
+          "referencia": "0.84 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "25/11/2026 21:44:37",
+          "lat": -25.86568,
+          "lon": -48.944896
         },
-        "distancia_km": 121.7,
+        "distancia_km": 115.8,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "6.03 km de 50°BPM - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 21:30:12",
-          "lat": -23.8066784,
-          "lon": -46.676448
+          "referencia": "1.6 km de BASE SAU 01 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 21:44:16",
+          "lat": -23.7377488,
+          "lon": -46.8131488
         },
-        "distancia_km": 399.4,
+        "distancia_km": 399.3,
         "proximo": false
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.49 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "25/11/2026 21:29:56",
-          "lat": -28.9103833333333,
-          "lon": -49.4826816666667
+          "referencia": "0.07 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "25/11/2026 21:45:06",
+          "lat": -28.7899333333333,
+          "lon": -49.34515
         },
-        "distancia_km": 237.1,
+        "distancia_km": 220.3,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 2066.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 21:30:09",
-          "lat": -27.2062688,
-          "lon": -49.6496384
+          "referencia": "0.26 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 21:44:09",
+          "lat": -27.173216,
+          "lon": -49.585328
         },
-        "distancia_km": 98.6,
+        "distancia_km": 91.3,
         "proximo": false
       }
     ],
@@ -130,192 +130,6 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "CMP010465-5",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 1600.6,
-        "frete_rs": 3854.88,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.05 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 21:28:39",
-          "lat": -23.47001,
-          "lon": -46.46634
-        },
-        "distancia_km": 0.4,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013675-1",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "TQM0A22",
-        "motorista": "DANIEL QUINA",
-        "peso_real_kg": 12434.86,
-        "frete_rs": 12090.01,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.56 km de AIZT TRANSPORTADORA E LOCADORA DE VEÍCULOS LTDA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 21:29:46",
-          "lat": -25.3448432,
-          "lon": -49.0429696
-        },
-        "distancia_km": 334.2,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024220-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 12371.38,
-        "frete_rs": 12802.04,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:29:56",
-          "lat": -26.8874464,
-          "lon": -48.721152
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024221-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RXW1A77",
-        "motorista": "FERNANDO DE OLIVEIRA",
-        "peso_real_kg": 1641.16,
-        "frete_rs": 3294.78,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:29:56",
-          "lat": -26.8874464,
-          "lon": -48.721152
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024222-5",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 6546.28,
-        "frete_rs": 10467.85,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:28:28",
-          "lat": -26.8874176,
-          "lon": -48.7215104
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024224-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 4574.79,
-        "frete_rs": 7005.64,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:28:28",
-          "lat": -26.8874176,
-          "lon": -48.7215104
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024225-0",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 302.24,
-        "frete_rs": 800.89,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:28:28",
-          "lat": -26.8874176,
-          "lon": -48.7215104
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044612-2",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 21:29:06",
-          "lat": -26.887712,
-          "lon": -48.7207296
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Campinas": {
-        "peso_kg": 1600.6,
-        "frete_rs": 3854.88,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 12434.86,
-        "frete_rs": 12090.01,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 25435.850000000002,
-        "frete_rs": 34371.200000000004,
-        "qtde": 5
-      },
-      "Rio do Sul": {
-        "peso_kg": 16696.5,
-        "frete_rs": 9344.22,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -330,12 +144,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.58 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 21:28:37",
-          "lat": -25.8460784,
-          "lon": -49.0973824
+          "referencia": "0.84 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "25/11/2026 21:44:37",
+          "lat": -25.86568,
+          "lon": -48.944896
         },
-        "distancia_km": 160.9,
+        "distancia_km": 164.7,
         "proximo": false
       },
       {
@@ -351,9 +165,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO SIM | CAJATI - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 21:30:00",
-          "lat": -24.7792283333333,
-          "lon": -48.1861183333333
+          "data_hora_posicao": "25/11/2026 21:44:26",
+          "lat": -24.779225,
+          "lon": -48.18612
         },
         "distancia_km": 306.9,
         "proximo": false
@@ -371,7 +185,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 21:29:00",
+          "data_hora_posicao": "25/11/2026 21:43:54",
           "lat": -23.4704466666667,
           "lon": -46.46207
         },
@@ -391,7 +205,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 21:28:32",
+          "data_hora_posicao": "25/11/2026 21:44:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -414,6 +228,187 @@
         "peso_kg": 753.39,
         "frete_rs": 1349.07,
         "qtde": 1
+      }
+    }
+  },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CTB013675-1",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 12434.86,
+        "frete_rs": 12090.01,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.84 km de POSTO TULIO 04 (RIO BONITO) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 21:43:46",
+          "lat": -25.2573744,
+          "lon": -48.9131744
+        },
+        "distancia_km": 318.0,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024220-9",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 12371.38,
+        "frete_rs": 12802.04,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:43:56",
+          "lat": -26.8874464,
+          "lon": -48.721152
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024221-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RXW1A77",
+        "motorista": "FERNANDO DE OLIVEIRA",
+        "peso_real_kg": 1641.16,
+        "frete_rs": 3294.78,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:43:56",
+          "lat": -26.8874464,
+          "lon": -48.721152
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024222-5",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 6546.28,
+        "frete_rs": 10467.85,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:44:28",
+          "lat": -26.8874176,
+          "lon": -48.7215104
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024224-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 4574.79,
+        "frete_rs": 7005.64,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:44:28",
+          "lat": -26.8874176,
+          "lon": -48.7215104
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024225-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 302.24,
+        "frete_rs": 800.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:44:28",
+          "lat": -26.8874176,
+          "lon": -48.7215104
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044612-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXM8A25",
+        "motorista": "CLAUDIOMIRO CORREA",
+        "peso_real_kg": 16696.5,
+        "frete_rs": 9344.22,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 21:45:06",
+          "lat": -26.887712,
+          "lon": -48.7207296
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044621-1",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 32342.5,
+        "frete_rs": 20290.13,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 21:45:05",
+          "lat": -27.205856,
+          "lon": -49.649024
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 12434.86,
+        "frete_rs": 12090.01,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 25435.850000000002,
+        "frete_rs": 34371.200000000004,
+        "qtde": 5
+      },
+      "Rio do Sul": {
+        "peso_kg": 49039.0,
+        "frete_rs": 29634.35,
+        "qtde": 2
       }
     }
   },
@@ -457,12 +452,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de KOCH HIPERMERCADO - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 21:29:05",
-          "lat": -27.4058432,
-          "lon": -48.6287424
+          "referencia": "1.18 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "25/11/2026 21:45:05",
+          "lat": -27.5421312,
+          "lon": -48.6214176
         },
-        "distancia_km": 380.0,
+        "distancia_km": 369.0,
         "proximo": false
       },
       {
@@ -477,12 +472,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de KOCH HIPERMERCADO - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 21:29:05",
-          "lat": -27.4058432,
-          "lon": -48.6287424
+          "referencia": "1.18 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "25/11/2026 21:45:05",
+          "lat": -27.5421312,
+          "lon": -48.6214176
         },
-        "distancia_km": 380.0,
+        "distancia_km": 369.0,
         "proximo": false
       },
       {
@@ -497,12 +492,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de KOCH HIPERMERCADO - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 21:29:05",
-          "lat": -27.4058432,
-          "lon": -48.6287424
+          "referencia": "1.18 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "25/11/2026 21:45:05",
+          "lat": -27.5421312,
+          "lon": -48.6214176
         },
-        "distancia_km": 380.0,
+        "distancia_km": 369.0,
         "proximo": false
       },
       {
@@ -517,12 +512,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.9 km de KOCH HIPERMERCADO - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "25/11/2026 21:29:05",
-          "lat": -27.4058432,
-          "lon": -48.6287424
+          "referencia": "1.18 km de AVICOLA E NUTRICAO DO VALE LTDA - SAO JOSE/SC",
+          "data_hora_posicao": "25/11/2026 21:45:05",
+          "lat": -27.5421312,
+          "lon": -48.6214176
         },
-        "distancia_km": 380.0,
+        "distancia_km": 369.0,
         "proximo": false
       }
     ],
@@ -548,12 +543,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 21:30:09",
-          "lat": -27.2062688,
-          "lon": -49.6496384
+          "referencia": "0.26 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 21:44:09",
+          "lat": -27.173216,
+          "lon": -49.585328
         },
-        "distancia_km": 190.0,
+        "distancia_km": 185.2,
         "proximo": false
       },
       {
@@ -568,12 +563,12 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 21:30:09",
-          "lat": -27.2062688,
-          "lon": -49.6496384
+          "referencia": "0.26 km de PREMIUM TABACOS DO BRASIL LTDA - RIO DO SUL/SC",
+          "data_hora_posicao": "25/11/2026 21:44:09",
+          "lat": -27.173216,
+          "lon": -49.585328
         },
-        "distancia_km": 190.0,
+        "distancia_km": 185.2,
         "proximo": false
       }
     ],
@@ -585,5 +580,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T21:32:32"
+  "_gerado_em": "2026-11-25T21:47:26"
 }
