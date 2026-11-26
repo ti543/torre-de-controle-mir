@@ -2,26 +2,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "BRQ000771-4",
-        "origin_unit": "BRQ",
-        "origin_city": "BRUSQUE/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDW1H87",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 8788.25,
-        "frete_rs": 8636.33,
-        "grupo_origem": "Brusque",
-        "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:13:37",
-          "lat": -26.8876853,
-          "lon": -48.7206486
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
         "manif": "CTB013672-7",
         "origin_unit": "CTB",
         "origin_city": "CURITIBA/PR",
@@ -33,12 +13,12 @@
         "frete_rs": 2486.43,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "25/11/2026 22:14:37",
-          "lat": -26.14624,
-          "lon": -48.9076928
+          "referencia": "0.52 km de POSTO 37 - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 22:28:37",
+          "lat": -26.3005536,
+          "lon": -48.8834528
         },
-        "distancia_km": 84.5,
+        "distancia_km": 67.2,
         "proximo": false
       },
       {
@@ -53,12 +33,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO 40 (SÃO LEOPOLDO) - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "25/11/2026 22:14:12",
-          "lat": -23.7478096,
-          "lon": -46.9006624
+          "referencia": "0.13 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 22:30:12",
+          "lat": -23.8906848,
+          "lon": -46.9824288
         },
-        "distancia_km": 394.1,
+        "distancia_km": 376.2,
         "proximo": false
       },
       {
@@ -73,12 +53,12 @@
         "frete_rs": 2983.62,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.49 km de EVERTON TRANSPORTES - JAGUARUNA/SC - JAGUARUNA/SC",
-          "data_hora_posicao": "25/11/2026 22:13:47",
-          "lat": -28.5921016666667,
-          "lon": -49.0448566666667
+          "referencia": "0.02 km de POSTO RUSSI TUBARÃO - TUBARAO/SC",
+          "data_hora_posicao": "25/11/2026 22:29:54",
+          "lat": -28.51905,
+          "lon": -49.053325
         },
-        "distancia_km": 192.2,
+        "distancia_km": 184.3,
         "proximo": false
       },
       {
@@ -93,21 +73,16 @@
         "frete_rs": 2066.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "25/11/2026 22:14:09",
-          "lat": -27.0637408,
-          "lon": -49.4060736
+          "referencia": "0.07 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "25/11/2026 22:30:09",
+          "lat": -26.9648544,
+          "lon": -49.3690688
         },
-        "distancia_km": 70.7,
+        "distancia_km": 64.8,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Brusque": {
-        "peso_kg": 8788.25,
-        "frete_rs": 8636.33,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 1508.26,
         "frete_rs": 2486.43,
@@ -144,12 +119,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "25/11/2026 22:14:37",
-          "lat": -26.14624,
-          "lon": -48.9076928
+          "referencia": "0.52 km de POSTO 37 - JOINVILLE/SC",
+          "data_hora_posicao": "25/11/2026 22:28:37",
+          "lat": -26.3005536,
+          "lon": -48.8834528
         },
-        "distancia_km": 139.0,
+        "distancia_km": 126.2,
         "proximo": false
       },
       {
@@ -164,12 +139,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.05 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 22:03:04",
-          "lat": -24.8033966666667,
-          "lon": -48.2137216666667
+          "referencia": "1.16 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 22:25:19",
+          "lat": -24.9332,
+          "lon": -48.2837333333333
         },
-        "distancia_km": 303.3,
+        "distancia_km": 287.2,
         "proximo": false
       },
       {
@@ -185,7 +160,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:14:23",
+          "data_hora_posicao": "25/11/2026 22:28:23",
           "lat": -23.4704466666667,
           "lon": -46.46207
         },
@@ -220,7 +195,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 22:14:32",
+          "data_hora_posicao": "25/11/2026 22:28:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -260,12 +235,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO ALPINO 04 (REDE PELANDA) - ANTONINA/PR",
-          "data_hora_posicao": "25/11/2026 22:13:46",
-          "lat": -25.1009744,
-          "lon": -48.7287584
+          "referencia": "0.25 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 22:29:46",
+          "lat": -25.0592,
+          "lon": -48.5594112
         },
-        "distancia_km": 292.6,
+        "distancia_km": 276.4,
         "proximo": false
       },
       {
@@ -281,7 +256,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:13:56",
+          "data_hora_posicao": "25/11/2026 22:29:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -301,7 +276,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:13:56",
+          "data_hora_posicao": "25/11/2026 22:29:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -321,7 +296,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:14:28",
+          "data_hora_posicao": "25/11/2026 22:28:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -341,7 +316,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:14:28",
+          "data_hora_posicao": "25/11/2026 22:28:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -361,7 +336,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:14:28",
+          "data_hora_posicao": "25/11/2026 22:28:28",
           "lat": -26.8874176,
           "lon": -48.7215104
         },
@@ -381,7 +356,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:15:06",
+          "data_hora_posicao": "25/11/2026 22:29:06",
           "lat": -26.887712,
           "lon": -48.7207296
         },
@@ -401,7 +376,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 22:15:05",
+          "data_hora_posicao": "25/11/2026 22:29:05",
           "lat": -27.205856,
           "lon": -49.649024
         },
@@ -467,10 +442,10 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:13:42",
-          "lat": -23.4708512,
-          "lon": -46.4613312
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:29:42",
+          "lat": -23.4710144,
+          "lon": -46.4612896
         },
         "distancia_km": 366.8,
         "proximo": false
@@ -487,10 +462,10 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:13:42",
-          "lat": -23.4708512,
-          "lon": -46.4613312
+          "referencia": "0.09 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:29:42",
+          "lat": -23.4710144,
+          "lon": -46.4612896
         },
         "distancia_km": 366.8,
         "proximo": false
@@ -507,12 +482,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "25/11/2026 22:14:09",
-          "lat": -27.0637408,
-          "lon": -49.4060736
+          "referencia": "0.07 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "25/11/2026 22:30:09",
+          "lat": -26.9648544,
+          "lon": -49.3690688
         },
-        "distancia_km": 171.2,
+        "distancia_km": 160.0,
         "proximo": false
       },
       {
@@ -527,12 +502,12 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.83 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
-          "data_hora_posicao": "25/11/2026 22:14:09",
-          "lat": -27.0637408,
-          "lon": -49.4060736
+          "referencia": "0.07 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "25/11/2026 22:30:09",
+          "lat": -26.9648544,
+          "lon": -49.3690688
         },
-        "distancia_km": 171.2,
+        "distancia_km": 160.0,
         "proximo": false
       }
     ],
@@ -563,12 +538,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 22:15:05",
-          "lat": -27.7999488,
-          "lon": -48.6374656
+          "referencia": "2.32 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:29:05",
+          "lat": -27.9225696,
+          "lon": -48.6561824
         },
-        "distancia_km": 347.2,
+        "distancia_km": 336.3,
         "proximo": false
       },
       {
@@ -583,12 +558,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 22:15:05",
-          "lat": -27.7999488,
-          "lon": -48.6374656
+          "referencia": "2.32 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:29:05",
+          "lat": -27.9225696,
+          "lon": -48.6561824
         },
-        "distancia_km": 347.2,
+        "distancia_km": 336.3,
         "proximo": false
       },
       {
@@ -603,12 +578,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 22:15:05",
-          "lat": -27.7999488,
-          "lon": -48.6374656
+          "referencia": "2.32 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:29:05",
+          "lat": -27.9225696,
+          "lon": -48.6561824
         },
-        "distancia_km": 347.2,
+        "distancia_km": 336.3,
         "proximo": false
       },
       {
@@ -623,12 +598,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.65 km de POSTO SÃO CRISTÓVÃO - PALHOCA/SC",
-          "data_hora_posicao": "25/11/2026 22:15:05",
-          "lat": -27.7999488,
-          "lon": -48.6374656
+          "referencia": "2.32 km de POSTO SOROCABA - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:29:05",
+          "lat": -27.9225696,
+          "lon": -48.6561824
         },
-        "distancia_km": 347.2,
+        "distancia_km": 336.3,
         "proximo": false
       }
     ],
@@ -640,5 +615,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T22:17:33"
+  "_gerado_em": "2026-11-25T22:32:36"
 }
