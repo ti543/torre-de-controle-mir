@@ -12,14 +12,9 @@
         "peso_real_kg": 4648.71,
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.13 km de POSTO DO ENCONTRO - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 03:58:37",
-          "lat": -27.202672,
-          "lon": -49.6345856
-        },
-        "distancia_km": 1.5,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "GRU075106-5",
@@ -33,12 +28,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "26/11/2026 03:59:54",
-          "lat": -26.8695533333333,
-          "lon": -49.2040333333333
+          "referencia": "0.65 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "26/11/2026 04:13:43",
+          "lat": -26.94956,
+          "lon": -49.3134066666667
         },
-        "distancia_km": 57.9,
+        "distancia_km": 43.8,
         "proximo": false
       },
       {
@@ -53,12 +48,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 03:59:34",
-          "lat": -24.7800066666667,
-          "lon": -48.1864216666667
+          "referencia": "1.95 km de BARRACA DO NALDINHO - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 04:12:44",
+          "lat": -24.7765266666667,
+          "lon": -48.2104983333333
         },
-        "distancia_km": 306.8,
+        "distancia_km": 306.1,
         "proximo": false
       },
       {
@@ -87,14 +82,9 @@
         "peso_real_kg": 3554.04,
         "frete_rs": 3697.01,
         "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.13 km de POSTO DO ENCONTRO - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 03:58:37",
-          "lat": -27.202672,
-          "lon": -49.6345856
-        },
-        "distancia_km": 1.5,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "POA016305-8",
@@ -109,7 +99,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 04:00:32",
+          "data_hora_posicao": "26/11/2026 04:14:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -154,12 +144,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de FILIAL RODOGARCIA CURITIBA - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 04:00:12",
-          "lat": -25.535904,
-          "lon": -49.1484768
+          "referencia": "0.21 km de POSTO PARQUE DO BOSQUE (MARIENTAL) - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 04:14:12",
+          "lat": -25.64604,
+          "lon": -49.1587904
         },
-        "distancia_km": 156.2,
+        "distancia_km": 144.8,
         "proximo": false
       },
       {
@@ -205,7 +195,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:35",
+          "data_hora_posicao": "26/11/2026 04:14:35",
           "lat": -26.8873866666667,
           "lon": -48.7211966666667
         },
@@ -256,7 +246,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 04:00:33",
+          "data_hora_posicao": "26/11/2026 04:14:33",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -276,7 +266,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 04:00:33",
+          "data_hora_posicao": "26/11/2026 04:14:33",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -306,12 +296,12 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.95 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 03:51:42",
-          "lat": -24.9730096,
-          "lon": -48.5022848
+          "referencia": "0.12 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 04:13:59",
+          "lat": -25.0998128,
+          "lon": -48.6769536
         },
-        "distancia_km": 100.8,
+        "distancia_km": 78.3,
         "proximo": false
       },
       {
@@ -326,12 +316,12 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.95 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 03:51:42",
-          "lat": -24.9730096,
-          "lon": -48.5022848
+          "referencia": "0.12 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 04:13:59",
+          "lat": -25.0998128,
+          "lon": -48.6769536
         },
-        "distancia_km": 100.8,
+        "distancia_km": 78.3,
         "proximo": false
       },
       {
@@ -346,12 +336,12 @@
         "frete_rs": 2276.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:34",
-          "lat": -26.5867152,
-          "lon": -48.721696
+          "referencia": "0.32 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 04:14:09",
+          "lat": -26.4505344,
+          "lon": -48.7857792
         },
-        "distancia_km": 131.0,
+        "distancia_km": 114.6,
         "proximo": false
       },
       {
@@ -366,12 +356,12 @@
         "frete_rs": 289.48,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.48 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:34",
-          "lat": -26.5867152,
-          "lon": -48.721696
+          "referencia": "0.32 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 04:14:09",
+          "lat": -26.4505344,
+          "lon": -48.7857792
         },
-        "distancia_km": 131.0,
+        "distancia_km": 114.6,
         "proximo": false
       },
       {
@@ -386,12 +376,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.48 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:34",
-          "lat": -26.5867152,
-          "lon": -48.721696
+          "referencia": "0.32 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 04:14:09",
+          "lat": -26.4505344,
+          "lon": -48.7857792
         },
-        "distancia_km": 131.0,
+        "distancia_km": 114.6,
         "proximo": false
       },
       {
@@ -406,12 +396,12 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.48 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:34",
-          "lat": -26.5867152,
-          "lon": -48.721696
+          "referencia": "0.32 km de APOIO LOGISTICA E SERVIÇOS – UNIDADE ARAQUARI/SC. - ARAQUARI/SC",
+          "data_hora_posicao": "26/11/2026 04:14:09",
+          "lat": -26.4505344,
+          "lon": -48.7857792
         },
-        "distancia_km": 131.0,
+        "distancia_km": 114.6,
         "proximo": false
       }
     ],
@@ -473,12 +463,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 03:59:05",
-          "lat": -28.2702944,
-          "lon": -48.7006912
+          "referencia": "0.82 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 04:15:05",
+          "lat": -28.4160896,
+          "lon": -48.7950528
         },
-        "distancia_km": 307.5,
+        "distancia_km": 290.3,
         "proximo": false
       },
       {
@@ -493,12 +483,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 03:59:05",
-          "lat": -28.2702944,
-          "lon": -48.7006912
+          "referencia": "0.82 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 04:15:05",
+          "lat": -28.4160896,
+          "lon": -48.7950528
         },
-        "distancia_km": 307.5,
+        "distancia_km": 290.3,
         "proximo": false
       },
       {
@@ -513,12 +503,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 03:59:05",
-          "lat": -28.2702944,
-          "lon": -48.7006912
+          "referencia": "0.82 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 04:15:05",
+          "lat": -28.4160896,
+          "lon": -48.7950528
         },
-        "distancia_km": 307.5,
+        "distancia_km": 290.3,
         "proximo": false
       },
       {
@@ -533,12 +523,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 03:59:05",
-          "lat": -28.2702944,
-          "lon": -48.7006912
+          "referencia": "0.82 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 04:15:05",
+          "lat": -28.4160896,
+          "lon": -48.7950528
         },
-        "distancia_km": 307.5,
+        "distancia_km": 290.3,
         "proximo": false
       }
     ],
@@ -564,12 +554,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 03:59:56",
-          "lat": -26.4348416,
-          "lon": -48.8157568
+          "referencia": "0.02 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 04) - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 04:13:56",
+          "lat": -26.3653168,
+          "lon": -48.8584
         },
-        "distancia_km": 406.1,
+        "distancia_km": 402.5,
         "proximo": false
       },
       {
@@ -584,12 +574,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.22 km de POSTO GNV - ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 03:59:56",
-          "lat": -26.4348416,
-          "lon": -48.8157568
+          "referencia": "0.02 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 04) - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 04:13:56",
+          "lat": -26.3653168,
+          "lon": -48.8584
         },
-        "distancia_km": 406.1,
+        "distancia_km": 402.5,
         "proximo": false
       },
       {
@@ -604,12 +594,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.72 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:28",
-          "lat": -26.432808,
-          "lon": -48.8214784
+          "referencia": "0.04 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 04) - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 04:14:28",
+          "lat": -26.3654992,
+          "lon": -48.8583616
         },
-        "distancia_km": 406.3,
+        "distancia_km": 402.5,
         "proximo": false
       },
       {
@@ -624,12 +614,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.72 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:28",
-          "lat": -26.432808,
-          "lon": -48.8214784
+          "referencia": "0.04 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 04) - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 04:14:28",
+          "lat": -26.3654992,
+          "lon": -48.8583616
         },
-        "distancia_km": 406.3,
+        "distancia_km": 402.5,
         "proximo": false
       },
       {
@@ -644,12 +634,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.72 km de RB TRANSPORTES E ARMAZENS - ARAQUARI/SC",
-          "data_hora_posicao": "26/11/2026 04:00:28",
-          "lat": -26.432808,
-          "lon": -48.8214784
+          "referencia": "0.04 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 04) - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 04:14:28",
+          "lat": -26.3654992,
+          "lon": -48.8583616
         },
-        "distancia_km": 406.3,
+        "distancia_km": 402.5,
         "proximo": false
       },
       {
@@ -664,12 +654,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.17 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "26/11/2026 03:59:44",
-          "lat": -26.1474816,
-          "lon": -48.9084736
+          "referencia": "0.21 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "26/11/2026 04:13:06",
+          "lat": -26.0092576,
+          "lon": -48.8641856
         },
-        "distancia_km": 386.7,
+        "distancia_km": 372.2,
         "proximo": false
       },
       {
@@ -684,12 +674,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de KRONA TUBOS E ACESSÓRIOS - JOINVILLE/SC",
-          "data_hora_posicao": "26/11/2026 03:59:44",
-          "lat": -26.1474816,
-          "lon": -48.9084736
+          "referencia": "0.21 km de BANCA DA PEDRA - GARUVA/SC",
+          "data_hora_posicao": "26/11/2026 04:13:06",
+          "lat": -26.0092576,
+          "lon": -48.8641856
         },
-        "distancia_km": 386.7,
+        "distancia_km": 372.2,
         "proximo": false
       },
       {
@@ -704,12 +694,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.08 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "26/11/2026 03:59:05",
-          "lat": -25.6588848,
-          "lon": -49.1548256
+          "referencia": "0.19 km de POSTO TIO ZICO II - COM SERVIÇO GNV - CAMPO LARGO/PR",
+          "data_hora_posicao": "26/11/2026 04:14:28",
+          "lat": -25.6504992,
+          "lon": -49.1574912
         },
-        "distancia_km": 365.2,
+        "distancia_km": 364.7,
         "proximo": false
       },
       {
@@ -776,5 +766,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T04:02:32"
+  "_gerado_em": "2026-11-26T04:17:31"
 }
