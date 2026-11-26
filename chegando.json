@@ -1,140 +1,4 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "CTB013672-7",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TQB5A94",
-        "motorista": "NILTON ABEL DA SILVA",
-        "peso_real_kg": 1508.26,
-        "frete_rs": 2486.43,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.12 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:30:08",
-          "lat": -26.8872896,
-          "lon": -48.72224
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075107-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 5758.38,
-        "frete_rs": 5794.91,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.41 km de MECÂNICA DO LUCIANO - MIRACATU/SP",
-          "data_hora_posicao": "25/11/2026 23:28:12",
-          "lat": -24.2444464,
-          "lon": -47.3666176
-        },
-        "distancia_km": 323.8,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075115-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 4203.64,
-        "frete_rs": 8705.09,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075119-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 1627.29,
-        "frete_rs": 1502.39,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "POA016304-0",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT0A19",
-        "motorista": "VINICIO EWALD",
-        "peso_real_kg": 1380.22,
-        "frete_rs": 2983.62,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.52 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
-          "data_hora_posicao": "25/11/2026 23:29:25",
-          "lat": -28.4409433333333,
-          "lon": -48.81852
-        },
-        "distancia_km": 173.0,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044618-1",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 2492.44,
-        "frete_rs": 2066.58,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "2.16 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "25/11/2026 23:30:09",
-          "lat": -26.8387712,
-          "lon": -48.77848
-        },
-        "distancia_km": 7.9,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Curitiba": {
-        "peso_kg": 1508.26,
-        "frete_rs": 2486.43,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 11589.310000000001,
-        "frete_rs": 16002.39,
-        "qtde": 3
-      },
-      "Porto Alegre": {
-        "peso_kg": 1380.22,
-        "frete_rs": 2983.62,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 2492.44,
-        "frete_rs": 2066.58,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -149,10 +13,10 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.12 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:30:08",
-          "lat": -26.8872896,
-          "lon": -48.72224
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 23:44:37",
+          "lat": -26.887392,
+          "lon": -48.721168
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -169,12 +33,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "25/11/2026 23:29:57",
-          "lat": -25.107495,
-          "lon": -48.79052
+          "referencia": "1.1 km de POSTO REPRESA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "25/11/2026 23:43:59",
+          "lat": -25.1689666666667,
+          "lon": -48.86688
         },
-        "distancia_km": 248.6,
+        "distancia_km": 239.6,
         "proximo": false
       },
       {
@@ -189,12 +53,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.47 km de PEDAGIO - P9 (SENTIDO RODOVIA AYRTON SENNA) - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "25/11/2026 23:26:57",
-          "lat": -23.4588466666667,
-          "lon": -46.348755
+          "referencia": "0.16 km de BASE SAU 03 - SERVIÇO DE AJUDA AO USUÁRIO SPMAR - SUZANO/SP",
+          "data_hora_posicao": "25/11/2026 23:43:10",
+          "lat": -23.626285,
+          "lon": -46.371405
         },
-        "distancia_km": 532.5,
+        "distancia_km": 516.5,
         "proximo": false
       },
       {
@@ -225,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 23:28:32",
+          "data_hora_posicao": "25/11/2026 23:44:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -265,12 +129,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.5 km de LAVADOR 500 - CAJATI/SP",
-          "data_hora_posicao": "25/11/2026 23:23:45",
-          "lat": -24.7811392,
-          "lon": -48.1926912
+          "referencia": "0.97 km de LANCHONETE E RESTAURANTE VITORIA - JACUPIRANGA/SP",
+          "data_hora_posicao": "25/11/2026 23:43:46",
+          "lat": -24.6693568,
+          "lon": -47.9776992
         },
-        "distancia_km": 228.2,
+        "distancia_km": 203.6,
         "proximo": false
       },
       {
@@ -286,7 +150,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:29:56",
+          "data_hora_posicao": "25/11/2026 23:43:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -306,7 +170,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:29:56",
+          "data_hora_posicao": "25/11/2026 23:43:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -326,7 +190,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:28:28",
+          "data_hora_posicao": "25/11/2026 23:44:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -346,7 +210,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:28:28",
+          "data_hora_posicao": "25/11/2026 23:44:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -366,7 +230,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:28:28",
+          "data_hora_posicao": "25/11/2026 23:44:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -386,7 +250,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 23:29:06",
+          "data_hora_posicao": "25/11/2026 23:43:06",
           "lat": -26.887712,
           "lon": -48.7207296
         },
@@ -405,12 +269,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.21 km de POSTO AGRICOPEL (MIME 10) - APIUNA/SC",
-          "data_hora_posicao": "25/11/2026 23:29:05",
-          "lat": -27.0361056,
-          "lon": -49.3906048
+          "referencia": "0.19 km de BORRACHARIA SOCORRO 24 H - RODEIO/SC",
+          "data_hora_posicao": "25/11/2026 23:44:46",
+          "lat": -26.9482464,
+          "lon": -49.3181088
         },
-        "distancia_km": 493.8,
+        "distancia_km": 481.7,
         "proximo": false
       },
       {
@@ -482,6 +346,92 @@
       }
     }
   },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "GRU075107-3",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 5758.38,
+        "frete_rs": 5794.91,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.37 km de M. MOHRING COMERCIO E SERVICOS LTDA - ME - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 23:44:12",
+          "lat": -24.3228544,
+          "lon": -47.5456192
+        },
+        "distancia_km": 308.6,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075115-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 4203.64,
+        "frete_rs": 8705.09,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075119-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 1627.29,
+        "frete_rs": 1502.39,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "POA016304-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT0A19",
+        "motorista": "VINICIO EWALD",
+        "peso_real_kg": 1380.22,
+        "frete_rs": 2983.62,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "3.75 km de POSTO RECANTO - IMBITUBA/SC",
+          "data_hora_posicao": "25/11/2026 23:44:23",
+          "lat": -28.2969416666667,
+          "lon": -48.7147383333333
+        },
+        "distancia_km": 156.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 11589.310000000001,
+        "frete_rs": 16002.39,
+        "qtde": 3
+      },
+      "Porto Alegre": {
+        "peso_kg": 1380.22,
+        "frete_rs": 2983.62,
+        "qtde": 1
+      }
+    }
+  },
   "CMP": {
     "veiculos": [
       {
@@ -511,10 +461,10 @@
         "frete_rs": 4756.12,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 23:28:37",
-          "lat": -23.5271666666667,
-          "lon": -46.59681
+          "referencia": "0.72 km de POSTO CITY AMÉRICA - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 23:44:37",
+          "lat": -23.50381,
+          "lon": -46.7242616666667
         },
         "distancia_km": null,
         "proximo": false
@@ -531,10 +481,10 @@
         "frete_rs": 182.43,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.3 km de POLICIA MILITAR - SAO PAULO/SP",
-          "data_hora_posicao": "25/11/2026 23:28:37",
-          "lat": -23.5271666666667,
-          "lon": -46.59681
+          "referencia": "0.72 km de POSTO CITY AMÉRICA - SAO PAULO/SP",
+          "data_hora_posicao": "25/11/2026 23:44:37",
+          "lat": -23.50381,
+          "lon": -46.7242616666667
         },
         "distancia_km": null,
         "proximo": false
@@ -562,12 +512,12 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de PEDAGIO - PRACA 10 (PADROEIRA EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "25/11/2026 23:29:42",
-          "lat": -23.553352,
-          "lon": -46.8197184
+          "referencia": "0.09 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 23:43:42",
+          "lat": -23.6993008,
+          "lon": -46.8672704
         },
-        "distancia_km": 333.0,
+        "distancia_km": 318.7,
         "proximo": false
       },
       {
@@ -582,12 +532,12 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de PEDAGIO - PRACA 10 (PADROEIRA EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "25/11/2026 23:29:42",
-          "lat": -23.553352,
-          "lon": -46.8197184
+          "referencia": "0.09 km de 25º BATALHAO DA POLICIA MILITAR - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "25/11/2026 23:43:42",
+          "lat": -23.6993008,
+          "lon": -46.8672704
         },
-        "distancia_km": 333.0,
+        "distancia_km": 318.7,
         "proximo": false
       },
       {
@@ -602,12 +552,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.16 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "25/11/2026 23:30:09",
-          "lat": -26.8387712,
-          "lon": -48.77848
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 23:44:09",
+          "lat": -26.8875424,
+          "lon": -48.7206944
         },
-        "distancia_km": 154.6,
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -622,12 +572,12 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.16 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
-          "data_hora_posicao": "25/11/2026 23:30:09",
-          "lat": -26.8387712,
-          "lon": -48.77848
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "25/11/2026 23:44:09",
+          "lat": -26.8875424,
+          "lon": -48.7206944
         },
-        "distancia_km": 154.6,
+        "distancia_km": 161.7,
         "proximo": false
       }
     ],
@@ -685,7 +635,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 23:29:05",
+          "data_hora_posicao": "25/11/2026 23:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -705,7 +655,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 23:29:05",
+          "data_hora_posicao": "25/11/2026 23:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -725,7 +675,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 23:29:05",
+          "data_hora_posicao": "25/11/2026 23:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -745,7 +695,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 23:29:05",
+          "data_hora_posicao": "25/11/2026 23:45:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -761,5 +711,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T23:32:32"
+  "_gerado_em": "2026-11-25T23:47:28"
 }
