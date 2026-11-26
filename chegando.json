@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "1.1 km de DVT COMERCIO IMPORTAÇAO E EXPORTAÇÃO LTDA - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 19:44:07",
+          "data_hora_posicao": "26/11/2026 19:58:31",
           "lat": -26.9728808,
           "lon": -48.6829078
         },
@@ -33,13 +33,13 @@
         "frete_rs": 4169.14,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "0.27 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "26/11/2026 19:44:41",
-          "lat": -27.1025948,
-          "lon": -48.9195106
+          "referencia": "0.39 km de IRMÃOS FISCHER - BRUSQUE/SC",
+          "data_hora_posicao": "26/11/2026 19:59:16",
+          "lat": -27.0522926,
+          "lon": -48.8717156
         },
-        "distancia_km": 31.0,
-        "proximo": false
+        "distancia_km": 23.6,
+        "proximo": true
       },
       {
         "manif": "CTB013688-3",
@@ -53,12 +53,12 @@
         "frete_rs": 5554.76,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de SERVOPA CAMINHÕES - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:44:11",
-          "lat": -25.5330864,
-          "lon": -49.30072
+          "referencia": "0.56 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 20:00:09",
+          "lat": -25.570336,
+          "lon": -49.2174656
         },
-        "distancia_km": 161.3,
+        "distancia_km": 154.6,
         "proximo": false
       },
       {
@@ -73,12 +73,32 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.27 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "26/11/2026 19:44:41",
-          "lat": -27.1025948,
-          "lon": -48.9195106
+          "referencia": "0.39 km de IRMÃOS FISCHER - BRUSQUE/SC",
+          "data_hora_posicao": "26/11/2026 19:59:16",
+          "lat": -27.0522926,
+          "lon": -48.8717156
         },
-        "distancia_km": 31.0,
+        "distancia_km": 23.6,
+        "proximo": true
+      },
+      {
+        "manif": "GRU075170-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 13919.71,
+        "frete_rs": 17808.07,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 19:59:05",
+          "lat": -23.4704608,
+          "lon": -46.462032
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -94,7 +114,7 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "1.1 km de DVT COMERCIO IMPORTAÇAO E EXPORTAÇÃO LTDA - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 19:44:07",
+          "data_hora_posicao": "26/11/2026 19:58:31",
           "lat": -26.9728808,
           "lon": -48.6829078
         },
@@ -123,6 +143,11 @@
         "frete_rs": 1092.2,
         "qtde": 1
       },
+      "Guarulhos": {
+        "peso_kg": 13919.71,
+        "frete_rs": 17808.07,
+        "qtde": 1
+      },
       "TUB": {
         "peso_kg": 1208.65,
         "frete_rs": 1989.93,
@@ -144,12 +169,12 @@
         "frete_rs": 4730.8,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.17 km de POSTO NOVO HORIZONTE - MAIRIPORA/SP",
-          "data_hora_posicao": "26/11/2026 19:44:20",
-          "lat": -23.2451966666667,
-          "lon": -46.5953066666667
+          "referencia": "0.08 km de POSTO NOVA SAÍDA - MAIRIPORA/SP",
+          "data_hora_posicao": "26/11/2026 19:58:19",
+          "lat": -23.3206766666667,
+          "lon": -46.5823233333333
         },
-        "distancia_km": 28.5,
+        "distancia_km": 20.7,
         "proximo": true
       },
       {
@@ -164,12 +189,12 @@
         "frete_rs": 3483.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:43:42",
-          "lat": -25.5277824,
-          "lon": -49.2955392
+          "referencia": "0.7 km de POSTO TRÊS FAZENDAS - CURITIBA/PR",
+          "data_hora_posicao": "26/11/2026 19:59:42",
+          "lat": -25.4994816,
+          "lon": -49.2782656
         },
-        "distancia_km": 366.7,
+        "distancia_km": 363.4,
         "proximo": false
       },
       {
@@ -184,12 +209,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.24 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "26/11/2026 19:44:08",
-          "lat": -27.1580768,
-          "lon": -49.55648
+          "referencia": "1.49 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "26/11/2026 20:00:09",
+          "lat": -27.078256,
+          "lon": -49.4981312
         },
-        "distancia_km": 514.6,
+        "distancia_km": 504.0,
         "proximo": false
       }
     ],
@@ -225,12 +250,12 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de SERVOPA CAMINHÕES - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:44:11",
-          "lat": -25.5330864,
-          "lon": -49.30072
+          "referencia": "0.56 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 20:00:09",
+          "lat": -25.570336,
+          "lon": -49.2174656
         },
-        "distancia_km": 189.2,
+        "distancia_km": 186.9,
         "proximo": false
       },
       {
@@ -245,12 +270,12 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.32 km de SERVOPA CAMINHÕES - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:44:11",
-          "lat": -25.5330864,
-          "lon": -49.30072
+          "referencia": "0.56 km de FILIAL TRANSPORTES RODOVIARIO DE CARGAS ZAPPELLINI LTDA - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "26/11/2026 20:00:09",
+          "lat": -25.570336,
+          "lon": -49.2174656
         },
-        "distancia_km": 189.2,
+        "distancia_km": 186.9,
         "proximo": false
       },
       {
@@ -265,12 +290,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.2 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "26/11/2026 19:44:32",
-          "lat": -27.2564288,
-          "lon": -49.9378176
+          "referencia": "4.14 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "26/11/2026 19:59:00",
+          "lat": -27.2789984,
+          "lon": -49.8252416
         },
-        "distancia_km": 29.0,
+        "distancia_km": 19.2,
         "proximo": true
       },
       {
@@ -285,12 +310,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.15 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 19:40:30",
-          "lat": -24.0341488,
-          "lon": -47.1845312
+          "referencia": "3.52 km de RESTAURANTE GRAAL JAPONÊS - MIRACATU/SP",
+          "data_hora_posicao": "26/11/2026 19:53:02",
+          "lat": -24.0670208,
+          "lon": -47.23776
         },
-        "distancia_km": 430.6,
+        "distancia_km": 424.6,
         "proximo": false
       },
       {
@@ -305,12 +330,12 @@
         "frete_rs": 1037.3,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "8.42 km de CALDO DE CANA E PASTEL DA LHU?? - BRUNOPOLIS/SC",
-          "data_hora_posicao": "26/11/2026 19:39:11",
-          "lat": -27.3037866666667,
-          "lon": -50.7143466666667
+          "referencia": "0.73 km de POSTO SERRANO X - CURITIBANOS/SC",
+          "data_hora_posicao": "26/11/2026 19:54:19",
+          "lat": -27.31312,
+          "lon": -50.5657066666667
         },
-        "distancia_km": 105.8,
+        "distancia_km": 91.3,
         "proximo": false
       },
       {
@@ -325,12 +350,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.2 km de HOTEL E RESTAURANTE SCOZ - POUSO REDONDO/SC",
-          "data_hora_posicao": "26/11/2026 19:44:32",
-          "lat": -27.2564288,
-          "lon": -49.9378176
+          "referencia": "4.14 km de CORN PRODUCTS BRASIL - TROMBUDO CENTRAL/SC",
+          "data_hora_posicao": "26/11/2026 19:59:00",
+          "lat": -27.2789984,
+          "lon": -49.8252416
         },
-        "distancia_km": 29.0,
+        "distancia_km": 19.2,
         "proximo": true
       },
       {
@@ -345,12 +370,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.48 km de POSTO RODOIL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "26/11/2026 19:45:08",
-          "lat": -29.3931584,
-          "lon": -51.3586944
+          "referencia": "3.17 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "26/11/2026 19:59:32",
+          "lat": -29.2944352,
+          "lon": -51.334016
         },
-        "distancia_km": 295.2,
+        "distancia_km": 284.8,
         "proximo": false
       },
       {
@@ -431,10 +456,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.75 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 19:39:21",
-          "lat": -25.0437392,
-          "lon": -48.5411872
+          "referencia": "3.13 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 19:50:59",
+          "lat": -24.9670656,
+          "lon": -48.4768256
         },
         "distancia_km": null,
         "proximo": false
@@ -451,10 +476,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.75 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 19:39:21",
-          "lat": -25.0437392,
-          "lon": -48.5411872
+          "referencia": "3.13 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 19:50:59",
+          "lat": -24.9670656,
+          "lon": -48.4768256
         },
         "distancia_km": null,
         "proximo": false
@@ -471,10 +496,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.75 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 19:39:21",
-          "lat": -25.0437392,
-          "lon": -48.5411872
+          "referencia": "3.13 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 19:50:59",
+          "lat": -24.9670656,
+          "lon": -48.4768256
         },
         "distancia_km": null,
         "proximo": false
@@ -491,10 +516,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "2.75 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 19:39:21",
-          "lat": -25.0437392,
-          "lon": -48.5411872
+          "referencia": "3.13 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 19:50:59",
+          "lat": -24.9670656,
+          "lon": -48.4768256
         },
         "distancia_km": null,
         "proximo": false
@@ -537,10 +562,10 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.48 km de POSTO RODOIL - BOM PRINCIPIO/RS",
-          "data_hora_posicao": "26/11/2026 19:45:08",
-          "lat": -29.3931584,
-          "lon": -51.3586944
+          "referencia": "3.17 km de COCA COLA FEMSA - FARROUPILHA/RS",
+          "data_hora_posicao": "26/11/2026 19:59:32",
+          "lat": -29.2944352,
+          "lon": -51.334016
         },
         "distancia_km": null,
         "proximo": false
@@ -569,7 +594,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "26/11/2026 19:42:01",
+          "data_hora_posicao": "26/11/2026 19:58:01",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -600,9 +625,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "26/11/2026 19:44:24",
-          "lat": -29.9833824,
-          "lon": -51.1866272
+          "data_hora_posicao": "26/11/2026 19:58:24",
+          "lat": -29.9833664,
+          "lon": -51.1866304
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -616,5 +641,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T19:47:31"
+  "_gerado_em": "2026-11-26T20:02:28"
 }
