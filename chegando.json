@@ -13,13 +13,33 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.21 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "26/11/2026 19:14:56",
-          "lat": -26.9974175,
-          "lon": -48.652266
+          "referencia": "0.68 km de POSTO IRMÃO DA ESTRADA - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "26/11/2026 19:30:10",
+          "lat": -26.979663,
+          "lon": -48.680485
         },
-        "distancia_km": 14.0,
+        "distancia_km": 11.0,
         "proximo": true
+      },
+      {
+        "manif": "BRQ000772-2",
+        "origin_unit": "BRQ",
+        "origin_city": "BRUSQUE/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 2181.27,
+        "frete_rs": 4169.14,
+        "grupo_origem": "Brusque",
+        "posicao_raster": {
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "26/11/2026 19:28:52",
+          "lat": -27.0963648,
+          "lon": -48.930739
+        },
+        "distancia_km": 31.2,
+        "proximo": false
       },
       {
         "manif": "CTB013688-3",
@@ -34,7 +54,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:14:09",
+          "data_hora_posicao": "26/11/2026 19:30:09",
           "lat": -25.5277328,
           "lon": -49.295504
         },
@@ -53,12 +73,12 @@
         "frete_rs": 1092.2,
         "grupo_origem": "FLN",
         "posicao_raster": {
-          "referencia": "0.4 km de HOTEL VENEZA - BRUSQUE/SC",
-          "data_hora_posicao": "26/11/2026 19:14:59",
-          "lat": -27.1054923,
-          "lon": -48.9152031
+          "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
+          "data_hora_posicao": "26/11/2026 19:28:52",
+          "lat": -27.0963648,
+          "lon": -48.930739
         },
-        "distancia_km": 30.9,
+        "distancia_km": 31.2,
         "proximo": false
       },
       {
@@ -73,12 +93,12 @@
         "frete_rs": 1989.93,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.21 km de REUNIDAS TRANSP. ROD. DE CARGAS S/A - BALNEARIO CAMBORIU/SC",
-          "data_hora_posicao": "26/11/2026 19:14:56",
-          "lat": -26.9974175,
-          "lon": -48.652266
+          "referencia": "0.68 km de POSTO IRMÃO DA ESTRADA - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "26/11/2026 19:30:10",
+          "lat": -26.979663,
+          "lon": -48.680485
         },
-        "distancia_km": 14.0,
+        "distancia_km": 11.0,
         "proximo": true
       }
     ],
@@ -86,6 +106,11 @@
       "ARR": {
         "peso_kg": 20.0,
         "frete_rs": 258.16,
+        "qtde": 1
+      },
+      "Brusque": {
+        "peso_kg": 2181.27,
+        "frete_rs": 4169.14,
         "qtde": 1
       },
       "Curitiba": {
@@ -119,12 +144,12 @@
         "frete_rs": 4730.8,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.38 km de MCASSAB (CENTRO DE DISTRIBUIÇÃO) - JARINU/SP",
-          "data_hora_posicao": "26/11/2026 19:14:18",
-          "lat": -23.0368816666667,
-          "lon": -46.706445
+          "referencia": "0.36 km de ATACADÃO DISTRIBUIÇÃO COMÉRCIO E INDÚSTRIA LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "26/11/2026 19:30:20",
+          "lat": -23.1127633333333,
+          "lon": -46.5715066666667
         },
-        "distancia_km": 54.3,
+        "distancia_km": 41.3,
         "proximo": false
       },
       {
@@ -140,7 +165,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:15:42",
+          "data_hora_posicao": "26/11/2026 19:29:42",
           "lat": -25.527744,
           "lon": -49.2954688
         },
@@ -159,12 +184,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 19:14:37",
-          "lat": -27.2058272,
-          "lon": -49.6489184
+          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 19:30:47",
+          "lat": -27.2073056,
+          "lon": -49.6485376
         },
-        "distancia_km": 524.4,
+        "distancia_km": 524.5,
         "proximo": false
       }
     ],
@@ -201,7 +226,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:14:09",
+          "data_hora_posicao": "26/11/2026 19:30:09",
           "lat": -25.5277328,
           "lon": -49.295504
         },
@@ -221,7 +246,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "26/11/2026 19:14:09",
+          "data_hora_posicao": "26/11/2026 19:30:09",
           "lat": -25.5277328,
           "lon": -49.295504
         },
@@ -240,12 +265,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "10.17 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 19:13:03",
-          "lat": -27.3094144,
-          "lon": -50.1303296
+          "referencia": "10.14 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "26/11/2026 19:23:03",
+          "lat": -27.2935168,
+          "lon": -50.07872
         },
-        "distancia_km": 48.9,
+        "distancia_km": 43.5,
         "proximo": false
       },
       {
@@ -260,12 +285,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.84 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
-          "data_hora_posicao": "26/11/2026 19:14:30",
-          "lat": -23.9032768,
-          "lon": -46.9912896
+          "referencia": "3.4 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "26/11/2026 19:28:30",
+          "lat": -23.9626384,
+          "lon": -47.1226336
         },
-        "distancia_km": 453.8,
+        "distancia_km": 440.8,
         "proximo": false
       },
       {
@@ -280,12 +305,12 @@
         "frete_rs": 1037.3,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "2.1 km de BORACHARIA DO HACK - BRUNOPOLIS/SC",
-          "data_hora_posicao": "26/11/2026 19:14:09",
-          "lat": -27.33216,
-          "lon": -50.94784
+          "referencia": "0.46 km de POSTO DELTA - BRUNOPOLIS - BRUNOPOLIS/SC",
+          "data_hora_posicao": "26/11/2026 19:29:11",
+          "lat": -27.32856,
+          "lon": -50.8045333333333
         },
-        "distancia_km": 129.1,
+        "distancia_km": 115.0,
         "proximo": false
       },
       {
@@ -300,12 +325,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "10.17 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 19:13:03",
-          "lat": -27.3094144,
-          "lon": -50.1303296
+          "referencia": "10.14 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "26/11/2026 19:23:03",
+          "lat": -27.2935168,
+          "lon": -50.07872
         },
-        "distancia_km": 48.9,
+        "distancia_km": 43.5,
         "proximo": false
       },
       {
@@ -320,12 +345,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.33 km de PEDAGIO - PORTAO (SENTIDO PORTO ALEGRE) - PORTAO/RS",
-          "data_hora_posicao": "26/11/2026 19:15:05",
-          "lat": -29.667968,
-          "lon": -51.254752
+          "referencia": "0.55 km de POSTO IPIRANGA - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "26/11/2026 19:30:32",
+          "lat": -29.5614208,
+          "lon": -51.3609056
         },
-        "distancia_km": 315.5,
+        "distancia_km": 310.8,
         "proximo": false
       },
       {
@@ -406,10 +431,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "26/11/2026 19:15:32",
-          "lat": -25.1133232,
-          "lon": -48.7626304
+          "referencia": "1.92 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 19:29:21",
+          "lat": -25.08152,
+          "lon": -48.6197888
         },
         "distancia_km": null,
         "proximo": false
@@ -426,10 +451,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "26/11/2026 19:15:32",
-          "lat": -25.1133232,
-          "lon": -48.7626304
+          "referencia": "1.92 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 19:29:21",
+          "lat": -25.08152,
+          "lon": -48.6197888
         },
         "distancia_km": null,
         "proximo": false
@@ -446,10 +471,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "26/11/2026 19:15:32",
-          "lat": -25.1133232,
-          "lon": -48.7626304
+          "referencia": "1.92 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 19:29:21",
+          "lat": -25.08152,
+          "lon": -48.6197888
         },
         "distancia_km": null,
         "proximo": false
@@ -466,10 +491,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.66 km de POSTO DINOSSAURO - ANTONINA/PR",
-          "data_hora_posicao": "26/11/2026 19:15:32",
-          "lat": -25.1133232,
-          "lon": -48.7626304
+          "referencia": "1.92 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 19:29:21",
+          "lat": -25.08152,
+          "lon": -48.6197888
         },
         "distancia_km": null,
         "proximo": false
@@ -512,10 +537,10 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.33 km de PEDAGIO - PORTAO (SENTIDO PORTO ALEGRE) - PORTAO/RS",
-          "data_hora_posicao": "26/11/2026 19:15:05",
-          "lat": -29.667968,
-          "lon": -51.254752
+          "referencia": "0.55 km de POSTO IPIRANGA - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "26/11/2026 19:30:32",
+          "lat": -29.5614208,
+          "lon": -51.3609056
         },
         "distancia_km": null,
         "proximo": false
@@ -543,10 +568,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.38 km de DELEGACIA POLÍCIA - MONTE CASTELO/SC",
-          "data_hora_posicao": "26/11/2026 19:15:25",
-          "lat": -26.4741295,
-          "lon": -50.2321996
+          "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
+          "data_hora_posicao": "26/11/2026 19:30:54",
+          "lat": -26.3951921,
+          "lon": -50.1635771
         },
         "distancia_km": null,
         "proximo": false
@@ -575,9 +600,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "26/11/2026 19:14:24",
-          "lat": -29.9833952,
-          "lon": -51.1866304
+          "data_hora_posicao": "26/11/2026 19:30:24",
+          "lat": -29.9834016,
+          "lon": -51.186624
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -591,5 +616,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T19:17:47"
+  "_gerado_em": "2026-11-26T19:33:10"
 }
