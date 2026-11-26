@@ -13,12 +13,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.18 km de PÁTIO TCPORT - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 07:58:12",
-          "lat": -26.8630304,
-          "lon": -48.7290624
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 08:14:12",
+          "lat": -26.887712,
+          "lon": -48.7207008
         },
-        "distancia_km": 2.8,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -64,7 +64,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 07:58:32",
+          "data_hora_posicao": "26/11/2026 08:14:32",
           "lat": -26.8873866666667,
           "lon": -48.7211966666667
         },
@@ -99,12 +99,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.92 km de POSTO ZANDONÁ 11 - JOINVILLE/SC",
-          "data_hora_posicao": "26/11/2026 07:59:38",
-          "lat": -26.210455,
-          "lon": -48.9157016666667
+          "referencia": "0.73 km de FILIAL APOIO COMERCIO E TRANSPORTE LTDA - BR 101 - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 08:13:32",
+          "lat": -26.33772,
+          "lon": -48.859395
         },
-        "distancia_km": 132.6,
+        "distancia_km": 124.4,
         "proximo": false
       },
       {
@@ -135,7 +135,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 07:58:32",
+          "data_hora_posicao": "26/11/2026 08:14:32",
           "lat": -29.1463168,
           "lon": -51.1648544
         },
@@ -172,6 +172,46 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044625-4",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 3893.05,
+        "frete_rs": 1566.47,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.53 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 08:13:21",
+          "lat": -27.1870336,
+          "lon": -49.607872
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044626-2",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 279.0,
+        "frete_rs": 82.01,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.53 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 08:13:21",
+          "lat": -27.1870336,
+          "lon": -49.607872
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -179,6 +219,11 @@
         "peso_kg": 14302.55,
         "frete_rs": 17713.37,
         "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 4172.05,
+        "frete_rs": 1648.48,
+        "qtde": 2
       }
     }
   },
@@ -196,12 +241,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:59:05",
-          "lat": -29.8837824,
-          "lon": -50.5632672
+          "referencia": "3.46 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "26/11/2026 08:15:05",
+          "lat": -29.9119392,
+          "lon": -50.7851456
         },
-        "distancia_km": 61.1,
+        "distancia_km": 39.5,
         "proximo": false
       },
       {
@@ -216,12 +261,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:59:05",
-          "lat": -29.8837824,
-          "lon": -50.5632672
+          "referencia": "3.46 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "26/11/2026 08:15:05",
+          "lat": -29.9119392,
+          "lon": -50.7851456
         },
-        "distancia_km": 61.1,
+        "distancia_km": 39.5,
         "proximo": false
       },
       {
@@ -236,12 +281,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:59:05",
-          "lat": -29.8837824,
-          "lon": -50.5632672
+          "referencia": "3.46 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "26/11/2026 08:15:05",
+          "lat": -29.9119392,
+          "lon": -50.7851456
         },
-        "distancia_km": 61.1,
+        "distancia_km": 39.5,
         "proximo": false
       },
       {
@@ -256,12 +301,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.39 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
-          "data_hora_posicao": "26/11/2026 07:59:05",
-          "lat": -29.8837824,
-          "lon": -50.5632672
+          "referencia": "3.46 km de POSTO CONVENIENCIA GLORINHA - GLORINHA/RS",
+          "data_hora_posicao": "26/11/2026 08:15:05",
+          "lat": -29.9119392,
+          "lon": -50.7851456
         },
-        "distancia_km": 61.1,
+        "distancia_km": 39.5,
         "proximo": false
       },
       {
@@ -276,10 +321,10 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:59:23",
-          "lat": -27.8238336,
-          "lon": -50.3630016
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "26/11/2026 08:13:23",
+          "lat": -27.8238144,
+          "lon": -50.3627808
         },
         "distancia_km": 253.2,
         "proximo": false
@@ -312,12 +357,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:59:56",
-          "lat": -25.1112016,
-          "lon": -48.7835648
+          "referencia": "2.99 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 08:13:56",
+          "lat": -25.0833984,
+          "lon": -48.6307968
         },
-        "distancia_km": 297.7,
+        "distancia_km": 283.7,
         "proximo": false
       },
       {
@@ -332,12 +377,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.13 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:59:56",
-          "lat": -25.1112016,
-          "lon": -48.7835648
+          "referencia": "2.99 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 08:13:56",
+          "lat": -25.0833984,
+          "lon": -48.6307968
         },
-        "distancia_km": 297.7,
+        "distancia_km": 283.7,
         "proximo": false
       },
       {
@@ -352,12 +397,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:59:08",
-          "lat": -25.10808,
-          "lon": -48.7872864
+          "referencia": "2.29 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 08:14:28",
+          "lat": -25.0811248,
+          "lon": -48.6234432
         },
-        "distancia_km": 297.8,
+        "distancia_km": 282.9,
         "proximo": false
       },
       {
@@ -372,12 +417,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:59:08",
-          "lat": -25.10808,
-          "lon": -48.7872864
+          "referencia": "2.29 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 08:14:28",
+          "lat": -25.0811248,
+          "lon": -48.6234432
         },
-        "distancia_km": 297.8,
+        "distancia_km": 282.9,
         "proximo": false
       },
       {
@@ -392,12 +437,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.67 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 07:59:08",
-          "lat": -25.10808,
-          "lon": -48.7872864
+          "referencia": "2.29 km de RESTAURANTE & LANCHONETE MELHOR PARADA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "26/11/2026 08:14:28",
+          "lat": -25.0811248,
+          "lon": -48.6234432
         },
-        "distancia_km": 297.8,
+        "distancia_km": 282.9,
         "proximo": false
       },
       {
@@ -412,12 +457,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.38 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 07:51:06",
-          "lat": -24.9276336,
-          "lon": -48.2696864
+          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 08:15:06",
+          "lat": -24.7856304,
+          "lon": -48.1749024
         },
-        "distancia_km": 244.6,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -432,12 +477,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 07:51:06",
-          "lat": -24.9276336,
-          "lon": -48.2696864
+          "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 08:15:06",
+          "lat": -24.7856304,
+          "lon": -48.1749024
         },
-        "distancia_km": 244.6,
+        "distancia_km": 227.1,
         "proximo": false
       },
       {
@@ -452,12 +497,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.13 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "26/11/2026 07:59:38",
-          "lat": -24.5784928,
-          "lon": -47.8844608
+          "referencia": "0.86 km de O BOTICÁRIO - BOTICA COMERCIAL FARMACÊUTICA (CENTRO DE DISTRIBUIÇÃO) - REGISTRO/SP",
+          "data_hora_posicao": "26/11/2026 08:13:05",
+          "lat": -24.4502416,
+          "lon": -47.807872
         },
-        "distancia_km": 189.8,
+        "distancia_km": 174.8,
         "proximo": false
       },
       {
@@ -538,10 +583,10 @@
         "frete_rs": 407.2,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:58:56",
-          "lat": -28.2978056,
-          "lon": -48.7158106
+          "referencia": "0.87 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 08:13:47",
+          "lat": -28.440554,
+          "lon": -48.8149266
         },
         "distancia_km": null,
         "proximo": false
@@ -569,10 +614,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:58:56",
-          "lat": -28.2978056,
-          "lon": -48.7158106
+          "referencia": "0.87 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 08:13:47",
+          "lat": -28.440554,
+          "lon": -48.8149266
         },
         "distancia_km": null,
         "proximo": false
@@ -600,10 +645,10 @@
         "frete_rs": 3496.03,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "3.88 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "26/11/2026 07:58:56",
-          "lat": -28.2978056,
-          "lon": -48.7158106
+          "referencia": "0.87 km de POSTO CABEÇUDAS IPIRANGA GNV - LAGUNA/SC",
+          "data_hora_posicao": "26/11/2026 08:13:47",
+          "lat": -28.440554,
+          "lon": -48.8149266
         },
         "distancia_km": null,
         "proximo": false
@@ -631,10 +676,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SERRANO - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 07:59:00",
-          "lat": -27.3011253,
-          "lon": -50.423635
+          "referencia": "0.88 km de SUPERGASBRAS - CURITIBANOS/SC",
+          "data_hora_posicao": "26/11/2026 08:13:35",
+          "lat": -27.3151861,
+          "lon": -50.5365146
         },
         "distancia_km": null,
         "proximo": false
@@ -644,6 +689,37 @@
       "Rio do Sul": {
         "peso_kg": 4782.68,
         "frete_rs": 5689.99,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "RSL044624-6",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 5615.76,
+        "frete_rs": 10291.67,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "1.53 km de TRANSPORTES JR27 EIRELI - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 08:13:21",
+          "lat": -27.1870336,
+          "lon": -49.607872
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 5615.76,
+        "frete_rs": 10291.67,
         "qtde": 1
       }
     }
@@ -662,10 +738,10 @@
         "frete_rs": 3683.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:59:23",
-          "lat": -27.8238336,
-          "lon": -50.3630016
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "26/11/2026 08:13:23",
+          "lat": -27.8238144,
+          "lon": -50.3627808
         },
         "distancia_km": null,
         "proximo": false
@@ -693,10 +769,10 @@
         "frete_rs": 6014.54,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:59:23",
-          "lat": -27.8238336,
-          "lon": -50.3630016
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "26/11/2026 08:13:23",
+          "lat": -27.8238144,
+          "lon": -50.3627808
         },
         "distancia_km": null,
         "proximo": false
@@ -713,10 +789,10 @@
         "frete_rs": 84.0,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "26/11/2026 07:59:23",
-          "lat": -27.8238336,
-          "lon": -50.3630016
+          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "26/11/2026 08:13:23",
+          "lat": -27.8238144,
+          "lon": -50.3627808
         },
         "distancia_km": null,
         "proximo": false
@@ -730,5 +806,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T08:02:40"
+  "_gerado_em": "2026-11-26T08:17:36"
 }
