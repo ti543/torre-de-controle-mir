@@ -13,12 +13,12 @@
         "frete_rs": 258.16,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "26/11/2026 12:29:59",
-          "lat": -28.6899616,
-          "lon": -49.315618
+          "referencia": "0.57 km de POSTO PANTERA - ICARA/SC",
+          "data_hora_posicao": "26/11/2026 12:45:30",
+          "lat": -28.7251041,
+          "lon": -49.2961771
         },
-        "distancia_km": 208.8,
+        "distancia_km": 212.0,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 12:28:28",
+          "data_hora_posicao": "26/11/2026 12:44:28",
           "lat": -26.8876866666667,
           "lon": -48.7207166666667
         },
@@ -69,10 +69,10 @@
         "frete_rs": 618.92,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "13.16 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "26/11/2026 12:23:19",
-          "lat": -28.1389056,
-          "lon": -50.6480128
+          "referencia": "3.89 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "26/11/2026 12:43:19",
+          "lat": -27.9728128,
+          "lon": -50.5051648
         },
         "distancia_km": null,
         "proximo": false
@@ -100,12 +100,12 @@
         "frete_rs": 2196.18,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "13.16 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "26/11/2026 12:23:19",
-          "lat": -28.1389056,
-          "lon": -50.6480128
+          "referencia": "3.89 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "26/11/2026 12:43:19",
+          "lat": -27.9728128,
+          "lon": -50.5051648
         },
-        "distancia_km": 142.9,
+        "distancia_km": 119.9,
         "proximo": false
       },
       {
@@ -120,10 +120,10 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 12:29:06",
-          "lat": -27.20574,
-          "lon": -49.648995
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "26/11/2026 12:44:19",
+          "lat": -27.2059733333333,
+          "lon": -49.6488616666667
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -155,12 +155,12 @@
         "frete_rs": 1349.07,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "13.16 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "26/11/2026 12:23:19",
-          "lat": -28.1389056,
-          "lon": -50.6480128
+          "referencia": "3.89 km de 1ªCIA/2ºPEL/4ºGP - 4º GRUPO - CAPAO ALTO/SC",
+          "data_hora_posicao": "26/11/2026 12:43:19",
+          "lat": -27.9728128,
+          "lon": -50.5051648
         },
-        "distancia_km": 142.9,
+        "distancia_km": 119.9,
         "proximo": false
       }
     ],
@@ -198,12 +198,32 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "ITJ024239-0",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 1366.96,
+        "frete_rs": 1672.89,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 14302.55,
         "frete_rs": 17713.37,
+        "qtde": 1
+      },
+      "Itajaí": {
+        "peso_kg": 1366.96,
+        "frete_rs": 1672.89,
         "qtde": 1
       }
     }
@@ -222,12 +242,12 @@
         "frete_rs": 12802.04,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.35 km de RINCO E MATSUYAMA COMERCIO DE BEB - ITANHAEM/SP",
-          "data_hora_posicao": "26/11/2026 12:29:56",
-          "lat": -24.2104224,
-          "lon": -46.8622656
+          "referencia": "4.79 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
+          "data_hora_posicao": "26/11/2026 12:43:56",
+          "lat": -24.1444,
+          "lon": -46.7204128
         },
-        "distancia_km": 91.8,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -242,12 +262,12 @@
         "frete_rs": 3294.78,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "4.35 km de RINCO E MATSUYAMA COMERCIO DE BEB - ITANHAEM/SP",
-          "data_hora_posicao": "26/11/2026 12:29:56",
-          "lat": -24.2104224,
-          "lon": -46.8622656
+          "referencia": "4.79 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
+          "data_hora_posicao": "26/11/2026 12:43:56",
+          "lat": -24.1444,
+          "lon": -46.7204128
         },
-        "distancia_km": 91.8,
+        "distancia_km": 79.4,
         "proximo": false
       },
       {
@@ -262,12 +282,12 @@
         "frete_rs": 10467.85,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.5 km de RINCO E MATSUYAMA COMERCIO DE BEB - ITANHAEM/SP",
-          "data_hora_posicao": "26/11/2026 12:28:28",
-          "lat": -24.2163408,
-          "lon": -46.8715552
+          "referencia": "4.04 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
+          "data_hora_posicao": "26/11/2026 12:44:28",
+          "lat": -24.1410416,
+          "lon": -46.7139968
         },
-        "distancia_km": 92.8,
+        "distancia_km": 78.8,
         "proximo": false
       },
       {
@@ -282,12 +302,12 @@
         "frete_rs": 7005.64,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.5 km de RINCO E MATSUYAMA COMERCIO DE BEB - ITANHAEM/SP",
-          "data_hora_posicao": "26/11/2026 12:28:28",
-          "lat": -24.2163408,
-          "lon": -46.8715552
+          "referencia": "4.04 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
+          "data_hora_posicao": "26/11/2026 12:44:28",
+          "lat": -24.1410416,
+          "lon": -46.7139968
         },
-        "distancia_km": 92.8,
+        "distancia_km": 78.8,
         "proximo": false
       },
       {
@@ -302,12 +322,12 @@
         "frete_rs": 800.89,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "5.5 km de RINCO E MATSUYAMA COMERCIO DE BEB - ITANHAEM/SP",
-          "data_hora_posicao": "26/11/2026 12:28:28",
-          "lat": -24.2163408,
-          "lon": -46.8715552
+          "referencia": "4.04 km de AUTO POSTO PRAIA AZUL - MONGAGUA/SP",
+          "data_hora_posicao": "26/11/2026 12:44:28",
+          "lat": -24.1410416,
+          "lon": -46.7139968
         },
-        "distancia_km": 92.8,
+        "distancia_km": 78.8,
         "proximo": false
       },
       {
@@ -322,12 +342,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.19 km de PRF - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "26/11/2026 12:30:13",
-          "lat": -23.9223136,
-          "lon": -46.5547872
+          "referencia": "0.33 km de ADIVEL CAMINHÕES E ÔNIBUS LTDA - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "26/11/2026 12:45:06",
+          "lat": -23.768048,
+          "lon": -46.5898048
         },
-        "distancia_km": 51.1,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -342,12 +362,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.19 km de PRF - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "26/11/2026 12:30:13",
-          "lat": -23.9223136,
-          "lon": -46.5547872
+          "referencia": "0.33 km de ADIVEL CAMINHÕES E ÔNIBUS LTDA - SAO BERNARDO DO CAMPO/SP",
+          "data_hora_posicao": "26/11/2026 12:45:06",
+          "lat": -23.768048,
+          "lon": -46.5898048
         },
-        "distancia_km": 51.1,
+        "distancia_km": 35.5,
         "proximo": false
       },
       {
@@ -362,12 +382,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.18 km de JN - PNEUS E RODAS - SAO PAULO/SP",
-          "data_hora_posicao": "26/11/2026 12:29:05",
-          "lat": -23.5423648,
-          "lon": -46.4482496
+          "referencia": "0.12 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 12:45:05",
+          "lat": -23.470968,
+          "lon": -46.466
         },
-        "distancia_km": 8.1,
+        "distancia_km": 0.4,
         "proximo": true
       },
       {
@@ -448,10 +468,10 @@
         "frete_rs": 2690.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "26/11/2026 12:29:59",
-          "lat": -28.6899616,
-          "lon": -49.315618
+          "referencia": "0.57 km de POSTO PANTERA - ICARA/SC",
+          "data_hora_posicao": "26/11/2026 12:45:30",
+          "lat": -28.7251041,
+          "lon": -49.2961771
         },
         "distancia_km": null,
         "proximo": false
@@ -480,7 +500,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "26/11/2026 12:28:14",
+          "data_hora_posicao": "26/11/2026 12:44:14",
           "lat": -27.6743706,
           "lon": -48.6978386
         },
@@ -500,7 +520,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.98 km de MUNDIAL MIX COMERCIO - PALHOCA/SC - PALHOCA/SC",
-          "data_hora_posicao": "26/11/2026 12:28:14",
+          "data_hora_posicao": "26/11/2026 12:44:14",
           "lat": -27.6743706,
           "lon": -48.6978386
         },
@@ -561,10 +581,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de CHURRASCARIA TONI - GASPAR/SC",
-          "data_hora_posicao": "26/11/2026 12:29:21",
-          "lat": -26.8987552,
-          "lon": -48.9258848
+          "referencia": "0.73 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "26/11/2026 12:45:26",
+          "lat": -26.8381248,
+          "lon": -48.763968
         },
         "distancia_km": null,
         "proximo": false
@@ -581,10 +601,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.06 km de CHURRASCARIA TONI - GASPAR/SC",
-          "data_hora_posicao": "26/11/2026 12:29:21",
-          "lat": -26.8987552,
-          "lon": -48.9258848
+          "referencia": "0.73 km de PATIO - ARMAZEM NELSON HEUSI 470 - NAVEGANTE - NAVEGANTES/SC",
+          "data_hora_posicao": "26/11/2026 12:45:26",
+          "lat": -26.8381248,
+          "lon": -48.763968
         },
         "distancia_km": null,
         "proximo": false
@@ -617,10 +637,10 @@
         "frete_rs": 3683.5,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.25 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "26/11/2026 12:29:23",
-          "lat": -28.9365248,
-          "lon": -51.18472
+          "referencia": "1 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "26/11/2026 12:45:23",
+          "lat": -29.0047328,
+          "lon": -51.1825952
         },
         "distancia_km": null,
         "proximo": false
@@ -648,12 +668,12 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.25 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "26/11/2026 12:29:23",
-          "lat": -28.9365248,
-          "lon": -51.18472
+          "referencia": "1 km de PEDAGIO - FLORES DA CUNHA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "26/11/2026 12:45:23",
+          "lat": -29.0047328,
+          "lon": -51.1825952
         },
-        "distancia_km": 116.4,
+        "distancia_km": 108.8,
         "proximo": false
       }
     ],
@@ -665,5 +685,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T12:32:33"
+  "_gerado_em": "2026-11-26T12:47:56"
 }
