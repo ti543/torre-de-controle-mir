@@ -13,12 +13,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.41 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "26/11/2026 02:14:37",
-          "lat": -26.8779872,
-          "lon": -49.0017536
+          "referencia": "0.5 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "26/11/2026 02:28:37",
+          "lat": -26.8832736,
+          "lon": -49.1524608
         },
-        "distancia_km": 73.8,
+        "distancia_km": 60.9,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.2 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "26/11/2026 01:59:49",
-          "lat": -26.0902766666667,
-          "lon": -48.8636983333333
+          "referencia": "0.72 km de TRANSMAGNA TRANSPORTES - JOINVILLE/SC",
+          "data_hora_posicao": "26/11/2026 02:23:41",
+          "lat": -26.2899,
+          "lon": -48.920495
         },
-        "distancia_km": 146.6,
+        "distancia_km": 125.0,
         "proximo": false
       },
       {
@@ -53,12 +53,12 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.38 km de POSTO IPIRANGA PELANDA MIRACATU SUL RODO REDE IPIRANGA - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 02:15:08",
-          "lat": -24.3046,
-          "lon": -47.4901183333333
+          "referencia": "3.15 km de POSTO FASE QUATTRO - JUQUIA/SP",
+          "data_hora_posicao": "26/11/2026 02:29:08",
+          "lat": -24.349585,
+          "lon": -47.653105
         },
-        "distancia_km": 388.4,
+        "distancia_km": 375.3,
         "proximo": false
       },
       {
@@ -88,12 +88,12 @@
         "frete_rs": 3697.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.41 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "26/11/2026 02:14:37",
-          "lat": -26.8779872,
-          "lon": -49.0017536
+          "referencia": "0.5 km de COOPER - COOPERATIVA DE PRODUCAO E ABASTECIMENTO DO VALE DO ITAJAI (CD) - BLUMENAU/SC",
+          "data_hora_posicao": "26/11/2026 02:28:37",
+          "lat": -26.8832736,
+          "lon": -49.1524608
         },
-        "distancia_km": 73.8,
+        "distancia_km": 60.9,
         "proximo": false
       },
       {
@@ -109,7 +109,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 02:14:32",
+          "data_hora_posicao": "26/11/2026 02:28:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -154,13 +154,13 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.49 km de PEDAGIO - PRACA 13 (REGIS BITTENCOURT EXTERNA) - OSASCO/SP",
-          "data_hora_posicao": "26/11/2026 02:13:46",
-          "lat": -23.6044688,
-          "lon": -46.8134432
+          "referencia": "0.64 km de INFOTEL - SAO PAULO/SP",
+          "data_hora_posicao": "26/11/2026 02:29:46",
+          "lat": -23.5089696,
+          "lon": -46.7119264
         },
-        "distancia_km": 38.8,
-        "proximo": false
+        "distancia_km": 25.8,
+        "proximo": true
       },
       {
         "manif": "ITJ024220-9",
@@ -175,7 +175,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:13:56",
+          "data_hora_posicao": "26/11/2026 02:29:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -195,7 +195,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:13:56",
+          "data_hora_posicao": "26/11/2026 02:29:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -215,7 +215,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:28",
+          "data_hora_posicao": "26/11/2026 02:28:28",
           "lat": -26.8874048,
           "lon": -48.7214912
         },
@@ -235,7 +235,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:28",
+          "data_hora_posicao": "26/11/2026 02:28:28",
           "lat": -26.8874048,
           "lon": -48.7214912
         },
@@ -255,7 +255,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:28",
+          "data_hora_posicao": "26/11/2026 02:28:28",
           "lat": -26.8874048,
           "lon": -48.7214912
         },
@@ -274,12 +274,12 @@
         "frete_rs": 13767.83,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:15:06",
-          "lat": -26.8873056,
-          "lon": -48.7217184
+          "referencia": "0.49 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "26/11/2026 02:29:06",
+          "lat": -26.8426672,
+          "lon": -48.7172672
         },
-        "distancia_km": 442.7,
+        "distancia_km": 438.3,
         "proximo": false
       },
       {
@@ -294,12 +294,12 @@
         "frete_rs": 9344.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:15:06",
-          "lat": -26.8873056,
-          "lon": -48.7217184
+          "referencia": "0.49 km de POSTO PONTE AÇU - NAVEGANTES/SC",
+          "data_hora_posicao": "26/11/2026 02:29:06",
+          "lat": -26.8426672,
+          "lon": -48.7172672
         },
-        "distancia_km": 442.7,
+        "distancia_km": 438.3,
         "proximo": false
       },
       {
@@ -314,12 +314,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.79 km de BANCA DA PEDRA - GARUVA/SC",
-          "data_hora_posicao": "26/11/2026 02:15:05",
-          "lat": -26.0053856,
-          "lon": -48.8684512
+          "referencia": "0.24 km de LANCHONETE JM - GUARATUBA/PR",
+          "data_hora_posicao": "26/11/2026 02:29:05",
+          "lat": -25.9022672,
+          "lon": -48.9242528
         },
-        "distancia_km": 372.1,
+        "distancia_km": 367.4,
         "proximo": false
       },
       {
@@ -405,12 +405,12 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.07 km de POSTO JUNINHO KM528 - BARRA DO TURVO/SP",
-          "data_hora_posicao": "26/11/2026 02:04:12",
-          "lat": -24.9399872,
-          "lon": -48.304464
+          "referencia": "0.51 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "26/11/2026 02:26:36",
+          "lat": -24.984576,
+          "lon": -48.5072128
         },
-        "distancia_km": 220.5,
+        "distancia_km": 212.7,
         "proximo": false
       },
       {
@@ -456,7 +456,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:05",
+          "data_hora_posicao": "26/11/2026 02:30:05",
           "lat": -26.887395,
           "lon": -48.7208566666667
         },
@@ -507,7 +507,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 02:14:03",
+          "data_hora_posicao": "26/11/2026 02:28:35",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -527,7 +527,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "26/11/2026 02:14:03",
+          "data_hora_posicao": "26/11/2026 02:28:35",
           "lat": -22.8469416666667,
           "lon": -47.1247133333333
         },
@@ -557,10 +557,10 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 02:14:54",
-          "lat": -24.780472,
-          "lon": -48.1852928
+          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 02:29:46",
+          "lat": -24.7798784,
+          "lon": -48.186688
         },
         "distancia_km": 139.2,
         "proximo": false
@@ -577,12 +577,52 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.12 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 02:14:54",
-          "lat": -24.780472,
-          "lon": -48.1852928
+          "referencia": "0.08 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "26/11/2026 02:29:46",
+          "lat": -24.7798784,
+          "lon": -48.186688
         },
         "distancia_km": 139.2,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024231-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 3132.68,
+        "frete_rs": 2276.55,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:30:09",
+          "lat": -26.8875776,
+          "lon": -48.7206528
+        },
+        "distancia_km": 161.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024232-2",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "CTB",
+        "dest_city": "CURITIBA/PR",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 14.8,
+        "frete_rs": 289.48,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "26/11/2026 02:30:09",
+          "lat": -26.8875776,
+          "lon": -48.7206528
+        },
+        "distancia_km": 161.7,
         "proximo": false
       },
       {
@@ -598,9 +638,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:09",
-          "lat": -26.8876,
-          "lon": -48.720752
+          "data_hora_posicao": "26/11/2026 02:30:09",
+          "lat": -26.8875776,
+          "lon": -48.7206528
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -618,9 +658,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 02:14:09",
-          "lat": -26.8876,
-          "lon": -48.720752
+          "data_hora_posicao": "26/11/2026 02:30:09",
+          "lat": -26.8875776,
+          "lon": -48.7206528
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -630,6 +670,11 @@
       "Guarulhos": {
         "peso_kg": 5807.6900000000005,
         "frete_rs": 7305.92,
+        "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 3147.48,
+        "frete_rs": 2566.03,
         "qtde": 2
       },
       "Rio do Sul": {
@@ -680,7 +725,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:15:05",
+          "data_hora_posicao": "26/11/2026 02:29:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -700,7 +745,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:15:05",
+          "data_hora_posicao": "26/11/2026 02:29:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -720,7 +765,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:15:05",
+          "data_hora_posicao": "26/11/2026 02:29:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -740,7 +785,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "26/11/2026 02:15:05",
+          "data_hora_posicao": "26/11/2026 02:29:05",
           "lat": -28.068144,
           "lon": -48.7139552
         },
@@ -756,5 +801,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T02:17:34"
+  "_gerado_em": "2026-11-26T02:32:32"
 }
