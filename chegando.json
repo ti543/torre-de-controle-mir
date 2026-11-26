@@ -13,12 +13,12 @@
         "frete_rs": 2486.43,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.16 km de BRITANIA CENTRO DE LOGISTICA - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 22:44:37",
-          "lat": -26.4480624,
-          "lon": -48.7906688
+          "referencia": "1.52 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "25/11/2026 22:58:37",
+          "lat": -26.5772592,
+          "lon": -48.7226176
         },
-        "distancia_km": 49.3,
+        "distancia_km": 34.5,
         "proximo": false
       },
       {
@@ -33,12 +33,42 @@
         "frete_rs": 5794.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.13 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "25/11/2026 22:44:12",
-          "lat": -23.9537328,
-          "lon": -47.10616
+          "referencia": "0.15 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 03) - MIRACATU/SP",
+          "data_hora_posicao": "25/11/2026 22:54:12",
+          "lat": -24.0275424,
+          "lon": -47.1744512
         },
-        "distancia_km": 364.3,
+        "distancia_km": 353.9,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075115-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 4203.64,
+        "frete_rs": 8705.09,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075119-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 1627.29,
+        "frete_rs": 1502.39,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -54,7 +84,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO RUSSI TUBARÃO - TUBARAO/SC",
-          "data_hora_posicao": "25/11/2026 22:44:11",
+          "data_hora_posicao": "25/11/2026 23:00:11",
           "lat": -28.51939,
           "lon": -49.0531383333333
         },
@@ -73,12 +103,12 @@
         "frete_rs": 2066.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.48 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 22:44:09",
-          "lat": -26.913664,
-          "lon": -49.2793344
+          "referencia": "0.34 km de DICAVE BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 23:00:09",
+          "lat": -26.871152,
+          "lon": -49.1087616
         },
-        "distancia_km": 55.4,
+        "distancia_km": 38.5,
         "proximo": false
       }
     ],
@@ -89,9 +119,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 5758.38,
-        "frete_rs": 5794.91,
-        "qtde": 1
+        "peso_kg": 11589.310000000001,
+        "frete_rs": 16002.39,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 1380.22,
@@ -119,12 +149,12 @@
         "frete_rs": 4324.7,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.16 km de BRITANIA CENTRO DE LOGISTICA - ARAQUARI/SC",
-          "data_hora_posicao": "25/11/2026 22:44:37",
-          "lat": -26.4480624,
-          "lon": -48.7906688
+          "referencia": "1.52 km de BASE OPERACIONAL DA AUTOPISTA LITORAL SUL (BASE 05) - ARAQUARI/SC",
+          "data_hora_posicao": "25/11/2026 22:58:37",
+          "lat": -26.5772592,
+          "lon": -48.7226176
         },
-        "distancia_km": 119.9,
+        "distancia_km": 115.5,
         "proximo": false
       },
       {
@@ -139,12 +169,12 @@
         "frete_rs": 8025.02,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "4.57 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 07) - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 22:45:21",
-          "lat": -24.9547466666667,
-          "lon": -48.45696
+          "referencia": "0.66 km de RESTAURANTE E LANCHONETE RIO VERMELHO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 22:55:19",
+          "lat": -25.01056,
+          "lon": -48.5078933333333
         },
-        "distancia_km": 277.2,
+        "distancia_km": 269.4,
         "proximo": false
       },
       {
@@ -159,10 +189,10 @@
         "frete_rs": 14761.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:44:23",
-          "lat": -23.4704466666667,
-          "lon": -46.46207
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:58:58",
+          "lat": -23.47038,
+          "lon": -46.46214
         },
         "distancia_km": 524.5,
         "proximo": false
@@ -195,7 +225,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "25/11/2026 22:44:32",
+          "data_hora_posicao": "25/11/2026 22:58:32",
           "lat": -29.1463904,
           "lon": -51.164912
         },
@@ -235,12 +265,12 @@
         "frete_rs": 12090.01,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "3.9 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
-          "data_hora_posicao": "25/11/2026 22:43:14",
-          "lat": -24.9661952,
-          "lon": -48.468736
+          "referencia": "2.64 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "25/11/2026 22:53:14",
+          "lat": -24.9679104,
+          "lon": -48.3860736
         },
-        "distancia_km": 262.8,
+        "distancia_km": 256.5,
         "proximo": false
       },
       {
@@ -256,7 +286,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:43:56",
+          "data_hora_posicao": "25/11/2026 22:59:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -276,7 +306,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:43:56",
+          "data_hora_posicao": "25/11/2026 22:59:56",
           "lat": -26.8874464,
           "lon": -48.721152
         },
@@ -296,7 +326,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:44:28",
+          "data_hora_posicao": "25/11/2026 22:58:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -316,7 +346,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:44:28",
+          "data_hora_posicao": "25/11/2026 22:58:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -336,7 +366,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:44:28",
+          "data_hora_posicao": "25/11/2026 22:58:28",
           "lat": -26.8873376,
           "lon": -48.7214592
         },
@@ -356,7 +386,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "25/11/2026 22:45:06",
+          "data_hora_posicao": "25/11/2026 22:59:06",
           "lat": -26.887712,
           "lon": -48.7207296
         },
@@ -375,12 +405,12 @@
         "frete_rs": 20290.13,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de CONCESSIONARIA MERCEDES BENZ - RIO DO SUL/SC",
-          "data_hora_posicao": "25/11/2026 22:45:29",
-          "lat": -27.2072864,
-          "lon": -49.6488192
+          "referencia": "1.73 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "25/11/2026 22:59:05",
+          "lat": -27.1474048,
+          "lon": -49.5550144
         },
-        "distancia_km": 524.5,
+        "distancia_km": 513.6,
         "proximo": false
       },
       {
@@ -438,13 +468,53 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "GRU075117-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 6083.98,
+        "frete_rs": 4756.12,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:58:38",
+          "lat": -23.470725,
+          "lon": -46.46209
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075118-9",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "MATEUS CARDOSO CHAVES",
+        "peso_real_kg": 188.3,
+        "frete_rs": 182.43,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:58:38",
+          "lat": -23.470725,
+          "lon": -46.46209
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 330.65,
-        "frete_rs": 1226.56,
-        "qtde": 1
+        "peso_kg": 6602.929999999999,
+        "frete_rs": 6165.110000000001,
+        "qtde": 3
       }
     }
   },
@@ -462,12 +532,12 @@
         "frete_rs": 4605.91,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de MARSUL TRANSPORTES - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:45:44",
-          "lat": -23.477304,
-          "lon": -46.4604448
+          "referencia": "0.33 km de EXPRESSO DOURADOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:59:42",
+          "lat": -23.524408,
+          "lon": -46.567424
         },
-        "distancia_km": 366.4,
+        "distancia_km": 354.6,
         "proximo": false
       },
       {
@@ -482,12 +552,12 @@
         "frete_rs": 2700.01,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.35 km de MARSUL TRANSPORTES - GUARULHOS/SP",
-          "data_hora_posicao": "25/11/2026 22:45:44",
-          "lat": -23.477304,
-          "lon": -46.4604448
+          "referencia": "0.33 km de EXPRESSO DOURADOS - GUARULHOS/SP",
+          "data_hora_posicao": "25/11/2026 22:59:42",
+          "lat": -23.524408,
+          "lon": -46.567424
         },
-        "distancia_km": 366.4,
+        "distancia_km": 354.6,
         "proximo": false
       },
       {
@@ -502,12 +572,12 @@
         "frete_rs": 5218.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.48 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 22:44:09",
-          "lat": -26.913664,
-          "lon": -49.2793344
+          "referencia": "0.34 km de DICAVE BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 23:00:09",
+          "lat": -26.871152,
+          "lon": -49.1087616
         },
-        "distancia_km": 154.1,
+        "distancia_km": 150.5,
         "proximo": false
       },
       {
@@ -522,12 +592,12 @@
         "frete_rs": 1093.58,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.48 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "25/11/2026 22:44:09",
-          "lat": -26.913664,
-          "lon": -49.2793344
+          "referencia": "0.34 km de DICAVE BLUMENAU - BLUMENAU/SC",
+          "data_hora_posicao": "25/11/2026 23:00:09",
+          "lat": -26.871152,
+          "lon": -49.1087616
         },
-        "distancia_km": 154.1,
+        "distancia_km": 150.5,
         "proximo": false
       }
     ],
@@ -541,6 +611,32 @@
         "peso_kg": 8075.85,
         "frete_rs": 6312.01,
         "qtde": 2
+      }
+    }
+  },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU075116-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 14302.55,
+        "frete_rs": 17713.37,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 14302.55,
+        "frete_rs": 17713.37,
+        "qtde": 1
       }
     }
   },
@@ -558,12 +654,12 @@
         "frete_rs": 15625.84,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 22:45:30",
-          "lat": -28.0656736,
-          "lon": -48.7150496
+          "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:59:05",
+          "lat": -28.068144,
+          "lon": -48.7139552
         },
-        "distancia_km": 321.3,
+        "distancia_km": 321.2,
         "proximo": false
       },
       {
@@ -578,12 +674,12 @@
         "frete_rs": 456.25,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 22:45:30",
-          "lat": -28.0656736,
-          "lon": -48.7150496
+          "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:59:05",
+          "lat": -28.068144,
+          "lon": -48.7139552
         },
-        "distancia_km": 321.3,
+        "distancia_km": 321.2,
         "proximo": false
       },
       {
@@ -598,12 +694,12 @@
         "frete_rs": 710.4,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 22:45:30",
-          "lat": -28.0656736,
-          "lon": -48.7150496
+          "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:59:05",
+          "lat": -28.068144,
+          "lon": -48.7139552
         },
-        "distancia_km": 321.3,
+        "distancia_km": 321.2,
         "proximo": false
       },
       {
@@ -618,12 +714,12 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.34 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
-          "data_hora_posicao": "25/11/2026 22:45:30",
-          "lat": -28.0656736,
-          "lon": -48.7150496
+          "referencia": "0.04 km de POSTO PETROBRAS - PAULO LOPES - PAULO LOPES/SC",
+          "data_hora_posicao": "25/11/2026 22:59:05",
+          "lat": -28.068144,
+          "lon": -48.7139552
         },
-        "distancia_km": 321.3,
+        "distancia_km": 321.2,
         "proximo": false
       }
     ],
@@ -635,5 +731,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-25T22:47:53"
+  "_gerado_em": "2026-11-25T23:02:32"
 }
