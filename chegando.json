@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "4.02 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "27/11/2026 08:58:36",
-          "lat": -28.9438464,
-          "lon": -51.1858944
+          "referencia": "0.5 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "27/11/2026 09:13:38",
+          "lat": -28.8693568,
+          "lon": -51.2296064
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "4.02 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "27/11/2026 08:58:36",
-          "lat": -28.9438464,
-          "lon": -51.1858944
+          "referencia": "0.5 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "27/11/2026 09:13:38",
+          "lat": -28.8693568,
+          "lon": -51.2296064
         },
-        "distancia_km": 245.1,
+        "distancia_km": 241.3,
         "proximo": false
       },
       {
@@ -65,7 +65,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO PELANDA 03 (REDE PEDRO PELANDA) - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "27/11/2026 08:59:06",
+          "data_hora_posicao": "27/11/2026 09:15:06",
           "lat": -25.7094512,
           "lon": -49.1416
         },
@@ -88,6 +88,26 @@
         "proximo": false
       },
       {
+        "manif": "GRU075228-2",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYA0I16",
+        "motorista": "ODAIR JUSTO DA SILVA",
+        "peso_real_kg": 170.0,
+        "frete_rs": 275.61,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 09:13:00",
+          "lat": -23.4704945,
+          "lon": -46.4621601
+        },
+        "distancia_km": 524.5,
+        "proximo": false
+      },
+      {
         "manif": "POA016310-4",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -99,12 +119,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "4.02 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "27/11/2026 08:58:36",
-          "lat": -28.9438464,
-          "lon": -51.1858944
+          "referencia": "0.5 km de RESTAURANTE NOSTRA CANTINA - ANTONIO PRADO/RS",
+          "data_hora_posicao": "27/11/2026 09:13:38",
+          "lat": -28.8693568,
+          "lon": -51.2296064
         },
-        "distancia_km": 245.1,
+        "distancia_km": 241.3,
         "proximo": false
       }
     ],
@@ -115,9 +135,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 19881.9,
-        "frete_rs": 21274.79,
-        "qtde": 2
+        "peso_kg": 20051.9,
+        "frete_rs": 21550.4,
+        "qtde": 3
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -212,12 +232,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.12 km de POSTO IPIRANGA MENEGUETTI - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "27/11/2026 09:00:12",
-          "lat": -24.6463904,
-          "lon": -47.9206624
+          "referencia": "0.57 km de 5ª DELEGACIA PRF - REGISTRO/SP",
+          "data_hora_posicao": "27/11/2026 09:14:12",
+          "lat": -24.5100592,
+          "lon": -47.8496064
         },
-        "distancia_km": 197.5,
+        "distancia_km": 182.3,
         "proximo": false
       },
       {
@@ -247,12 +267,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.43 km de POSTO SERRAS 90 - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 09:00:44",
-          "lat": -24.0402592,
-          "lon": -47.1929024
+          "referencia": "3.37 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "27/11/2026 09:14:37",
+          "lat": -23.9629168,
+          "lon": -47.1226784
         },
-        "distancia_km": 97.7,
+        "distancia_km": 86.7,
         "proximo": false
       },
       {
@@ -333,10 +353,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.9 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "27/11/2026 09:00:31",
-          "lat": -28.4277773,
-          "lon": -48.8666261
+          "referencia": "0.09 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "27/11/2026 09:15:15",
+          "lat": -28.469313,
+          "lon": -49.0182173
         },
         "distancia_km": null,
         "proximo": false
@@ -364,10 +384,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.9 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "27/11/2026 09:00:31",
-          "lat": -28.4277773,
-          "lon": -48.8666261
+          "referencia": "0.09 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "27/11/2026 09:15:15",
+          "lat": -28.469313,
+          "lon": -49.0182173
         },
         "distancia_km": null,
         "proximo": false
@@ -395,10 +415,10 @@
         "frete_rs": 3883.65,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.9 km de POSTO SANTIAGO (CABEÇUDAS) - PESCARIA BRAVA/SC",
-          "data_hora_posicao": "27/11/2026 09:00:31",
-          "lat": -28.4277773,
-          "lon": -48.8666261
+          "referencia": "0.09 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "27/11/2026 09:15:15",
+          "lat": -28.469313,
+          "lon": -49.0182173
         },
         "distancia_km": null,
         "proximo": false
@@ -427,7 +447,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "27/11/2026 08:59:17",
+          "data_hora_posicao": "27/11/2026 09:11:17",
           "lat": -29.3060756,
           "lon": -49.7729996
         },
@@ -447,7 +467,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.09 km de POSTO FISCAL - TORRES - TORRES/RS",
-          "data_hora_posicao": "27/11/2026 08:59:17",
+          "data_hora_posicao": "27/11/2026 09:11:17",
           "lat": -29.3060756,
           "lon": -49.7729996
         },
@@ -477,10 +497,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 09:00:31",
-          "lat": -27.8242423,
-          "lon": -50.3623373
+          "referencia": "0.23 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 09:14:43",
+          "lat": -27.8179768,
+          "lon": -50.3729686
         },
         "distancia_km": null,
         "proximo": false
@@ -497,10 +517,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 09:00:31",
-          "lat": -27.8242423,
-          "lon": -50.3623373
+          "referencia": "0.23 km de POSTO PALMEIRAS - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 09:14:43",
+          "lat": -27.8179768,
+          "lon": -50.3729686
         },
         "distancia_km": null,
         "proximo": false
@@ -533,10 +553,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de POSTO MATINHOS DIBRAPE - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 08:55:03",
-          "lat": -26.3775003,
-          "lon": -50.1964571
+          "referencia": "4.03 km de DELEGACIA DE POLÍCIA MILITAR - MAJOR VIEIRA/SC",
+          "data_hora_posicao": "27/11/2026 09:13:11",
+          "lat": -26.3248468,
+          "lon": -50.3357843
         },
         "distancia_km": null,
         "proximo": false
@@ -550,5 +570,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T09:02:37"
+  "_gerado_em": "2026-11-27T09:17:35"
 }
