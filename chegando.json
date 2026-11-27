@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.64 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 15:28:46",
-          "lat": -28.9196123,
-          "lon": -49.490001
+          "referencia": "0.69 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 15:44:29",
+          "lat": -28.7932426,
+          "lon": -49.3510538
         },
-        "distancia_km": 238.3,
+        "distancia_km": 220.8,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 15:29:05",
+          "data_hora_posicao": "27/11/2026 15:45:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,13 +64,13 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.95 km de DYSTAR INDÚSTRA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - APIUNA/SC",
-          "data_hora_posicao": "27/11/2026 15:29:06",
-          "lat": -27.0206048,
-          "lon": -49.3713344
+          "referencia": "2.78 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "27/11/2026 15:45:06",
+          "lat": -27.0841664,
+          "lon": -49.4555808
         },
-        "distancia_km": 34.4,
-        "proximo": false
+        "distancia_km": 23.5,
+        "proximo": true
       },
       {
         "manif": "GRU075234-7",
@@ -84,12 +84,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.05 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 15:29:39",
-          "lat": -23.4702384,
-          "lon": -46.4619648
+          "referencia": "0.36 km de MULTIEIXO MANUTNEÇÃO - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 15:45:02",
+          "lat": -23.4793776,
+          "lon": -46.520064
         },
-        "distancia_km": 524.5,
+        "distancia_km": 520.2,
         "proximo": false
       },
       {
@@ -105,7 +105,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 15:29:05",
+          "data_hora_posicao": "27/11/2026 15:45:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -211,10 +211,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.64 km de BPM - ARARANGUÁ / SC - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 15:28:46",
-          "lat": -28.9196123,
-          "lon": -49.490001
+          "referencia": "0.69 km de FILIAL MIR CRICIÚMA - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 15:44:29",
+          "lat": -28.7932426,
+          "lon": -49.3510538
         },
         "distancia_km": null,
         "proximo": false
@@ -242,10 +242,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.76 km de CAB SERVICOS E TRANSPORTES LTDA - POMERODE/SC",
-          "data_hora_posicao": "27/11/2026 15:29:09",
-          "lat": -26.6959771,
-          "lon": -49.159525
+          "referencia": "1.39 km de 7ªRPM/GEIN/2ªCIA/1ºPEL - 1º PELOTÃO - POMERODE/SC",
+          "data_hora_posicao": "27/11/2026 15:38:53",
+          "lat": -26.7269933,
+          "lon": -49.1864253
         },
         "distancia_km": null,
         "proximo": false
@@ -273,12 +273,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.14 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 15:30:09",
-          "lat": -27.1594592,
-          "lon": -49.556496
+          "referencia": "3.35 km de POSTO MARCHETTI - IBIRAMA/SC",
+          "data_hora_posicao": "27/11/2026 15:44:32",
+          "lat": -27.0895008,
+          "lon": -49.5201728
         },
-        "distancia_km": 514.7,
+        "distancia_km": 506.4,
         "proximo": false
       }
     ],
@@ -290,5 +290,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T15:32:24"
+  "_gerado_em": "2026-11-27T15:47:31"
 }
