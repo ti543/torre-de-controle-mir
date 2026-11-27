@@ -13,12 +13,12 @@
         "frete_rs": 3483.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.52 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "27/11/2026 01:29:42",
-          "lat": -23.9665568,
-          "lon": -47.1307424
+          "referencia": "0.28 km de POSTO 60 (BRAZÃO) - JUQUITIBA/SP",
+          "data_hora_posicao": "27/11/2026 01:43:42",
+          "lat": -23.8939952,
+          "lon": -46.9846112
         },
-        "distancia_km": 87.6,
+        "distancia_km": 71.0,
         "proximo": false
       },
       {
@@ -34,11 +34,26 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 01:28:12",
+          "data_hora_posicao": "27/11/2026 01:44:12",
           "lat": -26.887408,
           "lon": -48.7212416
         },
         "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024250-1",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 6415.51,
+        "frete_rs": 9742.09,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -54,7 +69,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.14 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "27/11/2026 01:28:37",
+          "data_hora_posicao": "27/11/2026 01:44:37",
           "lat": -25.659496,
           "lon": -49.1550752
         },
@@ -114,9 +129,9 @@
         "qtde": 1
       },
       "Itajaí": {
-        "peso_kg": 13156.7,
-        "frete_rs": 16630.27,
-        "qtde": 1
+        "peso_kg": 19572.21,
+        "frete_rs": 26372.36,
+        "qtde": 2
       },
       "Rio do Sul": {
         "peso_kg": 61341.66,
@@ -144,12 +159,12 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 01:28:09",
-          "lat": -26.8873088,
-          "lon": -48.7218016
+          "referencia": "0.21 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 01:44:53",
+          "lat": -26.8656672,
+          "lon": -48.7298016
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.7,
         "proximo": false
       },
       {
@@ -164,12 +179,12 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 01:28:09",
-          "lat": -26.8873088,
-          "lon": -48.7218016
+          "referencia": "0.21 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 01:44:53",
+          "lat": -26.8656672,
+          "lon": -48.7298016
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.7,
         "proximo": false
       },
       {
@@ -184,12 +199,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.77 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 01:28:31",
-          "lat": -25.8466208,
-          "lon": -49.0953856
+          "referencia": "1.2 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
+          "data_hora_posicao": "27/11/2026 01:45:07",
+          "lat": -25.8666992,
+          "lon": -48.9482848
         },
-        "distancia_km": 160.9,
+        "distancia_km": 164.5,
         "proximo": false
       },
       {
@@ -204,12 +219,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.15 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "27/11/2026 01:27:06",
-          "lat": -23.947016,
-          "lon": -47.0991392
+          "referencia": "0.08 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 01:39:06",
+          "lat": -24.0375312,
+          "lon": -47.190064
         },
-        "distancia_km": 443.6,
+        "distancia_km": 430.0,
         "proximo": false
       },
       {
@@ -239,12 +254,12 @@
         "frete_rs": 6418.32,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 01:28:09",
-          "lat": -26.8873088,
-          "lon": -48.7218016
+          "referencia": "0.21 km de COMAVIX ARMAZÉNS GERAIS - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 01:44:53",
+          "lat": -26.8656672,
+          "lon": -48.7298016
         },
-        "distancia_km": 98.5,
+        "distancia_km": 98.7,
         "proximo": false
       },
       {
@@ -260,9 +275,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 01:29:05",
-          "lat": -29.1462272,
-          "lon": -51.1647456
+          "data_hora_posicao": "27/11/2026 01:45:05",
+          "lat": -29.1461984,
+          "lon": -51.1647904
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -321,7 +336,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 01:28:15",
+          "data_hora_posicao": "27/11/2026 01:44:15",
           "lat": -22.8469583333333,
           "lon": -47.124755
         },
@@ -341,7 +356,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 01:28:15",
+          "data_hora_posicao": "27/11/2026 01:44:15",
           "lat": -22.8469583333333,
           "lon": -47.124755
         },
@@ -360,10 +375,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de CASAS BAHIA - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 01:29:21",
-          "lat": -23.238512,
-          "lon": -46.8692928
+          "referencia": "0.16 km de DELEGACIA DE POLÍCIA CIVIL - LOUVEIRA/SP",
+          "data_hora_posicao": "27/11/2026 01:44:57",
+          "lat": -23.0939136,
+          "lon": -46.9702848
         },
         "distancia_km": null,
         "proximo": false
@@ -380,10 +395,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.25 km de CASAS BAHIA - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 01:29:21",
-          "lat": -23.238512,
-          "lon": -46.8692928
+          "referencia": "0.16 km de DELEGACIA DE POLÍCIA CIVIL - LOUVEIRA/SP",
+          "data_hora_posicao": "27/11/2026 01:44:57",
+          "lat": -23.0939136,
+          "lon": -46.9702848
         },
         "distancia_km": null,
         "proximo": false
@@ -400,10 +415,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.25 km de CASAS BAHIA - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 01:29:21",
-          "lat": -23.238512,
-          "lon": -46.8692928
+          "referencia": "0.16 km de DELEGACIA DE POLÍCIA CIVIL - LOUVEIRA/SP",
+          "data_hora_posicao": "27/11/2026 01:44:57",
+          "lat": -23.0939136,
+          "lon": -46.9702848
         },
         "distancia_km": null,
         "proximo": false
@@ -420,10 +435,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.25 km de CASAS BAHIA - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 01:29:21",
-          "lat": -23.238512,
-          "lon": -46.8692928
+          "referencia": "0.16 km de DELEGACIA DE POLÍCIA CIVIL - LOUVEIRA/SP",
+          "data_hora_posicao": "27/11/2026 01:44:57",
+          "lat": -23.0939136,
+          "lon": -46.9702848
         },
         "distancia_km": null,
         "proximo": false
@@ -467,7 +482,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO SIM | CAJATI - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 01:29:05",
+          "data_hora_posicao": "27/11/2026 01:45:05",
           "lat": -24.7792432,
           "lon": -48.1861536
         },
@@ -512,12 +527,12 @@
         "frete_rs": 9791.05,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.19 km de DELEGACIA SECCIONAL DE POLÍCIA - JACUPIRANGA/SP",
-          "data_hora_posicao": "27/11/2026 01:29:48",
-          "lat": -24.7023792,
-          "lon": -48.0089248
+          "referencia": "0.5 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 01:43:48",
+          "lat": -24.7559264,
+          "lon": -48.1622784
         },
-        "distancia_km": 158.7,
+        "distancia_km": 142.7,
         "proximo": false
       },
       {
@@ -532,12 +547,12 @@
         "frete_rs": 5919.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.15 km de POSTO 71 - JUQUITIBA/SP",
-          "data_hora_posicao": "27/11/2026 01:27:06",
-          "lat": -23.947016,
-          "lon": -47.0991392
+          "referencia": "0.08 km de AUTO POSTO RUFF - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 01:39:06",
+          "lat": -24.0375312,
+          "lon": -47.190064
         },
-        "distancia_km": 283.0,
+        "distancia_km": 269.5,
         "proximo": false
       },
       {
@@ -553,7 +568,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 01:28:26",
+          "data_hora_posicao": "27/11/2026 01:44:26",
           "lat": -26.8874466666667,
           "lon": -48.7212166666667
         },
@@ -615,9 +630,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 01:29:05",
-          "lat": -29.1462272,
-          "lon": -51.1647456
+          "data_hora_posicao": "27/11/2026 01:45:05",
+          "lat": -29.1461984,
+          "lon": -51.1647904
         },
         "distancia_km": null,
         "proximo": false
@@ -646,7 +661,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 01:30:01",
+          "data_hora_posicao": "27/11/2026 01:42:01",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -677,9 +692,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 01:28:24",
+          "data_hora_posicao": "27/11/2026 01:44:24",
           "lat": -29.9833664,
-          "lon": -51.1866304
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -693,5 +708,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T01:32:29"
+  "_gerado_em": "2026-11-27T01:47:29"
 }
