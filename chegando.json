@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 18:44:56",
+          "data_hora_posicao": "27/11/2026 18:59:24",
           "lat": -28.4685755,
           "lon": -49.0189251
         },
@@ -33,12 +33,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.38 km de CONCESSIONARIA MERCEDES BENZ - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 18:45:11",
-          "lat": -29.9716368,
-          "lon": -51.180317
+          "referencia": "0.28 km de TAURUS WOTAN MAQUINAS E FERRAMENTAS LTDA - GRAVATAI/RS",
+          "data_hora_posicao": "27/11/2026 19:00:02",
+          "lat": -29.9550555,
+          "lon": -51.0048895
         },
-        "distancia_km": 418.8,
+        "distancia_km": 407.7,
         "proximo": false
       }
     ],
@@ -95,12 +95,12 @@
         "frete_rs": 854.14,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.02 km de SAMSUNG ELETRONICA DA AMAZONIA LTDA - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 18:44:47",
-          "lat": -22.8453733333333,
-          "lon": -47.03503
+          "referencia": "1.47 km de POSTO DOM PEDRO I - VALINHOS/SP",
+          "data_hora_posicao": "27/11/2026 18:54:47",
+          "lat": -22.90212,
+          "lon": -46.98341
         },
-        "distancia_km": 90.9,
+        "distancia_km": 82.7,
         "proximo": false
       },
       {
@@ -115,12 +115,52 @@
         "frete_rs": 1310.12,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.02 km de SAMSUNG ELETRONICA DA AMAZONIA LTDA - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 18:44:47",
-          "lat": -22.8453733333333,
-          "lon": -47.03503
+          "referencia": "1.47 km de POSTO DOM PEDRO I - VALINHOS/SP",
+          "data_hora_posicao": "27/11/2026 18:54:47",
+          "lat": -22.90212,
+          "lon": -46.98341
         },
-        "distancia_km": 90.9,
+        "distancia_km": 82.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024258-6",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 8257.4,
+        "frete_rs": 14482.75,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 18:59:45",
+          "lat": -26.8877504,
+          "lon": -48.7207136
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "ITJ024259-4",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 2239.08,
+        "frete_rs": 3535.01,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 18:59:45",
+          "lat": -26.8877504,
+          "lon": -48.7207136
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -136,7 +176,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 18:44:43",
+          "data_hora_posicao": "27/11/2026 18:58:32",
           "lat": -26.8876704,
           "lon": -48.7206752
         },
@@ -148,6 +188,11 @@
       "Campinas": {
         "peso_kg": 1185.23,
         "frete_rs": 2164.2599999999998,
+        "qtde": 2
+      },
+      "Itajaí": {
+        "peso_kg": 10496.48,
+        "frete_rs": 18017.760000000002,
         "qtde": 2
       },
       "Rio do Sul": {
@@ -171,12 +216,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.43 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 18:44:51",
-          "lat": -22.852184,
-          "lon": -47.1190368
+          "referencia": "2.54 km de WDR TRANSPORTES LTDA - CAMPINAS/SP",
+          "data_hora_posicao": "27/11/2026 18:59:54",
+          "lat": -22.9114304,
+          "lon": -47.1368064
         },
-        "distancia_km": 547.1,
+        "distancia_km": 540.4,
         "proximo": false
       },
       {
@@ -191,12 +236,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 18:45:05",
-          "lat": -27.823824,
-          "lon": -50.3625824
+          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 19:00:08",
+          "lat": -27.8193248,
+          "lon": -50.3620288
         },
-        "distancia_km": 98.3,
+        "distancia_km": 97.9,
         "proximo": false
       },
       {
@@ -211,12 +256,32 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.33 km de POSTO 81 - JUQUITIBA/SP",
-          "data_hora_posicao": "27/11/2026 18:44:29",
-          "lat": -23.9675824,
-          "lon": -47.13232
+          "referencia": "0.15 km de PRF - POSTO DE FISCALIZAÇÃO - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 18:52:29",
+          "lat": -24.0341568,
+          "lon": -47.184512
         },
-        "distancia_km": 439.8,
+        "distancia_km": 430.7,
+        "proximo": false
+      },
+      {
+        "manif": "LGS001619-5",
+        "origin_unit": "LGS",
+        "origin_city": "LAGES/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "QJR4I97",
+        "motorista": "CARLOS SOARES DOS REIS",
+        "peso_real_kg": 2978.9,
+        "frete_rs": 3203.62,
+        "grupo_origem": "Caxias do Sul / Lages",
+        "posicao_raster": {
+          "referencia": "0.46 km de MULTI EXPRESS - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 18:58:06",
+          "lat": -27.82648,
+          "lon": -50.3625066666667
+        },
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -231,12 +296,12 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 18:45:05",
-          "lat": -27.823824,
-          "lon": -50.3625824
+          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 19:00:08",
+          "lat": -27.8193248,
+          "lon": -50.3620288
         },
-        "distancia_km": 98.3,
+        "distancia_km": 97.9,
         "proximo": false
       },
       {
@@ -251,12 +316,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 18:45:05",
-          "lat": -27.823824,
-          "lon": -50.3625824
+          "referencia": "0.17 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 19:00:08",
+          "lat": -27.8193248,
+          "lon": -50.3620288
         },
-        "distancia_km": 98.3,
+        "distancia_km": 97.9,
         "proximo": false
       },
       {
@@ -271,12 +336,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.74 km de LIQUIGAS DISTRIBUIDORA S/A - CENTRO OPERATIVO DE CANOAS - CANOAS/RS",
-          "data_hora_posicao": "27/11/2026 18:44:50",
-          "lat": -29.9723936,
-          "lon": -51.199248
+          "referencia": "0.47 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
+          "data_hora_posicao": "27/11/2026 18:58:24",
+          "lat": -29.844112,
+          "lon": -51.1919904
         },
-        "distancia_km": 342.8,
+        "distancia_km": 329.8,
         "proximo": false
       },
       {
@@ -291,12 +356,12 @@
         "frete_rs": 3913.07,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 18:44:29",
-          "lat": -27.1218675,
-          "lon": -49.5357045
+          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "27/11/2026 18:55:34",
+          "lat": -27.1357363,
+          "lon": -49.54329
         },
-        "distancia_km": 14.7,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -322,9 +387,9 @@
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
-        "peso_kg": 7497.85,
-        "frete_rs": 7946.540000000001,
-        "qtde": 2
+        "peso_kg": 10476.75,
+        "frete_rs": 11150.16,
+        "qtde": 3
       },
       "Guarulhos": {
         "peso_kg": 12271.34,
@@ -357,10 +422,10 @@
         "frete_rs": 620.19,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.74 km de LIQUIGAS DISTRIBUIDORA S/A - CENTRO OPERATIVO DE CANOAS - CANOAS/RS",
-          "data_hora_posicao": "27/11/2026 18:44:50",
-          "lat": -29.9723936,
-          "lon": -51.199248
+          "referencia": "0.47 km de PÁTIO TRANSPORTES JR QUADROS - ESTEIO/RS",
+          "data_hora_posicao": "27/11/2026 18:58:24",
+          "lat": -29.844112,
+          "lon": -51.1919904
         },
         "distancia_km": null,
         "proximo": false
@@ -388,10 +453,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 18:44:29",
-          "lat": -27.1218675,
-          "lon": -49.5357045
+          "referencia": "0.01 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "27/11/2026 18:55:34",
+          "lat": -27.1357363,
+          "lon": -49.54329
         },
         "distancia_km": null,
         "proximo": false
@@ -405,5 +470,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T18:47:27"
+  "_gerado_em": "2026-11-27T19:02:27"
 }
