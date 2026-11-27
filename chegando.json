@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 06:44:09",
+          "data_hora_posicao": "27/11/2026 06:58:09",
           "lat": -27.2059392,
           "lon": -49.6488544
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 06:44:09",
+          "data_hora_posicao": "27/11/2026 06:58:09",
           "lat": -27.2059392,
           "lon": -49.6488544
         },
@@ -53,12 +53,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 06:44:31",
-          "lat": -27.1357152,
-          "lon": -49.5436416
+          "referencia": "1.6 km de PRF - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 06:58:31",
+          "lat": -27.1693216,
+          "lon": -49.565248
         },
-        "distancia_km": 13.1,
+        "distancia_km": 9.3,
         "proximo": true
       },
       {
@@ -73,12 +73,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.83 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "27/11/2026 06:45:06",
-          "lat": -25.4053168,
-          "lon": -49.0603744
+          "referencia": "0.22 km de AVN TRANSPORTES - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "27/11/2026 06:59:06",
+          "lat": -25.5452752,
+          "lon": -49.15072
         },
-        "distancia_km": 208.7,
+        "distancia_km": 191.2,
         "proximo": false
       },
       {
@@ -109,7 +109,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 06:44:09",
+          "data_hora_posicao": "27/11/2026 06:58:09",
           "lat": -27.2059392,
           "lon": -49.6488544
         },
@@ -129,7 +129,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 06:45:05",
+          "data_hora_posicao": "27/11/2026 06:59:05",
           "lat": -29.1462016,
           "lon": -51.1647936
         },
@@ -160,167 +160,6 @@
       }
     }
   },
-  "CMP": {
-    "veiculos": [
-      {
-        "manif": "GRU075169-3",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "ITUPEVA/SP",
-        "placa": "FYA9F12",
-        "motorista": "FREDERICO FAVA NETO",
-        "peso_real_kg": 375.0,
-        "frete_rs": 1357.17,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075175-8",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 4749.2,
-        "frete_rs": 5678.64,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:44:16",
-          "lat": -22.846885,
-          "lon": -47.1247783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075176-6",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 605.0,
-        "frete_rs": 556.46,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:44:16",
-          "lat": -22.846885,
-          "lon": -47.1247783333333
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024240-3",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1298.7,
-        "frete_rs": 2740.57,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:43:21",
-          "lat": -22.8469232,
-          "lon": -47.1247904
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024241-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 108.0,
-        "frete_rs": 530.0,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:43:21",
-          "lat": -22.8469232,
-          "lon": -47.1247904
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044624-6",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 5615.76,
-        "frete_rs": 10291.67,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:43:21",
-          "lat": -22.8469232,
-          "lon": -47.1247904
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016543-3",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "CMP",
-        "dest_city": "CAMPINAS/SP",
-        "placa": "UMG2D54",
-        "motorista": "DANIEL DE LIMA EUFRAZIO",
-        "peso_real_kg": 1366.44,
-        "frete_rs": 3827.96,
-        "grupo_origem": "Timbó",
-        "posicao_raster": {
-          "referencia": "1.07 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 06:43:21",
-          "lat": -22.8469232,
-          "lon": -47.1247904
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 5729.2,
-        "frete_rs": 7592.27,
-        "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 1406.7,
-        "frete_rs": 3270.57,
-        "qtde": 2
-      },
-      "Rio do Sul": {
-        "peso_kg": 5615.76,
-        "frete_rs": 10291.67,
-        "qtde": 1
-      },
-      "Timbó": {
-        "peso_kg": 1366.44,
-        "frete_rs": 3827.96,
-        "qtde": 1
-      }
-    }
-  },
   "ITJ": {
     "veiculos": [
       {
@@ -335,12 +174,12 @@
         "frete_rs": 17808.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "27/11/2026 06:45:05",
-          "lat": -26.5537488,
-          "lon": -48.7200512
+          "referencia": "0.55 km de PRF - BARRA VELHA/SC",
+          "data_hora_posicao": "27/11/2026 06:59:05",
+          "lat": -26.605768,
+          "lon": -48.7243872
         },
-        "distancia_km": 37.1,
+        "distancia_km": 31.3,
         "proximo": false
       },
       {
@@ -381,12 +220,12 @@
         "frete_rs": 5919.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.83 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
-          "data_hora_posicao": "27/11/2026 06:45:06",
-          "lat": -25.4053168,
-          "lon": -49.0603744
+          "referencia": "0.22 km de AVN TRANSPORTES - SAO JOSE DOS PINHAIS/PR",
+          "data_hora_posicao": "27/11/2026 06:59:06",
+          "lat": -25.5452752,
+          "lon": -49.15072
         },
-        "distancia_km": 27.2,
+        "distancia_km": 14.7,
         "proximo": true
       }
     ],
@@ -438,12 +277,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.61 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 06:44:12",
-          "lat": -25.1098256,
-          "lon": -48.7991072
+          "referencia": "2.24 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 06:58:12",
+          "lat": -25.0853952,
+          "lon": -48.6420736
         },
-        "distancia_km": 298.9,
+        "distancia_km": 284.7,
         "proximo": false
       },
       {
@@ -473,12 +312,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 06:44:37",
-          "lat": -24.785688,
-          "lon": -48.1749984
+          "referencia": "1.9 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 06:58:37",
+          "lat": -24.7431472,
+          "lon": -48.1355552
         },
-        "distancia_km": 227.1,
+        "distancia_km": 221.1,
         "proximo": false
       },
       {
@@ -559,10 +398,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.49 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
-          "data_hora_posicao": "27/11/2026 06:44:04",
-          "lat": -27.0960183,
-          "lon": -48.6185006
+          "referencia": "1.58 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "27/11/2026 06:59:47",
+          "lat": -27.2553305,
+          "lon": -48.6314628
         },
         "distancia_km": null,
         "proximo": false
@@ -590,10 +429,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.49 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
-          "data_hora_posicao": "27/11/2026 06:44:04",
-          "lat": -27.0960183,
-          "lon": -48.6185006
+          "referencia": "1.58 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "27/11/2026 06:59:47",
+          "lat": -27.2553305,
+          "lon": -48.6314628
         },
         "distancia_km": null,
         "proximo": false
@@ -621,10 +460,10 @@
         "frete_rs": 3883.65,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.49 km de 12ºBPM/4ªCIA - 4ª COMPANHIA - ITAPEMA/SC",
-          "data_hora_posicao": "27/11/2026 06:44:04",
-          "lat": -27.0960183,
-          "lon": -48.6185006
+          "referencia": "1.58 km de POSTO MACHADO II - TIJUCAS/SC",
+          "data_hora_posicao": "27/11/2026 06:59:47",
+          "lat": -27.2553305,
+          "lon": -48.6314628
         },
         "distancia_km": null,
         "proximo": false
@@ -652,12 +491,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO GIRASSOL LAGUNA - LAGUNA/SC",
-          "data_hora_posicao": "27/11/2026 06:44:11",
-          "lat": -28.3927828,
-          "lon": -48.779096
+          "referencia": "2.28 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "27/11/2026 06:59:41",
+          "lat": -28.4247676,
+          "lon": -48.941878
         },
-        "distancia_km": 293.1,
+        "distancia_km": 278.4,
         "proximo": false
       },
       {
@@ -672,12 +511,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO GIRASSOL LAGUNA - LAGUNA/SC",
-          "data_hora_posicao": "27/11/2026 06:44:11",
-          "lat": -28.3927828,
-          "lon": -48.779096
+          "referencia": "2.28 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "27/11/2026 06:59:41",
+          "lat": -28.4247676,
+          "lon": -48.941878
         },
-        "distancia_km": 293.1,
+        "distancia_km": 278.4,
         "proximo": false
       },
       {
@@ -693,9 +532,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 06:44:24",
-          "lat": -29.9833664,
-          "lon": -51.1866272
+          "data_hora_posicao": "27/11/2026 06:58:24",
+          "lat": -29.9833408,
+          "lon": -51.186608
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -729,7 +568,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 06:45:05",
+          "data_hora_posicao": "27/11/2026 06:59:05",
           "lat": -29.1462016,
           "lon": -51.1647936
         },
@@ -748,10 +587,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "27/11/2026 06:43:50",
-          "lat": -27.4856826,
-          "lon": -50.3774235
+          "referencia": "0.18 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
+          "data_hora_posicao": "27/11/2026 06:55:50",
+          "lat": -27.5991156,
+          "lon": -50.356512
         },
         "distancia_km": null,
         "proximo": false
@@ -785,7 +624,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 06:42:00",
+          "data_hora_posicao": "27/11/2026 06:58:00",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -815,10 +654,10 @@
         "frete_rs": 2536.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.67 km de POSTO 300 - PONTE ALTA/SC",
-          "data_hora_posicao": "27/11/2026 06:43:50",
-          "lat": -27.4856826,
-          "lon": -50.3774235
+          "referencia": "0.18 km de POLÍCIA MILITAR - CORREIA PINTO/SC",
+          "data_hora_posicao": "27/11/2026 06:55:50",
+          "lat": -27.5991156,
+          "lon": -50.356512
         },
         "distancia_km": null,
         "proximo": false
@@ -832,5 +671,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T06:47:27"
+  "_gerado_em": "2026-11-27T07:02:25"
 }
