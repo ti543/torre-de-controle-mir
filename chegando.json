@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:45:05",
+          "data_hora_posicao": "27/11/2026 13:59:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:45:05",
+          "data_hora_posicao": "27/11/2026 13:59:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,27 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "3.77 km de 2ªCIA/1ºPEL/1ºGP - 1º GRUPO - MASSARANDUBA/SC",
-          "data_hora_posicao": "27/11/2026 13:44:51",
-          "lat": -26.643496,
-          "lon": -49.0158336
+          "referencia": "0.04 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
+          "data_hora_posicao": "27/11/2026 13:59:06",
+          "lat": -26.7634624,
+          "lon": -49.077744
         },
-        "distancia_km": 88.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075174-0",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "FWF0J53",
-        "motorista": "MARINO JOSE ODORIZZI",
-        "peso_real_kg": 11785.17,
-        "frete_rs": 12130.16,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 75.1,
         "proximo": false
       },
       {
@@ -100,7 +85,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:45:05",
+          "data_hora_posicao": "27/11/2026 13:59:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -115,9 +100,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 19881.9,
-        "frete_rs": 21274.79,
-        "qtde": 2
+        "peso_kg": 8096.73,
+        "frete_rs": 9144.63,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -186,12 +171,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de AUTO POSTO NOSSA GENTE - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 13:44:12",
-          "lat": -23.4576704,
-          "lon": -46.4726496
+          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 13:58:12",
+          "lat": -23.4704784,
+          "lon": -46.462432
         },
-        "distancia_km": 1.8,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -218,7 +203,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:43:26",
+          "data_hora_posicao": "27/11/2026 13:59:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -249,7 +234,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:43:26",
+          "data_hora_posicao": "27/11/2026 13:59:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -262,57 +247,6 @@
         "peso_kg": 1519.44,
         "frete_rs": 2835.41,
         "qtde": 1
-      }
-    }
-  },
-  "POA": {
-    "veiculos": [
-      {
-        "manif": "ITJ024251-9",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 5620.33,
-        "frete_rs": 7772.39,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 13:42:28",
-          "lat": -29.9837306,
-          "lon": -51.1870415
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024252-7",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "POA",
-        "dest_city": "PORTO ALEGRE/RS",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 3967.0,
-        "frete_rs": 2101.55,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 13:42:28",
-          "lat": -29.9837306,
-          "lon": -51.1870415
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 9587.33,
-        "frete_rs": 9873.94,
-        "qtde": 2
       }
     }
   },
@@ -330,10 +264,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.49 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:44:09",
-          "lat": -29.1467903,
-          "lon": -51.1699006
+          "referencia": "0.13 km de MAXIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 13:58:41",
+          "lat": -29.1549931,
+          "lon": -51.1506286
         },
         "distancia_km": null,
         "proximo": false
@@ -350,10 +284,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.49 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:44:09",
-          "lat": -29.1467903,
-          "lon": -51.1699006
+          "referencia": "0.13 km de MAXIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 13:58:41",
+          "lat": -29.1549931,
+          "lon": -51.1506286
         },
         "distancia_km": null,
         "proximo": false
@@ -386,10 +320,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.9 km de ABI BELEM & CIA LTDA (CD BELEM SUPERMERCADOS) - SAO BENTO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 13:44:21",
-          "lat": -26.2652993,
-          "lon": -49.4345023
+          "referencia": "9.93 km de POSTO ZANDONÁ 13 - SAO BENTO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 13:58:09",
+          "lat": -26.3584,
+          "lon": -49.3608192
         },
         "distancia_km": null,
         "proximo": false
@@ -403,5 +337,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T13:47:26"
+  "_gerado_em": "2026-11-27T14:02:32"
 }
