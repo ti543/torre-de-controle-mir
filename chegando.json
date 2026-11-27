@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.31 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "27/11/2026 09:37:05",
-          "lat": -28.690432,
-          "lon": -51.2045088
+          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "27/11/2026 10:01:05",
+          "lat": -28.622336,
+          "lon": -51.0430592
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.31 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "27/11/2026 09:37:05",
-          "lat": -28.690432,
-          "lon": -51.2045088
+          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "27/11/2026 10:01:05",
+          "lat": -28.622336,
+          "lon": -51.0430592
         },
-        "distancia_km": 224.9,
+        "distancia_km": 208.7,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "27/11/2026 09:45:06",
-          "lat": -25.7102848,
-          "lon": -49.1408192
+          "referencia": "1.32 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
+          "data_hora_posicao": "27/11/2026 10:01:06",
+          "lat": -25.7212272,
+          "lon": -49.136832
         },
-        "distancia_km": 173.9,
+        "distancia_km": 172.8,
         "proximo": false
       },
       {
@@ -88,26 +88,6 @@
         "proximo": false
       },
       {
-        "manif": "GRU075228-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RYA0I16",
-        "motorista": "ODAIR JUSTO DA SILVA",
-        "peso_real_kg": 170.0,
-        "frete_rs": 275.61,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 09:45:00",
-          "lat": -23.4704945,
-          "lon": -46.4621601
-        },
-        "distancia_km": 524.5,
-        "proximo": false
-      },
-      {
         "manif": "POA016310-4",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -119,12 +99,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.31 km de POSTO A B L - IPE/RS",
-          "data_hora_posicao": "27/11/2026 09:37:05",
-          "lat": -28.690432,
-          "lon": -51.2045088
+          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
+          "data_hora_posicao": "27/11/2026 10:01:05",
+          "lat": -28.622336,
+          "lon": -51.0430592
         },
-        "distancia_km": 224.9,
+        "distancia_km": 208.7,
         "proximo": false
       }
     ],
@@ -135,9 +115,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 20051.9,
-        "frete_rs": 21550.4,
-        "qtde": 3
+        "peso_kg": 19881.9,
+        "frete_rs": 21274.79,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -232,12 +212,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.41 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
-          "data_hora_posicao": "27/11/2026 09:44:12",
-          "lat": -24.3294464,
-          "lon": -47.579136
+          "referencia": "0.76 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 10:00:12",
+          "lat": -24.2765504,
+          "lon": -47.4153088
         },
-        "distancia_km": 148.4,
+        "distancia_km": 132.0,
         "proximo": false
       },
       {
@@ -267,12 +247,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.07 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 02) - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 09:45:20",
-          "lat": -23.7770944,
-          "lon": -46.9153504
+          "referencia": "0.22 km de CHURRASCARIA CAMINHO DO SUL - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "27/11/2026 10:00:37",
+          "lat": -23.704576,
+          "lon": -46.8728768
         },
-        "distancia_km": 57.4,
+        "distancia_km": 49.3,
         "proximo": false
       },
       {
@@ -354,7 +334,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 09:45:36",
+          "data_hora_posicao": "27/11/2026 09:57:36",
           "lat": -28.4686161,
           "lon": -49.0189328
         },
@@ -385,7 +365,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 09:45:36",
+          "data_hora_posicao": "27/11/2026 09:57:36",
           "lat": -28.4686161,
           "lon": -49.0189328
         },
@@ -415,12 +395,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1 km de POSTO SIM LITORAL (PONTO DE APOIO) - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "27/11/2026 09:44:14",
-          "lat": -29.4385256,
-          "lon": -49.8992816
+          "referencia": "0.28 km de POSTO SIM TERRA DE AREIA - TERRA DE AREIA/RS",
+          "data_hora_posicao": "27/11/2026 10:00:58",
+          "lat": -29.5576363,
+          "lon": -50.040709
         },
-        "distancia_km": 138.3,
+        "distancia_km": 120.3,
         "proximo": false
       },
       {
@@ -435,12 +415,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1 km de POSTO SIM LITORAL (PONTO DE APOIO) - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "27/11/2026 09:44:14",
-          "lat": -29.4385256,
-          "lon": -49.8992816
+          "referencia": "0.28 km de POSTO SIM TERRA DE AREIA - TERRA DE AREIA/RS",
+          "data_hora_posicao": "27/11/2026 10:00:58",
+          "lat": -29.5576363,
+          "lon": -50.040709
         },
-        "distancia_km": 138.3,
+        "distancia_km": 120.3,
         "proximo": false
       }
     ],
@@ -466,10 +446,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "3.05 km de PRF - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 09:42:40",
-          "lat": -28.058112,
-          "lon": -50.569216
+          "referencia": "7.3 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "27/11/2026 09:56:53",
+          "lat": -28.1744601,
+          "lon": -50.6931941
         },
         "distancia_km": null,
         "proximo": false
@@ -486,10 +466,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.05 km de PRF - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 09:42:40",
-          "lat": -28.058112,
-          "lon": -50.569216
+          "referencia": "7.3 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
+          "data_hora_posicao": "27/11/2026 09:56:53",
+          "lat": -28.1744601,
+          "lon": -50.6931941
         },
         "distancia_km": null,
         "proximo": false
@@ -522,10 +502,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.19 km de CONCESSIONARIA MERCEDES BENZ - CANOINHAS/SC",
-          "data_hora_posicao": "27/11/2026 09:40:02",
-          "lat": -26.1897853,
-          "lon": -50.3683531
+          "referencia": "1.48 km de POSTO GUAPO - CANOINHAS/SC",
+          "data_hora_posicao": "27/11/2026 10:00:30",
+          "lat": -26.160633,
+          "lon": -50.378933
         },
         "distancia_km": null,
         "proximo": false
@@ -539,5 +519,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T09:47:44"
+  "_gerado_em": "2026-11-27T10:03:24"
 }
