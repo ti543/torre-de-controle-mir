@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.03 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 19:15:03",
+          "data_hora_posicao": "27/11/2026 19:27:24",
           "lat": -28.4685755,
           "lon": -49.0189251
         },
@@ -34,11 +34,31 @@
         "grupo_origem": "Brusque",
         "posicao_raster": {
           "referencia": "0.73 km de HIPERMERCADO KOCH - BRUSQUE/SC",
-          "data_hora_posicao": "27/11/2026 19:13:49",
-          "lat": -27.0965133333333,
-          "lon": -48.9306683333333
+          "data_hora_posicao": "27/11/2026 19:29:21",
+          "lat": -27.0964633333333,
+          "lon": -48.930665
         },
         "distancia_km": 31.2,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013693-0",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 1888.53,
+        "frete_rs": 2348.71,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.1 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 19:28:50",
+          "lat": -25.52727,
+          "lon": -49.2966983333333
+        },
+        "distancia_km": 161.8,
         "proximo": false
       },
       {
@@ -53,12 +73,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "2.49 km de PEDÁGIO DE GRAVATAÍ - GRAVATAI/RS",
-          "data_hora_posicao": "27/11/2026 19:13:42",
-          "lat": -29.9203865,
-          "lon": -50.8340406
+          "referencia": "9.79 km de DACOLÔNIA ALIMENTOS NATURAIS - FÁBRICA - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "27/11/2026 19:28:57",
+          "lat": -29.8863056,
+          "lon": -50.6330805
         },
-        "distancia_km": 395.5,
+        "distancia_km": 382.3,
         "proximo": false
       }
     ],
@@ -71,6 +91,11 @@
       "Brusque": {
         "peso_kg": 7466.66,
         "frete_rs": 8244.78,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 1888.53,
+        "frete_rs": 2348.71,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -120,12 +145,12 @@
         "frete_rs": 854.14,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 03 IRMÃOS - ITATIBA/SP",
-          "data_hora_posicao": "27/11/2026 19:14:11",
-          "lat": -22.9874666666667,
-          "lon": -46.8072483333333
+          "referencia": "0.53 km de BOSCH REXROTH LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "27/11/2026 19:27:59",
+          "lat": -23.0404833333333,
+          "lon": -46.6801366666667
         },
-        "distancia_km": 64.2,
+        "distancia_km": 52.7,
         "proximo": false
       },
       {
@@ -140,12 +165,32 @@
         "frete_rs": 1310.12,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO 03 IRMÃOS - ITATIBA/SP",
-          "data_hora_posicao": "27/11/2026 19:14:11",
-          "lat": -22.9874666666667,
-          "lon": -46.8072483333333
+          "referencia": "0.53 km de BOSCH REXROTH LTDA - ATIBAIA/SP",
+          "data_hora_posicao": "27/11/2026 19:27:59",
+          "lat": -23.0404833333333,
+          "lon": -46.6801366666667
         },
-        "distancia_km": 64.2,
+        "distancia_km": 52.7,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013695-6",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "TQM0A22",
+        "motorista": "DANIEL QUINA",
+        "peso_real_kg": 9075.23,
+        "frete_rs": 9312.73,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.02 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 19:29:48",
+          "lat": -25.5277984,
+          "lon": -49.295504
+        },
+        "distancia_km": 366.7,
         "proximo": false
       },
       {
@@ -160,10 +205,10 @@
         "frete_rs": 14482.75,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 19:14:41",
-          "lat": -26.8877376,
-          "lon": -48.7206752
+          "referencia": "0.08 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 19:29:45",
+          "lat": -26.8861408,
+          "lon": -48.7238336
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -180,10 +225,10 @@
         "frete_rs": 3535.01,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 19:14:41",
-          "lat": -26.8877376,
-          "lon": -48.7206752
+          "referencia": "0.08 km de POSTO SANTA ROSA - SIM REDE DE POSTOS - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 19:29:45",
+          "lat": -26.8861408,
+          "lon": -48.7238336
         },
         "distancia_km": 442.7,
         "proximo": false
@@ -201,7 +246,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 19:14:32",
+          "data_hora_posicao": "27/11/2026 19:28:32",
           "lat": -26.8876704,
           "lon": -48.7206752
         },
@@ -214,6 +259,11 @@
         "peso_kg": 1185.23,
         "frete_rs": 2164.2599999999998,
         "qtde": 2
+      },
+      "Curitiba": {
+        "peso_kg": 9075.23,
+        "frete_rs": 9312.73,
+        "qtde": 1
       },
       "Itajaí": {
         "peso_kg": 10496.48,
@@ -241,12 +291,32 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.33 km de AUTO POSTO VIVI - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 19:15:17",
-          "lat": -23.0510928,
-          "lon": -47.0518144
+          "referencia": "1.65 km de POSTO CAMPEÃO 68 - JUNDIAI/SP",
+          "data_hora_posicao": "27/11/2026 19:29:21",
+          "lat": -23.1319376,
+          "lon": -46.9801632
         },
-        "distancia_km": 530.8,
+        "distancia_km": 526.6,
+        "proximo": false
+      },
+      {
+        "manif": "CTB013694-8",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXT2B48",
+        "motorista": "ANDRE FILIPI HOLLER",
+        "peso_real_kg": 3283.9,
+        "frete_rs": 3127.26,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.1 km de A.J. FUCHS TRANSPORTES LTDA (MATRIZ) - JF TRANSPORTES - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 19:28:50",
+          "lat": -25.52727,
+          "lon": -49.2966983333333
+        },
+        "distancia_km": 190.0,
         "proximo": false
       },
       {
@@ -261,12 +331,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.43 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 19:15:18",
-          "lat": -27.7490592,
-          "lon": -50.3348576
+          "referencia": "3.41 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "27/11/2026 19:25:05",
+          "lat": -27.6659296,
+          "lon": -50.3361536
         },
-        "distancia_km": 90.6,
+        "distancia_km": 84.9,
         "proximo": false
       },
       {
@@ -281,12 +351,12 @@
         "frete_rs": 7367.72,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 19:11:40",
-          "lat": -29.1464848,
-          "lon": -51.1653113
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 19:28:02",
+          "lat": -29.146361,
+          "lon": -51.164933
         },
-        "distancia_km": 262.0,
+        "distancia_km": 261.9,
         "proximo": false
       },
       {
@@ -301,12 +371,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.16 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 19:14:29",
-          "lat": -24.1662256,
-          "lon": -47.3340544
+          "referencia": "1.36 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 19:28:29",
+          "lat": -24.2785952,
+          "lon": -47.4207776
         },
-        "distancia_km": 410.0,
+        "distancia_km": 394.7,
         "proximo": false
       },
       {
@@ -322,7 +392,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.46 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 19:13:00",
+          "data_hora_posicao": "27/11/2026 19:28:03",
           "lat": -27.82648,
           "lon": -50.3625066666667
         },
@@ -341,12 +411,12 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.43 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 19:15:18",
-          "lat": -27.7490592,
-          "lon": -50.3348576
+          "referencia": "3.41 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "27/11/2026 19:25:05",
+          "lat": -27.6659296,
+          "lon": -50.3361536
         },
-        "distancia_km": 90.6,
+        "distancia_km": 84.9,
         "proximo": false
       },
       {
@@ -361,12 +431,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.43 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 19:15:18",
-          "lat": -27.7490592,
-          "lon": -50.3348576
+          "referencia": "3.41 km de POSTO AMERICAN OIL - CORREIA PINTO - CORREIA PINTO/SC",
+          "data_hora_posicao": "27/11/2026 19:25:05",
+          "lat": -27.6659296,
+          "lon": -50.3361536
         },
-        "distancia_km": 90.6,
+        "distancia_km": 84.9,
         "proximo": false
       },
       {
@@ -381,12 +451,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO SPOLIER - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "27/11/2026 19:14:24",
-          "lat": -29.7256192,
-          "lon": -51.1671648
+          "referencia": "0.93 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "27/11/2026 19:28:24",
+          "lat": -29.631872,
+          "lon": -51.3035264
         },
-        "distancia_km": 317.0,
+        "distancia_km": 314.5,
         "proximo": false
       },
       {
@@ -401,12 +471,12 @@
         "frete_rs": 3913.07,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 19:14:40",
-          "lat": -27.1361191,
-          "lon": -49.5437631
+          "referencia": "0.22 km de JOHN DEERE DO BRASIL - NAPALHA - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 19:28:18",
+          "lat": -27.1998978,
+          "lon": -49.6315013
         },
-        "distancia_km": 13.1,
+        "distancia_km": 1.9,
         "proximo": true
       },
       {
@@ -429,6 +499,11 @@
       "Campinas": {
         "peso_kg": 2168.37,
         "frete_rs": 6217.76,
+        "qtde": 1
+      },
+      "Curitiba": {
+        "peso_kg": 3283.9,
+        "frete_rs": 3127.26,
         "qtde": 1
       },
       "Caxias do Sul / Lages": {
@@ -467,10 +542,10 @@
         "frete_rs": 620.19,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO SPOLIER - SAO LEOPOLDO/RS",
-          "data_hora_posicao": "27/11/2026 19:14:24",
-          "lat": -29.7256192,
-          "lon": -51.1671648
+          "referencia": "0.93 km de POSTO SIM RETRÔ - SAO SEBASTIAO DO CAI/RS",
+          "data_hora_posicao": "27/11/2026 19:28:24",
+          "lat": -29.631872,
+          "lon": -51.3035264
         },
         "distancia_km": null,
         "proximo": false
@@ -498,10 +573,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 19:14:40",
-          "lat": -27.1361191,
-          "lon": -49.5437631
+          "referencia": "0.22 km de JOHN DEERE DO BRASIL - NAPALHA - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 19:28:18",
+          "lat": -27.1998978,
+          "lon": -49.6315013
         },
         "distancia_km": null,
         "proximo": false
@@ -515,5 +590,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T19:17:32"
+  "_gerado_em": "2026-11-27T19:32:23"
 }
