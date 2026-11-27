@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.78 km de POSTO MAZZUCO - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 15:00:15",
-          "lat": -28.9351951,
-          "lon": -49.5182538
+          "referencia": "1.85 km de CONCESSIONARIA MERCEDES BENZ - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 15:14:49",
+          "lat": -28.9290266,
+          "lon": -49.5118936
         },
-        "distancia_km": 240.8,
+        "distancia_km": 239.9,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:59:05",
+          "data_hora_posicao": "27/11/2026 15:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,12 +64,32 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.54 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "27/11/2026 14:59:06",
-          "lat": -26.8999136,
-          "lon": -49.2670816
+          "referencia": "1.48 km de POSTO ZANDONÁ 09 - ASCURRA/SC",
+          "data_hora_posicao": "27/11/2026 15:15:06",
+          "lat": -26.949536,
+          "lon": -49.359136
         },
-        "distancia_km": 50.9,
+        "distancia_km": 40.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075234-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "SXS3A23",
+        "motorista": "NILSON PORTO",
+        "peso_real_kg": 12271.34,
+        "frete_rs": 15849.62,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 15:14:29",
+          "lat": -23.4705536,
+          "lon": -46.4620384
+        },
+        "distancia_km": 524.5,
         "proximo": false
       },
       {
@@ -85,7 +105,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:59:05",
+          "data_hora_posicao": "27/11/2026 15:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -100,9 +120,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 8096.73,
-        "frete_rs": 9144.63,
-        "qtde": 1
+        "peso_kg": 20368.07,
+        "frete_rs": 24994.25,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -191,10 +211,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.78 km de POSTO MAZZUCO - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 15:00:15",
-          "lat": -28.9351951,
-          "lon": -49.5182538
+          "referencia": "1.85 km de CONCESSIONARIA MERCEDES BENZ - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 15:14:49",
+          "lat": -28.9290266,
+          "lon": -49.5118936
         },
         "distancia_km": null,
         "proximo": false
@@ -222,10 +242,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.01 km de SPEED CARGO ENCOMENDAS - JARAGUA DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 15:00:29",
-          "lat": -26.5101118,
-          "lon": -49.11229
+          "referencia": "0.6 km de TRITEC INDUSTRIA E COMERCIO DE PLÁSTICOS LTDA - JARAGUA DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 15:05:20",
+          "lat": -26.5299138,
+          "lon": -49.1326968
         },
         "distancia_km": null,
         "proximo": false
@@ -254,7 +274,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 15:00:32",
+          "data_hora_posicao": "27/11/2026 15:14:32",
           "lat": -27.2060416,
           "lon": -49.6490144
         },
@@ -270,5 +290,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T15:02:26"
+  "_gerado_em": "2026-11-27T15:17:31"
 }
