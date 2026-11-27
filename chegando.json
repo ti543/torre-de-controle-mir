@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.15 km de CONCESSIONARIA VOLVO - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 17:44:12",
-          "lat": -28.756916,
-          "lon": -49.2805008
+          "referencia": "0.2 km de POSTO PLANALTO 01 - SANGAO/SC",
+          "data_hora_posicao": "27/11/2026 17:59:09",
+          "lat": -28.6658561,
+          "lon": -49.1145273
         },
-        "distancia_km": 215.0,
+        "distancia_km": 201.5,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:43:05",
+          "data_hora_posicao": "27/11/2026 17:59:05",
           "lat": -27.8238304,
           "lon": -50.3630752
         },
@@ -64,12 +64,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.26 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "27/11/2026 17:44:29",
-          "lat": -23.6378304,
-          "lon": -46.8341056
+          "referencia": "0.33 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 17:58:29",
+          "lat": -23.6552848,
+          "lon": -46.8495232
         },
-        "distancia_km": 487.2,
+        "distancia_km": 484.7,
         "proximo": false
       },
       {
@@ -85,7 +85,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:43:05",
+          "data_hora_posicao": "27/11/2026 17:59:05",
           "lat": -27.8238304,
           "lon": -50.3630752
         },
@@ -104,12 +104,12 @@
         "frete_rs": 3913.07,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.38 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "27/11/2026 17:44:21",
-          "lat": -26.8655775,
-          "lon": -49.2570708
+          "referencia": "1.97 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "27/11/2026 17:59:03",
+          "lat": -26.9099796,
+          "lon": -49.2761631
         },
-        "distancia_km": 54.3,
+        "distancia_km": 49.5,
         "proximo": false
       }
     ],
@@ -202,37 +202,6 @@
       }
     }
   },
-  "CRC": {
-    "veiculos": [
-      {
-        "manif": "ITJ024247-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "CRC",
-        "dest_city": "ICARA/SC",
-        "placa": "RDW1H87",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 1519.44,
-        "frete_rs": 2835.41,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.15 km de CONCESSIONARIA VOLVO - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 17:44:12",
-          "lat": -28.756916,
-          "lon": -49.2805008
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 1519.44,
-        "frete_rs": 2835.41,
-        "qtde": 1
-      }
-    }
-  },
   "JCB": {
     "veiculos": [
       {
@@ -247,10 +216,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.38 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
-          "data_hora_posicao": "27/11/2026 17:44:21",
-          "lat": -26.8655775,
-          "lon": -49.2570708
+          "referencia": "1.97 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "27/11/2026 17:59:03",
+          "lat": -26.9099796,
+          "lon": -49.2761631
         },
         "distancia_km": null,
         "proximo": false
@@ -278,12 +247,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.03 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
-          "data_hora_posicao": "27/11/2026 17:44:32",
-          "lat": -26.8820576,
-          "lon": -48.997216
+          "referencia": "0.11 km de POSTO JUNINHO - ILHOTA/SC",
+          "data_hora_posicao": "27/11/2026 17:56:32",
+          "lat": -26.8906016,
+          "lon": -48.8833568
         },
-        "distancia_km": 457.1,
+        "distancia_km": 451.6,
         "proximo": false
       }
     ],
@@ -295,5 +264,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T17:47:31"
+  "_gerado_em": "2026-11-27T18:02:28"
 }
