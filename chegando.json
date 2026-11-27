@@ -1,35 +1,4 @@
 {
-  "LGS": {
-    "veiculos": [
-      {
-        "manif": "CXS002257-8",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "LGS",
-        "dest_city": "LAGES/SC",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 75.0,
-        "frete_rs": 218.04,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:59:05",
-          "lat": -27.823952,
-          "lon": -50.3629088
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 75.0,
-        "frete_rs": 218.04,
-        "qtde": 1
-      }
-    }
-  },
   "RSL": {
     "veiculos": [
       {
@@ -45,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:59:05",
+          "data_hora_posicao": "27/11/2026 14:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,12 +33,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de 3ª COMPANHIA DE POLÍCIA MILITAR RODOVIÁRIA - BLUMENAU/SC",
-          "data_hora_posicao": "27/11/2026 13:59:06",
-          "lat": -26.7634624,
-          "lon": -49.077744
+          "referencia": "0.92 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
+          "data_hora_posicao": "27/11/2026 14:15:06",
+          "lat": -26.8414912,
+          "lon": -49.0912672
         },
-        "distancia_km": 75.1,
+        "distancia_km": 68.6,
         "proximo": false
       },
       {
@@ -85,7 +54,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:59:05",
+          "data_hora_posicao": "27/11/2026 14:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -171,10 +140,10 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 13:58:12",
-          "lat": -23.4704784,
-          "lon": -46.462432
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 14:14:12",
+          "lat": -23.4706096,
+          "lon": -46.4621376
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -203,7 +172,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:59:26",
+          "data_hora_posicao": "27/11/2026 14:11:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -234,7 +203,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:59:26",
+          "data_hora_posicao": "27/11/2026 14:11:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -264,10 +233,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.13 km de MAXIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:58:41",
-          "lat": -29.1549931,
-          "lon": -51.1506286
+          "referencia": "0.19 km de MAXIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 14:13:19",
+          "lat": -29.1566901,
+          "lon": -51.1493931
         },
         "distancia_km": null,
         "proximo": false
@@ -284,10 +253,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.13 km de MAXIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:58:41",
-          "lat": -29.1549931,
-          "lon": -51.1506286
+          "referencia": "0.19 km de MAXIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 14:13:19",
+          "lat": -29.1566901,
+          "lon": -51.1493931
         },
         "distancia_km": null,
         "proximo": false
@@ -320,10 +289,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "9.93 km de POSTO ZANDONÁ 13 - SAO BENTO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 13:58:09",
-          "lat": -26.3584,
-          "lon": -49.3608192
+          "referencia": "5.22 km de DP - CORUPÁ / SC - CORUPA/SC",
+          "data_hora_posicao": "27/11/2026 14:13:28",
+          "lat": -26.3998464,
+          "lon": -49.2973056
         },
         "distancia_km": null,
         "proximo": false
@@ -337,5 +306,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T14:02:32"
+  "_gerado_em": "2026-11-27T14:17:27"
 }
