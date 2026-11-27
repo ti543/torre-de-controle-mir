@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.2 km de POSTO PLANALTO 01 - SANGAO/SC",
-          "data_hora_posicao": "27/11/2026 17:59:09",
-          "lat": -28.6658561,
-          "lon": -49.1145273
+          "referencia": "0.17 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
+          "data_hora_posicao": "27/11/2026 18:15:26",
+          "lat": -28.4951445,
+          "lon": -49.0433473
         },
-        "distancia_km": 201.5,
+        "distancia_km": 181.6,
         "proximo": false
       }
     ],
@@ -26,6 +26,32 @@
       "ARR": {
         "peso_kg": 607.0,
         "frete_rs": 719.31,
+        "qtde": 1
+      }
+    }
+  },
+  "CMP": {
+    "veiculos": [
+      {
+        "manif": "CMP010477-9",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "KND6049",
+        "motorista": "JAIME ROBERTO DE MOURA",
+        "peso_real_kg": 991.2,
+        "frete_rs": 1757.0,
+        "grupo_origem": "Campinas",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 991.2,
+        "frete_rs": 1757.0,
         "qtde": 1
       }
     }
@@ -45,7 +71,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:59:05",
+          "data_hora_posicao": "27/11/2026 18:15:05",
           "lat": -27.8238304,
           "lon": -50.3630752
         },
@@ -64,12 +90,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de IBEMA COMPANHIA BRASILEIRA DE PAPEL LTDA - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "27/11/2026 17:58:29",
-          "lat": -23.6552848,
-          "lon": -46.8495232
+          "referencia": "0.28 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "27/11/2026 18:14:29",
+          "lat": -23.7700864,
+          "lon": -46.910848
         },
-        "distancia_km": 484.7,
+        "distancia_km": 470.6,
         "proximo": false
       },
       {
@@ -85,7 +111,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:59:05",
+          "data_hora_posicao": "27/11/2026 18:15:05",
           "lat": -27.8238304,
           "lon": -50.3630752
         },
@@ -104,12 +130,27 @@
         "frete_rs": 3913.07,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.97 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "27/11/2026 17:59:03",
-          "lat": -26.9099796,
-          "lon": -49.2761631
+          "referencia": "1.16 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "27/11/2026 18:13:03",
+          "lat": -26.9754326,
+          "lon": -49.3679003
         },
-        "distancia_km": 49.5,
+        "distancia_km": 37.9,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016566-2",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1659.34,
+        "frete_rs": 2991.13,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
@@ -130,75 +171,9 @@
         "qtde": 1
       },
       "Timbó": {
-        "peso_kg": 2953.72,
-        "frete_rs": 3913.07,
-        "qtde": 1
-      }
-    }
-  },
-  "TBO": {
-    "veiculos": [
-      {
-        "manif": "GRU075178-2",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 8447.52,
-        "frete_rs": 13663.7,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "ITJ024257-8",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 1237.22,
-        "frete_rs": 1927.66,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044654-8",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "TBO",
-        "dest_city": "TIMBO/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1227.0,
-        "frete_rs": 384.0,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 8447.52,
-        "frete_rs": 13663.7,
-        "qtde": 1
-      },
-      "Itajaí": {
-        "peso_kg": 1237.22,
-        "frete_rs": 1927.66,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 1227.0,
-        "frete_rs": 384.0,
-        "qtde": 1
+        "peso_kg": 4613.0599999999995,
+        "frete_rs": 6904.200000000001,
+        "qtde": 2
       }
     }
   },
@@ -216,10 +191,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.97 km de WANKE S/A - MATRIZ - INDAIAL/SC",
-          "data_hora_posicao": "27/11/2026 17:59:03",
-          "lat": -26.9099796,
-          "lon": -49.2761631
+          "referencia": "1.16 km de POSTO FERRARI - ASCURRA/SC",
+          "data_hora_posicao": "27/11/2026 18:13:03",
+          "lat": -26.9754326,
+          "lon": -49.3679003
         },
         "distancia_km": null,
         "proximo": false
@@ -247,12 +222,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.11 km de POSTO JUNINHO - ILHOTA/SC",
-          "data_hora_posicao": "27/11/2026 17:56:32",
-          "lat": -26.8906016,
-          "lon": -48.8833568
+          "referencia": "0.55 km de POSTO RDP - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 18:14:32",
+          "lat": -26.8901792,
+          "lon": -48.7573248
         },
-        "distancia_km": 451.6,
+        "distancia_km": 444.9,
         "proximo": false
       }
     ],
@@ -264,5 +239,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T18:02:28"
+  "_gerado_em": "2026-11-27T18:17:32"
 }
