@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.08 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 03:14:53",
+          "data_hora_posicao": "27/11/2026 03:29:42",
           "lat": -23.4708992,
           "lon": -46.4613632
         },
@@ -33,12 +33,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.09 km de POSTO ZANDONÁ 14 - PENHA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:12",
-          "lat": -26.8324112,
-          "lon": -48.694752
+          "referencia": "0.17 km de POSTO PARADA FERRETTI - BARRA VELHA/SC",
+          "data_hora_posicao": "27/11/2026 03:28:12",
+          "lat": -26.6871264,
+          "lon": -48.6954496
         },
-        "distancia_km": 436.1,
+        "distancia_km": 422.5,
         "proximo": false
       },
       {
@@ -68,12 +68,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.78 km de PÁTIO RODOTRACK TRANSPORTES LTDA - PIRAQUARA/PR",
-          "data_hora_posicao": "27/11/2026 03:14:37",
-          "lat": -25.476624,
-          "lon": -49.0968352
+          "referencia": "0.24 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 10) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 03:28:37",
+          "lat": -25.33884,
+          "lon": -49.038048
         },
-        "distancia_km": 347.6,
+        "distancia_km": 333.4,
         "proximo": false
       },
       {
@@ -159,13 +159,13 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.07 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:09",
-          "lat": -27.0343936,
-          "lon": -49.3882976
+          "referencia": "0.21 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "27/11/2026 03:30:09",
+          "lat": -27.0829728,
+          "lon": -49.4824672
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 21.5,
+        "proximo": true
       },
       {
         "manif": "CTB013687-5",
@@ -179,13 +179,13 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.07 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:09",
-          "lat": -27.0343936,
-          "lon": -49.3882976
+          "referencia": "0.21 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "27/11/2026 03:30:09",
+          "lat": -27.0829728,
+          "lon": -49.4824672
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 21.5,
+        "proximo": true
       },
       {
         "manif": "GRU075168-5",
@@ -200,7 +200,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO MAIOCHI TREVO SUL (BRASKEM PARADA PROIBIDA PARA PERNOITE) - ARAQUARI/SC",
-          "data_hora_posicao": "27/11/2026 03:14:31",
+          "data_hora_posicao": "27/11/2026 03:28:31",
           "lat": -26.4369056,
           "lon": -48.81392
         },
@@ -219,12 +219,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.59 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "27/11/2026 03:15:06",
-          "lat": -24.6624944,
-          "lon": -47.9716224
+          "referencia": "0.52 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 03:29:06",
+          "lat": -24.7384512,
+          "lon": -48.1226848
         },
-        "distancia_km": 328.9,
+        "distancia_km": 314.0,
         "proximo": false
       },
       {
@@ -254,13 +254,13 @@
         "frete_rs": 6418.32,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de RESTAURANTE E LANCHONETE CENTRAL - APIUNA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:09",
-          "lat": -27.0343936,
-          "lon": -49.3882976
+          "referencia": "0.21 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
+          "data_hora_posicao": "27/11/2026 03:30:09",
+          "lat": -27.0829728,
+          "lon": -49.4824672
         },
-        "distancia_km": 32.2,
-        "proximo": false
+        "distancia_km": 21.5,
+        "proximo": true
       },
       {
         "manif": "POA016310-4",
@@ -275,7 +275,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 03:15:05",
+          "data_hora_posicao": "27/11/2026 03:29:05",
           "lat": -29.1461984,
           "lon": -51.1647904
         },
@@ -336,7 +336,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:14:13",
+          "data_hora_posicao": "27/11/2026 03:28:13",
           "lat": -22.8469583333333,
           "lon": -47.124755
         },
@@ -356,7 +356,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:14:13",
+          "data_hora_posicao": "27/11/2026 03:28:13",
           "lat": -22.8469583333333,
           "lon": -47.124755
         },
@@ -376,7 +376,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:13:59",
+          "data_hora_posicao": "27/11/2026 03:29:21",
           "lat": -22.8470064,
           "lon": -47.1247264
         },
@@ -396,7 +396,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:13:59",
+          "data_hora_posicao": "27/11/2026 03:29:21",
           "lat": -22.8470064,
           "lon": -47.1247264
         },
@@ -416,7 +416,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:13:59",
+          "data_hora_posicao": "27/11/2026 03:29:21",
           "lat": -22.8470064,
           "lon": -47.1247264
         },
@@ -436,7 +436,7 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "27/11/2026 03:13:59",
+          "data_hora_posicao": "27/11/2026 03:29:21",
           "lat": -22.8470064,
           "lon": -47.1247264
         },
@@ -481,12 +481,12 @@
         "frete_rs": 17808.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.88 km de AUTO POSTO PALHOÇA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 03:15:05",
-          "lat": -25.0984752,
-          "lon": -48.6843744
+          "referencia": "0.31 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 03:25:05",
+          "lat": -25.10868,
+          "lon": -48.7963488
         },
-        "distancia_km": 199.0,
+        "distancia_km": 197.9,
         "proximo": false
       },
       {
@@ -527,12 +527,12 @@
         "frete_rs": 9791.05,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.75 km de POSTO ALPINO 02 (REDE PELANDA) - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 03:13:48",
-          "lat": -25.1077632,
-          "lon": -48.7764288
+          "referencia": "1.53 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 03:29:48",
+          "lat": -25.2061216,
+          "lon": -48.89544
         },
-        "distancia_km": 70.0,
+        "distancia_km": 53.8,
         "proximo": false
       },
       {
@@ -547,12 +547,12 @@
         "frete_rs": 5919.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.59 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "27/11/2026 03:15:06",
-          "lat": -24.6624944,
-          "lon": -47.9716224
+          "referencia": "0.52 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 03:29:06",
+          "lat": -24.7384512,
+          "lon": -48.1226848
         },
-        "distancia_km": 164.4,
+        "distancia_km": 147.1,
         "proximo": false
       },
       {
@@ -567,12 +567,12 @@
         "frete_rs": 4268.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.27 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:25",
-          "lat": -26.1105033333333,
-          "lon": -48.87413
+          "referencia": "0.2 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "27/11/2026 03:28:24",
+          "lat": -25.9700033333333,
+          "lon": -48.8929983333333
         },
-        "distancia_km": 77.3,
+        "distancia_km": 63.6,
         "proximo": false
       },
       {
@@ -587,12 +587,12 @@
         "frete_rs": 5276.89,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.27 km de BALANÇA - GARUVA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:25",
-          "lat": -26.1105033333333,
-          "lon": -48.87413
+          "referencia": "0.2 km de RESTAURANTE RODA DÁGUA - GUARATUBA/PR",
+          "data_hora_posicao": "27/11/2026 03:28:24",
+          "lat": -25.9700033333333,
+          "lon": -48.8929983333333
         },
-        "distancia_km": 77.3,
+        "distancia_km": 63.6,
         "proximo": false
       }
     ],
@@ -655,7 +655,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 03:15:05",
+          "data_hora_posicao": "27/11/2026 03:29:05",
           "lat": -29.1461984,
           "lon": -51.1647904
         },
@@ -686,7 +686,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 03:14:01",
+          "data_hora_posicao": "27/11/2026 03:30:01",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -717,9 +717,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 03:14:24",
-          "lat": -29.983392,
-          "lon": -51.1866144
+          "data_hora_posicao": "27/11/2026 03:28:24",
+          "lat": -29.983376,
+          "lon": -51.186608
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -733,5 +733,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T03:17:27"
+  "_gerado_em": "2026-11-27T03:32:26"
 }
