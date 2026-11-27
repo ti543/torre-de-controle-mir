@@ -1,132 +1,6 @@
 {
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "ARR000253-4",
-        "origin_unit": "ARR",
-        "origin_city": "ARARANGUA/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 20.0,
-        "frete_rs": 258.16,
-        "grupo_origem": "ARR",
-        "posicao_raster": {
-          "referencia": "0.1 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 20:44:50",
-          "lat": -26.9105748,
-          "lon": -48.7127815
-        },
-        "distancia_km": 2.7,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013688-3",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPV8F30",
-        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
-        "peso_real_kg": 5953.83,
-        "frete_rs": 5554.76,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "1.03 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 20:44:42",
-          "lat": -25.8664224,
-          "lon": -48.946592
-        },
-        "distancia_km": 115.7,
-        "proximo": false
-      },
-      {
-        "manif": "GRU075170-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 13919.71,
-        "frete_rs": 17808.07,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 20:45:05",
-          "lat": -23.4705968,
-          "lon": -46.4623648
-        },
-        "distancia_km": 442.7,
-        "proximo": false
-      },
-      {
-        "manif": "TUB000410-3",
-        "origin_unit": "TUB",
-        "origin_city": "TUBARAO/SC",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RDY9A53",
-        "motorista": "ONESIO MARTINS",
-        "peso_real_kg": 1208.65,
-        "frete_rs": 1989.93,
-        "grupo_origem": "TUB",
-        "posicao_raster": {
-          "referencia": "0.1 km de MATRIZ BEVIANI TRANSPORTES - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 20:44:50",
-          "lat": -26.9105748,
-          "lon": -48.7127815
-        },
-        "distancia_km": 2.7,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "ARR": {
-        "peso_kg": 20.0,
-        "frete_rs": 258.16,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 5953.83,
-        "frete_rs": 5554.76,
-        "qtde": 1
-      },
-      "Guarulhos": {
-        "peso_kg": 13919.71,
-        "frete_rs": 17808.07,
-        "qtde": 1
-      },
-      "TUB": {
-        "peso_kg": 1208.65,
-        "frete_rs": 1989.93,
-        "qtde": 1
-      }
-    }
-  },
   "GRU": {
     "veiculos": [
-      {
-        "manif": "CMP010470-1",
-        "origin_unit": "CMP",
-        "origin_city": "CAMPINAS/SP",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RLB6A19",
-        "motorista": "MATEUS CARDOSO CHAVES",
-        "peso_real_kg": 3415.78,
-        "frete_rs": 4730.8,
-        "grupo_origem": "Campinas",
-        "posicao_raster": {
-          "referencia": "0.13 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "26/11/2026 20:44:52",
-          "lat": -23.4709616666667,
-          "lon": -46.46583
-        },
-        "distancia_km": 0.4,
-        "proximo": true
-      },
       {
         "manif": "CTB013682-4",
         "origin_unit": "CTB",
@@ -140,9 +14,9 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.02 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "26/11/2026 20:43:42",
-          "lat": -25.35056,
-          "lon": -49.0602528
+          "data_hora_posicao": "26/11/2026 20:59:42",
+          "lat": -25.3505104,
+          "lon": -49.0603232
         },
         "distancia_km": 336.0,
         "proximo": false
@@ -160,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "26/11/2026 20:44:12",
+          "data_hora_posicao": "26/11/2026 20:58:12",
           "lat": -26.8874624,
           "lon": -48.7212864
         },
@@ -179,21 +53,31 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.67 km de RESTAURANTE: CAPITÃO DOG E BURGUER - INDAIAL/SC",
-          "data_hora_posicao": "26/11/2026 20:44:37",
-          "lat": -26.8860736,
-          "lon": -49.250144
+          "referencia": "0.45 km de COMERCIAL GERDAU LTDA - BLUMENAU/SC",
+          "data_hora_posicao": "26/11/2026 20:59:23",
+          "lat": -26.8736864,
+          "lon": -49.1139264
         },
-        "distancia_km": 472.1,
+        "distancia_km": 463.0,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016551-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 12818.76,
+        "frete_rs": 17607.73,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       }
     ],
     "por_origem": {
-      "Campinas": {
-        "peso_kg": 3415.78,
-        "frete_rs": 4730.8,
-        "qtde": 1
-      },
       "Curitiba": {
         "peso_kg": 2538.92,
         "frete_rs": 3483.27,
@@ -207,6 +91,11 @@
       "Rio do Sul": {
         "peso_kg": 33112.11,
         "frete_rs": 21224.68,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 12818.76,
+        "frete_rs": 17607.73,
         "qtde": 1
       }
     }
@@ -225,12 +114,12 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.03 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 20:44:42",
-          "lat": -25.8664224,
-          "lon": -48.946592
+          "referencia": "0.19 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "26/11/2026 21:00:09",
+          "lat": -25.9933344,
+          "lon": -48.880544
         },
-        "distancia_km": 164.6,
+        "distancia_km": 155.0,
         "proximo": false
       },
       {
@@ -245,33 +134,13 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.03 km de AREA DE ESCAPE BR 376 - GUARATUBA/PR",
-          "data_hora_posicao": "26/11/2026 20:44:42",
-          "lat": -25.8664224,
-          "lon": -48.946592
+          "referencia": "0.19 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "26/11/2026 21:00:09",
+          "lat": -25.9933344,
+          "lon": -48.880544
         },
-        "distancia_km": 164.6,
+        "distancia_km": 155.0,
         "proximo": false
-      },
-      {
-        "manif": "CXS002256-0",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 794.8,
-        "frete_rs": 2196.18,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 20:45:00",
-          "lat": -27.2057568,
-          "lon": -49.6490272
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "GRU075168-5",
@@ -286,7 +155,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.11 km de POSTO DOM PEDRO MIRACATU SUL REDE PELANDA - MIRACATU/SP",
-          "data_hora_posicao": "26/11/2026 20:44:31",
+          "data_hora_posicao": "26/11/2026 20:59:01",
           "lat": -24.2661872,
           "lon": -47.3943584
         },
@@ -305,33 +174,13 @@
         "frete_rs": 1037.3,
         "grupo_origem": "JCB",
         "posicao_raster": {
-          "referencia": "5.01 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 20:39:26",
-          "lat": -27.2943733333333,
-          "lon": -50.1851733333333
+          "referencia": "7.57 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "26/11/2026 20:59:33",
+          "lat": -27.27024,
+          "lon": -50.0619733333333
         },
-        "distancia_km": 53.8,
+        "distancia_km": 41.4,
         "proximo": false
-      },
-      {
-        "manif": "POA016305-8",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 753.39,
-        "frete_rs": 1349.07,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "26/11/2026 20:45:00",
-          "lat": -27.2057568,
-          "lon": -49.6490272
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "POA016310-4",
@@ -346,7 +195,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 20:45:05",
+          "data_hora_posicao": "26/11/2026 20:59:05",
           "lat": -29.1462976,
           "lon": -51.164784
         },
@@ -360,11 +209,6 @@
         "frete_rs": 4814.759999999999,
         "qtde": 2
       },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 794.8,
-        "frete_rs": 2196.18,
-        "qtde": 1
-      },
       "Guarulhos": {
         "peso_kg": 2032.73,
         "frete_rs": 7288.72,
@@ -376,9 +220,85 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 3779.5099999999998,
-        "frete_rs": 4204.74,
-        "qtde": 2
+        "peso_kg": 3026.12,
+        "frete_rs": 2855.67,
+        "qtde": 1
+      }
+    }
+  },
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "CTB013688-3",
+        "origin_unit": "CTB",
+        "origin_city": "CURITIBA/PR",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 5953.83,
+        "frete_rs": 5554.76,
+        "grupo_origem": "Curitiba",
+        "posicao_raster": {
+          "referencia": "0.19 km de PEDAGIO - GARUVA - GARUVA/SC",
+          "data_hora_posicao": "26/11/2026 21:00:09",
+          "lat": -25.9933344,
+          "lon": -48.880544
+        },
+        "distancia_km": 100.7,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075170-7",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "TPJ0A49",
+        "motorista": "EDMILSON MAGERANT DA SILVA",
+        "peso_real_kg": 13919.71,
+        "frete_rs": 17808.07,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "26/11/2026 20:59:05",
+          "lat": -23.4705968,
+          "lon": -46.4623648
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016552-2",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 149.2,
+        "frete_rs": 437.8,
+        "grupo_origem": "Timbó",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Curitiba": {
+        "peso_kg": 5953.83,
+        "frete_rs": 5554.76,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 13919.71,
+        "frete_rs": 17808.07,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 149.2,
+        "frete_rs": 437.8,
+        "qtde": 1
       }
     }
   },
@@ -412,7 +332,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 20:43:21",
+          "data_hora_posicao": "26/11/2026 20:59:21",
           "lat": -24.7856272,
           "lon": -48.1747616
         },
@@ -432,7 +352,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 20:43:21",
+          "data_hora_posicao": "26/11/2026 20:59:21",
           "lat": -24.7856272,
           "lon": -48.1747616
         },
@@ -452,7 +372,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 20:43:21",
+          "data_hora_posicao": "26/11/2026 20:59:21",
           "lat": -24.7856272,
           "lon": -48.1747616
         },
@@ -472,7 +392,7 @@
         "grupo_origem": "Timbó",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "26/11/2026 20:43:21",
+          "data_hora_posicao": "26/11/2026 20:59:21",
           "lat": -24.7856272,
           "lon": -48.1747616
         },
@@ -518,7 +438,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "26/11/2026 20:45:05",
+          "data_hora_posicao": "26/11/2026 20:59:05",
           "lat": -29.1462976,
           "lon": -51.164784
         },
@@ -549,7 +469,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "26/11/2026 20:42:01",
+          "data_hora_posicao": "26/11/2026 20:58:01",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -580,9 +500,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "26/11/2026 20:44:24",
-          "lat": -29.9833792,
-          "lon": -51.1866368
+          "data_hora_posicao": "26/11/2026 20:58:24",
+          "lat": -29.9834048,
+          "lon": -51.1866528
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -596,5 +516,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-26T20:47:28"
+  "_gerado_em": "2026-11-26T21:02:29"
 }
