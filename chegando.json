@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "27/11/2026 10:01:05",
-          "lat": -28.622336,
-          "lon": -51.0430592
+          "referencia": "0.06 km de POSTO SIM | VACARIA MONTE CLARO - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 10:59:35",
+          "lat": -28.4993088,
+          "lon": -50.9180064
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "27/11/2026 10:01:05",
-          "lat": -28.622336,
-          "lon": -51.0430592
+          "referencia": "0.06 km de POSTO SIM | VACARIA MONTE CLARO - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 10:59:35",
+          "lat": -28.4993088,
+          "lon": -50.9180064
         },
-        "distancia_km": 208.7,
+        "distancia_km": 190.3,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.32 km de POSTO PETROBRAS - CONTENDA - CONTENDA/PR",
-          "data_hora_posicao": "27/11/2026 10:01:06",
-          "lat": -25.7212272,
-          "lon": -49.136832
+          "referencia": "1 km de POSTO MONTE CARLO 02 - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 10:59:06",
+          "lat": -25.842936,
+          "lon": -49.101968
         },
-        "distancia_km": 172.8,
+        "distancia_km": 161.1,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.6 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "27/11/2026 10:01:05",
-          "lat": -28.622336,
-          "lon": -51.0430592
+          "referencia": "0.06 km de POSTO SIM | VACARIA MONTE CLARO - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 10:59:35",
+          "lat": -28.4993088,
+          "lon": -50.9180064
         },
-        "distancia_km": 208.7,
+        "distancia_km": 190.3,
         "proximo": false
       }
     ],
@@ -122,32 +122,6 @@
       "Porto Alegre": {
         "peso_kg": 3026.12,
         "frete_rs": 2855.67,
-        "qtde": 1
-      }
-    }
-  },
-  "ITJ": {
-    "veiculos": [
-      {
-        "manif": "GRU075177-4",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "FTN2J59",
-        "motorista": "BRUNO KROENKE",
-        "peso_real_kg": 5130.84,
-        "frete_rs": 10151.56,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Guarulhos": {
-        "peso_kg": 5130.84,
-        "frete_rs": 10151.56,
         "qtde": 1
       }
     }
@@ -212,12 +186,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.76 km de ESTACIONAMENTO DESCANSO DOS CAMINHONEIROS - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 10:00:12",
-          "lat": -24.2765504,
-          "lon": -47.4153088
+          "referencia": "0.12 km de PETROLEO E DERIVADOS TUPINAMBA LTDA - JUQUITIBA/SP",
+          "data_hora_posicao": "27/11/2026 10:58:12",
+          "lat": -23.9350736,
+          "lon": -47.0267424
         },
-        "distancia_km": 132.0,
+        "distancia_km": 77.3,
         "proximo": false
       },
       {
@@ -247,12 +221,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.22 km de CHURRASCARIA CAMINHO DO SUL - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 10:00:37",
-          "lat": -23.704576,
-          "lon": -46.8728768
+          "referencia": "0.23 km de AUTO POSTO MARGINAL DA CASTELO - OSASCO/SP",
+          "data_hora_posicao": "27/11/2026 10:58:37",
+          "lat": -23.5253696,
+          "lon": -46.7558848
         },
-        "distancia_km": 49.3,
+        "distancia_km": 30.6,
         "proximo": false
       },
       {
@@ -333,10 +307,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 09:57:36",
-          "lat": -28.4686161,
-          "lon": -49.0189328
+          "referencia": "0.63 km de MULTI EXPRESS - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 11:00:14",
+          "lat": -28.7721275,
+          "lon": -49.3101465
         },
         "distancia_km": null,
         "proximo": false
@@ -364,10 +338,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 09:57:36",
-          "lat": -28.4686161,
-          "lon": -49.0189328
+          "referencia": "0.63 km de MULTI EXPRESS - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 11:00:14",
+          "lat": -28.7721275,
+          "lon": -49.3101465
         },
         "distancia_km": null,
         "proximo": false
@@ -395,12 +369,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO SIM TERRA DE AREIA - TERRA DE AREIA/RS",
-          "data_hora_posicao": "27/11/2026 10:00:58",
-          "lat": -29.5576363,
-          "lon": -50.040709
+          "referencia": "4.42 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "27/11/2026 10:56:50",
+          "lat": -29.8815523,
+          "lon": -50.5261583
         },
-        "distancia_km": 120.3,
+        "distancia_km": 64.6,
         "proximo": false
       },
       {
@@ -415,12 +389,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.28 km de POSTO SIM TERRA DE AREIA - TERRA DE AREIA/RS",
-          "data_hora_posicao": "27/11/2026 10:00:58",
-          "lat": -29.5576363,
-          "lon": -50.040709
+          "referencia": "4.42 km de POSTO SANTO - SANTO ANTONIO DA PATRULHA/RS",
+          "data_hora_posicao": "27/11/2026 10:56:50",
+          "lat": -29.8815523,
+          "lon": -50.5261583
         },
-        "distancia_km": 120.3,
+        "distancia_km": 64.6,
         "proximo": false
       }
     ],
@@ -446,10 +420,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "7.3 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 09:56:53",
-          "lat": -28.1744601,
-          "lon": -50.6931941
+          "referencia": "2.99 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 11:00:17",
+          "lat": -28.578727,
+          "lon": -51.0231578
         },
         "distancia_km": null,
         "proximo": false
@@ -466,10 +440,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.3 km de POSTO FISCAL (CIDASC) CAPAO ALTO - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 09:56:53",
-          "lat": -28.1744601,
-          "lon": -50.6931941
+          "referencia": "2.99 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 11:00:17",
+          "lat": -28.578727,
+          "lon": -51.0231578
         },
         "distancia_km": null,
         "proximo": false
@@ -502,10 +476,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.48 km de POSTO GUAPO - CANOINHAS/SC",
-          "data_hora_posicao": "27/11/2026 10:00:30",
-          "lat": -26.160633,
-          "lon": -50.378933
+          "referencia": "6 km de POSTO DELTA - MAFRA - MAFRA/SC",
+          "data_hora_posicao": "27/11/2026 10:54:29",
+          "lat": -26.1614336,
+          "lon": -50.1302272
         },
         "distancia_km": null,
         "proximo": false
@@ -519,5 +493,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T10:03:24"
+  "_gerado_em": "2026-11-27T11:02:34"
 }
