@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 20:15:01",
-          "lat": -28.4684931,
-          "lon": -49.0188691
+          "referencia": "0.19 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "27/11/2026 20:28:41",
+          "lat": -28.4382056,
+          "lon": -48.9612895
         },
-        "distancia_km": 178.2,
+        "distancia_km": 174.0,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 8244.78,
         "grupo_origem": "Brusque",
         "posicao_raster": {
-          "referencia": "3.76 km de BOMI  ITAJAI SC - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:13:26",
-          "lat": -26.9697233333333,
-          "lon": -48.7844533333333
+          "referencia": "0.25 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 20:29:26",
+          "lat": -26.9185483333333,
+          "lon": -48.709505
         },
-        "distancia_km": 11.1,
+        "distancia_km": 3.6,
         "proximo": true
       },
       {
@@ -53,12 +53,32 @@
         "frete_rs": 2348.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.66 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 20:14:10",
-          "lat": -25.802135,
-          "lon": -49.13446
+          "referencia": "1.41 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 20:28:10",
+          "lat": -25.8497616666667,
+          "lon": -49.01256
         },
-        "distancia_km": 127.5,
+        "distancia_km": 119.0,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075235-5",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "SXQ3J83",
+        "motorista": "VOLMIR ANTONIO SANDER",
+        "peso_real_kg": 8212.51,
+        "frete_rs": 13972.53,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 20:28:12",
+          "lat": -23.470552,
+          "lon": -46.4620928
+        },
+        "distancia_km": 442.7,
         "proximo": false
       },
       {
@@ -73,12 +93,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "5.46 km de POSTO TULIO (OSORIO FIGUEIRAS) - OSORIO/RS",
-          "data_hora_posicao": "27/11/2026 20:14:48",
-          "lat": -29.7195441,
-          "lon": -50.1937073
+          "referencia": "1.26 km de BALANÇA - TERRA DE AREIA/RS",
+          "data_hora_posicao": "27/11/2026 20:29:01",
+          "lat": -29.5988705,
+          "lon": -50.0795443
         },
-        "distancia_km": 346.3,
+        "distancia_km": 329.5,
         "proximo": false
       },
       {
@@ -93,12 +113,12 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.04 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 20:15:01",
-          "lat": -28.4684931,
-          "lon": -49.0188691
+          "referencia": "0.19 km de MATRIZ JN TRANSPORTES RODOVIÁRIOS LTDA (MENDES & KOCH LTDA) - CAPIVARI DE BAIXO/SC",
+          "data_hora_posicao": "27/11/2026 20:28:41",
+          "lat": -28.4382056,
+          "lon": -48.9612895
         },
-        "distancia_km": 178.2,
+        "distancia_km": 174.0,
         "proximo": false
       }
     ],
@@ -116,6 +136,11 @@
       "Curitiba": {
         "peso_kg": 1888.53,
         "frete_rs": 2348.71,
+        "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 8212.51,
+        "frete_rs": 13972.53,
         "qtde": 1
       },
       "Porto Alegre": {
@@ -170,12 +195,12 @@
         "frete_rs": 854.14,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.14 km de BARBOSA AUTO POSTO - MAIRIPORA/SP",
-          "data_hora_posicao": "27/11/2026 20:14:23",
-          "lat": -23.3077116666667,
-          "lon": -46.5778483333333
+          "referencia": "3.62 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 20:29:58",
+          "lat": -23.3935133333333,
+          "lon": -46.571995
         },
-        "distancia_km": 21.6,
+        "distancia_km": 14.1,
         "proximo": true
       },
       {
@@ -190,12 +215,12 @@
         "frete_rs": 1310.12,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.14 km de BARBOSA AUTO POSTO - MAIRIPORA/SP",
-          "data_hora_posicao": "27/11/2026 20:14:23",
-          "lat": -23.3077116666667,
-          "lon": -46.5778483333333
+          "referencia": "3.62 km de BASE OPERACIONAL DA AUTOPISTA FERNÃO DIAS (BASE 01) - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 20:29:58",
+          "lat": -23.3935133333333,
+          "lon": -46.571995
         },
-        "distancia_km": 21.6,
+        "distancia_km": 14.1,
         "proximo": true
       },
       {
@@ -210,12 +235,12 @@
         "frete_rs": 9312.73,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.15 km de POSTO ROTA SUL - PINHAIS/PR",
-          "data_hora_posicao": "27/11/2026 20:13:48",
-          "lat": -25.4144464,
-          "lon": -49.2221056
+          "referencia": "1.16 km de POSTO 4 BARRAS - QUATRO BARRAS/PR",
+          "data_hora_posicao": "27/11/2026 20:29:48",
+          "lat": -25.3702768,
+          "lon": -49.1205088
         },
-        "distancia_km": 353.2,
+        "distancia_km": 342.1,
         "proximo": false
       },
       {
@@ -231,7 +256,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:13:45",
+          "data_hora_posicao": "27/11/2026 20:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -251,7 +276,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:13:45",
+          "data_hora_posicao": "27/11/2026 20:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -271,7 +296,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:14:32",
+          "data_hora_posicao": "27/11/2026 20:28:32",
           "lat": -26.8876704,
           "lon": -48.7206752
         },
@@ -316,12 +341,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.25 km de PEDAGIO - PRACA 05 (ANHANGUERA INTERNA NORTE) - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 20:15:21",
-          "lat": -23.4503056,
-          "lon": -46.785184
+          "referencia": "0.73 km de BASE DA POLICIA MILITAR - OSASCO/SP",
+          "data_hora_posicao": "27/11/2026 20:29:21",
+          "lat": -23.5732624,
+          "lon": -46.8117824
         },
-        "distancia_km": 507.2,
+        "distancia_km": 494.4,
         "proximo": false
       },
       {
@@ -336,12 +361,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.66 km de POSTO BOGO 02 - TIJUCAS DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 20:14:10",
-          "lat": -25.802135,
-          "lon": -49.13446
+          "referencia": "1.41 km de MERCADO PARAISO DA SERRA - TIJUCAS DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 20:28:10",
+          "lat": -25.8497616666667,
+          "lon": -49.01256
         },
-        "distancia_km": 164.3,
+        "distancia_km": 163.6,
         "proximo": false
       },
       {
@@ -356,12 +381,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.3 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "27/11/2026 20:06:57",
-          "lat": -27.3753248,
-          "lon": -50.4308192
+          "referencia": "0.11 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 20:28:35",
+          "lat": -27.3164288,
+          "lon": -50.3285824
         },
-        "distancia_km": 79.4,
+        "distancia_km": 68.2,
         "proximo": false
       },
       {
@@ -377,7 +402,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 20:11:58",
+          "data_hora_posicao": "27/11/2026 20:27:58",
           "lat": -29.146361,
           "lon": -51.164933
         },
@@ -396,12 +421,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.65 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "27/11/2026 20:14:20",
-          "lat": -24.5451056,
-          "lon": -47.8619296
+          "referencia": "0.08 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
+          "data_hora_posicao": "27/11/2026 20:28:29",
+          "lat": -24.653768,
+          "lon": -47.9589984
         },
-        "distancia_km": 345.7,
+        "distancia_km": 330.3,
         "proximo": false
       },
       {
@@ -417,7 +442,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.46 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 20:13:08",
+          "data_hora_posicao": "27/11/2026 20:28:06",
           "lat": -27.82648,
           "lon": -50.3625066666667
         },
@@ -436,12 +461,12 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.3 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "27/11/2026 20:06:57",
-          "lat": -27.3753248,
-          "lon": -50.4308192
+          "referencia": "0.11 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 20:28:35",
+          "lat": -27.3164288,
+          "lon": -50.3285824
         },
-        "distancia_km": 79.4,
+        "distancia_km": 68.2,
         "proximo": false
       },
       {
@@ -456,12 +481,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.3 km de BASE OPERACIONAL DA AUTOPISTA PLANALTO SUL (BASE 07) - PONTE ALTA/SC",
-          "data_hora_posicao": "27/11/2026 20:06:57",
-          "lat": -27.3753248,
-          "lon": -50.4308192
+          "referencia": "0.11 km de SETTI PAPELARIA PERSONALIZADA - SAO CRISTOVAO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 20:28:35",
+          "lat": -27.3164288,
+          "lon": -50.3285824
         },
-        "distancia_km": 79.4,
+        "distancia_km": 68.2,
         "proximo": false
       },
       {
@@ -476,27 +501,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de PLÁSTICOS ITÁLIA LTDA - FARROUPILHA/RS",
-          "data_hora_posicao": "27/11/2026 20:14:24",
-          "lat": -29.2148256,
-          "lon": -51.3112896
+          "referencia": "0.63 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 20:28:24",
+          "lat": -29.1390592,
+          "lon": -51.2134368
         },
-        "distancia_km": 276.4,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016566-2",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "MBR6B68",
-        "motorista": "VALDINEI PINHEIRO",
-        "peso_real_kg": 1659.34,
-        "frete_rs": 2991.13,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
+        "distancia_km": 264.0,
         "proximo": false
       }
     ],
@@ -525,11 +535,6 @@
         "peso_kg": 8005.0199999999995,
         "frete_rs": 7416.57,
         "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 1659.34,
-        "frete_rs": 2991.13,
-        "qtde": 1
       }
     }
   },
@@ -547,10 +552,10 @@
         "frete_rs": 620.19,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de PLÁSTICOS ITÁLIA LTDA - FARROUPILHA/RS",
-          "data_hora_posicao": "27/11/2026 20:14:24",
-          "lat": -29.2148256,
-          "lon": -51.3112896
+          "referencia": "0.63 km de PRADO DISTRIBUIDOR LOGÍSTICO LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 20:28:24",
+          "lat": -29.1390592,
+          "lon": -51.2134368
         },
         "distancia_km": null,
         "proximo": false
@@ -579,9 +584,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 20:13:02",
-          "lat": -27.2060725,
-          "lon": -49.6494856
+          "data_hora_posicao": "27/11/2026 20:28:45",
+          "lat": -27.2060206,
+          "lon": -49.648928
         },
         "distancia_km": null,
         "proximo": false
@@ -595,5 +600,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T20:17:32"
+  "_gerado_em": "2026-11-27T20:32:23"
 }
