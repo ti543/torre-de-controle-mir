@@ -14,7 +14,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:15:05",
+          "data_hora_posicao": "27/11/2026 13:29:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:15:05",
+          "data_hora_posicao": "27/11/2026 13:29:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.63 km de FILIAL EXPRESSO LEOMAR - GUARAMIRIM/SC",
-          "data_hora_posicao": "27/11/2026 13:13:06",
-          "lat": -26.4722288,
-          "lon": -48.9739904
+          "referencia": "1.93 km de POSTO MIME - GUARAMIRIM - GUARAMIRIM/SC",
+          "data_hora_posicao": "27/11/2026 13:21:06",
+          "lat": -26.4942528,
+          "lon": -49.001408
         },
-        "distancia_km": 105.6,
+        "distancia_km": 102.0,
         "proximo": false
       },
       {
@@ -100,7 +100,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 13:15:05",
+          "data_hora_posicao": "27/11/2026 13:29:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -186,54 +186,19 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.54 km de 2º DISTRITO POLICIAL - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 13:12:12",
-          "lat": -23.5184208,
-          "lon": -46.645904
+          "referencia": "0.19 km de HOUSSAM NOVO - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 13:28:12",
+          "lat": -23.5236944,
+          "lon": -46.6032832
         },
-        "distancia_km": 19.5,
+        "distancia_km": 15.5,
         "proximo": true
-      },
-      {
-        "manif": "ITJ024250-1",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 6415.51,
-        "frete_rs": 9742.09,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "TBO016551-4",
-        "origin_unit": "TBO",
-        "origin_city": "TIMBO/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "RKX5I33",
-        "motorista": "REGINALDO ALAN ROHWEDER",
-        "peso_real_kg": 12818.76,
-        "frete_rs": 17607.73,
-        "grupo_origem": "Timbó",
-        "posicao_raster": null,
-        "distancia_km": null,
-        "proximo": false
       }
     ],
     "por_origem": {
       "Itajaí": {
-        "peso_kg": 19572.21,
-        "frete_rs": 26372.36,
-        "qtde": 2
-      },
-      "Timbó": {
-        "peso_kg": 12818.76,
-        "frete_rs": 17607.73,
+        "peso_kg": 13156.7,
+        "frete_rs": 16630.27,
         "qtde": 1
       }
     }
@@ -253,7 +218,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:11:26",
+          "data_hora_posicao": "27/11/2026 13:27:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -284,7 +249,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 13:11:26",
+          "data_hora_posicao": "27/11/2026 13:27:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -315,7 +280,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 13:11:51",
+          "data_hora_posicao": "27/11/2026 13:27:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -335,7 +300,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 13:11:51",
+          "data_hora_posicao": "27/11/2026 13:27:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -365,10 +330,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:13:26",
-          "lat": -29.1464113,
-          "lon": -51.1650178
+          "referencia": "0.13 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 13:29:13",
+          "lat": -29.14658,
+          "lon": -51.1662243
         },
         "distancia_km": null,
         "proximo": false
@@ -385,10 +350,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 13:13:26",
-          "lat": -29.1464113,
-          "lon": -51.1650178
+          "referencia": "0.13 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 13:29:13",
+          "lat": -29.14658,
+          "lon": -51.1662243
         },
         "distancia_km": null,
         "proximo": false
@@ -421,10 +386,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.97 km de PRF - RIO NEGRINHO/SC",
-          "data_hora_posicao": "27/11/2026 13:13:55",
-          "lat": -26.2565243,
-          "lon": -49.5407058
+          "referencia": "0.31 km de 23ºBPM/3ªCIA - 3ª COMPANHIA - RIO NEGRINHO/SC",
+          "data_hora_posicao": "27/11/2026 13:29:45",
+          "lat": -26.251743,
+          "lon": -49.5270903
         },
         "distancia_km": null,
         "proximo": false
@@ -438,5 +403,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T13:17:25"
+  "_gerado_em": "2026-11-27T13:32:27"
 }
