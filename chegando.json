@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.51 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 12:03:43",
-          "lat": -28.0981504,
-          "lon": -50.6047488
+          "referencia": "3.39 km de POSTO SERRA SUL - CAPAO ALTO/SC",
+          "data_hora_posicao": "27/11/2026 12:23:43",
+          "lat": -27.9833856,
+          "lon": -50.5170432
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "8.51 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 12:03:43",
-          "lat": -28.0981504,
-          "lon": -50.6047488
+          "referencia": "3.39 km de POSTO SERRA SUL - CAPAO ALTO/SC",
+          "data_hora_posicao": "27/11/2026 12:23:43",
+          "lat": -27.9833856,
+          "lon": -50.5170432
         },
-        "distancia_km": 136.7,
+        "distancia_km": 121.6,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.2 km de ASTRANSC - ASSOCIAÇÃO DOS TRANSPORTADORES DE CARGAS DE SC - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 12:15:06",
-          "lat": -26.1767056,
-          "lon": -48.9082272
+          "referencia": "0.12 km de POLÍCIA RODOVIÁRIA FEDERAL - JOINVILLE - PRF PIRABEIRABA/SC - JOINVILLE/SC",
+          "data_hora_posicao": "27/11/2026 12:29:06",
+          "lat": -26.1891472,
+          "lon": -48.9118592
         },
-        "distancia_km": 136.1,
+        "distancia_km": 134.8,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "8.51 km de PRF - CAPÃO ALTO/SC - CAPAO ALTO/SC",
-          "data_hora_posicao": "27/11/2026 12:03:43",
-          "lat": -28.0981504,
-          "lon": -50.6047488
+          "referencia": "3.39 km de POSTO SERRA SUL - CAPAO ALTO/SC",
+          "data_hora_posicao": "27/11/2026 12:23:43",
+          "lat": -27.9833856,
+          "lon": -50.5170432
         },
-        "distancia_km": 136.7,
+        "distancia_km": 121.6,
         "proximo": false
       }
     ],
@@ -186,13 +186,13 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.24 km de PEDAGIO - OSASCO (SENTIDO BARUERI) - OSASCO/SP",
-          "data_hora_posicao": "27/11/2026 12:14:12",
-          "lat": -23.512184,
-          "lon": -46.8037632
+          "referencia": "0.36 km de LATICÍNIOS TIROLEZ LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 12:30:12",
+          "lat": -23.5257328,
+          "lon": -46.7475424
         },
-        "distancia_km": 35.1,
-        "proximo": false
+        "distancia_km": 29.7,
+        "proximo": true
       },
       {
         "manif": "ITJ024250-1",
@@ -221,12 +221,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de 2 COMPANHIA 44° BPM - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 12:15:13",
-          "lat": -23.46968,
-          "lon": -46.4672096
+          "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 12:28:37",
+          "lat": -23.4704192,
+          "lon": -46.462048
         },
-        "distancia_km": 0.5,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -308,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 12:13:01",
+          "data_hora_posicao": "27/11/2026 12:27:29",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -339,7 +339,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 12:13:01",
+          "data_hora_posicao": "27/11/2026 12:27:29",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -370,7 +370,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 12:11:55",
+          "data_hora_posicao": "27/11/2026 12:27:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -390,7 +390,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 12:11:55",
+          "data_hora_posicao": "27/11/2026 12:27:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -420,10 +420,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "2.79 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "27/11/2026 12:15:17",
-          "lat": -28.9325085,
-          "lon": -51.186021
+          "referencia": "1.35 km de POSTO FLORES APARECIDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "27/11/2026 12:28:55",
+          "lat": -29.0180825,
+          "lon": -51.1920191
         },
         "distancia_km": null,
         "proximo": false
@@ -440,10 +440,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.79 km de RESTAURANTE E LANCHERIA DO ZÉCA - ANTONIO PRADO/RS",
-          "data_hora_posicao": "27/11/2026 12:15:17",
-          "lat": -28.9325085,
-          "lon": -51.186021
+          "referencia": "1.35 km de POSTO FLORES APARECIDA - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "27/11/2026 12:28:55",
+          "lat": -29.0180825,
+          "lon": -51.1920191
         },
         "distancia_km": null,
         "proximo": false
@@ -476,10 +476,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "7.89 km de BATISTELLA INDUSTRIA E COMERCIO LTDA - RIO NEGRINHO/SC",
-          "data_hora_posicao": "27/11/2026 12:10:23",
-          "lat": -26.2554368,
-          "lon": -49.664
+          "referencia": "0.46 km de 23ºBPM/3ªCIA - 3ª COMPANHIA - RIO NEGRINHO/SC",
+          "data_hora_posicao": "27/11/2026 12:30:03",
+          "lat": -26.2530096,
+          "lon": -49.5292483
         },
         "distancia_km": null,
         "proximo": false
@@ -493,5 +493,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T12:17:26"
+  "_gerado_em": "2026-11-27T12:32:25"
 }
