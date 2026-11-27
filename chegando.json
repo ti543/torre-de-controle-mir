@@ -1,4 +1,35 @@
 {
+  "ITJ": {
+    "veiculos": [
+      {
+        "manif": "ARR000254-2",
+        "origin_unit": "ARR",
+        "origin_city": "ARARANGUA/SC",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDW1H87",
+        "motorista": "RHUAN RODRIGO ROMAN",
+        "peso_real_kg": 607.0,
+        "frete_rs": 719.31,
+        "grupo_origem": "ARR",
+        "posicao_raster": {
+          "referencia": "0.5 km de BALANÇA - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 14:44:50",
+          "lat": -28.9854561,
+          "lon": -49.542562
+        },
+        "distancia_km": 246.8,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "ARR": {
+        "peso_kg": 607.0,
+        "frete_rs": 719.31,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
       {
@@ -14,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:15:05",
+          "data_hora_posicao": "27/11/2026 14:45:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -33,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.92 km de TRANSHENRIQUE TRANSPORTES - BLUMENAU/SC",
-          "data_hora_posicao": "27/11/2026 14:15:06",
-          "lat": -26.8414912,
-          "lon": -49.0912672
+          "referencia": "0.53 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
+          "data_hora_posicao": "27/11/2026 14:45:06",
+          "lat": -26.881968,
+          "lon": -49.1622016
         },
-        "distancia_km": 68.6,
+        "distancia_km": 60.2,
         "proximo": false
       },
       {
@@ -54,7 +85,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:15:05",
+          "data_hora_posicao": "27/11/2026 14:45:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -98,6 +129,21 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024257-8",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "FTN2J59",
+        "motorista": "BRUNO KROENKE",
+        "peso_real_kg": 1237.22,
+        "frete_rs": 1927.66,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
         "manif": "RSL044654-8",
         "origin_unit": "RSL",
         "origin_city": "RIO DO SUL/SC",
@@ -119,71 +165,14 @@
         "frete_rs": 13663.7,
         "qtde": 1
       },
+      "Itajaí": {
+        "peso_kg": 1237.22,
+        "frete_rs": 1927.66,
+        "qtde": 1
+      },
       "Rio do Sul": {
         "peso_kg": 1227.0,
         "frete_rs": 384.0,
-        "qtde": 1
-      }
-    }
-  },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "ITJ024245-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ3J83",
-        "motorista": "VOLMIR ANTONIO SANDER",
-        "peso_real_kg": 13156.7,
-        "frete_rs": 16630.27,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 14:14:12",
-          "lat": -23.4706096,
-          "lon": -46.4621376
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 13156.7,
-        "frete_rs": 16630.27,
-        "qtde": 1
-      }
-    }
-  },
-  "ARR": {
-    "veiculos": [
-      {
-        "manif": "ITJ024246-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "ARR",
-        "dest_city": "ARARANGUA/SC",
-        "placa": "RDW1H87",
-        "motorista": "RHUAN RODRIGO ROMAN",
-        "peso_real_kg": 195.51,
-        "frete_rs": 502.44,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 14:11:26",
-          "lat": -28.975288,
-          "lon": -49.5333786
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Itajaí": {
-        "peso_kg": 195.51,
-        "frete_rs": 502.44,
         "qtde": 1
       }
     }
@@ -202,10 +191,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 14:11:26",
-          "lat": -28.975288,
-          "lon": -49.5333786
+          "referencia": "0.5 km de BALANÇA - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 14:44:50",
+          "lat": -28.9854561,
+          "lon": -49.542562
         },
         "distancia_km": null,
         "proximo": false
@@ -215,62 +204,6 @@
       "Itajaí": {
         "peso_kg": 1519.44,
         "frete_rs": 2835.41,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "LGS001618-7",
-        "origin_unit": "LGS",
-        "origin_city": "LAGES/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 380.0,
-        "frete_rs": 306.41,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.19 km de MAXIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 14:13:19",
-          "lat": -29.1566901,
-          "lon": -51.1493931
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044651-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 255.66,
-        "frete_rs": 253.85,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.19 km de MAXIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 14:13:19",
-          "lat": -29.1566901,
-          "lon": -51.1493931
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Caxias do Sul / Lages": {
-        "peso_kg": 380.0,
-        "frete_rs": 306.41,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 255.66,
-        "frete_rs": 253.85,
         "qtde": 1
       }
     }
@@ -289,10 +222,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "5.22 km de DP - CORUPÁ / SC - CORUPA/SC",
-          "data_hora_posicao": "27/11/2026 14:13:28",
-          "lat": -26.3998464,
-          "lon": -49.2973056
+          "referencia": "2.64 km de AUTO POSTO FRITZ E FILHOS LTDA - JARAGUA DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 14:40:26",
+          "lat": -26.4589765,
+          "lon": -49.1576991
         },
         "distancia_km": null,
         "proximo": false
@@ -306,5 +239,36 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T14:17:27"
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "RSL044667-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 22334.0,
+        "frete_rs": 13632.43,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 14:44:32",
+          "lat": -27.2060416,
+          "lon": -49.6490144
+        },
+        "distancia_km": 524.4,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 22334.0,
+        "frete_rs": 13632.43,
+        "qtde": 1
+      }
+    }
+  },
+  "_gerado_em": "2026-11-27T14:47:29"
 }
