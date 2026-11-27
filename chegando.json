@@ -13,12 +13,32 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.17 km de ZANOTTO DIESEL TRUCK - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 18:15:26",
-          "lat": -28.4951445,
-          "lon": -49.0433473
+          "referencia": "0.01 km de EXPRESSO LEOMAR - TUBARÃO/SC (TUB) - TUBARAO/SC",
+          "data_hora_posicao": "27/11/2026 18:29:28",
+          "lat": -28.4686773,
+          "lon": -49.0189231
         },
-        "distancia_km": 181.6,
+        "distancia_km": 178.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016318-0",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RDY9A53",
+        "motorista": "ONESIO MARTINS",
+        "peso_real_kg": 3152.95,
+        "frete_rs": 3339.93,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "27/11/2026 18:27:21",
+          "lat": -29.983401,
+          "lon": -51.1866158
+        },
+        "distancia_km": 420.2,
         "proximo": false
       }
     ],
@@ -26,6 +46,11 @@
       "ARR": {
         "peso_kg": 607.0,
         "frete_rs": 719.31,
+        "qtde": 1
+      },
+      "Porto Alegre": {
+        "peso_kg": 3152.95,
+        "frete_rs": 3339.93,
         "qtde": 1
       }
     }
@@ -56,8 +81,104 @@
       }
     }
   },
+  "GRU": {
+    "veiculos": [
+      {
+        "manif": "CMP010478-7",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "ALESSANDRO SANTOS SILVA",
+        "peso_real_kg": 336.78,
+        "frete_rs": 854.14,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "27/11/2026 18:29:50",
+          "lat": -22.8469166666667,
+          "lon": -47.1247216666667
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "CMP010480-9",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "RLB6A19",
+        "motorista": "ALESSANDRO SANTOS SILVA",
+        "peso_real_kg": 848.45,
+        "frete_rs": 1310.12,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "27/11/2026 18:29:50",
+          "lat": -22.8469166666667,
+          "lon": -47.1247216666667
+        },
+        "distancia_km": 96.9,
+        "proximo": false
+      },
+      {
+        "manif": "RSL044667-0",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "GRU",
+        "dest_city": "GUARULHOS/SP",
+        "placa": "SXQ8C23",
+        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
+        "peso_real_kg": 22334.0,
+        "frete_rs": 13632.43,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 18:28:32",
+          "lat": -26.887392,
+          "lon": -48.7205856
+        },
+        "distancia_km": 442.7,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Campinas": {
+        "peso_kg": 1185.23,
+        "frete_rs": 2164.2599999999998,
+        "qtde": 2
+      },
+      "Rio do Sul": {
+        "peso_kg": 22334.0,
+        "frete_rs": 13632.43,
+        "qtde": 1
+      }
+    }
+  },
   "RSL": {
     "veiculos": [
+      {
+        "manif": "CMP010479-5",
+        "origin_unit": "CMP",
+        "origin_city": "CAMPINAS/SP",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "UMG2D54",
+        "motorista": "DANIEL DE LIMA EUFRAZIO",
+        "peso_real_kg": 2168.37,
+        "frete_rs": 6217.76,
+        "grupo_origem": "Campinas",
+        "posicao_raster": {
+          "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
+          "data_hora_posicao": "27/11/2026 18:29:49",
+          "lat": -22.8470016,
+          "lon": -47.1247488
+        },
+        "distancia_km": 547.4,
+        "proximo": false
+      },
       {
         "manif": "CXS002258-6",
         "origin_unit": "CXS",
@@ -70,10 +191,10 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 18:15:05",
-          "lat": -27.8238304,
-          "lon": -50.3630752
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 18:29:28",
+          "lat": -27.823824,
+          "lon": -50.3625824
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -90,12 +211,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.28 km de BALANÇA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 18:14:29",
-          "lat": -23.7700864,
-          "lon": -46.910848
+          "referencia": "0.1 km de POSTO 58 SHELL - SAO LOURENCO DA SERRA/SP",
+          "data_hora_posicao": "27/11/2026 18:28:29",
+          "lat": -23.8905904,
+          "lon": -46.9822272
         },
-        "distancia_km": 470.6,
+        "distancia_km": 455.5,
         "proximo": false
       },
       {
@@ -110,12 +231,32 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 18:15:05",
-          "lat": -27.8238304,
-          "lon": -50.3630752
+          "referencia": "0.53 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 18:29:28",
+          "lat": -27.823824,
+          "lon": -50.3625824
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "POA016317-1",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 4978.9,
+        "frete_rs": 4560.9,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "27/11/2026 18:28:24",
+          "lat": -29.9834208,
+          "lon": -51.1866432
+        },
+        "distancia_km": 343.3,
         "proximo": false
       },
       {
@@ -130,13 +271,13 @@
         "frete_rs": 3913.07,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "1.16 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "27/11/2026 18:13:03",
-          "lat": -26.9754326,
-          "lon": -49.3679003
+          "referencia": "0.88 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "27/11/2026 18:23:39",
+          "lat": -27.0621393,
+          "lon": -49.394248
         },
-        "distancia_km": 37.9,
-        "proximo": false
+        "distancia_km": 29.9,
+        "proximo": true
       },
       {
         "manif": "TBO016566-2",
@@ -155,6 +296,11 @@
       }
     ],
     "por_origem": {
+      "Campinas": {
+        "peso_kg": 2168.37,
+        "frete_rs": 6217.76,
+        "qtde": 1
+      },
       "Caxias do Sul / Lages": {
         "peso_kg": 1622.85,
         "frete_rs": 3070.61,
@@ -166,14 +312,45 @@
         "qtde": 1
       },
       "Porto Alegre": {
-        "peso_kg": 3026.12,
-        "frete_rs": 2855.67,
-        "qtde": 1
+        "peso_kg": 8005.0199999999995,
+        "frete_rs": 7416.57,
+        "qtde": 2
       },
       "Timbó": {
         "peso_kg": 4613.0599999999995,
         "frete_rs": 6904.200000000001,
         "qtde": 2
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "POA016316-3",
+        "origin_unit": "POA",
+        "origin_city": "PORTO ALEGRE/RS",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RYD5B26",
+        "motorista": "CELIO PEREIRA",
+        "peso_real_kg": 425.0,
+        "frete_rs": 620.19,
+        "grupo_origem": "Porto Alegre",
+        "posicao_raster": {
+          "referencia": "0.04 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "27/11/2026 18:28:24",
+          "lat": -29.9834208,
+          "lon": -51.1866432
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Porto Alegre": {
+        "peso_kg": 425.0,
+        "frete_rs": 620.19,
+        "qtde": 1
       }
     }
   },
@@ -191,10 +368,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.16 km de POSTO FERRARI - ASCURRA/SC",
-          "data_hora_posicao": "27/11/2026 18:13:03",
-          "lat": -26.9754326,
-          "lon": -49.3679003
+          "referencia": "0.88 km de RESTAURANTE PARADA BEIJA FLOR - APIUNA/SC",
+          "data_hora_posicao": "27/11/2026 18:23:39",
+          "lat": -27.0621393,
+          "lon": -49.394248
         },
         "distancia_km": null,
         "proximo": false
@@ -208,36 +385,5 @@
       }
     }
   },
-  "GRU": {
-    "veiculos": [
-      {
-        "manif": "RSL044667-0",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "GRU",
-        "dest_city": "GUARULHOS/SP",
-        "placa": "SXQ8C23",
-        "motorista": "CLAUDIOMIRO TAVARES DA SILVA",
-        "peso_real_kg": 22334.0,
-        "frete_rs": 13632.43,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.55 km de POSTO RDP - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 18:14:32",
-          "lat": -26.8901792,
-          "lon": -48.7573248
-        },
-        "distancia_km": 444.9,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Rio do Sul": {
-        "peso_kg": 22334.0,
-        "frete_rs": 13632.43,
-        "qtde": 1
-      }
-    }
-  },
-  "_gerado_em": "2026-11-27T18:17:32"
+  "_gerado_em": "2026-11-27T18:32:27"
 }
