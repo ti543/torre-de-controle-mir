@@ -13,12 +13,12 @@
         "frete_rs": 3483.27,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.99 km de POSTO FASE QUATTRO - JUQUIA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:42",
-          "lat": -24.3412496,
-          "lon": -47.6457408
+          "referencia": "1.47 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 00:43:42",
+          "lat": -24.2922688,
+          "lon": -47.4712992
         },
-        "distancia_km": 154.4,
+        "distancia_km": 137.4,
         "proximo": false
       },
       {
@@ -34,7 +34,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 00:28:12",
+          "data_hora_posicao": "27/11/2026 00:44:12",
           "lat": -26.887408,
           "lon": -48.7212416
         },
@@ -54,7 +54,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.14 km de POSTO TIO ZICO VI - SAO JOSE DOS PINHAIS/PR",
-          "data_hora_posicao": "27/11/2026 00:28:37",
+          "data_hora_posicao": "27/11/2026 00:44:37",
           "lat": -25.659496,
           "lon": -49.1550752
         },
@@ -144,10 +144,10 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 00:28:09",
-          "lat": -26.8873952,
-          "lon": -48.7212064
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 00:44:09",
+          "lat": -26.8873088,
+          "lon": -48.7218016
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -164,10 +164,10 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 00:28:09",
-          "lat": -26.8873952,
-          "lon": -48.7212064
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 00:44:09",
+          "lat": -26.8873088,
+          "lon": -48.7218016
         },
         "distancia_km": 98.5,
         "proximo": false
@@ -184,12 +184,12 @@
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.45 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
-          "data_hora_posicao": "27/11/2026 00:28:31",
-          "lat": -25.3061072,
-          "lon": -48.97472
+          "referencia": "1.98 km de BPG - PIRAQUARA, - PIRAQUARA/PR",
+          "data_hora_posicao": "27/11/2026 00:44:31",
+          "lat": -25.4313968,
+          "lon": -49.084912
         },
-        "distancia_km": 221.7,
+        "distancia_km": 205.2,
         "proximo": false
       },
       {
@@ -204,12 +204,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.94 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 00:29:06",
-          "lat": -23.789352,
-          "lon": -46.7609024
+          "referencia": "1.05 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:24",
+          "lat": -23.6625808,
+          "lon": -46.8235136
         },
-        "distancia_km": 477.9,
+        "distancia_km": 485.5,
         "proximo": false
       },
       {
@@ -228,6 +228,26 @@
         "proximo": false
       },
       {
+        "manif": "ITJ024249-7",
+        "origin_unit": "ITJ",
+        "origin_city": "ITAJAI/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "TPV8F30",
+        "motorista": "IGOR THAINAN CAVALCANTE DOS ANJOS",
+        "peso_real_kg": 8670.94,
+        "frete_rs": 6418.32,
+        "grupo_origem": "Itajaí",
+        "posicao_raster": {
+          "referencia": "0.08 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 00:44:09",
+          "lat": -26.8873088,
+          "lon": -48.7218016
+        },
+        "distancia_km": 98.5,
+        "proximo": false
+      },
+      {
         "manif": "POA016310-4",
         "origin_unit": "POA",
         "origin_city": "PORTO ALEGRE/RS",
@@ -240,7 +260,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 00:29:05",
+          "data_hora_posicao": "27/11/2026 00:43:05",
           "lat": -29.1462272,
           "lon": -51.1647456
         },
@@ -258,6 +278,11 @@
         "peso_kg": 21914.629999999997,
         "frete_rs": 28563.51,
         "qtde": 3
+      },
+      "Itajaí": {
+        "peso_kg": 8670.94,
+        "frete_rs": 6418.32,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -295,10 +320,10 @@
         "frete_rs": 5678.64,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.45 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 00:28:16",
-          "lat": -23.241855,
-          "lon": -46.8834233333333
+          "referencia": "2.04 km de COSMO IND E COM DE COSMÉTICOS - VINHEDO/SP",
+          "data_hora_posicao": "27/11/2026 00:44:15",
+          "lat": -23.0866016666667,
+          "lon": -47.0201183333333
         },
         "distancia_km": null,
         "proximo": false
@@ -315,10 +340,10 @@
         "frete_rs": 556.46,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.45 km de BALANÇA (SP 330) - JUNDIAI/SP",
-          "data_hora_posicao": "27/11/2026 00:28:16",
-          "lat": -23.241855,
-          "lon": -46.8834233333333
+          "referencia": "2.04 km de COSMO IND E COM DE COSMÉTICOS - VINHEDO/SP",
+          "data_hora_posicao": "27/11/2026 00:44:15",
+          "lat": -23.0866016666667,
+          "lon": -47.0201183333333
         },
         "distancia_km": null,
         "proximo": false
@@ -335,10 +360,10 @@
         "frete_rs": 2740.57,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:21",
-          "lat": -23.7509056,
-          "lon": -46.9010624
+          "referencia": "0.4 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:54",
+          "lat": -23.6303424,
+          "lon": -46.8301824
         },
         "distancia_km": null,
         "proximo": false
@@ -355,10 +380,10 @@
         "frete_rs": 530.0,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:21",
-          "lat": -23.7509056,
-          "lon": -46.9010624
+          "referencia": "0.4 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:54",
+          "lat": -23.6303424,
+          "lon": -46.8301824
         },
         "distancia_km": null,
         "proximo": false
@@ -375,10 +400,10 @@
         "frete_rs": 10291.67,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:21",
-          "lat": -23.7509056,
-          "lon": -46.9010624
+          "referencia": "0.4 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:54",
+          "lat": -23.6303424,
+          "lon": -46.8301824
         },
         "distancia_km": null,
         "proximo": false
@@ -395,10 +420,10 @@
         "frete_rs": 3827.96,
         "grupo_origem": "Timbó",
         "posicao_raster": {
-          "referencia": "0.2 km de REFRIO ARMAZÉNS GERAIS LTDA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:21",
-          "lat": -23.7509056,
-          "lon": -46.9010624
+          "referencia": "0.4 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:54",
+          "lat": -23.6303424,
+          "lon": -46.8301824
         },
         "distancia_km": null,
         "proximo": false
@@ -441,12 +466,12 @@
         "frete_rs": 17808.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.73 km de PEDAGIO - JUQUIA - JUQUIA/SP",
-          "data_hora_posicao": "27/11/2026 00:29:05",
-          "lat": -24.4052384,
-          "lon": -47.7429536
+          "referencia": "0.31 km de HOTEL GRAN VALLE - REGISTRO/SP",
+          "data_hora_posicao": "27/11/2026 00:43:05",
+          "lat": -24.5197872,
+          "lon": -47.8532096
         },
-        "distancia_km": 292.9,
+        "distancia_km": 277.3,
         "proximo": false
       },
       {
@@ -487,12 +512,12 @@
         "frete_rs": 9791.05,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO MORADA DO SOL - MIRACATU - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 00:29:48",
-          "lat": -24.2727808,
-          "lon": -47.4067296
+          "referencia": "0.11 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
+          "data_hora_posicao": "27/11/2026 00:43:48",
+          "lat": -24.3345776,
+          "lon": -47.5925856
         },
-        "distancia_km": 236.1,
+        "distancia_km": 217.0,
         "proximo": false
       },
       {
@@ -507,12 +532,12 @@
         "frete_rs": 5919.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.94 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 00:29:06",
-          "lat": -23.789352,
-          "lon": -46.7609024
+          "referencia": "1.05 km de CD WMS SUPERMERCADOS DO BRASIL S/A - WALMART - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 00:43:24",
+          "lat": -23.6625808,
+          "lon": -46.8235136
         },
-        "distancia_km": 320.9,
+        "distancia_km": 324.8,
         "proximo": false
       },
       {
@@ -527,10 +552,10 @@
         "frete_rs": 5276.89,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.01 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 00:28:27",
-          "lat": -26.887335,
-          "lon": -48.721065
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 00:43:16",
+          "lat": -26.8874466666667,
+          "lon": -48.7212166666667
         },
         "distancia_km": 161.7,
         "proximo": false
@@ -590,7 +615,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 00:29:05",
+          "data_hora_posicao": "27/11/2026 00:43:05",
           "lat": -29.1462272,
           "lon": -51.1647456
         },
@@ -621,7 +646,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 00:30:01",
+          "data_hora_posicao": "27/11/2026 00:42:01",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -652,8 +677,8 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 00:28:24",
-          "lat": -29.9833824,
+          "data_hora_posicao": "27/11/2026 00:44:24",
+          "lat": -29.983376,
           "lon": -51.1866656
         },
         "distancia_km": 0.0,
@@ -668,5 +693,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T00:32:27"
+  "_gerado_em": "2026-11-27T00:47:28"
 }
