@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.8 km de ATACADÃO - CRICIUMA/SC",
-          "data_hora_posicao": "27/11/2026 15:59:30",
-          "lat": -28.6957066,
-          "lon": -49.3258911
+          "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 16:14:26",
+          "lat": -28.690018,
+          "lon": -49.3156525
         },
-        "distancia_km": 209.7,
+        "distancia_km": 208.8,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 15:59:05",
+          "data_hora_posicao": "27/11/2026 16:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "2.24 km de POSTO PILÃO - LONTRAS/SC",
-          "data_hora_posicao": "27/11/2026 15:59:19",
-          "lat": -27.1069472,
-          "lon": -49.5223776
+          "referencia": "0.02 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "27/11/2026 16:15:06",
+          "lat": -27.1357536,
+          "lon": -49.5435552
         },
-        "distancia_km": 16.7,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -84,12 +84,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de EXPRESSO DOURADOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 15:59:04",
-          "lat": -23.5259344,
-          "lon": -46.5718208
+          "referencia": "0.18 km de AUTO POSTO RODOVIAS LTDA - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 16:14:29",
+          "lat": -23.5223184,
+          "lon": -46.6036736
         },
-        "distancia_km": 512.9,
+        "distancia_km": 511.3,
         "proximo": false
       },
       {
@@ -105,7 +105,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 15:59:05",
+          "data_hora_posicao": "27/11/2026 16:15:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -211,10 +211,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.8 km de ATACADÃO - CRICIUMA/SC",
-          "data_hora_posicao": "27/11/2026 15:59:30",
-          "lat": -28.6957066,
-          "lon": -49.3258911
+          "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 16:14:26",
+          "lat": -28.690018,
+          "lon": -49.3156525
         },
         "distancia_km": null,
         "proximo": false
@@ -242,10 +242,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.91 km de 7ªRPM/GEIN/2ªCIA 2ª COMPANHIA - TIMBO/SC",
-          "data_hora_posicao": "27/11/2026 15:58:26",
-          "lat": -26.8308305,
-          "lon": -49.2638458
+          "referencia": "0.09 km de FILIAL MIRIN - TIMBO/SC",
+          "data_hora_posicao": "27/11/2026 16:09:58",
+          "lat": -26.842305,
+          "lon": -49.2723495
         },
         "distancia_km": null,
         "proximo": false
@@ -273,12 +273,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "3.56 km de POSTO PILÃO - IBIRAMA - IBIRAMA/SC",
-          "data_hora_posicao": "27/11/2026 15:58:32",
-          "lat": -27.0839392,
-          "lon": -49.4476736
+          "referencia": "1.28 km de POSTO DELTA - APIUNA - APIUNA/SC",
+          "data_hora_posicao": "27/11/2026 16:14:32",
+          "lat": -27.02504,
+          "lon": -49.3746208
         },
-        "distancia_km": 501.5,
+        "distancia_km": 491.9,
         "proximo": false
       }
     ],
@@ -290,5 +290,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T16:02:27"
+  "_gerado_em": "2026-11-27T16:17:35"
 }
