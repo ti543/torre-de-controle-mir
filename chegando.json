@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.14 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 08:15:05",
-          "lat": -29.1522976,
-          "lon": -51.1647264
+          "referencia": "0.65 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 08:30:00",
+          "lat": -29.0915168,
+          "lon": -51.1841088
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.14 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 08:15:05",
-          "lat": -29.1522976,
-          "lon": -51.1647264
+          "referencia": "0.65 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 08:30:00",
+          "lat": -29.0915168,
+          "lon": -51.1841088
         },
-        "distancia_km": 262.5,
+        "distancia_km": 258.0,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "27/11/2026 08:15:06",
-          "lat": -25.5276832,
-          "lon": -49.2955296
+          "referencia": "0.44 km de MILI S.A - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 08:29:06",
+          "lat": -25.5446848,
+          "lon": -49.302624
         },
-        "distancia_km": 189.9,
+        "distancia_km": 187.9,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.14 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 08:15:05",
-          "lat": -29.1522976,
-          "lon": -51.1647264
+          "referencia": "0.65 km de ELOPLAST PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 08:30:00",
+          "lat": -29.0915168,
+          "lon": -51.1841088
         },
-        "distancia_km": 262.5,
+        "distancia_km": 258.0,
         "proximo": false
       }
     ],
@@ -129,26 +129,6 @@
   "ITJ": {
     "veiculos": [
       {
-        "manif": "GRU075170-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "TPJ0A49",
-        "motorista": "EDMILSON MAGERANT DA SILVA",
-        "peso_real_kg": 13919.71,
-        "frete_rs": 17808.07,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.06 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 08:13:05",
-          "lat": -26.8878208,
-          "lon": -48.7206656
-        },
-        "distancia_km": 0.1,
-        "proximo": true
-      },
-      {
         "manif": "GRU075177-4",
         "origin_unit": "GRU",
         "origin_city": "GUARULHOS/SP",
@@ -166,9 +146,9 @@
     ],
     "por_origem": {
       "Guarulhos": {
-        "peso_kg": 19050.55,
-        "frete_rs": 27959.629999999997,
-        "qtde": 2
+        "peso_kg": 5130.84,
+        "frete_rs": 10151.56,
+        "qtde": 1
       }
     }
   },
@@ -233,7 +213,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO 500 REAL DE CAJATI - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 08:10:08",
+          "data_hora_posicao": "27/11/2026 08:20:08",
           "lat": -24.7856128,
           "lon": -48.1750272
         },
@@ -267,12 +247,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.58 km de DELEGACIA SECCIONAL DE POLÍCIA - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 08:10:37",
-          "lat": -24.2895952,
-          "lon": -47.462608
+          "referencia": "0.18 km de BASE OPERACIONAL DA AUTOPISTA RÉGIS BITTENCOURT (BASE 04) - MIRACATU/SP",
+          "data_hora_posicao": "27/11/2026 08:28:37",
+          "lat": -24.160152,
+          "lon": -47.3270688
         },
-        "distancia_km": 136.5,
+        "distancia_km": 116.7,
         "proximo": false
       },
       {
@@ -353,10 +333,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "27/11/2026 08:13:58",
-          "lat": -28.0005098,
-          "lon": -48.6926158
+          "referencia": "0.95 km de REFISA INDÚSTRIA E COMÉRCIO DE SAL - IMBITUBA/SC",
+          "data_hora_posicao": "27/11/2026 08:29:19",
+          "lat": -28.180289,
+          "lon": -48.6956873
         },
         "distancia_km": null,
         "proximo": false
@@ -384,10 +364,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "27/11/2026 08:13:58",
-          "lat": -28.0005098,
-          "lon": -48.6926158
+          "referencia": "0.95 km de REFISA INDÚSTRIA E COMÉRCIO DE SAL - IMBITUBA/SC",
+          "data_hora_posicao": "27/11/2026 08:29:19",
+          "lat": -28.180289,
+          "lon": -48.6956873
         },
         "distancia_km": null,
         "proximo": false
@@ -415,10 +395,10 @@
         "frete_rs": 3883.65,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.4 km de CALDO DE CANA KIDO - PAULO LOPES/SC",
-          "data_hora_posicao": "27/11/2026 08:13:58",
-          "lat": -28.0005098,
-          "lon": -48.6926158
+          "referencia": "0.95 km de REFISA INDÚSTRIA E COMÉRCIO DE SAL - IMBITUBA/SC",
+          "data_hora_posicao": "27/11/2026 08:29:19",
+          "lat": -28.180289,
+          "lon": -48.6956873
         },
         "distancia_km": null,
         "proximo": false
@@ -446,12 +426,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de BALANÇA - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 08:14:49",
-          "lat": -28.9814748,
-          "lon": -49.538337
+          "referencia": "0.19 km de POSTO JAPONÊS - SOMBRIO - SOMBRIO/SC",
+          "data_hora_posicao": "27/11/2026 08:29:57",
+          "lat": -29.101555,
+          "lon": -49.6354358
         },
-        "distancia_km": 194.6,
+        "distancia_km": 179.3,
         "proximo": false
       },
       {
@@ -466,12 +446,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de BALANÇA - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 08:14:49",
-          "lat": -28.9814748,
-          "lon": -49.538337
+          "referencia": "0.19 km de POSTO JAPONÊS - SOMBRIO - SOMBRIO/SC",
+          "data_hora_posicao": "27/11/2026 08:29:57",
+          "lat": -29.101555,
+          "lon": -49.6354358
         },
-        "distancia_km": 194.6,
+        "distancia_km": 179.3,
         "proximo": false
       }
     ],
@@ -497,10 +477,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.91 km de POSTO ESMERALDA - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 08:08:01",
-          "lat": -26.4217946,
-          "lon": -50.1243906
+          "referencia": "0.91 km de POSTO ESMERALDA - PAPANDUVA/SC",
+          "data_hora_posicao": "27/11/2026 08:30:02",
+          "lat": -26.410291,
+          "lon": -50.1288781
         },
         "distancia_km": null,
         "proximo": false
@@ -529,7 +509,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 08:14:38",
+          "data_hora_posicao": "27/11/2026 08:26:38",
           "lat": -27.823934,
           "lon": -50.3628405
         },
@@ -545,5 +525,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T08:17:31"
+  "_gerado_em": "2026-11-27T08:32:25"
 }
