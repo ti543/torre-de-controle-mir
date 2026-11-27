@@ -14,7 +14,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:30:09",
+          "data_hora_posicao": "27/11/2026 07:44:09",
           "lat": -27.2060032,
           "lon": -49.6494752
         },
@@ -34,7 +34,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:30:09",
+          "data_hora_posicao": "27/11/2026 07:44:09",
           "lat": -27.2060032,
           "lon": -49.6494752
         },
@@ -69,7 +69,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "27/11/2026 07:29:06",
+          "data_hora_posicao": "27/11/2026 07:45:06",
           "lat": -25.527656,
           "lon": -49.2954496
         },
@@ -104,7 +104,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:30:09",
+          "data_hora_posicao": "27/11/2026 07:44:09",
           "lat": -27.2060032,
           "lon": -49.6494752
         },
@@ -123,10 +123,10 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 07:29:05",
-          "lat": -29.1462592,
-          "lon": -51.1648896
+          "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 07:45:05",
+          "lat": -29.1462144,
+          "lon": -51.1648
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -169,12 +169,12 @@
         "frete_rs": 17808.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.2 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "27/11/2026 07:29:05",
-          "lat": -26.7907632,
-          "lon": -48.6812672
+          "referencia": "0.8 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
+          "data_hora_posicao": "27/11/2026 07:45:05",
+          "lat": -26.826856,
+          "lon": -48.6912224
         },
-        "distancia_km": 11.5,
+        "distancia_km": 7.4,
         "proximo": true
       },
       {
@@ -216,7 +216,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
-          "data_hora_posicao": "27/11/2026 07:29:06",
+          "data_hora_posicao": "27/11/2026 07:45:06",
           "lat": -25.527656,
           "lon": -49.2954496
         },
@@ -248,12 +248,32 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "RSL044654-8",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "MBR6B68",
+        "motorista": "VALDINEI PINHEIRO",
+        "peso_real_kg": 1227.0,
+        "frete_rs": 384.0,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
       "Guarulhos": {
         "peso_kg": 8447.52,
         "frete_rs": 13663.7,
+        "qtde": 1
+      },
+      "Rio do Sul": {
+        "peso_kg": 1227.0,
+        "frete_rs": 384.0,
         "qtde": 1
       }
     }
@@ -272,12 +292,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "2.33 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
-          "data_hora_posicao": "27/11/2026 07:28:46",
-          "lat": -24.9677056,
-          "lon": -48.3891712
+          "referencia": "1.4 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "27/11/2026 07:40:12",
+          "lat": -24.9229248,
+          "lon": -48.2610752
         },
-        "distancia_km": 256.7,
+        "distancia_km": 243.7,
         "proximo": false
       },
       {
@@ -307,12 +327,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
-          "data_hora_posicao": "27/11/2026 07:28:56",
-          "lat": -24.548184,
-          "lon": -47.8627648
+          "referencia": "2.98 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "27/11/2026 07:44:37",
+          "lat": -24.4065776,
+          "lon": -47.7448768
         },
-        "distancia_km": 186.0,
+        "distancia_km": 166.8,
         "proximo": false
       },
       {
@@ -393,10 +413,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "27/11/2026 07:29:04",
-          "lat": -27.5661808,
-          "lon": -48.6949268
+          "referencia": "0.7 km de CONNECT LOGISTICA - PALHOCA/SC",
+          "data_hora_posicao": "27/11/2026 07:43:57",
+          "lat": -27.6840618,
+          "lon": -48.6673585
         },
         "distancia_km": null,
         "proximo": false
@@ -424,10 +444,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "27/11/2026 07:29:04",
-          "lat": -27.5661808,
-          "lon": -48.6949268
+          "referencia": "0.7 km de CONNECT LOGISTICA - PALHOCA/SC",
+          "data_hora_posicao": "27/11/2026 07:43:57",
+          "lat": -27.6840618,
+          "lon": -48.6673585
         },
         "distancia_km": null,
         "proximo": false
@@ -455,10 +475,10 @@
         "frete_rs": 3883.65,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
-          "data_hora_posicao": "27/11/2026 07:29:04",
-          "lat": -27.5661808,
-          "lon": -48.6949268
+          "referencia": "0.7 km de CONNECT LOGISTICA - PALHOCA/SC",
+          "data_hora_posicao": "27/11/2026 07:43:57",
+          "lat": -27.6840618,
+          "lon": -48.6673585
         },
         "distancia_km": null,
         "proximo": false
@@ -486,12 +506,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.86 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "27/11/2026 07:29:45",
-          "lat": -28.677712,
-          "lon": -49.1366563
+          "referencia": "0.6 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 07:44:24",
+          "lat": -28.7674043,
+          "lon": -49.3001193
         },
-        "distancia_km": 246.1,
+        "distancia_km": 227.4,
         "proximo": false
       },
       {
@@ -506,12 +526,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.86 km de TERRACOTAGRES - SANGAO/SC",
-          "data_hora_posicao": "27/11/2026 07:29:45",
-          "lat": -28.677712,
-          "lon": -49.1366563
+          "referencia": "0.6 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 07:44:24",
+          "lat": -28.7674043,
+          "lon": -49.3001193
         },
-        "distancia_km": 246.1,
+        "distancia_km": 227.4,
         "proximo": false
       },
       {
@@ -527,9 +547,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 07:28:24",
+          "data_hora_posicao": "27/11/2026 07:44:24",
           "lat": -29.983344,
-          "lon": -51.1866144
+          "lon": -51.1866336
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -544,62 +564,6 @@
       "Rio do Sul": {
         "peso_kg": 4411.35,
         "frete_rs": 4356.77,
-        "qtde": 1
-      }
-    }
-  },
-  "CXS": {
-    "veiculos": [
-      {
-        "manif": "POA016309-1",
-        "origin_unit": "POA",
-        "origin_city": "PORTO ALEGRE/RS",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "UMG2C94",
-        "motorista": "FELIPE ALVES DOS SANTOS",
-        "peso_real_kg": 1824.0,
-        "frete_rs": 1434.17,
-        "grupo_origem": "Porto Alegre",
-        "posicao_raster": {
-          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 07:29:05",
-          "lat": -29.1462592,
-          "lon": -51.1648896
-        },
-        "distancia_km": null,
-        "proximo": false
-      },
-      {
-        "manif": "RSL044651-3",
-        "origin_unit": "RSL",
-        "origin_city": "RIO DO SUL/SC",
-        "dest_unit": "CXS",
-        "dest_city": "CAXIAS DO SUL/RS",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 255.66,
-        "frete_rs": 253.85,
-        "grupo_origem": "Rio do Sul",
-        "posicao_raster": {
-          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 07:26:38",
-          "lat": -27.823934,
-          "lon": -50.3628405
-        },
-        "distancia_km": null,
-        "proximo": false
-      }
-    ],
-    "por_origem": {
-      "Porto Alegre": {
-        "peso_kg": 1824.0,
-        "frete_rs": 1434.17,
-        "qtde": 1
-      },
-      "Rio do Sul": {
-        "peso_kg": 255.66,
-        "frete_rs": 253.85,
         "qtde": 1
       }
     }
@@ -619,7 +583,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 07:30:00",
+          "data_hora_posicao": "27/11/2026 07:42:00",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -631,6 +595,37 @@
       "Rio do Sul": {
         "peso_kg": 4782.68,
         "frete_rs": 5689.99,
+        "qtde": 1
+      }
+    }
+  },
+  "CXS": {
+    "veiculos": [
+      {
+        "manif": "RSL044651-3",
+        "origin_unit": "RSL",
+        "origin_city": "RIO DO SUL/SC",
+        "dest_unit": "CXS",
+        "dest_city": "CAXIAS DO SUL/RS",
+        "placa": "RXT0B60",
+        "motorista": "DENIS VICENTIN",
+        "peso_real_kg": 255.66,
+        "frete_rs": 253.85,
+        "grupo_origem": "Rio do Sul",
+        "posicao_raster": {
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 07:42:38",
+          "lat": -27.823934,
+          "lon": -50.3628405
+        },
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Rio do Sul": {
+        "peso_kg": 255.66,
+        "frete_rs": 253.85,
         "qtde": 1
       }
     }
@@ -650,7 +645,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 07:26:38",
+          "data_hora_posicao": "27/11/2026 07:42:38",
           "lat": -27.823934,
           "lon": -50.3628405
         },
@@ -666,5 +661,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T07:32:25"
+  "_gerado_em": "2026-11-27T07:47:27"
 }
