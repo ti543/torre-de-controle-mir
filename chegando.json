@@ -13,10 +13,10 @@
         "frete_rs": 218.04,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 12:47:05",
-          "lat": -27.8253312,
-          "lon": -50.3788352
+          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 12:59:05",
+          "lat": -27.823952,
+          "lon": -50.3629088
         },
         "distancia_km": null,
         "proximo": false
@@ -44,12 +44,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "1.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 12:47:05",
-          "lat": -27.8253312,
-          "lon": -50.3788352
+          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 12:59:05",
+          "lat": -27.823952,
+          "lon": -50.3629088
         },
-        "distancia_km": 99.6,
+        "distancia_km": 98.3,
         "proximo": false
       },
       {
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.27 km de CONCESSIONARIA MERCEDES BENZ - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 12:47:06",
-          "lat": -26.3285088,
-          "lon": -48.863664
+          "referencia": "0.77 km de CONCESSIONARIA VOLVO - ARAQUARI/SC",
+          "data_hora_posicao": "27/11/2026 12:59:06",
+          "lat": -26.4436208,
+          "lon": -48.8147648
         },
-        "distancia_km": 124.9,
+        "distancia_km": 118.5,
         "proximo": false
       },
       {
@@ -99,12 +99,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "1.22 km de POSTO PALMEIRAS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 12:47:05",
-          "lat": -27.8253312,
-          "lon": -50.3788352
+          "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 12:59:05",
+          "lat": -27.823952,
+          "lon": -50.3629088
         },
-        "distancia_km": 99.6,
+        "distancia_km": 98.3,
         "proximo": false
       }
     ],
@@ -186,12 +186,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.11 km de MAKRO ATACADISTA S/A (LAPA) - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 12:46:12",
-          "lat": -23.5087696,
-          "lon": -46.6939168
+          "referencia": "0.21 km de POSTO DE GASOLINA - SHELL - PAPA 8 - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 12:58:12",
+          "lat": -23.5151024,
+          "lon": -46.6721088
         },
-        "distancia_km": 24.0,
+        "distancia_km": 22.0,
         "proximo": true
       },
       {
@@ -222,7 +222,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.03 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 12:46:37",
+          "data_hora_posicao": "27/11/2026 12:58:37",
           "lat": -23.4704192,
           "lon": -46.462048
         },
@@ -308,7 +308,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 12:47:26",
+          "data_hora_posicao": "27/11/2026 12:59:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -339,7 +339,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.33 km de POSTO IRMÃO DA ESTRADA (SIMON) - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 12:47:26",
+          "data_hora_posicao": "27/11/2026 12:59:26",
           "lat": -28.975288,
           "lon": -49.5333786
         },
@@ -370,7 +370,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 12:47:51",
+          "data_hora_posicao": "27/11/2026 12:59:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -390,7 +390,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.03 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 12:47:51",
+          "data_hora_posicao": "27/11/2026 12:59:51",
           "lat": -29.9838908,
           "lon": -51.1870523
         },
@@ -420,10 +420,10 @@
         "frete_rs": 306.41,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 12:46:43",
-          "lat": -29.1293918,
-          "lon": -51.1912568
+          "referencia": "0.18 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 12:59:45",
+          "lat": -29.1513605,
+          "lon": -51.1646868
         },
         "distancia_km": null,
         "proximo": false
@@ -440,10 +440,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.9 km de POSTO DE COMBUSTÍVEIS SÃO LUIZ - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 12:46:43",
-          "lat": -29.1293918,
-          "lon": -51.1912568
+          "referencia": "0.18 km de ACTIVAS PLASTICOS INDUSTRIAIS LTDA - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 12:59:45",
+          "lat": -29.1513605,
+          "lon": -51.1646868
         },
         "distancia_km": null,
         "proximo": false
@@ -477,7 +477,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.77 km de PRF - RIO NEGRINHO/SC",
-          "data_hora_posicao": "27/11/2026 12:48:02",
+          "data_hora_posicao": "27/11/2026 13:00:02",
           "lat": -26.257244,
           "lon": -49.5425626
         },
@@ -493,5 +493,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T12:50:30"
+  "_gerado_em": "2026-11-27T13:02:37"
 }
