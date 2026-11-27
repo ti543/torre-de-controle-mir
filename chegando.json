@@ -13,12 +13,12 @@
         "frete_rs": 216.15,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:14:09",
-          "lat": -27.2058912,
-          "lon": -49.6487648
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 07:30:09",
+          "lat": -27.2060032,
+          "lon": -49.6494752
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 4598.61,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:14:09",
-          "lat": -27.2058912,
-          "lon": -49.6487648
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 07:30:09",
+          "lat": -27.2060032,
+          "lon": -49.6494752
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -52,14 +52,9 @@
         "peso_real_kg": 2032.73,
         "frete_rs": 7288.72,
         "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.15 km de POSTO BRASILIA - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:14:31",
-          "lat": -27.1976416,
-          "lon": -49.6286176
-        },
-        "distancia_km": 2.3,
-        "proximo": true
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
       },
       {
         "manif": "GRU075173-1",
@@ -73,12 +68,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.67 km de MILI S.A - CURITIBA/PR",
-          "data_hora_posicao": "27/11/2026 07:15:06",
-          "lat": -25.54544,
-          "lon": -49.2965344
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 07:29:06",
+          "lat": -25.527656,
+          "lon": -49.2954496
         },
-        "distancia_km": 188.0,
+        "distancia_km": 189.9,
         "proximo": false
       },
       {
@@ -108,12 +103,12 @@
         "frete_rs": 6418.32,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 07:14:09",
-          "lat": -27.2058912,
-          "lon": -49.6487648
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 07:30:09",
+          "lat": -27.2060032,
+          "lon": -49.6494752
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -128,10 +123,10 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 07:15:05",
-          "lat": -29.1462016,
-          "lon": -51.1647936
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 07:29:05",
+          "lat": -29.1462592,
+          "lon": -51.1648896
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -174,12 +169,12 @@
         "frete_rs": 17808.07,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.11 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "27/11/2026 07:15:05",
-          "lat": -26.7734448,
-          "lon": -48.6859296
+          "referencia": "1.2 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "27/11/2026 07:29:05",
+          "lat": -26.7907632,
+          "lon": -48.6812672
         },
-        "distancia_km": 13.2,
+        "distancia_km": 11.5,
         "proximo": true
       },
       {
@@ -220,12 +215,12 @@
         "frete_rs": 5919.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.67 km de MILI S.A - CURITIBA/PR",
-          "data_hora_posicao": "27/11/2026 07:15:06",
-          "lat": -25.54544,
-          "lon": -49.2965344
+          "referencia": "0.04 km de FILIAL MIRIN - CURITIBA/PR",
+          "data_hora_posicao": "27/11/2026 07:29:06",
+          "lat": -25.527656,
+          "lon": -49.2954496
         },
-        "distancia_km": 2.0,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -277,12 +272,12 @@
         "frete_rs": 16630.27,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.96 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 07:07:11",
-          "lat": -25.0552352,
-          "lon": -48.5537728
+          "referencia": "2.33 km de PEDAGIO BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "27/11/2026 07:28:46",
+          "lat": -24.9677056,
+          "lon": -48.3891712
         },
-        "distancia_km": 275.7,
+        "distancia_km": 256.7,
         "proximo": false
       },
       {
@@ -312,12 +307,12 @@
         "frete_rs": 21224.68,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "1.31 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "27/11/2026 07:14:37",
-          "lat": -24.660832,
-          "lon": -47.9695424
+          "referencia": "2 km de CONCESSIONARIA SCANIA - REGISTRO/SP",
+          "data_hora_posicao": "27/11/2026 07:28:56",
+          "lat": -24.548184,
+          "lon": -47.8627648
         },
-        "distancia_km": 202.3,
+        "distancia_km": 186.0,
         "proximo": false
       },
       {
@@ -398,10 +393,10 @@
         "frete_rs": 502.44,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "6.07 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "27/11/2026 07:13:23",
-          "lat": -27.3892481,
-          "lon": -48.6953983
+          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "27/11/2026 07:29:04",
+          "lat": -27.5661808,
+          "lon": -48.6949268
         },
         "distancia_km": null,
         "proximo": false
@@ -429,10 +424,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "6.07 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "27/11/2026 07:13:23",
-          "lat": -27.3892481,
-          "lon": -48.6953983
+          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "27/11/2026 07:29:04",
+          "lat": -27.5661808,
+          "lon": -48.6949268
         },
         "distancia_km": null,
         "proximo": false
@@ -460,10 +455,10 @@
         "frete_rs": 3883.65,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "6.07 km de DEPOSITO DE RESIDUOS - GOVERNADOR CELSO RAMOS/SC",
-          "data_hora_posicao": "27/11/2026 07:13:23",
-          "lat": -27.3892481,
-          "lon": -48.6953983
+          "referencia": "1.93 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "27/11/2026 07:29:04",
+          "lat": -27.5661808,
+          "lon": -48.6949268
         },
         "distancia_km": null,
         "proximo": false
@@ -491,12 +486,12 @@
         "frete_rs": 7772.39,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.17 km de PRF - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 07:13:40",
-          "lat": -28.5332241,
-          "lon": -49.0543525
+          "referencia": "1.86 km de TERRACOTAGRES - SANGAO/SC",
+          "data_hora_posicao": "27/11/2026 07:29:45",
+          "lat": -28.677712,
+          "lon": -49.1366563
         },
-        "distancia_km": 262.3,
+        "distancia_km": 246.1,
         "proximo": false
       },
       {
@@ -511,12 +506,12 @@
         "frete_rs": 2101.55,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "1.17 km de PRF - TUBARAO/SC",
-          "data_hora_posicao": "27/11/2026 07:13:40",
-          "lat": -28.5332241,
-          "lon": -49.0543525
+          "referencia": "1.86 km de TERRACOTAGRES - SANGAO/SC",
+          "data_hora_posicao": "27/11/2026 07:29:45",
+          "lat": -28.677712,
+          "lon": -49.1366563
         },
-        "distancia_km": 262.3,
+        "distancia_km": 246.1,
         "proximo": false
       },
       {
@@ -531,10 +526,10 @@
         "frete_rs": 4356.77,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.06 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
-          "data_hora_posicao": "27/11/2026 07:14:24",
-          "lat": -29.9833312,
-          "lon": -51.1866048
+          "referencia": "0.05 km de MIRIN PORTO ALEGRE - PORTO ALEGRE/RS",
+          "data_hora_posicao": "27/11/2026 07:28:24",
+          "lat": -29.983344,
+          "lon": -51.1866144
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -567,10 +562,10 @@
         "frete_rs": 1434.17,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.02 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 07:15:05",
-          "lat": -29.1462016,
-          "lon": -51.1647936
+          "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
+          "data_hora_posicao": "27/11/2026 07:29:05",
+          "lat": -29.1462592,
+          "lon": -51.1648896
         },
         "distancia_km": null,
         "proximo": false
@@ -587,10 +582,10 @@
         "frete_rs": 253.85,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.06 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 07:13:11",
-          "lat": -27.7705984,
-          "lon": -50.337536
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 07:26:38",
+          "lat": -27.823934,
+          "lon": -50.3628405
         },
         "distancia_km": null,
         "proximo": false
@@ -624,7 +619,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.89 km de POSTO SHELL 116 - PAPANDUVA/SC",
-          "data_hora_posicao": "27/11/2026 07:14:00",
+          "data_hora_posicao": "27/11/2026 07:30:00",
           "lat": -26.395171,
           "lon": -50.1636451
         },
@@ -654,10 +649,10 @@
         "frete_rs": 2536.22,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.06 km de VOSSKO DO BRASIL ALIMENTOS CONGELADOS LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 07:13:11",
-          "lat": -27.7705984,
-          "lon": -50.337536
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 07:26:38",
+          "lat": -27.823934,
+          "lon": -50.3628405
         },
         "distancia_km": null,
         "proximo": false
@@ -671,5 +666,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T07:17:24"
+  "_gerado_em": "2026-11-27T07:32:25"
 }
