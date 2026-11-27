@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.07 km de POLÍCIA MILITAR RODOVIÁRIA ESTADUAL - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 17:29:01",
-          "lat": -28.6977506,
-          "lon": -49.3130996
+          "referencia": "0.15 km de CONCESSIONARIA VOLVO - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 17:44:12",
+          "lat": -28.756916,
+          "lon": -49.2805008
         },
-        "distancia_km": 209.5,
+        "distancia_km": 215.0,
         "proximo": false
       }
     ],
@@ -44,10 +44,10 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:29:05",
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 17:43:05",
           "lat": -27.8238304,
-          "lon": -50.3627296
+          "lon": -50.3630752
         },
         "distancia_km": 98.3,
         "proximo": false
@@ -64,12 +64,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.75 km de QUALITY LOGISTICA (FILIAL IND ANHEMBI) - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "27/11/2026 17:28:29",
-          "lat": -23.6262192,
-          "lon": -46.829728
+          "referencia": "0.26 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 17:44:29",
+          "lat": -23.6378304,
+          "lon": -46.8341056
         },
-        "distancia_km": 488.5,
+        "distancia_km": 487.2,
         "proximo": false
       },
       {
@@ -84,12 +84,32 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 17:29:05",
+          "referencia": "0.55 km de COMERCIAL GERDAU LTDA - LAGES/SC",
+          "data_hora_posicao": "27/11/2026 17:43:05",
           "lat": -27.8238304,
-          "lon": -50.3627296
+          "lon": -50.3630752
         },
         "distancia_km": 98.3,
+        "proximo": false
+      },
+      {
+        "manif": "TBO016565-4",
+        "origin_unit": "TBO",
+        "origin_city": "TIMBO/SC",
+        "dest_unit": "RSL",
+        "dest_city": "RIO DO SUL/SC",
+        "placa": "RXU6I96",
+        "motorista": "RENATO REIS RIBEIRO",
+        "peso_real_kg": 2953.72,
+        "frete_rs": 3913.07,
+        "grupo_origem": "Timbó",
+        "posicao_raster": {
+          "referencia": "0.38 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "27/11/2026 17:44:21",
+          "lat": -26.8655775,
+          "lon": -49.2570708
+        },
+        "distancia_km": 54.3,
         "proximo": false
       }
     ],
@@ -107,6 +127,11 @@
       "Porto Alegre": {
         "peso_kg": 3026.12,
         "frete_rs": 2855.67,
+        "qtde": 1
+      },
+      "Timbó": {
+        "peso_kg": 2953.72,
+        "frete_rs": 3913.07,
         "qtde": 1
       }
     }
@@ -191,10 +216,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.07 km de POLÍCIA MILITAR RODOVIÁRIA ESTADUAL - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 17:29:01",
-          "lat": -28.6977506,
-          "lon": -49.3130996
+          "referencia": "0.15 km de CONCESSIONARIA VOLVO - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 17:44:12",
+          "lat": -28.756916,
+          "lon": -49.2805008
         },
         "distancia_km": null,
         "proximo": false
@@ -222,10 +247,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "27/11/2026 17:29:02",
-          "lat": -26.8423946,
-          "lon": -49.2724835
+          "referencia": "0.38 km de AGRO VETERINARIA TIMBÓ - TIMBO/SC",
+          "data_hora_posicao": "27/11/2026 17:44:21",
+          "lat": -26.8655775,
+          "lon": -49.2570708
         },
         "distancia_km": null,
         "proximo": false
@@ -253,12 +278,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.17 km de DICAVE BLUMENAU - BLUMENAU/SC",
-          "data_hora_posicao": "27/11/2026 17:28:32",
-          "lat": -26.8705536,
-          "lon": -49.1063616
+          "referencia": "1.03 km de PROJESAN SANEAMENTO AMBIENTAL - GASPAR/SC",
+          "data_hora_posicao": "27/11/2026 17:44:32",
+          "lat": -26.8820576,
+          "lon": -48.997216
         },
-        "distancia_km": 462.3,
+        "distancia_km": 457.1,
         "proximo": false
       }
     ],
@@ -270,5 +295,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T17:32:35"
+  "_gerado_em": "2026-11-27T17:47:31"
 }
