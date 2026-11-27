@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.5 km de BALANÇA - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 14:44:50",
-          "lat": -28.9854561,
-          "lon": -49.542562
+          "referencia": "1.78 km de POSTO MAZZUCO - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 15:00:15",
+          "lat": -28.9351951,
+          "lon": -49.5182538
         },
-        "distancia_km": 246.8,
+        "distancia_km": 240.8,
         "proximo": false
       }
     ],
@@ -45,7 +45,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:45:05",
+          "data_hora_posicao": "27/11/2026 14:59:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -64,12 +64,12 @@
         "frete_rs": 9144.63,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.53 km de BAULER & KRONAU IMPLEMENTOS RODOVIÁRIOS (QUINTA RODA) - BLUMENAU/SC",
-          "data_hora_posicao": "27/11/2026 14:45:06",
-          "lat": -26.881968,
-          "lon": -49.1622016
+          "referencia": "0.54 km de WANKE S/A - MATRIZ - INDAIAL/SC",
+          "data_hora_posicao": "27/11/2026 14:59:06",
+          "lat": -26.8999136,
+          "lon": -49.2670816
         },
-        "distancia_km": 60.2,
+        "distancia_km": 50.9,
         "proximo": false
       },
       {
@@ -85,7 +85,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.56 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 14:45:05",
+          "data_hora_posicao": "27/11/2026 14:59:05",
           "lat": -27.823952,
           "lon": -50.3629088
         },
@@ -191,10 +191,10 @@
         "frete_rs": 2835.41,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.5 km de BALANÇA - ARARANGUA/SC",
-          "data_hora_posicao": "27/11/2026 14:44:50",
-          "lat": -28.9854561,
-          "lon": -49.542562
+          "referencia": "1.78 km de POSTO MAZZUCO - ARARANGUA/SC",
+          "data_hora_posicao": "27/11/2026 15:00:15",
+          "lat": -28.9351951,
+          "lon": -49.5182538
         },
         "distancia_km": null,
         "proximo": false
@@ -222,10 +222,10 @@
         "frete_rs": 5689.99,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "2.64 km de AUTO POSTO FRITZ E FILHOS LTDA - JARAGUA DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 14:40:26",
-          "lat": -26.4589765,
-          "lon": -49.1576991
+          "referencia": "1.01 km de SPEED CARGO ENCOMENDAS - JARAGUA DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 15:00:29",
+          "lat": -26.5101118,
+          "lon": -49.11229
         },
         "distancia_km": null,
         "proximo": false
@@ -254,7 +254,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 14:44:32",
+          "data_hora_posicao": "27/11/2026 15:00:32",
           "lat": -27.2060416,
           "lon": -49.6490144
         },
@@ -270,5 +270,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T14:47:29"
+  "_gerado_em": "2026-11-27T15:02:26"
 }
