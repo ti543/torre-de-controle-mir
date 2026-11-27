@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 16:58:33",
+          "data_hora_posicao": "27/11/2026 17:14:33",
           "lat": -28.690018,
           "lon": -49.3156525
         },
@@ -45,32 +45,12 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 16:59:05",
+          "data_hora_posicao": "27/11/2026 17:15:05",
           "lat": -27.8238304,
           "lon": -50.3627296
         },
         "distancia_km": 98.3,
         "proximo": false
-      },
-      {
-        "manif": "GRU075173-1",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXM8A25",
-        "motorista": "CLAUDIOMIRO CORREA",
-        "peso_real_kg": 8096.73,
-        "frete_rs": 9144.63,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 17:00:10",
-          "lat": -27.205888,
-          "lon": -49.648992
-        },
-        "distancia_km": 0.1,
-        "proximo": true
       },
       {
         "manif": "GRU075234-7",
@@ -84,12 +64,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.33 km de PATIO RODOGARCIA - OSASCO/SP",
-          "data_hora_posicao": "27/11/2026 16:58:29",
-          "lat": -23.5221552,
-          "lon": -46.762016
+          "referencia": "0.16 km de DROGARIA SÃO PAULO S/A (CENTRO DE DISTRIBUIÇÃO) - OSASCO/SP",
+          "data_hora_posicao": "27/11/2026 17:14:29",
+          "lat": -23.5903008,
+          "lon": -46.8098752
         },
-        "distancia_km": 501.9,
+        "distancia_km": 492.9,
         "proximo": false
       },
       {
@@ -105,7 +85,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.54 km de COMERCIAL GERDAU LTDA - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 16:59:05",
+          "data_hora_posicao": "27/11/2026 17:15:05",
           "lat": -27.8238304,
           "lon": -50.3627296
         },
@@ -120,9 +100,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 20368.07,
-        "frete_rs": 24994.25,
-        "qtde": 2
+        "peso_kg": 12271.34,
+        "frete_rs": 15849.62,
+        "qtde": 1
       },
       "Porto Alegre": {
         "peso_kg": 3026.12,
@@ -212,7 +192,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.21 km de CHROMO IND. E COM. DE EMBALAGENS PLASTICAS LTDA - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 16:58:33",
+          "data_hora_posicao": "27/11/2026 17:14:33",
           "lat": -28.690018,
           "lon": -49.3156525
         },
@@ -243,7 +223,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.07 km de FILIAL MIRIN - TIMBO/SC",
-          "data_hora_posicao": "27/11/2026 16:57:02",
+          "data_hora_posicao": "27/11/2026 17:13:02",
           "lat": -26.8423946,
           "lon": -49.2724835
         },
@@ -273,12 +253,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.88 km de MAGGIOR TEXTIL - INDAIAL/SC",
-          "data_hora_posicao": "27/11/2026 16:58:51",
-          "lat": -26.8712416,
-          "lon": -49.198464
+          "referencia": "0.49 km de TÊXTIL FARBE - INDAIAL/SC",
+          "data_hora_posicao": "27/11/2026 17:14:32",
+          "lat": -26.879472,
+          "lon": -49.1727872
         },
-        "distancia_km": 467.7,
+        "distancia_km": 467.0,
         "proximo": false
       }
     ],
@@ -290,5 +270,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T17:02:31"
+  "_gerado_em": "2026-11-27T17:17:27"
 }
