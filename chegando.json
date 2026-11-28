@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "4.31 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "27/11/2026 21:14:04",
-          "lat": -28.3010188,
-          "lon": -48.7186366
+          "referencia": "2 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "27/11/2026 21:30:05",
+          "lat": -28.1205985,
+          "lon": -48.697594
         },
-        "distancia_km": 157.2,
+        "distancia_km": 137.1,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 2348.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.34 km de CD JOINVILLE - JVL - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 21:14:09",
-          "lat": -26.22877,
-          "lon": -48.9166283333333
+          "referencia": "0.19 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
+          "data_hora_posicao": "27/11/2026 21:30:00",
+          "lat": -26.2814883333333,
+          "lon": -48.8901433333333
         },
-        "distancia_km": 75.8,
+        "distancia_km": 69.4,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 21:14:12",
+          "data_hora_posicao": "27/11/2026 21:30:12",
           "lat": -23.470536,
           "lon": -46.462304
         },
@@ -73,12 +73,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.49 km de POSTO VALE MATRIZ - PASSO DE TORRES/SC",
-          "data_hora_posicao": "27/11/2026 21:13:50",
-          "lat": -29.2564215,
-          "lon": -49.756162
+          "referencia": "1.31 km de POSTO FURNAS (REDE FURNAS) - SOMBRIO/SC",
+          "data_hora_posicao": "27/11/2026 21:29:38",
+          "lat": -29.1241811,
+          "lon": -49.6656341
         },
-        "distancia_km": 282.3,
+        "distancia_km": 265.4,
         "proximo": false
       },
       {
@@ -93,12 +93,12 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "4.31 km de POSTO RECANTO - IMBITUBA/SC",
-          "data_hora_posicao": "27/11/2026 21:14:04",
-          "lat": -28.3010188,
-          "lon": -48.7186366
+          "referencia": "2 km de POSTO GRAAL BALEIA FRANCA - IMBITUBA/SC",
+          "data_hora_posicao": "27/11/2026 21:30:05",
+          "lat": -28.1205985,
+          "lon": -48.697594
         },
-        "distancia_km": 157.2,
+        "distancia_km": 137.1,
         "proximo": false
       }
     ],
@@ -170,12 +170,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.44 km de POSTO PANTERÃO 57 - SAO LOURENCO DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 21:13:21",
-          "lat": -23.8873952,
-          "lon": -46.9783808
+          "referencia": "2.39 km de POSTO 81 - JUQUITIBA/SP",
+          "data_hora_posicao": "27/11/2026 21:29:21",
+          "lat": -23.9671776,
+          "lon": -47.13192
         },
-        "distancia_km": 456.0,
+        "distancia_km": 439.8,
         "proximo": false
       },
       {
@@ -190,12 +190,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.34 km de CD JOINVILLE - JVL - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 21:14:09",
-          "lat": -26.22877,
-          "lon": -48.9166283333333
+          "referencia": "0.19 km de CHURRASCARIA E LANCHONETE FLORES E PAMPAS - JOINVILLE/SC",
+          "data_hora_posicao": "27/11/2026 21:30:00",
+          "lat": -26.2814883333333,
+          "lon": -48.8901433333333
         },
-        "distancia_km": 130.8,
+        "distancia_km": 127.5,
         "proximo": false
       },
       {
@@ -210,13 +210,13 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.39 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "27/11/2026 21:09:27",
-          "lat": -27.260672,
-          "lon": -50.0523776
+          "referencia": "0.09 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 21:23:05",
+          "lat": -27.2579552,
+          "lon": -49.9304
         },
-        "distancia_km": 40.3,
-        "proximo": false
+        "distancia_km": 28.3,
+        "proximo": true
       },
       {
         "manif": "CXS002259-4",
@@ -231,7 +231,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 21:11:58",
+          "data_hora_posicao": "27/11/2026 21:27:58",
           "lat": -29.146384,
           "lon": -51.1648815
         },
@@ -251,9 +251,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 21:14:24",
-          "lat": -29.146272,
-          "lon": -51.1648448
+          "data_hora_posicao": "27/11/2026 21:29:10",
+          "lat": -29.1462848,
+          "lon": -51.1648512
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -271,7 +271,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 21:14:29",
+          "data_hora_posicao": "27/11/2026 21:28:29",
           "lat": -24.7800464,
           "lon": -48.1859808
         },
@@ -291,7 +291,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "10.26 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "27/11/2026 21:13:06",
+          "data_hora_posicao": "27/11/2026 21:28:06",
           "lat": -27.3010933333333,
           "lon": -50.0749333333333
         },
@@ -310,13 +310,13 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "6.39 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "27/11/2026 21:09:27",
-          "lat": -27.260672,
-          "lon": -50.0523776
+          "referencia": "0.09 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 21:23:05",
+          "lat": -27.2579552,
+          "lon": -49.9304
         },
-        "distancia_km": 40.3,
-        "proximo": false
+        "distancia_km": 28.3,
+        "proximo": true
       },
       {
         "manif": "POA016310-4",
@@ -330,13 +330,13 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "6.39 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
-          "data_hora_posicao": "27/11/2026 21:09:27",
-          "lat": -27.260672,
-          "lon": -50.0523776
+          "referencia": "0.09 km de POSTO PR - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 21:23:05",
+          "lat": -27.2579552,
+          "lon": -49.9304
         },
-        "distancia_km": 40.3,
-        "proximo": false
+        "distancia_km": 28.3,
+        "proximo": true
       },
       {
         "manif": "POA016317-1",
@@ -351,9 +351,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 21:14:24",
-          "lat": -29.146272,
-          "lon": -51.1648448
+          "data_hora_posicao": "27/11/2026 21:29:10",
+          "lat": -29.1462848,
+          "lon": -51.1648512
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -401,12 +401,12 @@
         "frete_rs": 9312.73,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO COSTA BRAVA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 21:13:48",
-          "lat": -25.317512,
-          "lon": -49.018688
+          "referencia": "0.61 km de POSTO MAHLE CAMPINA - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 21:29:48",
+          "lat": -25.2236864,
+          "lon": -48.9059488
         },
-        "distancia_km": 330.4,
+        "distancia_km": 315.1,
         "proximo": false
       },
       {
@@ -422,7 +422,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 21:13:45",
+          "data_hora_posicao": "27/11/2026 21:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -442,7 +442,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 21:13:45",
+          "data_hora_posicao": "27/11/2026 21:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -462,7 +462,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 21:14:32",
+          "data_hora_posicao": "27/11/2026 21:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -482,7 +482,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 21:14:32",
+          "data_hora_posicao": "27/11/2026 21:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -523,7 +523,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 21:12:02",
+          "data_hora_posicao": "27/11/2026 21:28:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -539,5 +539,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T21:17:26"
+  "_gerado_em": "2026-11-27T21:32:33"
 }
