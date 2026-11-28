@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:12:06",
+          "data_hora_posicao": "28/11/2026 08:28:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -33,12 +33,12 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.37 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
-          "data_hora_posicao": "28/11/2026 08:14:12",
-          "lat": -26.6455552,
-          "lon": -48.6876032
+          "referencia": "1.12 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "28/11/2026 08:28:12",
+          "lat": -26.7900368,
+          "lon": -48.6814848
         },
-        "distancia_km": 27.1,
+        "distancia_km": 11.5,
         "proximo": true
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:12:06",
+          "data_hora_posicao": "28/11/2026 08:28:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -150,7 +150,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 08:15:05",
+          "data_hora_posicao": "28/11/2026 08:29:48",
           "lat": -22.8469,
           "lon": -47.1247316666667
         },
@@ -170,7 +170,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 08:15:05",
+          "data_hora_posicao": "28/11/2026 08:29:48",
           "lat": -22.8469,
           "lon": -47.1247316666667
         },
@@ -205,72 +205,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "28/11/2026 08:15:21",
-          "lat": -27.1358016,
-          "lon": -49.5433888
+          "referencia": "1.76 km de POSTO COLIBRIS - LONTRAS/SC",
+          "data_hora_posicao": "28/11/2026 08:29:21",
+          "lat": -27.1523328,
+          "lon": -49.5564928
         },
-        "distancia_km": 13.1,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013694-8",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 3283.9,
-        "frete_rs": 3127.26,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:14:00",
-          "lat": -27.20604,
-          "lon": -49.6492733333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "CXS002259-4",
-        "origin_unit": "CXS",
-        "origin_city": "CAXIAS DO SUL/RS",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT0B60",
-        "motorista": "DENIS VICENTIN",
-        "peso_real_kg": 2258.0,
-        "frete_rs": 7367.72,
-        "grupo_origem": "Caxias do Sul / Lages",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:14:39",
-          "lat": -27.2059811,
-          "lon": -49.649764
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "GRU075234-7",
-        "origin_unit": "GRU",
-        "origin_city": "GUARULHOS/SP",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "SXS3A23",
-        "motorista": "NILSON PORTO",
-        "peso_real_kg": 12271.34,
-        "frete_rs": 15849.62,
-        "grupo_origem": "Guarulhos",
-        "posicao_raster": {
-          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:14:30",
-          "lat": -27.2057504,
-          "lon": -49.6487744
-        },
-        "distancia_km": 0.1,
+        "distancia_km": 11.0,
         "proximo": true
       },
       {
@@ -285,12 +225,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
-          "data_hora_posicao": "28/11/2026 08:14:11",
-          "lat": -26.6293168,
-          "lon": -48.7068672
+          "referencia": "0.22 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
+          "data_hora_posicao": "28/11/2026 08:28:11",
+          "lat": -26.7763648,
+          "lon": -48.685744
         },
-        "distancia_km": 113.4,
+        "distancia_km": 106.8,
         "proximo": false
       },
       {
@@ -307,46 +247,6 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
-      },
-      {
-        "manif": "ITJ024262-4",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 1146.28,
-        "frete_rs": 1235.54,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:14:00",
-          "lat": -27.20604,
-          "lon": -49.6492733333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
-      },
-      {
-        "manif": "ITJ024263-2",
-        "origin_unit": "ITJ",
-        "origin_city": "ITAJAI/SC",
-        "dest_unit": "RSL",
-        "dest_city": "RIO DO SUL/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 1.0,
-        "frete_rs": 119.63,
-        "grupo_origem": "Itajaí",
-        "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:14:00",
-          "lat": -27.20604,
-          "lon": -49.6492733333333
-        },
-        "distancia_km": 0.0,
-        "proximo": true
       }
     ],
     "por_origem": {
@@ -355,24 +255,9 @@
         "frete_rs": 6217.76,
         "qtde": 1
       },
-      "Curitiba": {
-        "peso_kg": 3283.9,
-        "frete_rs": 3127.26,
-        "qtde": 1
-      },
-      "Caxias do Sul / Lages": {
-        "peso_kg": 2258.0,
-        "frete_rs": 7367.72,
-        "qtde": 1
-      },
       "Guarulhos": {
-        "peso_kg": 21926.12,
-        "frete_rs": 31693.28,
-        "qtde": 3
-      },
-      "Itajaí": {
-        "peso_kg": 1147.28,
-        "frete_rs": 1355.17,
+        "peso_kg": 9654.779999999999,
+        "frete_rs": 15843.66,
         "qtde": 2
       }
     }
@@ -418,7 +303,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:13:45",
+          "data_hora_posicao": "28/11/2026 08:29:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -438,7 +323,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:13:45",
+          "data_hora_posicao": "28/11/2026 08:29:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -458,7 +343,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:14:32",
+          "data_hora_posicao": "28/11/2026 08:28:32",
           "lat": -26.8876288,
           "lon": -48.7238848
         },
@@ -478,7 +363,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:13:51",
+          "data_hora_posicao": "28/11/2026 08:29:50",
           "lat": -26.8878433333333,
           "lon": -48.72341
         },
@@ -498,7 +383,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:14:32",
+          "data_hora_posicao": "28/11/2026 08:28:32",
           "lat": -26.8876288,
           "lon": -48.7238848
         },
@@ -564,7 +449,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:12:02",
+          "data_hora_posicao": "28/11/2026 08:28:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -580,5 +465,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-28T08:17:30"
+  "_gerado_em": "2026-11-28T08:32:23"
 }
