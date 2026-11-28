@@ -13,10 +13,10 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
-          "data_hora_posicao": "27/11/2026 20:45:01",
-          "lat": -28.423239,
-          "lon": -48.7979716
+          "referencia": "0.05 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "27/11/2026 21:00:18",
+          "lat": -28.4225085,
+          "lon": -48.7979953
         },
         "distancia_km": 170.9,
         "proximo": false
@@ -33,12 +33,12 @@
         "frete_rs": 2348.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.55 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "27/11/2026 20:43:21",
-          "lat": -25.9084383333333,
-          "lon": -48.9206183333333
+          "referencia": "0.57 km de BR COLD - GARUVA/SC",
+          "data_hora_posicao": "27/11/2026 20:59:21",
+          "lat": -26.0740966666667,
+          "lon": -48.861145
         },
-        "distancia_km": 110.7,
+        "distancia_km": 91.5,
         "proximo": false
       },
       {
@@ -54,7 +54,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "0.02 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 20:44:12",
+          "data_hora_posicao": "27/11/2026 21:00:12",
           "lat": -23.470536,
           "lon": -46.462304
         },
@@ -73,12 +73,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "3.61 km de POSTO BUFFON 14 - TRES CACHOEIRAS/RS",
-          "data_hora_posicao": "27/11/2026 20:44:15",
-          "lat": -29.4798801,
-          "lon": -49.9674601
+          "referencia": "1.92 km de ARROZ FAZENDA COOPERSULCA TORRES - TORRES/RS",
+          "data_hora_posicao": "27/11/2026 20:59:32",
+          "lat": -29.3750531,
+          "lon": -49.8252721
         },
-        "distancia_km": 313.1,
+        "distancia_km": 297.0,
         "proximo": false
       },
       {
@@ -93,10 +93,10 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.01 km de POSTO PETROBRAS - SIM REDE DE POSTOS - LAGUNA/SC",
-          "data_hora_posicao": "27/11/2026 20:45:01",
-          "lat": -28.423239,
-          "lon": -48.7979716
+          "referencia": "0.05 km de POSTO SIM CAMARÃO - LAGUNA/SC",
+          "data_hora_posicao": "27/11/2026 21:00:18",
+          "lat": -28.4225085,
+          "lon": -48.7979953
         },
         "distancia_km": 170.9,
         "proximo": false
@@ -170,12 +170,12 @@
         "frete_rs": 854.14,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.34 km de TIETE VEÍCULOS S/A - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 20:43:58",
-          "lat": -23.4901833333333,
-          "lon": -46.547495
+          "referencia": "0.12 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 21:00:16",
+          "lat": -23.4720316666667,
+          "lon": -46.46184
         },
-        "distancia_km": 9.0,
+        "distancia_km": 0.2,
         "proximo": true
       },
       {
@@ -190,12 +190,12 @@
         "frete_rs": 1310.12,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.34 km de TIETE VEÍCULOS S/A - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 20:43:58",
-          "lat": -23.4901833333333,
-          "lon": -46.547495
+          "referencia": "0.12 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 21:00:16",
+          "lat": -23.4720316666667,
+          "lon": -46.46184
         },
-        "distancia_km": 9.0,
+        "distancia_km": 0.2,
         "proximo": true
       },
       {
@@ -211,7 +211,7 @@
         "grupo_origem": "Curitiba",
         "posicao_raster": {
           "referencia": "0.01 km de POSTO MEGA POSTO CURITIBA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 20:43:48",
+          "data_hora_posicao": "27/11/2026 20:59:48",
           "lat": -25.3506128,
           "lon": -49.060288
         },
@@ -231,7 +231,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:43:45",
+          "data_hora_posicao": "27/11/2026 20:59:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -251,7 +251,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:43:45",
+          "data_hora_posicao": "27/11/2026 20:59:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -270,12 +270,12 @@
         "frete_rs": 9159.62,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:44:39",
-          "lat": -26.8876768,
-          "lon": -48.7206848
+          "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 20:59:39",
+          "lat": -26.8876416,
+          "lon": -48.723888
         },
-        "distancia_km": 442.7,
+        "distancia_km": 442.9,
         "proximo": false
       },
       {
@@ -290,12 +290,12 @@
         "frete_rs": 13632.43,
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
-          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 20:44:39",
-          "lat": -26.8876768,
-          "lon": -48.7206848
+          "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 20:59:39",
+          "lat": -26.8876416,
+          "lon": -48.723888
         },
-        "distancia_km": 442.7,
+        "distancia_km": 442.9,
         "proximo": false
       }
     ],
@@ -336,12 +336,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.24 km de POSTO RODOANEL SUL - EMBU DAS ARTES/SP",
-          "data_hora_posicao": "27/11/2026 20:43:21",
-          "lat": -23.6476224,
-          "lon": -46.8430592
+          "referencia": "0.2 km de BALANÇA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "27/11/2026 20:59:21",
+          "lat": -23.7664896,
+          "lon": -46.9083936
         },
-        "distancia_km": 485.8,
+        "distancia_km": 471.1,
         "proximo": false
       },
       {
@@ -356,12 +356,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.55 km de LANCHONETE JM - GUARATUBA/PR",
-          "data_hora_posicao": "27/11/2026 20:43:21",
-          "lat": -25.9084383333333,
-          "lon": -48.9206183333333
+          "referencia": "0.57 km de BR COLD - GARUVA/SC",
+          "data_hora_posicao": "27/11/2026 20:59:21",
+          "lat": -26.0740966666667,
+          "lon": -48.861145
         },
-        "distancia_km": 161.5,
+        "distancia_km": 148.3,
         "proximo": false
       },
       {
@@ -376,12 +376,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 20:39:27",
-          "lat": -27.3078784,
-          "lon": -50.2313216
+          "referencia": "10.65 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 20:59:27",
+          "lat": -27.3029376,
+          "lon": -50.0783616
         },
-        "distancia_km": 58.6,
+        "distancia_km": 43.7,
         "proximo": false
       },
       {
@@ -397,9 +397,9 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 20:43:58",
-          "lat": -29.146361,
-          "lon": -51.164933
+          "data_hora_posicao": "27/11/2026 20:59:58",
+          "lat": -29.146384,
+          "lon": -51.1648815
         },
         "distancia_km": 261.9,
         "proximo": false
@@ -416,12 +416,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO CAJATI - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 20:44:29",
-          "lat": -24.736152,
-          "lon": -48.1191584
+          "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 20:58:29",
+          "lat": -24.7800464,
+          "lon": -48.1859808
         },
-        "distancia_km": 314.4,
+        "distancia_km": 306.9,
         "proximo": false
       },
       {
@@ -437,7 +437,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.46 km de MULTI EXPRESS - LAGES/SC",
-          "data_hora_posicao": "27/11/2026 20:43:07",
+          "data_hora_posicao": "27/11/2026 20:53:06",
           "lat": -27.82648,
           "lon": -50.3625066666667
         },
@@ -456,12 +456,12 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 20:39:27",
-          "lat": -27.3078784,
-          "lon": -50.2313216
+          "referencia": "10.65 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 20:59:27",
+          "lat": -27.3029376,
+          "lon": -50.0783616
         },
-        "distancia_km": 58.6,
+        "distancia_km": 43.7,
         "proximo": false
       },
       {
@@ -476,12 +476,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.2 km de SABOR DA SERRA - SAO CRISTOVAO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 20:39:27",
-          "lat": -27.3078784,
-          "lon": -50.2313216
+          "referencia": "10.65 km de POSTO AGRICOPEL (MIME 14) - POUSO REDONDO/SC",
+          "data_hora_posicao": "27/11/2026 20:59:27",
+          "lat": -27.3029376,
+          "lon": -50.0783616
         },
-        "distancia_km": 58.6,
+        "distancia_km": 43.7,
         "proximo": false
       },
       {
@@ -497,8 +497,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 20:44:24",
-          "lat": -29.1463872,
+          "data_hora_posicao": "27/11/2026 20:58:24",
+          "lat": -29.1463104,
           "lon": -51.1648384
         },
         "distancia_km": 261.9,
@@ -548,8 +548,8 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.01 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 20:44:24",
-          "lat": -29.1463872,
+          "data_hora_posicao": "27/11/2026 20:58:24",
+          "lat": -29.1463104,
           "lon": -51.1648384
         },
         "distancia_km": null,
@@ -579,7 +579,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 20:44:02",
+          "data_hora_posicao": "27/11/2026 21:00:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -595,5 +595,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T20:47:25"
+  "_gerado_em": "2026-11-27T21:02:34"
 }
