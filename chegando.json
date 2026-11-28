@@ -13,13 +13,13 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "27/11/2026 23:14:20",
-          "lat": -27.1399391,
-          "lon": -48.610082
+          "referencia": "0.4 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "27/11/2026 23:28:16",
+          "lat": -27.0071003,
+          "lon": -48.6191865
         },
-        "distancia_km": 30.1,
-        "proximo": false
+        "distancia_km": 16.7,
+        "proximo": true
       },
       {
         "manif": "CTB013693-0",
@@ -33,13 +33,13 @@
         "frete_rs": 2348.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.54 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
-          "data_hora_posicao": "27/11/2026 23:14:46",
-          "lat": -26.4908516666667,
-          "lon": -48.733965
+          "referencia": "0.19 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
+          "data_hora_posicao": "27/11/2026 23:28:46",
+          "lat": -26.637925,
+          "lon": -48.695385
         },
-        "distancia_km": 44.1,
-        "proximo": false
+        "distancia_km": 27.9,
+        "proximo": true
       },
       {
         "manif": "GRU075235-5",
@@ -53,12 +53,12 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.09 km de PEDAGIO - P1 PARELHEIROS (SENTIDO EMBU) - SAO PAULO/SP",
-          "data_hora_posicao": "27/11/2026 23:14:12",
-          "lat": -23.7818752,
-          "lon": -46.7624704
+          "referencia": "0.41 km de FILIAL TRANSPORTADORA PELLENZ LTDA - EMBU DAS ARTES/SP",
+          "data_hora_posicao": "27/11/2026 23:29:42",
+          "lat": -23.6362592,
+          "lon": -46.833936
         },
-        "distancia_km": 397.5,
+        "distancia_km": 408.3,
         "proximo": false
       },
       {
@@ -89,7 +89,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "27/11/2026 23:12:07",
+          "data_hora_posicao": "27/11/2026 23:29:44",
           "lat": -28.610868,
           "lon": -49.0596215
         },
@@ -108,13 +108,13 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "1.44 km de BALANÇA - ITAPEMA/SC",
-          "data_hora_posicao": "27/11/2026 23:14:20",
-          "lat": -27.1399391,
-          "lon": -48.610082
+          "referencia": "0.4 km de BIG HIPERMERCADO WALMART (LOJA 200) - BALNEARIO CAMBORIU/SC",
+          "data_hora_posicao": "27/11/2026 23:28:16",
+          "lat": -27.0071003,
+          "lon": -48.6191865
         },
-        "distancia_km": 30.1,
-        "proximo": false
+        "distancia_km": 16.7,
+        "proximo": true
       }
     ],
     "por_origem": {
@@ -161,6 +161,46 @@
         "posicao_raster": null,
         "distancia_km": null,
         "proximo": false
+      },
+      {
+        "manif": "GRU075243-6",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "ALESSANDRO SANTOS SILVA",
+        "peso_real_kg": 2735.28,
+        "frete_rs": 3683.69,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 23:29:56",
+          "lat": -23.4707433333333,
+          "lon": -46.46212
+        },
+        "distancia_km": null,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075244-4",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "CMP",
+        "dest_city": "CAMPINAS/SP",
+        "placa": "RLB6A19",
+        "motorista": "ALESSANDRO SANTOS SILVA",
+        "peso_real_kg": 299.0,
+        "frete_rs": 393.19,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": {
+          "referencia": "0.01 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 23:29:56",
+          "lat": -23.4707433333333,
+          "lon": -46.46212
+        },
+        "distancia_km": null,
+        "proximo": false
       }
     ],
     "por_origem": {
@@ -168,6 +208,11 @@
         "peso_kg": 991.2,
         "frete_rs": 1757.0,
         "qtde": 1
+      },
+      "Guarulhos": {
+        "peso_kg": 3034.28,
+        "frete_rs": 4076.88,
+        "qtde": 2
       }
     }
   },
@@ -185,12 +230,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.66 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
-          "data_hora_posicao": "27/11/2026 23:13:21",
-          "lat": -24.6563792,
-          "lon": -47.9652288
+          "referencia": "1.26 km de POSTO CAJATI - CAJATI/SP",
+          "data_hora_posicao": "27/11/2026 23:29:21",
+          "lat": -24.7419216,
+          "lon": -48.128976
         },
-        "distancia_km": 329.8,
+        "distancia_km": 313.3,
         "proximo": false
       },
       {
@@ -205,12 +250,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.54 km de HYOSUNG INDÚSTRIA E COMÉRCIO DE FIBRAS LTDA - ARAQUARI/SC",
-          "data_hora_posicao": "27/11/2026 23:14:46",
-          "lat": -26.4908516666667,
-          "lon": -48.733965
+          "referencia": "0.19 km de POSTO HAVAN 24H - BARRA VELHA/SC - BARRA VELHA/SC",
+          "data_hora_posicao": "27/11/2026 23:28:46",
+          "lat": -26.637925,
+          "lon": -48.695385
         },
-        "distancia_km": 120.7,
+        "distancia_km": 113.8,
         "proximo": false
       },
       {
@@ -226,7 +271,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 23:12:01",
+          "data_hora_posicao": "27/11/2026 23:28:01",
           "lat": -29.146321,
           "lon": -51.1648846
         },
@@ -245,12 +290,12 @@
         "frete_rs": 10413.2,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "27/11/2026 23:14:49",
-          "lat": -28.823136,
-          "lon": -51.2711232
+          "referencia": "5.89 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "27/11/2026 23:28:24",
+          "lat": -28.7179936,
+          "lon": -51.2412288
         },
-        "distancia_km": 240.1,
+        "distancia_km": 229.6,
         "proximo": false
       },
       {
@@ -265,12 +310,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.8 km de RESTAURANTE E LANCHONETE BANDEIRA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 23:14:30",
-          "lat": -25.0883424,
-          "lon": -48.6451584
+          "referencia": "0.77 km de POSTO PELANDA ALPINO 02 - CAMPINA GRANDE DO SUL/PR",
+          "data_hora_posicao": "27/11/2026 23:28:30",
+          "lat": -25.1085088,
+          "lon": -48.8016704
         },
-        "distancia_km": 255.9,
+        "distancia_km": 248.1,
         "proximo": false
       },
       {
@@ -285,12 +330,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.05 km de PEDAGIO - P5 (SENTIDO ANCHIETA SP) - SAO BERNARDO DO CAMPO/SP",
-          "data_hora_posicao": "27/11/2026 23:14:11",
-          "lat": -23.7638576,
-          "lon": -46.5356032
+          "referencia": "4.33 km de POLICIA MILITAR - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 23:28:11",
+          "lat": -23.8049712,
+          "lon": -46.6966624
         },
-        "distancia_km": 494.1,
+        "distancia_km": 480.4,
         "proximo": false
       },
       {
@@ -320,12 +365,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.17 km de POSTO ANDREZZA - IPE/RS",
-          "data_hora_posicao": "27/11/2026 23:14:49",
-          "lat": -28.823136,
-          "lon": -51.2711232
+          "referencia": "5.89 km de POSTO A B L - IPE/RS",
+          "data_hora_posicao": "27/11/2026 23:28:24",
+          "lat": -28.7179936,
+          "lon": -51.2412288
         },
-        "distancia_km": 240.1,
+        "distancia_km": 229.6,
         "proximo": false
       }
     ],
@@ -371,12 +416,12 @@
         "frete_rs": 9312.73,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.78 km de LANCHONETE E HOTEL CORTESIA - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 23:14:14",
-          "lat": -24.7443664,
-          "lon": -48.1437632
+          "referencia": "1.62 km de BORRACHARIA PARADA 470 - JACUPIRANGA/SP",
+          "data_hora_posicao": "27/11/2026 23:29:48",
+          "lat": -24.6628736,
+          "lon": -47.9716192
         },
-        "distancia_km": 221.8,
+        "distancia_km": 202.6,
         "proximo": false
       },
       {
@@ -392,7 +437,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:13:45",
+          "data_hora_posicao": "27/11/2026 23:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -412,7 +457,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:13:45",
+          "data_hora_posicao": "27/11/2026 23:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -432,7 +477,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:14:32",
+          "data_hora_posicao": "27/11/2026 23:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -452,7 +497,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:14:32",
+          "data_hora_posicao": "27/11/2026 23:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -549,7 +594,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 23:12:02",
+          "data_hora_posicao": "27/11/2026 23:28:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -565,5 +610,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T23:17:24"
+  "_gerado_em": "2026-11-27T23:32:28"
 }
