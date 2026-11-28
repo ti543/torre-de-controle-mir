@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:28:06",
+          "data_hora_posicao": "28/11/2026 08:44:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -33,12 +33,12 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.12 km de POSTO GRAAL GRANDE PARADA SUL - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "28/11/2026 08:28:12",
-          "lat": -26.7900368,
-          "lon": -48.6814848
+          "referencia": "0.05 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "28/11/2026 08:44:12",
+          "lat": -26.8876448,
+          "lon": -48.7205952
         },
-        "distancia_km": 11.5,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -69,9 +69,9 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:52:55",
-          "lat": -26.8873984,
-          "lon": -48.7211776
+          "data_hora_posicao": "28/11/2026 08:45:15",
+          "lat": -26.8874071,
+          "lon": -48.7212391
         },
         "distancia_km": 0.0,
         "proximo": true
@@ -89,7 +89,7 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:28:06",
+          "data_hora_posicao": "28/11/2026 08:44:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -150,7 +150,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 08:29:48",
+          "data_hora_posicao": "28/11/2026 08:43:48",
           "lat": -22.8469,
           "lon": -47.1247316666667
         },
@@ -170,7 +170,7 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 08:29:48",
+          "data_hora_posicao": "28/11/2026 08:43:48",
           "lat": -22.8469,
           "lon": -47.1247316666667
         },
@@ -205,12 +205,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.76 km de POSTO COLIBRIS - LONTRAS/SC",
-          "data_hora_posicao": "28/11/2026 08:29:21",
-          "lat": -27.1523328,
-          "lon": -49.5564928
+          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "28/11/2026 08:43:21",
+          "lat": -27.2057376,
+          "lon": -49.6490368
         },
-        "distancia_km": 11.0,
+        "distancia_km": 0.1,
         "proximo": true
       },
       {
@@ -225,12 +225,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.22 km de MEVEPI SCANIA - BALNEARIO PICARRAS/SC",
-          "data_hora_posicao": "28/11/2026 08:28:11",
-          "lat": -26.7763648,
-          "lon": -48.685744
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "28/11/2026 08:45:09",
+          "lat": -26.8873664,
+          "lon": -48.7206208
         },
-        "distancia_km": 106.8,
+        "distancia_km": 98.6,
         "proximo": false
       },
       {
@@ -303,7 +303,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:29:45",
+          "data_hora_posicao": "28/11/2026 08:43:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -323,7 +323,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:29:45",
+          "data_hora_posicao": "28/11/2026 08:43:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -343,7 +343,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:28:32",
+          "data_hora_posicao": "28/11/2026 08:44:32",
           "lat": -26.8876288,
           "lon": -48.7238848
         },
@@ -363,7 +363,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:29:50",
+          "data_hora_posicao": "28/11/2026 08:41:50",
           "lat": -26.8878433333333,
           "lon": -48.72341
         },
@@ -383,7 +383,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 08:28:32",
+          "data_hora_posicao": "28/11/2026 08:44:32",
           "lat": -26.8876288,
           "lon": -48.7238848
         },
@@ -449,7 +449,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:28:02",
+          "data_hora_posicao": "28/11/2026 08:44:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -465,5 +465,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-28T08:32:23"
+  "_gerado_em": "2026-11-28T08:47:26"
 }
