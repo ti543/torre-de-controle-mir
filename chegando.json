@@ -14,7 +14,7 @@
         "grupo_origem": "ARR",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:56:06",
+          "data_hora_posicao": "28/11/2026 08:12:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -33,13 +33,13 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "28/11/2026 07:58:12",
-          "lat": -26.553936,
-          "lon": -48.720032
+          "referencia": "0.37 km de AUTO POSTO AVIZ - BARRA VELHA/SC",
+          "data_hora_posicao": "28/11/2026 08:14:12",
+          "lat": -26.6455552,
+          "lon": -48.6876032
         },
-        "distancia_km": 37.1,
-        "proximo": false
+        "distancia_km": 27.1,
+        "proximo": true
       },
       {
         "manif": "GRU075240-1",
@@ -89,7 +89,7 @@
         "grupo_origem": "TUB",
         "posicao_raster": {
           "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:56:06",
+          "data_hora_posicao": "28/11/2026 08:12:06",
           "lat": -26.8876528,
           "lon": -48.7211473
         },
@@ -150,9 +150,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 07:59:48",
-          "lat": -22.8469466666667,
-          "lon": -47.1247516666667
+          "data_hora_posicao": "28/11/2026 08:15:05",
+          "lat": -22.8469,
+          "lon": -47.1247316666667
         },
         "distancia_km": null,
         "proximo": false
@@ -170,9 +170,9 @@
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
           "referencia": "1.06 km de TRAZZHI & MESSIAS INDÚSTRIA COMÉRCIO MÓVEIS - CAMPINAS/SP",
-          "data_hora_posicao": "28/11/2026 07:59:48",
-          "lat": -22.8469466666667,
-          "lon": -47.1247516666667
+          "data_hora_posicao": "28/11/2026 08:15:05",
+          "lat": -22.8469,
+          "lon": -47.1247316666667
         },
         "distancia_km": null,
         "proximo": false
@@ -205,12 +205,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "0.64 km de POSTO RUSSI - LONTRAS/SC",
-          "data_hora_posicao": "28/11/2026 07:59:21",
-          "lat": -27.1319456,
-          "lon": -49.5385856
+          "referencia": "0 km de POSTO RUSSI - LONTRAS/SC",
+          "data_hora_posicao": "28/11/2026 08:15:21",
+          "lat": -27.1358016,
+          "lon": -49.5433888
         },
-        "distancia_km": 13.7,
+        "distancia_km": 13.1,
         "proximo": true
       },
       {
@@ -225,12 +225,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 07:58:47",
-          "lat": -27.2058266666667,
-          "lon": -49.649035
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "28/11/2026 08:14:00",
+          "lat": -27.20604,
+          "lon": -49.6492733333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -246,7 +246,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 07:58:39",
+          "data_hora_posicao": "28/11/2026 08:14:39",
           "lat": -27.2059811,
           "lon": -49.649764
         },
@@ -265,10 +265,10 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 07:58:30",
-          "lat": -27.2058464,
-          "lon": -49.6489856
+          "referencia": "0.05 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "28/11/2026 08:14:30",
+          "lat": -27.2057504,
+          "lon": -49.6487744
         },
         "distancia_km": 0.1,
         "proximo": true
@@ -285,12 +285,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.1 km de POSTO RUSSI ARAQUARI - ARAQUARI/SC",
-          "data_hora_posicao": "28/11/2026 07:58:11",
-          "lat": -26.5540816,
-          "lon": -48.7207616
+          "referencia": "0.09 km de POSTO MAIOCHI NORTE - BARRA VELHA/SC",
+          "data_hora_posicao": "28/11/2026 08:14:11",
+          "lat": -26.6293168,
+          "lon": -48.7068672
         },
-        "distancia_km": 117.2,
+        "distancia_km": 113.4,
         "proximo": false
       },
       {
@@ -320,12 +320,12 @@
         "frete_rs": 1235.54,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 07:58:47",
-          "lat": -27.2058266666667,
-          "lon": -49.649035
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "28/11/2026 08:14:00",
+          "lat": -27.20604,
+          "lon": -49.6492733333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -340,12 +340,12 @@
         "frete_rs": 119.63,
         "grupo_origem": "Itajaí",
         "posicao_raster": {
-          "referencia": "0.02 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 07:58:47",
-          "lat": -27.2058266666667,
-          "lon": -49.649035
+          "referencia": "0.03 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "28/11/2026 08:14:00",
+          "lat": -27.20604,
+          "lon": -49.6492733333333
         },
-        "distancia_km": 0.1,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -418,7 +418,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:59:45",
+          "data_hora_posicao": "28/11/2026 08:13:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -438,7 +438,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.07 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:59:45",
+          "data_hora_posicao": "28/11/2026 08:13:45",
           "lat": -26.88776,
           "lon": -48.7236928
         },
@@ -458,9 +458,9 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:58:32",
-          "lat": -26.8875968,
-          "lon": -48.7239808
+          "data_hora_posicao": "28/11/2026 08:14:32",
+          "lat": -26.8876288,
+          "lon": -48.7238848
         },
         "distancia_km": 442.9,
         "proximo": false
@@ -478,7 +478,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.1 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:59:51",
+          "data_hora_posicao": "28/11/2026 08:13:51",
           "lat": -26.8878433333333,
           "lon": -48.72341
         },
@@ -498,9 +498,9 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "28/11/2026 07:58:32",
-          "lat": -26.8875968,
-          "lon": -48.7239808
+          "data_hora_posicao": "28/11/2026 08:14:32",
+          "lat": -26.8876288,
+          "lon": -48.7238848
         },
         "distancia_km": 442.9,
         "proximo": false
@@ -564,7 +564,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "28/11/2026 08:00:02",
+          "data_hora_posicao": "28/11/2026 08:12:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -580,5 +580,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-28T08:02:31"
+  "_gerado_em": "2026-11-28T08:17:30"
 }
