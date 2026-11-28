@@ -13,32 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.18 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:44:23",
-          "lat": -26.9178808,
-          "lon": -48.7095336
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "28/11/2026 00:00:06",
+          "lat": -26.8874296,
+          "lon": -48.7213448
         },
-        "distancia_km": 3.6,
-        "proximo": true
-      },
-      {
-        "manif": "CTB013693-0",
-        "origin_unit": "CTB",
-        "origin_city": "CURITIBA/PR",
-        "dest_unit": "ITJ",
-        "dest_city": "ITAJAI/SC",
-        "placa": "RXT2B48",
-        "motorista": "ANDRE FILIPI HOLLER",
-        "peso_real_kg": 1888.53,
-        "frete_rs": 2348.71,
-        "grupo_origem": "Curitiba",
-        "posicao_raster": {
-          "referencia": "0.04 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
-          "data_hora_posicao": "27/11/2026 23:44:46",
-          "lat": -26.8217466666667,
-          "lon": -48.6855316666667
-        },
-        "distancia_km": 8.1,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -53,12 +33,12 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.16 km de POSTO 41 - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 23:44:12",
-          "lat": -23.762752,
-          "lon": -46.9058976
+          "referencia": "0.65 km de POSTO E RESTAURANTE DIONISIO 88 JUQUITIBA - JUQUITIBA/SP",
+          "data_hora_posicao": "28/11/2026 00:00:12",
+          "lat": -23.9049552,
+          "lon": -46.991776
         },
-        "distancia_km": 392.4,
+        "distancia_km": 374.4,
         "proximo": false
       },
       {
@@ -89,7 +69,7 @@
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
           "referencia": "0.03 km de POSTO NAPOLI - JAGUARUNA/SC",
-          "data_hora_posicao": "27/11/2026 23:41:44",
+          "data_hora_posicao": "27/11/2026 23:57:44",
           "lat": -28.610868,
           "lon": -49.0596215
         },
@@ -108,12 +88,12 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.18 km de RECH IMPORTADORA E DISTRIBUIDORA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:44:23",
-          "lat": -26.9178808,
-          "lon": -48.7095336
+          "referencia": "0.04 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "28/11/2026 00:00:06",
+          "lat": -26.8874296,
+          "lon": -48.7213448
         },
-        "distancia_km": 3.6,
+        "distancia_km": 0.0,
         "proximo": true
       }
     ],
@@ -121,11 +101,6 @@
       "ARR": {
         "peso_kg": 607.0,
         "frete_rs": 719.31,
-        "qtde": 1
-      },
-      "Curitiba": {
-        "peso_kg": 1888.53,
-        "frete_rs": 2348.71,
         "qtde": 1
       },
       "Guarulhos": {
@@ -174,10 +149,10 @@
         "frete_rs": 3683.69,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 23:44:59",
-          "lat": -23.4732366666667,
-          "lon": -46.46266
+          "referencia": "0.38 km de ASSAI ATACADISTA LTDA (MARGINAL TIETE - PENHA) - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 23:58:58",
+          "lat": -23.5132666666667,
+          "lon": -46.5569566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -194,10 +169,10 @@
         "frete_rs": 393.19,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de CVS COM. DE ALIMENTOS E SERVS. DE CARTOES LTDA - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 23:44:59",
-          "lat": -23.4732366666667,
-          "lon": -46.46266
+          "referencia": "0.38 km de ASSAI ATACADISTA LTDA (MARGINAL TIETE - PENHA) - SAO PAULO/SP",
+          "data_hora_posicao": "27/11/2026 23:58:58",
+          "lat": -23.5132666666667,
+          "lon": -46.5569566666667
         },
         "distancia_km": null,
         "proximo": false
@@ -231,9 +206,9 @@
         "grupo_origem": "Campinas",
         "posicao_raster": {
           "referencia": "0.05 km de POSTO E RESTAURANTE ONGARATO 500 - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 23:43:21",
-          "lat": -24.7796272,
-          "lon": -48.1854016
+          "data_hora_posicao": "27/11/2026 23:59:21",
+          "lat": -24.7800384,
+          "lon": -48.1860384
         },
         "distancia_km": 306.9,
         "proximo": false
@@ -250,12 +225,12 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.04 km de CRISTIANO FERRO VELHO E AUTO PEÇAS - PENHA/SC",
-          "data_hora_posicao": "27/11/2026 23:44:46",
-          "lat": -26.8217466666667,
-          "lon": -48.6855316666667
+          "referencia": "0.02 km de FILIAL MIRIM - ITAJAI/SC",
+          "data_hora_posicao": "27/11/2026 23:59:51",
+          "lat": -26.8874466666667,
+          "lon": -48.7211983333333
         },
-        "distancia_km": 104.6,
+        "distancia_km": 98.5,
         "proximo": false
       },
       {
@@ -271,7 +246,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 23:44:01",
+          "data_hora_posicao": "28/11/2026 00:00:01",
           "lat": -29.146321,
           "lon": -51.1648846
         },
@@ -290,12 +265,12 @@
         "frete_rs": 10413.2,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.59 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "27/11/2026 23:45:06",
-          "lat": -28.649712,
-          "lon": -51.0997312
+          "referencia": "4.15 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 23:58:26",
+          "lat": -28.5895424,
+          "lon": -51.0290848
         },
-        "distancia_km": 214.6,
+        "distancia_km": 205.0,
         "proximo": false
       },
       {
@@ -310,12 +285,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.3 km de MERCADO DO POVO - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 23:44:30",
-          "lat": -25.2080416,
-          "lon": -48.8963424
+          "referencia": "0.49 km de SUPERMERCADO DO CAMINHONEIRO - QUATRO BARRAS/PR",
+          "data_hora_posicao": "27/11/2026 23:56:30",
+          "lat": -25.3031232,
+          "lon": -48.9654016
         },
-        "distancia_km": 234.5,
+        "distancia_km": 222.3,
         "proximo": false
       },
       {
@@ -330,12 +305,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.18 km de ATACADÃO - ITAPECERICA DA SERRA - ITAPECERICA DA SERRA/SP",
-          "data_hora_posicao": "27/11/2026 23:45:01",
-          "lat": -23.6867408,
-          "lon": -46.8186112
+          "referencia": "1.05 km de POSTO BATALHA - ITAPECERICA DA SERRA/SP",
+          "data_hora_posicao": "28/11/2026 00:00:11",
+          "lat": -23.7219808,
+          "lon": -46.8879648
         },
-        "distancia_km": 483.6,
+        "distancia_km": 476.4,
         "proximo": false
       },
       {
@@ -365,12 +340,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.59 km de CAFETERIA TENDA DO BELEZA - CAMPESTRE DA SERRA/RS",
-          "data_hora_posicao": "27/11/2026 23:45:06",
-          "lat": -28.649712,
-          "lon": -51.0997312
+          "referencia": "4.15 km de RESTAURANTE QUIOSQUE DO GUARANÁ - VACARIA/RS",
+          "data_hora_posicao": "27/11/2026 23:58:26",
+          "lat": -28.5895424,
+          "lon": -51.0290848
         },
-        "distancia_km": 214.6,
+        "distancia_km": 205.0,
         "proximo": false
       }
     ],
@@ -416,12 +391,12 @@
         "frete_rs": 9312.73,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "2.11 km de POSTO GRAAL PETROPEN - PARIQUERA-ACU/SP",
-          "data_hora_posicao": "27/11/2026 23:37:48",
-          "lat": -24.6092112,
-          "lon": -47.8814016
+          "referencia": "0.36 km de PEDAGIO - JUQUIA - JUQUIA/SP",
+          "data_hora_posicao": "27/11/2026 23:59:48",
+          "lat": -24.3924976,
+          "lon": -47.7234368
         },
-        "distancia_km": 191.8,
+        "distancia_km": 164.1,
         "proximo": false
       },
       {
@@ -437,7 +412,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:43:45",
+          "data_hora_posicao": "27/11/2026 23:59:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -457,7 +432,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:43:45",
+          "data_hora_posicao": "27/11/2026 23:59:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -477,7 +452,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:44:32",
+          "data_hora_posicao": "27/11/2026 23:58:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -497,7 +472,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 23:44:32",
+          "data_hora_posicao": "27/11/2026 23:58:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -594,7 +569,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 23:44:02",
+          "data_hora_posicao": "28/11/2026 00:00:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -610,5 +585,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T23:47:33"
+  "_gerado_em": "2026-11-28T00:02:34"
 }
