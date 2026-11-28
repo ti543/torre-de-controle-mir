@@ -13,12 +13,12 @@
         "frete_rs": 719.31,
         "grupo_origem": "ARR",
         "posicao_raster": {
-          "referencia": "0.79 km de DESENTUPIDORA PIRES - PALHOCA/SC",
-          "data_hora_posicao": "27/11/2026 22:14:17",
-          "lat": -27.6823235,
-          "lon": -48.6737661
+          "referencia": "1.95 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "27/11/2026 22:29:48",
+          "lat": -27.566064,
+          "lon": -48.6947733
         },
-        "distancia_km": 88.5,
+        "distancia_km": 75.5,
         "proximo": false
       },
       {
@@ -33,12 +33,12 @@
         "frete_rs": 2348.71,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.45 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 22:14:01",
-          "lat": -26.3093616666667,
-          "lon": -48.878435
+          "referencia": "0.47 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
+          "data_hora_posicao": "27/11/2026 22:28:09",
+          "lat": -26.3095066666667,
+          "lon": -48.87828
         },
-        "distancia_km": 66.2,
+        "distancia_km": 66.1,
         "proximo": false
       },
       {
@@ -53,12 +53,27 @@
         "frete_rs": 13972.53,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "1.43 km de LATASA RECICLAGEM - ITAQUAQUECETUBA/SP",
-          "data_hora_posicao": "27/11/2026 22:14:12",
-          "lat": -23.4404464,
-          "lon": -46.3561408
+          "referencia": "0.57 km de BORRACHARIA - SUZANO/SP",
+          "data_hora_posicao": "27/11/2026 22:28:12",
+          "lat": -23.579592,
+          "lon": -46.3471136
         },
-        "distancia_km": 451.1,
+        "distancia_km": 438.5,
+        "proximo": false
+      },
+      {
+        "manif": "GRU075240-1",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "ITJ",
+        "dest_city": "ITAJAI/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 1422.46,
+        "frete_rs": 3113.23,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
         "proximo": false
       },
       {
@@ -73,12 +88,12 @@
         "frete_rs": 3339.93,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.43 km de BISTEK SUPERMECADOS LTDA (CENTRAL DE DISTRIBUIÇÃO) - ICARA/SC",
-          "data_hora_posicao": "27/11/2026 22:14:14",
-          "lat": -28.7686118,
-          "lon": -49.3020863
+          "referencia": "3.26 km de POSTO RONSANI - ICARA/SC",
+          "data_hora_posicao": "27/11/2026 22:27:33",
+          "lat": -28.6882803,
+          "lon": -49.1582688
         },
-        "distancia_km": 216.8,
+        "distancia_km": 204.8,
         "proximo": false
       },
       {
@@ -93,12 +108,12 @@
         "frete_rs": 4182.11,
         "grupo_origem": "TUB",
         "posicao_raster": {
-          "referencia": "0.79 km de DESENTUPIDORA PIRES - PALHOCA/SC",
-          "data_hora_posicao": "27/11/2026 22:14:17",
-          "lat": -27.6823235,
-          "lon": -48.6737661
+          "referencia": "1.95 km de FRIGORIFICO JBS S/A - SAO JOSE/SC",
+          "data_hora_posicao": "27/11/2026 22:29:48",
+          "lat": -27.566064,
+          "lon": -48.6947733
         },
-        "distancia_km": 88.5,
+        "distancia_km": 75.5,
         "proximo": false
       }
     ],
@@ -114,9 +129,9 @@
         "qtde": 1
       },
       "Guarulhos": {
-        "peso_kg": 8212.51,
-        "frete_rs": 13972.53,
-        "qtde": 1
+        "peso_kg": 9634.970000000001,
+        "frete_rs": 17085.760000000002,
+        "qtde": 2
       },
       "Porto Alegre": {
         "peso_kg": 3152.95,
@@ -170,12 +185,12 @@
         "frete_rs": 6217.76,
         "grupo_origem": "Campinas",
         "posicao_raster": {
-          "referencia": "1.64 km de POSTO VALE DO RIBEIRA - MIRACATU/SP",
-          "data_hora_posicao": "27/11/2026 22:15:01",
-          "lat": -24.2800768,
-          "lon": -47.428432
+          "referencia": "0.51 km de FRESCHI PALMITO PUPUNHA - JUQUIA/SP",
+          "data_hora_posicao": "27/11/2026 22:29:21",
+          "lat": -24.3343264,
+          "lon": -47.597232
         },
-        "distancia_km": 394.1,
+        "distancia_km": 379.7,
         "proximo": false
       },
       {
@@ -190,10 +205,10 @@
         "frete_rs": 3127.26,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "0.45 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
-          "data_hora_posicao": "27/11/2026 22:14:01",
-          "lat": -26.3093616666667,
-          "lon": -48.878435
+          "referencia": "0.47 km de MAKRO ATACADISTA S/A - JOINVILLE/SC",
+          "data_hora_posicao": "27/11/2026 22:28:09",
+          "lat": -26.3095066666667,
+          "lon": -48.87828
         },
         "distancia_km": 125.7,
         "proximo": false
@@ -210,12 +225,12 @@
         "frete_rs": 3070.61,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.36 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 22:14:25",
-          "lat": -27.2086784,
-          "lon": -49.6510016
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 22:29:05",
+          "lat": -27.2061376,
+          "lon": -49.6493696
         },
-        "distancia_km": 0.3,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -231,7 +246,7 @@
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
           "referencia": "0 km de FILIAL MIRIN - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 22:12:01",
+          "data_hora_posicao": "27/11/2026 22:28:01",
           "lat": -29.146321,
           "lon": -51.1648846
         },
@@ -250,12 +265,12 @@
         "frete_rs": 10413.2,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SIM FÁTIMA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 22:14:25",
-          "lat": -29.1365536,
-          "lon": -51.183568
+          "referencia": "0.04 km de METALÚRGICA SANDRIZZO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "27/11/2026 22:30:02",
+          "lat": -29.0423744,
+          "lon": -51.1988
         },
-        "distancia_km": 262.1,
+        "distancia_km": 254.5,
         "proximo": false
       },
       {
@@ -270,12 +285,12 @@
         "frete_rs": 15849.62,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.83 km de BARRACA DO NALDINHO - CAJATI/SP",
-          "data_hora_posicao": "27/11/2026 22:10:30",
-          "lat": -24.801416,
-          "lon": -48.213104
+          "referencia": "1.01 km de PRF - UOP BARRA DO TURVO - BARRA DO TURVO/SP",
+          "data_hora_posicao": "27/11/2026 22:29:21",
+          "lat": -24.9247696,
+          "lon": -48.2643456
         },
-        "distancia_km": 303.5,
+        "distancia_km": 288.9,
         "proximo": false
       },
       {
@@ -290,12 +305,12 @@
         "frete_rs": 6204.61,
         "grupo_origem": "Guarulhos",
         "posicao_raster": {
-          "referencia": "0.04 km de MIR TRANSPORTES - FILIAL GUARULHOS - GUARULHOS/SP",
-          "data_hora_posicao": "27/11/2026 22:14:46",
-          "lat": -23.470328,
-          "lon": -46.4618688
+          "referencia": "0.66 km de TOCANTINS TRANSPORTES E LOGÍSTICA - GUARULHOS/SP",
+          "data_hora_posicao": "27/11/2026 22:28:11",
+          "lat": -23.4339328,
+          "lon": -46.4232384
         },
-        "distancia_km": 524.5,
+        "distancia_km": 530.1,
         "proximo": false
       },
       {
@@ -325,12 +340,12 @@
         "frete_rs": 4875.93,
         "grupo_origem": "Caxias do Sul / Lages",
         "posicao_raster": {
-          "referencia": "0.36 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 22:14:25",
-          "lat": -27.2086784,
-          "lon": -49.6510016
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 22:29:05",
+          "lat": -27.2061376,
+          "lon": -49.6493696
         },
-        "distancia_km": 0.3,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -345,12 +360,12 @@
         "frete_rs": 2855.67,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.36 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 22:14:25",
-          "lat": -27.2086784,
-          "lon": -49.6510016
+          "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
+          "data_hora_posicao": "27/11/2026 22:29:05",
+          "lat": -27.2061376,
+          "lon": -49.6493696
         },
-        "distancia_km": 0.3,
+        "distancia_km": 0.0,
         "proximo": true
       },
       {
@@ -365,12 +380,12 @@
         "frete_rs": 4560.9,
         "grupo_origem": "Porto Alegre",
         "posicao_raster": {
-          "referencia": "0.09 km de POSTO SIM FÁTIMA - CAXIAS DO SUL/RS",
-          "data_hora_posicao": "27/11/2026 22:14:25",
-          "lat": -29.1365536,
-          "lon": -51.183568
+          "referencia": "0.04 km de METALÚRGICA SANDRIZZO - FLORES DA CUNHA/RS",
+          "data_hora_posicao": "27/11/2026 22:30:02",
+          "lat": -29.0423744,
+          "lon": -51.1988
         },
-        "distancia_km": 262.1,
+        "distancia_km": 254.5,
         "proximo": false
       }
     ],
@@ -416,12 +431,12 @@
         "frete_rs": 9312.73,
         "grupo_origem": "Curitiba",
         "posicao_raster": {
-          "referencia": "1.99 km de B&B AUTO SOCORRO E MECANICA - CAMPINA GRANDE DO SUL/PR",
-          "data_hora_posicao": "27/11/2026 22:13:48",
-          "lat": -25.048216,
-          "lon": -48.5468448
+          "referencia": "3.4 km de POSTO GIOVANELA - BARRA DO TURVO/SP",
+          "data_hora_posicao": "27/11/2026 22:25:14",
+          "lat": -24.9667072,
+          "lon": -48.4740096
         },
-        "distancia_km": 274.6,
+        "distancia_km": 263.2,
         "proximo": false
       },
       {
@@ -437,7 +452,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 22:13:45",
+          "data_hora_posicao": "27/11/2026 22:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -457,7 +472,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.08 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 22:13:45",
+          "data_hora_posicao": "27/11/2026 22:29:45",
           "lat": -26.8878368,
           "lon": -48.7236416
         },
@@ -477,7 +492,7 @@
         "grupo_origem": "Itajaí",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 22:14:32",
+          "data_hora_posicao": "27/11/2026 22:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -497,7 +512,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.06 km de POSTO SIM SANTA ROSA - ITAJAI/SC",
-          "data_hora_posicao": "27/11/2026 22:14:32",
+          "data_hora_posicao": "27/11/2026 22:28:32",
           "lat": -26.8876416,
           "lon": -48.723888
         },
@@ -523,6 +538,32 @@
       }
     }
   },
+  "TBO": {
+    "veiculos": [
+      {
+        "manif": "GRU075241-0",
+        "origin_unit": "GRU",
+        "origin_city": "GUARULHOS/SP",
+        "dest_unit": "TBO",
+        "dest_city": "TIMBO/SC",
+        "placa": "RKX5I33",
+        "motorista": "REGINALDO ALAN ROHWEDER",
+        "peso_real_kg": 4610.55,
+        "frete_rs": 6560.07,
+        "grupo_origem": "Guarulhos",
+        "posicao_raster": null,
+        "distancia_km": null,
+        "proximo": false
+      }
+    ],
+    "por_origem": {
+      "Guarulhos": {
+        "peso_kg": 4610.55,
+        "frete_rs": 6560.07,
+        "qtde": 1
+      }
+    }
+  },
   "JCB": {
     "veiculos": [
       {
@@ -538,7 +579,7 @@
         "grupo_origem": "Rio do Sul",
         "posicao_raster": {
           "referencia": "0.04 km de MATRIZ  MIRIN - RIO DO SUL/SC",
-          "data_hora_posicao": "27/11/2026 22:12:02",
+          "data_hora_posicao": "27/11/2026 22:28:02",
           "lat": -27.2059755,
           "lon": -49.648887
         },
@@ -554,5 +595,5 @@
       }
     }
   },
-  "_gerado_em": "2026-11-27T22:17:30"
+  "_gerado_em": "2026-11-27T22:32:23"
 }
